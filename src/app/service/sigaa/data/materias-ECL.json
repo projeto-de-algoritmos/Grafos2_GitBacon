@@ -1,0 +1,3405 @@
+[
+  {
+    "cod": "ICB0235",
+    "nome": "A CI\u00caNCIA E SUA FUN\u00c7\u00c3O SOCIAL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0274",
+    "nome": "ANATOMIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0243",
+    "nome": "BIOESTAT\u00cdSITCA 1 - EAD",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0281",
+    "nome": "BIOESTAT\u00cdSTICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0031",
+    "nome": "BIOF\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0059",
+      "ICB0383"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0271",
+    "nome": "BIOINDICADORES EM ECOSSISTEMAS AQU\u00c1TICOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0067",
+    "nome": "BIOLOGIA DOS ANF\u00cdBIOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0015",
+    "nome": "BIOLOGIA MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0369"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0020",
+    "nome": "BIOLOGIA QUANTITATIVA",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0372"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0287",
+    "nome": "BIOQU\u00cdMICA FUNDAMENTAL",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0509"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0258",
+    "nome": "C\u00c1LCULO 1",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0483"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0249",
+    "nome": "CICLO CELULAR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0248",
+    "nome": "CI\u00caNCIAS BIOL\u00d3GICAS: EPISTEMOLOGIA E \u00c9TICA",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0056",
+    "nome": "CI\u00caNCIAS DO AMBIENTE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0273",
+    "nome": "CITOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0495"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0268",
+    "nome": "CONSERVA\u00c7\u00c3O EX SITU",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0491"
+    ],
+    "pre_requirements": [
+      "ECL0017",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ICB0225",
+    "nome": "CONTEXTO DA VIDA (BLOCO 1)",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0226",
+    "nome": "CONTEXTO DA VIDA (BLOCO 2)",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0227",
+    "nome": "CONTEXTO DA VIDA (BLOCO 3)",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0228",
+    "nome": "CONTEXTO DA VIDA (BLOCO 4)",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0250",
+    "nome": "DESENVOLVIMENTO EMBRION\u00c1RIO E EVOLU\u00c7\u00c3O EM ANIMAIS E VEGETAIS 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0251",
+    "nome": "DESENVOLVIMENTO EMBRION\u00c1RIO E EVOLU\u00c7\u00c3O EM ANIMAIS E VEGETAIS 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0242",
+    "nome": "DESENVOLVIMENTO HUMANO",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0310",
+    "nome": "DIAGNOSE DE DOEN\u00c7AS DE PLANTAS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0532"
+    ],
+    "pre_requirements": [
+      "FIT0019",
+      "FIT0003",
+      "CEL0111"
+    ]
+  },
+  {
+    "cod": "ICB0043",
+    "nome": "DID\u00c1TICA DA BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0049",
+      "ICB0210",
+      "ICB0331"
+    ],
+    "pre_requirements": [
+      "TEF0011"
+    ]
+  },
+  {
+    "cod": "ICB0017",
+    "nome": "DID\u00c1TICA DA BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0371"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0042",
+    "nome": "DID\u00c1TICA DAS CI\u00caNCIAS NATURAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0045",
+      "ICB0208",
+      "ICB0330"
+    ],
+    "pre_requirements": [
+      "TEF0011"
+    ]
+  },
+  {
+    "cod": "ICB0288",
+    "nome": "DID\u00c1TICA DAS CI\u00caNCIAS NATURAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0510"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0097",
+    "nome": "DIN\u00c2MICA DA CONSTRU\u00c7\u00c3O DO CONHECIMENTO CIENTIFICO",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0080",
+      "ICB0433"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0028",
+    "nome": "DIN\u00c2MICA DA CONSTRU\u00c7\u00c3O DO CONHECIMENTO CIENT\u00cdFICO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0272",
+    "nome": "DIVERSIDADE MICROBIANA 2",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0494"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0286",
+    "nome": "ECOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0508"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0255",
+    "nome": "ECOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0290",
+    "nome": "EDUCA\u00c7\u00c3O AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0077",
+    "nome": "EDUCA\u00c7\u00c3O  AMBIENTAL SUSTENT\u00c1VEL",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0246",
+    "nome": "EDUCA\u00c7\u00c3O AO LONGO DO TEMPO",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0092",
+    "nome": "EDUCA\u00c7\u00c3O PARA A SA\u00daDE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0041",
+    "nome": "ELEMENTOS DA PR\u00c1TICA EDUCACIONAL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0262",
+    "nome": "ELEMENTOS DA PR\u00c1TICA EDUCACIONAL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0014",
+    "nome": "EMBRIOLOGIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0368"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0296",
+    "nome": "ENSINO INCLUSIVO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0074",
+    "nome": "EST\u00c1GIO EM BIOLOGIA - BACHARELADO",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0415"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0036",
+    "nome": "EST\u00c1GIO EM BOT\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0027",
+    "nome": "EST\u00c1GIO EM ECOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0230",
+    "nome": "EST\u00c1GIO EM EXTENS\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0232",
+      "ICB0336"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0021",
+    "nome": "EST\u00c1GIO EM EXTENS\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0023",
+    "nome": "EST\u00c1GIO EM EXTENS\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0232",
+    "nome": "EST\u00c1GIO EM EXTENS\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0351"
+    ],
+    "pre_requirements": [
+      "ICB0230"
+    ]
+  },
+  {
+    "cod": "ICB0024",
+    "nome": "EST\u00c1GIO EM EXTENS\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0223",
+    "nome": "EST\u00c1GIO EM ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0450"
+    ],
+    "pre_requirements": [
+      "ICB0205"
+    ]
+  },
+  {
+    "cod": "ICB0026",
+    "nome": "EST\u00c1GIO EM ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0069",
+    "nome": "ESTAGIO SUPERVISIONADO 1 EM CIENCIAS BIOLOGICAS BACHARELADO",
+    "ch": 150,
+    "post_requirements": [
+      "ICB0413"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0071",
+    "nome": "ESTAGIO SUPERVISIONADO 2 EM CIENCIAS BIOLOGICAS BACHARELADO",
+    "ch": 150,
+    "post_requirements": [
+      "ICB0414"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0204",
+    "nome": "ESTAGIO SUPERVISIONADO EM BIOLOGIA",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0444"
+    ],
+    "pre_requirements": [
+      "ICB0202"
+    ]
+  },
+  {
+    "cod": "ICB0214",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM BIOLOGIA 1 - BACHAREL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0219",
+      "ICB0349",
+      "ICB0316"
+    ],
+    "pre_requirements": [
+      "ECL0042 & BOT0044 & CEL0054 & ZOO0017",
+      "ECL0033 & BOT0044 & CEL0054 & ZOO0017"
+    ]
+  },
+  {
+    "cod": "ICB0219",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM BIOLOGIA 2 - BACHAREL",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0350"
+    ],
+    "pre_requirements": [
+      "ICB0214",
+      "ICB0315"
+    ]
+  },
+  {
+    "cod": "ICB0177",
+    "nome": "ESTAGIO SUPERVISIONADO EM BIOLOGIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0346"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0173",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM CI\u00caNCIAS BIOL\u00d3GICAS - LICENCIATURA",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0438"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0203",
+    "nome": "ESTAGIO SUPERVISIONADO EM CIENCIAS FISICAS E BIOLOGICAS",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0443"
+    ],
+    "pre_requirements": [
+      "ICB0201"
+    ]
+  },
+  {
+    "cod": "ICB0086",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE BIOLOGIA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0087",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE BIOLOGIA 2",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0090",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIA 2",
+    "ch": 105,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0291",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0088",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0301",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS E BIOLOGIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0302",
+      "ICB0306",
+      "ICB0523"
+    ],
+    "pre_requirements": [
+      "ICB0042  &  ICB0043"
+    ]
+  },
+  {
+    "cod": "ICB0302",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS E BIOLOGIA 2",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0303",
+      "ICB0524"
+    ],
+    "pre_requirements": [
+      "ICB0301"
+    ]
+  },
+  {
+    "cod": "ICB0303",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS E BIOLOGIA 3",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0304",
+      "ICB0308",
+      "ICB0338"
+    ],
+    "pre_requirements": [
+      "ICB0302",
+      "ICB0208"
+    ]
+  },
+  {
+    "cod": "ICB0304",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS E BIOLOGIA 4",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0526"
+    ],
+    "pre_requirements": [
+      "ICB0303"
+    ]
+  },
+  {
+    "cod": "ICB0035",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM FITOPATOLOGIA",
+    "ch": 75,
+    "post_requirements": [
+      "ICB0387"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0009",
+    "nome": "EST\u00c1GIO SUPERVISIONADO NO ENSINO DE BIOLOGIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0210",
+    "nome": "EST\u00c1GIO SUPERVISIONADO NO ENSINO DE BIOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0335"
+    ],
+    "pre_requirements": [
+      "ICB0202",
+      "ICB0043"
+    ]
+  },
+  {
+    "cod": "ICB0208",
+    "nome": "EST\u00c1GIO SUPERVISIONADO NO ENSINO DE CI\u00caNCIAS",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0303",
+      "ICB0348"
+    ],
+    "pre_requirements": [
+      "ICB0201",
+      "ICB0042"
+    ]
+  },
+  {
+    "cod": "ICB0093",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0094",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0265",
+    "nome": "ETNOBIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0488"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0010",
+    "nome": "EVOLU\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0058",
+    "nome": "EVOLU\u00c7\u00c3O HUMANA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0080",
+    "nome": "FILOSOFIA DA BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0420"
+    ],
+    "pre_requirements": [
+      "ICB0097",
+      "ICB0081",
+      "GEM0049",
+      "GEM0018",
+      "FIL0059"
+    ]
+  },
+  {
+    "cod": "ICB0244",
+    "nome": "FILOSOFIA E HIST\u00d3RIA DAS CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0260",
+    "nome": "FILOSOFIA E HIST\u00d3RIA DAS CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0485"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0158",
+    "nome": "FISIOLOGIA ANIMAL",
+    "ch": 180,
+    "post_requirements": [
+      "ICB0437"
+    ],
+    "pre_requirements": [
+      "CFS0007"
+    ]
+  },
+  {
+    "cod": "ICB0029",
+    "nome": "FISIOLOGIA ANIMAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0381"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0011",
+    "nome": "FISIOLOGIA ANIMAL 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0030",
+    "nome": "FISIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0382"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0237",
+    "nome": "FLUXOS DE MAT\u00c9RIA E ENERGIA NA BIOSFERA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0276",
+    "nome": "FUNDAMENTOS DA HIST\u00d3RIA DA TERRA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0498"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0013",
+    "nome": "FUNDAMENTOS DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0297",
+    "nome": "FUNDAMENTOS DE FISIOLOGIA ANIMAL",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0519",
+      "CFS0086"
+    ],
+    "pre_requirements": [
+      "CFS0021  &  CEL0082"
+    ]
+  },
+  {
+    "cod": "ICB0298",
+    "nome": "FUNDAMENTOS DE MICROBIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0520"
+    ],
+    "pre_requirements": [
+      "CEL0089  &  CEL0082"
+    ]
+  },
+  {
+    "cod": "ICB0299",
+    "nome": "FUNDAMENTOS DE PARASITOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0521"
+    ],
+    "pre_requirements": [
+      "ZOO0013"
+    ]
+  },
+  {
+    "cod": "ICB0284",
+    "nome": "FUNDAMENTOS DO DESENVOLVIMENTO E DA APRENDIZAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0300",
+    "nome": "FUNDAMENTOS EM BIOLOGIA MOLECULAR",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0522"
+    ],
+    "pre_requirements": [
+      "CEL0082"
+    ]
+  },
+  {
+    "cod": "ICB0278",
+    "nome": "GEN\u00c9TICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0266",
+    "nome": "GEST\u00c3O DE DADOS E COLE\u00c7\u00d5ES DE HIST\u00d3RIA NATURAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0285",
+    "nome": "HISTOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0143",
+    "nome": "HISTOLOGIA ANIMAL 1",
+    "ch": 75,
+    "post_requirements": [
+      "ICB0144",
+      "FMD0071",
+      "FMD0093",
+      "FMD0095",
+      "FMD0151",
+      "FMD0152",
+      "ICB0435"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0144",
+    "nome": "HISTOLOGIA ANIMAL 2",
+    "ch": 120,
+    "post_requirements": [
+      "ICB0436"
+    ],
+    "pre_requirements": [
+      "ICB0143"
+    ]
+  },
+  {
+    "cod": "ICB0081",
+    "nome": "HIST\u00d3RIA DA BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0289",
+    "nome": "ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0205",
+    "nome": "ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0076",
+      "ICB0221",
+      "ICB0223",
+      "ICB0327",
+      "ICB0328",
+      "ICB0329",
+      "ICB0347"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0076",
+    "nome": "ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA APLICADA \u00c0 PR\u00c1TICA DE CAMPO",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0417"
+    ],
+    "pre_requirements": [
+      "ICB0205"
+    ]
+  },
+  {
+    "cod": "ICB0064",
+    "nome": "ILUSTRA\u00c7\u00c3O CIENTIFICA NO PROCESSO DE ENSINO E APRENDIZAGEM",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0034",
+    "nome": "IMUNOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0386"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0253",
+    "nome": "INTRODU\u00c7\u00c3O A ANATOMIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0478"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0261",
+    "nome": "INTRODU\u00c7\u00c3O A BIOLOGIA EVOLUTIVA",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0486"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0060",
+    "nome": "INTRODU\u00c7\u00c3O A BIOLOGIA MARINHA",
+    "ch": 75,
+    "post_requirements": [
+      "ICB0407"
+    ],
+    "pre_requirements": [
+      "ICB0275 & ICB0256"
+    ]
+  },
+  {
+    "cod": "ICB0022",
+    "nome": "INTRODU\u00c7\u00c3O AO PROCESSAMENTO DE SINAIS BIOL\u00d3GICOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0055",
+    "nome": "INVAS\u00d5ES BIOL\u00d3GICAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0267",
+    "nome": "INVENT\u00c1RIOS BIOL\u00d3GICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0490"
+    ],
+    "pre_requirements": [
+      "ZOO0049 & BOT0078"
+    ]
+  },
+  {
+    "cod": "ICB0040",
+    "nome": "LABORAT\u00d3RIO DE ENSINO DE CI\u00caNCIAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0292",
+    "nome": "LIMNOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0327",
+    "nome": "MATERIAIS EM ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0533"
+    ],
+    "pre_requirements": [
+      "ICB0205"
+    ]
+  },
+  {
+    "cod": "ICB0234",
+    "nome": "METODOLOGIA CIENT\u00cdFICA PARA A BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0202",
+    "nome": "METODOLOGIA DE ENSINO DE BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0204",
+      "ICB0210",
+      "ICB0442"
+    ],
+    "pre_requirements": [
+      "TEF0011 & MTC0012",
+      "TEF0011 & ICB0244"
+    ]
+  },
+  {
+    "cod": "ICB0201",
+    "nome": "METODOLOGIA DE ENSINO DE CIENCIAS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0203",
+      "ICB0208",
+      "ICB0441",
+      "ICB0311"
+    ],
+    "pre_requirements": [
+      "MTC0012 & TEF0011",
+      "ICB0244 & TEF0011"
+    ]
+  },
+  {
+    "cod": "ICB0089",
+    "nome": "METODOLOGIA DE ENSINO DE CI\u00caNCIAS E BIOLOGIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0025",
+    "nome": "M\u00c9TODOS EM BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0179",
+    "nome": "METODOS EM BIOLOGIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0440"
+    ],
+    "pre_requirements": [
+      "CEL0088"
+    ]
+  },
+  {
+    "cod": "ICB0254",
+    "nome": "MICROBIOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0002",
+    "nome": "M\u00d3D 2 - PROC BIOL NA CAPTA\u00c7\u00c3O E NA TRANS DA MAT\u00c9RIA E ENER",
+    "ch": 390,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0269",
+    "nome": "MODELAGEM DE SISTEMAS ECOL\u00d3GICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0492"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0017"
+    ]
+  },
+  {
+    "cod": "ICB0003",
+    "nome": "M\u00d3DULO 3 - PROCESSOS MANUTEN\u00c7\u00c3O DA VIDA",
+    "ch": 375,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0004",
+    "nome": "M\u00d3DULO 4 - DESENVOLVIMENTO E CRESCIMENTO",
+    "ch": 375,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0005",
+    "nome": "M\u00d3DULO 5 - PROCESSOS REPRODUTIVOS",
+    "ch": 405,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0006",
+    "nome": "M\u00d3DULO 6 - MECANISMOS DE AJUSTAMENTO AMBIENTAL E COLONIZA\u00c7\u00c3O",
+    "ch": 405,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0007",
+    "nome": "M\u00d3DULO 7 - SOLU\u00c7\u00d5ES ADAPTATIVAS E FILOGENIA",
+    "ch": 420,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0008",
+    "nome": "M\u00d3DULO 8 - PROCESSOS EMERGENTES E BIODIVERSIDADE",
+    "ch": 435,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0224",
+    "nome": "MONOGRAFIA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0275",
+    "nome": "MORFOLOGIA DAS TAXONOMIA CRIPTOGAMAS",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0497"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0098",
+    "nome": "MORFOLOGIA E TAXONOMIA VEGETAL",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0016",
+    "nome": "ORGANOGRAFIA E SISTEM\u00c1TICA FANEROF\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0370"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0032",
+    "nome": "PARASITOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0062",
+    "nome": "PESQUISA EM BIOF\u00cdSICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0012",
+    "nome": "PESQUISA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0079",
+    "nome": "PESQUISA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0343"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0037",
+    "nome": "PESQUISA EM IMUNOLOGIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0049",
+    "nome": "PR\u00c1TICA DE EDUCA\u00c7\u00c3O EM BIOLOGIA 1",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0051",
+      "ICB0333"
+    ],
+    "pre_requirements": [
+      "ICB0043"
+    ]
+  },
+  {
+    "cod": "ICB0051",
+    "nome": "PR\u00c1TICA DE EDUCA\u00c7\u00c3O EM BIOLOGIA 2",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0334"
+    ],
+    "pre_requirements": [
+      "ICB0049"
+    ]
+  },
+  {
+    "cod": "ICB0045",
+    "nome": "PR\u00c1TICA DE EDUCA\u00c7\u00c3O EM CI\u00caNCIAS 1",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0047",
+      "ICB0332"
+    ],
+    "pre_requirements": [
+      "ICB0042"
+    ]
+  },
+  {
+    "cod": "ICB0047",
+    "nome": "PR\u00c1TICA DE EDUCA\u00c7\u00c3O EM CI\u00caNCIAS 2",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0341"
+    ],
+    "pre_requirements": [
+      "ICB0045"
+    ]
+  },
+  {
+    "cod": "ICB0282",
+    "nome": "PR\u00c1TICAS DE EDUCA\u00c7\u00c3O EM BIOLOGIA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0293",
+    "nome": "PR\u00c1TICAS DE EDUCA\u00c7\u00c3O EM BIOLOGIA 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0252",
+    "nome": "PR\u00c1TICAS DE EDUCA\u00c7\u00c3O EM CI\u00caNCIAS 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0257",
+    "nome": "PR\u00c1TICAS DE EDUCA\u00c7\u00c3O EM CI\u00caNCIAS 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0280",
+    "nome": "PR\u00c1TICAS DE EDUCA\u00c7\u00c3O EM CI\u00caNCIAS 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0305",
+    "nome": "PR\u00c1TICAS DE EDUCA\u00c7\u00c3O PARA A DIVERSIDADE NO ENSINO DE BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0306",
+    "nome": "PR\u00c1TICAS DE ENSINO E PESQUINA NA EDUCA\u00c7\u00c3O B\u00c1SICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0528"
+    ],
+    "pre_requirements": [
+      "ICB0301"
+    ]
+  },
+  {
+    "cod": "ICB0063",
+    "nome": "PR\u00c1TICAS EM CI\u00caNCIAS AMBIENTAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0307",
+    "nome": "PR\u00c1TICAS EM NOVAS TECNOLOGIAS DE ENSINO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0247",
+    "nome": "PRESSUPOSTOS TE\u00d3RICOS-PR\u00c1TICOS DA FORMA\u00c7\u00c3O E ATIVIDADE DOCENTE",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0236",
+    "nome": "PROCESSOS BIOQU\u00cdMICOS CAPTA\u00c7\u00c3O E TRANSFORMA\u00c7\u00c3O DE MAT\u00c9RIA E ENERGIA",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0240",
+    "nome": "PROCESSOS DE MANUTEN\u00c7\u00c3O DA VIDA 1",
+    "ch": 165,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0239",
+    "nome": "PROCESSOS DE MANUTEN\u00c7\u00c3O DA VIDA 2",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0238",
+    "nome": "PROCESSOS FISIOL\u00d3GICOS CAPTA\u00c7\u00c3O E TRANSFORMA\u00c7\u00c3O  MAT\u00c9RIA E ENERGIA",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0054",
+    "nome": "PROJETO DE PESQUISA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0401"
+    ],
+    "pre_requirements": [
+      "ICB0291",
+      "ICB0009"
+    ]
+  },
+  {
+    "cod": "ICB0053",
+    "nome": "PROJETO DE PESQUISA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0342"
+    ],
+    "pre_requirements": [
+      "ICB0208 & ICB0210"
+    ]
+  },
+  {
+    "cod": "ICB0308",
+    "nome": "PROJETO DE PESQUISA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0309",
+      "ICB0530"
+    ],
+    "pre_requirements": [
+      "ICB0303"
+    ]
+  },
+  {
+    "cod": "ICB0309",
+    "nome": "PROJETO DE PESQUISA EM EDUCA\u00c7\u00c3O CIENT\u00cdFICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "ICB0531"
+    ],
+    "pre_requirements": [
+      "ICB0308"
+    ]
+  },
+  {
+    "cod": "ICB0259",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA FUNDAMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0484"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0075",
+    "nome": "SEGURAN\u00c7A EM CAMPO E LABORAT\u00d3RIO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0245",
+    "nome": "SEMIN\u00c1RIOS EM BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0277",
+    "nome": "SEMIN\u00c1RIOS EM BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0328",
+    "nome": "T\u00c9CNICAS AVAN\u00c7ADAS DE ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0534"
+    ],
+    "pre_requirements": [
+      "ICB0205"
+    ]
+  },
+  {
+    "cod": "ICB0233",
+    "nome": "TEORIAS DO CONHECIMENTO E DA APRENDIZAGEM 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0241",
+    "nome": "TEORIAS DO CONHECIMENTO E DA APRENDIZAGEM 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0061",
+    "nome": "T\u00d3PICOS EM BIOF\u00cdSICA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0283",
+    "nome": "T\u00d3PICOS EM BIOLOGIA EVOLUTIVA EM GEN\u00c9TICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0059",
+    "nome": "T\u00d3PICOS EM BIOQU\u00cdMICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0406"
+    ],
+    "pre_requirements": [
+      "ICB0031"
+    ]
+  },
+  {
+    "cod": "ICB0329",
+    "nome": "T\u00d3PICOS EM ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0535"
+    ],
+    "pre_requirements": [
+      "ICB0205"
+    ]
+  },
+  {
+    "cod": "ICB0096",
+    "nome": "T\u00d3PICOS EM ILUSTRA\u00c7\u00c3O CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0085",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ENSINO DE BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0423"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0083",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ENSINO DE CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [
+      "ICB0345"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0294",
+    "nome": "T\u00d3PICOS ESPECIAIS EM FISIOLOGIA ANIMAL COMPARADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0038",
+    "nome": "T\u00d3PICOS ESPECIAIS ENSINO DE BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0039",
+    "nome": "T\u00d3PICOS ESPECIAIS ENSINO DE CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0057",
+    "nome": "USO DE TIC NO CURSO DE BIOLOGIA A DIST\u00c2NCIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0033",
+    "nome": "VENENOS ANIMAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0295",
+    "nome": "VIROLOGIA GERAL COMPARADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0256",
+    "nome": "ZOOLOGIA INVERTEBRADOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ICB0279",
+    "nome": "ZOOLOGIA VERTEBRADOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0064",
+    "nome": "ADAPATA\u00c7\u00d5ES DAS PLANTAS AO MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0019",
+    "nome": "ALGAS CONTINENTAIS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0059",
+      "BOT0171"
+    ],
+    "pre_requirements": [
+      "BOT0020",
+      "BOT0078"
+    ]
+  },
+  {
+    "cod": "BOT0054",
+    "nome": "ANATOMIA COMPARADA DA MADEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0195"
+    ],
+    "pre_requirements": [
+      "BOT0006"
+    ]
+  },
+  {
+    "cod": "BOT0006",
+    "nome": "ANATOMIA DAS MADEIRAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0026",
+      "BOT0054",
+      "BOT0142",
+      "BOT0079"
+    ],
+    "pre_requirements": [
+      "BOT0004",
+      "BOT0042"
+    ]
+  },
+  {
+    "cod": "BOT0042",
+    "nome": "ANATOMIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0006",
+      "BOT0184"
+    ],
+    "pre_requirements": [
+      "BOT0020 & BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0023",
+    "nome": "ANATOMIA VEGETAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0024",
+      "BOT0174"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0021"
+    ]
+  },
+  {
+    "cod": "BOT0024",
+    "nome": "ANATOMIA VEGETAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0026",
+      "BOT0033",
+      "BOT0038",
+      "BOT0175",
+      "BOT0079",
+      "BOT0081",
+      "BOT0084"
+    ],
+    "pre_requirements": [
+      "BOT0023"
+    ]
+  },
+  {
+    "cod": "BOT0059",
+    "nome": "BIOLOGIA DAS DIATOM\u00c1CEAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0199"
+    ],
+    "pre_requirements": [
+      "BOT0019"
+    ]
+  },
+  {
+    "cod": "BOT0050",
+    "nome": "BIOLOGIA REPRODUTIVA E POLINIZA\u00c7\u00c3O DE ANGIOSPERMAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0191"
+    ],
+    "pre_requirements": [
+      "BOT0049",
+      "BOT0021",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0063",
+    "nome": "BIOTECNOLOGIA DE PLANTAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0066",
+    "nome": "BOT\u00c2NICA DOS BIOMAS BRASILEIROS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0014",
+    "nome": "BOTANICA ECONOMICA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0167"
+    ],
+    "pre_requirements": [
+      "BOT0021",
+      "BOT0055",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0058",
+    "nome": "BOT\u00c2NICA EM CAMPO",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0198"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0015",
+    "nome": "BOTANICA EVOLUTIVA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0168"
+    ],
+    "pre_requirements": [
+      "BOT0020 & BOT0021",
+      "ICB0098",
+      "BOT0020 & BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0016",
+    "nome": "CITOGENETICA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0169"
+    ],
+    "pre_requirements": [
+      "GEM0014"
+    ]
+  },
+  {
+    "cod": "BOT0062",
+    "nome": "COLETA E INVENT\u00c1RIO DE FITODIVERSIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0202"
+    ],
+    "pre_requirements": [
+      "BOT0049",
+      "BOT0021",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0009",
+    "nome": "CRESCIMENTO E DESENVOLVIMENTO VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0164"
+    ],
+    "pre_requirements": [
+      "CEL0082  &  BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0017",
+    "nome": "CULTURA DE TECIDOS DE PLANTAS",
+    "ch": 45,
+    "post_requirements": [
+      "BOT0151"
+    ],
+    "pre_requirements": [
+      "BOT0008",
+      "BOT0071"
+    ]
+  },
+  {
+    "cod": "BOT0078",
+    "nome": "DIVERSIDADE VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAV0024",
+      "ZOO0005",
+      "BOT0019",
+      "FAV0064",
+      "BOT0148"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0017",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "BOT0013",
+    "nome": "ESTAGIO EM BOTANICA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0150"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0026",
+    "nome": "ESTAGIO EM ESTRUTURA MACRO E MICROSCOPICA DA MADEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0152"
+    ],
+    "pre_requirements": [
+      "BOT0006",
+      "BOT0004",
+      "BOT0024"
+    ]
+  },
+  {
+    "cod": "BOT0140",
+    "nome": "ESTAGIO EM INFORMATICA APLICADA A BOTANICA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0215"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0040",
+    "nome": "ESTAGIO EM TAXONOMIA DAS ALGAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0183"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0035",
+    "nome": "ESTAGIO EM TECNICAS DE HERBARIO",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0154"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0030",
+    "nome": "ESTAGIO EM TECNICAS MICROSCOPICAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0178"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0052",
+    "nome": "ESTRUTURA E FUNCIONAMENTO DE MERISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0193"
+    ],
+    "pre_requirements": [
+      "BOT0004 & CEL0054",
+      "BOT0042 & CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0053",
+    "nome": "ESTRUTURA E ULTRAESTRUTURA DA C\u00c9LULA VEGETAL",
+    "ch": 0,
+    "post_requirements": [
+      "BOT0194"
+    ],
+    "pre_requirements": [
+      "CEL0089 & CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0056",
+    "nome": "ETNOBOT\u00c2NICA DO CERRADO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0047",
+    "nome": "FISIOLOGIA DA FLORACAO",
+    "ch": 30,
+    "post_requirements": [
+      "BOT0188"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0048",
+    "nome": "FISIOLOGIA DA GERMINACAO DAS SEMENTES",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0149"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0045",
+    "nome": "FISIOLOGIA DE ESTRESSES AMBIENTAIS EM PLANTAS",
+    "ch": 45,
+    "post_requirements": [
+      "BOT0186"
+    ],
+    "pre_requirements": [
+      "BOT0008"
+    ]
+  },
+  {
+    "cod": "BOT0069",
+    "nome": "FISIOLOGIA DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0008",
+    "nome": "FISIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0017",
+      "BOT0045",
+      "CDS0004",
+      "FAV0064",
+      "FAV0222",
+      "EFL0021",
+      "EFL0072",
+      "FAV0253",
+      "BOT0143",
+      "EFL0144"
+    ],
+    "pre_requirements": [
+      "CEL0054 & BOT0004",
+      "CEL0054 & BOT0042"
+    ]
+  },
+  {
+    "cod": "BOT0004",
+    "nome": "INTRODUCAO A ANATOMIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0006",
+      "BOT0026",
+      "BOT0033",
+      "BOT0038",
+      "BOT0061",
+      "BOT0141",
+      "BOT0079",
+      "BOT0081",
+      "BOT0084"
+    ],
+    "pre_requirements": [
+      "BOT0049",
+      "BOT0021",
+      "BOT0044",
+      "ICB0250",
+      "ICB0251"
+    ]
+  },
+  {
+    "cod": "BOT0061",
+    "nome": "MERISTEMAS E DESENVOLVIMENTO VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0201"
+    ],
+    "pre_requirements": [
+      "BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0071",
+    "nome": "METABOLISMO E DESENVOLVIMENTO VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0017",
+      "BOT0146"
+    ],
+    "pre_requirements": [
+      "BOT0078 & CEL0089 & CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0068",
+    "nome": "METABOLISMO VEGETAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0005",
+    "nome": "MICROTECNICA VEGETAL",
+    "ch": 45,
+    "post_requirements": [
+      "BOT0161"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0020",
+    "nome": "MORFOLOGIA E TAXONOMIA DAS CRIPTOGAMAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0003",
+      "BOT0019",
+      "BOT0144"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0021",
+    "nome": "MORFOLOGIA E TAXONOMIA DAS FANEROGAMAS",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0001",
+      "BOT0004",
+      "BOT0010",
+      "BOT0014",
+      "BOT0023",
+      "BOT0046",
+      "BOT0050",
+      "BOT0062",
+      "BOT0173"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0049",
+    "nome": "MORFOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0044",
+    "nome": "ORGANOGRAFIA E SISTEM\u00c1TICA FANEROF\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0004",
+      "BOT0014",
+      "BOT0046",
+      "BOT0050",
+      "BOT0062",
+      "FAV0064",
+      "BOT0145"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0010",
+    "nome": "PALINOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0165"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0021"
+    ]
+  },
+  {
+    "cod": "BOT0038",
+    "nome": "PESQUISA EM ANATOMIA DAS PLANTAS DO CERRADO",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0182"
+    ],
+    "pre_requirements": [
+      "BOT0024",
+      "BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0075",
+    "nome": "PESQUISA EM BOT\u00c2NICA",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0156"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0032",
+    "nome": "PESQUISA EM FISIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0153"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0033",
+    "nome": "PESQUISA EM MORFOLOGIA E ANATOMIA DOS SISTEMAS SUBTERRANEOS DO CERRADO",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0180"
+    ],
+    "pre_requirements": [
+      "BOT0024",
+      "BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0028",
+    "nome": "PESQUISA EM VEGETACAO",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0177"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0067",
+    "nome": "PR\u00c1TICA DE FISIOLOGIA VEGETAL APLICADAS AO ENSINO M\u00c9DIO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0003",
+    "nome": "SISTEMATICA DE BRIOFITAS E PTERIDOFITAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0159"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0020",
+      "BOT0049 & BOT0055"
+    ]
+  },
+  {
+    "cod": "BOT0060",
+    "nome": "SISTEM\u00c1TICA DE FANER\u00d3GAMAS",
+    "ch": 0,
+    "post_requirements": [
+      "BOT0200"
+    ],
+    "pre_requirements": [
+      "BOT0049"
+    ]
+  },
+  {
+    "cod": "BOT0065",
+    "nome": "SISTEM\u00c1TICA DE PTERID\u00d3FITAS",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0205"
+    ],
+    "pre_requirements": [
+      "BOT0049"
+    ]
+  },
+  {
+    "cod": "BOT0001",
+    "nome": "SISTEMATICA DOS VEGETAIS SUPERIORES",
+    "ch": 90,
+    "post_requirements": [
+      "BOT0158"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0021"
+    ]
+  },
+  {
+    "cod": "BOT0055",
+    "nome": "SISTEM\u00c1TICA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0014",
+      "BOT0046",
+      "BOT0196"
+    ],
+    "pre_requirements": [
+      "BOT0049"
+    ]
+  },
+  {
+    "cod": "BOT0051",
+    "nome": "TAXONOMIA DE FANEROGAMOS",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0077",
+    "nome": "T\u00d3PICOS EM BOT\u00c2NICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "BOT0157"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0073",
+    "nome": "T\u00d3PICOS EM BOT\u00c2NICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0155"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0046",
+    "nome": "VEGETACAO DO CERRADO",
+    "ch": 60,
+    "post_requirements": [
+      "BOT0187"
+    ],
+    "pre_requirements": [
+      "BOT0021",
+      "BOT0055",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "CFS0021",
+    "nome": "ANATOMIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0056",
+    "nome": "ANATOMIA ANIMAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0106"
+    ],
+    "pre_requirements": [
+      "CFS0021",
+      "FAV0236 & FAV0066"
+    ]
+  },
+  {
+    "cod": "CFS0052",
+    "nome": "BASES BIOL\u00d3GICAS DA REPRODU\u00c7\u00c3O EM MAM\u00cdFEROS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0034",
+    "nome": "BIOLOGIA DE ANFIBIOS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0090"
+    ],
+    "pre_requirements": [
+      "ZOO0017"
+    ]
+  },
+  {
+    "cod": "CFS0059",
+    "nome": "CI\u00caNCIA E EXPERIMENTA\u00c7\u00c3O DE ANIMAIS DE LABORAT\u00d3RIO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0037",
+    "nome": "ELEMENTOS DE FISIOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0023",
+      "CFS0032",
+      "CFS0033",
+      "CFS0039",
+      "CFS0044",
+      "CFS0050",
+      "CFS0054",
+      "FAR0125",
+      "FCE0384",
+      "FAR0184",
+      "CFS0062",
+      "CFS0086",
+      "FAR0253"
+    ],
+    "pre_requirements": [
+      "GEM0023 & CEL0063 & FMD0510",
+      "CEL0067 & GEM0023 & FMD0510",
+      "GEM0041 & CEL0063 & FMD0510",
+      "CEL0067 & GEM0041 & FMD0510",
+      "GEM0023 & CEL0082 & CEL0083 & FMD0510",
+      "CEL0067 & FMD0510 & CEL0089",
+      "GEM0062 & FMD0510 & CEL0067",
+      "CEL0054 & FMD0510 & GEM0041",
+      "CEL0054 & FMD0510 & GEM0062"
+    ]
+  },
+  {
+    "cod": "CFS0039",
+    "nome": "ELEMENTOS DE FISIOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0137",
+      "CFS0063"
+    ],
+    "pre_requirements": [
+      "CFS0037",
+      "CFS0007",
+      "CFS0041"
+    ]
+  },
+  {
+    "cod": "CFS0016",
+    "nome": "ESTAGIO EM TERMOBIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0080"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0045",
+    "nome": "EXPERIMENTACAO EM FISIOLOGIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0097"
+    ],
+    "pre_requirements": [
+      "CFS0010",
+      "FAV0052",
+      "CFS0048",
+      "CFS0055"
+    ]
+  },
+  {
+    "cod": "CFS0055",
+    "nome": "FISIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0001",
+      "CFS0023",
+      "CFS0045",
+      "CFS0054",
+      "FAR0184",
+      "CFS0064",
+      "CFS0086"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "CFS0053",
+    "nome": "FISIOLOGIA ANIMAL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0048",
+    "nome": "FISIOLOGIA ANIMAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0023",
+      "CFS0032",
+      "CFS0033",
+      "CFS0044",
+      "CFS0045",
+      "CFS0049",
+      "CFS0050",
+      "CFS0054",
+      "FAR0184",
+      "CFS0069",
+      "CFS0086"
+    ],
+    "pre_requirements": [
+      "CFS0021 & CEL0054"
+    ]
+  },
+  {
+    "cod": "CFS0049",
+    "nome": "FISIOLOGIA ANIMAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAV0245",
+      "CFS0070"
+    ],
+    "pre_requirements": [
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0010",
+    "nome": "FISIOLOGIA DOS SISTEMAS 1",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0011",
+      "FMD0075",
+      "CFS0032",
+      "CFS0033",
+      "CFS0045",
+      "FAR0125",
+      "FAR0184",
+      "CFS0076"
+    ],
+    "pre_requirements": [
+      "CEL0023 & GEM0022",
+      "CEL0094",
+      "GEM0022"
+    ]
+  },
+  {
+    "cod": "CFS0011",
+    "nome": "FISIOLOGIA DOS SISTEMAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0077"
+    ],
+    "pre_requirements": [
+      "CFS0010"
+    ]
+  },
+  {
+    "cod": "CFS0007",
+    "nome": "FISIOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0158",
+      "CFS0039",
+      "FMD0132",
+      "FMD0161",
+      "FMD0163",
+      "CFS0075"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0041",
+    "nome": "FUNDAMENTOS DE FISIOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0013",
+      "FMD0075",
+      "CFS0032",
+      "CFS0033",
+      "CFS0039",
+      "CFS0042",
+      "CFS0044",
+      "CFS0050",
+      "FAR0137",
+      "FCS0079",
+      "FAR0184",
+      "CFS0094"
+    ],
+    "pre_requirements": [
+      "FMD0510 & GEM0041",
+      "GEM0062",
+      "CEL0054",
+      "CEL0067"
+    ]
+  },
+  {
+    "cod": "CFS0042",
+    "nome": "FUNDAMENTOS DE FISIOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENF0094",
+      "CFS0095"
+    ],
+    "pre_requirements": [
+      "CFS0041"
+    ]
+  },
+  {
+    "cod": "CFS0033",
+    "nome": "INTRODUCAO AO PROCESSAMENTO DE SINAIS BIOLOGICOS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0089"
+    ],
+    "pre_requirements": [
+      "CFS0010",
+      "CFS0031 & CFS0032",
+      "FMD0497 & CFS0032",
+      "CFS0037",
+      "CFS0041",
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0012",
+    "nome": "NEUROBIOLOGIA",
+    "ch": 120,
+    "post_requirements": [
+      "CFS0078"
+    ],
+    "pre_requirements": [
+      "GEM0022"
+    ]
+  },
+  {
+    "cod": "CFS0050",
+    "nome": "NEUROETOLOGIA DO ESTRESSE",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0101"
+    ],
+    "pre_requirements": [
+      "CFS0048",
+      "CFS0037",
+      "CFS0041",
+      "CFS0031",
+      "FAV0052",
+      "FEF0143",
+      "PPB0034"
+    ]
+  },
+  {
+    "cod": "CFS0031",
+    "nome": "NEUROFISIOLOGIA MEDICA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0013",
+      "CFS0032",
+      "CFS0044",
+      "CFS0050",
+      "CFS0087"
+    ],
+    "pre_requirements": [
+      "FMD0496"
+    ]
+  },
+  {
+    "cod": "CFS0035",
+    "nome": "NEUROPSICOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0005",
+    "nome": "PESQUISA EM METABOLISMO ENERG\u00c9TICO DE VERTEBRADOS",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0074"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0030",
+    "nome": "PESQUISA EM NEUROBIOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0067"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0003",
+    "nome": "PESQUISA EM REPRODU\u00c7\u00c3O ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0073"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0047",
+    "nome": "PESQUISA EM TOXINOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0068"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0017",
+    "nome": "PESQUISAS EM TERMOBIOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0081"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0018",
+    "nome": "PESQUISAS EM TERMOBIOLOGIA ( ESTAGIO DE BACHARELADO EM BIOLOGIA )",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0054",
+    "nome": "PRINC\u00cdPIOS DE ELETROFISIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0104"
+    ],
+    "pre_requirements": [
+      "CFS0048",
+      "CFS0037",
+      "CFS0055",
+      "PPB0034",
+      "FAV0052",
+      "FMD0013"
+    ]
+  },
+  {
+    "cod": "CFS0032",
+    "nome": "PRINCIPIOS DE INSTRUMENTACAO ELETROFISIOLOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0088"
+    ],
+    "pre_requirements": [
+      "CFS0010",
+      "CFS0031",
+      "FMD0497",
+      "FMD0509",
+      "CFS0041",
+      "CFS0037",
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0001",
+    "nome": "PRINC\u00cdPIOS EM FARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0060"
+    ],
+    "pre_requirements": [
+      "CFS0055"
+    ]
+  },
+  {
+    "cod": "CFS0023",
+    "nome": "PRINCIPIOS FARMACOLOGICOS EM BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0084"
+    ],
+    "pre_requirements": [
+      "CFS0048",
+      "CFS0055",
+      "CFS0037"
+    ]
+  },
+  {
+    "cod": "CFS0044",
+    "nome": "SISTEMAS SENSORIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0096"
+    ],
+    "pre_requirements": [
+      "CFS0010 & FAV0052",
+      "PPB0034",
+      "CFS0041",
+      "CFS0031",
+      "CFS0037",
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0026",
+    "nome": "TOPICOS ESPECIAIS EM FISIOLOGIA ANIMAL COMPARATIVA",
+    "ch": 30,
+    "post_requirements": [
+      "CFS0066"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0013",
+    "nome": "VENENOS ANIMAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0079"
+    ],
+    "pre_requirements": [
+      "CEL0054",
+      "CEL0063",
+      "CEL0019",
+      "CEL0094",
+      "CEL0077",
+      "CFS0041",
+      "CFS0031"
+    ]
+  },
+  {
+    "cod": "FIT0010",
+    "nome": "BACTERIOLOGIA VEGETAL APLICADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0001",
+    "nome": "DIVERSIDADE MICROBIANA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0038"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "FIT0035",
+    "nome": "DIVERSIDADE MICROBIANA 1",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0036",
+      "FIT0071"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "FIT0036",
+    "nome": "DIVERSIDADE MICROBIANA 2",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0072"
+    ],
+    "pre_requirements": [
+      "FIT0035"
+    ]
+  },
+  {
+    "cod": "FIT0013",
+    "nome": "DOEN\u00c7AS DE PLANTAS CULTIVADAS",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0058"
+    ],
+    "pre_requirements": [
+      "FIT0030"
+    ]
+  },
+  {
+    "cod": "FIT0032",
+    "nome": "ELEMENTOS DE MICOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0016",
+    "nome": "ESTAGIO SUPERVISIONADO EM FITOPATOLOGIA",
+    "ch": 75,
+    "post_requirements": [
+      "FIT0059"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0005",
+    "nome": "FITOPATOLOGIA 1",
+    "ch": 120,
+    "post_requirements": [
+      "FIT0008",
+      "FIT0051"
+    ],
+    "pre_requirements": [
+      "CEL0019",
+      "CEL0054",
+      "CEL0094"
+    ]
+  },
+  {
+    "cod": "FIT0008",
+    "nome": "FITOPATOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0054"
+    ],
+    "pre_requirements": [
+      "FIT0005"
+    ]
+  },
+  {
+    "cod": "FIT0018",
+    "nome": "FITOPATOLOGIA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0042"
+    ],
+    "pre_requirements": [
+      "FIT0030"
+    ]
+  },
+  {
+    "cod": "FIT0030",
+    "nome": "FITOPATOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0013",
+      "FIT0018",
+      "FIT0045"
+    ],
+    "pre_requirements": [
+      "FIT0031",
+      "FIT0019"
+    ]
+  },
+  {
+    "cod": "FIT0004",
+    "nome": "INTRODUCAO A BACTERIOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0009",
+    "nome": "INTRODUCAO A NEMATOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0041"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0003",
+    "nome": "INTRODU\u00c7\u00c3O A PATOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0004",
+      "ICB0310",
+      "FIT0037",
+      "FIT0039"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "FIT0002",
+    "nome": "INTRODUCAO A VIROLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0048"
+    ],
+    "pre_requirements": [
+      "CEL0035 & CEL0054 & CEL0050",
+      "CEL0035 & CEL0094 & CEL0050",
+      "CEL0035 & CEL0089 & CEL0050",
+      "CEL0035 & CEL0111 & CEL0054",
+      "CEL0089 & CEL0111 & CEL0054"
+    ]
+  },
+  {
+    "cod": "FIT0017",
+    "nome": "INTRODUCAO A VIROLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0060"
+    ],
+    "pre_requirements": [
+      "CEL0019",
+      "CEL0054",
+      "CEL0094"
+    ]
+  },
+  {
+    "cod": "FIT0006",
+    "nome": "MICOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0040"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0019",
+    "nome": "MICROBIOLOGIA E MICRORGANISMOS FITOPATOG\u00caNICOS",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0030",
+      "ICB0310",
+      "FIT0037",
+      "FIT0043"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "FIT0031",
+    "nome": "MICROORGANISMOS FITOPATOG\u00caNICOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0011",
+    "nome": "NEMATOLOGIA VEGETAL APLICADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0034",
+    "nome": "PATOLOGIA FLORESTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0046"
+    ],
+    "pre_requirements": [
+      "EFL0004 & FAV0163",
+      "EFL0004 & CEL0050",
+      "EFL0004 & FIT0003"
+    ]
+  },
+  {
+    "cod": "FIT0022",
+    "nome": "PESQUISA EM BACTERIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0063"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0024",
+    "nome": "PESQUISA EM MICOLOGIA : FUNGOS FITOPATOGENICOS",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0064"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0027",
+    "nome": "PESQUISA EM NEMATOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0065"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0029",
+    "nome": "PESQUISA EM VIROLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0044"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0007",
+    "nome": "VECTORES DE FITOPATOGENOS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0052",
+    "nome": "BIODIVERSIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0120"
+    ],
+    "pre_requirements": [
+      "ZOO0048",
+      "ECL0017",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "ECL0056",
+    "nome": "BIOGEOQU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0049",
+    "nome": "BIOLOGIA E ECOLOGIA DE PEIXES",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0161"
+    ],
+    "pre_requirements": [
+      "ECL0002",
+      "ECL0033",
+      "ECL0039",
+      "ECL0014",
+      "ECL0043",
+      "ECL0013",
+      "ECL0042",
+      "ZOO0017",
+      "FUP0523",
+      "FUP0302"
+    ]
+  },
+  {
+    "cod": "ECL0014",
+    "nome": "CIENCIAS DO AMBIENTE",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0049",
+      "ENC0253",
+      "ENC0257",
+      "ECL0126"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0010",
+    "nome": "CONSERVA\u00c7\u00c3O DE RECURSOS NATURAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0124"
+    ],
+    "pre_requirements": [
+      "EFL0083 & EFL0004"
+    ]
+  },
+  {
+    "cod": "ECL0051",
+    "nome": "DELINEAMENTO EXPERIMENTAL E AN\u00c1LISE DE DADOS",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0130",
+      "CFS0085"
+    ],
+    "pre_requirements": [
+      "ECL0017"
+    ]
+  },
+  {
+    "cod": "ECL0033",
+    "nome": "ECOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0001",
+      "ECL0005",
+      "ECL0013",
+      "ECL0021",
+      "ECL0037",
+      "ECL0041",
+      "ECL0043",
+      "ECL0044",
+      "ECL0046",
+      "CDS0004",
+      "ECL0049",
+      "ENC0253",
+      "BOT0078",
+      "FIT0035",
+      "ECL0054",
+      "ICB0268",
+      "ECL0057",
+      "ICB0269",
+      "ECL0117"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0034",
+    "nome": "ECOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0021",
+    "nome": "ECOLOGIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0127"
+    ],
+    "pre_requirements": [
+      "ECL0002",
+      "ECL0042 & ECL0043",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ECL0039",
+    "nome": "ECOLOGIA B\u00c1SICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0055",
+    "nome": "ECOLOGIA DA PAISAGEM E CONSERVA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0131"
+    ],
+    "pre_requirements": [
+      "ZOO0048",
+      "ECL0017",
+      "GEA0019",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "ECL0115",
+    "nome": "ECOLOGIA DE INSETOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0043",
+    "nome": "ECOLOGIA DE POPULA\u00c7\u00d5ES E COMUNIDADES",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0037",
+      "ECL0041",
+      "ECL0046",
+      "ECL0049",
+      "ECL0118"
+    ],
+    "pre_requirements": [
+      "ECL0042",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ECL0045",
+    "nome": "ECOLOGIA DO FOGO NO CERRADO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0048",
+    "nome": "ECOLOGIA E EDUCA\u00c7\u00c3O AMBIENTAL PARA ENSINO FUNDAMENTAL E M\u00c9DIO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0050",
+    "nome": "ECOLOGIA E TURISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0002",
+    "nome": "ECOLOGIA GERAL",
+    "ch": 90,
+    "post_requirements": [
+      "ECL0005",
+      "ECL0013",
+      "ECL0021",
+      "GEM0036",
+      "ECL0037",
+      "ECL0049",
+      "ECL0133"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0037",
+    "nome": "ECOLOGIA TROPICAL",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0150"
+    ],
+    "pre_requirements": [
+      "ECL0002",
+      "ECL0043",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ECL0005",
+    "nome": "ECOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0134"
+    ],
+    "pre_requirements": [
+      "ECL0002",
+      "ECL0043 & ECL0042",
+      "ECL0033",
+      "EFL0004"
+    ]
+  },
+  {
+    "cod": "ECL0047",
+    "nome": "ECOSSISTEMAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0036",
+    "nome": "EDUCA\u00c7\u00c3O AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0122"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0038",
+    "nome": "EDUCA\u00c7\u00c3O AMBIENTAL E CIENTIFICO TECNOL\u00d3GICO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0009",
+    "nome": "ESTAGIO EM ECOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0123"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0054",
+    "nome": "ETNOBIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0166"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0017",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "ECL0024",
+    "nome": "ETOLOGIA",
+    "ch": 120,
+    "post_requirements": [
+      "ECL0143"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0030",
+    "nome": "FUNDAMENTOS DE ECOLOGIA E EVOLU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "IGD0024",
+      "ENC0253",
+      "ECL0146"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0013",
+    "nome": "LIMNOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0049",
+      "ECL0125"
+    ],
+    "pre_requirements": [
+      "ECL0002",
+      "ECL0042",
+      "EFL0004",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ECL0058",
+    "nome": "MANEJO DE ECOSSISTEMAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0015",
+    "nome": "MEIO AMBIENTE FISICO",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0121"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0042",
+    "nome": "MEIO AMBIENTE F\u00cdSICO E ECOSSISTEMAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0057",
+    "nome": "MENEJO DE ECOSISTEMAS",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0169"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0042",
+      "ECL0017"
+    ]
+  },
+  {
+    "cod": "ECL0017",
+    "nome": "METODOS EM BIOLOGIA 1",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0051",
+      "BOT0078",
+      "ZOO0048",
+      "ZOO0049",
+      "ECL0052",
+      "ECL0053",
+      "ECL0054",
+      "ECL0055",
+      "ICB0268",
+      "ECL0057",
+      "ICB0269",
+      "FCE0384",
+      "ECL0116"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0044",
+    "nome": "M\u00c9TODOS EM ECOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0156"
+    ],
+    "pre_requirements": [
+      "ECL0042",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ECL0053",
+    "nome": "MUDAN\u00c7AS AMBIENTAIS GLOBAIS E BIODIVERSIDADE",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0165"
+    ],
+    "pre_requirements": [
+      "ZOO0048",
+      "ECL0017",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "ECL0001",
+    "nome": "PR\u00c1TICAS EM CI\u00caNCIAS AMBIENTAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0023",
+    "nome": "RADIOBIOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "ECL0142"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0046",
+    "nome": "SOLOS E VEGETA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0158"
+    ],
+    "pre_requirements": [
+      "ECL0043",
+      "EFL0004 & EFL0083",
+      "ECL0033"
+    ]
+  },
+  {
+    "cod": "ECL0041",
+    "nome": "T\u00d3PICOS EM ECOSSISTEMAS DO CERRADO",
+    "ch": 30,
+    "post_requirements": [
+      "ECL0153"
+    ],
+    "pre_requirements": [
+      "ECL0043",
+      "ECL0033",
+      "EFL0004"
+    ]
+  },
+  {
+    "cod": "ECL0025",
+    "nome": "ZO0LOGIA APLICADA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0026",
+      "ECL0144"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ECL0026",
+    "nome": "ZOOLOGIA APLICADA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ECL0145"
+    ],
+    "pre_requirements": [
+      "ECL0025"
+    ]
+  }
+]

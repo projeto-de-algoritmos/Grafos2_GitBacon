@@ -1,0 +1,699 @@
+[
+  {
+    "cod": "GEA0035",
+    "nome": "ANALISE DE MICROCLIMAS",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0159"
+    ],
+    "pre_requirements": [
+      "GEA0060"
+    ]
+  },
+  {
+    "cod": "GEA0052",
+    "nome": "ANALISES CLIMATOLOGICAS REGIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0174"
+    ],
+    "pre_requirements": [
+      "GEA0011"
+    ]
+  },
+  {
+    "cod": "GEA0034",
+    "nome": "ANALISES GEOMORFOLOGICAS REGIONAIS",
+    "ch": 90,
+    "post_requirements": [
+      "GEA0158"
+    ],
+    "pre_requirements": [
+      "GEA0038"
+    ]
+  },
+  {
+    "cod": "GEA0089",
+    "nome": "CARTOGRAFIA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0042",
+    "nome": "CARTOGRAFIA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0043",
+    "nome": "CARTOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0166"
+    ],
+    "pre_requirements": [
+      "GEA0089"
+    ]
+  },
+  {
+    "cod": "GEA0060",
+    "nome": "CLIMATOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0035",
+      "GEA0113"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0091",
+    "nome": "EDUCA\u00c7\u00c3O ESPACIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0086",
+    "nome": "ENSINO DE NATUREZA DA CI\u00caNCIA: TEORIA E PR\u00c1TICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0082",
+    "nome": "ENSINO DE NATUREZA DA CI\u00caNCIA: TEORIA E PR\u00c1TICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0074",
+    "nome": "EPISTEMOLOGIA GEOGRAFICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0062",
+    "nome": "ESTAGIO SUPERVISIONADO EM GEOGRAFIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0059",
+      "GEA0115"
+    ],
+    "pre_requirements": [
+      "MTC0012"
+    ]
+  },
+  {
+    "cod": "GEA0085",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOGRAFIA 1",
+    "ch": 120,
+    "post_requirements": [
+      "GEA0087",
+      "GEA0199"
+    ],
+    "pre_requirements": [
+      "MTC0012"
+    ]
+  },
+  {
+    "cod": "GEA0059",
+    "nome": "ESTAGIO SUPERVISIONADO EM GEOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0129"
+    ],
+    "pre_requirements": [
+      "GEA0062"
+    ]
+  },
+  {
+    "cod": "GEA0087",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOGRAFIA 2",
+    "ch": 120,
+    "post_requirements": [
+      "GEA0088",
+      "GEA0201"
+    ],
+    "pre_requirements": [
+      "GEA0085"
+    ]
+  },
+  {
+    "cod": "GEA0088",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOGRAFIA 3",
+    "ch": 165,
+    "post_requirements": [
+      "GEA0202"
+    ],
+    "pre_requirements": [
+      "GEA0087"
+    ]
+  },
+  {
+    "cod": "GEA0005",
+    "nome": "ESTAGIO SUPERVISIONADO EM MORAL E CIVICA",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0021",
+    "nome": "ESTUDOS REGIONAIS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0061",
+    "nome": "EXTENSAO EM GEOGRAFIA",
+    "ch": 90,
+    "post_requirements": [
+      "GEA0114"
+    ],
+    "pre_requirements": [
+      "GEA0090 & GEA0032",
+      "GEA0012 & GEA0032"
+    ]
+  },
+  {
+    "cod": "GEA0030",
+    "nome": "FOTOINTERPRETACAO",
+    "ch": 90,
+    "post_requirements": [
+      "GEA0065",
+      "GEA0107"
+    ],
+    "pre_requirements": [
+      "GEA0038",
+      "FAV0148",
+      "FAV0274"
+    ]
+  },
+  {
+    "cod": "GEA0065",
+    "nome": "FOTOINTERPRETACAO APLICADA AO PLANEJAMENTO TERRITORIAL",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0180"
+    ],
+    "pre_requirements": [
+      "GEA0030"
+    ]
+  },
+  {
+    "cod": "GEA0003",
+    "nome": "GEOGRAFIA AFRICANA E AFROBRASILEIRA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0012",
+    "nome": "GEOGRAFIA AGRARIA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0072",
+      "GEA0102"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0002",
+    "nome": "GEOGRAFIA,  AMBIENTE E SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0098"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0024",
+    "nome": "GEOGRAFIA APLICADA AO PLANEJAMENTO 1",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0025",
+      "GEA0106"
+    ],
+    "pre_requirements": [
+      "GEA0014"
+    ]
+  },
+  {
+    "cod": "GEA0025",
+    "nome": "GEOGRAFIA APLICADA AO PLANEJAMENTO 2",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0152"
+    ],
+    "pre_requirements": [
+      "GEA0024"
+    ]
+  },
+  {
+    "cod": "GEA0019",
+    "nome": "GEOGRAFIA BIOLOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0073",
+      "ECL0055",
+      "GEA0105"
+    ],
+    "pre_requirements": [
+      "GEA0060 & GEA0010 & GEA0038"
+    ]
+  },
+  {
+    "cod": "GEA0067",
+    "nome": "GEOGRAFIA CULTURAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0071",
+    "nome": "GEOGRAFIA DA RELIGIAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0017",
+    "nome": "GEOGRAFIA DO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0104"
+    ],
+    "pre_requirements": [
+      "GEA0010"
+    ]
+  },
+  {
+    "cod": "GEA0018",
+    "nome": "GEOGRAFIA DO BRASIL 2",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0116"
+    ],
+    "pre_requirements": [
+      "GEA0039"
+    ]
+  },
+  {
+    "cod": "GEA0044",
+    "nome": "GEOGRAFIA DO MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0076",
+    "nome": "GEOGRAFIA DO TURISMO",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0190"
+    ],
+    "pre_requirements": [
+      "GEA0039"
+    ]
+  },
+  {
+    "cod": "GEA0075",
+    "nome": "GEOGRAFIA ECONOMICA DA ENERGIA E PLANEJAMENTO ENERGETICO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0072",
+    "nome": "GEOGRAFIA E MOVIMENTOS SOCIAIS NO CAMPO",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0186"
+    ],
+    "pre_requirements": [
+      "GEA0012",
+      "GEA0090"
+    ]
+  },
+  {
+    "cod": "GEA0136",
+    "nome": "GEOGRAFIA E POL\u00cdTICA CONTENCIOSA: REVOLU\u00c7\u00d5ES E MOVIMENTOS SOCIAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0078",
+    "nome": "GEOGRAFIA E TURISMO",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0132"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0010",
+    "nome": "GEOGRAFIA FISICA 1: GEOMORFOLOGIA INTERTROPICAL",
+    "ch": 90,
+    "post_requirements": [
+      "GEA0017",
+      "GEA0100"
+    ],
+    "pre_requirements": [
+      "GEA0038 & GEA0060  &  GEA0089",
+      "GEA0042"
+    ]
+  },
+  {
+    "cod": "GEA0011",
+    "nome": "GEOGRAFIA FISICA 2: METEOROLOGIA E CLIMATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0052",
+      "GEA0101"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0047",
+    "nome": "GEOGRAFIA FISICA 4: ESTUDOS DAS AGUAS CONTINENTAIS",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0127"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0049",
+    "nome": "GEOGRAFIA FISICA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0128"
+    ],
+    "pre_requirements": [
+      "GEA0060 & GEA0010  &  GEA0042",
+      "GEA0089"
+    ]
+  },
+  {
+    "cod": "GEA0039",
+    "nome": "GEOGRAFIA HUMANA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0040",
+    "nome": "GEOGRAFIA HUMANA 2",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0124"
+    ],
+    "pre_requirements": [
+      "GEA0039"
+    ]
+  },
+  {
+    "cod": "GEA0050",
+    "nome": "GEOGRAFIA HUMANA APLICADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0041",
+    "nome": "GEOGRAFIA HUMANA E ECON\u00d4MICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0046",
+    "nome": "GEOGRAFIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0126"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0090",
+    "nome": "GEOGRAFIA RURAL",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0072",
+      "GEA0204"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0032",
+    "nome": "GEOGRAFIA URBANA 1",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0108"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0079",
+    "nome": "GEO-HIST\u00d3RIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0038",
+    "nome": "GEOMORFOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0030",
+      "GEA0034",
+      "GEA0048",
+      "GEA0095",
+      "GEA0109"
+    ],
+    "pre_requirements": [
+      "IGD0021"
+    ]
+  },
+  {
+    "cod": "GEA0048",
+    "nome": "GEOMORFOLOGIA CLIMATICA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0170"
+    ],
+    "pre_requirements": [
+      "GEA0038"
+    ]
+  },
+  {
+    "cod": "GEA0077",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 AVALIA\u00c7\u00c3O DE IMPACTO AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0131"
+    ],
+    "pre_requirements": [
+      "GEA0060 & GEA0010 & GEA0038"
+    ]
+  },
+  {
+    "cod": "GEA0051",
+    "nome": "INTRODUCAO A CIENCIA GEOGRAFICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0073",
+    "nome": "INTRODUCAO A FITOGEOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0187"
+    ],
+    "pre_requirements": [
+      "GEA0019"
+    ]
+  },
+  {
+    "cod": "GEA0095",
+    "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DO CARSTE",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0209"
+    ],
+    "pre_requirements": [
+      "GEA0038",
+      "FUP0260",
+      "ENC0166",
+      "IGD0254",
+      "IGD0255",
+      "IGD0010"
+    ]
+  },
+  {
+    "cod": "GEA0020",
+    "nome": "METODOLOGIA DA GEOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0027",
+      "GEA0096",
+      "GEA0097",
+      "GEA0120"
+    ],
+    "pre_requirements": [
+      "GEA0032 & GEA0010  &  GEA0012",
+      "GEA0090"
+    ]
+  },
+  {
+    "cod": "GEA0068",
+    "nome": "POLITICA PUBLICA E MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0023",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS ESPACIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0150"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0092",
+    "nome": "POPULA\u00c7\u00c3O E GEOGRAFIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0027",
+    "nome": "PRATICA E PESQUISA DE CAMPO 1",
+    "ch": 120,
+    "post_requirements": [
+      "GEA0153"
+    ],
+    "pre_requirements": [
+      "GEA0020"
+    ]
+  },
+  {
+    "cod": "GEA0064",
+    "nome": "PRATICA E PESQUISA DE CAMPO 1",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0130"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0029",
+    "nome": "PRATICA E PESQUISA DE CAMPO 2",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0122"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0093",
+    "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0094",
+    "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0031",
+    "nome": "RECURSOS NATURAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0014",
+    "nome": "REGIONALIZA\u00c7\u00c3O DO ESPA\u00c7O BRASILEIRO",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0024",
+      "GEA0103"
+    ],
+    "pre_requirements": [
+      "GEA0039"
+    ]
+  },
+  {
+    "cod": "GEA0016",
+    "nome": "REGIONALIZA\u00c7\u00c3O DO ESPA\u00c7O MUNDIAL",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0144"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0036",
+    "nome": "SENSORES REMOTOS",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0123"
+    ],
+    "pre_requirements": [
+      "EST0019"
+    ]
+  },
+  {
+    "cod": "GEA0070",
+    "nome": "SISTEMA DE INFORMACAO GEOGRAFICA",
+    "ch": 60,
+    "post_requirements": [
+      "GEA0184"
+    ],
+    "pre_requirements": [
+      "GEA0089 & GEA0030"
+    ]
+  },
+  {
+    "cod": "GEA0066",
+    "nome": "TEORIA GEOGRAFICA E DESENVOLVIMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0081",
+    "nome": "T\u00d3PICOS ESPECIAIS EM GEOGRAFIA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0080",
+    "nome": "T\u00d3PICOS ESPECIAIS EM GEOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "GEA0004",
+    "nome": "URBANIZA\u00c7\u00c3O NA AM\u00c9RICA LATINA E CARIBE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

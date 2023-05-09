@@ -1,0 +1,1517 @@
+[
+  {
+    "cod": "LIP0120",
+    "nome": "ABORDAGENS, M\u00c9TODOS E T\u00c9CNICAS DO ENSINO DE PBSL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0247"
+    ],
+    "pre_requirements": [
+      "LIP0159"
+    ]
+  },
+  {
+    "cod": "LIP0016",
+    "nome": "BILINGUISMO E EDUCA\u00c7\u00c3O DE SURDO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0029",
+    "nome": "ELABORA\u00c7\u00c3O DE TEXTO ACAD\u00caMICO",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0187"
+    ],
+    "pre_requirements": [
+      "LIP0023 & LIP0021"
+    ]
+  },
+  {
+    "cod": "LIP0112",
+    "nome": "ESTAGIO:1 PRATICA DE TRADUCAO EM LATIM",
+    "ch": 75,
+    "post_requirements": [
+      "LIP0111",
+      "LIP0352"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0111",
+    "nome": "ESTAGIO:2 PRATICA DE VERSAO EM LATIM",
+    "ch": 75,
+    "post_requirements": [
+      "LIP0351"
+    ],
+    "pre_requirements": [
+      "LIP0112"
+    ]
+  },
+  {
+    "cod": "LIP0032",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 1 BILINGUE",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0035",
+      "LIP0241"
+    ],
+    "pre_requirements": [
+      "LIP0030 & LIP0026"
+    ]
+  },
+  {
+    "cod": "LIP0007",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 1 EM PORTUGU\u00caS DO BRASIL COMO SEGUNDA L\u00cdNGUA",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0008",
+      "LIP0239"
+    ],
+    "pre_requirements": [
+      "LIP0125 & MTC0012"
+    ]
+  },
+  {
+    "cod": "LIP0165",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 1 EM PORTUGU\u00caS DO BRASIL COMO SEGUNDA L\u00cdNGUA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0167",
+      "LIP0224"
+    ],
+    "pre_requirements": [
+      "LIP0125 & MTC0012"
+    ]
+  },
+  {
+    "cod": "LIP0035",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 2 BILINGUE",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0242"
+    ],
+    "pre_requirements": [
+      "LIP0032"
+    ]
+  },
+  {
+    "cod": "LIP0008",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 2 EM PORTUGU\u00caS DO BRASIL COMO SEGUNDA L\u00cdNGUA",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0240"
+    ],
+    "pre_requirements": [
+      "LIP0007"
+    ]
+  },
+  {
+    "cod": "LIP0167",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 2 EM PORTUGU\u00caS DO BRASIL COMO SEGUNDA L\u00cdNGUA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0261"
+    ],
+    "pre_requirements": [
+      "LIP0165",
+      "LIP0178"
+    ]
+  },
+  {
+    "cod": "LIP0117",
+    "nome": "ESTAGIO SUPERVISIONADO - BACHARELADO",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0246"
+    ],
+    "pre_requirements": [
+      "LIP0094"
+    ]
+  },
+  {
+    "cod": "LIP0072",
+    "nome": "ESTAGIO SUPERVISIONADO DE LATIM 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0074",
+      "LIP0324"
+    ],
+    "pre_requirements": [
+      "LIP0063 & MTC0012"
+    ]
+  },
+  {
+    "cod": "LIP0074",
+    "nome": "ESTAGIO SUPERVISIONADO DE LATIM 2",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0325"
+    ],
+    "pre_requirements": [
+      "LIP0072"
+    ]
+  },
+  {
+    "cod": "LIP0054",
+    "nome": "ESTAGIO SUPERVISIONADO DE PORTUGUES 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0056",
+      "LIP0314"
+    ],
+    "pre_requirements": [
+      "MTC0012"
+    ]
+  },
+  {
+    "cod": "LIP0056",
+    "nome": "ESTAGIO SUPERVISIONADO DE PORTUGUES 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0315"
+    ],
+    "pre_requirements": [
+      "LIP0054",
+      "LIP0105"
+    ]
+  },
+  {
+    "cod": "LIP0005",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM L\u00cdNGUA PORTUGUESA E LITERATURA 1",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0006",
+      "LIP0237"
+    ],
+    "pre_requirements": [
+      "MTC0012 & LIP0148 & LIP0151"
+    ]
+  },
+  {
+    "cod": "LIP0006",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM L\u00cdNGUA PORTUGUESA E LITERATURA 2",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0238"
+    ],
+    "pre_requirements": [
+      "LIP0005"
+    ]
+  },
+  {
+    "cod": "LIP0157",
+    "nome": "ESTAGIO SUPERVISIONADO EM LINGUA PORTUGUESA-LITERATURA 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0384"
+    ],
+    "pre_requirements": [
+      "MTC0143 & LIP0148 & LIP0151",
+      "MTC0012 & LIP0148 & LIP0151"
+    ]
+  },
+  {
+    "cod": "LIP0158",
+    "nome": "ESTAGIO SUPERVISIONADO EM LINGUA PORTUGUESA-LITERATURA 2",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0385"
+    ],
+    "pre_requirements": [
+      "MTC0143 & LIP0148 & LIP0151"
+    ]
+  },
+  {
+    "cod": "LIP0105",
+    "nome": "ESTAGIO SUPERVISIONADO EM PORTUGUES 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0056",
+      "LIP0140",
+      "LIP0204"
+    ],
+    "pre_requirements": [
+      "MTC0012 & LIP0094"
+    ]
+  },
+  {
+    "cod": "LIP0003",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM PORTUGU\u00caS 1",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0235"
+    ],
+    "pre_requirements": [
+      "MTC0012 & LIP0094"
+    ]
+  },
+  {
+    "cod": "LIP0140",
+    "nome": "ESTAGIO SUPERVISIONADO EM PORTUGUES 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0369"
+    ],
+    "pre_requirements": [
+      "LIP0105",
+      "MTC0012 & LIP0094 & LIP0178"
+    ]
+  },
+  {
+    "cod": "LIP0004",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM PORTUGU\u00caS 2",
+    "ch": 210,
+    "post_requirements": [
+      "LIP0236"
+    ],
+    "pre_requirements": [
+      "MTC0012 & LIP0094",
+      "LIP0178"
+    ]
+  },
+  {
+    "cod": "LIP0089",
+    "nome": "ESTILISTICA DA LINGUA PORTUGUESA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0098",
+    "nome": "ESTUDO DAS GRAM\u00c1TICAS DO PORTUGU\u00caS CONTEMPOR\u00c2NEO",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0200"
+    ],
+    "pre_requirements": [
+      "LIP0122",
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0002",
+    "nome": "ESTUDOS DE TRADU\u00c7\u00c3O DA POESIA GREGA ANTIGA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0264"
+    ],
+    "pre_requirements": [
+      "LIP0110"
+    ]
+  },
+  {
+    "cod": "LIP0001",
+    "nome": "ESTUDOS DE TRADU\u00c7\u00c3O DE PROSA GREGA ANTIGA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0263"
+    ],
+    "pre_requirements": [
+      "LIP0109"
+    ]
+  },
+  {
+    "cod": "LIP0176",
+    "nome": "ESTUDOS HEL\u00caNICOS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0178",
+    "nome": "EXPERIENCIA DE ENSINO",
+    "ch": 0,
+    "post_requirements": [
+      "LIP0004",
+      "LIP0167",
+      "LIP0403"
+    ],
+    "pre_requirements": [
+      "MTC0012 & LIP0094"
+    ]
+  },
+  {
+    "cod": "LIP0033",
+    "nome": "EXPRESS\u00c3O CORPORAL E L\u00cdNGUA DE SINAIS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0295"
+    ],
+    "pre_requirements": [
+      "LIP0011",
+      "LIP0174"
+    ]
+  },
+  {
+    "cod": "LIP0050",
+    "nome": "FILOLOGIA ROMANICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0051",
+      "LIP0191"
+    ],
+    "pre_requirements": [
+      "LIP0061"
+    ]
+  },
+  {
+    "cod": "LIP0051",
+    "nome": "FILOLOGIA ROMANICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0312"
+    ],
+    "pre_requirements": [
+      "LIP0050"
+    ]
+  },
+  {
+    "cod": "LIP0052",
+    "nome": "FILOLOGIA ROMANICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0313"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0046",
+    "nome": "FON\u00c9TICA E FONOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0141",
+    "nome": "FON\u00c9TICA E FONOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "LIP0214"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0119",
+    "nome": "FON\u00c9TICA E FONOLOGIA COMPARADAS DE L\u00cdNGUAS MODERNAS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0209"
+    ],
+    "pre_requirements": [
+      "LIP0118"
+    ]
+  },
+  {
+    "cod": "LIP0143",
+    "nome": "FONETICA E FONOLOGIA DA LINGUA PORTUGUESA",
+    "ch": 30,
+    "post_requirements": [
+      "LIP0216"
+    ],
+    "pre_requirements": [
+      "LIP0045 & LIP0141"
+    ]
+  },
+  {
+    "cod": "LIP0099",
+    "nome": "FONETICA E FONOLOGIA DO PORTUGUES",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0201"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0118",
+    "nome": "FON\u00c9TICA E FONOLOGIA DO PORTUGU\u00caS COMO SEGUNDA L\u00cdNGUA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0015",
+    "nome": "FONOLOGIA CONTRASTIVA LSB / PSL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0228"
+    ],
+    "pre_requirements": [
+      "LIP0010"
+    ]
+  },
+  {
+    "cod": "LIP0121",
+    "nome": "FUNDAMENTOS DE AQUISI\u00c7\u00c3O DE PRIMEIRA E DE SEGUNDA L\u00cdNGUA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0210"
+    ],
+    "pre_requirements": [
+      "LIP0159"
+    ]
+  },
+  {
+    "cod": "LIP0113",
+    "nome": "GREGO 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0110",
+    "nome": "GREGO 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0002",
+      "LIP0109",
+      "LIP0350"
+    ],
+    "pre_requirements": [
+      "LIP0113"
+    ]
+  },
+  {
+    "cod": "LIP0109",
+    "nome": "GREGO 3",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0001",
+      "LIP0087",
+      "LIP0107",
+      "LIP0108",
+      "LIP0206"
+    ],
+    "pre_requirements": [
+      "LIP0110"
+    ]
+  },
+  {
+    "cod": "LIP0108",
+    "nome": "GREGO 4",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0205"
+    ],
+    "pre_requirements": [
+      "LIP0109"
+    ]
+  },
+  {
+    "cod": "LIP0087",
+    "nome": "GREGO 5",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0197"
+    ],
+    "pre_requirements": [
+      "LIP0109"
+    ]
+  },
+  {
+    "cod": "LIP0107",
+    "nome": "GREGO 6",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0347"
+    ],
+    "pre_requirements": [
+      "LIP0109"
+    ]
+  },
+  {
+    "cod": "LIP0135",
+    "nome": "HISTORIA DA LINGUA PORTUGUESA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0213"
+    ],
+    "pre_requirements": [
+      "LIP0061 & LIP0094"
+    ]
+  },
+  {
+    "cod": "LIP0126",
+    "nome": "HIST\u00d3RIA DA L\u00cdNGUA PORTUGUESA E ENSINO DE PBSL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0163",
+      "LIP0250"
+    ],
+    "pre_requirements": [
+      "LIP0128"
+    ]
+  },
+  {
+    "cod": "LIP0095",
+    "nome": "INTRODUCAO A ANALISE DO DISCURSO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0045",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 LINGU\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0124",
+    "nome": "INTRODU\u00c7\u00c3O AOS MULTIMEIOS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0169",
+      "LIP0249"
+    ],
+    "pre_requirements": [
+      "LIP0159"
+    ]
+  },
+  {
+    "cod": "LIP0025",
+    "nome": "INTRODUCAO A SEMANTICA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0287"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0084",
+    "nome": "INTRODUCAO A SEMIOTICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0026",
+    "nome": "LABORAT\u00d3RIO DE GRAM\u00c1TICA CONSTRATIVA",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0184"
+    ],
+    "pre_requirements": [
+      "LIP0023 & LIP0021"
+    ]
+  },
+  {
+    "cod": "LIP0151",
+    "nome": "LABORATORIO DE GRAMATICA PARA O ENSINO FUNDAMENTAL E MEDIO",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0256"
+    ],
+    "pre_requirements": [
+      "LIP0146 & LIP0154",
+      "LIP0146 & LIP0096"
+    ]
+  },
+  {
+    "cod": "LIP0030",
+    "nome": "LABORAT\u00d3RIO DE LSB-PSL: VIDEOGRAFIA",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0233"
+    ],
+    "pre_requirements": [
+      "LIP0009 & LIP0028"
+    ]
+  },
+  {
+    "cod": "LIP0148",
+    "nome": "LABORATORIO DE REDACAO PARA O ENSINO FUNDAMENTAL E MEDIO",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0255"
+    ],
+    "pre_requirements": [
+      "MTC0143 & LIP0154",
+      "MTC0012 & LIP0154",
+      "LIP0096 & MTC0143"
+    ]
+  },
+  {
+    "cod": "LIP0164",
+    "nome": "LABORAT\u00d3RIO: ESTRAT\u00c9GIAS DE USO DA GRAM\u00c1TICA",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0260"
+    ],
+    "pre_requirements": [
+      "LIP0123"
+    ]
+  },
+  {
+    "cod": "LIP0125",
+    "nome": "LABORAT\u00d3RIO: RESOLU\u00c7\u00c3O DE PROBLEMAS DE LEITURA E DE REDA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0362"
+    ],
+    "pre_requirements": [
+      "LIP0123"
+    ]
+  },
+  {
+    "cod": "LIP0061",
+    "nome": "LATIM 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0050",
+      "LIP0063",
+      "LIP0149",
+      "LIP0192"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0063",
+    "nome": "LATIM 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0052",
+      "LIP0065",
+      "LIP0067",
+      "LIP0069",
+      "LIP0071",
+      "LIP0078",
+      "LIP0112",
+      "TEL0048",
+      "TEL0049",
+      "TEL0050",
+      "TEL0054",
+      "LIP0319"
+    ],
+    "pre_requirements": [
+      "LIP0061"
+    ]
+  },
+  {
+    "cod": "LIP0067",
+    "nome": "LATIM 3",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0083",
+      "LIP0321"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0065",
+    "nome": "LATIM 4",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0320"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0069",
+    "nome": "LATIM 5",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0322"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0071",
+    "nome": "LATIM 6",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0323"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0096",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0199"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0012",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS ESCRITOS EM PORTUGUES 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0017",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS ESCRITOS EM PORTUGUES 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0023",
+      "LIP0181"
+    ],
+    "pre_requirements": [
+      "LIP0012"
+    ]
+  },
+  {
+    "cod": "LIP0018",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS ESCRITOS EM PORTUGUES 3",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0036",
+      "LIP0182"
+    ],
+    "pre_requirements": [
+      "LIP0012"
+    ]
+  },
+  {
+    "cod": "LIP0023",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS ESCRITOS EM PORTUGU\u00caS 4",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0183"
+    ],
+    "pre_requirements": [
+      "LIP0017"
+    ]
+  },
+  {
+    "cod": "LIP0161",
+    "nome": "LEXICOGRAFIA E ESTRAT\u00c9GIAS DE USO DE DICION\u00c1RIOS",
+    "ch": 30,
+    "post_requirements": [
+      "LIP0223"
+    ],
+    "pre_requirements": [
+      "LIP0129 & LIP0124"
+    ]
+  },
+  {
+    "cod": "LIP0022",
+    "nome": "LEXICOGRAFIA E TERMINOLOGIA DA LS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0231"
+    ],
+    "pre_requirements": [
+      "LIP0020"
+    ]
+  },
+  {
+    "cod": "LIP0088",
+    "nome": "LEXICOLOGIA E LEXICOGRAFIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0129",
+    "nome": "LEXICOLOGIA, SEM\u00c2NTICA E PRAGM\u00c1TICA CONTRASTIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0251"
+    ],
+    "pre_requirements": [
+      "LIP0159"
+    ]
+  },
+  {
+    "cod": "LIP0011",
+    "nome": "L\u00cdNGUA DE SINAIS BRASILEIRA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0013",
+    "nome": "L\u00cdNGUA DE SINAIS BRASILEIRA 2",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0021",
+      "LIP0227"
+    ],
+    "pre_requirements": [
+      "LIP0011"
+    ]
+  },
+  {
+    "cod": "LIP0019",
+    "nome": "L\u00cdNGUA DE SINAIS BRASILEIRA 3",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0281"
+    ],
+    "pre_requirements": [
+      "LIP0011"
+    ]
+  },
+  {
+    "cod": "LIP0021",
+    "nome": "L\u00cdNGUA DE SINAIS BRASILEIRA 4",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0028",
+      "LIP0031",
+      "LIP0230"
+    ],
+    "pre_requirements": [
+      "LIP0013"
+    ]
+  },
+  {
+    "cod": "LIP0174",
+    "nome": "L\u00cdNGUA DE SINAIS BRASILEIRA - B\u00c1SICO",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0033",
+      "LIP0175",
+      "LIP0225"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0031",
+    "nome": "L\u00cdNGUA DE SINAIS ESCRITA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0188"
+    ],
+    "pre_requirements": [
+      "LIP0021"
+    ]
+  },
+  {
+    "cod": "LIP0037",
+    "nome": "L\u00cdNGUA PORTUGUESA 1",
+    "ch": 60,
+    "post_requirements": [
+      "DAP0023",
+      "DAP0047",
+      "DAP0048",
+      "DAP0049",
+      "LIP0299"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0038",
+    "nome": "LINGUA PORTUGUESA 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0039",
+      "LIP0300"
+    ],
+    "pre_requirements": [
+      "LIP0037 & LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0039",
+    "nome": "LINGUA PORTUGUESA 3",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0042",
+      "LIP0043",
+      "LIP0044",
+      "LIP0094",
+      "LIP0301"
+    ],
+    "pre_requirements": [
+      "LIP0038"
+    ]
+  },
+  {
+    "cod": "LIP0040",
+    "nome": "LINGUA PORTUGUESA 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0041",
+    "nome": "LINGUA PORTUGUESA 5",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0303"
+    ],
+    "pre_requirements": [
+      "LIP0039 & LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0042",
+    "nome": "LINGUA PORTUGUESA 6",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0304"
+    ],
+    "pre_requirements": [
+      "LIP0039"
+    ]
+  },
+  {
+    "cod": "LIP0043",
+    "nome": "LINGUA PORTUGUESA 7",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0305"
+    ],
+    "pre_requirements": [
+      "LIP0039"
+    ]
+  },
+  {
+    "cod": "LIP0044",
+    "nome": "LINGUA PORTUGUESA 8",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0306"
+    ],
+    "pre_requirements": [
+      "LIP0039"
+    ]
+  },
+  {
+    "cod": "LIP0028",
+    "nome": "L\u00cdNGUAS DE SINAIS BRASILEIRA 5",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0186"
+    ],
+    "pre_requirements": [
+      "LIP0021"
+    ]
+  },
+  {
+    "cod": "LIP0177",
+    "nome": "L\u00cdNGUAS DE SINAIS BRASILEIRA - AVAN\u00c7ADO 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0402"
+    ],
+    "pre_requirements": [
+      "LIP0175"
+    ]
+  },
+  {
+    "cod": "LIP0175",
+    "nome": "L\u00cdNGUAS DE SINAIS BRASILEIRA - INTERMEDI\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0177",
+      "LIP0226"
+    ],
+    "pre_requirements": [
+      "LIP0174"
+    ]
+  },
+  {
+    "cod": "LIP0079",
+    "nome": "LINGUISTICA APLICADA AO ENSINO DE LINGUAS ESTRANGEIRAS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0327"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0159",
+    "nome": "LINGU\u00cdSTICA APLICADA AO ENSINO DE PSL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0059",
+    "nome": "LINGUISTICA APLICADA AO ENSINO DO PORTUGUES COMO LINGUA MATERNA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0317"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0010",
+    "nome": "LINGU\u00cdSTICA DE L\u00cdNGUAS DE SINAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0014",
+    "nome": "LITERATURA DA L\u00cdNGUA DE SINAIS BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0180"
+    ],
+    "pre_requirements": [
+      "LIP0011"
+    ]
+  },
+  {
+    "cod": "LIP0142",
+    "nome": "MORFOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "LIP0215"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0047",
+    "nome": "MORFOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0100",
+    "nome": "MORFOLOGIA DO PORTUGUES",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0202"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0160",
+    "nome": "MORFOSSINTAXE CONTRASTIVA DE L\u00cdNGUAS MODERNAS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0163",
+      "LIP0222"
+    ],
+    "pre_requirements": [
+      "LIP0145 & LIP0123"
+    ]
+  },
+  {
+    "cod": "LIP0020",
+    "nome": "MORFOSSINTAXE CONTRASTIVA PSL - LSB",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0022",
+      "LIP0282"
+    ],
+    "pre_requirements": [
+      "LIP0010"
+    ]
+  },
+  {
+    "cod": "LIP0145",
+    "nome": "MORFOSSINTAXE DA L\u00cdNGUA PORTUGUESA",
+    "ch": 30,
+    "post_requirements": [
+      "LIP0217"
+    ],
+    "pre_requirements": [
+      "LIP0142 & LIP0045",
+      "LIP0159"
+    ]
+  },
+  {
+    "cod": "LIP0085",
+    "nome": "OFICINA DE PRODUCAO DE TEXTOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0036",
+    "nome": "OFICINA DE TEXTOS LSB - PSL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0298"
+    ],
+    "pre_requirements": [
+      "LIP0018"
+    ]
+  },
+  {
+    "cod": "LIP0122",
+    "nome": "POL\u00cdTICA DO IDIOMA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0098",
+      "LIP0163",
+      "LIP0359"
+    ],
+    "pre_requirements": [
+      "LIP0128"
+    ]
+  },
+  {
+    "cod": "LIP0024",
+    "nome": "POL\u00cdTICAS LINGU\u00cdSTICAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0173",
+    "nome": "PORTUGUES COMO SEGUNDA L\u00cdNGUA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0149",
+    "nome": "PORTUGUES DIACRONICO",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0218"
+    ],
+    "pre_requirements": [
+      "LIP0061"
+    ]
+  },
+  {
+    "cod": "LIP0153",
+    "nome": "PORTUGU\u00caS INSTRUMENTAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0257"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0152",
+    "nome": "PORTUGU\u00caS INSTRUMENTAL 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0154",
+    "nome": "PR\u00c1TICA DE TEXTOS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0219"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0078",
+    "nome": "PR\u00c1TICA DE TRADU\u00c7\u00c3O EM LATIM 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0083",
+      "LIP0326"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "LIP0083",
+    "nome": "PR\u00c1TICA DE TRADU\u00c7\u00c3O EM LATIM 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0170",
+      "LIP0329"
+    ],
+    "pre_requirements": [
+      "LIP0078",
+      "LIP0067"
+    ]
+  },
+  {
+    "cod": "LIP0170",
+    "nome": "PR\u00c1TICA DE TRADU\u00c7\u00c3O EM LATIM 3",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0171",
+      "LIP0395"
+    ],
+    "pre_requirements": [
+      "LIP0083"
+    ]
+  },
+  {
+    "cod": "LIP0171",
+    "nome": "PR\u00c1TICA DE TRADU\u00c7\u00c3O EM LATIM 4",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0172",
+      "LIP0396"
+    ],
+    "pre_requirements": [
+      "LIP0170"
+    ]
+  },
+  {
+    "cod": "LIP0172",
+    "nome": "PR\u00c1TICA DE TRADU\u00c7\u00c3O EM LATIM 5",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0397"
+    ],
+    "pre_requirements": [
+      "LIP0171"
+    ]
+  },
+  {
+    "cod": "LIP0106",
+    "nome": "PROCESSOS DE LEITURA E ESCRITA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0156",
+    "nome": "PROJETO DE CURSO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0169",
+    "nome": "PROJETO DE CURSO : ELABORA\u00c7\u00c3O DE MULTIMEIOS",
+    "ch": 90,
+    "post_requirements": [
+      "LIP0262"
+    ],
+    "pre_requirements": [
+      "LIP0124"
+    ]
+  },
+  {
+    "cod": "LIP0086",
+    "nome": "REDACAO OFICIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0058",
+    "nome": "SEMANTICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0092",
+    "nome": "SEMINARIO DE PORTUGUES",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0244"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0093",
+    "nome": "SEMINARIO EM LATIM",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0337"
+    ],
+    "pre_requirements": [
+      "LIP0067 & LIP0065 & LIP0069 & LIP0071"
+    ]
+  },
+  {
+    "cod": "LIP0049",
+    "nome": "SINTAXE",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0310"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0147",
+    "nome": "SINTAXE DA LINGUA PORTUGUESA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0254"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0123",
+    "nome": "SINTAXE DO PORTUGU\u00caS",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0125",
+      "LIP0164",
+      "LIP0248"
+    ],
+    "pre_requirements": [
+      "LIP0128"
+    ]
+  },
+  {
+    "cod": "LIP0133",
+    "nome": "SINTAXE DO PORTUGUES CLASSICO",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0252"
+    ],
+    "pre_requirements": [
+      "LIP0131",
+      "LIP0039 & LIP0147"
+    ]
+  },
+  {
+    "cod": "LIP0131",
+    "nome": "SINTAXE DO PORTUGUES CONTEMPORANEO 1",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0133",
+      "LIP0212"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0101",
+    "nome": "SINTAXE DO PORTUGUES CONTEMPORANEO 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0203"
+    ],
+    "pre_requirements": [
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0146",
+    "nome": "SINTAXE GERAL",
+    "ch": 30,
+    "post_requirements": [
+      "LIP0253"
+    ],
+    "pre_requirements": [
+      "LIP0045 & LIP0142"
+    ]
+  },
+  {
+    "cod": "LIP0155",
+    "nome": "SOCIOLINGUISTICA DO PORTUGUES DO BRASIL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0094",
+    "nome": "SOCIOLINGUISTICA DO PORTUGUES DO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0117",
+      "LIP0198"
+    ],
+    "pre_requirements": [
+      "LIP0099 & LIP0131",
+      "LIP0039"
+    ]
+  },
+  {
+    "cod": "LIP0009",
+    "nome": "TECNOLOGIAS E LINGUAGEM: L\u00cdNGUA E CULTURA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "LIP0082",
+    "nome": "T\u00d3PICOS ATUAIS EM LING\u00dc\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0166",
+      "LIP0194"
+    ],
+    "pre_requirements": [
+      "LIP0010",
+      "LIP0159",
+      "LIP0045"
+    ]
+  },
+  {
+    "cod": "LIP0166",
+    "nome": "T\u00d3PICOS ATUAIS EM LING\u00dc\u00cdSTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0392"
+    ],
+    "pre_requirements": [
+      "LIP0155",
+      "LIP0082"
+    ]
+  },
+  {
+    "cod": "LIP0163",
+    "nome": "T\u00d3PICOS INTERCULTURAIS EM ENSINO DE PSL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0259"
+    ],
+    "pre_requirements": [
+      "LIP0122",
+      "LIP0160",
+      "LIP0126",
+      "LIP0024"
+    ]
+  },
+  {
+    "cod": "LIP0034",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO LSB-PSL",
+    "ch": 120,
+    "post_requirements": [
+      "LIP0189"
+    ],
+    "pre_requirements": [
+      "LIP0029 & LIP0030"
+    ]
+  },
+  {
+    "cod": "LIP0027",
+    "nome": "VARIA\u00c7\u00c3O LINGU\u00cdSTICA NA LSB",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0185"
+    ],
+    "pre_requirements": [
+      "LIP0012"
+    ]
+  },
+  {
+    "cod": "LIP0128",
+    "nome": "VARIA\u00c7\u00c3O LINGU\u00cdSTICA NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "LIP0122",
+      "LIP0123",
+      "LIP0126",
+      "LIP0211"
+    ],
+    "pre_requirements": [
+      "LIP0118"
+    ]
+  }
+]

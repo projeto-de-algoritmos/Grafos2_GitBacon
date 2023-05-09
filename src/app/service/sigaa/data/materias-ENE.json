@@ -1,0 +1,2618 @@
+[
+  {
+    "cod": "ENE0233",
+    "nome": "ACIONAMENTOS INDUSTRIAIS",
+    "ch": 75,
+    "post_requirements": [
+      "ENE0562"
+    ],
+    "pre_requirements": [
+      "ENE0314",
+      "ENE0183"
+    ]
+  },
+  {
+    "cod": "ENE0013",
+    "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0276",
+      "ENE0366"
+    ],
+    "pre_requirements": [
+      "ENE0334"
+    ]
+  },
+  {
+    "cod": "ENE0228",
+    "nome": "ANALISE DE SISTEMAS DE POTENCIA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0558"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0085",
+    "nome": "AN\u00c1LISE DIN\u00c2MICA  LINEAR",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0004",
+      "ENE0051",
+      "ENE0052",
+      "ENE0084",
+      "ENE0258",
+      "ENE0511"
+    ],
+    "pre_requirements": [
+      "ENE0174",
+      "ENE0313",
+      "ENE0304 & ENE0282"
+    ]
+  },
+  {
+    "cod": "ENE0035",
+    "nome": "AN\u00c1LISE DIN\u00c2MICA LINEAR",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0466",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0036"
+    ],
+    "pre_requirements": [
+      "ENE0037 & ENE0038",
+      "ENE0174"
+    ]
+  },
+  {
+    "cod": "ENE0194",
+    "nome": "ANTENAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0201",
+      "ENE0426"
+    ],
+    "pre_requirements": [
+      "ENE0053"
+    ]
+  },
+  {
+    "cod": "ENE0201",
+    "nome": "ANTENAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0544"
+    ],
+    "pre_requirements": [
+      "ENE0194"
+    ]
+  },
+  {
+    "cod": "ENE0353",
+    "nome": "ANTENAS EM REDES DE COMUNICA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0631"
+    ],
+    "pre_requirements": [
+      "ENE0177",
+      "IFD0179"
+    ]
+  },
+  {
+    "cod": "ENE0331",
+    "nome": "ANTENAS - TEORIA E PRATICA",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0615"
+    ],
+    "pre_requirements": [
+      "ENE0310",
+      "ENE0179"
+    ]
+  },
+  {
+    "cod": "ENE0245",
+    "nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0130",
+      "ENE0568"
+    ],
+    "pre_requirements": [
+      "ENE0291",
+      "ENE0320",
+      "ENE0278"
+    ]
+  },
+  {
+    "cod": "ENE0055",
+    "nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0484"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0009",
+    "nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0447"
+    ],
+    "pre_requirements": [
+      "ENE0274 & ENE0335"
+    ]
+  },
+  {
+    "cod": "ENE0237",
+    "nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0064",
+      "ENE0087",
+      "ENE0333",
+      "ENE0349",
+      "ENE0352",
+      "ENE0564"
+    ],
+    "pre_requirements": [
+      "ENE0274 & ENE0335"
+    ]
+  },
+  {
+    "cod": "ENE0017",
+    "nome": "AVALIA\u00c7\u00c3O DE DESEMPENHO DE REDES E SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0367"
+    ],
+    "pre_requirements": [
+      "ENE0009 & ENE0011",
+      "ENE0025 & ENE0011"
+    ]
+  },
+  {
+    "cod": "ENE0089",
+    "nome": "CABEAMENTO ESTRUTURADO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0515"
+    ],
+    "pre_requirements": [
+      "ENE0274"
+    ]
+  },
+  {
+    "cod": "ENE0075",
+    "nome": "CARACTERIZA\u00c7\u00c3O DE MATERIAIS E DISPOSITIVOS SEMICONDUTORES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0501"
+    ],
+    "pre_requirements": [
+      "ENE0049",
+      "ENE0340"
+    ]
+  },
+  {
+    "cod": "ENE0162",
+    "nome": "CIRCUITOS DE ELETRONICA DIGITAL",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0523"
+    ],
+    "pre_requirements": [
+      "ENE0314 & ENE0320",
+      "ENE0183"
+    ]
+  },
+  {
+    "cod": "ENE0214",
+    "nome": "CIRCUITOS DE ELETRONICA LINEAR",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0552"
+    ],
+    "pre_requirements": [
+      "ENE0314 & ENE0287"
+    ]
+  },
+  {
+    "cod": "ENE0215",
+    "nome": "CIRCUITOS DE ELETRONICA NAO-LINEAR",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0553"
+    ],
+    "pre_requirements": [
+      "ENE0302",
+      "ENE0181"
+    ]
+  },
+  {
+    "cod": "ENE0199",
+    "nome": "CIRCUITOS DE RADIOFREQU\u00caNCIA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0200",
+      "ENE0427"
+    ],
+    "pre_requirements": [
+      "ENE0310",
+      "ENE0179",
+      "ENE0053"
+    ]
+  },
+  {
+    "cod": "ENE0304",
+    "nome": "CIRCUITOS EL\u00c9TRICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0248",
+      "ENE0289",
+      "ENE0313",
+      "ENE0435",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0282"
+    ],
+    "pre_requirements": [
+      "ENE0066 & ENE0067",
+      "ENE0066 & CIC0242"
+    ]
+  },
+  {
+    "cod": "ENE0172",
+    "nome": "CIRCUITOS ELETRICOS 1",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0037",
+      "ENE0038",
+      "ENE0248",
+      "ENE0289",
+      "ENE0313",
+      "ENM0174",
+      "ENE0531"
+    ],
+    "pre_requirements": [
+      "MAT0031 & MAT0048"
+    ]
+  },
+  {
+    "cod": "ENE0042",
+    "nome": "CIRCUITOS EL\u00c9TRICOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0289",
+      "ENE0402",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0044"
+    ],
+    "pre_requirements": [
+      "MAT0031 & MAT0026"
+    ]
+  },
+  {
+    "cod": "ENE0174",
+    "nome": "CIRCUITOS ELETRICOS 2",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0035",
+      "ENE0036",
+      "ENE0065",
+      "ENE0085",
+      "ENE0166",
+      "ENM0118",
+      "ENE0301",
+      "ENE0532"
+    ],
+    "pre_requirements": [
+      "ENE0172 & MAT0028"
+    ]
+  },
+  {
+    "cod": "ENE0037",
+    "nome": "CIRCUITOS EL\u00c9TRICOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0068",
+      "CIC0196",
+      "ENE0209",
+      "ENE0339",
+      "ENE0400",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0038"
+    ],
+    "pre_requirements": [
+      "ENE0042 & ENE0044",
+      "ENE0041 & ENE0043",
+      "ENE0172"
+    ]
+  },
+  {
+    "cod": "ENE0313",
+    "nome": "CIRCUITOS ELETRICOS APLICADOS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0065",
+      "ENE0085",
+      "ENE0301",
+      "ENE0605"
+    ],
+    "pre_requirements": [
+      "ENE0172",
+      "ENE0304"
+    ]
+  },
+  {
+    "cod": "ENE0289",
+    "nome": "CIRCUITOS POLIFASICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0071",
+      "ENE0228",
+      "ENE0229",
+      "ENE0231",
+      "ENE0235",
+      "ENE0251",
+      "ENE0267",
+      "ENE0433"
+    ],
+    "pre_requirements": [
+      "ENE0304",
+      "ENE0041",
+      "ENE0042",
+      "ENE0172"
+    ]
+  },
+  {
+    "cod": "ENE0334",
+    "nome": "COMPUTACAO PARA ENGENHARIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0262",
+    "nome": "COMUNICACOES DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0381"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0344",
+    "nome": "COMUNICA\u00c7\u00d5ES M\u00d3VEIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0626"
+    ],
+    "pre_requirements": [
+      "ENE0306 & ENE0295"
+    ]
+  },
+  {
+    "cod": "ENE0329",
+    "nome": "COMUNICACOES OPTICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0614"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0081",
+    "nome": "COMUNICA\u00c7\u00d5ES VIA SAT\u00c9LITE",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0389"
+    ],
+    "pre_requirements": [
+      "ENE0306 & ENE0295"
+    ]
+  },
+  {
+    "cod": "ENE0003",
+    "nome": "CONTROLE ADAPTATIVO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0441"
+    ],
+    "pre_requirements": [
+      "ENE0084"
+    ]
+  },
+  {
+    "cod": "ENE0004",
+    "nome": "CONTROLE DE PROCESSOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0005",
+      "ENE0079",
+      "ENE0167",
+      "ENE0362"
+    ],
+    "pre_requirements": [
+      "IQD0005 & IQD0048",
+      "ENE0085"
+    ]
+  },
+  {
+    "cod": "ENE0077",
+    "nome": "CONTROLE DE SISTEMAS DIN\u00c2MICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0005",
+      "ENE0078",
+      "ENE0079",
+      "ENE0328",
+      "ENE0345",
+      "ENE0379"
+    ],
+    "pre_requirements": [
+      "ENE0304 & ENE0282",
+      "ENE0037 & ENE0038"
+    ]
+  },
+  {
+    "cod": "ENE0167",
+    "nome": "CONTROLE DIGITAL",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0163",
+      "ENE0424"
+    ],
+    "pre_requirements": [
+      "ENE0084",
+      "FGA0012",
+      "FGA0197",
+      "ENE0004",
+      "ENE0051",
+      "ENE0079 & ENE0068",
+      "ENE0079 & ENE0037"
+    ]
+  },
+  {
+    "cod": "ENE0051",
+    "nome": "CONTROLE DIN\u00c2MICO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0078",
+      "ENE0079",
+      "ENE0167",
+      "ENE0480",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0052"
+    ],
+    "pre_requirements": [
+      "ENE0035 & ENE0036",
+      "ENE0085"
+    ]
+  },
+  {
+    "cod": "ENE0084",
+    "nome": "CONTROLE DIN\u00c2MICO",
+    "ch": 90,
+    "post_requirements": [
+      "ENM0001",
+      "ENE0003",
+      "ENE0005",
+      "ENE0167",
+      "ENE0168",
+      "ENE0240",
+      "ENE0260",
+      "ENE0323",
+      "ENE0328",
+      "ENE0345",
+      "ENE0510"
+    ],
+    "pre_requirements": [
+      "ENE0085",
+      "ENE0301"
+    ]
+  },
+  {
+    "cod": "ENE0319",
+    "nome": "CONTROLE LINEAR",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0165",
+      "ENE0168",
+      "ENE0323",
+      "ENE0608",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0290"
+    ],
+    "pre_requirements": [
+      "ENE0301"
+    ]
+  },
+  {
+    "cod": "ENE0165",
+    "nome": "CONTROLE NAO LINEAR",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0526"
+    ],
+    "pre_requirements": [
+      "ENE0319"
+    ]
+  },
+  {
+    "cod": "ENE0079",
+    "nome": "CONTROLE NO ESPA\u00c7O DE ESTADOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0260",
+      "ENE0419"
+    ],
+    "pre_requirements": [
+      "ENE0077",
+      "ENE0051",
+      "ENE0004"
+    ]
+  },
+  {
+    "cod": "ENE0240",
+    "nome": "CONTROLE PARA AUTOMA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0431"
+    ],
+    "pre_requirements": [
+      "ENE0084",
+      "ENE0078"
+    ]
+  },
+  {
+    "cod": "ENE0186",
+    "nome": "CONVERS\u00c3O DE ENERGIA E M\u00c1QUINAS EL\u00c9TRICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0225",
+      "ENE0288",
+      "ENE0317",
+      "ENE0341",
+      "ENE0425"
+    ],
+    "pre_requirements": [
+      "ENE0304 & ENE0177",
+      "ENE0172 & ENE0177",
+      "FGA0186 & FGA0154"
+    ]
+  },
+  {
+    "cod": "ENE0047",
+    "nome": "CONVERS\u00c3O ELETROMEC\u00c2NICA DE ENERGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0048",
+      "ENE0406"
+    ],
+    "pre_requirements": [
+      "ENE0042 & ENE0044 & IFD0179",
+      "ENE0042 & ENE0044 & ENE0177",
+      "ENE0172 & IFD0179",
+      "ENE0304 & ENE0282 & IFD0179",
+      "ENE0304 & ENE0282 & ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0130",
+    "nome": "CONVERS\u00c3O ELETROMEC\u00c2NICA DE ENERGIA",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0134",
+      "ENE0317",
+      "ENE0341",
+      "FGA0250",
+      "ENE0518"
+    ],
+    "pre_requirements": [
+      "ENE0172 & IFD0179 & ENM0121",
+      "ENE0172 & ENE0177 & ENM0121",
+      "ENE0172 & ENE0177 & ENM0163",
+      "FGA0186 & FGA0154"
+    ]
+  },
+  {
+    "cod": "ENE0340",
+    "nome": "DISPOSITIVOS E CIRCUITOS ELETR\u00d4NICOS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0019",
+      "ENE0075",
+      "ENE0170",
+      "ENE0183",
+      "ENE0238",
+      "ENE0321",
+      "ENM0180",
+      "ENE0355",
+      "ENE0622"
+    ],
+    "pre_requirements": [
+      "ENE0174 & IFD0179",
+      "ENE0177 & ENE0174",
+      "ENE0313 & ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0027",
+    "nome": "DISPOSITIVOS E CIRCUITOS ELETR\u00d4NICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0223",
+      "ENE0355",
+      "ENE0461",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0028"
+    ],
+    "pre_requirements": [
+      "ENE0037 & ENE0038 & ENE0177",
+      "ENE0174 & ENE0177",
+      "ENE0037 & ENE0038 & IFD0179",
+      "ENE0174 & IFD0179"
+    ]
+  },
+  {
+    "cod": "ENE0212",
+    "nome": "DISPOSITIVOS ELETRONICOS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0551"
+    ],
+    "pre_requirements": [
+      "ENE0302",
+      "ENE0181"
+    ]
+  },
+  {
+    "cod": "ENE0254",
+    "nome": "DISTRIBUICAO DE ENERGIA ELETRICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0572"
+    ],
+    "pre_requirements": [
+      "ENE0289  &  ENE0304",
+      "ENE0174",
+      "ENE0037"
+    ]
+  },
+  {
+    "cod": "ENE0243",
+    "nome": "ELETRICIDADE",
+    "ch": 90,
+    "post_requirements": [
+      "ENM0174",
+      "ENM0180",
+      "ENE0567"
+    ],
+    "pre_requirements": [
+      "IFD0072",
+      "IFD0179"
+    ]
+  },
+  {
+    "cod": "ENE0001",
+    "nome": "ELETRICIDADE B\u00c1SICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENM0174",
+      "ENE0392"
+    ],
+    "pre_requirements": [
+      "MAT0027 & MAT0031"
+    ]
+  },
+  {
+    "cod": "ENE0310",
+    "nome": "ELETROMAGNETISMO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0199",
+      "ENE0283",
+      "ENE0284",
+      "ENE0331",
+      "ENE0604"
+    ],
+    "pre_requirements": [
+      "ENE0303 & MAT0028",
+      "ENE0177 & MAT0028"
+    ]
+  },
+  {
+    "cod": "ENE0177",
+    "nome": "ELETROMAGNETISMO 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0049",
+      "ENE0050",
+      "ENE0053",
+      "ENE0054",
+      "IFD0183",
+      "IFD0185",
+      "IFD0236",
+      "IFD0244",
+      "ENE0195",
+      "ENE0283",
+      "ENE0353",
+      "ENE0380"
+    ],
+    "pre_requirements": [
+      "MAT0027"
+    ]
+  },
+  {
+    "cod": "ENE0179",
+    "nome": "ELETROMAGNETISMO 2",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0199",
+      "ENE0284",
+      "ENE0331",
+      "ENE0534"
+    ],
+    "pre_requirements": [
+      "ENE0177 & MAT0028",
+      "ENE0275 & MAT0028"
+    ]
+  },
+  {
+    "cod": "ENE0053",
+    "nome": "ELETROMAGNETISMO 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0194",
+      "ENE0199",
+      "ENE0408",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0054"
+    ],
+    "pre_requirements": [
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0284",
+    "nome": "ELETROMAGNETISMO APLICADO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0588"
+    ],
+    "pre_requirements": [
+      "ENE0179",
+      "ENE0310"
+    ]
+  },
+  {
+    "cod": "ENE0275",
+    "nome": "ELETROMAGNETISMO GERAL",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0582"
+    ],
+    "pre_requirements": [
+      "MAT0027 & MAT0048"
+    ]
+  },
+  {
+    "cod": "ENE0045",
+    "nome": "ELETR\u00d4NICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0355",
+      "ENE0404",
+      "ENE0438",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0046"
+    ],
+    "pre_requirements": [
+      "ENE0304 & ENE0282 & ENE0177",
+      "ENE0037 & ENE0038 & ENE0177",
+      "ENE0037 & ENE0038 & IFD0179",
+      "ENE0304 & ENE0282 & IFD0179"
+    ]
+  },
+  {
+    "cod": "ENE0302",
+    "nome": "ELETRONICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0212",
+      "ENE0215",
+      "ENE0355",
+      "ENE0598"
+    ],
+    "pre_requirements": [
+      "ENE0184 & ENE0304",
+      "ENE0172 & ENE0184"
+    ]
+  },
+  {
+    "cod": "ENE0181",
+    "nome": "ELETRONICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "FGA0017",
+      "ENE0019",
+      "IFD0142",
+      "ENE0170",
+      "ENE0212",
+      "ENE0215",
+      "ENE0247",
+      "ENE0321",
+      "FGA0215",
+      "ENE0535"
+    ],
+    "pre_requirements": [
+      "ENE0172 & ENE0184"
+    ]
+  },
+  {
+    "cod": "ENE0314",
+    "nome": "ELETRONICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0233",
+      "ENE0606",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0287"
+    ],
+    "pre_requirements": [
+      "ENE0302 & ENE0313",
+      "ENE0181 & ENE0174"
+    ]
+  },
+  {
+    "cod": "ENE0183",
+    "nome": "ELETRONICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0162",
+      "ENE0233",
+      "ENE0536"
+    ],
+    "pre_requirements": [
+      "ENE0181 & ENE0174",
+      "ENE0181 & ENE0313",
+      "ENE0340",
+      "ENE0045 & ENE0046"
+    ]
+  },
+  {
+    "cod": "ENE0059",
+    "nome": "ELETR\u00d4NICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0411",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0060"
+    ],
+    "pre_requirements": [
+      "ENE0045 & ENE0046",
+      "ENE0027 & ENE0028"
+    ]
+  },
+  {
+    "cod": "ENE0326",
+    "nome": "ELETR\u00d4NICA DE POT\u00caNCIA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0080",
+      "ENE0612"
+    ],
+    "pre_requirements": [
+      "ENE0045 & ENE0046  &  ENE0186",
+      "ENE0047"
+    ]
+  },
+  {
+    "cod": "ENE0221",
+    "nome": "ELETRONICA INDUSTRIAL",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0555"
+    ],
+    "pre_requirements": [
+      "ENE0314 & ENE0287 & ENE0186",
+      "ENE0183 & ENE0186"
+    ]
+  },
+  {
+    "cod": "ENE0134",
+    "nome": "ELETROTECNICA APLICADA",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0519"
+    ],
+    "pre_requirements": [
+      "ENE0130"
+    ]
+  },
+  {
+    "cod": "ENE0459",
+    "nome": "ENGENHARIA E MUDAN\u00c7AS CLIM\u00c1TICAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0063",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENGENHARIA DE REDES DE COMUNICA\u00c7\u00c3O",
+    "ch": 180,
+    "post_requirements": [
+      "ENE0490"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0070",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENGENHARIA EL\u00c9TRICA",
+    "ch": 180,
+    "post_requirements": [
+      "ENE0415"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0166",
+    "nome": "FILTROS ELETRICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0527"
+    ],
+    "pre_requirements": [
+      "ENE0313 & ENE0282",
+      "ENE0174"
+    ]
+  },
+  {
+    "cod": "ENE0238",
+    "nome": "FOT\u00d4NICA B\u00c1SICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0565"
+    ],
+    "pre_requirements": [
+      "ENE0184",
+      "ENE0340",
+      "IFD0115"
+    ]
+  },
+  {
+    "cod": "ENE0076",
+    "nome": "FUNDAMENTOS DE COMPRESS\u00c3O DE SINAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0502"
+    ],
+    "pre_requirements": [
+      "EST0023 & ENE0067",
+      "EST0023 & ENE0037",
+      "EST0023 & CIC0242",
+      "EST0023 & FGA0102"
+    ]
+  },
+  {
+    "cod": "ENE0141",
+    "nome": "FUNDAMENTOS DE ELETROT\u00c9CNICA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0520"
+    ],
+    "pre_requirements": [
+      "IFD0177"
+    ]
+  },
+  {
+    "cod": "ENE0274",
+    "nome": "FUNDAMENTOS DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0015",
+      "ENE0089",
+      "ENC0261",
+      "ENE0383"
+    ],
+    "pre_requirements": [
+      "EST0023 & ENE0013"
+    ]
+  },
+  {
+    "cod": "ENE0015",
+    "nome": "FUNDAMENTOS DE REDES 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0021",
+      "ENE0025",
+      "ENE0394"
+    ],
+    "pre_requirements": [
+      "ENE0274"
+    ]
+  },
+  {
+    "cod": "ENE0230",
+    "nome": "GERACAO DE ENERGIA ELETRICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0430"
+    ],
+    "pre_requirements": [
+      "ENE0289 & ENE0186"
+    ]
+  },
+  {
+    "cod": "ENE0257",
+    "nome": "GERACAO HIDRELETRICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0573"
+    ],
+    "pre_requirements": [
+      "ENE0289 & ENE0186"
+    ]
+  },
+  {
+    "cod": "ENE0016",
+    "nome": "GER\u00caNCIA DE REDES E SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0395"
+    ],
+    "pre_requirements": [
+      "ENE0352 & ENE0017"
+    ]
+  },
+  {
+    "cod": "ENE0260",
+    "nome": "IDENTIFICA\u00c7\u00c3O DE SISTEMAS DIN\u00c2MICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0575"
+    ],
+    "pre_requirements": [
+      "ENE0084",
+      "ENE0319 & ENE0290",
+      "ENE0079"
+    ]
+  },
+  {
+    "cod": "ENE0065",
+    "nome": "IMAGENS M\u00c9DICAS: AQUISI\u00c7\u00c3O E RECONSTRU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0492"
+    ],
+    "pre_requirements": [
+      "ENE0174",
+      "ENE0313",
+      "FGA0219",
+      "FGA0199",
+      "ENE0304 & ENE0282"
+    ]
+  },
+  {
+    "cod": "ENE0229",
+    "nome": "INSTALA\u00c7\u00d5ES ELETRICAS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0336",
+      "ENC0262",
+      "ENE0559"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0071",
+    "nome": "INSTALA\u00c7\u00d5ES EL\u00c9TRICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0072",
+      "ENE0377"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0336",
+    "nome": "INSTALACOES ELETRICAS INDUSTRIAIS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0620"
+    ],
+    "pre_requirements": [
+      "ENE0229"
+    ]
+  },
+  {
+    "cod": "ENE0220",
+    "nome": "INSTRUMENTACAO DE CONTROLE",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0429"
+    ],
+    "pre_requirements": [
+      "ENE0084 & ENE0340",
+      "ENE0319 & ENE0181",
+      "ENE0084 & ENE0181",
+      "ENE0077 & ENE0181",
+      "ENE0077 & ENE0045",
+      "ENE0077 & ENE0027"
+    ]
+  },
+  {
+    "cod": "ENE0005",
+    "nome": "INSTRUMENTA\u00c7\u00c3O DE CONTROLE DE PROCESSOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0393"
+    ],
+    "pre_requirements": [
+      "ENE0004",
+      "ENE0084",
+      "ENE0077"
+    ]
+  },
+  {
+    "cod": "ENE0355",
+    "nome": "INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA E SENSORES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0633"
+    ],
+    "pre_requirements": [
+      "ENE0045",
+      "ENE0027",
+      "ENE0340",
+      "ENE0302"
+    ]
+  },
+  {
+    "cod": "ENE0154",
+    "nome": "INTELIG\u00caNCIA COMPUTACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0521"
+    ],
+    "pre_requirements": [
+      "ENE0077 & ENE0078",
+      "ENE0306 & ENE0295"
+    ]
+  },
+  {
+    "cod": "ENE0026",
+    "nome": "INTRODU\u00c7\u00c3O A ENGENHARIA DE REDES DE COMUNICAC\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0155",
+    "nome": "INTRODUCAO A ENGENHARIA ELETRICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0258",
+    "nome": "INTRODUCAO A IDENTIFICACAO DE PROCESSOS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0574"
+    ],
+    "pre_requirements": [
+      "ENE0301",
+      "ENE0085"
+    ]
+  },
+  {
+    "cod": "ENE0168",
+    "nome": "INTRODUCAO AO CONTROLE OTIMO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0529"
+    ],
+    "pre_requirements": [
+      "ENE0319",
+      "ENE0084"
+    ]
+  },
+  {
+    "cod": "ENE0321",
+    "nome": "INTRODUCAO AO PROJETO DE CIRCUITOS INTEGRADOS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0610"
+    ],
+    "pre_requirements": [
+      "ENE0181",
+      "ENE0340",
+      "FGA0068",
+      "FGA0070",
+      "FGA0217",
+      "ENE0045 & ENE0046"
+    ]
+  },
+  {
+    "cod": "ENE0066",
+    "nome": "INTRODU\u00c7\u00c3O AOS CIRCUITOS EL\u00c9TRICOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0413"
+    ],
+    "pre_requirements": [
+      "MAT0026 & MAT0031"
+    ]
+  },
+  {
+    "cod": "ENE0323",
+    "nome": "INTRODUCAO A ROBOTICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0611"
+    ],
+    "pre_requirements": [
+      "ENE0319",
+      "ENE0084"
+    ]
+  },
+  {
+    "cod": "ENE0303",
+    "nome": "INTRODUCAO A TEORIA ELETROMAGNETICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0599"
+    ],
+    "pre_requirements": [
+      "MAT0027 & MAT0048",
+      "MAT0027 & IFD0072"
+    ]
+  },
+  {
+    "cod": "ENE0036",
+    "nome": "LABORAT\u00d3RIO DE AN\u00c1LISE DIN\u00c2MICA LINEAR",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0467",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0035"
+    ],
+    "pre_requirements": [
+      "ENE0037 & ENE0038",
+      "ENE0174"
+    ]
+  },
+  {
+    "cod": "ENE0057",
+    "nome": "LABORAT\u00d3RIO DE ARQUITETURA DE PROCESSADORES DIGITAIS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0486"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0010",
+    "nome": "LABORAT\u00d3RIO DE ARQUITETURA E PROTOCOLOS DE REDES",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0448"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0282",
+    "nome": "LABORAT\u00d3RIO DE CIRCUITOS EL\u00c9TRICOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENM0118",
+      "ENE0384"
+    ],
+    "pre_requirements": [
+      "ENE0066 & ENE0067",
+      "ENE0066 & CIC0242"
+    ]
+  },
+  {
+    "cod": "ENE0044",
+    "nome": "LABORAT\u00d3RIO DE CIRCUITOS EL\u00c9TRICOS 1",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0403",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0042"
+    ],
+    "pre_requirements": [
+      "MAT0031 & MAT0026"
+    ]
+  },
+  {
+    "cod": "ENE0038",
+    "nome": "LABORAT\u00d3RIO DE CIRCUITOS EL\u00c9TRICOS 2",
+    "ch": 30,
+    "post_requirements": [
+      "ENM0118",
+      "ENE0401",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0037"
+    ],
+    "pre_requirements": [
+      "ENE0042 & ENE0044",
+      "ENE0041 & ENE0043",
+      "ENE0172"
+    ]
+  },
+  {
+    "cod": "ENE0290",
+    "nome": "LABORATORIO DE CONTROLE",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0592",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0319"
+    ],
+    "pre_requirements": [
+      "ENE0301"
+    ]
+  },
+  {
+    "cod": "ENE0006",
+    "nome": "LABORAT\u00d3RIO DE CONTROLE DE PROCESSOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0363"
+    ],
+    "pre_requirements": [
+      "ENE0004 & IQD0014 & ENE0005",
+      "ENE0084 & ENE0005"
+    ]
+  },
+  {
+    "cod": "ENE0078",
+    "nome": "LABORAT\u00d3RIO DE CONTROLE DE SISTEMAS DIN\u00c2MICOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0240",
+      "ENE0418"
+    ],
+    "pre_requirements": [
+      "ENE0077",
+      "ENE0051"
+    ]
+  },
+  {
+    "cod": "ENE0052",
+    "nome": "LABORAT\u00d3RIO DE CONTROLE DIN\u00c2MICO",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0481",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0051"
+    ],
+    "pre_requirements": [
+      "ENE0035 & ENE0036",
+      "ENE0085"
+    ]
+  },
+  {
+    "cod": "ENE0288",
+    "nome": "LABORATORIO DE CONVERSAO DE ENERGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0590"
+    ],
+    "pre_requirements": [
+      "ENE0186"
+    ]
+  },
+  {
+    "cod": "ENE0074",
+    "nome": "LABORAT\u00d3RIO DE CONVERS\u00c3O DE ENERGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0417"
+    ],
+    "pre_requirements": [
+      "ENE0073"
+    ]
+  },
+  {
+    "cod": "ENE0048",
+    "nome": "LABORAT\u00d3RIO DE CONVERS\u00c3O ELETROMEC\u00c2NICA DE ENERGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0372"
+    ],
+    "pre_requirements": [
+      "ENE0047"
+    ]
+  },
+  {
+    "cod": "ENE0028",
+    "nome": "LABORAT\u00d3RIO DE DISPOSITIVOS E CIRCUITOS ELETR\u00d4NICOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0462",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0027"
+    ],
+    "pre_requirements": [
+      "ENE0037 & ENE0038 & ENE0177",
+      "ENE0174 & ENE0177",
+      "ENE0037 & ENE0038 & IFD0179",
+      "ENE0174 & IFD0179"
+    ]
+  },
+  {
+    "cod": "ENE0002",
+    "nome": "LABORAT\u00d3RIO DE ELETRICIDADE B\u00c1SICA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0361"
+    ],
+    "pre_requirements": [
+      "MAT0027 & MAT0031"
+    ]
+  },
+  {
+    "cod": "ENE0283",
+    "nome": "LABORATORIO DE ELETROMAGNETISMO",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0587"
+    ],
+    "pre_requirements": [
+      "ENE0310",
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0054",
+    "nome": "LABORAT\u00d3RIO DE ELETROMAGNETISMO 2",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0409"
+    ],
+    "pre_requirements": [
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0287",
+    "nome": "LABORATORIO DE ELETRONICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0589",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0314"
+    ],
+    "pre_requirements": [
+      "ENE0302 & ENE0313 & ENE0282",
+      "ENE0181 & ENE0174"
+    ]
+  },
+  {
+    "cod": "ENE0046",
+    "nome": "LABORAT\u00d3RIO DE ELETR\u00d4NICA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0405"
+    ],
+    "pre_requirements": [
+      "ENE0304 & ENE0282 & ENE0177",
+      "ENE0037 & ENE0038 & ENE0177",
+      "ENE0037 & ENE0038 & IFD0179",
+      "ENE0304 & ENE0282 & IFD0179"
+    ]
+  },
+  {
+    "cod": "ENE0060",
+    "nome": "LABORAT\u00d3RIO DE ELETR\u00d4NICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0412"
+    ],
+    "pre_requirements": [
+      "ENE0045 & ENE0046",
+      "ENE0027 & ENE0028"
+    ]
+  },
+  {
+    "cod": "ENE0080",
+    "nome": "LABORAT\u00d3RIO DE ELETR\u00d4NICA DE POT\u00caNCIA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0506"
+    ],
+    "pre_requirements": [
+      "ENE0326"
+    ]
+  },
+  {
+    "cod": "ENE0072",
+    "nome": "LABORAT\u00d3RIO DE INSTALA\u00c7\u00d5ES EL\u00c9TRICAS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0378"
+    ],
+    "pre_requirements": [
+      "ENE0071"
+    ]
+  },
+  {
+    "cod": "ENE0050",
+    "nome": "LABORAT\u00d3RIO DE MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0373"
+    ],
+    "pre_requirements": [
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0295",
+    "nome": "LABORAT\u00d3RIO DE PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0385"
+    ],
+    "pre_requirements": [
+      "EST0023 & ENE0174",
+      "EST0023 & ENE0313",
+      "EST0023 & ENE0068"
+    ]
+  },
+  {
+    "cod": "ENE0011",
+    "nome": "LABORAT\u00d3RIO DE REDES",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0364"
+    ],
+    "pre_requirements": [
+      "ENE0015 & ENE0091",
+      "ENE0274 & ENE0335"
+    ]
+  },
+  {
+    "cod": "ENE0008",
+    "nome": "LABORAT\u00d3RIO DE REDES DE TELECOMUNICA\u00c7\u00d5ES",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0446"
+    ],
+    "pre_requirements": [
+      "ENE0237 & ENE0306",
+      "ENE0306 & ENE0009 & ENE0011",
+      "ENE0306 & ENE0011 & ENE0025"
+    ]
+  },
+  {
+    "cod": "ENE0291",
+    "nome": "LABORATORIO DE SISTEMAS DIGITAIS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0245",
+      "ENE0593",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0320"
+    ],
+    "pre_requirements": [
+      "ENE0302 & ENE0181"
+    ]
+  },
+  {
+    "cod": "ENE0040",
+    "nome": "LABORAT\u00d3RIO DE SISTEMAS DIGITAIS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0371"
+    ],
+    "pre_requirements": [
+      "CIC0007",
+      "CIC0004",
+      "ENE0334"
+    ]
+  },
+  {
+    "cod": "ENE0034",
+    "nome": "LABORAT\u00d3RIO DE SISTEMAS DIGITAIS 2",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0465",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0031"
+    ],
+    "pre_requirements": [
+      "ENE0039 & ENE0040",
+      "ENE0277"
+    ]
+  },
+  {
+    "cod": "ENE0073",
+    "nome": "LABORAT\u00d3RIO DE SISTEMAS EL\u00c9TRICOS DE POT\u00caNCIA",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0074",
+      "ENE0416"
+    ],
+    "pre_requirements": [
+      "ENE0186 & ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0058",
+    "nome": "LABORAT\u00d3RIO DE SISTEMAS MICROPROCESSADOS",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0410"
+    ],
+    "pre_requirements": [
+      "ENE0039 & ENE0040"
+    ]
+  },
+  {
+    "cod": "ENE0294",
+    "nome": "LABORATORIO DE TELECOMUNICACOES",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0594"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0317",
+    "nome": "M\u00c1QUINAS EL\u00c9TRICAS 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0341",
+      "ENE0607"
+    ],
+    "pre_requirements": [
+      "ENE0186",
+      "ENE0130"
+    ]
+  },
+  {
+    "cod": "ENE0184",
+    "nome": "MATERIAIS ELETRICOS E MAGNETICOS",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0238",
+      "ENE0537"
+    ],
+    "pre_requirements": [
+      "ENE0177 & MAT0059",
+      "ENE0275 & MAT0059"
+    ]
+  },
+  {
+    "cod": "ENE0049",
+    "nome": "MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0075",
+      "ENE0407",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0050"
+    ],
+    "pre_requirements": [
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "ENE0276",
+    "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0432"
+    ],
+    "pre_requirements": [
+      "ENE0335",
+      "ENE0013"
+    ]
+  },
+  {
+    "cod": "ENE0200",
+    "nome": "MICROONDAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0543"
+    ],
+    "pre_requirements": [
+      "ENE0199"
+    ]
+  },
+  {
+    "cod": "ENE0082",
+    "nome": "NO\u00c7\u00d5ES DE INTELIG\u00caNCIA ARTIFICIAL",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0508"
+    ],
+    "pre_requirements": [
+      "MAT0027 & EST0023 & CIC0004",
+      "MAT0027 & EST0023 & ENE0334",
+      "MAT0027 & EST0023 & CIC0007"
+    ]
+  },
+  {
+    "cod": "ENE0087",
+    "nome": "OPERA\u00c7\u00c3O E ADMINISTRA\u00c7\u00c3O DE REDES",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0513"
+    ],
+    "pre_requirements": [
+      "ENE0237",
+      "ENE0025 & ENE0011"
+    ]
+  },
+  {
+    "cod": "ENE0014",
+    "nome": "PLANEJAMENTO DE REDES SEM FIO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0451"
+    ],
+    "pre_requirements": [
+      "ENE0306"
+    ]
+  },
+  {
+    "cod": "ENE0273",
+    "nome": "PLANEJAMENTO ENERGETICO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0580"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0306",
+    "nome": "PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0014",
+      "ENE0202",
+      "ENE0204",
+      "ENE0206",
+      "ENE0211",
+      "ENE0223",
+      "ENE0262",
+      "ENE0265",
+      "ENE0329",
+      "ENE0386"
+    ],
+    "pre_requirements": [
+      "EST0023 & ENE0174",
+      "EST0023 & ENE0313",
+      "EST0023 & ENE0068"
+    ]
+  },
+  {
+    "cod": "ENE0345",
+    "nome": "PRINC\u00cdPIOS DE CONTROLE DE ROB\u00d4S",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0627"
+    ],
+    "pre_requirements": [
+      "ENE0084",
+      "ENE0077"
+    ]
+  },
+  {
+    "cod": "ENE0209",
+    "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0549"
+    ],
+    "pre_requirements": [
+      "ENE0067",
+      "ENE0037",
+      "CIC0242"
+    ]
+  },
+  {
+    "cod": "ENE0354",
+    "nome": "PROJETO FINAL DE GRADUA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0343",
+      "ENE0360",
+      "ENE0632"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0342",
+    "nome": "PROJETO FINAL DE GRADUA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0343",
+      "ENE0360",
+      "ENE0624"
+    ],
+    "pre_requirements": [
+      "ENE0024"
+    ]
+  },
+  {
+    "cod": "ENE0343",
+    "nome": "PROJETO FINAL DE GRADUA\u00c7\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0625"
+    ],
+    "pre_requirements": [
+      "ENE0342",
+      "ENE0354"
+    ]
+  },
+  {
+    "cod": "ENE0438",
+    "nome": "PROJETO INTEGRADOR DE TECNOLOGIAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0642"
+    ],
+    "pre_requirements": [
+      "ENE0045"
+    ]
+  },
+  {
+    "cod": "ENE0022",
+    "nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0397"
+    ],
+    "pre_requirements": [
+      "ENE0334 & ENE0013",
+      "ENE0334 & ENE0335"
+    ]
+  },
+  {
+    "cod": "ENE0024",
+    "nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0191",
+      "ENE0342",
+      "ENE0358",
+      "ENE0398"
+    ],
+    "pre_requirements": [
+      "ENE0022 & ENE0091 & ENE0274"
+    ]
+  },
+  {
+    "cod": "ENE0195",
+    "nome": "PROPAGACAO DE ONDAS ELETROMAGNETICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0390"
+    ],
+    "pre_requirements": [
+      "ENE0177",
+      "FGA0143"
+    ]
+  },
+  {
+    "cod": "ENE0235",
+    "nome": "PROTECAO DE SISTEMAS ELETRICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0563"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0025",
+    "nome": "PROTOCOLOS DE TRANSPORTE E ROTEAMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0088",
+      "ENE0399"
+    ],
+    "pre_requirements": [
+      "ENE0015"
+    ]
+  },
+  {
+    "cod": "ENE0341",
+    "nome": "QUALIDADE DE EN\u00c9RGIA EL\u00c9TRICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0623"
+    ],
+    "pre_requirements": [
+      "ENE0317",
+      "ENE0130",
+      "ENE0186"
+    ]
+  },
+  {
+    "cod": "ENE0207",
+    "nome": "RADIODIFUSAO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0548"
+    ],
+    "pre_requirements": [
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0333",
+    "nome": "REDES DE COMUNICACAO DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENC0262",
+      "ENE0617"
+    ],
+    "pre_requirements": [
+      "ENE0237",
+      "ENE0011 & ENE0009"
+    ]
+  },
+  {
+    "cod": "ENE0007",
+    "nome": "REDES DE TELECOMUNICA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0445"
+    ],
+    "pre_requirements": [
+      "ENE0306 & ENE0025"
+    ]
+  },
+  {
+    "cod": "ENE0083",
+    "nome": "REDES DE TELECOMUNICA\u00c7\u00d5ES 1",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0086",
+      "ENE0509"
+    ],
+    "pre_requirements": [
+      "ENE0306 & ENE0237",
+      "ENE0306 & ENE0025 & ENE0011"
+    ]
+  },
+  {
+    "cod": "ENE0086",
+    "nome": "REDES DE TELECOMUNICA\u00c7\u00d5ES 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0512"
+    ],
+    "pre_requirements": [
+      "ENE0083"
+    ]
+  },
+  {
+    "cod": "ENE0352",
+    "nome": "REDES LOCAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0090",
+      "ENE0437"
+    ],
+    "pre_requirements": [
+      "ENE0237",
+      "ENE0009 & ENE0011",
+      "ENE0025 & ENE0011"
+    ]
+  },
+  {
+    "cod": "ENE0064",
+    "nome": "REDES SEM FIO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0375"
+    ],
+    "pre_requirements": [
+      "ENE0237",
+      "ENE0009 & ENE0011",
+      "ENE0025 & ENE0011"
+    ]
+  },
+  {
+    "cod": "ENE0090",
+    "nome": "SEGURAN\u00c7A DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0421"
+    ],
+    "pre_requirements": [
+      "ENE0352"
+    ]
+  },
+  {
+    "cod": "ENE0163",
+    "nome": "SINAIS E SISTEMAS DISCRETOS NO TEMPO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0524"
+    ],
+    "pre_requirements": [
+      "ENE0167",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0067",
+    "nome": "SINAIS E SISTEMAS EM TEMPO CONT\u00cdNUO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0068",
+      "CIC0196",
+      "ENE0209",
+      "ENE0414",
+      "ENE0494"
+    ],
+    "pre_requirements": [
+      "MAT0026 & MAT0031"
+    ]
+  },
+  {
+    "cod": "ENE0068",
+    "nome": "SINAIS E SISTEMAS EM TEMPO DISCRETO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0339",
+      "ENE0376"
+    ],
+    "pre_requirements": [
+      "ENE0067",
+      "ENE0037",
+      "CIC0242"
+    ]
+  },
+  {
+    "cod": "ENE0223",
+    "nome": "SISTEMAS DE \u00c1UDIO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0556"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "FGA0199",
+      "ENE0027"
+    ]
+  },
+  {
+    "cod": "ENE0164",
+    "nome": "SISTEMAS DE AUDIO E VIDEO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0525"
+    ],
+    "pre_requirements": [
+      "ENE0306 & ENE0314",
+      "ENE0183 & ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0202",
+    "nome": "SISTEMAS DE COMUNICACOES 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0428"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0088",
+    "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O DISTRIBU\u00cdDOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0420"
+    ],
+    "pre_requirements": [
+      "ENE0025"
+    ]
+  },
+  {
+    "cod": "ENE0356",
+    "nome": "SISTEMAS DE MEDI\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0634"
+    ],
+    "pre_requirements": [
+      "ENE0045 & ENE0077"
+    ]
+  },
+  {
+    "cod": "ENE0335",
+    "nome": "SISTEMAS DE PROGRAMACAO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0276",
+      "ENE0619"
+    ],
+    "pre_requirements": [
+      "ENE0334",
+      "CIC0007"
+    ]
+  },
+  {
+    "cod": "ENE0039",
+    "nome": "SISTEMAS DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0370",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0040"
+    ],
+    "pre_requirements": [
+      "CIC0007",
+      "CIC0004",
+      "ENE0334"
+    ]
+  },
+  {
+    "cod": "ENE0320",
+    "nome": "SISTEMAS DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0245",
+      "ENE0609",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0291"
+    ],
+    "pre_requirements": [
+      "ENE0302 & ENE0181"
+    ]
+  },
+  {
+    "cod": "ENE0277",
+    "nome": "SISTEMAS DIGITAIS 1",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0031",
+      "ENE0034",
+      "CIC0099",
+      "FGA0072",
+      "FGA0074",
+      "ENE0278",
+      "ENM0178",
+      "FGA0142",
+      "ENE0584"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0031",
+    "nome": "SISTEMAS DIGITAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0464",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0034"
+    ],
+    "pre_requirements": [
+      "ENE0039 & ENE0040",
+      "ENE0277"
+    ]
+  },
+  {
+    "cod": "ENE0029",
+    "nome": "SISTEMAS DIGITAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0463"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0278",
+    "nome": "SISTEMAS DIGITAIS 2",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0186",
+      "FGA0096",
+      "ENE0245",
+      "FGA0182",
+      "FGA0201",
+      "ENE0585"
+    ],
+    "pre_requirements": [
+      "ENE0277",
+      "CIC0094"
+    ]
+  },
+  {
+    "cod": "ENE0301",
+    "nome": "SISTEMAS LINEARES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0084",
+      "ENE0258",
+      "ENE0290",
+      "ENE0319",
+      "ENE0597"
+    ],
+    "pre_requirements": [
+      "ENE0313",
+      "ENE0174"
+    ]
+  },
+  {
+    "cod": "ENE0056",
+    "nome": "SISTEMAS MICROPROCESSADOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0374",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ENE0058",
+      "ENE0440"
+    ],
+    "pre_requirements": [
+      "ENE0039 & ENE0040"
+    ]
+  },
+  {
+    "cod": "ENE0091",
+    "nome": "SISTEMAS OPERACIONAIS DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0422"
+    ],
+    "pre_requirements": [
+      "ENE0056 & ENE0058 & ENE0274",
+      "ENE0056 & ENE0440 & ENE0274"
+    ]
+  },
+  {
+    "cod": "ENE0231",
+    "nome": "SUBESTACOES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0561"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0248",
+    "nome": "TECNICAS DE ALTA TENSAO",
+    "ch": 75,
+    "post_requirements": [
+      "ENE0570"
+    ],
+    "pre_requirements": [
+      "ENE0304",
+      "ENE0172"
+    ]
+  },
+  {
+    "cod": "ENE0247",
+    "nome": "TECNOLOGIA DE CIRCUITOS INTEGRADOS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0569"
+    ],
+    "pre_requirements": [
+      "ENE0181",
+      "ENE0045 & ENE0046"
+    ]
+  },
+  {
+    "cod": "ENE0225",
+    "nome": "TECNOLOGIA NUCLEAR",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0557"
+    ],
+    "pre_requirements": [
+      "ENE0186"
+    ]
+  },
+  {
+    "cod": "ENE0204",
+    "nome": "TELEFONIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0546"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0206",
+    "nome": "TELEFONIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0547"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0211",
+    "nome": "TEORIA DA INFORMACAO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0550"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0191",
+    "nome": "TEORIA DE COMUNICACOES",
+    "ch": 90,
+    "post_requirements": [
+      "ENE0163",
+      "ENE0202",
+      "ENE0204",
+      "ENE0206",
+      "ENE0207",
+      "ENE0211",
+      "ENE0262",
+      "ENE0265",
+      "ENE0329",
+      "ENE0539"
+    ],
+    "pre_requirements": [
+      "ENE0174 & EST0023",
+      "ENE0313 & EST0023"
+    ]
+  },
+  {
+    "cod": "ENE0305",
+    "nome": "TEORIA DE COMUNICACOES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0601"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0328",
+    "nome": "TOPICOS EM CONTROLE E AUTOMACAO",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0613"
+    ],
+    "pre_requirements": [
+      "ENE0077",
+      "ENE0084"
+    ]
+  },
+  {
+    "cod": "ENE0332",
+    "nome": "TOPICOS EM ENGENHARIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0347",
+    "nome": "T\u00d3PICOS EM REDES DE COMUNICA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0628"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0349",
+    "nome": "T\u00d3PICOS EM REDES DE COMUNICA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0629"
+    ],
+    "pre_requirements": [
+      "ENE0025 & ENE0011",
+      "ENE0237",
+      "ENE0009 & ENE0011"
+    ]
+  },
+  {
+    "cod": "ENE0021",
+    "nome": "T\u00d3PICOS EM REDES DE COMUNICA\u00c7\u00c3O 3",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0396"
+    ],
+    "pre_requirements": [
+      "ENE0015"
+    ]
+  },
+  {
+    "cod": "ENE0170",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA BIOM\u00c9DICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0530"
+    ],
+    "pre_requirements": [
+      "ENE0181",
+      "ENE0340",
+      "ENE0045 & ENE0046"
+    ]
+  },
+  {
+    "cod": "ENE0019",
+    "nome": "T\u00d3PICOS ESPECIAIS EM MICROELETR\u00d4NICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0455"
+    ],
+    "pre_requirements": [
+      "ENE0181",
+      "ENE0340",
+      "FGA0068",
+      "FGA0070",
+      "FGA0217",
+      "ENE0045 & ENE0046"
+    ]
+  },
+  {
+    "cod": "ENE0339",
+    "nome": "TOPICOS ESPECIAIS EM PROCESSAMENTO DE SINAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0621"
+    ],
+    "pre_requirements": [
+      "ENE0068",
+      "ENE0037"
+    ]
+  },
+  {
+    "cod": "ENE0267",
+    "nome": "TOPICOS ESPECIAIS EM SISTEMA DE POTENCIA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0578"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  },
+  {
+    "cod": "ENE0270",
+    "nome": "TOPICOS ESPECIAIS EM SISTEMA DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0382"
+    ],
+    "pre_requirements": [
+      "ENE0056 & ENE0058",
+      "CIC0099"
+    ]
+  },
+  {
+    "cod": "ENE0265",
+    "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0577"
+    ],
+    "pre_requirements": [
+      "ENE0306",
+      "ENE0191"
+    ]
+  },
+  {
+    "cod": "ENE0309",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 30,
+    "post_requirements": [
+      "ENE0298",
+      "ENE0299",
+      "ENE0391",
+      "ENE0436"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ENE0299",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 150,
+    "post_requirements": [
+      "ENE0434"
+    ],
+    "pre_requirements": [
+      "ENE0309",
+      "ENE0368"
+    ]
+  },
+  {
+    "cod": "ENE0251",
+    "nome": "TRANSMISSAO DE ENERGIA ELETRICA",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0571"
+    ],
+    "pre_requirements": [
+      "ENE0289"
+    ]
+  }
+]

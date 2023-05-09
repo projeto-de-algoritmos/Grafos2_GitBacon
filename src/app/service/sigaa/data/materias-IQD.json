@@ -1,0 +1,2510 @@
+[
+  {
+    "cod": "IQD0165",
+    "nome": "A EXPERIMENTA\u00c7\u00c3O NO ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0545"
+    ],
+    "pre_requirements": [
+      "IQD0148"
+    ]
+  },
+  {
+    "cod": "IQD0285",
+    "nome": "AN\u00c1LISE DE EXPERIMENTOS PARA O ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0634"
+    ],
+    "pre_requirements": [
+      "IQD0148"
+    ]
+  },
+  {
+    "cod": "IQD0284",
+    "nome": "AN\u00c1LISE DE LIVROS DID\u00c1TICOS DE ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0633"
+    ],
+    "pre_requirements": [
+      "IQD0148"
+    ]
+  },
+  {
+    "cod": "IQD0250",
+    "nome": "AN\u00c1LISE DE RECURSOS DID\u00c1TICOS PARA O ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0066",
+    "nome": "ANALISE INSTRUMENTAL 1",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0493"
+    ],
+    "pre_requirements": [
+      "IQD0065 & IQD0130"
+    ]
+  },
+  {
+    "cod": "IQD0067",
+    "nome": "ANALISE INSTRUMENTAL 2",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0494"
+    ],
+    "pre_requirements": [
+      "IQD0065",
+      "IQD0130"
+    ]
+  },
+  {
+    "cod": "IQD0033",
+    "nome": "AN\u00c1LISE INSTRUMENTAL TE\u00d3RICA E EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0120",
+      "FAR0163",
+      "IQD0468"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0099",
+    "nome": "ANALISE ORGANICA",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0158",
+      "IQD0514"
+    ],
+    "pre_requirements": [
+      "IQD0074",
+      "IQD0137"
+    ]
+  },
+  {
+    "cod": "IQD0281",
+    "nome": "AN\u00c1LISE QUALITATIVA E QUANTITATIVA DOS F\u00c1RMACOS",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0630"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0130",
+    "nome": "ANALISE QUIMICA QUANTITATIVA",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0067",
+      "IQD0527"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0040",
+    "nome": "AULAS DE QU\u00cdMICA EM SALA AMBIENTE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0039",
+    "nome": "AVALIA\u00c7\u00c3O NO ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0254",
+    "nome": "BIOINORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0604"
+    ],
+    "pre_requirements": [
+      "IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0260",
+    "nome": "C\u00c1LCULOS B\u00c1SICOS DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0222",
+    "nome": "CATALISADORES E CAT\u00c1LISE",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0577"
+    ],
+    "pre_requirements": [
+      "IQD0092"
+    ]
+  },
+  {
+    "cod": "IQD0298",
+    "nome": "CIN\u00c9TICA DOS REATORES QU\u00cdMICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0643"
+    ],
+    "pre_requirements": [
+      "IQD0103"
+    ]
+  },
+  {
+    "cod": "IQD0032",
+    "nome": "CIN\u00c9TICA QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0359"
+    ],
+    "pre_requirements": [
+      "IQD0296 & ENM0068",
+      "IQD0101"
+    ]
+  },
+  {
+    "cod": "IQD0257",
+    "nome": "CONCEITOS FUNDAMENTAIS EM QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0282",
+      "IQD0396"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0042",
+    "nome": "CONTEXTO ESCOLAR E ENSINO DE QU\u00cdMICA",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0043",
+    "nome": "DID\u00c1TICA DA QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0364"
+    ],
+    "pre_requirements": [
+      "IQD0118 & IQD0133 & IQD0035"
+    ]
+  },
+  {
+    "cod": "IQD0184",
+    "nome": "ELEMENTOS DE ESPECTROSCOPIA MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0554"
+    ],
+    "pre_requirements": [
+      "MAT0022 & IQD0072",
+      "MAT0025"
+    ]
+  },
+  {
+    "cod": "IQD0268",
+    "nome": "ELEMENTOS DE OPERA\u00c7\u00d5ES UNIT\u00c1RIAS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0047",
+      "IQD0231",
+      "IQD0232",
+      "IQD0233",
+      "IQD0234",
+      "IQD0235",
+      "IQD0238",
+      "IQD0272",
+      "IQD0273",
+      "IQD0277",
+      "IQD0278",
+      "IQD0299",
+      "IQD0399"
+    ],
+    "pre_requirements": [
+      "IQD0103 & IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0069",
+    "nome": "ELEMENTOS DE OPERA\u00c7\u00d5ES UNIT\u00c1RIAS",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0047",
+      "IQD0231",
+      "IQD0232",
+      "IQD0233",
+      "IQD0234",
+      "IQD0235",
+      "IQD0238",
+      "IQD0277",
+      "IQD0278",
+      "IQD0495"
+    ],
+    "pre_requirements": [
+      "IQD0103 & IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0048",
+    "nome": "ENGENHARIA DE REATORES QU\u00cdMICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0236",
+      "IQD0367"
+    ],
+    "pre_requirements": [
+      "MAT0026 & IQD0032 & IQD0005"
+    ]
+  },
+  {
+    "cod": "IQD0182",
+    "nome": "ENSINO DE QU\u00cdMICA  NA ESCOLA INCLUSIVA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0553"
+    ],
+    "pre_requirements": [
+      "IQD0035"
+    ]
+  },
+  {
+    "cod": "IQD0103",
+    "nome": "EQUIL\u00cdBRIO E CIN\u00c9TICA QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0046",
+      "IQD0079",
+      "IQD0192",
+      "IQD0236",
+      "IQD0298",
+      "IQD0371"
+    ],
+    "pre_requirements": [
+      "IQD0101",
+      "IQD0029"
+    ]
+  },
+  {
+    "cod": "IQD0150",
+    "nome": "EQUIL\u00cdBRIO QU\u00cdMICO E SOLU\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0536"
+    ],
+    "pre_requirements": [
+      "IQD0101",
+      "IQD0145 & IFD0238",
+      "IFD0175 & IFD0240",
+      "IFD0177"
+    ]
+  },
+  {
+    "cod": "IQD0158",
+    "nome": "ESPECTROCOPIA ORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0541"
+    ],
+    "pre_requirements": [
+      "IQD0167 & IQD0168",
+      "IQD0099"
+    ]
+  },
+  {
+    "cod": "IQD0029",
+    "nome": "ESPECTROSCOPIA AT\u00d4MICA E MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0103",
+      "IQD0356"
+    ],
+    "pre_requirements": [
+      "IQD0191 & IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0216",
+    "nome": "ESPECTROSCOPIA MOLECULAR E TERMODIN\u00c2MICA ESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0574"
+    ],
+    "pre_requirements": [
+      "IQD0187 & IQD0105"
+    ]
+  },
+  {
+    "cod": "IQD0207",
+    "nome": "ESTAGIO EM ENSINO DE QUIMICA",
+    "ch": 150,
+    "post_requirements": [
+      "IQD0565"
+    ],
+    "pre_requirements": [
+      "IQD0206 & IQD0201"
+    ]
+  },
+  {
+    "cod": "IQD0239",
+    "nome": "EST\u00c1GIO EM ENSINO DE QU\u00cdMICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0242",
+      "IQD0593"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0229",
+    "nome": "EST\u00c1GIO EM QU\u00cdMICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0230",
+      "IQD0583"
+    ],
+    "pre_requirements": [
+      "IQD0228",
+      "IQD0077 & IQD0228"
+    ]
+  },
+  {
+    "cod": "IQD0230",
+    "nome": "EST\u00c1GIO EM QU\u00cdMICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0584"
+    ],
+    "pre_requirements": [
+      "IQD0229"
+    ]
+  },
+  {
+    "cod": "IQD0275",
+    "nome": "EST\u00c1GIO EM QU\u00cdMICA TECNOL\u00d3GICA",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0625"
+    ],
+    "pre_requirements": [
+      "IQD0069 & IQD0266",
+      "IQD0268 & IQD0269 & IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0038",
+    "nome": "EST\u00c1GIO EM REG\u00caNCIA NO ENSINO DE QU\u00cdMICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0361"
+    ],
+    "pre_requirements": [
+      "IQD0148 & IQD0101 & IQD0042"
+    ]
+  },
+  {
+    "cod": "IQD0242",
+    "nome": "EST\u00c1GIO EM REG\u00caNCIA NO ENSINO DE QU\u00cdMICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0393"
+    ],
+    "pre_requirements": [
+      "IQD0239"
+    ]
+  },
+  {
+    "cod": "IQD0018",
+    "nome": "EST\u00c1GIO SUPERVISIONADO",
+    "ch": 165,
+    "post_requirements": [
+      "IQD0453"
+    ],
+    "pre_requirements": [
+      "IQD0009 & IQD0010",
+      "IQD0009 & IQD0048",
+      "IQD0009 & ENM0071",
+      "IQD0010 & IQD0048",
+      "IQD0010 & ENM0071",
+      "IQD0048 & ENM0071"
+    ]
+  },
+  {
+    "cod": "IQD0089",
+    "nome": "ESTAGIO SUPERVISIONADO EM QUIMICA - DP",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0507"
+    ],
+    "pre_requirements": [
+      "IQD0174"
+    ]
+  },
+  {
+    "cod": "IQD0262",
+    "nome": "ESTRUTURA AT\u00d4MICA E LIGA\u00c7\u00d5ES QU\u00cdMICAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0195",
+    "nome": "EVOLU\u00c7\u00c3O DOS CONCEITOS DA QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0383"
+    ],
+    "pre_requirements": [
+      "IQD0148"
+    ]
+  },
+  {
+    "cod": "IQD0266",
+    "nome": "FEN\u00d4MENOS DE TRANSPORTE DE MASSA, ENERGIA E MOMENTUM",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0071",
+      "IQD0267",
+      "IQD0274",
+      "IQD0398"
+    ],
+    "pre_requirements": [
+      "MAT0026"
+    ]
+  },
+  {
+    "cod": "IQD0258",
+    "nome": "FILOSOFIA DA CI\u00caNCIA E ENSINO CI\u00caNCIA-TECNOLOGIA-SOCIEDADE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0080",
+    "nome": "FISICO-QUIMICA 1",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0504"
+    ],
+    "pre_requirements": [
+      "MAT0026 & IQD0051"
+    ]
+  },
+  {
+    "cod": "IQD0078",
+    "nome": "FISICO-QUIMICA 1 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0502"
+    ],
+    "pre_requirements": [
+      "IQD0101"
+    ]
+  },
+  {
+    "cod": "IQD0079",
+    "nome": "FISICO-QUIMICA 2 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0503"
+    ],
+    "pre_requirements": [
+      "IQD0103",
+      "IQD0192"
+    ]
+  },
+  {
+    "cod": "IQD0085",
+    "nome": "FISICO-QUIMICA 4",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0116",
+      "IQD0506"
+    ],
+    "pre_requirements": [
+      "IQD0105"
+    ]
+  },
+  {
+    "cod": "IQD0116",
+    "nome": "FISICO QUIMICA 5",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0520"
+    ],
+    "pre_requirements": [
+      "IQD0085"
+    ]
+  },
+  {
+    "cod": "IQD0001",
+    "nome": "F\u00cdSICO QU\u00cdMICA DE POL\u00cdMEROS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0440"
+    ],
+    "pre_requirements": [
+      "IQD0101",
+      "IFD0175"
+    ]
+  },
+  {
+    "cod": "IQD0283",
+    "nome": "FUNDAMENTOS DA AN\u00c1LISE DE MATERIAIS DE ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0187",
+    "nome": "FUNDAMENTOS DE AN\u00c1LISE INSTRUMENTAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0026",
+      "IQD0210",
+      "IQD0226",
+      "IQD0247",
+      "IQD0381"
+    ],
+    "pre_requirements": [
+      "IQD0228 & IQD0065",
+      "IQD0228 & IFD0179 & IFD0181",
+      "IQD0228 & IFD0238 & IFD0240"
+    ]
+  },
+  {
+    "cod": "IQD0026",
+    "nome": "FUNDAMENTOS DE AN\u00c1LISE INSTRUMENTAL 2",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0354"
+    ],
+    "pre_requirements": [
+      "IQD0187"
+    ]
+  },
+  {
+    "cod": "IQD0035",
+    "nome": "FUNDAMENTOS DE ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0296",
+    "nome": "FUNDAMENTOS DE F\u00cdSICO-QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0071",
+      "FAR0141",
+      "IQD0338",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IQD0429"
+    ],
+    "pre_requirements": [
+      "IQD0058 & MAT0025",
+      "IQD0153 & MAT0025",
+      "IQD0125 & MAT0025",
+      "IQD0058 & MAT0022",
+      "IQD0153 & MAT0022",
+      "IQD0125 & MAT0022"
+    ]
+  },
+  {
+    "cod": "IQD0295",
+    "nome": "FUNDAMENTOS DE MATEM\u00c1TICA PARA QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0640"
+    ],
+    "pre_requirements": [
+      "MAT0025",
+      "MAT0022"
+    ]
+  },
+  {
+    "cod": "IQD0004",
+    "nome": "FUNDAMENTOS DE PRODU\u00c7\u00c3O DE CERVEJA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0443"
+    ],
+    "pre_requirements": [
+      "IQD0058",
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "IQD0058",
+    "nome": "FUNDAMENTOS DE QU\u00cdMICA",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0004",
+      "IQD0044",
+      "IQD0045",
+      "IGD0024",
+      "IQD0052",
+      "IQD0072",
+      "IQD0092",
+      "IQD0288",
+      "IQD0290",
+      "IQD0292",
+      "IQD0294",
+      "IQD0368"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0127",
+    "nome": "FUNDAMENTOS DE QUIMICA ANALITICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0526"
+    ],
+    "pre_requirements": [
+      "IQD0132"
+    ]
+  },
+  {
+    "cod": "IQD0120",
+    "nome": "FUNDAMENTOS DE QUIMICA INORGANICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0124",
+      "IQD0522"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0133",
+    "nome": "FUNDAMENTOS DE QUIMICA ORGANICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0034",
+      "IQD0137",
+      "IQD0152",
+      "IQD0168",
+      "CEL0094",
+      "IQD0300",
+      "IQD0321"
+    ],
+    "pre_requirements": [
+      "IQD0092",
+      "IQD0124"
+    ]
+  },
+  {
+    "cod": "IQD0292",
+    "nome": "GERENCIAMENTO DE RES\u00cdDUOS E SOLOS CONTAMINADOS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0404"
+    ],
+    "pre_requirements": [
+      "IQD0282",
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0003",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 COMPUTA\u00c7\u00c3O APLICADA AOS PROCESSOS QU\u00cdMICOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0044",
+    "nome": "INTRODU\u00c7\u00c3O A ENGENHARIA DE MATERIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0478"
+    ],
+    "pre_requirements": [
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0297",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0167",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ESPECTROSCOPIA ORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0325"
+    ],
+    "pre_requirements": [
+      "IQD0137"
+    ]
+  },
+  {
+    "cod": "IQD0161",
+    "nome": "INTRODU\u00c7\u00c3O A MODELAGEM MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0378"
+    ],
+    "pre_requirements": [
+      "MAT0026"
+    ]
+  },
+  {
+    "cod": "IQD0178",
+    "nome": "INTRODU\u00c7\u00c3O AO CURSO DE BACHARELADO EM QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0380"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0237",
+    "nome": "INTRODU\u00c7\u00c3O AO CURSO DE LICENCIATURA EM QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0392",
+      "IQD0415"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0265",
+    "nome": "INTRODU\u00c7\u00c3O AO CURSO DE QU\u00cdMICA TECNOL\u00d3GICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0132",
+    "nome": "INTRODUCAO AO ESTUDO DA QUIMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0127",
+      "IQD0529"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0159",
+    "nome": "INTRODU\u00c7\u00c3O A QU\u00cdMICA DE ESTADO S\u00d3LIDO",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0542"
+    ],
+    "pre_requirements": [
+      "IQD0101"
+    ]
+  },
+  {
+    "cod": "IQD0208",
+    "nome": "INTRODUCAO A QUIMICA EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0566"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0191",
+    "nome": "INTRODU\u00c7\u00c3O A QUIMICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0327"
+    ],
+    "pre_requirements": [
+      "MAT0025 & IFD0171",
+      "MAT0025 & IFD0299"
+    ]
+  },
+  {
+    "cod": "IQD0072",
+    "nome": "INTRODUCAO A QUIMICA ORGANICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0095",
+      "IQD0137",
+      "CEL0054",
+      "FAR0041",
+      "IQD0300",
+      "IQD0369",
+      "IQD0422"
+    ],
+    "pre_requirements": [
+      "IQD0058",
+      "IQD0153",
+      "IQD0125 & IQD0126"
+    ]
+  },
+  {
+    "cod": "IQD0084",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 QU\u00cdMICA QU\u00c2NTICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0505"
+    ],
+    "pre_requirements": [
+      "IQD0101"
+    ]
+  },
+  {
+    "cod": "IQD0152",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 QU\u00cdMICA TECNOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0070",
+      "IQD0537"
+    ],
+    "pre_requirements": [
+      "IQD0133",
+      "IQD0096 & IQD0139",
+      "IQD0065"
+    ]
+  },
+  {
+    "cod": "IQD0070",
+    "nome": "INTRODUCAO A TECNOLOGIA DOS FERTILIZANTES",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0496"
+    ],
+    "pre_requirements": [
+      "IQD0094",
+      "IQD0152"
+    ]
+  },
+  {
+    "cod": "IQD0034",
+    "nome": "INTRODU\u00c7\u00c3O A TEORIA DO ORBITAL MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0469"
+    ],
+    "pre_requirements": [
+      "IQD0133"
+    ]
+  },
+  {
+    "cod": "IQD0179",
+    "nome": "ISOLAMENTO E TRANSFORMACAO DE MOLECULAS ORGANICAS",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0551"
+    ],
+    "pre_requirements": [
+      "IQD0095 & IQD0096 & IQD0110"
+    ]
+  },
+  {
+    "cod": "IQD0226",
+    "nome": "LABORAT\u00d3RIO DE AN\u00c1LISE INSTRUMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0224",
+      "IQD0225",
+      "IQD0389"
+    ],
+    "pre_requirements": [
+      "IQD0187"
+    ]
+  },
+  {
+    "cod": "IQD0269",
+    "nome": "LABORAT\u00d3RIO DE ELEMENTOS DE OPERA\u00c7\u00d5ES UNIT\u00c1RIAS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0400"
+    ],
+    "pre_requirements": [
+      "IQD0103 & IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0014",
+    "nome": "LABORAT\u00d3RIO DE ENGENHARIA QU\u00cdMICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0347"
+    ],
+    "pre_requirements": [
+      "IQD0009"
+    ]
+  },
+  {
+    "cod": "IQD0007",
+    "nome": "LABORAT\u00d3RIO DE ENGENHARIA QU\u00cdMICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0343"
+    ],
+    "pre_requirements": [
+      "IQD0011"
+    ]
+  },
+  {
+    "cod": "IQD0192",
+    "nome": "LABORATORIO DE FISICO-QUIMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0079",
+      "IQD0328"
+    ],
+    "pre_requirements": [
+      "IQD0103",
+      "IQD0296 & ENM0068 & IQD0021"
+    ]
+  },
+  {
+    "cod": "IQD0024",
+    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA ANAL\u00cdTICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0353"
+    ],
+    "pre_requirements": [
+      "IQD0262 & IQD0263 & IQD0259 & IQD0061",
+      "IQD0061 & IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0228",
+    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA ANAL\u00cdTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0229",
+      "IQD0329"
+    ],
+    "pre_requirements": [
+      "IQD0063 & IQD0024",
+      "IQD0243",
+      "IQD0065"
+    ]
+  },
+  {
+    "cod": "IQD0061",
+    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA FUNDAMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0286",
+      "IQD0315",
+      "IQD0416"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0223",
+    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA INORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0173",
+      "IQD0388"
+    ],
+    "pre_requirements": [
+      "IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0144",
+    "nome": "LABORATORIO DE QUIMICA INORGANICA PREPARATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0533"
+    ],
+    "pre_requirements": [
+      "IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0168",
+    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA ORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0326"
+    ],
+    "pre_requirements": [
+      "IQD0133"
+    ]
+  },
+  {
+    "cod": "IQD0238",
+    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA TECNOL\u00d3GICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0330"
+    ],
+    "pre_requirements": [
+      "IQD0069",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0027",
+    "nome": "LABORAT\u00d3RIO DE S\u00cdNTESE INORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0173",
+      "IQD0355"
+    ],
+    "pre_requirements": [
+      "IQD0139 & IQD0223",
+      "IQD0139 & IQD0056"
+    ]
+  },
+  {
+    "cod": "IQD0212",
+    "nome": "LABORAT\u00d3RIO DE S\u00cdNTESE ORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0385"
+    ],
+    "pre_requirements": [
+      "IQD0168 & IQD0167 & IQD0137"
+    ]
+  },
+  {
+    "cod": "IQD0286",
+    "nome": "LABORAT\u00d3RIO DE T\u00c9CNICAS QU\u00cdMICAS B\u00c1SICAS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0342"
+    ],
+    "pre_requirements": [
+      "IQD0061"
+    ]
+  },
+  {
+    "cod": "IQD0201",
+    "nome": "MATERIAIS DE ENSINO DE QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0199",
+      "IQD0562"
+    ],
+    "pre_requirements": [
+      "IQD0148"
+    ]
+  },
+  {
+    "cod": "IQD0045",
+    "nome": "MATERIAIS E MICROESTRUTURA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0479"
+    ],
+    "pre_requirements": [
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0148",
+    "nome": "METODOLOGIA DO ENSINO DE QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0155",
+      "IQD0165",
+      "IQD0195",
+      "IQD0201",
+      "IQD0284",
+      "IQD0285",
+      "IQD0535"
+    ],
+    "pre_requirements": [
+      "IQD0118 & IQD0133 & PED0058",
+      "IQD0118 & IQD0133 & MTC0012",
+      "IQD0118 & IQD0133 & PED0060",
+      "IQD0118 & IQD0133 & TEF0011",
+      "IQD0118 & IQD0133 & PAD0028"
+    ]
+  },
+  {
+    "cod": "IQD0247",
+    "nome": "M\u00c9TODOS DE SEPARA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0598"
+    ],
+    "pre_requirements": [
+      "IQD0187"
+    ]
+  },
+  {
+    "cod": "IQD0224",
+    "nome": "M\u00c9TODOS ELETROQU\u00cdMICOS DE AN\u00c1LISE",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0579"
+    ],
+    "pre_requirements": [
+      "IQD0226"
+    ]
+  },
+  {
+    "cod": "IQD0225",
+    "nome": "M\u00c9TODOS ESPECTROSC\u00d3PICOS DE AN\u00c1LISE",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0580"
+    ],
+    "pre_requirements": [
+      "IQD0226"
+    ]
+  },
+  {
+    "cod": "IQD0218",
+    "nome": "M\u00c9TODOS F\u00cdSICOS APLICADOS \u00c0 QU\u00cdMICA INORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0387"
+    ],
+    "pre_requirements": [
+      "IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0180",
+    "nome": "M\u00c9TODOS MATEM\u00c1TICOS PARA ENGENHARIA QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0552"
+    ],
+    "pre_requirements": [
+      "MAT0053 & IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0214",
+    "nome": "M\u00c9TODOS MATEM\u00c1TICOS PARA QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0572"
+    ],
+    "pre_requirements": [
+      "MAT0026",
+      "MAT0023"
+    ]
+  },
+  {
+    "cod": "IQD0255",
+    "nome": "MODALIDADES DID\u00c1TICAS PARA O ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0395"
+    ],
+    "pre_requirements": [
+      "IQD0092 & IQD0118 & IQD0133"
+    ]
+  },
+  {
+    "cod": "IQD0016",
+    "nome": "MODELAGEM E SIMULA\u00c7\u00c3O DE PROCESSOS QU\u00cdMICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0349"
+    ],
+    "pre_requirements": [
+      "IQD0048 & IQD0012 & IQD0009 & ENE0004"
+    ]
+  },
+  {
+    "cod": "IQD0009",
+    "nome": "OPERA\u00c7\u00d5ES UNIT\u00c1RIAS DA ENGENHARIA QU\u00cdMICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0014",
+      "IQD0023",
+      "IQD0047",
+      "IQD0231",
+      "IQD0232",
+      "IQD0234",
+      "IQD0235",
+      "IQD0272",
+      "IQD0273",
+      "IQD0277",
+      "IQD0278",
+      "IQD0299",
+      "IQD0311"
+    ],
+    "pre_requirements": [
+      "IQD0005"
+    ]
+  },
+  {
+    "cod": "IQD0011",
+    "nome": "OPERA\u00c7\u00d5ES UNIT\u00c1RIAS DA ENGENHARIA QU\u00cdMICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0007",
+      "IQD0345"
+    ],
+    "pre_requirements": [
+      "ENM0071 & IQD0009"
+    ]
+  },
+  {
+    "cod": "IQD0012",
+    "nome": "OPERA\u00c7\u00d5ES UNIT\u00c1RIAS DA ENGENHARIA QU\u00cdMICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0346"
+    ],
+    "pre_requirements": [
+      "IQD0010 & IQD0011 & IQD0046"
+    ]
+  },
+  {
+    "cod": "IQD0050",
+    "nome": "OTIMIZA\u00c7\u00c3O DE PROCESSOS QU\u00cdMICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0484"
+    ],
+    "pre_requirements": [
+      "MAT0053 & IQD0048 & IQD0010"
+    ]
+  },
+  {
+    "cod": "IQD0206",
+    "nome": "PR\u00c1TICA DE ENSINO DE QU\u00cdMICA 1",
+    "ch": 45,
+    "post_requirements": [
+      "IQD0564"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0264",
+    "nome": "PR\u00c1TICA DE ENSINO DE QU\u00cdMICA 2",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0279",
+    "nome": "PR\u00c1TICA INTERDISCIPLINAR EM ENSINO DE QU\u00cdMICA 1",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0041",
+    "nome": "PR\u00c1TICA INTERDISCIPLINAR EM ENSINO DE QU\u00cdMICA 2",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0270",
+    "nome": "PRINC\u00cdPIO INTERDISCIPLINAR 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0271",
+    "nome": "PRINC\u00cdPIO INTERDISCIPLINAR 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0621"
+    ],
+    "pre_requirements": [
+      "IQD0270"
+    ]
+  },
+  {
+    "cod": "IQD0263",
+    "nome": "PRINC\u00cdPIOS DA TERMODIN\u00c2MICA E CIN\u00c9TICA QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0261",
+    "nome": "PRINC\u00cdPIOS DE ELETROQU\u00cdMICA E CORROS\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0259",
+    "nome": "PRINC\u00cdPIOS DE EQUIL\u00cdBRIOS QU\u00cdMICOS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0022",
+    "nome": "PRINC\u00cdPIOS DE QU\u00cdMICA ANAL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0021",
+      "IQD0352"
+    ],
+    "pre_requirements": [
+      "IQD0092"
+    ]
+  },
+  {
+    "cod": "IQD0249",
+    "nome": "PROCESSAMENTO DE DADOS EM QU\u00cdMICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0600"
+    ],
+    "pre_requirements": [
+      "IQD0118"
+    ]
+  },
+  {
+    "cod": "IQD0267",
+    "nome": "PROCESSOS DA IND\u00daSTRIA DE ALIMENTOS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0617"
+    ],
+    "pre_requirements": [
+      "IQD0266",
+      "IQD0010"
+    ]
+  },
+  {
+    "cod": "IQD0015",
+    "nome": "PROJETO DE ENGENHARIA QU\u00cdMICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0348"
+    ],
+    "pre_requirements": [
+      "ENM0190 & IQD0012 & IQD0014 & IQD0048",
+      "ENC0053 & IQD0012 & IQD0014 & IQD0048"
+    ]
+  },
+  {
+    "cod": "IQD0019",
+    "nome": "PROJETO DE ENGENHARIA QU\u00cdMICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0350"
+    ],
+    "pre_requirements": [
+      "IQD0015 & IQD0016 & ENE0005"
+    ]
+  },
+  {
+    "cod": "IQD0063",
+    "nome": "QUIMICA ANALITICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IGD0038",
+      "IQD0065",
+      "IQD0243",
+      "FAR0163",
+      "IQD0316"
+    ],
+    "pre_requirements": [
+      "IQD0058 & IQD0061",
+      "IQD0051",
+      "IQD0262 & IQD0263 & IQD0259 & IQD0061"
+    ]
+  },
+  {
+    "cod": "IQD0065",
+    "nome": "QU\u00cdMICA ANALITICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0067",
+      "IQD0152",
+      "IQD0228",
+      "IQD0317"
+    ],
+    "pre_requirements": [
+      "IQD0063",
+      "IQD0118"
+    ]
+  },
+  {
+    "cod": "IQD0021",
+    "nome": "QU\u00cdMICA ANAL\u00cdTICA EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0351"
+    ],
+    "pre_requirements": [
+      "IQD0022"
+    ]
+  },
+  {
+    "cod": "IQD0118",
+    "nome": "QUIMICA ANALITICA QUALITATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0065",
+      "IQD0243",
+      "IQD0249",
+      "IQD0375",
+      "EFL0147"
+    ],
+    "pre_requirements": [
+      "IQD0058 & IQD0061",
+      "IQD0125 & EFL0010"
+    ]
+  },
+  {
+    "cod": "IQD0243",
+    "nome": "QU\u00cdMICA ANAL\u00cdTICA QUANTITATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0024",
+      "IQD0203",
+      "IQD0228",
+      "IQD0256",
+      "FAR0163",
+      "FAR0180",
+      "IQD0595"
+    ],
+    "pre_requirements": [
+      "IQD0118",
+      "IQD0063"
+    ]
+  },
+  {
+    "cod": "IQD0294",
+    "nome": "QU\u00cdMICA ATMOSF\u00c9RICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0639"
+    ],
+    "pre_requirements": [
+      "IQD0282",
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0213",
+    "nome": "QU\u00cdMICA BIOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [
+      "CEL0018",
+      "CEL0050",
+      "IQD0386"
+    ],
+    "pre_requirements": [
+      "IQD0137"
+    ]
+  },
+  {
+    "cod": "IQD0215",
+    "nome": "QU\u00cdMICA COMPUTACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0573"
+    ],
+    "pre_requirements": [
+      "IQD0105"
+    ]
+  },
+  {
+    "cod": "IQD0290",
+    "nome": "QU\u00cdMICA DA \u00c1GUA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0637"
+    ],
+    "pre_requirements": [
+      "IQD0282",
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0139",
+    "nome": "QU\u00cdMICA DOS ELEMENTOS DE TRANSI\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0144",
+      "IQD0173",
+      "IQD0218",
+      "IQD0223",
+      "IQD0254",
+      "IQD0323"
+    ],
+    "pre_requirements": [
+      "IQD0092"
+    ]
+  },
+  {
+    "cod": "IQD0124",
+    "nome": "QUIMICA DOS ELEMENTOS REPRESENTATIVOS",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0133",
+      "IQD0523"
+    ],
+    "pre_requirements": [
+      "IQD0120"
+    ]
+  },
+  {
+    "cod": "IQD0051",
+    "nome": "QU\u00cdMICA GERAL",
+    "ch": 90,
+    "post_requirements": [
+      "IGD0135",
+      "IQD0052",
+      "IQD0063",
+      "IQD0073",
+      "FGA0075",
+      "FGA0078",
+      "CEL0019",
+      "CEL0054",
+      "ENM0028",
+      "ENC0171",
+      "ENM0090",
+      "ENM0126",
+      "ENM0147",
+      "FCS0020",
+      "FAR0120",
+      "FAR0157",
+      "FGA0139",
+      "ENM0228",
+      "IQD0485"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0153",
+    "nome": "QU\u00cdMICA GERAL E INORG\u00c2NICA",
+    "ch": 90,
+    "post_requirements": [
+      "IGD0024",
+      "IGD0142",
+      "IQD0072",
+      "CEL0054",
+      "FUP0329",
+      "IQD0324"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0209",
+    "nome": "QU\u00cdMICA GERAL E ORG\u00c2NICA",
+    "ch": 90,
+    "post_requirements": [
+      "CEL0054",
+      "FAV0274",
+      "IQD0567"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0252",
+    "nome": "QU\u00cdMICA GERAL E ORG\u00c2NICA TE\u00d3RICA",
+    "ch": 60,
+    "post_requirements": [
+      "CEL0054",
+      "IQD0300",
+      "IQD0332"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0126",
+    "nome": "QUIMICA GERAL EXPERIMENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0120",
+      "FAR0167",
+      "FAR0168",
+      "IQD0320"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0253",
+    "nome": "QU\u00cdMICA GERAL EXPERIMENTAL PARA AGRONOMIA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0603"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0125",
+    "nome": "QUIMICA GERAL TEORICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0025",
+      "IQD0092",
+      "CEL0054",
+      "FAV0274",
+      "FCE0210",
+      "FCE0220",
+      "ENC0268",
+      "ENC0272",
+      "ENC0273",
+      "FAR0181",
+      "IQD0319",
+      "FAR0249"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0094",
+    "nome": "QUIMICA INDUSTRIAL BASICA",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0070",
+      "IQD0510"
+    ],
+    "pre_requirements": [
+      "IQD0065 & MAT0026",
+      "IQD0243 & MAT0023"
+    ]
+  },
+  {
+    "cod": "IQD0052",
+    "nome": "QUIMICA INORGANICA 1",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0053",
+      "IQD0486"
+    ],
+    "pre_requirements": [
+      "IQD0051",
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0056",
+    "nome": "QUIMICA INORGANICA 1 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0093",
+      "IQD0314"
+    ],
+    "pre_requirements": [
+      "IQD0058 & IQD0061",
+      "IQD0262 & IQD0061"
+    ]
+  },
+  {
+    "cod": "IQD0093",
+    "nome": "QUIMICA INORGANICA 2",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0509"
+    ],
+    "pre_requirements": [
+      "IQD0056"
+    ]
+  },
+  {
+    "cod": "IQD0053",
+    "nome": "QU\u00cdMICA INORG\u00c2NICA 2",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0487"
+    ],
+    "pre_requirements": [
+      "IQD0052"
+    ]
+  },
+  {
+    "cod": "IQD0301",
+    "nome": "QU\u00cdMICA INORG\u00c2NICA AVAN\u00c7ADA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0646"
+    ],
+    "pre_requirements": [
+      "IQD0173"
+    ]
+  },
+  {
+    "cod": "IQD0092",
+    "nome": "QU\u00cdMICA INORG\u00c2NICA B\u00c1SICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0022",
+      "IQD0073",
+      "IQD0095",
+      "IQD0133",
+      "IQD0139",
+      "IQD0220",
+      "IQD0222",
+      "FAR0041",
+      "IQD0318"
+    ],
+    "pre_requirements": [
+      "IQD0262 & IQD0263 & IQD0259",
+      "IQD0125",
+      "IQD0058",
+      "IQD0262 & IQD0260"
+    ]
+  },
+  {
+    "cod": "IQD0220",
+    "nome": "QU\u00cdMICA INORG\u00c2NICA ESTRUTURAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0576"
+    ],
+    "pre_requirements": [
+      "IQD0092"
+    ]
+  },
+  {
+    "cod": "IQD0211",
+    "nome": "QU\u00cdMICA MEDICINAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0569"
+    ],
+    "pre_requirements": [
+      "IQD0133 & IQD0213",
+      "IQD0096 & IQD0213",
+      "IQD0096 & CEL0054",
+      "IQD0133 & CEL0094"
+    ]
+  },
+  {
+    "cod": "IQD0095",
+    "nome": "QUIMICA ORGANICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0096",
+      "IQD0203",
+      "CEL0054",
+      "IQD0511"
+    ],
+    "pre_requirements": [
+      "IQD0092",
+      "IQD0072"
+    ]
+  },
+  {
+    "cod": "IQD0073",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA 1",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0499"
+    ],
+    "pre_requirements": [
+      "IQD0051",
+      "IQD0092"
+    ]
+  },
+  {
+    "cod": "IQD0074",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA 2",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0099",
+      "IQD0500"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0096",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0077",
+      "IQD0098",
+      "IQD0164",
+      "IQD0512"
+    ],
+    "pre_requirements": [
+      "IQD0095"
+    ]
+  },
+  {
+    "cod": "IQD0098",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA AVAN\u00c7ADA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0513"
+    ],
+    "pre_requirements": [
+      "IQD0137",
+      "IQD0096"
+    ]
+  },
+  {
+    "cod": "IQD0077",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA EXPERIMENTAL",
+    "ch": 120,
+    "post_requirements": [
+      "IQD0501"
+    ],
+    "pre_requirements": [
+      "IQD0096"
+    ]
+  },
+  {
+    "cod": "IQD0245",
+    "nome": "QU\u00cdMICA ORG\u00c2NICA FUNDAMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "CEL0054",
+      "IQD0300",
+      "IQD0394"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0131",
+    "nome": "QUIMICA ORGANICA PARA CIENCIAS BIOLOGICAS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0137",
+      "CEL0054",
+      "CEL0094",
+      "IQD0528"
+    ],
+    "pre_requirements": [
+      "IQD0125 & IQD0126"
+    ]
+  },
+  {
+    "cod": "IQD0174",
+    "nome": "QUIMICA PARA O ENSINO DO 2 GRAU",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0089",
+      "IQD0549"
+    ],
+    "pre_requirements": [
+      "IQD0095 & IQD0063 & IQD0101 & MTC0012",
+      "IQD0101 & IQD0118 & IQD0133 & MTC0143"
+    ]
+  },
+  {
+    "cod": "IQD0105",
+    "nome": "QU\u00cdMICA QU\u00c2NTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0085",
+      "IQD0215",
+      "IQD0372"
+    ],
+    "pre_requirements": [
+      "MAT0048 & IFD0179 & IQD0029",
+      "IQD0101 & IFD0238 & IFD0240 & MAT0048",
+      "IQD0145 & IFD0238 & IFD0240 & MAT0048",
+      "IQD0101 & IFD0179 & IFD0181 & MAT0048",
+      "IQD0145 & IFD0179 & IFD0181 & MAT0048"
+    ]
+  },
+  {
+    "cod": "IQD0300",
+    "nome": "QU\u00cdMICA VERDE E SUSTENTABILIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0405"
+    ],
+    "pre_requirements": [
+      "IQD0133",
+      "IQD0072",
+      "IQD0282",
+      "IQD0245",
+      "IQD0252"
+    ]
+  },
+  {
+    "cod": "IQD0256",
+    "nome": "QUIMIOMETRIA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0606"
+    ],
+    "pre_requirements": [
+      "IQD0243"
+    ]
+  },
+  {
+    "cod": "IQD0025",
+    "nome": "RADIOQU\u00cdMICA: CONCEITOS E APLICA\u00c7\u00d5ES",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0460"
+    ],
+    "pre_requirements": [
+      "IQD0262 & IQD0263 & IQD0259",
+      "IQD0125"
+    ]
+  },
+  {
+    "cod": "IQD0137",
+    "nome": "REA\u00c7\u00d5ES ORG\u00c2NICAS E SEUS MECANISMOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0028",
+      "IQD0098",
+      "IQD0099",
+      "IQD0164",
+      "IQD0167",
+      "IQD0193",
+      "IQD0213",
+      "IQD0322"
+    ],
+    "pre_requirements": [
+      "IQD0133",
+      "IQD0072",
+      "IQD0131"
+    ]
+  },
+  {
+    "cod": "IQD0028",
+    "nome": "REA\u00c7\u00d5ES ORG\u00c2NICAS E SEUS MECANISMOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0312"
+    ],
+    "pre_requirements": [
+      "IQD0137"
+    ]
+  },
+  {
+    "cod": "IQD0282",
+    "nome": "REA\u00c7\u00d5ES QU\u00cdMICAS E O AMBIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0288",
+      "IQD0290",
+      "IQD0292",
+      "IQD0294",
+      "IQD0300",
+      "IQD0337"
+    ],
+    "pre_requirements": [
+      "IQD0257"
+    ]
+  },
+  {
+    "cod": "IQD0156",
+    "nome": "SEGURAN\u00c7A EM LABORAT\u00d3RIOS QU\u00cdMICOS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0246",
+    "nome": "SEMIN\u00c1RIO DE GRADUA\u00c7\u00c3O EM QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0193",
+    "nome": "SEMINARIOS DE QUIMICA ORGANICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0559"
+    ],
+    "pre_requirements": [
+      "IQD0137"
+    ]
+  },
+  {
+    "cod": "IQD0002",
+    "nome": "S\u00cdNTESE DE POL\u00cdMEROS",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0441"
+    ],
+    "pre_requirements": [
+      "IQD0133 & IQD0103"
+    ]
+  },
+  {
+    "cod": "IQD0164",
+    "nome": "S\u00cdNTESE ORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0544"
+    ],
+    "pre_requirements": [
+      "IQD0137",
+      "IQD0096"
+    ]
+  },
+  {
+    "cod": "IQD0110",
+    "nome": "T\u00c9CNICA DE PESQUISA EM QU\u00cdMICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0115",
+      "IQD0373",
+      "IQD0408"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0115",
+    "nome": "T\u00c9CNICA DE PESQUISA EM QU\u00cdMICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0374"
+    ],
+    "pre_requirements": [
+      "IQD0110",
+      "IQD0407"
+    ]
+  },
+  {
+    "cod": "IQD0231",
+    "nome": "TECNOLOGIA DA \u00c1GUA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0340"
+    ],
+    "pre_requirements": [
+      "IQD0069",
+      "IQD0009",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0232",
+    "nome": "TECNOLOGIA DAS EMULS\u00d5ES E DISPERS\u00d5ES",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0586"
+    ],
+    "pre_requirements": [
+      "IQD0009",
+      "IQD0069",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0020",
+    "nome": "TECNOLOGIA DE CONVERS\u00c3O DE BIOMASSA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0455"
+    ],
+    "pre_requirements": [
+      "IQD0133 & IQD0069",
+      "IQD0133 & ENM0068",
+      "IQD0133 & IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0278",
+    "nome": "TECNOLOGIA DE IND\u00daSTRIA DE BASE INORG\u00c2NICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0401"
+    ],
+    "pre_requirements": [
+      "IQD0069",
+      "IQD0009",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0274",
+    "nome": "TECNOLOGIA DE PROCESSOS ELETROL\u00cdTICOS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0624"
+    ],
+    "pre_requirements": [
+      "IQD0005",
+      "IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0299",
+    "nome": "TECNOLOGIA DE RECICLAGEM DE MATERIAIS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0644"
+    ],
+    "pre_requirements": [
+      "IQD0009",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0023",
+    "nome": "TECNOLOGIA DO MEIO AMBIENTE 1",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0458"
+    ],
+    "pre_requirements": [
+      "IQD0069 & IQD0266",
+      "IQD0009",
+      "IQD0266 & IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0272",
+    "nome": "TECNOLOGIA DO MEIO AMBIENTE 2",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0622"
+    ],
+    "pre_requirements": [
+      "IQD0268",
+      "IQD0009"
+    ]
+  },
+  {
+    "cod": "IQD0273",
+    "nome": "TECNOLOGIA DO MEIO AMBIENTE 2",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0623"
+    ],
+    "pre_requirements": [
+      "IQD0268",
+      "IQD0009"
+    ]
+  },
+  {
+    "cod": "IQD0233",
+    "nome": "TECNOLOGIA DO PETR\u00d3LEO",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0587"
+    ],
+    "pre_requirements": [
+      "IQD0046",
+      "IQD0069",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0234",
+    "nome": "TECNOLOGIA DOS COSM\u00c9TICOS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0390"
+    ],
+    "pre_requirements": [
+      "IQD0069",
+      "IQD0009",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0235",
+    "nome": "TECNOLOGIA DOS \u00d3LEOS E GORDURAS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0391"
+    ],
+    "pre_requirements": [
+      "IQD0009",
+      "IQD0069",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0236",
+    "nome": "TECNOLOGIA DOS POL\u00cdMEROS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0590"
+    ],
+    "pre_requirements": [
+      "IQD0048",
+      "IQD0103"
+    ]
+  },
+  {
+    "cod": "IQD0277",
+    "nome": "TECNOLOGIA DOS PRODUTOS AGROINDUSTRIAIS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0627"
+    ],
+    "pre_requirements": [
+      "IQD0009",
+      "IQD0069",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0071",
+    "nome": "TECNOLOGIA DO V\u00c1CUO",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0497"
+    ],
+    "pre_requirements": [
+      "IQD0296",
+      "IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0248",
+    "nome": "TEMPERATURA E CALOR: EVOLU\u00c7\u00c3O DOS CONCEITOS TERMODIN\u00c2MICOS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0599"
+    ],
+    "pre_requirements": [
+      "IQD0101 & IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0046",
+    "nome": "TERMODIN\u00c2MICA APLICADA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0233",
+      "IQD0365"
+    ],
+    "pre_requirements": [
+      "IQD0103",
+      "IQD0296 & ENM0068"
+    ]
+  },
+  {
+    "cod": "IQD0145",
+    "nome": "TERMODINAMICA BASICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0534"
+    ],
+    "pre_requirements": [
+      "MAT0023 & IFD0171",
+      "MAT0023 & IFD0230",
+      "MAT0023 & IFD0210",
+      "MAT0023 & IFD0299"
+    ]
+  },
+  {
+    "cod": "IQD0101",
+    "nome": "TERMODIN\u00c2MICA QU\u00cdMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0001",
+      "IQD0032",
+      "IQD0078",
+      "IQD0084",
+      "IQD0103",
+      "IQD0150",
+      "IQD0159",
+      "CEL0087",
+      "IQD0370"
+    ],
+    "pre_requirements": [
+      "IQD0262 & IQD0263 & IQD0259 & IFD0175 & MAT0026",
+      "IQD0058 & IFD0175 & MAT0026",
+      "IQD0153 & MAT0026 & IFD0175",
+      "IQD0058 & IQD0061 & MAT0026 & IFD0299 & IFD0302",
+      "IQD0058 & IQD0061 & MAT0026 & IFD0175 & IFD0177",
+      "IQD0058 & IQD0061 & MAT0023 & IFD0299 & IFD0302",
+      "IQD0058 & IQD0061 & MAT0023 & IFD0175 & IFD0177",
+      "IQD0051 & MAT0026 & IFD0299 & IFD0302",
+      "IQD0051 & MAT0026 & IFD0175 & IFD0177",
+      "IQD0051 & MAT0023 & IFD0299 & IFD0302",
+      "IQD0051 & MAT0023 & IFD0175 & IFD0177",
+      "IQD0051 & MAT0023 & IFD0299 & IFD0302",
+      "IQD0051 & MAT0023 & IFD0175 & IFD0177",
+      "IQD0153 & MAT0026 & IFD0299 & IFD0302",
+      "IQD0262 & IQD0263 & IQD0259 & IFD0299 & IFD0302 & MAT0026"
+    ]
+  },
+  {
+    "cod": "IQD0049",
+    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM REATORES QU\u00cdMICOS",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0483"
+    ],
+    "pre_requirements": [
+      "MAT0026 & IQD0032"
+    ]
+  },
+  {
+    "cod": "IQD0189",
+    "nome": "T\u00d3PICOS DE ENSINO DE QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0382"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IQD0203",
+    "nome": "T\u00d3PICOS DE QU\u00cdMICA AMBIENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0563"
+    ],
+    "pre_requirements": [
+      "IQD0243",
+      "IQD0065 & IQD0133",
+      "IQD0095"
+    ]
+  },
+  {
+    "cod": "IQD0210",
+    "nome": "T\u00d3PICOS EM CROMATOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0568"
+    ],
+    "pre_requirements": [
+      "IQD0187"
+    ]
+  },
+  {
+    "cod": "IQD0288",
+    "nome": "T\u00d3PICOS EM QU\u00cdMICA AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0403"
+    ],
+    "pre_requirements": [
+      "IQD0282",
+      "IQD0058"
+    ]
+  },
+  {
+    "cod": "IQD0173",
+    "nome": "T\u00d3PICOS EM QU\u00cdMICA INORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0301",
+      "IQD0379"
+    ],
+    "pre_requirements": [
+      "IQD0027",
+      "IQD0223",
+      "IQD0139"
+    ]
+  },
+  {
+    "cod": "IQD0047",
+    "nome": "T\u00d3PICOS ESPECIAIS EM TECNOLOGIA E ENGENHARIA QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0366"
+    ],
+    "pre_requirements": [
+      "IQD0069",
+      "IQD0009",
+      "MAT0053 & EST0023",
+      "IQD0268"
+    ]
+  },
+  {
+    "cod": "IQD0276",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0626"
+    ],
+    "pre_requirements": [
+      "IQD0069 & IQD0266",
+      "IQD0268 & IQD0269 & IQD0266"
+    ]
+  },
+  {
+    "cod": "IQD0155",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1 - LICENCIATURA EM QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0036",
+      "IQD0376"
+    ],
+    "pre_requirements": [
+      "IQD0148"
+    ]
+  },
+  {
+    "cod": "IQD0036",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2 - LIC EM QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0360"
+    ],
+    "pre_requirements": [
+      "IQD0155"
+    ]
+  },
+  {
+    "cod": "IQD0199",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2-MONOGRAFIA DE LICENCIATURA EM QU\u00cdMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IQD0384"
+    ],
+    "pre_requirements": [
+      "IQD0201"
+    ]
+  },
+  {
+    "cod": "IQD0030",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DO  CURSO DE BACHARELADO EM QU\u00cdMICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0031",
+      "IQD0305",
+      "IQD0357",
+      "IQD0406"
+    ],
+    "pre_requirements": [
+      "IQD0226 & IQD0103 & IQD0212"
+    ]
+  },
+  {
+    "cod": "IQD0031",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DO  CURSO DE BACHARELADO EM QU\u00cdMICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "IQD0358"
+    ],
+    "pre_requirements": [
+      "IQD0030",
+      "IQD0308"
+    ]
+  },
+  {
+    "cod": "IQD0010",
+    "nome": "TRANSFER\u00caNCIA DE MASSA",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0267",
+      "IQD0344"
+    ],
+    "pre_requirements": [
+      "MAT0027 & IQD0101 & IQD0005",
+      "MAT0027 & IQD0296 & IQD0005"
+    ]
+  },
+  {
+    "cod": "IQD0005",
+    "nome": "TRANSFER\u00caNCIA DE QUANTIDADE DE MOVIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "ENM0003",
+      "IQD0009",
+      "IQD0274",
+      "IQD0310"
+    ],
+    "pre_requirements": [
+      "MAT0027"
+    ]
+  }
+]

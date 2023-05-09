@@ -1,0 +1,810 @@
+[
+  {
+    "cod": "SER0081",
+    "nome": "ABORDAGENS DE TRABALHO SOCIAL EM NIVEL INDIVIDUAL/FAMILIAR",
+    "ch": 60,
+    "post_requirements": [
+      "SER0212"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0128",
+    "nome": "ADMINISTRA\u00c7\u00c3O E SUPERVIS\u00c3O EM SERVI\u00c7O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0243"
+    ],
+    "pre_requirements": [
+      "SER0129"
+    ]
+  },
+  {
+    "cod": "SER0031",
+    "nome": "ANALISE DE POLITICAS SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "SER0186"
+    ],
+    "pre_requirements": [
+      "SER0015",
+      "ECO0019",
+      "SOL0042"
+    ]
+  },
+  {
+    "cod": "SER0080",
+    "nome": "AN\u00c1LISE E INTERVEN\u00c7\u00c3O NA REALIDADE SOCIAL",
+    "ch": 120,
+    "post_requirements": [
+      "SER0090",
+      "SER0211"
+    ],
+    "pre_requirements": [
+      "SER0048"
+    ]
+  },
+  {
+    "cod": "SER0028",
+    "nome": "CULTURA POPULAR",
+    "ch": 90,
+    "post_requirements": [
+      "SER0184"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0023",
+    "nome": "DESENVOLVIMENTO DE COMUNIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "SER0181"
+    ],
+    "pre_requirements": [
+      "ECO0019 & SOL0042"
+    ]
+  },
+  {
+    "cod": "SER0127",
+    "nome": "ECONOMIA POL\u00cdTICA E CAPITALISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0003",
+    "nome": "ENVELHECIMENTO E POL\u00cdTICA SOCIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0107",
+    "nome": "EST\u00c1GIO EM SERVI\u00c7O SOCIAL 1",
+    "ch": 240,
+    "post_requirements": [
+      "SER0109",
+      "SER0163"
+    ],
+    "pre_requirements": [
+      "SER0035 & SER0105"
+    ]
+  },
+  {
+    "cod": "SER0109",
+    "nome": "EST\u00c1GIO EM SERVI\u00c7O SOCIAL 2",
+    "ch": 240,
+    "post_requirements": [
+      "SER0079",
+      "SER0132",
+      "SER0164",
+      "SER0171"
+    ],
+    "pre_requirements": [
+      "SER0107"
+    ]
+  },
+  {
+    "cod": "SER0090",
+    "nome": "ESTAGIO SUPERVISIONADO EM SERVICO SOCIAL 1",
+    "ch": 150,
+    "post_requirements": [
+      "SER0218"
+    ],
+    "pre_requirements": [
+      "SER0080"
+    ]
+  },
+  {
+    "cod": "SER0039",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM SERVI\u00c7O SOCIAL 1",
+    "ch": 90,
+    "post_requirements": [
+      "SER0190"
+    ],
+    "pre_requirements": [
+      "SER0048"
+    ]
+  },
+  {
+    "cod": "SER0040",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM SERVI\u00c7O SOCIAL 2",
+    "ch": 150,
+    "post_requirements": [
+      "SER0042",
+      "SER0191"
+    ],
+    "pre_requirements": [
+      "SER0039 & SER0043 & SER0045"
+    ]
+  },
+  {
+    "cod": "SER0042",
+    "nome": "ESTAGIO SUPERVISIONADO EM SERVICO SOCIAL 3",
+    "ch": 150,
+    "post_requirements": [
+      "SER0192"
+    ],
+    "pre_requirements": [
+      "SER0040"
+    ]
+  },
+  {
+    "cod": "SER0114",
+    "nome": "FUNDAMENTOS DE METODOLOGIA DA PESQUISA SOCIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0035",
+    "nome": "FUNDAMENTOS \u00c9TICOS E \u00c9TICA PROFISSIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0140"
+    ],
+    "pre_requirements": [
+      "SER0024 & FIL0069"
+    ]
+  },
+  {
+    "cod": "SER0101",
+    "nome": "FUNDAMENTOS HIST\u00d3RICOS E TE\u00d3RICO-METODOL\u00d3GICOS DO SERVI\u00c7O SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "SER0103",
+      "SER0147"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0103",
+    "nome": "FUNDAMENTOS HIST\u00d3RICOS E TE\u00d3RICO-METODOL\u00d3GICOS DO SERVI\u00c7O SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "SER0105",
+      "SER0148"
+    ],
+    "pre_requirements": [
+      "SER0101"
+    ]
+  },
+  {
+    "cod": "SER0105",
+    "nome": "FUNDAMENTOS HIST\u00d3RICOS E TE\u00d3RICO-METODOL\u00d3GICOS DO SERVI\u00c7O SOCIAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "SER0149"
+    ],
+    "pre_requirements": [
+      "SER0103"
+    ]
+  },
+  {
+    "cod": "SER0007",
+    "nome": "G\u00caNERO, RA\u00c7A/ETNIA E POL\u00cdTICA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0136"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0068",
+    "nome": "INF\u00c2NCIA, ADOLESC\u00caNCIA E CIDADANIA",
+    "ch": 60,
+    "post_requirements": [
+      "SER0143"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0087",
+    "nome": "INSTITUI\u00c7\u00d5ES E PR\u00c1TICAS SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "SER0216"
+    ],
+    "pre_requirements": [
+      "SER0015",
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0024",
+    "nome": "INTRODU\u00c7\u00c3O AO SERVI\u00c7O SOCIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0045",
+    "nome": "METODOLOGIA DO SERVICO SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "SER0194"
+    ],
+    "pre_requirements": [
+      "SER0053",
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0043",
+    "nome": "METODOLOGIA DO SERVICO SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "SER0193"
+    ],
+    "pre_requirements": [
+      "SER0053",
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0084",
+    "nome": "METODOLOGIA DO SERVICO SOCIAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "SER0214"
+    ],
+    "pre_requirements": [
+      "SER0056",
+      "SER0053",
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0131",
+    "nome": "M\u00c9TODOS E T\u00c9CNICAS QUANTITATIVOS E QUALITATIVOS EM PESQUISA SOCIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0033",
+    "nome": "MOVIMENTOS SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "SER0139"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0088",
+    "nome": "O COTIDIANO POPULAR",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0030",
+    "nome": "OFICINA DE INSTRUMENTAL T\u00c9CNICO-OPERATIVO",
+    "ch": 60,
+    "post_requirements": [
+      "SER0185"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0132",
+    "nome": "OFICINA DE SUPERVIS\u00c3O DE EST\u00c1GIO EM SERVI\u00c7O SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "SER0133",
+      "SER0155"
+    ],
+    "pre_requirements": [
+      "SER0109"
+    ]
+  },
+  {
+    "cod": "SER0133",
+    "nome": "OFICINA DE SUPERVIS\u00c3O DE EST\u00c1GIO EM SERVI\u00c7O SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "SER0170"
+    ],
+    "pre_requirements": [
+      "SER0132"
+    ]
+  },
+  {
+    "cod": "SER0116",
+    "nome": "OFICINA DE TEORIA SOCIAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0117",
+    "nome": "OFICINA DE TEORIA SOCIAL 2",
+    "ch": 30,
+    "post_requirements": [
+      "SER0111",
+      "SER0234"
+    ],
+    "pre_requirements": [
+      "SER0116"
+    ]
+  },
+  {
+    "cod": "SER0111",
+    "nome": "OFICINA DE TEORIA SOCIAL 3",
+    "ch": 30,
+    "post_requirements": [
+      "SER0228"
+    ],
+    "pre_requirements": [
+      "SER0060",
+      "SER0117"
+    ]
+  },
+  {
+    "cod": "SER0026",
+    "nome": "PARTICIPACAO SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0183"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0085",
+    "nome": "PARTICIPACAO SOCIO-POLITICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0048",
+    "nome": "PESQUISA SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "SER0039",
+      "SER0080",
+      "SER0096",
+      "SER0121",
+      "SER0141"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0096",
+    "nome": "PESQUISA SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "SER0079",
+      "SER0145",
+      "SER0171"
+    ],
+    "pre_requirements": [
+      "SER0048",
+      "SOL0098",
+      "FIL0077",
+      "DAN0040",
+      "NUT0034",
+      "TEF0025"
+    ]
+  },
+  {
+    "cod": "SER0052",
+    "nome": "PLANEJAMENTO, ADMINISTRA\u00c7\u00c3O E GEST\u00c3O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0142"
+    ],
+    "pre_requirements": [
+      "SER0024",
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0129",
+    "nome": "PLANEJAMENTO SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0128",
+      "SER0244"
+    ],
+    "pre_requirements": [
+      "ECO0019"
+    ]
+  },
+  {
+    "cod": "SER0015",
+    "nome": "POL\u00cdTICA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0001",
+      "SER0002",
+      "SER0031",
+      "SER0052",
+      "SER0057",
+      "SER0065",
+      "SER0066",
+      "SER0068",
+      "SER0071",
+      "SER0074",
+      "SER0076",
+      "SER0077",
+      "SER0087",
+      "SER0099",
+      "SER0124",
+      "SER0130",
+      "SER0137"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0021",
+    "nome": "POLITICA SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0071",
+    "nome": "POL\u00cdTICA SOCIAL - EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "SER0161"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0066",
+    "nome": "POLITICA SOCIAL ESPECIAL 2 - AGRARIA",
+    "ch": 60,
+    "post_requirements": [
+      "SER0204"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0077",
+    "nome": "POLITICA SOCIAL ESPECIAL 7 - PREVIDENCIA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0209"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0057",
+    "nome": "POLITICA SOCIAL ESPECIAL 8 - POLITICA DISTRIBUTIVA",
+    "ch": 60,
+    "post_requirements": [
+      "SER0200"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0074",
+    "nome": "POL\u00cdTICA SOCIAL - TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "SER0207"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0118",
+    "nome": "PR\u00c1TICA DE PESQUISA SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0119",
+    "nome": "PR\u00c1TICA DE PESQUISA SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0120",
+    "nome": "PR\u00c1TICA DE PESQUISA SOCIAL 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0121",
+    "nome": "PR\u00c1TICA DE PESQUISA SOCIAL 4",
+    "ch": 60,
+    "post_requirements": [
+      "SER0169"
+    ],
+    "pre_requirements": [
+      "SER0048"
+    ]
+  },
+  {
+    "cod": "SER0126",
+    "nome": "PR\u00c1TICAS DE INFORM\u00c1TICA EM SERVI\u00c7O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0241"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0097",
+    "nome": "PRATICAS JUNTO AOS SEGMENTOS POPULARES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0112",
+    "nome": "PROCESSOS DE TRABALHO E SERVI\u00c7O SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0115",
+    "nome": "PROCESSOS DE TRABALHO E SERVI\u00c7O SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "SER0152"
+    ],
+    "pre_requirements": [
+      "SER0112"
+    ]
+  },
+  {
+    "cod": "SER0079",
+    "nome": "PROJETO DE TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 60,
+    "post_requirements": [
+      "SER0038",
+      "SER0162",
+      "SER0172"
+    ],
+    "pre_requirements": [
+      "SER0096",
+      "SER0109"
+    ]
+  },
+  {
+    "cod": "SER0110",
+    "nome": "QUEST\u00c3O SOCIAL E SERVI\u00c7O SOCIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0065",
+    "nome": "QUEST\u00c3O URBANA E POL\u00cdTICA HABITACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0203"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0125",
+    "nome": "QUEST\u00c3O URBANA E RURAL NO BRASIL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0002",
+    "nome": "RELA\u00c7\u00d5ES SOCIAIS, FAM\u00cdLIA E SERVI\u00c7O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0158"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0130",
+    "nome": "SEGURIDADE SOCIAL 1 - PREVID\u00caNCIA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0154"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0124",
+    "nome": "SEGURIDADE SOCIAL 1 - PREVID\u00caNCIA SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "SER0239"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0076",
+    "nome": "SEGURIDADE SOCIAL 2 - SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "SER0144"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0001",
+    "nome": "SEGURIDADE SOCIAL 3 - ASSIST\u00caNCIA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0157"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0010",
+    "nome": "SERVICO SOCIAL DE CASO",
+    "ch": 120,
+    "post_requirements": [
+      "SER0177"
+    ],
+    "pre_requirements": [
+      "PCL0015"
+    ]
+  },
+  {
+    "cod": "SER0018",
+    "nome": "TEORIA DO SERVICO SOCIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0053",
+    "nome": "TEORIA GERAL DO SERVICO SOCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "SER0043",
+      "SER0045",
+      "SER0084",
+      "SER0197"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0055",
+    "nome": "TEORIA GERAL DO SERVICO SOCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "SER0198"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0056",
+    "nome": "TEORIA GERAL DO SERVICO SOCIAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "SER0084",
+      "SER0199"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0060",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PESQUISA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0111",
+      "SER0160"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SER0099",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POLITICA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0146"
+    ],
+    "pre_requirements": [
+      "SER0015"
+    ]
+  },
+  {
+    "cod": "SER0062",
+    "nome": "T\u00d3PICOS ESPECIAIS EM SERVI\u00c7O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0156"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0038",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 90,
+    "post_requirements": [
+      "SER0159"
+    ],
+    "pre_requirements": [
+      "SER0079",
+      "SER0171"
+    ]
+  },
+  {
+    "cod": "SER0083",
+    "nome": "TRABALHO DE GRUPO E SERVICO SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "SER0213"
+    ],
+    "pre_requirements": [
+      "SER0024"
+    ]
+  },
+  {
+    "cod": "SER0113",
+    "nome": "TRABALHO E SOCIABILIDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

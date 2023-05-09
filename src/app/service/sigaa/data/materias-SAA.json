@@ -1,0 +1,30 @@
+[
+  {
+    "cod": "SAA0001",
+    "nome": "CURSO DE ENFERMAGEM PARTE 1",
+    "ch": 1350,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SAA0002",
+    "nome": "CURSO DE ENFERMAGEM PARTE 2",
+    "ch": 1200,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SAA0003",
+    "nome": "CURSO DE ENFERMAGEM PARTE 3",
+    "ch": 1200,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "SAA0004",
+    "nome": "ESTUDOS BRASILEIROS - PROJETO RONDON",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

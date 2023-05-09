@@ -1,0 +1,307 @@
+[
+  {
+    "cod": "PAD0049",
+    "nome": "ADMINISTRACAO DA EDUCACAO E COMUNIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0104"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0038",
+    "nome": "ADMINISTRA\u00c7\u00c3O DAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0047",
+      "PAD0078",
+      "PAD0083"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0070",
+    "nome": "ANTROPOLOGIA DAS ORGANIZACOES E EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0076",
+    "nome": "AVALIA\u00c7\u00c3O NAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0064",
+      "PAD0087"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0047",
+    "nome": "COMUNICACAO EM ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0071",
+    "nome": "CULTURA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0034",
+    "nome": "DIREITO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0046",
+    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 ADMINISTRA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0102"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0052",
+    "nome": "FINANCIAMENTO DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0058",
+      "PAD0105"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0080",
+    "nome": "GEST\u00c3O DAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0047",
+      "PAD0078",
+      "PAD0085"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0041",
+    "nome": "GESTAO DE DESENVOLVIMENTO DE CURRICULO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0100"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0058",
+    "nome": "GESTAO DE RECURSOS FISICOS NAS ORGANIZACOES EDUCACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0106"
+    ],
+    "pre_requirements": [
+      "PAD0022",
+      "PAD0052"
+    ]
+  },
+  {
+    "cod": "PAD0077",
+    "nome": "GEST\u00c3O DE SISTEMAS DE EAD",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0079",
+    "nome": "GEST\u00c3O DE SISTEMAS DE EDUCA\u00c7\u00c3O \u00c0 DIST\u00c2NCIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0019",
+    "nome": "HIGIENE ESCOLAR",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0093"
+    ],
+    "pre_requirements": [
+      "PAD0011"
+    ]
+  },
+  {
+    "cod": "PAD0010",
+    "nome": "INFORMATICA APLICADA A ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0017",
+    "nome": "LEGISLACAO DO ENSINO 1",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0018",
+      "PAD0091"
+    ],
+    "pre_requirements": [
+      "TEF0013"
+    ]
+  },
+  {
+    "cod": "PAD0018",
+    "nome": "LEGISLACAO DO ENSINO 2",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0092"
+    ],
+    "pre_requirements": [
+      "PAD0017"
+    ]
+  },
+  {
+    "cod": "PAD0039",
+    "nome": "METODOS E TECNICAS DE PLANEJAMENTO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0099"
+    ],
+    "pre_requirements": [
+      "PAD0022"
+    ]
+  },
+  {
+    "cod": "PAD0028",
+    "nome": "ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0031",
+      "FIL0171",
+      "PAD0081"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0074",
+    "nome": "ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O NO DISTRITO FEDERAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0045",
+    "nome": "PESQUISA EM ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0065",
+      "PAD0101"
+    ],
+    "pre_requirements": [
+      "TEF0103"
+    ]
+  },
+  {
+    "cod": "PAD0022",
+    "nome": "PLANEJAMENTO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0039",
+      "PAD0058",
+      "PAD0062",
+      "PAD0086"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0031",
+    "nome": "POLITICAS P\u00daBLICAS DE EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0082"
+    ],
+    "pre_requirements": [
+      "PAD0028"
+    ]
+  },
+  {
+    "cod": "PAD0001",
+    "nome": "PRATICA DE ENSINO DE DISCIPLINA PROFISSIONALIZANTE DO 2 GRAU 2",
+    "ch": 30,
+    "post_requirements": [
+      "PAD0088"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0011",
+    "nome": "PRINCIPIOS E METODOS DE ADMINISTRACAO ESCOLAR",
+    "ch": 90,
+    "post_requirements": [
+      "PAD0019",
+      "PAD0090"
+    ],
+    "pre_requirements": [
+      "TEF0013"
+    ]
+  },
+  {
+    "cod": "PAD0065",
+    "nome": "TOPICOS ESPECIAIS DE PESQUISA EM ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0109"
+    ],
+    "pre_requirements": [
+      "PAD0045"
+    ]
+  },
+  {
+    "cod": "PAD0078",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ADMINISTRA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0116"
+    ],
+    "pre_requirements": [
+      "PAD0080",
+      "PAD0038"
+    ]
+  },
+  {
+    "cod": "PAD0064",
+    "nome": "T\u00d3PICOS ESPECIAIS EM AVALIA\u00c7\u00c3O EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0108"
+    ],
+    "pre_requirements": [
+      "PAD0076"
+    ]
+  },
+  {
+    "cod": "PAD0062",
+    "nome": "TOPICOS ESPECIAIS EM PLANEJAMENTO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0107"
+    ],
+    "pre_requirements": [
+      "PAD0022"
+    ]
+  },
+  {
+    "cod": "PAD0067",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICAS DE EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0110"
+    ],
+    "pre_requirements": [
+      "PAD0028 & PAD0031"
+    ]
+  }
+]

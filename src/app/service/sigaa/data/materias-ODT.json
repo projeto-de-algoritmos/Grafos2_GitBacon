@@ -1,0 +1,1508 @@
+[
+  {
+    "cod": "ODT0025",
+    "nome": "ANATOMIA DE CABE\u00c7A E PESCO\u00c7O",
+    "ch": 30,
+    "post_requirements": [
+      "s completados, as bases t\u00e9cnico",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "15h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "15h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "30h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "30h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "30h",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "ODT0190"
+    ],
+    "pre_requirements": [
+      "FMD0510"
+    ]
+  },
+  {
+    "cod": "ODT0088",
+    "nome": "ANESTESIOLOGIA ODONTOLOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0100",
+      "ODT0286"
+    ],
+    "pre_requirements": [
+      "FMD0171 & FMD0173 & FAR0031"
+    ]
+  },
+  {
+    "cod": "ODT0171",
+    "nome": "ATENDIMENTO ODONTOL\u00d3GICO A PACIENTES SISTEMICAMENTE COMPROMETIDOS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0089",
+    "nome": "BASES BIOLOGICAS DA ODONTOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0287"
+    ],
+    "pre_requirements": [
+      "ODT0022"
+    ]
+  },
+  {
+    "cod": "ODT0100",
+    "nome": "BASES DE TECNICA CIRURGICA EM CIRUGIA BUCO MAXILO FACIAL",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0064",
+      "ODT0134",
+      "ODT0135",
+      "ODT0296"
+    ],
+    "pre_requirements": [
+      "ODT0088",
+      "FAR0031 & ODT0094 & ODT0097"
+    ]
+  },
+  {
+    "cod": "ODT0151",
+    "nome": "BIOPATOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0156",
+      "ODT0195"
+    ],
+    "pre_requirements": [
+      "CEL0050 & CEL0025 & CEL0089 & GEM0062",
+      "CEL0089 & GEM0041"
+    ]
+  },
+  {
+    "cod": "ODT0156",
+    "nome": "BIOPATOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0224"
+    ],
+    "pre_requirements": [
+      "ODT0151",
+      "ODT0022 & ODT0020"
+    ]
+  },
+  {
+    "cod": "ODT0071",
+    "nome": "CANCER BUCAL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0279"
+    ],
+    "pre_requirements": [
+      "FMD0514"
+    ]
+  },
+  {
+    "cod": "ODT0113",
+    "nome": "CIRURGIA BUCO-MAXILAR",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0305"
+    ],
+    "pre_requirements": [
+      "ODT0064",
+      "ODT0134 & ODT0135"
+    ]
+  },
+  {
+    "cod": "ODT0033",
+    "nome": "CIRURGIA BUCOMAXILOFACIAL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0191"
+    ],
+    "pre_requirements": [
+      "ODT0006 & ODT0009",
+      "ODT0006 & ODT0180 & ODT0181"
+    ]
+  },
+  {
+    "cod": "ODT0134",
+    "nome": "CIRURGIA ORAL",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0320",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0135"
+    ],
+    "pre_requirements": [
+      "ODT0100"
+    ]
+  },
+  {
+    "cod": "ODT0064",
+    "nome": "CIRURGIA ORAL",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0113",
+      "ODT0278"
+    ],
+    "pre_requirements": [
+      "ODT0100"
+    ]
+  },
+  {
+    "cod": "ODT0135",
+    "nome": "CIRURGIA ORAL - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0321",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0134"
+    ],
+    "pre_requirements": [
+      "ODT0100"
+    ]
+  },
+  {
+    "cod": "ODT0024",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0055",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0152",
+      "ODT0194"
+    ],
+    "pre_requirements": [
+      "ODT0024"
+    ]
+  },
+  {
+    "cod": "ODT0152",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 3",
+    "ch": 90,
+    "post_requirements": [
+      "ODT0010",
+      "ODT0028",
+      "ODT0052",
+      "ODT0061",
+      "ODT0154",
+      "ODT0333"
+    ],
+    "pre_requirements": [
+      "ODT0055"
+    ]
+  },
+  {
+    "cod": "ODT0173",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 3 - PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0227"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0172",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 3 - TE\u00d3RICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0200"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0154",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 4",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0002",
+      "ODT0053",
+      "ODT0207"
+    ],
+    "pre_requirements": [
+      "ODT0152",
+      "ODT0172 & ODT0173"
+    ]
+  },
+  {
+    "cod": "ODT0177",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 4 - PR\u00c1TICA",
+    "ch": 45,
+    "post_requirements": [
+      "ODT0229"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0176",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 4 - TE\u00d3RICA",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0356"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0157",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 5",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0337"
+    ],
+    "pre_requirements": [
+      "ODT0154 & ODT0028 & ODT0061",
+      "ODT0154 & ODT0162 & ODT0163 & ODT0061",
+      "ODT0154 & ODT0028 & ODT0168 & ODT0169",
+      "ODT0154 & ODT0162 & ODT0163 & ODT0168 & ODT0169",
+      "ODT0176 & ODT0177 & ODT0028 & ODT0061",
+      "ODT0176 & ODT0177 & ODT0162 & ODT0163 & ODT0061",
+      "ODT0176 & ODT0177 & ODT0028 & ODT0168 & ODT0169",
+      "ODT0176 & ODT0177 & ODT0162 & ODT0163 & ODT0168 & ODT0169"
+    ]
+  },
+  {
+    "cod": "ODT0161",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 5 - PR\u00c1TICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0198"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0160",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 5 - TE\u00d3RICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0197"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0009",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 6",
+    "ch": 180,
+    "post_requirements": [
+      "ODT0034",
+      "ODT0074",
+      "ODT0108",
+      "ODT0202"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0158 & ODT0087",
+      "ODT0160 & ODT0161 & ODT0158 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0180",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 6 - ENDODONTIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0231"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0158",
+      "ODT0160 & ODT0158"
+    ]
+  },
+  {
+    "cod": "ODT0181",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 6 - EST\u00c1GIO",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0209"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0158 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0013",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 7",
+    "ch": 240,
+    "post_requirements": [
+      "ODT0015",
+      "ODT0186"
+    ],
+    "pre_requirements": [
+      "ODT0009 & ODT0005 & ODT0006 & ODT0159 & ODT0004",
+      "ODT0180 & ODT0181 & ODT0005 & ODT0006 & ODT0159 & ODT0004",
+      "ODT0009 & ODT0178 & ODT0179 & ODT0006 & ODT0159 & ODT0004",
+      "ODT0180 & ODT0181 & ODT0178 & ODT0179 & ODT0006 & ODT0159 & ODT0004"
+    ]
+  },
+  {
+    "cod": "ODT0015",
+    "nome": "CL\u00cdNICA ODONTOL\u00d3GICA 8",
+    "ch": 180,
+    "post_requirements": [
+      "ODT0016",
+      "ODT0018",
+      "ODT0054",
+      "ODT0149",
+      "ODT0187"
+    ],
+    "pre_requirements": [
+      "ODT0013"
+    ]
+  },
+  {
+    "cod": "ODT0028",
+    "nome": "DENT\u00cdSTICA",
+    "ch": 90,
+    "post_requirements": [
+      "ODT0204"
+    ],
+    "pre_requirements": [
+      "ODT0152",
+      "ODT0172 & ODT0173"
+    ]
+  },
+  {
+    "cod": "ODT0095",
+    "nome": "DENTISTICA 1",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0292"
+    ],
+    "pre_requirements": [
+      "ODT0085",
+      "ODT0085 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0106",
+    "nome": "DENTISTICA 2",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0299"
+    ],
+    "pre_requirements": [
+      "ODT0094 & ODT0087 & ODT0095"
+    ]
+  },
+  {
+    "cod": "ODT0163",
+    "nome": "DENT\u00cdSTICA - PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0199"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0162",
+    "nome": "DENT\u00cdSTICA - TE\u00d3RICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0342"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0052",
+    "nome": "DIAGN\u00d3STICO BUCAL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0158",
+      "ODT0193"
+    ],
+    "pre_requirements": [
+      "ODT0152",
+      "ODT0172 & ODT0173"
+    ]
+  },
+  {
+    "cod": "ODT0019",
+    "nome": "DISFUN\u00c7\u00c3O TEMPOROMANDIBULAR E DOR OROFACIAL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0188"
+    ],
+    "pre_requirements": [
+      "ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0158",
+    "nome": "ENDODONTIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0196"
+    ],
+    "pre_requirements": [
+      "ODT0052"
+    ]
+  },
+  {
+    "cod": "ODT0101",
+    "nome": "ENDODONTIA 1",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0110",
+      "ODT0297"
+    ],
+    "pre_requirements": [
+      "FMD0514 & ODT0094 & ODT0097"
+    ]
+  },
+  {
+    "cod": "ODT0110",
+    "nome": "ENDODONTIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0302"
+    ],
+    "pre_requirements": [
+      "ODT0101"
+    ]
+  },
+  {
+    "cod": "ODT0032",
+    "nome": "EPIDEMIOLOGIA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0214"
+    ],
+    "pre_requirements": [
+      "ODT0026"
+    ]
+  },
+  {
+    "cod": "ODT0023",
+    "nome": "EPISTEMOLOGIA E CI\u00caNCIAS DA SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0148",
+    "nome": "ERGONOMIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0090",
+    "nome": "ERGONOMIA E ODONTOLOGIA LEGAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0081",
+    "nome": "ESTAGIO CLINICO EM ODONTOLOGIA INTEGRADA",
+    "ch": 480,
+    "post_requirements": [
+      "ODT0281"
+    ],
+    "pre_requirements": [
+      "ODT0136 & ODT0137"
+    ]
+  },
+  {
+    "cod": "ODT0141",
+    "nome": "ESTAGIO COMUNITARIO MULTI-DISCIPLINAR",
+    "ch": 180,
+    "post_requirements": [
+      "ODT0325"
+    ],
+    "pre_requirements": [
+      "ODT0084 & ODT0117"
+    ]
+  },
+  {
+    "cod": "ODT0123",
+    "nome": "ESTAGIO EM CLINICA ODONTOLOGICA INTEGRADA 1",
+    "ch": 180,
+    "post_requirements": [
+      "ODT0310"
+    ],
+    "pre_requirements": [
+      "ODT0113 & ODT0117 & ODT0084 & ODT0071 & ODT0074"
+    ]
+  },
+  {
+    "cod": "ODT0120",
+    "nome": "ESTAGIO EM CLINICA ODONTOLOGICA INTEGRADA 2",
+    "ch": 360,
+    "post_requirements": [
+      "ODT0309"
+    ],
+    "pre_requirements": [
+      "ODT0123 & ODT0116"
+    ]
+  },
+  {
+    "cod": "ODT0016",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ODONTOLOGIA 1",
+    "ch": 240,
+    "post_requirements": [
+      "ODT0203",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0018",
+      "ODT0054"
+    ],
+    "pre_requirements": [
+      "ODT0015"
+    ]
+  },
+  {
+    "cod": "ODT0018",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ODONTOLOGIA 2",
+    "ch": 180,
+    "post_requirements": [
+      "ODT0211"
+    ],
+    "pre_requirements": [
+      "ODT0015"
+    ]
+  },
+  {
+    "cod": "ODT0097",
+    "nome": "ESTOMATOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "ODT0083",
+      "ODT0293"
+    ],
+    "pre_requirements": [
+      "FMD0171 & ODT0020"
+    ]
+  },
+  {
+    "cod": "ODT0022",
+    "nome": "ESTRUTURA E FUN\u00c7\u00c3O ESTOMATOL\u00d3GICAS",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0089",
+      "ODT0251"
+    ],
+    "pre_requirements": [
+      "FMD0165 & FMD0167 & ICB0143",
+      "FMD0510 & CFS0037 & ICB0143",
+      "FMD0510 & CFS0037 & GEM0041"
+    ]
+  },
+  {
+    "cod": "ODT0092",
+    "nome": "FUNDAMENTOS DE ODONTOLOGIA PREVENTIVA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0112",
+      "ODT0290"
+    ],
+    "pre_requirements": [
+      "ODT0022 & CEL0050"
+    ]
+  },
+  {
+    "cod": "ODT0149",
+    "nome": "IMPLANTODONTIA BUCOMAXILOFACIAL",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0222"
+    ],
+    "pre_requirements": [
+      "ODT0015"
+    ]
+  },
+  {
+    "cod": "ODT0124",
+    "nome": "INICIACAO A PRATICA ODONTOLOGICA - PRATICA",
+    "ch": 150,
+    "post_requirements": [
+      "ODT0311",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0138"
+    ],
+    "pre_requirements": [
+      "FMD0171 & FMD0173"
+    ]
+  },
+  {
+    "cod": "ODT0138",
+    "nome": "INICIACAO A PRATICA ODONTOLOGICA - TEORIA",
+    "ch": 90,
+    "post_requirements": [
+      "ODT0324",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0124"
+    ],
+    "pre_requirements": [
+      "FMD0171 & FMD0173"
+    ]
+  },
+  {
+    "cod": "ODT0026",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 PESQUISA CIENT\u00cdFICA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0032",
+      "ODT0212"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0004",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 PR\u00d3TESE PARCIAL REMOV\u00cdVEL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0184"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0087",
+      "ODT0160 & ODT0161 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0085",
+    "nome": "MATERIAIS DENTARIOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0144",
+    "nome": "METODOLOGIA CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0326"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0053",
+    "nome": "M\u00c9TODOS QUANTITATIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0274"
+    ],
+    "pre_requirements": [
+      "ODT0154"
+    ]
+  },
+  {
+    "cod": "ODT0020",
+    "nome": "MICROBIOLOGIA ORAL",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0250"
+    ],
+    "pre_requirements": [
+      "CEL0050"
+    ]
+  },
+  {
+    "cod": "ODT0087",
+    "nome": "OCLUSAO",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0019",
+      "ODT0220"
+    ],
+    "pre_requirements": [
+      "CFS0037 & ODT0025"
+    ]
+  },
+  {
+    "cod": "ODT0170",
+    "nome": "ODONTOLOGIA E DOEN\u00c7AS CR\u00d4NICAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0091",
+    "nome": "ODONTOLOGIA FORENSE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0130",
+    "nome": "ODONTOLOGIA INFANTIL 1 - PRATICA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0317",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0129"
+    ],
+    "pre_requirements": [
+      "ODT0125 & ODT0126"
+    ]
+  },
+  {
+    "cod": "ODT0129",
+    "nome": "ODONTOLOGIA INFANTIL 1 - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0316",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0130"
+    ],
+    "pre_requirements": [
+      "ODT0125 & ODT0126"
+    ]
+  },
+  {
+    "cod": "ODT0137",
+    "nome": "ODONTOLOGIA INFANTIL 2 - PRATICA",
+    "ch": 105,
+    "post_requirements": [
+      "ODT0323",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0136"
+    ],
+    "pre_requirements": [
+      "ODT0129 & ODT0130"
+    ]
+  },
+  {
+    "cod": "ODT0136",
+    "nome": "ODONTOLOGIA INFANTIL 2 - TEORIA",
+    "ch": 75,
+    "post_requirements": [
+      "ODT0322",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0137"
+    ],
+    "pre_requirements": [
+      "ODT0129 & ODT0130"
+    ]
+  },
+  {
+    "cod": "ODT0112",
+    "nome": "ODONTOLOGIA PEDIATRICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0304"
+    ],
+    "pre_requirements": [
+      "ODT0106 & ODT0110",
+      "ODT0092"
+    ]
+  },
+  {
+    "cod": "ODT0117",
+    "nome": "ODONTOLOGIA PEDIATRICA 2",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0146",
+      "ODT0308"
+    ],
+    "pre_requirements": [
+      "ODT0112 & ODT0108"
+    ]
+  },
+  {
+    "cod": "ODT0146",
+    "nome": "ODONTOLOGIA PEDIATRICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0328"
+    ],
+    "pre_requirements": [
+      "ODT0039",
+      "ODT0117"
+    ]
+  },
+  {
+    "cod": "ODT0126",
+    "nome": "ODONTOLOGIA RESTAURADORA 1 - PRATICA",
+    "ch": 180,
+    "post_requirements": [
+      "ODT0313",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0125"
+    ],
+    "pre_requirements": [
+      "ODT0124 & ODT0138"
+    ]
+  },
+  {
+    "cod": "ODT0125",
+    "nome": "ODONTOLOGIA RESTAURADORA 1 - TEORIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0312",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0126"
+    ],
+    "pre_requirements": [
+      "ODT0124 & ODT0138"
+    ]
+  },
+  {
+    "cod": "ODT0132",
+    "nome": "ODONTOLOGIA RESTAURADORA 2 - PRATICA",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0319",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0131"
+    ],
+    "pre_requirements": [
+      "ODT0125 & ODT0126"
+    ]
+  },
+  {
+    "cod": "ODT0131",
+    "nome": "ODONTOLOGIA RESTAURADORA 2 - TEORIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0318",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0132"
+    ],
+    "pre_requirements": [
+      "ODT0125 & ODT0126"
+    ]
+  },
+  {
+    "cod": "ODT0083",
+    "nome": "ODONTOLOGIA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0026",
+      "ODT0084",
+      "ODT0282"
+    ],
+    "pre_requirements": [
+      "ODT0097"
+    ]
+  },
+  {
+    "cod": "ODT0034",
+    "nome": "ODONTOPEDIATRIA 1",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0261"
+    ],
+    "pre_requirements": [
+      "ODT0009",
+      "ODT0180 & ODT0181"
+    ]
+  },
+  {
+    "cod": "ODT0039",
+    "nome": "ODONTOPEDIATRIA 2",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0146",
+      "ODT0192"
+    ],
+    "pre_requirements": [
+      "ODT0034 & ODT0013"
+    ]
+  },
+  {
+    "cod": "ODT0108",
+    "nome": "ORTODONTIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0206"
+    ],
+    "pre_requirements": [
+      "ODT0009",
+      "ODT0180 & ODT0181"
+    ]
+  },
+  {
+    "cod": "ODT0165",
+    "nome": "ORTODONTIA 1 - PR\u00c1TICA",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0345"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0164",
+    "nome": "ORTODONTIA 1 - TE\u00d3RICA",
+    "ch": 45,
+    "post_requirements": [
+      "ODT0344"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0145",
+    "nome": "ORTODONTIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0327"
+    ],
+    "pre_requirements": [
+      "ODT0108 & ODT0034"
+    ]
+  },
+  {
+    "cod": "ODT0167",
+    "nome": "ORTODONTIA 2 - PR\u00c1TICA",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0347"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0166",
+    "nome": "ORTODONTIA 2 - TE\u00d3RICA",
+    "ch": 45,
+    "post_requirements": [
+      "ODT0346"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0061",
+    "nome": "PERIODONTIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0205"
+    ],
+    "pre_requirements": [
+      "ODT0152",
+      "ODT0172 & ODT0173"
+    ]
+  },
+  {
+    "cod": "ODT0109",
+    "nome": "PERIODONTIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0099",
+      "ODT0301"
+    ],
+    "pre_requirements": [
+      "ODT0092 & FMD0514"
+    ]
+  },
+  {
+    "cod": "ODT0099",
+    "nome": "PERIODONTIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0295"
+    ],
+    "pre_requirements": [
+      "ODT0109"
+    ]
+  },
+  {
+    "cod": "ODT0128",
+    "nome": "PERIODONTIA- PRATICA",
+    "ch": 75,
+    "post_requirements": [
+      "ODT0315",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0127"
+    ],
+    "pre_requirements": [
+      "FMD0174 & FMD0175"
+    ]
+  },
+  {
+    "cod": "ODT0169",
+    "nome": "PERIODONTIA - PR\u00c1TICA",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0226"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0127",
+    "nome": "PERIODONTIA- TEORIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0314",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0128"
+    ],
+    "pre_requirements": [
+      "FMD0174 & FMD0175"
+    ]
+  },
+  {
+    "cod": "ODT0168",
+    "nome": "PERIODONTIA - TE\u00d3RICA",
+    "ch": 45,
+    "post_requirements": [
+      "ODT0348"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0051",
+    "nome": "PR\u00c1TICAS DE SA\u00daDE BUCAL COLETIVA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0030",
+      "ODT0218"
+    ],
+    "pre_requirements": [
+      "ODT0155"
+    ]
+  },
+  {
+    "cod": "ODT0011",
+    "nome": "PR\u00c1TICAS DE SA\u00daDE BUCAL COLETIVA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0244"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0030",
+      "ODT0160 & ODT0161 & ODT0030"
+    ]
+  },
+  {
+    "cod": "ODT0175",
+    "nome": "PR\u00c1TICAS DE SA\u00daDE BUCAL COLETIVA 2 - CAMPO",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0208"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0174",
+    "nome": "PR\u00c1TICAS DE SA\u00daDE BUCAL COLETIVA 2 - GEST\u00c3O",
+    "ch": 45,
+    "post_requirements": [
+      "ODT0228"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0054",
+    "nome": "PR\u00c1TICAS DE SA\u00daDE BUCAL COLETIVA 3",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0219"
+    ],
+    "pre_requirements": [
+      "ODT0015"
+    ]
+  },
+  {
+    "cod": "ODT0006",
+    "nome": "PRINC\u00cdPIOS DA T\u00c9CNICA CIR\u00daRGICA",
+    "ch": 60,
+    "post_requirements": [
+      "s completados, as bases t\u00e9cnico",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "45h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "15h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "60h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "60h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "60h",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "ODT0185"
+    ],
+    "pre_requirements": [
+      "ODT0052 & ODT0157",
+      "ODT0052 & ODT0160 & ODT0161"
+    ]
+  },
+  {
+    "cod": "ODT0104",
+    "nome": "PROTESE FIXA 1",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0111",
+      "ODT0298"
+    ],
+    "pre_requirements": [
+      "ODT0094 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0111",
+    "nome": "PROTESE FIXA 2",
+    "ch": 120,
+    "post_requirements": [
+      "ODT0115",
+      "ODT0303"
+    ],
+    "pre_requirements": [
+      "ODT0104"
+    ]
+  },
+  {
+    "cod": "ODT0005",
+    "nome": "PR\u00d3TESE PARCIAL FIXA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0240"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0087",
+      "ODT0160 & ODT0161 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0179",
+    "nome": "PR\u00d3TESE PARCIAL FIXA - PR\u00c1TICA",
+    "ch": 45,
+    "post_requirements": [
+      "ODT0201"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0178",
+    "nome": "PR\u00d3TESE PARCIAL FIXA - TE\u00d3RICA",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0230"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0116",
+    "nome": "PROTESE PARCIAL REMOVIVEL",
+    "ch": 90,
+    "post_requirements": [
+      "ODT0307"
+    ],
+    "pre_requirements": [
+      "ODT0099 & ODT0111"
+    ]
+  },
+  {
+    "cod": "ODT0115",
+    "nome": "PROTESE TOTAL",
+    "ch": 90,
+    "post_requirements": [
+      "ODT0306"
+    ],
+    "pre_requirements": [
+      "ODT0111"
+    ]
+  },
+  {
+    "cod": "ODT0159",
+    "nome": "PROTESE TOTAL REMOV\u00cdVEL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0225",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "ODT0181"
+    ],
+    "pre_requirements": [
+      "ODT0154 & ODT0087",
+      "ODT0176 & ODT0177 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0094",
+    "nome": "RADIOLOGIA ORAL",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0291"
+    ],
+    "pre_requirements": [
+      "FMD0171 & FMD0173"
+    ]
+  },
+  {
+    "cod": "ODT0098",
+    "nome": "RELACAO PROFISSIONAL-PACIENTE EM ODONTOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0294"
+    ],
+    "pre_requirements": [
+      "PPB0014"
+    ]
+  },
+  {
+    "cod": "ODT0150",
+    "nome": "RESPONSABILIDADE CIVIL DO PROFISSIONAL DE SA\u00daDE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0155",
+    "nome": "SA\u00daDE BUCAL COLETIVA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0051",
+      "ODT0223"
+    ],
+    "pre_requirements": [
+      "DSC0037"
+    ]
+  },
+  {
+    "cod": "ODT0030",
+    "nome": "SA\u00daDE BUCAL COLETIVA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0050",
+      "ODT0213",
+      "ODT0233"
+    ],
+    "pre_requirements": [
+      "ODT0051"
+    ]
+  },
+  {
+    "cod": "ODT0050",
+    "nome": "SA\u00daDE BUCAL COLETIVA 3",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0271"
+    ],
+    "pre_requirements": [
+      "ODT0030"
+    ]
+  },
+  {
+    "cod": "ODT0029",
+    "nome": "SEMIN\u00c1RIOS INTEGRADOS 1",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0257"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0035",
+    "nome": "SEMIN\u00c1RIOS INTEGRADOS 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0040",
+    "nome": "SEMIN\u00c1RIOS INTEGRADOS 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0044",
+    "nome": "SEMIN\u00c1RIOS INTEGRADOS 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0049",
+    "nome": "SEMIN\u00c1RIOS INTEGRADOS 5",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0084",
+    "nome": "SISTEMA DE ATENCAO ODONTOLOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0283"
+    ],
+    "pre_requirements": [
+      "ODT0083",
+      "ODT0090",
+      "ODT0148"
+    ]
+  },
+  {
+    "cod": "ODT0010",
+    "nome": "T\u00d3PICOS COMPLEMENTARES EM DENT\u00cdSTICA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0210"
+    ],
+    "pre_requirements": [
+      "ODT0152",
+      "ODT0172 & ODT0173"
+    ]
+  },
+  {
+    "cod": "ODT0003",
+    "nome": "T\u00d3PICOS COMPLEMENTARES EM PR\u00d3TESE PARCIAL REMOV\u00cdVEL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0183"
+    ],
+    "pre_requirements": [
+      "ODT0157 & ODT0087",
+      "ODT0160 & ODT0161 & ODT0087"
+    ]
+  },
+  {
+    "cod": "ODT0002",
+    "nome": "T\u00d3PICOS COMPLEMENTARES EM PR\u00d3TESE TOTAL REMOV\u00cdVEL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0182"
+    ],
+    "pre_requirements": [
+      "ODT0154"
+    ]
+  },
+  {
+    "cod": "ODT0037",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0043",
+      "ODT0215",
+      "ODT0234"
+    ],
+    "pre_requirements": [
+      "ODT0009 & ODT0032",
+      "ODT0180 & ODT0181 & ODT0032"
+    ]
+  },
+  {
+    "cod": "ODT0043",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0047",
+      "ODT0216",
+      "ODT0235"
+    ],
+    "pre_requirements": [
+      "ODT0037"
+    ]
+  },
+  {
+    "cod": "ODT0047",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 3",
+    "ch": 15,
+    "post_requirements": [
+      "ODT0217"
+    ],
+    "pre_requirements": [
+      "ODT0043"
+    ]
+  },
+  {
+    "cod": "ODT0048",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ODT0074",
+    "nome": "TRAUMA E PROTESE BUCO-MAXILO-FACIAL",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0280"
+    ],
+    "pre_requirements": [
+      "ODT0009",
+      "ODT0180 & ODT0181"
+    ]
+  },
+  {
+    "cod": "ODT0001",
+    "nome": "USO RACIONAL DE MEDICAMENTOS EM ODONTOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ODT0236"
+    ],
+    "pre_requirements": [
+      "FAR0031"
+    ]
+  }
+]

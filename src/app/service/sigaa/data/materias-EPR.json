@@ -1,0 +1,772 @@
+[
+  {
+    "cod": "EPR0075",
+    "nome": "CONFIABILIDADE, MANUTENIBILIDADE E DISPONIBILIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0188"
+    ],
+    "pre_requirements": [
+      "MAT0027 & EST0023"
+    ]
+  },
+  {
+    "cod": "EPR0014",
+    "nome": "CONTROLE ESTAT\u00cdSTICO DE PROCESSOS",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0083"
+    ],
+    "pre_requirements": [
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EPR0016",
+    "nome": "CUSTOS EM SISTEMAS DE PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0134"
+    ],
+    "pre_requirements": [
+      "EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0044",
+    "nome": "DESENVOLVIMENTO DE SERVI\u00c7OS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0160"
+    ],
+    "pre_requirements": [
+      "EPR0013",
+      "ENM0187"
+    ]
+  },
+  {
+    "cod": "EPR0017",
+    "nome": "DIN\u00c2MICA DE SISTEMAS EM ORGANIZA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0135"
+    ],
+    "pre_requirements": [
+      "EPR0004"
+    ]
+  },
+  {
+    "cod": "EPR0043",
+    "nome": "ENGENHARIA DE PRODUTOS FINANCEIROS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0159"
+    ],
+    "pre_requirements": [
+      "EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0013",
+    "nome": "ENGENHARIA DO PRODUTO",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0044",
+      "EPR0100",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0008"
+    ],
+    "pre_requirements": [
+      "EPR0002",
+      "ENM0134",
+      "ENM0124"
+    ]
+  },
+  {
+    "cod": "EPR0076",
+    "nome": "ENGENHARIA DO TRABALHO",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0117"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0064",
+    "nome": "ENGENHARIA ECON\u00d4MICA",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0016",
+      "EPR0042",
+      "EPR0043",
+      "EPR0114"
+    ],
+    "pre_requirements": [
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EPR0077",
+    "nome": "ERGONOMIA DE SISTEMAS PRODUTIVOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0040",
+    "nome": "ERGONOMIA EM SISTEMAS PRODUTIVOS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0157"
+    ],
+    "pre_requirements": [
+      "EPR0063",
+      "EPR0076  &  EPR0071"
+    ]
+  },
+  {
+    "cod": "EPR0010",
+    "nome": "EST\u00c1GIO SUPERVISIONADO OBRIGAT\u00d3RIO",
+    "ch": 180,
+    "post_requirements": [
+      "EPR0098"
+    ],
+    "pre_requirements": [
+      "EPR0004 & EPR0002 & EPR0006"
+    ]
+  },
+  {
+    "cod": "EPR0036",
+    "nome": "FINAN\u00c7AS  COMPORTAMENTAIS E PESSOAIS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0061",
+    "nome": "FORMA\u00c7\u00c3O DE VALOR EM SISTEMAS DE PRODU\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0047",
+    "nome": "GERENCIAMENTO DA CADEIA DE SUPRIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0163"
+    ],
+    "pre_requirements": [
+      "EPR0012"
+    ]
+  },
+  {
+    "cod": "EPR0038",
+    "nome": "GERENCIAMENTO DE PROJETOS COMPLEXOS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0155"
+    ],
+    "pre_requirements": [
+      "EPR0002"
+    ]
+  },
+  {
+    "cod": "EPR0031",
+    "nome": "GEST\u00c3O DA CADEIA DE SUPRIMENTOS EM ENGENHARIA",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0030",
+    "nome": "GEST\u00c3O DA QUALIDADE NA PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0084",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0007"
+    ],
+    "pre_requirements": [
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EPR0042",
+    "nome": "GEST\u00c3O DE CUSTOS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0158"
+    ],
+    "pre_requirements": [
+      "EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0051",
+    "nome": "GEST\u00c3O DE PROJETOS AVAN\u00c7ADOS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0167"
+    ],
+    "pre_requirements": [
+      "EPR0069"
+    ]
+  },
+  {
+    "cod": "EPR0005",
+    "nome": "GEST\u00c3O DE RISCOS",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0095"
+    ],
+    "pre_requirements": [
+      "EST0023 & EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0018",
+    "nome": "GEST\u00c3O DE RISCOS EM ORGANIZA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0065",
+    "nome": "GEST\u00c3O ESTRAT\u00c9GICA",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0089",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0009"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0059",
+    "nome": "HIGIENE E SEGURAN\u00c7A DO TRABALHO",
+    "ch": 30,
+    "post_requirements": [
+      "ENC0025",
+      "EPR0112"
+    ],
+    "pre_requirements": [
+      "EPR0068"
+    ]
+  },
+  {
+    "cod": "EPR0035",
+    "nome": "INOVA\u00c7\u00c3O EM SISTEMAS DE PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0105"
+    ],
+    "pre_requirements": [
+      "EPR0069",
+      "ENM0134",
+      "ADM0092",
+      "FGA0195"
+    ]
+  },
+  {
+    "cod": "EPR0058",
+    "nome": "INSTALACOES INDUSTRIAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0060",
+      "EPR0173"
+    ],
+    "pre_requirements": [
+      "EPR0068"
+    ]
+  },
+  {
+    "cod": "EPR0060",
+    "nome": "INSTALACOES INDUSTRIAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0175"
+    ],
+    "pre_requirements": [
+      "EPR0058"
+    ]
+  },
+  {
+    "cod": "EPR0056",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA DE PRODU\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0057",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA DE PRODU\u00c7\u00c3O E \u00c0 QUALIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0006",
+      "ENC0262",
+      "EPR0172"
+    ],
+    "pre_requirements": [
+      "EST0023 & ENM0134",
+      "EST0023 & EPR0068"
+    ]
+  },
+  {
+    "cod": "EPR0048",
+    "nome": "INTRODU\u00c7\u00c3O A METODOLOGIA DE PESQUISA PARA ENGENHARIA DE PRODU\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0012",
+    "nome": "LOG\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0047",
+      "EPR0099"
+    ],
+    "pre_requirements": [
+      "EPR0066"
+    ]
+  },
+  {
+    "cod": "EPR0019",
+    "nome": "MERCADOLOGIA ESTRAT\u00c9GICA",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0101"
+    ],
+    "pre_requirements": [
+      "EPR0069"
+    ]
+  },
+  {
+    "cod": "EPR0069",
+    "nome": "METODOLOGIA DE PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0019",
+      "EPR0035",
+      "EPR0051",
+      "EPR0115"
+    ],
+    "pre_requirements": [
+      "EPR0056"
+    ]
+  },
+  {
+    "cod": "EPR0068",
+    "nome": "ORGANIZA\u00c7\u00c3O INDUSTRIAL",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0006",
+      "EPR0058",
+      "EPR0059",
+      "ENM0166",
+      "EPR0091"
+    ],
+    "pre_requirements": [
+      "EST0023",
+      "EST0022",
+      "ENC0274"
+    ]
+  },
+  {
+    "cod": "EPR0066",
+    "nome": "PESQUISA OPERACIONAL EM ENGENHARIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "EPR0004",
+      "EPR0012",
+      "ADM0307",
+      "EPR0090"
+    ],
+    "pre_requirements": [
+      "EST0023",
+      "EST0023 & MAT0031"
+    ]
+  },
+  {
+    "cod": "EPR0020",
+    "nome": "PESQUISA OPERACIONAL EM ENGENHARIA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0002",
+    "nome": "PLANEJAMENTO E CONTROLE DA PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0013",
+      "EPR0034",
+      "EPR0038",
+      "EPR0039",
+      "EPR0049",
+      "EPR0079",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0001"
+    ],
+    "pre_requirements": [
+      "EPR0072"
+    ]
+  },
+  {
+    "cod": "EPR0039",
+    "nome": "PLANEJAMENTO E CONTROLE DE SERVI\u00c7OS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0107"
+    ],
+    "pre_requirements": [
+      "EPR0002"
+    ]
+  },
+  {
+    "cod": "EPR0049",
+    "nome": "PROJETO DE FABRICA E LAYOUT",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0110"
+    ],
+    "pre_requirements": [
+      "EPR0002"
+    ]
+  },
+  {
+    "cod": "EPR0045",
+    "nome": "PROJETO DE GRADUA\u00c7\u00c3O DE ENGENHARIA DE PRODU\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0046",
+      "EPR0108",
+      "EPR0119"
+    ],
+    "pre_requirements": [
+      "EPR0004 & EPR0002 & EPR0030 & EPR0006"
+    ]
+  },
+  {
+    "cod": "EPR0046",
+    "nome": "PROJETO DE GRADUA\u00c7\u00c3O DE ENGENHARIA DE PRODU\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0109"
+    ],
+    "pre_requirements": [
+      "EPR0045",
+      "EPR0088"
+    ]
+  },
+  {
+    "cod": "EPR0071",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0073",
+      "EPR0092"
+    ],
+    "pre_requirements": [
+      "EPR0061 & EPR0069  &  EPR0063",
+      "EPR0076"
+    ]
+  },
+  {
+    "cod": "EPR0073",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0001",
+      "EPR0006",
+      "EPR0074",
+      "EPR0093",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0072"
+    ],
+    "pre_requirements": [
+      "EPR0071"
+    ]
+  },
+  {
+    "cod": "EPR0074",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 3",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0094"
+    ],
+    "pre_requirements": [
+      "EPR0073"
+    ]
+  },
+  {
+    "cod": "EPR0001",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 4",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0078",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0002"
+    ],
+    "pre_requirements": [
+      "EPR0073"
+    ]
+  },
+  {
+    "cod": "EPR0007",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 5",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0081",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0030"
+    ],
+    "pre_requirements": [
+      "EPR0073 & EPR0066 & EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0008",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 6",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0097",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0013"
+    ],
+    "pre_requirements": [
+      "EPR0073 & EPR0066 & EPR0064",
+      "ENM0134",
+      "ENM0124"
+    ]
+  },
+  {
+    "cod": "EPR0009",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 7",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0054",
+      "EPR0082",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0065"
+    ],
+    "pre_requirements": [
+      "EPR0073 & EPR0066 & EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0050",
+    "nome": "PROJETO DE SISTEMAS DE PRODU\u00c7\u00c3O 8",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0166"
+    ],
+    "pre_requirements": [
+      "EPR0073 & EPR0066 & EPR0064"
+    ]
+  },
+  {
+    "cod": "EPR0006",
+    "nome": "SEGURAN\u00c7A E SA\u00daDE NO TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0096"
+    ],
+    "pre_requirements": [
+      "EPR0068",
+      "EPR0057",
+      "EPR0073"
+    ]
+  },
+  {
+    "cod": "EPR0021",
+    "nome": "SEMIN\u00c1RIO EM ENGENHARIA DE PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0004",
+    "nome": "SIMULA\u00c7\u00c3O DE SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0017",
+      "EPR0080"
+    ],
+    "pre_requirements": [
+      "EPR0066"
+    ]
+  },
+  {
+    "cod": "EPR0052",
+    "nome": "SISTEMA DE PRODU\u00c7\u00c3O AGROALIMENTAR",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0037",
+    "nome": "SISTEMA DE PRODU\u00c7\u00c3O ENXUTA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0034",
+    "nome": "SISTEMAS COLABORATIVOS",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0151"
+    ],
+    "pre_requirements": [
+      "EPR0002",
+      "ENM0134"
+    ]
+  },
+  {
+    "cod": "EPR0072",
+    "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O EM ENGENHARIA DE PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0002",
+      "FGA0001",
+      "EPR0022",
+      "EPR0116",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "EPR0073"
+    ],
+    "pre_requirements": [
+      "CIC0007",
+      "ENE0334"
+    ]
+  },
+  {
+    "cod": "EPR0022",
+    "nome": "SISTEMAS DE SUPORTE \u00c0 DECIS\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0103"
+    ],
+    "pre_requirements": [
+      "EPR0072"
+    ]
+  },
+  {
+    "cod": "EPR0003",
+    "nome": "TOMADA DE DECIS\u00c3O COM ENFOQUE EM AN\u00c1LISE MULTICRIT\u00c9RIO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0055",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA DE OPERA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0026",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA DO PRODUTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0025",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA DO TRABALHO E ERGONOMIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0067",
+    "nome": "T\u00d3PICOS ESPECIAIS  EM ENGENHARIA ECON\u00d4MICA",
+    "ch": 30,
+    "post_requirements": [
+      "EPR0180"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0024",
+    "nome": "T\u00d3PICOS ESPECIAIS EM GEST\u00c3O DA INOVA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0023",
+    "nome": "T\u00d3PICOS ESPECIAIS EM GEST\u00c3O DA PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0070",
+    "nome": "T\u00d3PICOS ESPECIAIS EM GEST\u00c3O DA QUALIDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0032",
+    "nome": "T\u00d3PICOS ESPECIAIS EM GEST\u00c3O SUSTENT\u00c1VEL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0029",
+    "nome": "T\u00d3PICOS ESPECIAIS EM LOG\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0027",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PESQUISA OPERACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0028",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PESQUISA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EPR0054",
+    "nome": "T\u00d3PICOS ESPECIAIS EM SIMULA\u00c7\u00c3O EMPRESARIAL",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0086"
+    ],
+    "pre_requirements": [
+      "EPR0009"
+    ]
+  }
+]

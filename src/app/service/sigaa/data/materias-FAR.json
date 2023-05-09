@@ -1,0 +1,1459 @@
+[
+  {
+    "cod": "FAR0185",
+    "nome": "AN\u00c1LISE INSTRUMENTAL PARTE PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0214"
+    ],
+    "pre_requirements": [
+      "FAR0180"
+    ]
+  },
+  {
+    "cod": "FAR0180",
+    "nome": "AN\u00c1LISE INSTRUMENTAL PARTE TE\u00d3RICA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0185",
+      "FAR0359"
+    ],
+    "pre_requirements": [
+      "FAR0168",
+      "IQD0243",
+      "FAR0181"
+    ]
+  },
+  {
+    "cod": "FAR0024",
+    "nome": "AN\u00c1LISE INSTRUMENTAL TE\u00d3RICA E EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0120",
+      "FAR0163",
+      "FAR0221"
+    ],
+    "pre_requirements": [
+      "FAR0168",
+      "IQD0243",
+      "FAR0181 & FAR0186"
+    ]
+  },
+  {
+    "cod": "FAR0167",
+    "nome": "AN\u00c1LISE ORG\u00c2NICA DOS F\u00c1RMACOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0010",
+      "FCS0004",
+      "FAR0037",
+      "FAR0041",
+      "FAR0126",
+      "FAR0150",
+      "FAR0157",
+      "FCE0260",
+      "FAR0204"
+    ],
+    "pre_requirements": [
+      "IQD0126"
+    ]
+  },
+  {
+    "cod": "FAR0168",
+    "nome": "AN\u00c1LISE QUALITATIVA E QUANTITATIVA DOS F\u00c1RMACOS",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0024",
+      "FAR0037",
+      "FAR0163",
+      "FAR0180",
+      "FAR0244"
+    ],
+    "pre_requirements": [
+      "IQD0126"
+    ]
+  },
+  {
+    "cod": "FAR0186",
+    "nome": "AN\u00c1LISE QUALITATIVA E QUANTITATIVA DOS F\u00c1RMACOS PARTE PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0247",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FAR0181"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0181",
+    "nome": "ANALISE QUALITATIVA E QUANTITATIVA DOS F\u00c1RMACOS PARTE TE\u00d3RICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0180",
+      "FAR0360",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FAR0186"
+    ],
+    "pre_requirements": [
+      "IQD0125"
+    ]
+  },
+  {
+    "cod": "FAR0119",
+    "nome": "ASSIST\u00caNCIA FARMAC\u00caUTICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0023",
+      "FCE0255",
+      "FAR0169",
+      "FAR0173",
+      "FAR0199",
+      "FAR0250"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0173",
+    "nome": "ASSIST\u00caNCIA FARMAC\u00caUTICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0208"
+    ],
+    "pre_requirements": [
+      "FAR0119"
+    ]
+  },
+  {
+    "cod": "FAR0162",
+    "nome": "ATEN\u00c7\u00c3O FARMAC\u00caUTICA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0341"
+    ],
+    "pre_requirements": [
+      "FAR0177 & FAR0173",
+      "FAR0131"
+    ]
+  },
+  {
+    "cod": "FAR0040",
+    "nome": "AVALIA\u00c7\u00c3O DE TECNOLOGIAS EM SA\u00daDE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0048",
+    "nome": "BIOPROSPEC\u00c7\u00c3O FARMAC\u00caUTICA",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0251",
+    "nome": "BIOQU\u00cdMICA CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FCE0704"
+    ],
+    "pre_requirements": [
+      "FCE0307",
+      "FAR0174"
+    ]
+  },
+  {
+    "cod": "FAR0170",
+    "nome": "BIOTECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0349"
+    ],
+    "pre_requirements": [
+      "CEL0054 & GEM0014",
+      "FAR0124"
+    ]
+  },
+  {
+    "cod": "FAR0030",
+    "nome": "BOT\u00c2NICA APLICADA A FARM\u00c1CIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0047",
+      "FAR0277"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0050",
+    "nome": "BROMATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FCE0093",
+      "NUT0018",
+      "NUT0049",
+      "NUT0091",
+      "FCE0400",
+      "FAR0225",
+      "FCE0955"
+    ],
+    "pre_requirements": [
+      "CEL0054",
+      "FCE0238",
+      "CEL0082"
+    ]
+  },
+  {
+    "cod": "FAR0035",
+    "nome": "CI\u00caNCIA AL\u00c9M DA CI\u00caNCIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0198"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0027",
+    "nome": "CITOLOGIA CL\u00cdNICA C\u00c9RVICO-VAGINAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0222"
+    ],
+    "pre_requirements": [
+      "FAR0174"
+    ]
+  },
+  {
+    "cod": "FAR0002",
+    "nome": "CONTROLE DE QUALIDADE F\u00cdSICO-QU\u00cdMICO",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0188"
+    ],
+    "pre_requirements": [
+      "FAR0136",
+      "FAR0176",
+      "FCE0369 & FAR0024",
+      "FAR0180 & FAR0185"
+    ]
+  },
+  {
+    "cod": "FAR0003",
+    "nome": "CONTROLE DE QUALIDADE MICROBIOL\u00d3GICO",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0189"
+    ],
+    "pre_requirements": [
+      "CEL0050 & FCE0309",
+      "FAR0176"
+    ]
+  },
+  {
+    "cod": "FAR0250",
+    "nome": "DEONTOLOGIA E LEGISLA\u00c7\u00c3O FARMAC\u00caUTICA",
+    "ch": 30,
+    "post_requirements": [
+      "FCE0557"
+    ],
+    "pre_requirements": [
+      "FCE0188 & FCE0213",
+      "FAR0119"
+    ]
+  },
+  {
+    "cod": "FAR0021",
+    "nome": "DIAGN\u00d3STICO LABORATORIAL EM IMUNOLOGIA CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0220"
+    ],
+    "pre_requirements": [
+      "FAR0137 & FCE0367",
+      "CEL0110 & FCE0367"
+    ]
+  },
+  {
+    "cod": "FAR0028",
+    "nome": "DIAGN\u00d3STICO LABORATORIAL EM MICROBIOLOGIA  CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0183",
+      "FAR0196"
+    ],
+    "pre_requirements": [
+      "CEL0050 & CEL0110"
+    ]
+  },
+  {
+    "cod": "FAR0008",
+    "nome": "DIAGN\u00d3STICO LABORATORIAL EM PARASITOLOGIA CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0193"
+    ],
+    "pre_requirements": [
+      "FAR0174",
+      "CEL0050"
+    ]
+  },
+  {
+    "cod": "FAR0134",
+    "nome": "ECONOMIA E GEST\u00c3O DE EMPRESAS FARMAC\u00caUTICAS",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0202"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0033",
+    "nome": "ELEMENTOS DE FARMACOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0036",
+      "FAR0280"
+    ],
+    "pre_requirements": [
+      "FMD0013 & FMD0019 & FMD0027"
+    ]
+  },
+  {
+    "cod": "FAR0075",
+    "nome": "EMBRIOLOGIA HUMANA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0447",
+      "FMD0558",
+      "FAR0298"
+    ],
+    "pre_requirements": [
+      "FMD0496"
+    ]
+  },
+  {
+    "cod": "FAR0141",
+    "nome": "ENZIMOLOGIA E TECNOLOGIA DE FERMENTA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0235"
+    ],
+    "pre_requirements": [
+      "CEL0054",
+      "FCE0225",
+      "IQD0296"
+    ]
+  },
+  {
+    "cod": "FAR0135",
+    "nome": "EPIDEMIOLOGIA DO MEDICAMENTO",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0233"
+    ],
+    "pre_requirements": [
+      "FAR0172",
+      "FAR0125"
+    ]
+  },
+  {
+    "cod": "FAR0153",
+    "nome": "EST\u00c1GIO EM AN\u00c1LISE DE MEDICAMENTOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0147",
+    "nome": "EST\u00c1GIO EM ASSIST\u00caNCIA FARMAC\u00caUTICA 1 - FARM\u00c1CIA HOSPITALAR",
+    "ch": 225,
+    "post_requirements": [
+      "FAR0326"
+    ],
+    "pre_requirements": [
+      "FAR0131",
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FAR0148",
+    "nome": "EST\u00c1GIO EM ASSIST\u00caNCIA FARMAC\u00caUTICA 2 - FARM\u00c1CIA COMUNIT\u00c1RIA",
+    "ch": 225,
+    "post_requirements": [
+      "FAR0327"
+    ],
+    "pre_requirements": [
+      "FAR0131",
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FAR0130",
+    "nome": "ESTAGIO EM BIOTECNOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0232"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0151",
+    "nome": "EST\u00c1GIO EM CONTROLE DE QUALIDADE DE MEDICAMENTOS",
+    "ch": 225,
+    "post_requirements": [
+      "FAR0330"
+    ],
+    "pre_requirements": [
+      "FAR0139"
+    ]
+  },
+  {
+    "cod": "FAR0138",
+    "nome": "EST\u00c1GIO EM FARMACOGNOSIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0234"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0149",
+    "nome": "EST\u00c1GIO EM FARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0237"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0154",
+    "nome": "EST\u00c1GIO EM FARMACOT\u00c9CNICA E COSMETOLOGIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0122",
+    "nome": "ESTAGIO EM FISIOLOGIA MOLECULAR",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0228"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0123",
+    "nome": "ESTAGIO EM GENETICA MOLECULAR",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0229"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0046",
+    "nome": "EST\u00c1GIO EM GER\u00caNCIA DE ASSIST\u00caNCIA FARMAC\u00caUTICA",
+    "ch": 225,
+    "post_requirements": [
+      "FAR0291"
+    ],
+    "pre_requirements": [
+      "FAR0128",
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FAR0129",
+    "nome": "EST\u00c1GIO EM METABOLISMO MOLECULAR",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0231"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0121",
+    "nome": "EST\u00c1GIO EM PESQUISA E POL\u00cdTICA DE MEDICAMENTOS",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0227"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0045",
+    "nome": "EST\u00c1GIO EM PRODU\u00c7\u00c3O DE IMUNOBIOL\u00d3GICOS",
+    "ch": 450,
+    "post_requirements": [
+      "FAR0290"
+    ],
+    "pre_requirements": [
+      "FAR0141 & FAR0140",
+      "FAR0141 & FAR0007"
+    ]
+  },
+  {
+    "cod": "FAR0155",
+    "nome": "EST\u00c1GIO EM TECNOLOGIA FARMAC\u00caUTICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0120",
+    "nome": "EST\u00c1GIO EM TOXICOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0226"
+    ],
+    "pre_requirements": [
+      "IQD0051",
+      "FCE0238",
+      "FCE0260",
+      "FAR0024",
+      "IQD0033",
+      "IQD0126",
+      "FAR0180 & FAR0185"
+    ]
+  },
+  {
+    "cod": "FAR0152",
+    "nome": "EST\u00c1GIO LIVRE",
+    "ch": 225,
+    "post_requirements": [
+      "FAR0331"
+    ],
+    "pre_requirements": [
+      "FAR0139"
+    ]
+  },
+  {
+    "cod": "FAR0006",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
+    "ch": 120,
+    "post_requirements": [
+      "FAR0191"
+    ],
+    "pre_requirements": [
+      "FAR0173 & FAR0004"
+    ]
+  },
+  {
+    "cod": "FAR0017",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 2",
+    "ch": 180,
+    "post_requirements": [
+      "FAR0217"
+    ],
+    "pre_requirements": [
+      "FAR0173 & FAR0176 & FAR0134"
+    ]
+  },
+  {
+    "cod": "FAR0018",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 3",
+    "ch": 180,
+    "post_requirements": [
+      "FAR0218"
+    ],
+    "pre_requirements": [
+      "FAR0023 & FAR0006"
+    ]
+  },
+  {
+    "cod": "FAR0019",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 4",
+    "ch": 420,
+    "post_requirements": [
+      "FAR0219"
+    ],
+    "pre_requirements": [
+      "FCE0006 & FAR0171 & FAR0009"
+    ]
+  },
+  {
+    "cod": "FAR0011",
+    "nome": "EST\u00c1GIO SUPERVISIONADO: AMBULAT\u00d3RIO",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0012",
+    "nome": "EST\u00c1GIO SUPERVISIONADO: DROGARIA",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0013",
+    "nome": "EST\u00c1GIO SUPERVISIONADO: HOSPITALAR",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0014",
+    "nome": "EST\u00c1GIO SUPERVISIONADO: LIVRE 1",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0015",
+    "nome": "EST\u00c1GIO SUPERVISIONADO: LIVRE 2",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0249",
+    "nome": "FARMACOBOT\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "FCE0535"
+    ],
+    "pre_requirements": [
+      "FCE0192",
+      "IQD0125",
+      "FCE0201",
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "FAR0145",
+    "nome": "FARMACOCIN\u00c9TICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0324"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "FAR0125",
+    "nome": "FARMACODIN\u00c2MICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FAV0271",
+      "FAR0132",
+      "FAR0135",
+      "FAR0305"
+    ],
+    "pre_requirements": [
+      "CFS0041 & CEL0054",
+      "CEL0067",
+      "CEL0083",
+      "CEL0094",
+      "CFS0010",
+      "CFS0037"
+    ]
+  },
+  {
+    "cod": "FAR0132",
+    "nome": "FARMACODINAMICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0312"
+    ],
+    "pre_requirements": [
+      "FAR0125"
+    ]
+  },
+  {
+    "cod": "FAR0127",
+    "nome": "FARMACOGNOSIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0201"
+    ],
+    "pre_requirements": [
+      "FAR0030 & FAR0172 & IQD0072",
+      "FAR0030 & FAR0125 & IQD0072",
+      "FCE0220 & FAR0167",
+      "FCE0220 & FAR0172 & IQD0072"
+    ]
+  },
+  {
+    "cod": "FAR0031",
+    "nome": "FARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0001",
+      "FAR0036",
+      "FAR0041",
+      "FAR0056",
+      "FMD0157",
+      "FMD0159",
+      "FAR0197"
+    ],
+    "pre_requirements": [
+      "CEL0019",
+      "CEL0067"
+    ]
+  },
+  {
+    "cod": "FAR0172",
+    "nome": "FARMACOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0036",
+      "FAR0133",
+      "FAR0135",
+      "FAR0177",
+      "FAR0207"
+    ],
+    "pre_requirements": [
+      "CFS0037 & FAR0124",
+      "CFS0041 & FAR0124",
+      "CFS0041 & GEM0014 & FAR0142"
+    ]
+  },
+  {
+    "cod": "FAR0177",
+    "nome": "FARMACOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0004",
+      "FAR0022",
+      "FCS0021",
+      "FAR0046",
+      "FAR0049",
+      "FAR0147",
+      "FAR0148",
+      "FAR0210"
+    ],
+    "pre_requirements": [
+      "FAR0172"
+    ]
+  },
+  {
+    "cod": "FAR0004",
+    "nome": "FARMACOLOGIA 3",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0190"
+    ],
+    "pre_requirements": [
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FAR0128",
+    "nome": "FARMACOLOGIA CLINICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FCS0021",
+      "FAR0046",
+      "FAR0049",
+      "FAR0133",
+      "FAR0156",
+      "FAR0308"
+    ],
+    "pre_requirements": [
+      "CEL0054 & CFS0041"
+    ]
+  },
+  {
+    "cod": "FAR0131",
+    "nome": "FARMACOLOGIA CLINICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0147",
+      "FAR0148",
+      "FAR0162",
+      "FAR0311"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FAR0146",
+    "nome": "FARMACOLOGIA MOLECULAR EXPERIMENTAL",
+    "ch": 120,
+    "post_requirements": [
+      "FAR0236"
+    ],
+    "pre_requirements": [
+      "CEL0054",
+      "CEL0062",
+      "CEL0082",
+      "CEL0094",
+      "CEL0026",
+      "CEL0077"
+    ]
+  },
+  {
+    "cod": "FAR0176",
+    "nome": "FARMACOT\u00c9CNICA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0002",
+      "FAR0003",
+      "FAR0007",
+      "FAR0009",
+      "FAR0139",
+      "FAR0140",
+      "FAR0209"
+    ],
+    "pre_requirements": [
+      "FAR0126 & IQD0296"
+    ]
+  },
+  {
+    "cod": "FAR0009",
+    "nome": "FARMACOT\u00c9CNICA COM ASPECTOS TECNOL\u00d3GICOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0216"
+    ],
+    "pre_requirements": [
+      "FAR0176",
+      "FAR0136",
+      "FCE0369"
+    ]
+  },
+  {
+    "cod": "FAR0136",
+    "nome": "FARMACOTECNICA E COSMETOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0002",
+      "FAR0009",
+      "FAR0044",
+      "FAR0139",
+      "FAR0316"
+    ],
+    "pre_requirements": [
+      "FAR0126"
+    ]
+  },
+  {
+    "cod": "FAR0140",
+    "nome": "F\u00cdSICA INDUSTRIAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0320"
+    ],
+    "pre_requirements": [
+      "IFD0189",
+      "FCE0225",
+      "FAR0176"
+    ]
+  },
+  {
+    "cod": "FAR0007",
+    "nome": "F\u00cdSICA INDUSTRIAL FARMAC\u00caUTICA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0192"
+    ],
+    "pre_requirements": [
+      "FAR0176",
+      "IFD0189 & FAR0136",
+      "FCE0369 & FCE0225"
+    ]
+  },
+  {
+    "cod": "FAR0175",
+    "nome": "FISIOPATOLOGIA DAS DOEN\u00c7AS HEMATOL\u00d3GICAS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0212"
+    ],
+    "pre_requirements": [
+      "GEM0014 & CFS0041",
+      "FAR0124 & CFS0037"
+    ]
+  },
+  {
+    "cod": "FAR0184",
+    "nome": "FISIOPATOLOGIA DO COMPORTAMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0213"
+    ],
+    "pre_requirements": [
+      "CFS0037",
+      "CFS0041",
+      "CFS0055",
+      "CFS0053",
+      "CFS0048",
+      "CFS0010",
+      "FCE0222"
+    ]
+  },
+  {
+    "cod": "FAR0029",
+    "nome": "FISIOPATOLOGIA E FARMACOLOGIA DAS DOEN\u00c7AS END\u00d3CRINAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0142",
+    "nome": "FUNDAMENTOS DE BIOTECNOLOGIA DE MEDICAMENTOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0001",
+      "FCS0079",
+      "FAR0322"
+    ],
+    "pre_requirements": [
+      "GEM0014"
+    ]
+  },
+  {
+    "cod": "FAR0182",
+    "nome": "FUNDAMENTOS DE PARASITOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0211"
+    ],
+    "pre_requirements": [
+      "FAR0137 & FMD0095",
+      "CEL0110 & FAR0174"
+    ]
+  },
+  {
+    "cod": "FAR0032",
+    "nome": "FUNDAMENTOS EM FARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0036",
+      "FAV0271",
+      "FAR0041",
+      "FMD0563",
+      "FAR0279"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0124",
+    "nome": "GEN\u00c9TICA B\u00c1SICA E MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0001",
+      "GEM0003",
+      "GEM0015",
+      "GEM0026",
+      "CEL0110",
+      "GEM0060",
+      "NUT0014",
+      "FAR0170",
+      "FAR0179",
+      "FAR0200"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0039",
+    "nome": "GEST\u00c3O DA QUALIDADE E SA\u00daDE BASEADA EM VALOR",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0056",
+    "nome": "HEMATOLOGIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0192",
+      "FAR0297"
+    ],
+    "pre_requirements": [
+      "FAR0031"
+    ]
+  },
+  {
+    "cod": "FAR0248",
+    "nome": "HEMATOLOGIA CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FCE0459"
+    ],
+    "pre_requirements": [
+      "FCE0307",
+      "CFS0039 & FAR0174"
+    ]
+  },
+  {
+    "cod": "FAR0137",
+    "nome": "IMUNOFARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FCE0313",
+      "FAR0317"
+    ],
+    "pre_requirements": [
+      "CFS0041",
+      "CFS0039"
+    ]
+  },
+  {
+    "cod": "FAR0036",
+    "nome": "INTERA\u00c7\u00c3O F\u00c1RMACO-NUTRIENTE",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0282"
+    ],
+    "pre_requirements": [
+      "FAR0032",
+      "FAR0033",
+      "FAR0172",
+      "FAR0031",
+      "FCE0246"
+    ]
+  },
+  {
+    "cod": "FAR0051",
+    "nome": "INTRODUCAO A ANATOMIA E EMBRIOLOGIA HUMANAS",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0178",
+      "FMD0181",
+      "FAR0296"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0016",
+    "nome": "INTRODU\u00c7\u00c3O A CI\u00caNCIAS FARMAC\u00caUTICAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0023",
+    "nome": "INTRODU\u00c7\u00c3O A FARM\u00c1CIA HOSPITALAR",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0195"
+    ],
+    "pre_requirements": [
+      "FAR0119"
+    ]
+  },
+  {
+    "cod": "FAR0165",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 GEST\u00c3O DA QUALIDADE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0044",
+    "nome": "INTRODU\u00c7\u00c3O AO CONTROLE DE QUALIDADE DE MEDICAMENTOS E CORRELATOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0289"
+    ],
+    "pre_requirements": [
+      "FAR0136"
+    ]
+  },
+  {
+    "cod": "FAR0179",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 VIROLOGIA HUMANA E ANIMAL",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0246"
+    ],
+    "pre_requirements": [
+      "CEL0095",
+      "FAR0124"
+    ]
+  },
+  {
+    "cod": "FAR0156",
+    "nome": "LABORAT\u00d3RIO EM FARMACOEPIDEMIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0335"
+    ],
+    "pre_requirements": [
+      "FAR0128"
+    ]
+  },
+  {
+    "cod": "FAR0158",
+    "nome": "MEDICAMENTOS FITOTER\u00c1PICOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0166",
+    "nome": "M\u00c9TODOS DE PESQUISA EM CI\u00caNCIAS FARMAC\u00caUTICAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0253",
+    "nome": "NEUROBIOLOGIA MOLECULAR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": [
+      "CFS0037"
+    ]
+  },
+  {
+    "cod": "FAR0174",
+    "nome": "PATOLOGIA CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0008",
+      "FAR0027",
+      "FCE0367",
+      "FAR0183",
+      "FAR0245",
+      "FAR0251"
+    ],
+    "pre_requirements": [
+      "CFS0037 & FAR0124",
+      "CFS0041 & GEM0014"
+    ]
+  },
+  {
+    "cod": "FAR0047",
+    "nome": "PLANTAS MEDICINAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0292"
+    ],
+    "pre_requirements": [
+      "FAR0030",
+      "FCE0220"
+    ]
+  },
+  {
+    "cod": "FAR0025",
+    "nome": "PR\u00c1TICAS AVAN\u00c7ADAS EM NEUROFARMACOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0272"
+    ],
+    "pre_requirements": [
+      "FAR0160"
+    ]
+  },
+  {
+    "cod": "FAR0049",
+    "nome": "PR\u00c1TICAS EM FARM\u00c1CIA CL\u00cdNICA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0294"
+    ],
+    "pre_requirements": [
+      "FAR0128",
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FAR0160",
+    "nome": "PR\u00c1TICAS EM NEUROFARMACOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0025",
+      "FAR0339"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0150",
+    "nome": "PR\u00c1TICAS EM QU\u00cdMICA FARMAC\u00caUTICA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0329"
+    ],
+    "pre_requirements": [
+      "FAR0126",
+      "FAR0167"
+    ]
+  },
+  {
+    "cod": "FAR0157",
+    "nome": "PR\u00c1TICAS EM QU\u00cdMICA ORG\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0241"
+    ],
+    "pre_requirements": [
+      "IQD0051",
+      "IQD0280",
+      "FCS0077",
+      "FAR0167",
+      "FCE0239"
+    ]
+  },
+  {
+    "cod": "FAR0001",
+    "nome": "PR\u00c1TICAS EM VIROLOGIA MOLECULAR",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0215"
+    ],
+    "pre_requirements": [
+      "FAR0124",
+      "FAR0142",
+      "CEL0054",
+      "CEL0050"
+    ]
+  },
+  {
+    "cod": "FAR0126",
+    "nome": "QUIMICA FARMACEUTICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0136",
+      "FAR0150",
+      "FAR0178",
+      "FAR0230"
+    ],
+    "pre_requirements": [
+      "FAR0167"
+    ]
+  },
+  {
+    "cod": "FAR0026",
+    "nome": "QU\u00cdMICA FARMAC\u00caUTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0273"
+    ],
+    "pre_requirements": [
+      "FAR0126 & FAR0004",
+      "FCE0259 & FCE0370"
+    ]
+  },
+  {
+    "cod": "FAR0022",
+    "nome": "REA\u00c7\u00c3O ADVERSA A MEDICAMENTO",
+    "ch": 45,
+    "post_requirements": [
+      "FAR0269"
+    ],
+    "pre_requirements": [
+      "FAR0125 & FAR0128",
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FAR0037",
+    "nome": "RECONHECIMENTO MOLECULAR DE F\u00c1RMACOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0283"
+    ],
+    "pre_requirements": [
+      "FAR0168",
+      "FAR0167",
+      "FAR0181 & FAR0186"
+    ]
+  },
+  {
+    "cod": "FAR0178",
+    "nome": "SEMIN\u00c1RIOS EM QU\u00cdMICA FARMAC\u00caUTICA E MEDICINAL",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0357"
+    ],
+    "pre_requirements": [
+      "FAR0126"
+    ]
+  },
+  {
+    "cod": "FAR0010",
+    "nome": "T\u00c9CNICA INSTRUMENTAL FARMAC\u00caUTICA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0257"
+    ],
+    "pre_requirements": [
+      "FAR0167"
+    ]
+  },
+  {
+    "cod": "FAR0171",
+    "nome": "TECNOLOGIA DE ALIMENTOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0206"
+    ],
+    "pre_requirements": [
+      "FAR0050 & FAR0141"
+    ]
+  },
+  {
+    "cod": "FAR0139",
+    "nome": "TECNOLOGIA FARMAC\u00caUTICA",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0151",
+      "FAR0152",
+      "FAR0319"
+    ],
+    "pre_requirements": [
+      "FAR0136",
+      "FCE0369",
+      "FAR0176"
+    ]
+  },
+  {
+    "cod": "FAR0043",
+    "nome": "T\u00d3PICOS EM COSMETOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0288"
+    ],
+    "pre_requirements": [
+      "FAR0136 & FAR0176"
+    ]
+  },
+  {
+    "cod": "FAR0159",
+    "nome": "T\u00d3PICOS EM FARMACOLOGIA APLICADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0042",
+    "nome": "T\u00d3PICOS EM FARMACOLOGIA MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0223"
+    ],
+    "pre_requirements": [
+      "CEL0054",
+      "CEL0062",
+      "CEL0082",
+      "CEL0094"
+    ]
+  },
+  {
+    "cod": "FAR0161",
+    "nome": "T\u00d3PICOS EM NEUROFARMACOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0163",
+      "FAR0340"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0041",
+    "nome": "T\u00d3PICOS EM TOXICOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0286"
+    ],
+    "pre_requirements": [
+      "IQD0072",
+      "NUT0049",
+      "FAR0031",
+      "FAR0032",
+      "IQD0092",
+      "FAV0179",
+      "FAR0167"
+    ]
+  },
+  {
+    "cod": "FAR0143",
+    "nome": "TOXICOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0203"
+    ],
+    "pre_requirements": [
+      "IQD0072 & FAR0125",
+      "FAR0167 & FAR0172",
+      "FAR0172 & IQD0072"
+    ]
+  },
+  {
+    "cod": "FAR0163",
+    "nome": "TOXICOLOGIA ANAL\u00cdTICA E DE ALIMENTOS",
+    "ch": 120,
+    "post_requirements": [
+      "FAR0243"
+    ],
+    "pre_requirements": [
+      "IQD0063",
+      "IQD0243",
+      "FAR0168",
+      "FCE0238",
+      "FCE0260",
+      "FAR0024",
+      "IQD0033",
+      "FAR0161",
+      "FAR0180 & FAR0185",
+      "FAR0181 & FAR0186"
+    ]
+  },
+  {
+    "cod": "FAR0164",
+    "nome": "TOXICOLOGIA EXPERIMENTAL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0020",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0267"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0183",
+    "nome": "URIN\u00c1LISE E FLUIDOS CORPORAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0362"
+    ],
+    "pre_requirements": [
+      "FAR0174",
+      "FAR0028",
+      "FCE0367"
+    ]
+  },
+  {
+    "cod": "FAR0169",
+    "nome": "VIGIL\u00c2NCIA SANIT\u00c1RIA APLICADA \u00c0 FARM\u00c1CIA",
+    "ch": 30,
+    "post_requirements": [
+      "FAR0205"
+    ],
+    "pre_requirements": [
+      "FAR0119"
+    ]
+  },
+  {
+    "cod": "FAR0005",
+    "nome": "VIGIL\u00c2NCIA SANIT\u00c1RIA DE MEDICAMENTOS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAR0133",
+    "nome": "VIGILANCIA SANITARIA, DEONTOLOGIA E LEGISLACAO FARMACEUTICA",
+    "ch": 45,
+    "post_requirements": [
+      "FAR0313"
+    ],
+    "pre_requirements": [
+      "FAR0172",
+      "FAR0128"
+    ]
+  }
+]

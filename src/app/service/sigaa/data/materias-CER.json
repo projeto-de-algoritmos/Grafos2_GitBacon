@@ -1,0 +1,16 @@
+[
+  {
+    "cod": "CER0001",
+    "nome": "T\u00d3PICOS EM ESTUDOS DO CERRADO 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CER0002",
+    "nome": "T\u00d3PICOS EM ESTUDOS DO CERRADO 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

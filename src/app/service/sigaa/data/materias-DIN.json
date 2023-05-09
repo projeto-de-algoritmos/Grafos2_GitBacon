@@ -1,0 +1,615 @@
+[
+  {
+    "cod": "DIN0012",
+    "nome": "ANALISE GRAFICA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0013",
+    "nome": "ANALISE GRAFICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0014",
+      "DIN0030",
+      "DIN0127"
+    ],
+    "pre_requirements": [
+      "DIN0012"
+    ]
+  },
+  {
+    "cod": "DIN0014",
+    "nome": "ANALISE GRAFICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0015",
+      "DIN0153"
+    ],
+    "pre_requirements": [
+      "DIN0013"
+    ]
+  },
+  {
+    "cod": "DIN0015",
+    "nome": "ANALISE GRAFICA 4",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0154"
+    ],
+    "pre_requirements": [
+      "DIN0014"
+    ]
+  },
+  {
+    "cod": "DIN0035",
+    "nome": "COMPUTACAO GRAFICA APLICADA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0031",
+    "nome": "CRIATIVIDADE EM DESIGN",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0037",
+    "nome": "DESENHO APLICADO 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0045",
+    "nome": "DESENHO APLICADO 2",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0123"
+    ],
+    "pre_requirements": [
+      "DIN0037"
+    ]
+  },
+  {
+    "cod": "DIN0001",
+    "nome": "DESIGN DE INTERA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0002",
+    "nome": "DESIGN DE JOGOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0032",
+    "nome": "DESIGN REGIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0171"
+    ],
+    "pre_requirements": [
+      "DIN0039",
+      "DIN0040"
+    ]
+  },
+  {
+    "cod": "DIN0054",
+    "nome": "DIPLOMA\u00c7\u00c3O EM PROGRAMA\u00c7\u00c3O VISUAL",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0191"
+    ],
+    "pre_requirements": [
+      "DIN0052"
+    ]
+  },
+  {
+    "cod": "DIN0056",
+    "nome": "DIPLOMA\u00c7\u00c3O EM PROJETO DO PRODUTO",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0192"
+    ],
+    "pre_requirements": [
+      "DIN0051"
+    ]
+  },
+  {
+    "cod": "DIN0007",
+    "nome": "ENCADERNA\u00c7\u00c3O ARTESANAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0009",
+    "nome": "EST\u00c1GIO OBRIGAT\u00d3RIO",
+    "ch": 30,
+    "post_requirements": [
+      "DIN0148"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0036",
+    "nome": "ESTAGIO SUPERVISIONADO EM PROGRAMACAO VISUAL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0038",
+    "nome": "ESTAGIO SUPERVISIONADO EM PROJETO DO PRODUTO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0034",
+    "nome": "ESTUDO DA FORMA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0059",
+    "nome": "ESTUDOS DIRIGIDOS EM DESIGN 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0061",
+    "nome": "ESTUDOS DIRIGIDOS EM DESIGN 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0063",
+    "nome": "ESTUDOS DIRIGIDOS EM DESIGN 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0065",
+    "nome": "ESTUDOS DIRIGIDOS EM DESIGN 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0011",
+    "nome": "EXPRESSAO",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0022",
+      "DIN0116"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0004",
+    "nome": "FOTOGRAFIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0047",
+    "nome": "FOTOGRAFIA E VIDEO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0003",
+    "nome": "FUNDAMENTOS DA L\u00cdNGUAGEM APLICADOS AO DESIGN",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0020",
+    "nome": "HISTORIA DA ARTE E DA TECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0048",
+    "nome": "INTRODUCAO A ENGENHARIA COGNITIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0021",
+    "nome": "INTRODUCAO AO DESENHO INDUSTRIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0049",
+    "nome": "INTRODUCAO AO DESIGN",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0022",
+    "nome": "INTRODUCAO A PROGRAMACAO VISUAL",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0161"
+    ],
+    "pre_requirements": [
+      "DIN0011"
+    ]
+  },
+  {
+    "cod": "DIN0070",
+    "nome": "INTRODU\u00c7\u00c3O AS M\u00cdDIAS DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0202"
+    ],
+    "pre_requirements": [
+      "DIN0035 & DIN0040",
+      "DIN0039"
+    ]
+  },
+  {
+    "cod": "DIN0050",
+    "nome": "MATERIAIS E PROCESSOS GRAFICOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0023",
+    "nome": "METODOLOGIA DO PROJETO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0066",
+    "nome": "MODELAGEM DIGITAL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0046",
+    "nome": "OFICINA DE MODELOS E MAQUETE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0008",
+    "nome": "PROCESSOS ARTESANAIS DE REPRODU\u00c7\u00c3O GR\u00c1FICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0067",
+    "nome": "PROCESSOS DE PESQUISA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0040",
+    "nome": "PROGRAMACAO VISUAL 1",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0032",
+      "DIN0041",
+      "DIN0129"
+    ],
+    "pre_requirements": [
+      "DIN0023"
+    ]
+  },
+  {
+    "cod": "DIN0041",
+    "nome": "PROGRAMACAO VISUAL 2",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0042",
+      "DIN0121",
+      "DIN0084",
+      "DIN0086"
+    ],
+    "pre_requirements": [
+      "DIN0040"
+    ]
+  },
+  {
+    "cod": "DIN0042",
+    "nome": "PROGRAMACAO VISUAL 3",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0052",
+      "DIN0068",
+      "DIN0072",
+      "DIN0130"
+    ],
+    "pre_requirements": [
+      "DIN0041"
+    ]
+  },
+  {
+    "cod": "DIN0052",
+    "nome": "PROGRAMACAO VISUAL 4",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0010",
+      "DIN0054",
+      "DIN0136"
+    ],
+    "pre_requirements": [
+      "DIN0042"
+    ]
+  },
+  {
+    "cod": "DIN0024",
+    "nome": "PROJETO DE DIPLOMACAO EM PROGRAMACAO VISUAL",
+    "ch": 150,
+    "post_requirements": [
+      "DIN0163"
+    ],
+    "pre_requirements": [
+      "DIN0013 & DIN0019"
+    ]
+  },
+  {
+    "cod": "DIN0029",
+    "nome": "PROJETO DE DIPLOMACAO EM PROJETO DO PRODUTO",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0039",
+    "nome": "PROJETO DE PRODUTO 1",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0070",
+      "DIN0032",
+      "DIN0043",
+      "DIN0128"
+    ],
+    "pre_requirements": [
+      "DIN0023"
+    ]
+  },
+  {
+    "cod": "DIN0043",
+    "nome": "PROJETO DE PRODUTO 2",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0044",
+      "DIN0131",
+      "DIN0084",
+      "DIN0086"
+    ],
+    "pre_requirements": [
+      "DIN0039"
+    ]
+  },
+  {
+    "cod": "DIN0044",
+    "nome": "PROJETO DE PRODUTO 3",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0069",
+      "DIN0051",
+      "DIN0072",
+      "DIN0122"
+    ],
+    "pre_requirements": [
+      "DIN0043"
+    ]
+  },
+  {
+    "cod": "DIN0051",
+    "nome": "PROJETO DE PRODUTO 4",
+    "ch": 90,
+    "post_requirements": [
+      "DIN0056",
+      "DIN0010",
+      "DIN0135"
+    ],
+    "pre_requirements": [
+      "DIN0044"
+    ]
+  },
+  {
+    "cod": "DIN0025",
+    "nome": "PROJETO DO OBJETO 1",
+    "ch": 150,
+    "post_requirements": [
+      "DIN0026",
+      "DIN0164"
+    ],
+    "pre_requirements": [
+      "DIN0021 & DIN0022 & DIN0023"
+    ]
+  },
+  {
+    "cod": "DIN0026",
+    "nome": "PROJETO DO OBJETO 2",
+    "ch": 150,
+    "post_requirements": [
+      "DIN0027",
+      "DIN0165"
+    ],
+    "pre_requirements": [
+      "DIN0025"
+    ]
+  },
+  {
+    "cod": "DIN0027",
+    "nome": "PROJETO DO OBJETO 3",
+    "ch": 150,
+    "post_requirements": [
+      "DIN0028",
+      "DIN0166"
+    ],
+    "pre_requirements": [
+      "DIN0026"
+    ]
+  },
+  {
+    "cod": "DIN0028",
+    "nome": "PROJETO DO OBJETO 4",
+    "ch": 150,
+    "post_requirements": [
+      "DIN0167"
+    ],
+    "pre_requirements": [
+      "DIN0027"
+    ]
+  },
+  {
+    "cod": "DIN0016",
+    "nome": "PROJETO VISUAL 1",
+    "ch": 120,
+    "post_requirements": [
+      "DIN0017",
+      "DIN0155"
+    ],
+    "pre_requirements": [
+      "DIN0022 & DIN0021 & DIN0023"
+    ]
+  },
+  {
+    "cod": "DIN0017",
+    "nome": "PROJETO VISUAL 2",
+    "ch": 120,
+    "post_requirements": [
+      "DIN0018",
+      "DIN0156"
+    ],
+    "pre_requirements": [
+      "DIN0016"
+    ]
+  },
+  {
+    "cod": "DIN0018",
+    "nome": "PROJETO VISUAL 3",
+    "ch": 120,
+    "post_requirements": [
+      "DIN0019",
+      "DIN0157"
+    ],
+    "pre_requirements": [
+      "DIN0017"
+    ]
+  },
+  {
+    "cod": "DIN0019",
+    "nome": "PROJETO VISUAL 4",
+    "ch": 120,
+    "post_requirements": [
+      "DIN0158"
+    ],
+    "pre_requirements": [
+      "DIN0018"
+    ]
+  },
+  {
+    "cod": "DIN0057",
+    "nome": "SEMIN\u00c1RIOS DE PR\u00c1TICA PROFISSIONAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0030",
+    "nome": "TIPOGRAFIA CINETICA",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0169"
+    ],
+    "pre_requirements": [
+      "DIN0013"
+    ]
+  },
+  {
+    "cod": "DIN0006",
+    "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0110",
+    "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0111",
+    "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0112",
+    "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DIN0068",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1 - PROGRAMA\u00c7\u00c3O VISUAL",
+    "ch": 30,
+    "post_requirements": [
+      "DIN0200"
+    ],
+    "pre_requirements": [
+      "DIN0042"
+    ]
+  },
+  {
+    "cod": "DIN0069",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1 - PROJETO DO PRODUTO",
+    "ch": 30,
+    "post_requirements": [
+      "DIN0201"
+    ],
+    "pre_requirements": [
+      "DIN0044"
+    ]
+  },
+  {
+    "cod": "DIN0010",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM DESIGN 2",
+    "ch": 60,
+    "post_requirements": [
+      "DIN0149"
+    ],
+    "pre_requirements": [
+      "DIN0052",
+      "DIN0051"
+    ]
+  }
+]

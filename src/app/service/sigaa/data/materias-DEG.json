@@ -1,0 +1,268 @@
+[
+  {
+    "cod": "DEG0218",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 480,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0209",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 210,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0203",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0213",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 330,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0210",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 240,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0207",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0200",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0202",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0205",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0206",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0212",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 300,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0211",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 270,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0216",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 420,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0215",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 390,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0214",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 360,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0217",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 450,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0208",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 180,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0219",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 510,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0201",
+    "nome": "ATIVIDADE COMPLEMENTAR",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0231",
+    "nome": "ATIVIDADES DE TUTORIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG1105",
+    "nome": "BIOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG1102",
+    "nome": "BRASIL EM QUEST\u00c3O - A UNIVERSIDADE E AS ELEI\u00c7\u00d5ES PRESIDENCIAIS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG1103",
+    "nome": "BRASIL EM QUEST\u00c3O - A UNIVERSIDADE E  ELEI\u00c7\u00d5ES PRESIDENCIAIS 2006",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG1104",
+    "nome": "DF EM QUEST\u00c3O - A UNIVERSIDADE E AS ELEI\u00c7\u00d5ES 2006 NO DF",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0199",
+    "nome": "MONITORIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0228",
+    "nome": "MONITORIA 10",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0220",
+    "nome": "MONITORIA 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0221",
+    "nome": "MONITORIA 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0222",
+    "nome": "MONITORIA 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0223",
+    "nome": "MONITORIA 5",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0224",
+    "nome": "MONITORIA 6",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0225",
+    "nome": "MONITORIA 7",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0226",
+    "nome": "MONITORIA 8",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0227",
+    "nome": "MONITORIA 9",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG1101",
+    "nome": "PROGRAMA INSTITUCIONAL DE BOLSA DE INICIA\u00c7\u00c3O \u00c0 DOC\u00caNCIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG1107",
+    "nome": "QU\u00cdMICA B\u00c1SICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0232",
+    "nome": "TUTORIA ESPECIAL PARA ENSINO REMOTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEG0204",
+    "nome": "VIGIL\u00c2NCIA EPIDEMIOL\u00d3GICA COMUNIT\u00c1RIA E PARTICIPATIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

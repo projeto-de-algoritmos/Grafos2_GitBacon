@@ -1,0 +1,1500 @@
+[
+  {
+    "cod": "FIL0063",
+    "nome": "ANTROPOLOGIA FILOS\u00d3FICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0101",
+      "FIL0260"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0129",
+    "nome": "DIALETICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0298"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0073",
+    "nome": "DISSERTACAO FILOSOFICA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0265"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0155",
+    "nome": "DISSERTACAO FILOSOFICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0112",
+      "FIL0317"
+    ],
+    "pre_requirements": [
+      "FIL0049"
+    ]
+  },
+  {
+    "cod": "FIL0112",
+    "nome": "DISSERTACAO FILOSOFICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0286"
+    ],
+    "pre_requirements": [
+      "FIL0155"
+    ]
+  },
+  {
+    "cod": "FIL0113",
+    "nome": "DISSERTACAO FILOSOFICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0287"
+    ],
+    "pre_requirements": [
+      "FIL0112 & FIL0064 & FIL0063 & FIL0082"
+    ]
+  },
+  {
+    "cod": "FIL0175",
+    "nome": "EPISTEMOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0007",
+      "FIL0009",
+      "FIL0021",
+      "FIL0096",
+      "FIL0195"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0087",
+    "nome": "EPISTEMOLOGIA DAS CIENCIAS HUMANAS E SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0008",
+      "FIL0214"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0004",
+    "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 1",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0168",
+      "FIL0208"
+    ],
+    "pre_requirements": [
+      "FIL0177 & FIL0181 & FIL0175",
+      "FIL0179 & FIL0182",
+      "FIL0176",
+      "FIL0167"
+    ]
+  },
+  {
+    "cod": "FIL0168",
+    "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 2",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0171",
+      "FIL0219"
+    ],
+    "pre_requirements": [
+      "FIL0004"
+    ]
+  },
+  {
+    "cod": "FIL0171",
+    "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 3",
+    "ch": 120,
+    "post_requirements": [
+      "FIL0174",
+      "FIL0220"
+    ],
+    "pre_requirements": [
+      "FIL0168",
+      "PAD0028",
+      "PED0058"
+    ]
+  },
+  {
+    "cod": "FIL0174",
+    "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 4",
+    "ch": 120,
+    "post_requirements": [
+      "FIL0221"
+    ],
+    "pre_requirements": [
+      "FIL0171",
+      "FIL0163"
+    ]
+  },
+  {
+    "cod": "FIL0163",
+    "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0174",
+      "FIL0324"
+    ],
+    "pre_requirements": [
+      "FIL0049 & PED0058"
+    ]
+  },
+  {
+    "cod": "FIL0164",
+    "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0325"
+    ],
+    "pre_requirements": [
+      "FIL0163 & MTC0012 & TEF0011"
+    ]
+  },
+  {
+    "cod": "FIL0075",
+    "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA - DP",
+    "ch": 120,
+    "post_requirements": [
+      "FIL0266"
+    ],
+    "pre_requirements": [
+      "FIL0049 & FIL0086"
+    ]
+  },
+  {
+    "cod": "FIL0068",
+    "nome": "EST\u00c9TICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0162",
+      "FIL0263"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0182",
+    "nome": "EST\u00c9TICA E FILOSOFIA DA ARTE",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0162",
+      "FIL0200"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166 & FIL0165"
+    ]
+  },
+  {
+    "cod": "FIL0064",
+    "nome": "\u00c9TICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0120",
+      "FIL0261"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0184",
+    "nome": "\u00c9TICA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0167",
+    "nome": "\u00c9TICA FILOS\u00d3FICA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0004",
+      "FIL0120",
+      "FIL0194"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0029",
+    "nome": "EVOLU\u00c7\u00c3O DO PENSAMENTO FILOS\u00d3FICO E CIENT\u00cdFICO",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0250"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0132",
+    "nome": "EXISTENCIALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0215"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0125",
+    "nome": "FENOMENOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0296"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0014",
+    "nome": "FILOSOFIA AFRICANA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0202"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0165"
+    ]
+  },
+  {
+    "cod": "FIL0130",
+    "nome": "FILOSOFIA ANALITICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0299"
+    ],
+    "pre_requirements": [
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "FIL0180",
+    "nome": "FILOSOFIA ANTIGA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0089",
+      "FIL0177",
+      "FIL0198"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0003",
+    "nome": "FILOSOFIA CONTEMPOR\u00c2NEA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0025",
+      "FIL0187"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166 & FIL0181",
+      "FIL0044"
+    ]
+  },
+  {
+    "cod": "FIL0124",
+    "nome": "FILOSOFIA DA ARTE",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0295"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0183",
+    "nome": "FILOSOFIA DA CI\u00caNCIA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0097",
+      "FIL0201"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166 & FIL0175",
+      "FIL0179"
+    ]
+  },
+  {
+    "cod": "FIL0065",
+    "nome": "FILOSOFIA DA HIST\u00d3RIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0160",
+      "FIL0262"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0086",
+    "nome": "FILOSOFIA DA LINGUAGEM",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0161",
+      "FIL0270"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "FIL0118",
+    "nome": "FILOSOFIA DA LOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0018",
+      "FIL0019",
+      "FIL0020",
+      "FIL0206"
+    ],
+    "pre_requirements": [
+      "FIL0056",
+      "FIL0179"
+    ]
+  },
+  {
+    "cod": "FIL0020",
+    "nome": "FILOSOFIA DA MATEM\u00c1TICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0241"
+    ],
+    "pre_requirements": [
+      "FIL0179",
+      "FIL0118"
+    ]
+  },
+  {
+    "cod": "FIL0152",
+    "nome": "FILOSOFIA DA MENTE",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0191"
+    ],
+    "pre_requirements": [
+      "FIL0044",
+      "CIC0182",
+      "PPB0046",
+      "FIL0181"
+    ]
+  },
+  {
+    "cod": "FIL0185",
+    "nome": "FILOSOFIA DA M\u00daSICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0141",
+    "nome": "FILOSOFIA DA NATUREZA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0306"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0009",
+    "nome": "FILOSOFIA DA PSICAN\u00c1LISE",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0231"
+    ],
+    "pre_requirements": [
+      "FIL0053",
+      "FIL0175"
+    ]
+  },
+  {
+    "cod": "FIL0136",
+    "nome": "FILOSOFIA DA RELIGI\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0027",
+      "FIL0302"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0015",
+    "nome": "FILOSOFIA DO ENSINO DE FILOSOFIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0016",
+    "nome": "FILOSOFIA E CRIAN\u00c7AS - UMA EDUCA\u00c7\u00c3O FILOS\u00d3FICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0017",
+    "nome": "FILOSOFIA E FEMINISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0013",
+    "nome": "FILOSOFIA FRANCESA CONTEMPOR\u00c2NEA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0234"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0165",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0007",
+    "nome": "FILOSOFIA GERAL E METAF\u00cdSICA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0188"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166 & FIL0003",
+      "FIL0175",
+      "FIL0049"
+    ]
+  },
+  {
+    "cod": "FIL0062",
+    "nome": "FILOSOFIA GERAL E PROBLEMAS METAFISICOS",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0099",
+      "FIL0259"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "FIL0127",
+    "nome": "FILOSOFIA MARXISTA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0297"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0177",
+    "nome": "FILOSOFIA MEDIEVAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0090",
+      "FIL0222"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166 & FIL0034",
+      "FIL0180"
+    ]
+  },
+  {
+    "cod": "FIL0181",
+    "nome": "FILOSOFIA MODERNA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0021",
+      "FIL0091",
+      "FIL0152",
+      "FIL0199"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0005",
+    "nome": "FILOSOFIA NA AM\u00c9RICA LATINA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0209"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0026",
+    "nome": "FILOSOFIA ORIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0001",
+      "FIL0212"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069"
+    ]
+  },
+  {
+    "cod": "FIL0176",
+    "nome": "FILOSOFIA POL\u00cdTICA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0004",
+      "FIL0122",
+      "FIL0196"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105",
+      "FIL0166 & FIL0165"
+    ]
+  },
+  {
+    "cod": "FIL0082",
+    "nome": "FILOSOFIA SOCIAL E POLITICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0122",
+      "FIL0269"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166"
+    ]
+  },
+  {
+    "cod": "FIL0088",
+    "nome": "HERMENEUTICA FILOSOFICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0272"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0107",
+    "nome": "HISTORIA DA CIENCIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0156",
+      "FIL0205"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0156",
+    "nome": "HISTORIA DA CIENCIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0318"
+    ],
+    "pre_requirements": [
+      "FIL0107"
+    ]
+  },
+  {
+    "cod": "FIL0034",
+    "nome": "HIST\u00d3RIA DA FILOSOFIA ANTIGA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0039",
+      "FIL0044",
+      "FIL0049",
+      "FIL0089",
+      "FIL0114",
+      "FIL0251"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0114",
+    "nome": "HISTORIA DA FILOSOFIA ANTIGA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0288"
+    ],
+    "pre_requirements": [
+      "FIL0034"
+    ]
+  },
+  {
+    "cod": "FIL0049",
+    "nome": "HIST\u00d3RIA DA FILOSOFIA CONTEMPOR\u00c2NEA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0007",
+      "FIL0092",
+      "FIL0117",
+      "FIL0149",
+      "FIL0155",
+      "FIL0254"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0034"
+    ]
+  },
+  {
+    "cod": "FIL0117",
+    "nome": "HIST\u00d3RIA DA FILOSOFIA CONTEMPOR\u00c2NEA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0291"
+    ],
+    "pre_requirements": [
+      "FIL0049"
+    ]
+  },
+  {
+    "cod": "FIL0039",
+    "nome": "HIST\u00d3RIA DA FILOSOFIA MEDIEVAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0090",
+      "FIL0115",
+      "FIL0252"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0034"
+    ]
+  },
+  {
+    "cod": "FIL0115",
+    "nome": "HISTORIA DA FILOSOFIA MEDIEVAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0289"
+    ],
+    "pre_requirements": [
+      "FIL0039"
+    ]
+  },
+  {
+    "cod": "FIL0044",
+    "nome": "HIST\u00d3RIA DA FILOSOFIA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0003",
+      "FIL0091",
+      "FIL0116",
+      "FIL0152",
+      "FIL0253"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0034"
+    ]
+  },
+  {
+    "cod": "FIL0116",
+    "nome": "HISTORIA DA FILOSOFIA MODERNA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0290"
+    ],
+    "pre_requirements": [
+      "FIL0044"
+    ]
+  },
+  {
+    "cod": "FIL0050",
+    "nome": "HIST\u00d3RIA DA FILOSOFIA NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0159",
+      "FIL0203"
+    ],
+    "pre_requirements": [
+      "FIL0069",
+      "FIL0105"
+    ]
+  },
+  {
+    "cod": "FIL0093",
+    "nome": "HIST\u00d3RIA DA L\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0277"
+    ],
+    "pre_requirements": [
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "FIL0158",
+    "nome": "IDEIAS FILOSOFICAS EM FORMA LITERARIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0319"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0077",
+    "nome": "INICIA\u00c7\u00c3O \u00c0 METODOLOGIA CIENT\u00cdFICA",
+    "ch": 60,
+    "post_requirements": [
+      "DAN0040",
+      "SER0096",
+      "FIL0267"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0105",
+    "nome": "INICIA\u00c7\u00c3O \u00c0 PR\u00c1TICA FILOS\u00d3FICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0003",
+      "FIL0007",
+      "FIL0025",
+      "FIL0026",
+      "FIL0039",
+      "FIL0044",
+      "FIL0049",
+      "FIL0050",
+      "FIL0053",
+      "FIL0059",
+      "FIL0062",
+      "FIL0063",
+      "FIL0064",
+      "FIL0065",
+      "FIL0068",
+      "FIL0082",
+      "FIL0086",
+      "FIL0087",
+      "FIL0088",
+      "FIL0107",
+      "FIL0124",
+      "FIL0125",
+      "FIL0127",
+      "FIL0129",
+      "FIL0132",
+      "FIL0136",
+      "FIL0141",
+      "FIL0167",
+      "FIL0175",
+      "FIL0176",
+      "FIL0177",
+      "FIL0181",
+      "FIL0182",
+      "FIL0183",
+      "FIL0283"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0069",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0003",
+      "FIL0005",
+      "FIL0007",
+      "SOL0006",
+      "FIL0013",
+      "FIL0014",
+      "FIL0026",
+      "FIL0039",
+      "FIL0044",
+      "FIL0049",
+      "FIL0050",
+      "FIL0053",
+      "FIL0059",
+      "FIL0062",
+      "FIL0063",
+      "FIL0064",
+      "FIL0065",
+      "FIL0068",
+      "FIL0082",
+      "FIL0086",
+      "FIL0087",
+      "FIL0088",
+      "FIL0107",
+      "FIL0124",
+      "FIL0125",
+      "FIL0127",
+      "FIL0129",
+      "FIL0132",
+      "FIL0136",
+      "FIL0141",
+      "JOR0083",
+      "FIL0167",
+      "FIL0175",
+      "FIL0176",
+      "FIL0177",
+      "FIL0181",
+      "FIL0182",
+      "FIL0183",
+      "FIL0190"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0022",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA EM L\u00cdNGUA FRANCESA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0023",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA EM L\u00cdNGUA FRANCESA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0024",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA EM L\u00cdNGUA FRANCESA 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0165",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 HIST\u00d3RIA DA FILOSOFIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0109",
+    "nome": "INTRODUCAO A LOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0285"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0166",
+    "nome": "INTRODU\u00c7\u00c3O A PR\u00c1TICA FILOS\u00d3FICA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0005",
+      "FIL0013",
+      "FIL0039",
+      "FIL0044",
+      "FIL0049",
+      "FIL0053",
+      "FIL0059",
+      "FIL0062",
+      "FIL0063",
+      "FIL0068",
+      "FIL0082",
+      "FIL0086",
+      "FIL0087",
+      "FIL0125",
+      "FIL0132",
+      "FIL0136",
+      "FIL0167",
+      "FIL0175",
+      "FIL0181",
+      "FIL0193"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0179",
+    "nome": "L\u00d3GICA",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0018",
+      "FIL0019",
+      "FIL0020",
+      "FIL0079",
+      "FIL0094",
+      "FIL0118",
+      "FIL0122",
+      "FIL0183",
+      "FIL0197"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0056",
+    "nome": "L\u00d3GICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0134",
+      "CIC0183",
+      "FIL0053",
+      "FIL0059",
+      "FIL0062",
+      "FIL0079",
+      "FIL0086",
+      "FIL0093",
+      "FIL0094",
+      "FIL0118",
+      "FIL0130",
+      "FIL0257"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0079",
+    "nome": "LOGICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0268"
+    ],
+    "pre_requirements": [
+      "FIL0056",
+      "FIL0179"
+    ]
+  },
+  {
+    "cod": "FIL0018",
+    "nome": "L\u00d3GICA MODAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0239"
+    ],
+    "pre_requirements": [
+      "FIL0179",
+      "FIL0118"
+    ]
+  },
+  {
+    "cod": "FIL0019",
+    "nome": "L\u00d3GICAS N\u00c3O-CL\u00c1SSICAS",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0240"
+    ],
+    "pre_requirements": [
+      "FIL0179",
+      "FIL0118"
+    ]
+  },
+  {
+    "cod": "FIL0149",
+    "nome": "METAFILOSOFIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0313"
+    ],
+    "pre_requirements": [
+      "FIL0049"
+    ]
+  },
+  {
+    "cod": "FIL0010",
+    "nome": "METODOLOGIA DE ENSINO DE FILOSOFIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0134",
+    "nome": "MITO E FILOSOFIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0216"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0028",
+    "nome": "MONOGRAFIA FILOS\u00d3FICA",
+    "ch": 120,
+    "post_requirements": [
+      "FIL0213"
+    ],
+    "pre_requirements": [
+      "FIL0025"
+    ]
+  },
+  {
+    "cod": "FIL0012",
+    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS EM FILOSOFIA",
+    "ch": 30,
+    "post_requirements": [
+      "FIL0233"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0025",
+    "nome": "PROJETO DE MONOGRAFIA FILOS\u00d3FICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0028",
+      "FIL0211"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0166 & FIL0034",
+      "FIL0180 & FIL0039",
+      "FIL0177 & FIL0044",
+      "FIL0181 & FIL0049",
+      "FIL0003"
+    ]
+  },
+  {
+    "cod": "FIL0150",
+    "nome": "SEMINARIO ESPECIAL DE FILOSOFIA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0151",
+    "nome": "SEMINARIO ESPECIAL DE FILOSOFIA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0021",
+    "nome": "TEORIA CR\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0242"
+    ],
+    "pre_requirements": [
+      "FIL0175",
+      "FIL0181"
+    ]
+  },
+  {
+    "cod": "FIL0059",
+    "nome": "TEORIA DA CI\u00caNCIA",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0080",
+      "FIL0097",
+      "FIL0258"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "FIL0053",
+    "nome": "TEORIA DO CONHECIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0009",
+      "FIL0096",
+      "FIL0256"
+    ],
+    "pre_requirements": [
+      "FIL0105",
+      "FIL0069",
+      "FIL0166",
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "FIL0006",
+    "nome": "TEORIAS DA INTERPRETA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0002",
+    "nome": "TEORIAS FILOS\u00d3FICAS DA LINGUAGEM",
+    "ch": 90,
+    "post_requirements": [
+      "FIL0186"
+    ],
+    "pre_requirements": [
+      "FIL0069 & FIL0175",
+      "FIL0105 & FIL0181",
+      "FIL0166 & FIL0044",
+      "FIL0069 & FIL0181",
+      "FIL0069 & FIL0044",
+      "FIL0105 & FIL0175",
+      "FIL0105 & FIL0044",
+      "FIL0166 & FIL0175",
+      "FIL0166 & FIL0181"
+    ]
+  },
+  {
+    "cod": "FIL0142",
+    "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0143",
+    "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0144",
+      "FIL0308"
+    ],
+    "pre_requirements": [
+      "FIL0142"
+    ]
+  },
+  {
+    "cod": "FIL0144",
+    "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 3",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0137",
+      "FIL0309"
+    ],
+    "pre_requirements": [
+      "FIL0143"
+    ]
+  },
+  {
+    "cod": "FIL0137",
+    "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 4",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0138",
+      "FIL0303"
+    ],
+    "pre_requirements": [
+      "FIL0144"
+    ]
+  },
+  {
+    "cod": "FIL0138",
+    "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 5",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0139",
+      "FIL0304"
+    ],
+    "pre_requirements": [
+      "FIL0137"
+    ]
+  },
+  {
+    "cod": "FIL0139",
+    "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 6",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0305"
+    ],
+    "pre_requirements": [
+      "FIL0138"
+    ]
+  },
+  {
+    "cod": "FIL0145",
+    "nome": "TEXTOS FILOSOFICOS LATINOS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0146",
+    "nome": "TEXTOS FILOSOFICOS LATINOS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0147",
+    "nome": "TEXTOS FILOSOFICOS LATINOS 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIL0101",
+    "nome": "TOPICOS ESPECIAIS DE ANTROPOLOGIA FILOSOFICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0282"
+    ],
+    "pre_requirements": [
+      "FIL0063"
+    ]
+  },
+  {
+    "cod": "FIL0008",
+    "nome": "T\u00d3PICOS ESPECIAIS DE EPISTEMOLOGIA DAS CI\u00caNCIAS HUMANAS E SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0230"
+    ],
+    "pre_requirements": [
+      "FIL0087"
+    ]
+  },
+  {
+    "cod": "FIL0162",
+    "nome": "TOPICOS ESPECIAIS DE ESTETICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0323"
+    ],
+    "pre_requirements": [
+      "FIL0068",
+      "FIL0182"
+    ]
+  },
+  {
+    "cod": "FIL0120",
+    "nome": "TOPICOS ESPECIAIS DE ETICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0293"
+    ],
+    "pre_requirements": [
+      "FIL0167",
+      "FIL0064"
+    ]
+  },
+  {
+    "cod": "FIL0160",
+    "nome": "TOPICOS ESPECIAIS DE FILOSOFIA DA HISTORIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0321"
+    ],
+    "pre_requirements": [
+      "FIL0065"
+    ]
+  },
+  {
+    "cod": "FIL0161",
+    "nome": "TOPICOS ESPECIAIS DE FILOSOFIA DA LINGUAGEM",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0218"
+    ],
+    "pre_requirements": [
+      "FIL0086"
+    ]
+  },
+  {
+    "cod": "FIL0027",
+    "nome": "T\u00d3PICOS ESPECIAIS DE FILOSOFIA DA RELIGI\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0248"
+    ],
+    "pre_requirements": [
+      "FIL0136"
+    ]
+  },
+  {
+    "cod": "FIL0099",
+    "nome": "TOPICOS ESPECIAIS DE FILOSOFIA GERAL E PROBLEMAS METAFISICOS",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0281"
+    ],
+    "pre_requirements": [
+      "FIL0062"
+    ]
+  },
+  {
+    "cod": "FIL0122",
+    "nome": "TOPICOS ESPECIAIS DE FILOSOFIA SOCIAL E POLITICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0294"
+    ],
+    "pre_requirements": [
+      "FIL0082",
+      "FIL0179",
+      "FIL0176"
+    ]
+  },
+  {
+    "cod": "FIL0089",
+    "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA ANTIGA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0273"
+    ],
+    "pre_requirements": [
+      "FIL0034",
+      "FIL0180"
+    ]
+  },
+  {
+    "cod": "FIL0092",
+    "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA CONTEMPORANEA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0204"
+    ],
+    "pre_requirements": [
+      "FIL0049"
+    ]
+  },
+  {
+    "cod": "FIL0090",
+    "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA MEDIEVAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0274"
+    ],
+    "pre_requirements": [
+      "FIL0039",
+      "FIL0177"
+    ]
+  },
+  {
+    "cod": "FIL0091",
+    "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0275"
+    ],
+    "pre_requirements": [
+      "FIL0044",
+      "FIL0181"
+    ]
+  },
+  {
+    "cod": "FIL0159",
+    "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0320"
+    ],
+    "pre_requirements": [
+      "FIL0050"
+    ]
+  },
+  {
+    "cod": "FIL0094",
+    "nome": "T\u00d3PICOS ESPECIAIS DE L\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0278"
+    ],
+    "pre_requirements": [
+      "FIL0056",
+      "FIL0179"
+    ]
+  },
+  {
+    "cod": "FIL0097",
+    "nome": "TOPICOS ESPECIAIS DE TEORIA DA CIENCIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0280"
+    ],
+    "pre_requirements": [
+      "FIL0059",
+      "FIL0183"
+    ]
+  },
+  {
+    "cod": "FIL0096",
+    "nome": "TOPICOS ESPECIAIS DE TEORIA DO CONHECIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0279"
+    ],
+    "pre_requirements": [
+      "FIL0053",
+      "FIL0175"
+    ]
+  },
+  {
+    "cod": "FIL0001",
+    "nome": "T\u00d3PICOS ESPECIAIS EM FILOSOFIA ORIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIL0223"
+    ],
+    "pre_requirements": [
+      "FIL0026"
+    ]
+  }
+]

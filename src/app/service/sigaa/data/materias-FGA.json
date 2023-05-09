@@ -4,7 +4,10 @@
     "nome": "AC\u00daSTICA E VIBRA\u00c7\u00d5ES VEICULARES",
     "ch": 60,
     "post_requirements": [
-      "FGA0527 - MONITORIA EM AC\u00daSTICA E VIBRA\u00c7\u00d5ES VEICULARES"
+      "FGA0527"
+    ],
+    "pre_requirements": [
+      "FGA0179"
     ]
   },
   {
@@ -12,8 +15,11 @@
     "nome": "AERODIN\u00c2MICA DE SISTEMAS AEROESPACIAIS",
     "ch": 75,
     "post_requirements": [
-      "FGA0043 - DIN\u00c2MICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
-      "FGA0384 - MONITORIA EM AERODIN\u00c2MICA DE SISTEMAS AEROESPACIAIS"
+      "FGA0043",
+      "FGA0384"
+    ],
+    "pre_requirements": [
+      "FGA0204"
     ]
   },
   {
@@ -21,7 +27,10 @@
     "nome": "AN\u00c1LISE DE SISTEMAS DE ENERGIA EL\u00c9TRICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0561 - MONITORIA EM AN\u00c1LISE DE SISTEMAS DE ENERGIA EL\u00c9TRICA"
+      "FGA0561"
+    ],
+    "pre_requirements": [
+      "FGA0262"
     ]
   },
   {
@@ -29,7 +38,10 @@
     "nome": "AN\u00c1LISE DIN\u00c2MICA M\u00c9TODOS DOS ELEMENTOS FINITOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0764 - MONITORIA EM AN\u00c1LISE DIN\u00c2MICA M\u00c9TODOS DOS ELEMENTOS FINITOS"
+      "FGA0764"
+    ],
+    "pre_requirements": [
+      "FGA0229"
     ]
   },
   {
@@ -37,8 +49,11 @@
     "nome": "AN\u00c1LISE ESTRUTURAL M\u00c9TODO DOS ELEMENTOS FINITOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0268 - AN\u00c1LISE DIN\u00c2MICA M\u00c9TODOS DOS ELEMENTOS FINITOS",
-      "FGA0514 - MONITORIA EM AN\u00c1LISE ESTRUTURAL M\u00c9TODO DOS ELEMENTOS FINITOS"
+      "FGA0268",
+      "FGA0514"
+    ],
+    "pre_requirements": [
+      "FGA0179"
     ]
   },
   {
@@ -46,21 +61,29 @@
     "nome": "AN\u00c1LISE INSTRUMENTAL DE COMBUST\u00cdVEIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0502 - MONITORIA EM AN\u00c1LISE INSTRUMENTAL DE COMBUST\u00cdVEIS"
+      "FGA0502"
+    ],
+    "pre_requirements": [
+      "FGA0156"
     ]
   },
   {
     "cod": "FGA0013",
     "nome": "ANATOMIA E FISIOLOGIA HUMANA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0094",
     "nome": "ANTENAS IMPRESSAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0481 - MONITORIA EM ANTENAS IMPRESSAS"
+      "FGA0481"
+    ],
+    "pre_requirements": [
+      "FGA0143 & FGA0217",
+      "FGA0068 & FGA0070"
     ]
   },
   {
@@ -68,7 +91,10 @@
     "nome": "APRENDIZADO DE M\u00c1QUINA",
     "ch": 60,
     "post_requirements": [
-      "FGA0472 - MONITORIA EM APRENDIZADO DE M\u00c1QUINA"
+      "FGA0472"
+    ],
+    "pre_requirements": [
+      "MAT0031 & FGA0147 & FGA0157"
     ]
   },
   {
@@ -76,7 +102,10 @@
     "nome": "ARQUITETURA DE MOTORES DE COMBUST\u00c3O INTERNA",
     "ch": 60,
     "post_requirements": [
-      "FGA0507 - MONITORIA EM ARQUITETURA DE MOTORES DE COMBUST\u00c3O INTERNA"
+      "FGA0507"
+    ],
+    "pre_requirements": [
+      "ENM0080"
     ]
   },
   {
@@ -84,7 +113,10 @@
     "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0425 - MONITORIA EM ARQUITETURA E DESENHO DE SOFTWARE"
+      "FGA0425"
+    ],
+    "pre_requirements": [
+      "FGA0172"
     ]
   },
   {
@@ -92,21 +124,29 @@
     "nome": "BIORREFINARIAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0518 - MONITORIA EM BIORREFINARIAS"
+      "FGA0518"
+    ],
+    "pre_requirements": [
+      "ENM0068 & FGA0204 & FGA0156"
     ]
   },
   {
     "cod": "FGA0123",
     "nome": "C\u00c1LCULO PARA ENGENHARIA 1",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0126",
     "nome": "C\u00c1LCULO PARA ENGENHARIA 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0648 - MONITORIA EM C\u00c1LCULO PARA ENGENHARIA 2"
+      "FGA0648"
+    ],
+    "pre_requirements": [
+      "FGA0123",
+      "MAT0025"
     ]
   },
   {
@@ -114,7 +154,13 @@
     "nome": "C\u00c1LCULO PARA ENGENHARIA 3",
     "ch": 60,
     "post_requirements": [
-      "FGA0650 - MONITORIA EM C\u00c1LCULO PARA ENGENHARIA 3"
+      "FGA0650"
+    ],
+    "pre_requirements": [
+      "FGA0126 & FGA0125",
+      "FGA0126 & MAT0010",
+      "MAT0026 & FGA0125",
+      "MAT0026 & MAT0010"
     ]
   },
   {
@@ -122,28 +168,36 @@
     "nome": "CENTRAIS DE GERA\u00c7\u00c3O TERMOEL\u00c9TRICA",
     "ch": 75,
     "post_requirements": [
-      "FGA0747 - MONITORIA EM CENTRAIS DE GERA\u00c7\u00c3O TERMOEL\u00c9TRICA"
+      "FGA0747"
+    ],
+    "pre_requirements": [
+      "FGA0091"
     ]
   },
   {
     "cod": "FGA0254",
     "nome": "CI\u00caNCIAS AEROESPACIAIS",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0196",
     "nome": "CIRCUITOS ELETR\u00d4NICOS 1",
     "ch": 90,
     "post_requirements": [
-      "FGA0068 - TEORIA DE CIRCUITOS ELETR\u00d4NICOS 2",
-      "FGA0070 - PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 2",
-      "FGA0215 - PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 1",
-      "FGA0217 - CIRCUITOS ELETR\u00d4NICOS 2",
-      "FGA0218 - INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA",
-      "FGA0226 - ELETR\u00d4NICA VEICULAR",
-      "FGA0257 - INTEGRIDADES DE SINAIS E DESIGN DE CIRCUITOS",
-      "FGA0703 - MONITORIA EM CIRCUITOS ELETR\u00d4NICOS 1"
+      "FGA0068",
+      "FGA0070",
+      "FGA0215",
+      "FGA0217",
+      "FGA0218",
+      "FGA0226",
+      "FGA0257",
+      "FGA0703"
+    ],
+    "pre_requirements": [
+      "MAT0048",
+      "MAT0026"
     ]
   },
   {
@@ -151,13 +205,16 @@
     "nome": "CIRCUITOS ELETR\u00d4NICOS 2",
     "ch": 90,
     "post_requirements": [
-      "FGA0017 - PROJETOS DE CIRCUITOS INTEGRADOS 1",
-      "ENE0019 - T\u00d3PICOS ESPECIAIS EM MICROELETR\u00d4NICA",
-      "FGA0132 - INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA PARA ENGENHARIA",
-      "ENE0321 - INTRODUCAO AO PROJETO DE CIRCUITOS INTEGRADOS",
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0255 - CIRCUITOS ELETR\u00d4NICOS 3",
-      "FGA0721 - MONITORIA EM CIRCUITOS ELETR\u00d4NICOS 2"
+      "FGA0017",
+      "ENE0019",
+      "FGA0132",
+      "ENE0321",
+      "FGA0250",
+      "FGA0255",
+      "FGA0721"
+    ],
+    "pre_requirements": [
+      "FGA0196"
     ]
   },
   {
@@ -165,7 +222,11 @@
     "nome": "CIRCUITOS ELETR\u00d4NICOS 3",
     "ch": 60,
     "post_requirements": [
-      "FGA0751 - MONITORIA EM CIRCUITOS ELETR\u00d4NICOS 3"
+      "FGA0751"
+    ],
+    "pre_requirements": [
+      "FGA0217",
+      "FGA0070 & FGA0068"
     ]
   },
   {
@@ -173,7 +234,11 @@
     "nome": "CODIFICA\u00c7\u00c3O E COMPRESS\u00c3O DE SINAIS, IMAGENS E V\u00cdDEO",
     "ch": 60,
     "post_requirements": [
-      "FGA0617 - MONITORIA EM CODIFICA\u00c7\u00c3O E COMPRESS\u00c3O DE SINAIS, IMAGENS E V\u00cdDEO"
+      "FGA0617"
+    ],
+    "pre_requirements": [
+      "FGA0219 & FGA0157",
+      "FGA0015 & FGA0157"
     ]
   },
   {
@@ -181,8 +246,11 @@
     "nome": "COMBUST\u00cdVEIS E BIOCOMBUST\u00cdVEIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0177 - AN\u00c1LISE INSTRUMENTAL DE COMBUST\u00cdVEIS",
-      "FGA0411 - MONITORIA EM COMBUST\u00cdVEIS E BIOCOMBUST\u00cdVEIS"
+      "FGA0177",
+      "FGA0411"
+    ],
+    "pre_requirements": [
+      "FGA0104"
     ]
   },
   {
@@ -190,8 +258,11 @@
     "nome": "COMPILADORES 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0110 - COMPILADORES 2",
-      "FGA0381 - MONITORIA EM COMPILADORES 1"
+      "FGA0110",
+      "FGA0381"
+    ],
+    "pre_requirements": [
+      "FGA0147"
     ]
   },
   {
@@ -199,7 +270,10 @@
     "nome": "COMPILADORES 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0632 - MONITORIA EM COMPILADORES 2"
+      "FGA0632"
+    ],
+    "pre_requirements": [
+      "FGA0003"
     ]
   },
   {
@@ -207,7 +281,10 @@
     "nome": "COMPUTA\u00c7\u00c3O EM NUVEM",
     "ch": 60,
     "post_requirements": [
-      "FGA0771 - MONITORIA EM COMPUTA\u00c7\u00c3O EM NUVEM"
+      "FGA0771"
+    ],
+    "pre_requirements": [
+      "FGA0137"
     ]
   },
   {
@@ -215,7 +292,11 @@
     "nome": "COMUNICA\u00c7\u00d5ES DIGITAIS PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0443 - MONITORIA EM COMUNICA\u00c7\u00d5ES DIGITAIS PARA ENGENHARIA"
+      "FGA0443"
+    ],
+    "pre_requirements": [
+      "FGA0199",
+      "FGA0092"
     ]
   },
   {
@@ -223,7 +304,10 @@
     "nome": "CONFIABILIDADE DE COMPONENTES E SISTEMAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0537 - MONITORIA EM CONFIABILIDADE DE COMPONENTES E SISTEMAS"
+      "FGA0537"
+    ],
+    "pre_requirements": [
+      "FGA0157 & FGA0179"
     ]
   },
   {
@@ -231,7 +315,13 @@
     "nome": "CONTRATA\u00c7\u00c3O DE SERVI\u00c7OS DE TECNOLOGIA DA INFORMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FGA0437 - MONITORIA EM CONTRATA\u00c7\u00c3O DE SERVI\u00c7OS DE TECNOLOGIA DA INFORMA\u00c7\u00c3O"
+      "FGA0437"
+    ],
+    "pre_requirements": [
+      "FGA0206",
+      "CIC0140",
+      "ADM0092",
+      "EPR0072"
     ]
   },
   {
@@ -239,7 +329,10 @@
     "nome": "CONTROLE DE SISTEMAS AEROESPACIAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0603 - MONITORIA EM CONTROLE DE SISTEMAS AEROESPACIAIS"
+      "FGA0603"
+    ],
+    "pre_requirements": [
+      "FGA0044"
     ]
   },
   {
@@ -247,21 +340,31 @@
     "nome": "CRIPTOGRAFIA E SEGURAN\u00c7A DE REDES",
     "ch": 60,
     "post_requirements": [
-      "FGA0583 - MONITORIA EM CRIPTOGRAFIA E SEGURAN\u00c7A DE REDES"
+      "FGA0583"
+    ],
+    "pre_requirements": [
+      "FGA0085",
+      "FGA0159"
     ]
   },
   {
     "cod": "FGA0168",
     "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
     "ch": 90,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0249",
     "nome": "DESENVOLVIMENTO AVAN\u00c7ADO DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0745 - MONITORIA EM DESENVOLVIMENTO AVAN\u00c7ADO DE SOFTWARE"
+      "FGA0745"
+    ],
+    "pre_requirements": [
+      "FGA0154 & FGA0157",
+      "FGA0160",
+      "FGA0159 & FGA0158 & ENE0277"
     ]
   },
   {
@@ -269,21 +372,29 @@
     "nome": "DESENVOLVIMENTO DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0394 - MONITORIA EM DESENVOLVIMENTO DE SOFTWARE"
+      "FGA0394"
+    ],
+    "pre_requirements": [
+      "CIC0004",
+      "CIC0007"
     ]
   },
   {
     "cod": "FGA0174",
     "nome": "DESENVOLVIMENTO SUSTENT\u00c1VEL",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0050",
     "nome": "DIN\u00c2MICA DE ESTRUTURAS AEROESPACIAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0388 - MONITORIA EM DIN\u00c2MICA DE ESTRUTURAS AEROESPACIAIS"
+      "FGA0388"
+    ],
+    "pre_requirements": [
+      "FGA0039 & FGA0102"
     ]
   },
   {
@@ -291,9 +402,12 @@
     "nome": "DIN\u00c2MICA DE VE\u00cdCULOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0040 - SISTEMAS DE CONTROLE AUTOMOTIVO",
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0428 - MONITORIA EM DIN\u00c2MICA DE VE\u00cdCULOS"
+      "FGA0040",
+      "FGA0250",
+      "FGA0428"
+    ],
+    "pre_requirements": [
+      "FGA0179"
     ]
   },
   {
@@ -301,9 +415,12 @@
     "nome": "DIN\u00c2MICA DOS FLU\u00cdDOS",
     "ch": 75,
     "post_requirements": [
-      "ENM0003 - FUNDAMENTOS DE ENGENHARIA DE RESERVAT\u00d3RIO",
-      "FGA0038 - AERODIN\u00c2MICA DE SISTEMAS AEROESPACIAIS",
-      "FGA0424 - MONITORIA EM DIN\u00c2MICA DOS FLU\u00cdDOS"
+      "ENM0003",
+      "FGA0038",
+      "FGA0424"
+    ],
+    "pre_requirements": [
+      "ENM0080"
     ]
   },
   {
@@ -311,9 +428,12 @@
     "nome": "DIN\u00c2MICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0281 - SISTEMAS DE PROPULS\u00c3O LIQUIDA",
-      "FGA0289 - SISTEMAS DE PROPULS\u00c3O S\u00d3LIDA E H\u00cdBRIDA",
-      "FGA0386 - MONITORIA EM DIN\u00c2MICA DOS GASES PARA SISTEMAS AEROESPACIAIS"
+      "FGA0281",
+      "FGA0289",
+      "FGA0386"
+    ],
+    "pre_requirements": [
+      "FGA0038"
     ]
   },
   {
@@ -321,8 +441,11 @@
     "nome": "DIN\u00c2MICA DOS MECANISMOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0272 - DIN\u00c2MICA MULTICORPOS VEICULAR",
-      "FGA0383 - MONITORIA EM DIN\u00c2MICA DOS MECANISMOS"
+      "FGA0272",
+      "FGA0383"
+    ],
+    "pre_requirements": [
+      "FGA0154"
     ]
   },
   {
@@ -330,7 +453,10 @@
     "nome": "DIN\u00c2MICA MULTICORPOS VEICULAR",
     "ch": 60,
     "post_requirements": [
-      "FGA0767 - MONITORIA EM DIN\u00c2MICA MULTICORPOS VEICULAR"
+      "FGA0767"
+    ],
+    "pre_requirements": [
+      "FGA0023"
     ]
   },
   {
@@ -338,8 +464,11 @@
     "nome": "ECONOMIA DE ENERGIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0203 - PLANEJAMENTO E GEST\u00c3O DE ENERGIA",
-      "FGA0526 - MONITORIA EM ECONOMIA DE ENERGIA"
+      "FGA0203",
+      "FGA0526"
+    ],
+    "pre_requirements": [
+      "FGA0133"
     ]
   },
   {
@@ -347,32 +476,41 @@
     "nome": "EFICI\u00caNCIA ENERG\u00c9TICA EM INSTALA\u00c7\u00d5ES EL\u00c9TRICAS INDUSTRIAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0644 - MONITORIA EM EFICI\u00caNCIA ENERG\u00c9TICA EM INSTALA\u00c7\u00d5ES EL\u00c9TRICAS INDUSTRIAIS"
+      "FGA0644"
+    ],
+    "pre_requirements": [
+      "FGA0086 & FGA0087"
     ]
   },
   {
     "cod": "FGA0166",
     "nome": "ELEMENTOS E M\u00c9TODOS EM ELETR\u00d4NICA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0186",
     "nome": "ELETRICIDADE APLICADA",
     "ch": 90,
     "post_requirements": [
-      "FGA0088 - TEORIA DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA",
-      "FGA0089 - LABORAT\u00d3RIO DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA",
-      "FGA0226 - ELETR\u00d4NICA VEICULAR",
-      "FGA0696 - MONITORIA EM ELETRICIDADE APLICADA"
-    ]
+      "FGA0088",
+      "FGA0089",
+      "FGA0226",
+      "FGA0696"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0116",
     "nome": "ELETR\u00d4NICA DE ALTA FREQU\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0638 - MONITORIA EM ELETR\u00d4NICA DE ALTA FREQU\u00caNCIA"
+      "FGA0638"
+    ],
+    "pre_requirements": [
+      "FGA0143 & FGA0217",
+      "FGA0068 & FGA0070"
     ]
   },
   {
@@ -380,7 +518,10 @@
     "nome": "ELETR\u00d4NICA DE POT\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0582 - MONITORIA EM ELETR\u00d4NICA DE POT\u00caNCIA"
+      "FGA0582"
+    ],
+    "pre_requirements": [
+      "FGA0086 & FGA0087 & FGA0068 & FGA0070"
     ]
   },
   {
@@ -388,7 +529,10 @@
     "nome": "ELETR\u00d4NICA DE R\u00c1DIO FREQU\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0619 - MONITORIA EM ELETR\u00d4NICA DE R\u00c1DIO FREQU\u00caNCIA"
+      "FGA0619"
+    ],
+    "pre_requirements": [
+      "FGA0068"
     ]
   },
   {
@@ -396,10 +540,15 @@
     "nome": "ELETR\u00d4NICA EMBARCADA",
     "ch": 90,
     "post_requirements": [
-      "FGA0103 - SISTEMAS OPERACIONAIS EMBARCADOS",
-      "FGA0170 - FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
-      "FGA0198 - PROJETO COM CIRCUITOS RECONFIGURAVEIS",
-      "FGA0482 - MONITORIA EM ELETR\u00d4NICA EMBARCADA"
+      "FGA0103",
+      "FGA0170",
+      "FGA0198",
+      "FGA0482"
+    ],
+    "pre_requirements": [
+      "FGA0074 & FGA0072",
+      "ENE0278",
+      "FGA0142"
     ]
   },
   {
@@ -407,10 +556,16 @@
     "nome": "ELETR\u00d4NICA VEICULAR",
     "ch": 60,
     "post_requirements": [
-      "FGA0132 - INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA PARA ENGENHARIA",
-      "FGA0218 - INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA",
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0513 - MONITORIA EM ELETR\u00d4NICA VEICULAR"
+      "FGA0132",
+      "FGA0218",
+      "FGA0250",
+      "FGA0513"
+    ],
+    "pre_requirements": [
+      "FGA0196",
+      "FGA0186",
+      "FGA0067 & FGA0069",
+      "FGA0086 & FGA0087"
     ]
   },
   {
@@ -418,7 +573,10 @@
     "nome": "ENGENHARIA DE MANUTEN\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FGA0778 - MONITORIA EM ENGENHARIA DE MANUTEN\u00c7\u00c3O"
+      "FGA0778"
+    ],
+    "pre_requirements": [
+      "FGA0184 & FGA0157"
     ]
   },
   {
@@ -426,23 +584,32 @@
     "nome": "ENGENHARIA DE PETR\u00d3LEO E G\u00c1S",
     "ch": 60,
     "post_requirements": [
-      "FGA0422 - MONITORIA EM ENGENHARIA DE PETR\u00d3LEO E G\u00c1S"
+      "FGA0422"
+    ],
+    "pre_requirements": [
+      "IQD0125 & IQD0126",
+      "FGA0104"
     ]
   },
   {
     "cod": "FGA0200",
     "nome": "ENGENHARIA DE PRODUTO",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0206",
     "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0001 - CONTRATA\u00c7\u00c3O DE SERVI\u00c7OS DE TECNOLOGIA DA INFORMA\u00c7\u00c3O",
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0510 - MONITORIA EM ENGENHARIA DE PRODUTO DE SOFTWARE"
+      "FGA0001",
+      "FGA0250",
+      "FGA0510"
+    ],
+    "pre_requirements": [
+      "FGA0242",
+      "FGA0171"
     ]
   },
   {
@@ -450,15 +617,19 @@
     "nome": "ENGENHARIA DE SEGURAN\u00c7A DO TRABALHO",
     "ch": 30,
     "post_requirements": [
-      "FGA0408 - MONITORIA EM ENGENHARIA DE SEGURAN\u00c7A DO TRABALHO"
-    ]
+      "FGA0408"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0082",
     "nome": "ENGENHARIA DE SISTEMAS AEROESPACIAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0604 - MONITORIA EM ENGENHARIA DE SISTEMAS AEROESPACIAIS"
+      "FGA0604"
+    ],
+    "pre_requirements": [
+      "FGA0049"
     ]
   },
   {
@@ -466,7 +637,10 @@
     "nome": "ENGENHARIA DE SOFTWARE AUTOMOTIVO",
     "ch": 60,
     "post_requirements": [
-      "FGA0493 - MONITORIA EM ENGENHARIA DE SOFTWARE AUTOMOTIVO"
+      "FGA0493"
+    ],
+    "pre_requirements": [
+      "CIC0004"
     ]
   },
   {
@@ -474,27 +648,36 @@
     "nome": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
     "ch": 60,
     "post_requirements": [
-      "FGA0531 - MONITORIA EM ENGENHARIA DE SOFTWARE EXPERIMENTAL"
+      "FGA0531"
+    ],
+    "pre_requirements": [
+      "FGA0138"
     ]
   },
   {
     "cod": "FGA0161",
     "nome": "ENGENHARIA E AMBIENTE",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0133",
     "nome": "ENGENHARIA ECON\u00d4MICA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0127",
     "nome": "EQUA\u00c7\u00d5ES DIFERENCIAIS ORDIN\u00c1RIAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0649 - MONITORIA EM EQUA\u00c7\u00d5ES DIFERENCIAIS ORDIN\u00c1RIAS"
+      "FGA0649"
+    ],
+    "pre_requirements": [
+      "FGA0126 & MAT0031",
+      "MAT0026 & MAT0031"
     ]
   },
   {
@@ -502,7 +685,10 @@
     "nome": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0469 - MONITORIA EM EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS"
+      "FGA0469"
+    ],
+    "pre_requirements": [
+      "ENM0080"
     ]
   },
   {
@@ -510,7 +696,10 @@
     "nome": "ERGONOMIA DO PRODUTO",
     "ch": 60,
     "post_requirements": [
-      "FGA0498 - MONITORIA EM ERGONOMIA DO PRODUTO"
+      "FGA0498"
+    ],
+    "pre_requirements": [
+      "FGA0155"
     ]
   },
   {
@@ -518,24 +707,28 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO",
     "ch": 210,
     "post_requirements": [
-      "FGA0550 - MONITORIA EM EST\u00c1GIO SUPERVISIONADO"
-    ]
+      "FGA0550"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0147",
     "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0003 - COMPILADORES 1",
-      "FGA0030 - ESTRUTURAS DE DADOS 2",
-      "CIC0111 - PRINCIPIOS DE COMPUTACAO GRAFICA",
-      "CIC0193 - FUNDAMENTOS DE SISTEMAS INTELIGENTES",
-      "CIC0195 - PRINC\u00cdPIOS DE VIS\u00c3O COMPUTACIONAL",
-      "FGA0124 - PROJETO DE ALGORITMOS",
-      "FGA0264 - INTRODU\u00c7\u00c3O A COMPUTA\u00c7\u00c3O GR\u00c1FICA",
-      "CIC0352 - VISUALIZA\u00c7\u00c3O DE DADOS",
-      "FGA0407 - MONITORIA EM ESTRUTURA DE DADOS E ALGORITMOS",
-      "CIC0269 - PROCESSAMENTO DE LINGUAGEM NATURAL"
+      "FGA0003",
+      "FGA0030",
+      "CIC0111",
+      "CIC0193",
+      "CIC0195",
+      "FGA0124",
+      "FGA0264",
+      "CIC0352",
+      "FGA0407",
+      "CIC0269"
+    ],
+    "pre_requirements": [
+      "CIC0004"
     ]
   },
   {
@@ -543,22 +736,29 @@
     "nome": "ESTRUTURAS DE DADOS 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0452 - MONITORIA EM ESTRUTURAS DE DADOS 2"
+      "FGA0452"
+    ],
+    "pre_requirements": [
+      "FGA0147"
     ]
   },
   {
     "cod": "FGA0159",
     "nome": "ESTRUTURAS MATEM\u00c1TICAS PARA COMPUTA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0144",
     "nome": "F\u00cdSICA MODERNA",
     "ch": 90,
     "post_requirements": [
-      "FGA0183 - MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS PARA ENGENHARIA",
-      "FGA0406 - MONITORIA EM F\u00cdSICA MODERNA"
+      "FGA0183",
+      "FGA0406"
+    ],
+    "pre_requirements": [
+      "MAT0027 & IFD0171"
     ]
   },
   {
@@ -566,7 +766,10 @@
     "nome": "F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0635 - MONITORIA EM F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 1"
+      "FGA0635"
+    ],
+    "pre_requirements": [
+      "MAT0031 & IFD0171 & MAT0025"
     ]
   },
   {
@@ -574,7 +777,10 @@
     "nome": "F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0585 - MONITORIA EM F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 1"
+      "FGA0585"
+    ],
+    "pre_requirements": [
+      "MAT0031 & IFD0171 & MAT0025"
     ]
   },
   {
@@ -582,24 +788,32 @@
     "nome": "F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0636 - MONITORIA EM F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 2"
+      "FGA0636"
+    ],
+    "pre_requirements": [
+      "FGA0113 & FGA0264",
+      "FGA0113 & FGA0263"
     ]
   },
   {
     "cod": "FGA0169",
     "nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERS\u00c3O",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0143",
     "nome": "FUNDAMENTOS DA TEORIA ELETROMAGN\u00c9TICA",
     "ch": 90,
     "post_requirements": [
-      "FGA0100 - PR\u00c1TICA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS",
-      "FGA0101 - TEORIA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS",
-      "ENE0195 - PROPAGACAO DE ONDAS ELETROMAGNETICAS",
-      "FGA0662 - MONITORIA EM FUNDAMENTOS DA TEORIA ELETROMAGN\u00c9TICA"
+      "FGA0100",
+      "FGA0101",
+      "ENE0195",
+      "FGA0662"
+    ],
+    "pre_requirements": [
+      "IFD0171 & MAT0027"
     ]
   },
   {
@@ -607,10 +821,14 @@
     "nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
     "ch": 60,
     "post_requirements": [
-      "FGA0096 - ELETR\u00d4NICA EMBARCADA",
-      "FGA0170 - FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
-      "FGA0182 - MICROPROCESSADORES E MICROCONTROLADORES",
-      "FGA0405 - MONITORIA EM FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES"
+      "FGA0096",
+      "FGA0170",
+      "FGA0182",
+      "FGA0405"
+    ],
+    "pre_requirements": [
+      "ENE0277",
+      "FGA0071 & FGA0073"
     ]
   },
   {
@@ -618,35 +836,48 @@
     "nome": "FUNDAMENTOS DE ARQUITETURA DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0554 - MONITORIA EM FUNDAMENTOS DE ARQUITETURA DE SOFTWARE"
+      "FGA0554"
+    ],
+    "pre_requirements": [
+      "FGA0172"
     ]
   },
   {
     "cod": "FGA0117",
     "nome": "FUNDAMENTOS DE ENERGIA NUCLEAR",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0006",
     "nome": "FUNDAMENTOS DE EQUA\u00c7\u00d5ES DIFERENCIAIS PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0440 - MONITORIA EM FUNDAMENTOS DE EQUA\u00c7\u00d5ES DIFERENCIAIS PARA ENGENHARIA"
+      "FGA0440"
+    ],
+    "pre_requirements": [
+      "MAT0031 & MAT0027"
     ]
   },
   {
     "cod": "FGA0293",
     "nome": "FUNDAMENTOS DE M\u00c9TODOS DE OTIMIZA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": [
+      "FGA0160 & MAT0027"
+    ]
   },
   {
     "cod": "FGA0379",
     "nome": "FUNDAMENTOS DE PROPULS\u00c3O EL\u00c9TRICA VEICULAR",
     "ch": 60,
     "post_requirements": [
-      "FGA0787 - MONITORIA EM FUNDAMENTOS DE PROPULS\u00c3O EL\u00c9TRICA VEICULAR"
+      "FGA0787"
+    ],
+    "pre_requirements": [
+      "FGA0086 & FGA0087"
     ]
   },
   {
@@ -654,7 +885,10 @@
     "nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
     "ch": 60,
     "post_requirements": [
-      "FGA0511 - MONITORIA EM FUNDAMENTOS DE REDES DE COMPUTADORES"
+      "FGA0511"
+    ],
+    "pre_requirements": [
+      "FGA0170"
     ]
   },
   {
@@ -662,7 +896,10 @@
     "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0399 - MONITORIA EM FUNDAMENTOS DE SISTEMAS EMBARCADOS"
+      "FGA0399"
+    ],
+    "pre_requirements": [
+      "FGA0170"
     ]
   },
   {
@@ -670,11 +907,16 @@
     "nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0103 - SISTEMAS OPERACIONAIS EMBARCADOS",
-      "FGA0109 - FUNDAMENTOS DE SISTEMAS EMBARCADOS",
-      "FGA0211 - FUNDAMENTOS DE REDES DE COMPUTADORES",
-      "FGA0220 - SISTEMAS EMBARCADOS",
-      "FGA0419 - MONITORIA EM FUNDAMENTOS DE SISTEMAS OPERACIONAIS"
+      "FGA0103",
+      "FGA0109",
+      "FGA0211",
+      "FGA0220",
+      "FGA0419"
+    ],
+    "pre_requirements": [
+      "FGA0182",
+      "FGA0096",
+      "FGA0142"
     ]
   },
   {
@@ -682,7 +924,10 @@
     "nome": "FUNDAMENTOS DE VARI\u00c1VEL COMPLEXA PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0590 - MONITORIA EM FUNDAMENTOS DE VARI\u00c1VEL COMPLEXA PARA ENGENHARIA"
+      "FGA0590"
+    ],
+    "pre_requirements": [
+      "MAT0027 & MAT0031"
     ]
   },
   {
@@ -690,7 +935,10 @@
     "nome": "FUNDAMENTOS DO M\u00c9TODO DOS ELEMENTOS FINITOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0447 - MONITORIA EM FUNDAMENTOS DO M\u00c9TODO DOS ELEMENTOS FINITOS"
+      "FGA0447"
+    ],
+    "pre_requirements": [
+      "FGA0160 & FGA0179 & ENM0080"
     ]
   },
   {
@@ -698,7 +946,10 @@
     "nome": "FUNDAMENTOS DO PROJETO DE AERONAVES",
     "ch": 60,
     "post_requirements": [
-      "FGA0435 - MONITORIA EM FUNDAMENTOS DO PROJETO DE AERONAVES"
+      "FGA0435"
+    ],
+    "pre_requirements": [
+      "FGA0039 & FGA0045"
     ]
   },
   {
@@ -706,7 +957,10 @@
     "nome": "GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O DE SOFTWARE",
     "ch": 30,
     "post_requirements": [
-      "FGA0741 - MONITORIA EM GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O DE SOFTWARE"
+      "FGA0741"
+    ],
+    "pre_requirements": [
+      "FGA0138"
     ]
   },
   {
@@ -714,7 +968,10 @@
     "nome": "GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O E EVOLU\u00c7\u00c3O DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0430 - MONITORIA EM GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O E EVOLU\u00c7\u00c3O DE SOFTWARE"
+      "FGA0430"
+    ],
+    "pre_requirements": [
+      "FGA0238"
     ]
   },
   {
@@ -722,8 +979,11 @@
     "nome": "GEST\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO",
     "ch": 60,
     "post_requirements": [
-      "FGA0130 - REGULA\u00c7\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO",
-      "FGA0496 - MONITORIA EM GEST\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO"
+      "FGA0130",
+      "FGA0496"
+    ],
+    "pre_requirements": [
+      "FGA0161 & FGA0184"
     ]
   },
   {
@@ -731,10 +991,13 @@
     "nome": "GEST\u00c3O DA PRODU\u00c7\u00c3O AUTOMOTIVA",
     "ch": 60,
     "post_requirements": [
-      "EPR0035 - INOVA\u00c7\u00c3O EM SISTEMAS DE PRODU\u00c7\u00c3O",
-      "ENM0187 - PROCESSO DE DESENVOLVIMENTO DE PRODUTO",
-      "ENM0192 - TECNOLOGIAS HABILITADORAS DA IND\u00daSTRIA 4.0",
-      "FGA0508 - MONITORIA EM GEST\u00c3O DA PRODU\u00c7\u00c3O AUTOMOTIVA"
+      "EPR0035",
+      "ENM0187",
+      "ENM0192",
+      "FGA0508"
+    ],
+    "pre_requirements": [
+      "FGA0184"
     ]
   },
   {
@@ -742,10 +1005,13 @@
     "nome": "GEST\u00c3O DA PRODU\u00c7\u00c3O E QUALIDADE",
     "ch": 60,
     "post_requirements": [
-      "FGA0195 - GEST\u00c3O DA PRODU\u00c7\u00c3O AUTOMOTIVA",
-      "FGA0212 - MODELAGEM DE PROCESSOS",
-      "FGA0223 - GEST\u00c3O DE PROJETOS EM ENGENHARIA BIOM\u00c9DICA",
-      "FGA0423 - MONITORIA EM GEST\u00c3O DA PRODU\u00c7\u00c3O E QUALIDADE"
+      "FGA0195",
+      "FGA0212",
+      "FGA0223",
+      "FGA0423"
+    ],
+    "pre_requirements": [
+      "FGA0133"
     ]
   },
   {
@@ -753,42 +1019,54 @@
     "nome": "GEST\u00c3O DE PROJETOS EM ENGENHARIA BIOM\u00c9DICA",
     "ch": 30,
     "post_requirements": [
-      "FGA0727 - MONITORIA EM GEST\u00c3O DE PROJETOS EM ENGENHARIA BIOM\u00c9DICA"
+      "FGA0727"
+    ],
+    "pre_requirements": [
+      "FGA0184"
     ]
   },
   {
     "cod": "FGA0164",
     "nome": "HUMANIDADES E CIDADANIA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0115",
     "nome": "INFORMA\u00c7\u00c3O, COMUNICA\u00c7\u00c3O E A SOCIEDADE DO CONHECIMENTO",
     "ch": 60,
     "post_requirements": [
-      "FGA0637 - MONITORIA EM INFORMA\u00c7\u00c3O, COMUNICA\u00c7\u00c3O E A SOCIEDADE DO CONHECIMENTO"
+      "FGA0637"
+    ],
+    "pre_requirements": [
+      "FGA0164"
     ]
   },
   {
     "cod": "FGA0202",
     "nome": "INFORM\u00c1TICA EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0181",
     "nome": "INOVA\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0222",
     "nome": "INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0258 - INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 2",
-      "FGA0726 - MONITORIA EM INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 1"
+      "FGA0258",
+      "FGA0726"
+    ],
+    "pre_requirements": [
+      "FGA0068 & FGA0070"
     ]
   },
   {
@@ -796,7 +1074,10 @@
     "nome": "INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0444 - MONITORIA EM INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 2"
+      "FGA0444"
+    ],
+    "pre_requirements": [
+      "FGA0222"
     ]
   },
   {
@@ -804,9 +1085,14 @@
     "nome": "INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0233 - SENSORES E TRANSDUTORES",
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0722 - MONITORIA EM INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA"
+      "FGA0233",
+      "FGA0250",
+      "FGA0722"
+    ],
+    "pre_requirements": [
+      "FGA0196",
+      "FGA0226",
+      "FGA0067 & FGA0069"
     ]
   },
   {
@@ -814,7 +1100,12 @@
     "nome": "INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0494 - MONITORIA EM INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA PARA ENGENHARIA"
+      "FGA0494"
+    ],
+    "pre_requirements": [
+      "FGA0068 & FGA0070",
+      "FGA0217",
+      "FGA0226"
     ]
   },
   {
@@ -822,7 +1113,10 @@
     "nome": "INSTRUMENTA\u00c7\u00c3O E SISTEMAS DE CONTROLE",
     "ch": 75,
     "post_requirements": [
-      "FGA0749 - MONITORIA EM INSTRUMENTA\u00c7\u00c3O E SISTEMAS DE CONTROLE"
+      "FGA0749"
+    ],
+    "pre_requirements": [
+      "FGA0188 & FGA0196 & MAT0048"
     ]
   },
   {
@@ -830,7 +1124,10 @@
     "nome": "INTEGRA\u00c7\u00c3O E TESTES",
     "ch": 60,
     "post_requirements": [
-      "FGA0515 - MONITORIA EM INTEGRA\u00c7\u00c3O E TESTES"
+      "FGA0515"
+    ],
+    "pre_requirements": [
+      "FGA0188"
     ]
   },
   {
@@ -838,21 +1135,29 @@
     "nome": "INTEGRIDADES DE SINAIS E DESIGN DE CIRCUITOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0753 - MONITORIA EM INTEGRIDADES DE SINAIS E DESIGN DE CIRCUITOS"
+      "FGA0753"
+    ],
+    "pre_requirements": [
+      "FGA0196",
+      "FGA0067 & FGA0069"
     ]
   },
   {
     "cod": "FGA0221",
     "nome": "INTELIG\u00caNCIA ARTIFICIAL",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0173",
     "nome": "INTERA\u00c7\u00c3O HUMANO COMPUTADOR",
     "ch": 60,
     "post_requirements": [
-      "FGA0421 - MONITORIA EM INTERA\u00c7\u00c3O HUMANO COMPUTADOR"
+      "FGA0421"
+    ],
+    "pre_requirements": [
+      "FGA0138"
     ]
   },
   {
@@ -860,7 +1165,10 @@
     "nome": "INTRODU\u00c7\u00c3O A COMPUTA\u00c7\u00c3O GR\u00c1FICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0760 - MONITORIA EM INTRODU\u00c7\u00c3O A COMPUTA\u00c7\u00c3O GR\u00c1FICA"
+      "FGA0760"
+    ],
+    "pre_requirements": [
+      "FGA0147"
     ]
   },
   {
@@ -868,29 +1176,37 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA",
     "ch": 30,
     "post_requirements": [
-      "FGA0416 - MONITORIA EM INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA"
-    ]
+      "FGA0416"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0292",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FOT\u00d4NICA E OPTR\u00d4NICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0786 - MONITORIA EM INTRODU\u00c7\u00c3O \u00c0 FOT\u00d4NICA E OPTR\u00d4NICA"
+      "FGA0786"
+    ],
+    "pre_requirements": [
+      "FGA0067 & FGA0069 & FGA0100 & FGA0101"
     ]
   },
   {
     "cod": "FGA0125",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOMETRIA ANAL\u00cdTICA",
     "ch": 30,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0285",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 MEC\u00c2NICA DA FRATURA",
     "ch": 60,
     "post_requirements": [
-      "FGA0436 - MONITORIA EM INTRODU\u00c7\u00c3O \u00c0 MEC\u00c2NICA DA FRATURA"
+      "FGA0436"
+    ],
+    "pre_requirements": [
+      "FGA0179  &  FGA0190"
     ]
   },
   {
@@ -898,7 +1214,10 @@
     "nome": "INTRODU\u00c7\u00c3O AO DESGASTE",
     "ch": 60,
     "post_requirements": [
-      "FGA0470 - MONITORIA EM INTRODU\u00c7\u00c3O AO DESGASTE"
+      "FGA0470"
+    ],
+    "pre_requirements": [
+      "FGA0055 & FGA0056"
     ]
   },
   {
@@ -906,8 +1225,11 @@
     "nome": "INTRODU\u00c7\u00c3O AO DESIGN E CONCEP\u00c7\u00c3O DE VE\u00cdCULOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0152 - ERGONOMIA DO PRODUTO",
-      "FGA0410 - MONITORIA EM INTRODU\u00c7\u00c3O AO DESIGN E CONCEP\u00c7\u00c3O DE VE\u00cdCULOS"
+      "FGA0152",
+      "FGA0410"
+    ],
+    "pre_requirements": [
+      "FGA0168"
     ]
   },
   {
@@ -915,7 +1237,10 @@
     "nome": "INTRODU\u00c7\u00c3O AOS JOGOS ELETR\u00d4NICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0759 - MONITORIA EM INTRODU\u00c7\u00c3O AOS JOGOS ELETR\u00d4NICOS"
+      "FGA0759"
+    ],
+    "pre_requirements": [
+      "FGA0158 & FGA0147"
     ]
   },
   {
@@ -923,7 +1248,10 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 WEB SEM\u00c2NTICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0633 - MONITORIA EM INTRODU\u00c7\u00c3O \u00c0 WEB SEM\u00c2NTICA"
+      "FGA0633"
+    ],
+    "pre_requirements": [
+      "FGA0137"
     ]
   },
   {
@@ -931,7 +1259,11 @@
     "nome": "LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
     "ch": 30,
     "post_requirements": [
-      "FGA0475 - MONITORIA EM LABORAT\u00d3RIO DE ELETRICIDADE APLICADA"
+      "FGA0475"
+    ],
+    "pre_requirements": [
+      "FGA0187",
+      "FGA0067 & FGA0069"
     ]
   },
   {
@@ -939,11 +1271,15 @@
     "nome": "LABORAT\u00d3RIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O",
     "ch": 15,
     "post_requirements": [
-      "FGA0468 - MONITORIA EM LABORAT\u00d3RIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O",
+      "FGA0468",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0078 - TEORIA DE MATERIAIS DE CONSTRU\u00c7\u00c3O"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0078"
+    ],
+    "pre_requirements": [
+      "IQD0051",
+      "IQD0125 & IQD0126"
     ]
   },
   {
@@ -951,7 +1287,10 @@
     "nome": "LABORAT\u00d3RIO DE ONDULAT\u00d3RIA E F\u00cdSICA T\u00c9RMICA PARA A ENGENHARIA",
     "ch": 30,
     "post_requirements": [
-      "FGA0629 - MONITORIA EM LABORAT\u00d3RIO DE ONDULAT\u00d3RIA E F\u00cdSICA T\u00c9RMICA PARA A ENGENHARIA"
+      "FGA0629"
+    ],
+    "pre_requirements": [
+      "IFD0171 & IFD0173"
     ]
   },
   {
@@ -959,7 +1298,11 @@
     "nome": "LABORAT\u00d3RIO DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA",
     "ch": 30,
     "post_requirements": [
-      "FGA0477 - MONITORIA EM LABORAT\u00d3RIO DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA"
+      "FGA0477"
+    ],
+    "pre_requirements": [
+      "FGA0186",
+      "FGA0086 & FGA0087"
     ]
   },
   {
@@ -967,9 +1310,12 @@
     "nome": "M\u00c1QUINAS DE FLUIDO",
     "ch": 90,
     "post_requirements": [
-      "FGA0251 - CENTRAIS DE GERA\u00c7\u00c3O TERMOEL\u00c9TRICA",
-      "FGA0252 - SISTEMAS HIDROEL\u00c9TRICOS",
-      "FGA0479 - MONITORIA EM M\u00c1QUINAS DE FLUIDO"
+      "FGA0251",
+      "FGA0252",
+      "FGA0479"
+    ],
+    "pre_requirements": [
+      "ENM0071"
     ]
   },
   {
@@ -977,7 +1323,10 @@
     "nome": "M\u00c1QUINAS DE FLUXO",
     "ch": 75,
     "post_requirements": [
-      "FGA0521 - MONITORIA EM M\u00c1QUINAS DE FLUXO"
+      "FGA0521"
+    ],
+    "pre_requirements": [
+      "FGA0204 & ENM0068"
     ]
   },
   {
@@ -985,22 +1334,28 @@
     "nome": "MATEM\u00c1TICA APLICADA A SISTEMAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0439 - MONITORIA EM MATEM\u00c1TICA APLICADA A SISTEMAS"
-    ]
+      "FGA0439"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0085",
     "nome": "MATEM\u00c1TICA DISCRETA 1",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0108",
     "nome": "MATEM\u00c1TICA DISCRETA 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0137 - SISTEMAS DE BANCO DE DADOS 1",
-      "FGA0398 - MONITORIA EM MATEM\u00c1TICA DISCRETA 2"
+      "FGA0137",
+      "FGA0398"
+    ],
+    "pre_requirements": [
+      "FGA0085",
+      "FGA0159"
     ]
   },
   {
@@ -1008,7 +1363,10 @@
     "nome": "MATERIAIS COMPOSTOS E PL\u00c1STICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0506 - MONITORIA EM MATERIAIS COMPOSTOS E PL\u00c1STICOS"
+      "FGA0506"
+    ],
+    "pre_requirements": [
+      "FGA0075 & FGA0078"
     ]
   },
   {
@@ -1016,9 +1374,12 @@
     "nome": "MATERIAIS DE CONSTRU\u00c7\u00c3O DE ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0180 - PROCESSOS DE FABRICA\u00c7\u00c3O",
-      "ENM0189 - INTRODU\u00c7\u00c3O AOS MATERIAIS INTELIGENTES",
-      "FGA0659 - MONITORIA EM MATERIAIS DE CONSTRU\u00c7\u00c3O DE ENGENHARIA"
+      "FGA0180",
+      "ENM0189",
+      "FGA0659"
+    ],
+    "pre_requirements": [
+      "IQD0051"
     ]
   },
   {
@@ -1026,7 +1387,10 @@
     "nome": "MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0694 - MONITORIA EM MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS PARA ENGENHARIA"
+      "FGA0694"
+    ],
+    "pre_requirements": [
+      "FGA0144"
     ]
   },
   {
@@ -1034,8 +1398,11 @@
     "nome": "MEC\u00c2NICA DE ESTRUTURAS AEROESPACIAIS",
     "ch": 75,
     "post_requirements": [
-      "FGA0385 - MONITORIA EM MEC\u00c2NICA DE ESTRUTURAS AEROESPACIAIS",
-      "FGA0291 - MEC\u00c2NICA DE ESTRUTURAS AERON\u00c1UTICAS"
+      "FGA0385",
+      "FGA0291"
+    ],
+    "pre_requirements": [
+      "FGA0179"
     ]
   },
   {
@@ -1043,7 +1410,10 @@
     "nome": "MEC\u00c2NICA DE ESTRUTURAS AERON\u00c1UTICAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0785 - MONITORIA EM MEC\u00c2NICA DE ESTRUTURAS AERON\u00c1UTICAS"
+      "FGA0785"
+    ],
+    "pre_requirements": [
+      "FGA0039"
     ]
   },
   {
@@ -1051,7 +1421,11 @@
     "nome": "MEC\u00c2NICA DOS MATERIAIS COMP\u00d3SITOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0446 - MONITORIA EM MEC\u00c2NICA DOS MATERIAIS COMP\u00d3SITOS"
+      "FGA0446"
+    ],
+    "pre_requirements": [
+      "FGA0179",
+      "FGA0178"
     ]
   },
   {
@@ -1059,9 +1433,12 @@
     "nome": "MECANICA DOS S\u00d3LIDOS 1 PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0023 - DIN\u00c2MICA DOS MECANISMOS",
-      "FGA0179 - MECANICA DOS S\u00d3LIDOS 2 PARA ENGENHARIA",
-      "FGA0409 - MONITORIA EM MECANICA DOS S\u00d3LIDOS 1 PARA ENGENHARIA"
+      "FGA0023",
+      "FGA0179",
+      "FGA0409"
+    ],
+    "pre_requirements": [
+      "IFD0171"
     ]
   },
   {
@@ -1069,13 +1446,16 @@
     "nome": "MECANICA DOS S\u00d3LIDOS 2 PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0039 - MEC\u00c2NICA DE ESTRUTURAS AEROESPACIAIS",
-      "FGA0190 - PROJETO DE ELEMENTOS AUTOMOTIVOS",
-      "FGA0229 - AN\u00c1LISE ESTRUTURAL M\u00c9TODO DOS ELEMENTOS FINITOS",
-      "FGA0230 - DIN\u00c2MICA DE VE\u00cdCULOS",
-      "FGA0266 - AC\u00daSTICA E VIBRA\u00c7\u00d5ES VEICULARES",
-      "FGA0283 - MEC\u00c2NICA DOS MATERIAIS COMP\u00d3SITOS",
-      "FGA0503 - MONITORIA EM MECANICA DOS S\u00d3LIDOS 2 PARA ENGENHARIA"
+      "FGA0039",
+      "FGA0190",
+      "FGA0229",
+      "FGA0230",
+      "FGA0266",
+      "FGA0283",
+      "FGA0503"
+    ],
+    "pre_requirements": [
+      "FGA0154"
     ]
   },
   {
@@ -1083,8 +1463,11 @@
     "nome": "MEC\u00c2NICA DO V\u00d4O",
     "ch": 60,
     "post_requirements": [
-      "FGA0048 - MEC\u00c2NICA DO VOO ESPACIAL",
-      "FGA0455 - MONITORIA EM MEC\u00c2NICA DO V\u00d4O"
+      "FGA0048",
+      "FGA0455"
+    ],
+    "pre_requirements": [
+      "FGA0008 & FGA0038"
     ]
   },
   {
@@ -1092,7 +1475,10 @@
     "nome": "MEC\u00c2NICA DO VOO ESPACIAL",
     "ch": 60,
     "post_requirements": [
-      "FGA0457 - MONITORIA EM MEC\u00c2NICA DO VOO ESPACIAL"
+      "FGA0457"
+    ],
+    "pre_requirements": [
+      "FGA0045"
     ]
   },
   {
@@ -1100,7 +1486,10 @@
     "nome": "MEDI\u00c7\u00c3O E AN\u00c1LISE",
     "ch": 60,
     "post_requirements": [
-      "FGA0714 - MONITORIA EM MEDI\u00c7\u00c3O E AN\u00c1LISE"
+      "FGA0714"
+    ],
+    "pre_requirements": [
+      "FGA0138"
     ]
   },
   {
@@ -1108,7 +1497,11 @@
     "nome": "MELHORIA DE PROCESSOS DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0433 - MONITORIA EM MELHORIA DE PROCESSOS DE SOFTWARE"
+      "FGA0433"
+    ],
+    "pre_requirements": [
+      "FGA0237",
+      "FGA0238"
     ]
   },
   {
@@ -1116,29 +1509,36 @@
     "nome": "M\u00c9TODOS DE DESENVOLVIMENTO DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0172 - REQUISITOS DE SOFTWARE",
-      "FGA0173 - INTERA\u00c7\u00c3O HUMANO COMPUTADOR",
-      "FGA0209 - MEDI\u00c7\u00c3O E AN\u00c1LISE",
-      "FGA0238 - TESTES DE SOFTWARE",
-      "FGA0245 - GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O DE SOFTWARE",
-      "FGA0275 - ENGENHARIA DE SOFTWARE EXPERIMENTAL",
-      "FGA0404 - MONITORIA EM M\u00c9TODOS DE DESENVOLVIMENTO DE SOFTWARE"
+      "FGA0172",
+      "FGA0173",
+      "FGA0209",
+      "FGA0238",
+      "FGA0245",
+      "FGA0275",
+      "FGA0404"
+    ],
+    "pre_requirements": [
+      "FGA0158"
     ]
   },
   {
     "cod": "FGA0046",
     "nome": "M\u00c9TODOS E T\u00c9CNICAS DA ESCRITA CIENT\u00cdFICA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0188",
     "nome": "M\u00c9TODOS EXPERIMENTAIS PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0232 - INTEGRA\u00c7\u00c3O E TESTES",
-      "FGA0233 - SENSORES E TRANSDUTORES",
-      "FGA0504 - MONITORIA EM M\u00c9TODOS EXPERIMENTAIS PARA ENGENHARIA"
+      "FGA0232",
+      "FGA0233",
+      "FGA0504"
+    ],
+    "pre_requirements": [
+      "IFD0173"
     ]
   },
   {
@@ -1146,7 +1546,10 @@
     "nome": "M\u00c9TODOS FORMAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0742 - MONITORIA EM M\u00c9TODOS FORMAIS"
+      "FGA0742"
+    ],
+    "pre_requirements": [
+      "FGA0159 & FGA0171 & FGA0138"
     ]
   },
   {
@@ -1154,14 +1557,17 @@
     "nome": "M\u00c9TODOS MATEM\u00c1TICOS PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0086 - TEORIA DE ELETRICIDADE APLICADA",
-      "FGA0087 - LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
-      "FGA0092 - PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O PARA ENGENHARIA",
-      "FGA0093 - PRINC\u00cdPIOS DE CONTROLE",
-      "FGA0197 - SISTEMAS DE CONTROLE",
-      "FGA0199 - PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O",
-      "FGA0219 - PROCESSAMENTO DE SINAIS",
-      "FGA0697 - MONITORIA EM M\u00c9TODOS MATEM\u00c1TICOS PARA ENGENHARIA"
+      "FGA0086",
+      "FGA0087",
+      "FGA0092",
+      "FGA0093",
+      "FGA0197",
+      "FGA0199",
+      "FGA0219",
+      "FGA0697"
+    ],
+    "pre_requirements": [
+      "MAT0027"
     ]
   },
   {
@@ -1169,8 +1575,11 @@
     "nome": "M\u00c9TODOS NUM\u00c9RICOS PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0249 - DESENVOLVIMENTO AVAN\u00c7ADO DE SOFTWARE",
-      "FGA0414 - MONITORIA EM M\u00c9TODOS NUM\u00c9RICOS PARA ENGENHARIA"
+      "FGA0249",
+      "FGA0414"
+    ],
+    "pre_requirements": [
+      "MAT0026"
     ]
   },
   {
@@ -1178,11 +1587,16 @@
     "nome": "MICROPROCESSADORES E MICROCONTROLADORES",
     "ch": 60,
     "post_requirements": [
-      "FGA0103 - SISTEMAS OPERACIONAIS EMBARCADOS",
-      "FGA0170 - FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
-      "FGA0198 - PROJETO COM CIRCUITOS RECONFIGURAVEIS",
-      "FGA0220 - SISTEMAS EMBARCADOS",
-      "FGA0693 - MONITORIA EM MICROPROCESSADORES E MICROCONTROLADORES"
+      "FGA0103",
+      "FGA0170",
+      "FGA0198",
+      "FGA0220",
+      "FGA0693"
+    ],
+    "pre_requirements": [
+      "ENE0278",
+      "FGA0142",
+      "FGA0072 & FGA0074"
     ]
   },
   {
@@ -1190,21 +1604,28 @@
     "nome": "MODELAGEM DE PROCESSOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0717 - MONITORIA EM MODELAGEM DE PROCESSOS"
+      "FGA0717"
+    ],
+    "pre_requirements": [
+      "FGA0184"
     ]
   },
   {
     "cod": "FGA0259",
     "nome": "MODELAGEM DE SISTEMAS BIOL\u00d3GICOS",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0024",
     "nome": "MODELAGEM E SIMULA\u00c7\u00c3O DE SISTEMAS ENERG\u00c9TICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0552 - MONITORIA EM MODELAGEM E SIMULA\u00c7\u00c3O DE SISTEMAS ENERG\u00c9TICOS"
+      "FGA0552"
+    ],
+    "pre_requirements": [
+      "FGA0204 & FGA0186 & FGA0160"
     ]
   },
   {
@@ -1212,7 +1633,10 @@
     "nome": "ONDULAT\u00d3RIA E F\u00cdSICA T\u00c9RMICA PARA ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0478 - MONITORIA EM ONDULAT\u00d3RIA E F\u00cdSICA T\u00c9RMICA PARA ENGENHARIA"
+      "FGA0478"
+    ],
+    "pre_requirements": [
+      "MAT0025 & IFD0171 & IFD0173"
     ]
   },
   {
@@ -1220,9 +1644,13 @@
     "nome": "ORIENTA\u00c7\u00c3O A OBJETOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0138 - M\u00c9TODOS DE DESENVOLVIMENTO DE SOFTWARE",
-      "FGA0171 - T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O",
-      "FGA0413 - MONITORIA EM ORIENTA\u00c7\u00c3O A OBJETOS"
+      "FGA0138",
+      "FGA0171",
+      "FGA0413"
+    ],
+    "pre_requirements": [
+      "CIC0004",
+      "CIC0007"
     ]
   },
   {
@@ -1230,7 +1658,10 @@
     "nome": "PARADIGMAS DE PROGRAMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FGA0426 - MONITORIA EM PARADIGMAS DE PROGRAMA\u00c7\u00c3O"
+      "FGA0426"
+    ],
+    "pre_requirements": [
+      "FGA0158 & FGA0003"
     ]
   },
   {
@@ -1238,7 +1669,10 @@
     "nome": "PLANEJAMENTO E GEST\u00c3O DE ENERGIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0710 - MONITORIA EM PLANEJAMENTO E GEST\u00c3O DE ENERGIA"
+      "FGA0710"
+    ],
+    "pre_requirements": [
+      "FGA0265"
     ]
   },
   {
@@ -1246,7 +1680,11 @@
     "nome": "PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1",
     "ch": 30,
     "post_requirements": [
-      "FGA0391 - MONITORIA EM PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1"
+      "FGA0391"
+    ],
+    "pre_requirements": [
+      "MAT0048",
+      "MAT0026"
     ]
   },
   {
@@ -1254,9 +1692,13 @@
     "nome": "PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 2",
     "ch": 30,
     "post_requirements": [
-      "ENE0019 - T\u00d3PICOS ESPECIAIS EM MICROELETR\u00d4NICA",
-      "ENE0321 - INTRODUCAO AO PROJETO DE CIRCUITOS INTEGRADOS",
-      "FGA0465 - MONITORIA EM PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 2"
+      "ENE0019",
+      "ENE0321",
+      "FGA0465"
+    ],
+    "pre_requirements": [
+      "FGA0196",
+      "FGA0067 & FGA0069 & FGA0101 & FGA0100"
     ]
   },
   {
@@ -1264,7 +1706,10 @@
     "nome": "PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 3",
     "ch": 30,
     "post_requirements": [
-      "FGA0483 - MONITORIA EM PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 3"
+      "FGA0483"
+    ],
+    "pre_requirements": [
+      "FGA0017"
     ]
   },
   {
@@ -1272,11 +1717,14 @@
     "nome": "PR\u00c1TICA DE ELETROMAGNETISMO",
     "ch": 30,
     "post_requirements": [
-      "FGA0489 - MONITORIA EM PR\u00c1TICA DE ELETROMAGNETISMO",
+      "FGA0489",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0119 - TEORIA DE ELETROMAGNETISMO"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0119"
+    ],
+    "pre_requirements": [
+      "IFD0171 & MAT0027"
     ]
   },
   {
@@ -1284,11 +1732,14 @@
     "nome": "PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
     "ch": 30,
     "post_requirements": [
-      "FGA0392 - MONITORIA EM PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
+      "FGA0392",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0073 - TEORIA DE ELETR\u00d4NICA DIGITAL 1"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0073"
+    ],
+    "pre_requirements": [
+      "MAT0031"
     ]
   },
   {
@@ -1296,11 +1747,15 @@
     "nome": "PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 2",
     "ch": 30,
     "post_requirements": [
-      "FGA0466 - MONITORIA EM PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 2",
+      "FGA0466",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0074 - TEORIA DE ELETR\u00d4NICA DIGITAL 2"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0074"
+    ],
+    "pre_requirements": [
+      "ENE0277",
+      "FGA0073 & FGA0071"
     ]
   },
   {
@@ -1308,30 +1763,39 @@
     "nome": "PR\u00c1TICA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS",
     "ch": 30,
     "post_requirements": [
-      "FGA0484 - MONITORIA EM PR\u00c1TICA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS"
+      "FGA0484"
+    ],
+    "pre_requirements": [
+      "FGA0143",
+      "FGA0119 & FGA0120"
     ]
   },
   {
     "cod": "FGA0036",
     "nome": "PR\u00c9-C\u00c1LCULO PARA ENGENHARIA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0010",
     "nome": "PRINC\u00cdPIO DE COMUNICA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0199",
     "nome": "PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ENE0065 - IMAGENS M\u00c9DICAS: AQUISI\u00c7\u00c3O E RECONSTRU\u00c7\u00c3O",
-      "ENE0223 - SISTEMAS DE \u00c1UDIO",
-      "FGA0224 - COMUNICA\u00c7\u00d5ES DIGITAIS PARA ENGENHARIA",
-      "FGA0706 - MONITORIA EM PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O"
+      "ENE0065",
+      "ENE0223",
+      "FGA0224",
+      "FGA0706"
+    ],
+    "pre_requirements": [
+      "FGA0187"
     ]
   },
   {
@@ -1339,8 +1803,12 @@
     "nome": "PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O PARA ENGENHARIA",
     "ch": 75,
     "post_requirements": [
-      "FGA0224 - COMUNICA\u00c7\u00d5ES DIGITAIS PARA ENGENHARIA",
-      "FGA0480 - MONITORIA EM PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O PARA ENGENHARIA"
+      "FGA0224",
+      "FGA0480"
+    ],
+    "pre_requirements": [
+      "FGA0187",
+      "FGA0102 & FGA0067"
     ]
   },
   {
@@ -1348,8 +1816,12 @@
     "nome": "PRINC\u00cdPIOS DE CONTROLE",
     "ch": 75,
     "post_requirements": [
-      "FGA0044 - PROJETO DE SISTEMAS DE CONTROLE",
-      "FGA0395 - MONITORIA EM PRINC\u00cdPIOS DE CONTROLE"
+      "FGA0044",
+      "FGA0395"
+    ],
+    "pre_requirements": [
+      "FGA0187",
+      "FGA0102"
     ]
   },
   {
@@ -1357,7 +1829,10 @@
     "nome": "PRINC\u00cdPIOS DE ROB\u00d3TICA EDUCACIONAL",
     "ch": 60,
     "post_requirements": [
-      "FGA0555 - MONITORIA EM PRINC\u00cdPIOS DE ROB\u00d3TICA EDUCACIONAL"
+      "FGA0555"
+    ],
+    "pre_requirements": [
+      "CIC0007"
     ]
   },
   {
@@ -1365,7 +1840,10 @@
     "nome": "PROBABILIDADE E ESTAT\u00cdSTICA APLICADO A ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0412 - MONITORIA EM PROBABILIDADE E ESTAT\u00cdSTICA APLICADO A ENGENHARIA"
+      "FGA0412"
+    ],
+    "pre_requirements": [
+      "MAT0025"
     ]
   },
   {
@@ -1373,10 +1851,14 @@
     "nome": "PROCESSAMENTO DE SINAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0014 - PROCESSAMENTO DE SINAIS BIOL\u00d3GICOS",
-      "FGA0015 - PROCESSAMENTO DIGITAL DE IMAGENS",
-      "ENE0065 - IMAGENS M\u00c9DICAS: AQUISI\u00c7\u00c3O E RECONSTRU\u00c7\u00c3O",
-      "FGA0512 - MONITORIA EM PROCESSAMENTO DE SINAIS"
+      "FGA0014",
+      "FGA0015",
+      "ENE0065",
+      "FGA0512"
+    ],
+    "pre_requirements": [
+      "FGA0187",
+      "FGA0102"
     ]
   },
   {
@@ -1384,7 +1866,10 @@
     "nome": "PROCESSAMENTO DE SINAIS BIOL\u00d3GICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0544 - MONITORIA EM PROCESSAMENTO DE SINAIS BIOL\u00d3GICOS"
+      "FGA0544"
+    ],
+    "pre_requirements": [
+      "FGA0219"
     ]
   },
   {
@@ -1392,7 +1877,11 @@
     "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
     "ch": 60,
     "post_requirements": [
-      "FGA0450 - MONITORIA EM PROCESSAMENTO DIGITAL DE IMAGENS"
+      "FGA0450"
+    ],
+    "pre_requirements": [
+      "FGA0219",
+      "FGA0102 & FGA0157"
     ]
   },
   {
@@ -1400,35 +1889,47 @@
     "nome": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
     "ch": 60,
     "post_requirements": [
-      "FGA0491 - MONITORIA EM PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS"
+      "FGA0491"
+    ],
+    "pre_requirements": [
+      "FGA0102",
+      "MAT0026 & FGA0157"
     ]
   },
   {
     "cod": "FGA0165",
     "nome": "PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0180",
     "nome": "PROCESSOS DE FABRICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FGA0691 - MONITORIA EM PROCESSOS DE FABRICA\u00c7\u00c3O"
+      "FGA0691"
+    ],
+    "pre_requirements": [
+      "FGA0139"
     ]
   },
   {
     "cod": "FGA0380",
     "nome": "PROCESSOS ESTOC\u00c1STICOS",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0047",
     "nome": "PROCESSOS PETROQU\u00cdMICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0387 - MONITORIA EM PROCESSOS PETROQU\u00cdMICOS"
+      "FGA0387"
+    ],
+    "pre_requirements": [
+      "FGA0156 & FGA0175"
     ]
   },
   {
@@ -1436,7 +1937,10 @@
     "nome": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0530 - MONITORIA EM PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE"
+      "FGA0530"
+    ],
+    "pre_requirements": [
+      "FGA0164 & FGA0206"
     ]
   },
   {
@@ -1444,7 +1948,10 @@
     "nome": "PROGRAMA\u00c7\u00c3O PARA COMPETI\u00c7\u00d5ES",
     "ch": 60,
     "post_requirements": [
-      "FGA0556 - MONITORIA EM PROGRAMA\u00c7\u00c3O PARA COMPETI\u00c7\u00d5ES"
+      "FGA0556"
+    ],
+    "pre_requirements": [
+      "CIC0004"
     ]
   },
   {
@@ -1452,7 +1959,10 @@
     "nome": "PROGRAMA\u00c7\u00c3O PARA SISTEMAS PARALELOS E DISTRIBU\u00cdDOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0520 - MONITORIA EM PROGRAMA\u00c7\u00c3O PARA SISTEMAS PARALELOS E DISTRIBU\u00cdDOS"
+      "FGA0520"
+    ],
+    "pre_requirements": [
+      "FGA0211 & FGA0030"
     ]
   },
   {
@@ -1460,7 +1970,10 @@
     "nome": "PROGRAMA\u00c7\u00c3O WEB",
     "ch": 60,
     "post_requirements": [
-      "FGA0773 - MONITORIA EM PROGRAMA\u00c7\u00c3O WEB"
+      "FGA0773"
+    ],
+    "pre_requirements": [
+      "FGA0137 & FGA0171"
     ]
   },
   {
@@ -1468,7 +1981,11 @@
     "nome": "PROJETO COM CIRCUITOS RECONFIGURAVEIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0705 - MONITORIA EM PROJETO COM CIRCUITOS RECONFIGURAVEIS"
+      "FGA0705"
+    ],
+    "pre_requirements": [
+      "FGA0182",
+      "FGA0096"
     ]
   },
   {
@@ -1476,7 +1993,10 @@
     "nome": "PROJETO DE ALGORITMOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0401 - MONITORIA EM PROJETO DE ALGORITMOS"
+      "FGA0401"
+    ],
+    "pre_requirements": [
+      "FGA0147"
     ]
   },
   {
@@ -1484,8 +2004,13 @@
     "nome": "PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0280 - PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 2",
-      "FGA0720 - MONITORIA EM PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 1"
+      "FGA0280",
+      "FGA0720"
+    ],
+    "pre_requirements": [
+      "FGA0196",
+      "ENE0181",
+      "FGA0067 & FGA0069"
     ]
   },
   {
@@ -1493,7 +2018,11 @@
     "nome": "PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0445 - MONITORIA EM PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 2"
+      "FGA0445"
+    ],
+    "pre_requirements": [
+      "FGA0215",
+      "FGA0017"
     ]
   },
   {
@@ -1501,7 +2030,11 @@
     "nome": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0441 - MONITORIA EM PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS"
+      "FGA0441"
+    ],
+    "pre_requirements": [
+      "ENE0278",
+      "FGA0074 & FGA0072"
     ]
   },
   {
@@ -1509,8 +2042,11 @@
     "nome": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
     "ch": 90,
     "post_requirements": [
-      "FGA0228 - PROJETO DE SISTEMAS AUTOMOTIVOS",
-      "FGA0505 - MONITORIA EM PROJETO DE ELEMENTOS AUTOMOTIVOS"
+      "FGA0228",
+      "FGA0505"
+    ],
+    "pre_requirements": [
+      "FGA0179"
     ]
   },
   {
@@ -1518,23 +2054,30 @@
     "nome": "PROJETO DE ESTRUTURAS DE VEICULOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0271 - PROJETO DE VE\u00cdCULOS",
-      "FGA0528 - MONITORIA EM PROJETO DE ESTRUTURAS DE VEICULOS"
+      "FGA0271",
+      "FGA0528"
+    ],
+    "pre_requirements": [
+      "FGA0228"
     ]
   },
   {
     "cod": "FGA0256",
     "nome": "PROJETO DE SENSORES",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0049",
     "nome": "PROJETO DE SISTEMAS AEROESPACIAIS",
     "ch": 90,
     "post_requirements": [
-      "FGA0082 - ENGENHARIA DE SISTEMAS AEROESPACIAIS",
-      "FGA0575 - MONITORIA EM PROJETO DE SISTEMAS AEROESPACIAIS"
+      "FGA0082",
+      "FGA0575"
+    ],
+    "pre_requirements": [
+      "FGA0038 & FGA0045"
     ]
   },
   {
@@ -1542,9 +2085,12 @@
     "nome": "PROJETO DE SISTEMAS AUTOMOTIVOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0267 - PROJETO DE ESTRUTURAS DE VEICULOS",
-      "FGA0427 - MONITORIA EM PROJETO DE SISTEMAS AUTOMOTIVOS"
+      "FGA0250",
+      "FGA0267",
+      "FGA0427"
+    ],
+    "pre_requirements": [
+      "FGA0190"
     ]
   },
   {
@@ -1552,8 +2098,12 @@
     "nome": "PROJETO DE SISTEMAS DE CONTROLE",
     "ch": 60,
     "post_requirements": [
-      "FGA0080 - CONTROLE DE SISTEMAS AEROESPACIAIS",
-      "FGA0570 - MONITORIA EM PROJETO DE SISTEMAS DE CONTROLE"
+      "FGA0080",
+      "FGA0570"
+    ],
+    "pre_requirements": [
+      "FGA0197",
+      "FGA0093"
     ]
   },
   {
@@ -1561,7 +2111,10 @@
     "nome": "PROJETO DE SISTEMAS DE OBSERVA\u00c7\u00c3O DA TERRA",
     "ch": 60,
     "post_requirements": [
-      "FGA0586 - MONITORIA EM PROJETO DE SISTEMAS DE OBSERVA\u00c7\u00c3O DA TERRA"
+      "FGA0586"
+    ],
+    "pre_requirements": [
+      "MAT0027"
     ]
   },
   {
@@ -1569,30 +2122,49 @@
     "nome": "PROJETO DE VE\u00cdCULOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0766 - MONITORIA EM PROJETO DE VE\u00cdCULOS"
+      "FGA0766"
+    ],
+    "pre_requirements": [
+      "FGA0267"
     ]
   },
   {
     "cod": "FGA0020",
     "nome": "PROJETO E AN\u00c1LISE DE ALGORITMO",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0150",
     "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0497 - MONITORIA EM PROJETO INTEGRADOR DE ENGENHARIA 1"
-    ]
+      "FGA0250",
+      "FGA0497"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0250",
     "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
     "ch": 90,
     "post_requirements": [
-      "FGA0522 - MONITORIA EM PROJETO INTEGRADOR DE ENGENHARIA 2"
+      "FGA0522"
+    ],
+    "pre_requirements": [
+      "FGA0150",
+      "ENM0071",
+      "ENE0130",
+      "FGA0230",
+      "FGA0228",
+      "FGA0226",
+      "FGA0217",
+      "FGA0218",
+      "FGA0220",
+      "FGA0206",
+      "FGA0088 & FGA0089",
+      "FGA0103"
     ]
   },
   {
@@ -1600,10 +2172,15 @@
     "nome": "PROJETOS DE CIRCUITOS INTEGRADOS 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0098 - PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 3",
-      "FGA0099 - TEORIA DE CIRCUITOS ELETR\u00d4NICOS 3",
-      "FGA0280 - PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 2",
-      "FGA0382 - MONITORIA EM PROJETOS DE CIRCUITOS INTEGRADOS 1"
+      "FGA0098",
+      "FGA0099",
+      "FGA0280",
+      "FGA0382"
+    ],
+    "pre_requirements": [
+      "ENE0181",
+      "FGA0217",
+      "FGA0068 & FGA0070"
     ]
   },
   {
@@ -1611,8 +2188,11 @@
     "nome": "PROPULS\u00c3O AEROESPACIAL",
     "ch": 90,
     "post_requirements": [
-      "FGA0064 - PROPULS\u00c3O QU\u00cdMICA",
-      "FGA0458 - MONITORIA EM PROPULS\u00c3O AEROESPACIAL"
+      "FGA0064",
+      "FGA0458"
+    ],
+    "pre_requirements": [
+      "FGA0043 & ENM0071"
     ]
   },
   {
@@ -1620,7 +2200,10 @@
     "nome": "PROPULS\u00c3O AERON\u00c1UTICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0462 - MONITORIA EM PROPULS\u00c3O AERON\u00c1UTICA"
+      "FGA0462"
+    ],
+    "pre_requirements": [
+      "FGA0043 & ENM0071"
     ]
   },
   {
@@ -1628,7 +2211,10 @@
     "nome": "PROPULS\u00c3O EL\u00c9TRICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0463 - MONITORIA EM PROPULS\u00c3O EL\u00c9TRICA"
+      "FGA0463"
+    ],
+    "pre_requirements": [
+      "FGA0052 & FGA0143"
     ]
   },
   {
@@ -1636,7 +2222,10 @@
     "nome": "PROPULS\u00c3O QU\u00cdMICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0588 - MONITORIA EM PROPULS\u00c3O QU\u00cdMICA"
+      "FGA0588"
+    ],
+    "pre_requirements": [
+      "FGA0052"
     ]
   },
   {
@@ -1644,8 +2233,11 @@
     "nome": "QUALIDADE DE SOFTWARE 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0112 - QUALIDADE DE SOFTWARE 2",
-      "FGA0434 - MONITORIA EM QUALIDADE DE SOFTWARE 1"
+      "FGA0112",
+      "FGA0434"
+    ],
+    "pre_requirements": [
+      "FGA0184 & FGA0173"
     ]
   },
   {
@@ -1653,7 +2245,10 @@
     "nome": "QUALIDADE DE SOFTWARE 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0634 - MONITORIA EM QUALIDADE DE SOFTWARE 2"
+      "FGA0634"
+    ],
+    "pre_requirements": [
+      "FGA0278"
     ]
   },
   {
@@ -1661,9 +2256,12 @@
     "nome": "QU\u00cdMICA ORG\u00c2NICA APLICADA \u00c0 ENGENHARIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0156 - COMBUST\u00cdVEIS E BIOCOMBUST\u00cdVEIS",
-      "FGA0175 - ENGENHARIA DE PETR\u00d3LEO E G\u00c1S",
-      "FGA0397 - MONITORIA EM QU\u00cdMICA ORG\u00c2NICA APLICADA \u00c0 ENGENHARIA"
+      "FGA0156",
+      "FGA0175",
+      "FGA0397"
+    ],
+    "pre_requirements": [
+      "IQD0125 & IQD0126"
     ]
   },
   {
@@ -1671,7 +2269,10 @@
     "nome": "REGULA\u00c7\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO",
     "ch": 60,
     "post_requirements": [
-      "FGA0492 - MONITORIA EM REGULA\u00c7\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO"
+      "FGA0492"
+    ],
+    "pre_requirements": [
+      "FGA0141"
     ]
   },
   {
@@ -1679,10 +2280,13 @@
     "nome": "REQUISITOS DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0004 - T\u00c9CNICAS DE MEDI\u00c7\u00c3O FUNCIONAL E ESTIMATIVAS DE SOFTWARE",
-      "FGA0026 - FUNDAMENTOS DE ARQUITETURA DE SOFTWARE",
-      "FGA0208 - ARQUITETURA E DESENHO DE SOFTWARE",
-      "FGA0420 - MONITORIA EM REQUISITOS DE SOFTWARE"
+      "FGA0004",
+      "FGA0026",
+      "FGA0208",
+      "FGA0420"
+    ],
+    "pre_requirements": [
+      "FGA0138"
     ]
   },
   {
@@ -1690,7 +2294,11 @@
     "nome": "SEMIN\u00c1RIOS EM ENGENHARIA DE SOFTWARE",
     "ch": 30,
     "post_requirements": [
-      "FGA0558 - MONITORIA EM SEMIN\u00c1RIOS EM ENGENHARIA DE SOFTWARE"
+      "FGA0558"
+    ],
+    "pre_requirements": [
+      "CIC0007",
+      "CIC0088"
     ]
   },
   {
@@ -1698,7 +2306,11 @@
     "nome": "SENSORES E TRANSDUTORES",
     "ch": 60,
     "post_requirements": [
-      "FGA0516 - MONITORIA EM SENSORES E TRANSDUTORES"
+      "FGA0516"
+    ],
+    "pre_requirements": [
+      "FGA0188",
+      "FGA0218"
     ]
   },
   {
@@ -1706,11 +2318,16 @@
     "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
     "ch": 90,
     "post_requirements": [
-      "CIC0196 - PROCESSAMENTO DE SINAIS MULTIM\u00cdDIA",
-      "FGA0093 - PRINC\u00cdPIOS DE CONTROLE",
-      "FGA0129 - PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
-      "FGA0219 - PROCESSAMENTO DE SINAIS",
-      "FGA0486 - MONITORIA EM SINAIS E SISTEMAS PARA ENGENHARIA"
+      "CIC0196",
+      "FGA0093",
+      "FGA0129",
+      "FGA0219",
+      "FGA0486"
+    ],
+    "pre_requirements": [
+      "MAT0027 & CIC0004",
+      "MAT0027 & CIC0088",
+      "MAT0027 & CIC0007"
     ]
   },
   {
@@ -1718,21 +2335,28 @@
     "nome": "SISTEMAS AEROESPACIAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0449 - MONITORIA EM SISTEMAS AEROESPACIAIS"
+      "FGA0449"
+    ],
+    "pre_requirements": [
+      "IFD0171 & FGA0254"
     ]
   },
   {
     "cod": "FGA0167",
     "nome": "SISTEMAS AUTOMOTIVOS",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0213",
     "nome": "SISTEMAS CR\u00cdTICOS E TOLER\u00c2NCIA A FALHAS",
     "ch": 60,
     "post_requirements": [
-      "FGA0718 - MONITORIA EM SISTEMAS CR\u00cdTICOS E TOLER\u00c2NCIA A FALHAS"
+      "FGA0718"
+    ],
+    "pre_requirements": [
+      "CIC0007 & ENE0277"
     ]
   },
   {
@@ -1740,10 +2364,14 @@
     "nome": "SISTEMAS DE BANCO DE DADOS 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0060 - SISTEMAS DE BANCO DE DADOS 2",
-      "FGA0111 - INTRODU\u00c7\u00c3O \u00c0 WEB SEM\u00c2NTICA",
-      "FGA0276 - COMPUTA\u00c7\u00c3O EM NUVEM",
-      "FGA0403 - MONITORIA EM SISTEMAS DE BANCO DE DADOS 1"
+      "FGA0060",
+      "FGA0111",
+      "FGA0276",
+      "FGA0403"
+    ],
+    "pre_requirements": [
+      "FGA0159",
+      "FGA0108"
     ]
   },
   {
@@ -1751,7 +2379,10 @@
     "nome": "SISTEMAS DE BANCO DE DADOS 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0389 - MONITORIA EM SISTEMAS DE BANCO DE DADOS 2"
+      "FGA0389"
+    ],
+    "pre_requirements": [
+      "FGA0137"
     ]
   },
   {
@@ -1759,24 +2390,31 @@
     "nome": "SISTEMAS DE CONTROLE",
     "ch": 60,
     "post_requirements": [
-      "ENM0001 - CONTROLE DE SISTEMAS MAR\u00cdTIMOS",
-      "FGA0044 - PROJETO DE SISTEMAS DE CONTROLE",
-      "ENE0167 - CONTROLE DIGITAL",
-      "FGA0509 - MONITORIA EM SISTEMAS DE CONTROLE"
+      "ENM0001",
+      "FGA0044",
+      "ENE0167",
+      "FGA0509"
+    ],
+    "pre_requirements": [
+      "FGA0187"
     ]
   },
   {
     "cod": "FGA0012",
     "nome": "SISTEMAS DE CONTROLE",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0040",
     "nome": "SISTEMAS DE CONTROLE AUTOMOTIVO",
     "ch": 60,
     "post_requirements": [
-      "FGA0454 - MONITORIA EM SISTEMAS DE CONTROLE AUTOMOTIVO"
+      "FGA0454"
+    ],
+    "pre_requirements": [
+      "FGA0230"
     ]
   },
   {
@@ -1784,21 +2422,28 @@
     "nome": "SISTEMAS DE ENERGIA SOLAR E E\u00d3LICA",
     "ch": 60,
     "post_requirements": [
-      "FGA0451 - MONITORIA EM SISTEMAS DE ENERGIA SOLAR E E\u00d3LICA"
+      "FGA0451"
+    ],
+    "pre_requirements": [
+      "FGA0086 & FGA0087"
     ]
   },
   {
     "cod": "FGA0118",
     "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O GEOGR\u00c1FICA PARA ENGENHARIA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0248",
     "nome": "SISTEMAS DE PROPULS\u00c3O H\u00cdBRIDOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0744 - MONITORIA EM SISTEMAS DE PROPULS\u00c3O H\u00cdBRIDOS"
+      "FGA0744"
+    ],
+    "pre_requirements": [
+      "ENM0080"
     ]
   },
   {
@@ -1806,7 +2451,10 @@
     "nome": "SISTEMAS DE PROPULS\u00c3O LIQUIDA",
     "ch": 60,
     "post_requirements": [
-      "FGA0775 - MONITORIA EM SISTEMAS DE PROPULS\u00c3O LIQUIDA"
+      "FGA0775"
+    ],
+    "pre_requirements": [
+      "FGA0043"
     ]
   },
   {
@@ -1814,7 +2462,10 @@
     "nome": "SISTEMAS DE PROPULS\u00c3O S\u00d3LIDA E H\u00cdBRIDA",
     "ch": 60,
     "post_requirements": [
-      "FGA0448 - MONITORIA EM SISTEMAS DE PROPULS\u00c3O S\u00d3LIDA E H\u00cdBRIDA"
+      "FGA0448"
+    ],
+    "pre_requirements": [
+      "FGA0043"
     ]
   },
   {
@@ -1822,8 +2473,12 @@
     "nome": "SISTEMAS EMBARCADOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0724 - MONITORIA EM SISTEMAS EMBARCADOS"
+      "FGA0250",
+      "FGA0724"
+    ],
+    "pre_requirements": [
+      "FGA0182",
+      "FGA0170"
     ]
   },
   {
@@ -1831,7 +2486,10 @@
     "nome": "SISTEMAS HIDR\u00c1ULICOS E PNEUM\u00c1TICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0529 - MONITORIA EM SISTEMAS HIDR\u00c1ULICOS E PNEUM\u00c1TICOS"
+      "FGA0529"
+    ],
+    "pre_requirements": [
+      "ENM0080"
     ]
   },
   {
@@ -1839,7 +2497,10 @@
     "nome": "SISTEMAS HIDROEL\u00c9TRICOS",
     "ch": 75,
     "post_requirements": [
-      "FGA0523 - MONITORIA EM SISTEMAS HIDROEL\u00c9TRICOS"
+      "FGA0523"
+    ],
+    "pre_requirements": [
+      "FGA0091"
     ]
   },
   {
@@ -1847,8 +2508,13 @@
     "nome": "SISTEMAS OPERACIONAIS EMBARCADOS",
     "ch": 90,
     "post_requirements": [
-      "FGA0250 - PROJETO INTEGRADOR DE ENGENHARIA 2",
-      "FGA0487 - MONITORIA EM SISTEMAS OPERACIONAIS EMBARCADOS"
+      "FGA0250",
+      "FGA0487"
+    ],
+    "pre_requirements": [
+      "FGA0096",
+      "FGA0182",
+      "FGA0170"
     ]
   },
   {
@@ -1856,7 +2522,10 @@
     "nome": "T\u00c9CNICAS DE MEDI\u00c7\u00c3O FUNCIONAL E ESTIMATIVAS DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0438 - MONITORIA EM T\u00c9CNICAS DE MEDI\u00c7\u00c3O FUNCIONAL E ESTIMATIVAS DE SOFTWARE"
+      "FGA0438"
+    ],
+    "pre_requirements": [
+      "FGA0172"
     ]
   },
   {
@@ -1864,8 +2533,11 @@
     "nome": "T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FGA0206 - ENGENHARIA DE PRODUTO DE SOFTWARE",
-      "FGA0684 - MONITORIA EM T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O"
+      "FGA0206",
+      "FGA0684"
+    ],
+    "pre_requirements": [
+      "FGA0158"
     ]
   },
   {
@@ -1873,8 +2545,11 @@
     "nome": "T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O EM PLATAFORMAS EMERGENTES",
     "ch": 60,
     "post_requirements": [
-      "FGA0206 - ENGENHARIA DE PRODUTO DE SOFTWARE",
-      "FGA0519 - MONITORIA EM T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O EM PLATAFORMAS EMERGENTES"
+      "FGA0206",
+      "FGA0519"
+    ],
+    "pre_requirements": [
+      "FGA0208 & FGA0238"
     ]
   },
   {
@@ -1882,7 +2557,10 @@
     "nome": "TECNOLOGIAS DE FABRICA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0460 - MONITORIA EM TECNOLOGIAS DE FABRICA\u00c7\u00c3O 1"
+      "FGA0460"
+    ],
+    "pre_requirements": [
+      "FGA0078 & FGA0075"
     ]
   },
   {
@@ -1890,7 +2568,10 @@
     "nome": "TECNOLOGIAS DE FABRICA\u00c7\u00c3O 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0461 - MONITORIA EM TECNOLOGIAS DE FABRICA\u00c7\u00c3O 2"
+      "FGA0461"
+    ],
+    "pre_requirements": [
+      "FGA0078 & FGA0075"
     ]
   },
   {
@@ -1898,7 +2579,11 @@
     "nome": "TEORIA DE CIRCUITOS ELETR\u00d4NICOS 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0390 - MONITORIA EM TEORIA DE CIRCUITOS ELETR\u00d4NICOS 1"
+      "FGA0390"
+    ],
+    "pre_requirements": [
+      "MAT0048",
+      "MAT0026"
     ]
   },
   {
@@ -1906,10 +2591,14 @@
     "nome": "TEORIA DE CIRCUITOS ELETR\u00d4NICOS 2",
     "ch": 60,
     "post_requirements": [
-      "ENE0019 - T\u00d3PICOS ESPECIAIS EM MICROELETR\u00d4NICA",
-      "FGA0097 - ELETR\u00d4NICA DE R\u00c1DIO FREQU\u00caNCIA",
-      "ENE0321 - INTRODUCAO AO PROJETO DE CIRCUITOS INTEGRADOS",
-      "FGA0464 - MONITORIA EM TEORIA DE CIRCUITOS ELETR\u00d4NICOS 2"
+      "ENE0019",
+      "FGA0097",
+      "ENE0321",
+      "FGA0464"
+    ],
+    "pre_requirements": [
+      "FGA0196",
+      "FGA0067 & FGA0069 & FGA0101 & FGA0100"
     ]
   },
   {
@@ -1917,7 +2606,10 @@
     "nome": "TEORIA DE CIRCUITOS ELETR\u00d4NICOS 3",
     "ch": 60,
     "post_requirements": [
-      "FGA0396 - MONITORIA EM TEORIA DE CIRCUITOS ELETR\u00d4NICOS 3"
+      "FGA0396"
+    ],
+    "pre_requirements": [
+      "FGA0017"
     ]
   },
   {
@@ -1925,7 +2617,11 @@
     "nome": "TEORIA DE ELETRICIDADE APLICADA",
     "ch": 60,
     "post_requirements": [
-      "FGA0474 - MONITORIA EM TEORIA DE ELETRICIDADE APLICADA"
+      "FGA0474"
+    ],
+    "pre_requirements": [
+      "FGA0187",
+      "FGA0067 & FGA0069"
     ]
   },
   {
@@ -1933,11 +2629,14 @@
     "nome": "TEORIA DE ELETROMAGNETISMO",
     "ch": 60,
     "post_requirements": [
-      "FGA0400 - MONITORIA EM TEORIA DE ELETROMAGNETISMO",
+      "FGA0400",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0120 - PR\u00c1TICA DE ELETROMAGNETISMO"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0120"
+    ],
+    "pre_requirements": [
+      "IFD0171 & MAT0027"
     ]
   },
   {
@@ -1945,11 +2644,14 @@
     "nome": "TEORIA DE ELETR\u00d4NICA DIGITAL 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0393 - MONITORIA EM TEORIA DE ELETR\u00d4NICA DIGITAL 1",
+      "FGA0393",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0071 - PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0071"
+    ],
+    "pre_requirements": [
+      "MAT0031"
     ]
   },
   {
@@ -1957,11 +2659,15 @@
     "nome": "TEORIA DE ELETR\u00d4NICA DIGITAL 2",
     "ch": 60,
     "post_requirements": [
-      "FGA0467 - MONITORIA EM TEORIA DE ELETR\u00d4NICA DIGITAL 2",
+      "FGA0467",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0072 - PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 2"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0072"
+    ],
+    "pre_requirements": [
+      "ENE0277",
+      "FGA0073 & FGA0071"
     ]
   },
   {
@@ -1969,7 +2675,11 @@
     "nome": "TEORIA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0485 - MONITORIA EM TEORIA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS"
+      "FGA0485"
+    ],
+    "pre_requirements": [
+      "FGA0143",
+      "FGA0119 & FGA0120"
     ]
   },
   {
@@ -1977,11 +2687,15 @@
     "nome": "TEORIA DE MATERIAIS DE CONSTRU\u00c7\u00c3O",
     "ch": 45,
     "post_requirements": [
-      "FGA0471 - MONITORIA EM TEORIA DE MATERIAIS DE CONSTRU\u00c7\u00c3O",
+      "FGA0471",
       "",
       "",
-      "Outros componentes que t\u00eam esse componente como co-requisito",
-      "FGA0075 - LABORAT\u00d3RIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O"
+      "Outros componentes que t\u00eam esse componente como co",
+      "FGA0075"
+    ],
+    "pre_requirements": [
+      "IQD0051",
+      "IQD0125 & IQD0126"
     ]
   },
   {
@@ -1989,7 +2703,11 @@
     "nome": "TEORIA DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0476 - MONITORIA EM TEORIA DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA"
+      "FGA0476"
+    ],
+    "pre_requirements": [
+      "FGA0186",
+      "FGA0086 & FGA0087"
     ]
   },
   {
@@ -1997,93 +2715,115 @@
     "nome": "TESTES DE SOFTWARE",
     "ch": 60,
     "post_requirements": [
-      "FGA0240 - GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O E EVOLU\u00c7\u00c3O DE SOFTWARE",
-      "FGA0273 - MELHORIA DE PROCESSOS DE SOFTWARE",
-      "FGA0429 - MONITORIA EM TESTES DE SOFTWARE"
+      "FGA0240",
+      "FGA0273",
+      "FGA0429"
+    ],
+    "pre_requirements": [
+      "FGA0138"
     ]
   },
   {
     "cod": "FGA0260",
     "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM ELETROMAGNETISMO APLICADO",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0019",
     "nome": "T\u00d3PICOS EM SISTEMAS DE COMPUTA\u00c7\u00c3O DE ALTO DESEMPENHO",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0235",
     "nome": "T\u00d3PICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA",
     "ch": 60,
     "post_requirements": [
-      "FGA0517 - MONITORIA EM T\u00d3PICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA"
-    ]
+      "FGA0517"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0105",
     "nome": "T\u00d3PICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0106",
     "nome": "T\u00d3PICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0121",
     "nome": "T\u00d3PICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0134",
     "nome": "T\u00d3PICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0261",
     "nome": "T\u00d3PICOS ESPECIAIS EM ELETRONICA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0037",
     "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0214",
     "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0033",
     "nome": "T\u00d3PICOS ESPECIAIS EM F\u00cdSICA APLICADA",
     "ch": 30,
     "post_requirements": [
-      "FGA0559 - MONITORIA EM T\u00d3PICOS ESPECIAIS EM F\u00cdSICA APLICADA"
+      "FGA0559"
+    ],
+    "pre_requirements": [
+      "IFD0171 & MAT0048",
+      "MAT0026"
     ]
   },
   {
     "cod": "FGA0054",
     "nome": "T\u00d3PICOS ESPECIAIS EM GOVERNAN\u00c7A DE TECNOLOGIA DA INFORMA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0041",
     "nome": "T\u00d3PICOS ESPECIAIS EM JOGOS DIGITAIS",
     "ch": 60,
     "post_requirements": [
-      "FGA0567 - MONITORIA EM T\u00d3PICOS ESPECIAIS EM JOGOS DIGITAIS"
+      "FGA0567"
+    ],
+    "pre_requirements": [
+      "CIC0007",
+      "CIC0088"
     ]
   },
   {
@@ -2091,45 +2831,60 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM MATEM\u00c1TICA APLICADA",
     "ch": 60,
     "post_requirements": [
-      "FGA0560 - MONITORIA EM T\u00d3PICOS ESPECIAIS EM MATEM\u00c1TICA APLICADA"
+      "FGA0560"
+    ],
+    "pre_requirements": [
+      "MAT0048",
+      "MAT0026"
     ]
   },
   {
     "cod": "FGA0053",
     "nome": "T\u00d3PICOS ESPECIAIS EM PROGRAMA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0042",
     "nome": "T\u00d3PICOS ESPECIAIS EM SISTEMAS CR\u00cdTICOS",
     "ch": 60,
     "post_requirements": [
-      "FGA0568 - MONITORIA EM T\u00d3PICOS ESPECIAIS EM SISTEMAS CR\u00cdTICOS"
+      "FGA0568"
+    ],
+    "pre_requirements": [
+      "CIC0007",
+      "CIC0088"
     ]
   },
   {
     "cod": "FGA0016",
     "nome": "T\u00d3PICOS ESPECIAL EM INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA",
     "ch": 60,
-    "post_requirements": []
+    "post_requirements": [],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0009",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
     "ch": 60,
     "post_requirements": [
-      "FGA0011 - TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
-      "FGA0290 - TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
-      "FGA0539 - MONITORIA EM TRABALHO DE CONCLUS\u00c3O DE CURSO 1"
-    ]
+      "FGA0011",
+      "FGA0290",
+      "FGA0539"
+    ],
+    "pre_requirements": []
   },
   {
     "cod": "FGA0011",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
     "ch": 90,
     "post_requirements": [
-      "FGA0541 - MONITORIA EM TRABALHO DE CONCLUS\u00c3O DE CURSO 2"
+      "FGA0541"
+    ],
+    "pre_requirements": [
+      "FGA0287",
+      "FGA0009"
     ]
   },
   {
@@ -2137,8 +2892,11 @@
     "nome": "TRANSMISS\u00c3O E DISTRIBUI\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA",
     "ch": 75,
     "post_requirements": [
-      "FGA0035 - AN\u00c1LISE DE SISTEMAS DE ENERGIA EL\u00c9TRICA",
-      "FGA0432 - MONITORIA EM TRANSMISS\u00c3O E DISTRIBUI\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA"
+      "FGA0035",
+      "FGA0432"
+    ],
+    "pre_requirements": [
+      "FGA0086 & FGA0087"
     ]
   }
 ]

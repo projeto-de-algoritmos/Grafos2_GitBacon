@@ -1,0 +1,51 @@
+[
+  {
+    "cod": "CBH0001",
+    "nome": "BIO\u00c9TICA E BIOTECNOCI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CBH0002",
+    "nome": "BIO\u00c9TICA E BIOTECNOCI\u00caNCIAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CBH0004",
+    "nome": "BIO\u00c9TICA E SA\u00daDE P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CBH0006",
+    "nome": "DECOLONIZING CLASSICS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CBH0008",
+    "nome": "\u00c9TICAS ANTIGAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CBH0005",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 BIO\u00c9TICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CBH0007",
+    "nome": "ORIGENS PLURAIS DO PENSAMENTO OCIDENTAL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

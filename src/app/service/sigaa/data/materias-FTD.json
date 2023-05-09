@@ -1,0 +1,74 @@
+[
+  {
+    "cod": "FTD0010",
+    "nome": "EMPREENDEDORISMO E INOVA\u00c7\u00c3O TECNOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0008",
+    "nome": "EMPRESA JUNIOR 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0009",
+    "nome": "EMPRESA JUNIOR 2",
+    "ch": 90,
+    "post_requirements": [
+      "FTD0048"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0002",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0003",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0018",
+    "nome": "IMPACTOS SOCIAIS DA TECNOLOGIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0007",
+    "nome": "INTRODUCAO A ATIVIDADE EMPRESARIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0021",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA MECATR\u00d4NICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0011",
+    "nome": "PESQUISA EM EMPREENDEDORISMO E INOVA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FTD0001",
+    "nome": "PROCESSO DE INOVA\u00c7\u00c3O E DESENVOLVIMENTO DE PRODUTOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

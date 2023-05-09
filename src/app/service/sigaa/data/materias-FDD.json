@@ -1,0 +1,1511 @@
+[
+  {
+    "cod": "FDD0274",
+    "nome": "ARBITRAGEM, MEDIA\u00c7\u00c3O E NEGOCIA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0252",
+    "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0269",
+      "FDD0323"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0254",
+    "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0239",
+      "FDD0269",
+      "FDD0324"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0244",
+    "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0269",
+      "FDD0319"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0256",
+    "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 4",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0269",
+      "FDD0325"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0258",
+    "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 5",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0269",
+      "FDD0326"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0088",
+    "nome": "CRIMINOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0308"
+    ],
+    "pre_requirements": [
+      "FDD0167",
+      "SOL0042 & FIL0069"
+    ]
+  },
+  {
+    "cod": "FDD0025",
+    "nome": "DIREITO ADMINISTRATIVO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0027",
+      "FDD0290"
+    ],
+    "pre_requirements": [
+      "FDD0019",
+      "FDD0218"
+    ]
+  },
+  {
+    "cod": "FDD0027",
+    "nome": "DIREITO ADMINISTRATIVO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0029",
+      "FDD0099",
+      "FDD0291"
+    ],
+    "pre_requirements": [
+      "FDD0025"
+    ]
+  },
+  {
+    "cod": "FDD0029",
+    "nome": "DIREITO ADMINISTRATIVO 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0292"
+    ],
+    "pre_requirements": [
+      "FDD0027",
+      "FDD0019"
+    ]
+  },
+  {
+    "cod": "FDD0090",
+    "nome": "DIREITO AGR\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0393"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0277",
+    "nome": "DIREITO AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0330"
+    ],
+    "pre_requirements": [
+      "FDD0004 & FDD0155",
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0111",
+    "nome": "DIREITO AUTORAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0403"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0113",
+    "nome": "DIREITO BANC\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0404"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0136",
+    "nome": "DIREITO CAN\u00d4NICO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0413"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0070",
+    "nome": "DIREITO CIVIL 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0384"
+    ],
+    "pre_requirements": [
+      "FDD0068"
+    ]
+  },
+  {
+    "cod": "FDD0268",
+    "nome": "DIREITO COLETIVO DO TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0328"
+    ],
+    "pre_requirements": [
+      "FDD0267"
+    ]
+  },
+  {
+    "cod": "FDD0072",
+    "nome": "DIREITO COMERCIAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0074",
+      "FDD0085",
+      "FDD0174",
+      "FDD0306"
+    ],
+    "pre_requirements": [
+      "FDD0097",
+      "FDD0062"
+    ]
+  },
+  {
+    "cod": "FDD0074",
+    "nome": "DIREITO COMERCIAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0307"
+    ],
+    "pre_requirements": [
+      "FDD0072"
+    ]
+  },
+  {
+    "cod": "FDD0174",
+    "nome": "DIREITO COMERCIAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0341"
+    ],
+    "pre_requirements": [
+      "FDD0072"
+    ]
+  },
+  {
+    "cod": "FDD0021",
+    "nome": "DIREITO CONSTITUCIONAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0023",
+      "FDD0288"
+    ],
+    "pre_requirements": [
+      "FDD0019",
+      "FDD0218"
+    ]
+  },
+  {
+    "cod": "FDD0023",
+    "nome": "DIREITO CONSTITUCIONAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0289"
+    ],
+    "pre_requirements": [
+      "FDD0021"
+    ]
+  },
+  {
+    "cod": "FDD0275",
+    "nome": "DIREITO DA CONCORR\u00caNCIA",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0482"
+    ],
+    "pre_requirements": [
+      "FDD0006 & FDD0019 & FDD0025"
+    ]
+  },
+  {
+    "cod": "FDD0065",
+    "nome": "DIREITO DAS COISAS",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0068",
+      "FDD0176",
+      "FDD0334"
+    ],
+    "pre_requirements": [
+      "FDD0097 & FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0092",
+    "nome": "DIREITO DAS OBRIGA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0097",
+      "FDD0309"
+    ],
+    "pre_requirements": [
+      "FDD0062"
+    ]
+  },
+  {
+    "cod": "FDD0273",
+    "nome": "DIREITO DAS RELA\u00c7\u00d5ES DE CONSUMO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0480"
+    ],
+    "pre_requirements": [
+      "FDD0092 & FDD0097 & FDD0045 & FDD0047 & FDD0039 & FDD0072"
+    ]
+  },
+  {
+    "cod": "FDD0176",
+    "nome": "DIREITO DAS SUCESS\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0316"
+    ],
+    "pre_requirements": [
+      "FDD0068",
+      "FDD0065"
+    ]
+  },
+  {
+    "cod": "FDD0109",
+    "nome": "DIREITO DE CIDADANIA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0402"
+    ],
+    "pre_requirements": [
+      "FDD0167",
+      "FDD0019"
+    ]
+  },
+  {
+    "cod": "FDD0068",
+    "nome": "DIREITO DE FAM\u00cdLIA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0070",
+      "FDD0079",
+      "FDD0176",
+      "FDD0335"
+    ],
+    "pre_requirements": [
+      "FDD0065",
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0122",
+    "nome": "DIREITO DE NAVEGA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0407"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0107",
+    "nome": "DIREITO DE SEGURAN\u00c7A NACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0401"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0124",
+    "nome": "DIREITO DO MERCADO DE CAPITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0408"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0097",
+    "nome": "DIREITO DOS CONTRATOS",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0072",
+      "FDD0267",
+      "FDD0310"
+    ],
+    "pre_requirements": [
+      "FDD0092"
+    ]
+  },
+  {
+    "cod": "FDD0267",
+    "nome": "DIREITO DO TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0083",
+      "FDD0268",
+      "FDD0327"
+    ],
+    "pre_requirements": [
+      "FDD0097"
+    ]
+  },
+  {
+    "cod": "FDD0055",
+    "nome": "DIREITO DO TRABALHO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0058",
+      "FDD0083",
+      "FDD0303"
+    ],
+    "pre_requirements": [
+      "FDD0019 & FDD0062"
+    ]
+  },
+  {
+    "cod": "FDD0058",
+    "nome": "DIREITO DO TRABALHO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0379"
+    ],
+    "pre_requirements": [
+      "FDD0055"
+    ]
+  },
+  {
+    "cod": "FDD0241",
+    "nome": "DIREITO ECON\u00d4MICO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0317"
+    ],
+    "pre_requirements": [
+      "FDD0031"
+    ]
+  },
+  {
+    "cod": "FDD0129",
+    "nome": "DIREITO EDIL\u00cdCIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0410"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0120",
+    "nome": "DIREITO ELEITORAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0311"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0224",
+    "nome": "DIREITO FINANCEIRO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0033",
+      "FDD0448"
+    ],
+    "pre_requirements": [
+      "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
+    ]
+  },
+  {
+    "cod": "FDD0031",
+    "nome": "DIREITO FINANCEIRO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0033",
+      "FDD0241",
+      "FDD0293"
+    ],
+    "pre_requirements": [
+      "FDD0025 & FDD0021"
+    ]
+  },
+  {
+    "cod": "FDD0117",
+    "nome": "DIREITO INDUSTRIAL",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0336"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0281",
+    "nome": "DIREITO INTERNACIONAL DOS DIREITOS HUMANOS",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0486"
+    ],
+    "pre_requirements": [
+      "FDD0021 & FDD0019 & FDD0165"
+    ]
+  },
+  {
+    "cod": "FDD0037",
+    "nome": "DIREITO INTERNACIONAL PRIVADO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0369"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0035",
+    "nome": "DIREITO INTERNACIONAL P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0146",
+      "FDD0295"
+    ],
+    "pre_requirements": [
+      "FDD0019"
+    ]
+  },
+  {
+    "cod": "FDD0105",
+    "nome": "DIREITO PARLAMENTAR",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0400"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0039",
+    "nome": "DIREITO PENAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0041",
+      "FDD0049",
+      "FDD0296"
+    ],
+    "pre_requirements": [
+      "FDD0165"
+    ]
+  },
+  {
+    "cod": "FDD0041",
+    "nome": "DIREITO PENAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0081",
+      "FDD0297"
+    ],
+    "pre_requirements": [
+      "FDD0039"
+    ]
+  },
+  {
+    "cod": "FDD0127",
+    "nome": "DIREITO PENITENCI\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0409"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0060",
+    "nome": "DIREITO PREVIDENCI\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0304"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0045",
+    "nome": "DIREITO PROCESSUAL CIVIL 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0047",
+      "FDD0169",
+      "FDD0298"
+    ],
+    "pre_requirements": [
+      "FDD0169",
+      "FDD0226",
+      "FDD0017"
+    ]
+  },
+  {
+    "cod": "FDD0047",
+    "nome": "DIREITO PROCESSUAL CIVIL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0077",
+      "FDD0145",
+      "FDD0259",
+      "FDD0299"
+    ],
+    "pre_requirements": [
+      "FDD0045"
+    ]
+  },
+  {
+    "cod": "FDD0145",
+    "nome": "DIREITO PROCESSUAL CIVIL 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0312"
+    ],
+    "pre_requirements": [
+      "FDD0047"
+    ]
+  },
+  {
+    "cod": "FDD0053",
+    "nome": "DIREITO PROCESSUAL DO TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0333"
+    ],
+    "pre_requirements": [
+      "FDD0055 & FDD0045",
+      "FDD0267 & FDD0045"
+    ]
+  },
+  {
+    "cod": "FDD0147",
+    "nome": "DIREITO PROCESSUAL DO TRABALHO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0418"
+    ],
+    "pre_requirements": [
+      "FDD0058 & FDD0053"
+    ]
+  },
+  {
+    "cod": "FDD0049",
+    "nome": "DIREITO PROCESSUAL PENAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0051",
+      "FDD0301"
+    ],
+    "pre_requirements": [
+      "FDD0041 & FDD0047",
+      "FDD0039"
+    ]
+  },
+  {
+    "cod": "FDD0051",
+    "nome": "DIREITO PROCESSUAL PENAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0302"
+    ],
+    "pre_requirements": [
+      "FDD0049"
+    ]
+  },
+  {
+    "cod": "FDD0158",
+    "nome": "DIREITO PROCESSUAL PENAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0422"
+    ],
+    "pre_requirements": [
+      "FDD0017 & FDD0049 & FDD0051"
+    ]
+  },
+  {
+    "cod": "FDD0138",
+    "nome": "DIREITO RODOVI\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0414"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0131",
+    "nome": "DIREITO ROMANO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0411"
+    ],
+    "pre_requirements": [
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0191",
+    "nome": "DIREITO ROMANO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0434"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0207",
+    "nome": "DIREITO ROMANO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0441"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0134",
+    "nome": "DIREITO SINDICAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0412"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0033",
+    "nome": "DIREITO TRIBUT\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0294"
+    ],
+    "pre_requirements": [
+      "FDD0031",
+      "FDD0224"
+    ]
+  },
+  {
+    "cod": "FDD0193",
+    "nome": "ECONOMIA POL\u00cdTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0435"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0212",
+    "nome": "ECONOMIA POL\u00cdTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0443"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0259",
+    "nome": "EST\u00c1GIO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0262",
+      "FDD0263",
+      "FDD0343"
+    ],
+    "pre_requirements": [
+      "FDD0047"
+    ]
+  },
+  {
+    "cod": "FDD0261",
+    "nome": "EST\u00c1GIO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0344"
+    ],
+    "pre_requirements": [
+      "FDD0259 & FDD0169 & FDD0047"
+    ]
+  },
+  {
+    "cod": "FDD0262",
+    "nome": "EST\u00c1GIO 3",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0345"
+    ],
+    "pre_requirements": [
+      "FDD0259"
+    ]
+  },
+  {
+    "cod": "FDD0263",
+    "nome": "EST\u00c1GIO 4",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0346"
+    ],
+    "pre_requirements": [
+      "FDD0259"
+    ]
+  },
+  {
+    "cod": "FDD0264",
+    "nome": "EST\u00c1GIO 5",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0162",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0180",
+      "FDD0423"
+    ],
+    "pre_requirements": [
+      "FDD0068 & FDD0021"
+    ]
+  },
+  {
+    "cod": "FDD0180",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0183",
+      "FDD0430"
+    ],
+    "pre_requirements": [
+      "FDD0162"
+    ]
+  },
+  {
+    "cod": "FDD0183",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 3",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0186",
+      "FDD0431"
+    ],
+    "pre_requirements": [
+      "FDD0180"
+    ]
+  },
+  {
+    "cod": "FDD0186",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 4",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0432"
+    ],
+    "pre_requirements": [
+      "FDD0183"
+    ]
+  },
+  {
+    "cod": "FDD0272",
+    "nome": "\u00c9TICA E DIREITO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0329"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0250",
+    "nome": "\u00c9TICA PROFISSIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0462"
+    ],
+    "pre_requirements": [
+      "FDD0011 & FDD0239 & FDD0256 & FDD0254"
+    ]
+  },
+  {
+    "cod": "FDD0278",
+    "nome": "EXAME DE PROFICI\u00caNCIA 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0279",
+    "nome": "EXAME DE PROFICI\u00caNCIA 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0011",
+    "nome": "FILOSOFIA DO DIREITO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0285"
+    ],
+    "pre_requirements": [
+      "FDD0242 & FDD0272 & FDD0013 & FDD0248",
+      "FDD0242 & FDD0272 & FDD0013 & FDD0248 & FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0282",
+    "nome": "FUNDAMENTOS DO DIREITO AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0351"
+    ],
+    "pre_requirements": [
+      "ECO0262",
+      "ECO0261",
+      "ENC0002"
+    ]
+  },
+  {
+    "cod": "FDD0008",
+    "nome": "HIST\u00d3RIA DAS IDEIAS JUR\u00cdDICAS",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0355"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0242",
+    "nome": "HIST\u00d3RIA DO DIREITO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0002",
+    "nome": "HIST\u00d3RIA DO DIREITO BRASILEIRO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0352"
+    ],
+    "pre_requirements": [
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0143",
+    "nome": "HIST\u00d3RIA DO DIREITO CRIMINAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0416"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0004",
+    "nome": "INSTITUI\u00c7\u00d5ES DE DIREITO P\u00daBLICO E PRIVADO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0095",
+      "CCA0076",
+      "FDD0283"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0270",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA GERAL E JUR\u00cdDICA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0477"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0006",
+    "nome": "INTRODU\u00c7\u00c3O AO DIREITO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0002",
+      "FDD0019",
+      "FDD0062",
+      "FDD0068",
+      "FDD0131",
+      "FDD0165",
+      "IRI0054",
+      "FDD0249",
+      "FDD0284"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0167",
+    "nome": "INTRODU\u00c7\u00c3O AO DIREITO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0017",
+      "FDD0060",
+      "FDD0088",
+      "FDD0090",
+      "FDD0105",
+      "FDD0107",
+      "FDD0109",
+      "FDD0111",
+      "FDD0113",
+      "FDD0120",
+      "FDD0122",
+      "FDD0124",
+      "FDD0127",
+      "FDD0129",
+      "FDD0136",
+      "FDD0138",
+      "FDD0143",
+      "FDD0277",
+      "FDD0315"
+    ],
+    "pre_requirements": [
+      "SOL0042",
+      "FDD0271 & FDD0270"
+    ]
+  },
+  {
+    "cod": "FDD0195",
+    "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DO DIREITO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0436"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0205",
+    "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DO DIREITO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0440"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0271",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 SOCIOLOGIA GERAL E JUR\u00cdDICA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0478"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0099",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO ADMINISTRATIVO",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0397"
+    ],
+    "pre_requirements": [
+      "FDD0027"
+    ]
+  },
+  {
+    "cod": "FDD0079",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO CIVIL",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0388"
+    ],
+    "pre_requirements": [
+      "FDD0068"
+    ]
+  },
+  {
+    "cod": "FDD0085",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO COMERCIAL",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0391"
+    ],
+    "pre_requirements": [
+      "FDD0072"
+    ]
+  },
+  {
+    "cod": "FDD0101",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO CONSTITUCIONAL",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0398"
+    ],
+    "pre_requirements": [
+      "FDD0021 & FDD0045"
+    ]
+  },
+  {
+    "cod": "FDD0083",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO DO TRABALHO E PREVIDENCI\u00c1RIO",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0390"
+    ],
+    "pre_requirements": [
+      "FDD0055",
+      "FDD0267"
+    ]
+  },
+  {
+    "cod": "FDD0103",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO FINANCEIRO E TRIBUT\u00c1RIO",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0399"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0081",
+    "nome": "JURISPRUD\u00caNCIA DO DIREITO PENAL",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0389"
+    ],
+    "pre_requirements": [
+      "FDD0041"
+    ]
+  },
+  {
+    "cod": "FDD0172",
+    "nome": "LEGISLA\u00c7\u00c3O ADMINISTRATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0340"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0095",
+    "nome": "LEGISLA\u00c7\u00c3O ADMINISTRATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0395"
+    ],
+    "pre_requirements": [
+      "FDD0004"
+    ]
+  },
+  {
+    "cod": "FDD0015",
+    "nome": "LEGISLA\u00c7\u00c3O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0331"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0141",
+    "nome": "LEGISLA\u00c7\u00c3O TRIBUT\u00c1RIA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0337"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0043",
+    "nome": "MEDICINA LEGAL",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0372"
+    ],
+    "pre_requirements": [
+      "FDD0041 & FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0248",
+    "nome": "MODELOS E PARADIGMAS DA EXPERI\u00caNCIA JUR\u00cdDICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0199",
+    "nome": "MODELOS E PARADIGMAS DA EXPERI\u00caNCIA JUR\u00cdDICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0437"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0216",
+    "nome": "MODELOS E PARADIGMAS DA EXPERI\u00caNCIA JUR\u00cdDICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0445"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0236",
+    "nome": "MONOGRAFIA JUR\u00cdDICA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0452"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0155",
+    "nome": "NO\u00c7\u00d5ES DE DIREITO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0338"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0153",
+    "nome": "PESQUISA JUR\u00cdDICA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0239",
+      "FDD0249",
+      "FDD0313"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0231",
+    "nome": "PR\u00c1TICA E ATUALIZA\u00c7\u00c3O DO DIREITO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0450"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0234",
+    "nome": "PR\u00c1TICA E ATUALIZA\u00c7\u00c3O DO DIREITO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0451"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0077",
+    "nome": "PR\u00c1TICA FORENSE 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0387"
+    ],
+    "pre_requirements": [
+      "FDD0047",
+      "FDD0169"
+    ]
+  },
+  {
+    "cod": "FDD0151",
+    "nome": "PR\u00c1TICA FORENSE 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0419"
+    ],
+    "pre_requirements": [
+      "FDD0045 & FDD0049",
+      "FDD0169"
+    ]
+  },
+  {
+    "cod": "FDD0247",
+    "nome": "PROFICI\u00caNCIA 1",
+    "ch": 15,
+    "post_requirements": [
+      "FDD0188",
+      "FDD0459"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0188",
+    "nome": "PROFICI\u00caNCIA 2",
+    "ch": 15,
+    "post_requirements": [
+      "FDD0433"
+    ],
+    "pre_requirements": [
+      "FDD0247"
+    ]
+  },
+  {
+    "cod": "FDD0265",
+    "nome": "PROFICI\u00caNCIA 3",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0266",
+    "nome": "PROFICI\u00caNCIA 4",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0240",
+    "nome": "PROFICI\u00caNCIA JUR\u00cdDICA",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0239",
+    "nome": "PROJETO DE MONOGRAFIA",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0342"
+    ],
+    "pre_requirements": [
+      "FDD0254",
+      "FDD0153"
+    ]
+  },
+  {
+    "cod": "FDD0269",
+    "nome": "REDA\u00c7\u00c3O DE MONOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0348"
+    ],
+    "pre_requirements": [
+      "FDD0252",
+      "FDD0254",
+      "FDD0244",
+      "FDD0256",
+      "FDD0258"
+    ]
+  },
+  {
+    "cod": "FDD0245",
+    "nome": "RESPONSABILIDADE CIVIL",
+    "ch": 30,
+    "post_requirements": [
+      "FDD0320"
+    ],
+    "pre_requirements": [
+      "FDD0068 & FDD0092"
+    ]
+  },
+  {
+    "cod": "FDD0013",
+    "nome": "SOCIOLOGIA JUR\u00cdDICA",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0286"
+    ],
+    "pre_requirements": [
+      "SOL0042 & FDD0006",
+      "FDD0271 & FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0201",
+    "nome": "SOCIOLOGIA JUR\u00cdDICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0438"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0214",
+    "nome": "SOCIOLOGIA JUR\u00cdDICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0444"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0165",
+    "nome": "TEORIA GERAL DO DIREITO PENAL",
+    "ch": 90,
+    "post_requirements": [
+      "FDD0039",
+      "FDD0314"
+    ],
+    "pre_requirements": [
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0062",
+    "nome": "TEORIA GERAL DO DIREITO PRIVADO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0072",
+      "FDD0092",
+      "FDD0305"
+    ],
+    "pre_requirements": [
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0222",
+    "nome": "TEORIA GERAL DO DIREITO PRIVADO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0447"
+    ],
+    "pre_requirements": [
+      "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
+    ]
+  },
+  {
+    "cod": "FDD0218",
+    "nome": "TEORIA GERAL DO DIREITO P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0021",
+      "FDD0025",
+      "FDD0446"
+    ],
+    "pre_requirements": [
+      "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
+    ]
+  },
+  {
+    "cod": "FDD0019",
+    "nome": "TEORIA GERAL DO DIREITO P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0021",
+      "FDD0025",
+      "FDD0029",
+      "FDD0035",
+      "FDD0109",
+      "FDD0287"
+    ],
+    "pre_requirements": [
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "FDD0249",
+    "nome": "TEORIA GERAL DO ESTADO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0322"
+    ],
+    "pre_requirements": [
+      "FDD0006",
+      "FDD0153"
+    ]
+  },
+  {
+    "cod": "FDD0203",
+    "nome": "TEORIA GERAL DO ESTADO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0439"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0210",
+    "nome": "TEORIA GERAL DO ESTADO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0442"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FDD0226",
+    "nome": "TEORIA GERAL DO PROCESSO",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0045",
+      "FDD0169",
+      "FDD0449"
+    ],
+    "pre_requirements": [
+      "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
+    ]
+  },
+  {
+    "cod": "FDD0017",
+    "nome": "TEORIA GERAL DO PROCESSO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0045",
+      "FDD0169",
+      "FDD0332"
+    ],
+    "pre_requirements": [
+      "FDD0167"
+    ]
+  },
+  {
+    "cod": "FDD0169",
+    "nome": "TEORIA GERAL DO PROCESSO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FDD0045",
+      "FDD0077",
+      "FDD0151",
+      "FDD0339"
+    ],
+    "pre_requirements": [
+      "FDD0017",
+      "FDD0226",
+      "FDD0045"
+    ]
+  }
+]

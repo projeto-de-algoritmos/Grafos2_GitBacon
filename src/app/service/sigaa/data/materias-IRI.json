@@ -1,0 +1,1046 @@
+[
+  {
+    "cod": "IRI0049",
+    "nome": "AN\u00c1LISE DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0164",
+      "IRI1115"
+    ],
+    "pre_requirements": [
+      "IRI0018 & IRI0052"
+    ]
+  },
+  {
+    "cod": "IRI0144",
+    "nome": "AN\u00c1LISE DAS RELA\u00c7\u00d5ES INTERNACIONAIS DO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1119"
+    ],
+    "pre_requirements": [
+      "IRI0052 & IRI0154"
+    ]
+  },
+  {
+    "cod": "IRI0167",
+    "nome": "A POL\u00cdTICA EXTERIOR DO BRASIL NA PRIMEIRA REP\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0166",
+    "nome": "A POL\u00cdTICA EXTERIOR DO BRASIL SOB O IMP\u00c9RIO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1212"
+    ],
+    "pre_requirements": [
+      "HIS0084"
+    ]
+  },
+  {
+    "cod": "IRI0165",
+    "nome": "A POL\u00cdTICA EXTERIOR DO BRASIL SOB O NACIONAL-DESENVOLVIMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0005",
+    "nome": "BRASIL: POL\u00cdTICA, ECONOMIA E RELA\u00c7\u00d5ES EXTERIORES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0111",
+    "nome": "CI\u00caNCIA, TECNOLOGIA E GOVERNO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1177"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "IRI0174",
+    "nome": "CINEMA, LITERATURA E POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0053",
+    "nome": "COM\u00c9RCIO INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1116"
+    ],
+    "pre_requirements": [
+      "IRI0169"
+    ]
+  },
+  {
+    "cod": "IRI0122",
+    "nome": "COOPERA\u00c7\u00c3O INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1118"
+    ],
+    "pre_requirements": [
+      "IRI0013 & IRI0018"
+    ]
+  },
+  {
+    "cod": "IRI0143",
+    "nome": "CORPORA\u00c7\u00d5ES TRANSNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1191"
+    ],
+    "pre_requirements": [
+      "ECO0019 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0001",
+    "nome": "DEMOCRACIA E RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1132"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI1101",
+    "nome": "DESIGUALDADES, CAPITALISMO HIST\u00d3RICO E ALTERNATIVAS AO DESENVOLVIMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0060",
+    "nome": "DIREITO BANC\u00c1RIO E DO MERCADO DE CAPITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1161"
+    ],
+    "pre_requirements": [
+      "ECO0019 & FDD0006"
+    ]
+  },
+  {
+    "cod": "IRI0058",
+    "nome": "DIREITO COMERCIAL COMPARADO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1159"
+    ],
+    "pre_requirements": [
+      "FDD0006 & FDD0062 & FDD0072"
+    ]
+  },
+  {
+    "cod": "IRI0145",
+    "nome": "DIREITO DA INTEGRA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1193"
+    ],
+    "pre_requirements": [
+      "FDD0035 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0054",
+    "nome": "DIREITO DAS SOCIEDADES COMERCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1156"
+    ],
+    "pre_requirements": [
+      "FDD0006"
+    ]
+  },
+  {
+    "cod": "IRI0057",
+    "nome": "DIREITO DIPLOM\u00c1TICO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1158"
+    ],
+    "pre_requirements": [
+      "FDD0006 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0147",
+    "nome": "DIREITO DOS TRATADOS",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1195"
+    ],
+    "pre_requirements": [
+      "FDD0035 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0146",
+    "nome": "DIREITO EM RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1120"
+    ],
+    "pre_requirements": [
+      "FDD0035"
+    ]
+  },
+  {
+    "cod": "IRI0110",
+    "nome": "DIREITO INTERNACIONAL DOS NEG\u00d3CIOS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1176"
+    ],
+    "pre_requirements": [
+      "FDD0006 & IRI0013 & ECO0019"
+    ]
+  },
+  {
+    "cod": "IRI0148",
+    "nome": "DIREITO INTERNACIONAL ECON\u00d4MICO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1196"
+    ],
+    "pre_requirements": [
+      "FDD0035 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0150",
+    "nome": "DIREITO INTERNACIONAL HUMANIT\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1197"
+    ],
+    "pre_requirements": [
+      "FDD0035 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0062",
+    "nome": "DIREITO P\u00daBLICO COMPARADO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1162"
+    ],
+    "pre_requirements": [
+      "FDD0006 & FDD0035"
+    ]
+  },
+  {
+    "cod": "IRI0043",
+    "nome": "DISSERTA\u00c7\u00c3O EM RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1114"
+    ],
+    "pre_requirements": [
+      "POL0011 & IRI0013 & POL0012 & POL0013 & IRI0015 & EST0019"
+    ]
+  },
+  {
+    "cod": "IRI0059",
+    "nome": "DIVIS\u00c3O INTERNACIONAL DO TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1160"
+    ],
+    "pre_requirements": [
+      "POL0011 & IRI0013 & ECO0019"
+    ]
+  },
+  {
+    "cod": "IRI0168",
+    "nome": "ECONOMIA POL\u00cdTICA INTERNACIONAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0169",
+      "IRI0172",
+      "IRI1125"
+    ],
+    "pre_requirements": [
+      "ECO0019 & IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0169",
+    "nome": "ECONOMIA POL\u00cdTICA INTERNACIONAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0053",
+      "IRI0066",
+      "IRI1126"
+    ],
+    "pre_requirements": [
+      "IRI0168"
+    ]
+  },
+  {
+    "cod": "IRI0139",
+    "nome": "EMPRESAS INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1188"
+    ],
+    "pre_requirements": [
+      "ECO0019 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0151",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM RELA\u00c7\u00d5ES INTERNACIONAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0152",
+      "IRI1121"
+    ],
+    "pre_requirements": [
+      "IRI0052"
+    ]
+  },
+  {
+    "cod": "IRI0152",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM RELA\u00c7\u00d5ES INTERNACIONAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1199"
+    ],
+    "pre_requirements": [
+      "IRI0151"
+    ]
+  },
+  {
+    "cod": "IRI0175",
+    "nome": "ESTUDOS DE \u00c1REA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0176",
+    "nome": "ESTUDOS DE \u00c1REA 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0095",
+    "nome": "FILOSOFIA POL\u00cdTICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1169"
+    ],
+    "pre_requirements": [
+      "POL0011 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0004",
+    "nome": "G\u00caNERO E RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0047",
+    "nome": "GEOPOL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1150"
+    ],
+    "pre_requirements": [
+      "IRI0013 & IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0153",
+    "nome": "GLOBALIZA\u00c7\u00c3O E GOVERNAN\u00c7A",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1200"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0092",
+    "nome": "GLOBALIZA\u00c7\u00c3O E RELA\u00c7\u00d5ES INTERCULTURAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0185",
+    "nome": "GRANDES PENSADORES E AS RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0011",
+    "nome": "HIST\u00d3RIA DA POL\u00cdTICA EXTERIOR DO BRASIL",
+    "ch": 90,
+    "post_requirements": [
+      "IRI1142"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0181",
+    "nome": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1226"
+    ],
+    "pre_requirements": [
+      "IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0012",
+    "nome": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS CONTEMPOR\u00c2NEAS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0008",
+      "IRI0154",
+      "IRI1113"
+    ],
+    "pre_requirements": [
+      "HIS0084 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0154",
+    "nome": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS DO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0170",
+      "IRI1108"
+    ],
+    "pre_requirements": [
+      "IRI0012"
+    ]
+  },
+  {
+    "cod": "IRI0177",
+    "nome": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS PR\u00c9-CONTEMPOR\u00c2NEAS",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1223"
+    ],
+    "pre_requirements": [
+      "IRI0013 & HIS0084"
+    ]
+  },
+  {
+    "cod": "IRI0178",
+    "nome": "HIST\u00d3RIA E POL\u00cdTICA DO ORIENTE M\u00c9DIO CONTEMPOR\u00c2NEO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0093",
+    "nome": "INDIV\u00cdDUO E GLOBALIZA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0067",
+    "nome": "INOVA\u00c7\u00c3O E DIFUS\u00c3O TECNOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1165"
+    ],
+    "pre_requirements": [
+      "POL0011 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0155",
+    "nome": "INSTITUI\u00c7\u00d5ES POL. E INTERMEDIA\u00c7\u00c3O DE INTERESSES EM PERSP. COMPARADA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1202"
+    ],
+    "pre_requirements": [
+      "IRI0158"
+    ]
+  },
+  {
+    "cod": "IRI0101",
+    "nome": "INTEGRA\u00c7\u00c3O EUROPEIA: A POL\u00cdTICA EXTERNA E DE SEGURAN\u00c7A COMUM",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1173"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0099",
+    "nome": "INTEGRA\u00c7\u00c3O EUROPEIA: HIST\u00d3RIA, PROCESSOS E DIN\u00c2MICAS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1171"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0100",
+    "nome": "INTEGRA\u00c7\u00c3O EUROPEIA: INSTITUI\u00c7\u00d5ES E FUNCIONAMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1172"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0048",
+    "nome": "INTEGRA\u00c7\u00c3O REGIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1151"
+    ],
+    "pre_requirements": [
+      "IRI0013 & IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0002",
+    "nome": "INTERC\u00c2MBIO INTERNACIONAL",
+    "ch": 240,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0013",
+    "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0142",
+    "nome": "JURISPRUD\u00caNCIA DE DIREITO INTERNACIONAL E DIREITOS HUMANOS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1190"
+    ],
+    "pre_requirements": [
+      "IRI0124"
+    ]
+  },
+  {
+    "cod": "IRI0156",
+    "nome": "M\u00c9TODOS E T\u00c9CNICAS DE PESQUISA EM RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1122"
+    ],
+    "pre_requirements": [
+      "IRI0052 & EST0019"
+    ]
+  },
+  {
+    "cod": "IRI0006",
+    "nome": "MIGRA\u00c7\u00c3O E REF\u00daGIO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1112"
+    ],
+    "pre_requirements": [
+      "IRI0013 & FDD0006"
+    ]
+  },
+  {
+    "cod": "IRI0182",
+    "nome": "NEGOCIA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1128"
+    ],
+    "pre_requirements": [
+      "IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0170",
+    "nome": "O BRASIL E O MULTILATERALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1216"
+    ],
+    "pre_requirements": [
+      "IRI0154"
+    ]
+  },
+  {
+    "cod": "IRI0018",
+    "nome": "ORGANIZA\u00c7\u00d5ES INTERNACIONAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1105"
+    ],
+    "pre_requirements": [
+      "IRI0052"
+    ]
+  },
+  {
+    "cod": "IRI0050",
+    "nome": "ORGANIZA\u00c7\u00d5ES INTERNACIONAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1153"
+    ],
+    "pre_requirements": [
+      "IRI0013 & IRI0018"
+    ]
+  },
+  {
+    "cod": "IRI0157",
+    "nome": "POL\u00cdTICA AMBIENTAL GLOBAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1204"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0010",
+    "nome": "POL\u00cdTICA AMBIENTAL GLOBAL NA AMAZ\u00d4NIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0158",
+    "nome": "POL\u00cdTICA COMPARADA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0155",
+      "IRI1109"
+    ],
+    "pre_requirements": [
+      "POL0013 & IRI0052 & IRI0156"
+    ]
+  },
+  {
+    "cod": "IRI0159",
+    "nome": "POL\u00cdTICA, ECONOMIA E SOCIEDADE EM PERSPECTIVA COMPARADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0023",
+    "nome": "POL\u00cdTICA EXTERNA BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1147"
+    ],
+    "pre_requirements": [
+      "POL0011 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0045",
+    "nome": "POL\u00cdTICA EXTERNA DAS GRANDES POT\u00caNCIAS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1149"
+    ],
+    "pre_requirements": [
+      "IRI0013 & IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0164",
+    "nome": "POL\u00cdTICA INTERNACIONAL CONTEMPOR\u00c2NEA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1124"
+    ],
+    "pre_requirements": [
+      "IRI0049"
+    ]
+  },
+  {
+    "cod": "IRI0186",
+    "nome": "POPULA\u00c7\u00d5ES E DESENVOLVIMENTO GLOBAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0106",
+    "nome": "PR\u00c1TICA DO DIREITO INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1175"
+    ],
+    "pre_requirements": [
+      "FDD0006 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0068",
+    "nome": "PROBLEMAS ESTRAT\u00c9GICOS CONTEMPOR\u00c2NEOS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1166"
+    ],
+    "pre_requirements": [
+      "POL0011 & POL0012"
+    ]
+  },
+  {
+    "cod": "IRI0096",
+    "nome": "PROCESSOS DECIS\u00d3RIOS EM RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1170"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0009",
+    "nome": "PROCESSOS DECIS\u00d3RIOS E POL\u00cdTICA EXTERNA DOS EUA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0102",
+    "nome": "PROTE\u00c7\u00c3O INTERNACIONAL DO MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0124",
+    "nome": "PROTE\u00c7\u00c3O INTERNACIONAL DOS DIREITOS HUMANOS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0142",
+      "IRI1179"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0065",
+    "nome": "RELA\u00c7\u00d5ES ECON\u00d4MICAS INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1163"
+    ],
+    "pre_requirements": [
+      "ECO0019"
+    ]
+  },
+  {
+    "cod": "IRI0184",
+    "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS DA \u00c1FRICA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1229"
+    ],
+    "pre_requirements": [
+      "IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0160",
+    "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS DA AM\u00c9RICA LATINA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1123"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0007",
+    "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS DA CHINA",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1138"
+    ],
+    "pre_requirements": [
+      "IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0008",
+    "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS DO ATL\u00c2NTICO SUL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1139"
+    ],
+    "pre_requirements": [
+      "IRI0012"
+    ]
+  },
+  {
+    "cod": "IRI0183",
+    "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS DO ORIENTE M\u00c9DIO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0162",
+    "nome": "SEGURAN\u00c7A INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1111"
+    ],
+    "pre_requirements": [
+      "IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0173",
+    "nome": "SIMULA\u00c7\u00d5ES EM RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1219"
+    ],
+    "pre_requirements": [
+      "IRI0013 & POL0012"
+    ]
+  },
+  {
+    "cod": "IRI0066",
+    "nome": "SISTEMA FINANCEIRO INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1117"
+    ],
+    "pre_requirements": [
+      "IRI0169"
+    ]
+  },
+  {
+    "cod": "IRI0172",
+    "nome": "SISTEMA MULTILATERAL DE COM\u00c9RCIO",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1218"
+    ],
+    "pre_requirements": [
+      "IRI0168"
+    ]
+  },
+  {
+    "cod": "IRI0055",
+    "nome": "SISTEMAS DE DIREITO CONTEMPOR\u00c2NEOS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1157"
+    ],
+    "pre_requirements": [
+      "FDD0006 & FDD0019"
+    ]
+  },
+  {
+    "cod": "IRI0141",
+    "nome": "SOCIEDADE CIVIL E POL\u00cdTICA MUNDIAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1189"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0163",
+    "nome": "SOLU\u00c7\u00c3O JURISDICIONAL DE CONTROV\u00c9RSIAS INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1209"
+    ],
+    "pre_requirements": [
+      "FDD0035 & IRI0013"
+    ]
+  },
+  {
+    "cod": "IRI0171",
+    "nome": "TEMAS DAS RELA\u00c7\u00d5ES INTERNACIONAIS DO BRASIL CONTEMPOR\u00c2NEO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0015",
+    "nome": "TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0001",
+      "IRI0096",
+      "IRI0099",
+      "IRI0100",
+      "IRI0101",
+      "IRI0124",
+      "IRI0126",
+      "IRI0127",
+      "IRI0128",
+      "IRI0130",
+      "IRI0132",
+      "IRI0133",
+      "IRI0141",
+      "IRI0153",
+      "IRI0157",
+      "IRI0160",
+      "IRI0180",
+      "IRI1104"
+    ],
+    "pre_requirements": [
+      "IRI0013 & POL0012"
+    ]
+  },
+  {
+    "cod": "IRI0052",
+    "nome": "TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "IRI0018",
+      "IRI0151",
+      "IRI1106",
+      "IRI0187"
+    ],
+    "pre_requirements": [
+      "IRI0015 & POL0013"
+    ]
+  },
+  {
+    "cod": "IRI0180",
+    "nome": "TEORIA E PR\u00c1TICA DA NEGOCIA\u00c7\u00c3O INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1225"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0003",
+    "nome": "T\u00d3PICOS ESPECIAIS EM INTRODU\u00c7\u00c3O AO ESTUDO DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0130",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA INTERNACIONAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1107"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0132",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA INTERNACIONAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "IRI1185"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0133",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA INTERNACIONAL 3",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1186"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0134",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA INTERNACIONAL 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0125",
+    "nome": "T\u00d3PICOS ESPECIAIS EM TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IRI0126",
+    "nome": "T\u00d3PICOS ESPECIAIS EM TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 2",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1181"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0127",
+    "nome": "T\u00d3PICOS ESPECIAIS EM TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 3",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1110"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  },
+  {
+    "cod": "IRI0128",
+    "nome": "T\u00d3PICOS ESPECIAIS EM TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 4",
+    "ch": 30,
+    "post_requirements": [
+      "IRI1183"
+    ],
+    "pre_requirements": [
+      "IRI0015"
+    ]
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "cod": "TAU0010",
+    "nome": "ARQUITERURA E URBANISMO DA AMERICA LATINA",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0053"
+    ],
+    "pre_requirements": [
+      "TAU0009",
+      "FAU0225"
+    ]
+  },
+  {
+    "cod": "TAU0007",
+    "nome": "ARQUITERURA E URBANISMO DA SOCIEDADE INDUSTRIAL",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0008",
+      "TAU0009",
+      "TAU0035"
+    ],
+    "pre_requirements": [
+      "TAU0006"
+    ]
+  },
+  {
+    "cod": "TAU0009",
+    "nome": "ARQUITERURA E URBANISMO NO BRASIL COLONIA E IMPERIO",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0001",
+      "TAU0010",
+      "TAU0011",
+      "TAU0042",
+      "TAU0044"
+    ],
+    "pre_requirements": [
+      "TAU0007"
+    ]
+  },
+  {
+    "cod": "TAU0008",
+    "nome": "ARQUITERURA E URBANISMO NO BRASIL CONTEMPORANEO",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0015",
+      "TAU0036"
+    ],
+    "pre_requirements": [
+      "TAU0007"
+    ]
+  },
+  {
+    "cod": "TAU0014",
+    "nome": "ARQUITETURA E ESTETICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0011",
+    "nome": "ARQUITETURA E URBANISMO DA ATUALIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "DAN0076",
+      "TAU0012",
+      "TAU0037",
+      "TAU0045"
+    ],
+    "pre_requirements": [
+      "TAU0009"
+    ]
+  },
+  {
+    "cod": "TAU0027",
+    "nome": "ARTE COMPARADA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0028",
+    "nome": "ARTE E FILOSOFIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0026",
+    "nome": "BRAS\u00cdLIA, EXPERI\u00caNCIA URBANISTICA - PR\u00c1TICA E TEORIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0015",
+    "nome": "CONFIGURACAO URBANA",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0058"
+    ],
+    "pre_requirements": [
+      "TAU0008",
+      "FAU0114"
+    ]
+  },
+  {
+    "cod": "TAU0012",
+    "nome": "ENSAIO DE TEORIA E HISTORIA DE ARQUITETURA E URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0038"
+    ],
+    "pre_requirements": [
+      "TAU0011"
+    ]
+  },
+  {
+    "cod": "TAU0023",
+    "nome": "EST\u00c9TICA DO ESPA\u00c7O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0025",
+    "nome": "EST\u00c9TICA E HIST\u00d3RIA DA ARTE",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0043"
+    ],
+    "pre_requirements": [
+      "TAU0006"
+    ]
+  },
+  {
+    "cod": "TAU0020",
+    "nome": "ESTRUTURAS URBANAS",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0062"
+    ],
+    "pre_requirements": [
+      "TAU0008 & PRO0020",
+      "TAU0006"
+    ]
+  },
+  {
+    "cod": "TAU0005",
+    "nome": "HISTORIA DA ARQUITETURA E DA ARTE 1",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0006",
+      "TAU0033"
+    ],
+    "pre_requirements": [
+      "TAU0002"
+    ]
+  },
+  {
+    "cod": "TAU0006",
+    "nome": "HISTORIA DA ARQUITETURA E DA ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0007",
+      "TAU0020",
+      "TAU0025",
+      "TAU0034"
+    ],
+    "pre_requirements": [
+      "TAU0005",
+      "VIS0060"
+    ]
+  },
+  {
+    "cod": "TAU0001",
+    "nome": "INICIA\u00c7\u00c3O CIENT\u00cdFICA EM ARQUITETURA E URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0041"
+    ],
+    "pre_requirements": [
+      "TAU0009"
+    ]
+  },
+  {
+    "cod": "TAU0002",
+    "nome": "INTRODUCAO A ARQUITETURA E URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0083",
+      "FAU0113",
+      "FAU0114",
+      "TEC0016",
+      "TAU0005",
+      "FAU0221",
+      "FAU0225",
+      "TAU0031",
+      "TAU0032"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0017",
+    "nome": "INTRODU\u00c7\u00c3O A PESQUISA E A EXTENS\u00c3O EM ARQUITETURA E URBANISMO",
+    "ch": 30,
+    "post_requirements": [
+      "TAU0059"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0003",
+    "nome": "METODOS E TECNICAS NA PROJETACAO ARQUITETONICA",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0046"
+    ],
+    "pre_requirements": [
+      "FAU0111",
+      "PRO0016"
+    ]
+  },
+  {
+    "cod": "TAU0004",
+    "nome": "MORFOLOGIA ARQUITETONICA",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0047"
+    ],
+    "pre_requirements": [
+      "TAU0006 & TAU0002"
+    ]
+  },
+  {
+    "cod": "TAU0018",
+    "nome": "MORFOLOGIA URBANA",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0060"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0021",
+    "nome": "PLANEJAMENTO HABITACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0040"
+    ],
+    "pre_requirements": [
+      "TAU0008 & FAU0114"
+    ]
+  },
+  {
+    "cod": "TAU0013",
+    "nome": "PLANEJAMENTO URBANO",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0039"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0029",
+    "nome": "SEMI\u00d3TICA DA  CULTURA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0022",
+    "nome": "SINTAXE URBANA",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0064"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0030",
+    "nome": "TEORIAS EST\u00c9TICAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TAU0019",
+    "nome": "TEORIA URBANO-REGIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0061"
+    ],
+    "pre_requirements": [
+      "TAU0008 & PRO0020"
+    ]
+  },
+  {
+    "cod": "TAU0031",
+    "nome": "URBANISMO E URBANIZA\u00c7\u00c3O NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0072"
+    ],
+    "pre_requirements": [
+      "TAU0002"
+    ]
+  }
+]

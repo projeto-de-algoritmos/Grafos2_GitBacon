@@ -5,15 +5,9 @@ import json
 import re
 import ast
 
+import requests
 from requests import Session
 from bs4 import BeautifulSoup
-
-# Globals
-
-s = Session()
-sigaa_url: str = 'https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf'
-header = {'Content-Type': 'application/x-www-form-urlencoded'}
-departments: dict = dict()
 
 
 class Materia:
@@ -64,6 +58,8 @@ def write():
 
 
 def main(cod_unidades):
+    s = Session()
+
     data: dict = {
         'form': 'form',
         'form:nivel': 'G',
@@ -79,15 +75,15 @@ def main(cod_unidades):
 
     s.get(sigaa_url)
     r = s.post(sigaa_url, data=data, headers=header)
-    print(f'Request to {r.url} returned status code: {r.status_code}.')
-    print('Parsing content...')
 
     soup = BeautifulSoup(r.content, 'html.parser', from_encoding='UTF-8')
-    components: List[Materia] = []
 
-    table_listagem = soup.select('table.listagem')[0]
+    table_listagem = soup.select('table.listagem')
+    if not table_listagem:
+        return
+    table_listagem = table_listagem[0]
+
     try:
-        # 2003 matérias
         table_rows = table_listagem.select('tr')
         for index, linha in enumerate(table_rows):
             component_id = ''
@@ -113,43 +109,57 @@ def main(cod_unidades):
                     component_id=component_id,
                     requirements_post_data=post_data
                 )
-                print(f"Getting post-requirements for component: {c.cod} {c.nome}")
                 r = s.get(f'{sigaa_url}?{c.requirements_query}',
                           headers=header,
                           allow_redirects=False)
-                # print(f'\t > Request to {sigaa_url} returned status code: {r.status_code}')
                 requirements_soup = BeautifulSoup(r.content, 'html.parser', from_encoding='UTF-8')
                 regex_match = re.compile('pré-requisito(.*?)Histórico').findall(
                     requirements_soup.text.replace('\n', ' '))
                 if regex_match:
                     requirements = regex_match[0]
-                    print(f"\t\t > {c.cod} - {c.nome} blocks: {requirements.strip().split('   ')}")
                     c.set_post_requirements(requirements)
                 pre_requirements = re.compile('Pré-Requisitos:(.*?)Co-Re').findall(
                     requirements_soup.text.replace('\n', ' '))
                 if pre_requirements:
                     requirements = pre_requirements[0].replace('\t', '')
-                    print(f"\t\t > {c.cod} - {c.nome} is blocked by: {requirements.strip().split('   ')}")
                     c.set_pre_requirements(requirements.strip().split('   '))
 
                 dep_name = re.sub('\d', '', c.cod)
-
                 if dep_name in departments.keys():
                     departments[dep_name].append(c)
                 else:
                     departments[dep_name] = [c]
-                components.append(c)
-
-            if len(components) == 500 or index == len(table_rows) - 1:
-                write()
+        write()
 
     except Exception as e:
         print(e)
-        pass
         write()
 
 
-# @TODO: buscar os códigos dos departamentos
-# cod_unidades = 673  # FGA = 673, 0 para buscar todas, MAT 518, CDS 640 (poucas matérias p/ testes)
-for x in [640]:
-    main(x)
+def get_department_codes() -> dict:
+    codes = dict()
+    r = requests.get(sigaa_url)
+    soup = BeautifulSoup(r.content, 'html.parser', from_encoding='UTF-8')
+    for op in soup.find(id='form:unidades').find_all('option'):
+        code = int(op['value'])
+        if code != 0 \
+                and 'pós-graduação' not in op.text.lower() \
+                and 'reitoria' not in op.text.lower():
+            codes[int(op['value'])] = op.text.split('-')[0].strip()
+
+    return codes
+
+
+# Globals
+sigaa_url: str = 'https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf'
+header = {'Content-Type': 'application/x-www-form-urlencoded'}
+departments: dict = dict()
+
+if __name__ == '__main__':
+    print(f'Searching for departments at UnB...')
+    codes = get_department_codes()
+    print(f'Found {len(codes)} departments.')
+
+    for cod in codes.keys():
+        print(f'Searching components for departament: {codes[cod]}...')
+        main(cod)

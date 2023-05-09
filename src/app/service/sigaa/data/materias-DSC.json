@@ -1,0 +1,790 @@
+[
+  {
+    "cod": "DSC0026",
+    "nome": "ADMINISTRACAO DE SERVICOS DE SAUDE",
+    "ch": 30,
+    "post_requirements": [
+      "DSC0160"
+    ],
+    "pre_requirements": [
+      "DSC0020",
+      "ODT0083"
+    ]
+  },
+  {
+    "cod": "DSC0025",
+    "nome": "AMBIENTE SA\u00daDE E TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0102"
+    ],
+    "pre_requirements": [
+      "DSC0020",
+      "FCE0187"
+    ]
+  },
+  {
+    "cod": "DSC0151",
+    "nome": "AN\u00c1LISE DE POL\u00cdTICAS DE SA\u00daDE I",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": [
+      "DSC0050"
+    ]
+  },
+  {
+    "cod": "DSC0053",
+    "nome": "BIO\u00c9TICA E ODONTOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0175"
+    ],
+    "pre_requirements": [
+      "PPB0014 & ODT0083"
+    ]
+  },
+  {
+    "cod": "DSC0064",
+    "nome": "BIO\u00c9TICA E SA\u00daDE P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0115"
+    ],
+    "pre_requirements": [
+      "DSC0007"
+    ]
+  },
+  {
+    "cod": "DSC0057",
+    "nome": "CI\u00caNCIAS SOCIAIS EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0049",
+      "DSC0059",
+      "DSC0110"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0056",
+    "nome": "COMUNICA\u00c7\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0002",
+    "nome": "COMUNICA\u00c7\u00c3O, SA\u00daDE E SOCIEDADE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0097"
+    ],
+    "pre_requirements": [
+      "DSC0056"
+    ]
+  },
+  {
+    "cod": "DSC0051",
+    "nome": "DEMOGRAFIA E BIOESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0063",
+    "nome": "DIREITO SANIT\u00c1RIO E LEGISLA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0096",
+    "nome": "ECONOMIA DA SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0215"
+    ],
+    "pre_requirements": [
+      "FCE0206",
+      "DSC0095"
+    ]
+  },
+  {
+    "cod": "DSC0016",
+    "nome": "EDUCA\u00c7\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0100"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0044",
+    "nome": "ELABORACAO DE TRABALHO CIENTIFICO",
+    "ch": 45,
+    "post_requirements": [
+      "DSC0106"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0088",
+    "nome": "ELABORA\u00c7\u00c3O DO TRABALHO CIENT\u00cdFICO 2",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0207"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0095",
+    "nome": "EPIDEMIOLOGIA ANAL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0096",
+      "DSC0127"
+    ],
+    "pre_requirements": [
+      "DSC0093",
+      "FCE0187"
+    ]
+  },
+  {
+    "cod": "DSC0093",
+    "nome": "EPIDEMIOLOGIA DESCRITIVA",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0095",
+      "DSC0145"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0020",
+    "nome": "EPIDEMIOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0025",
+      "DSC0026",
+      "DSC0033",
+      "ENF0056",
+      "DSC0101"
+    ],
+    "pre_requirements": [
+      "DSC0011",
+      "NUT0017",
+      "NUT0054",
+      "FMD0095",
+      "ENF0057"
+    ]
+  },
+  {
+    "cod": "DSC0069",
+    "nome": "EPIDEMIOLOGIA PARA A GEST\u00c3O 3 VIGIL\u00c2NCIA EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0118"
+    ],
+    "pre_requirements": [
+      "DSC0061"
+    ]
+  },
+  {
+    "cod": "DSC0028",
+    "nome": "ESTAGIO EM MEDICINA RURAL",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0161"
+    ],
+    "pre_requirements": [
+      "FMD0185 & FMD0240"
+    ]
+  },
+  {
+    "cod": "DSC0080",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0084",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
+    "ch": 150,
+    "post_requirements": [
+      "DSC0083",
+      "DSC0141"
+    ],
+    "pre_requirements": [
+      "DSC0069 & DSC0067 & DSC0079"
+    ]
+  },
+  {
+    "cod": "DSC0081",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 2",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0085",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 2",
+    "ch": 150,
+    "post_requirements": [
+      "DSC0004",
+      "DSC0142",
+      "DSC0148",
+      "DSC0167"
+    ],
+    "pre_requirements": [
+      "DSC0078  &  DSC0084",
+      "DSC0146"
+    ]
+  },
+  {
+    "cod": "DSC0004",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 3",
+    "ch": 90,
+    "post_requirements": [
+      "DSC0129"
+    ],
+    "pre_requirements": [
+      "DSC0085",
+      "DSC0147"
+    ]
+  },
+  {
+    "cod": "DSC0033",
+    "nome": "ESTUDOS EPIDEMIOLOGICOS",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0162"
+    ],
+    "pre_requirements": [
+      "DSC0020"
+    ]
+  },
+  {
+    "cod": "DSC0066",
+    "nome": "\u00c9TICA, CI\u00caNCIA E TECNOLOGIA EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0154",
+    "nome": "EXTENS\u00c3O EM HUMANIDADES E SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0156",
+    "nome": "EXTENS\u00c3O EM PLANEJAMENTO E GEST\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0090",
+    "nome": "EXTENS\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0158",
+    "nome": "EXTENS\u00c3O EM VIGIL\u00c2NCIA EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0052",
+    "nome": "FUNDAMENTOS BIOL\u00d3GICOS EM SA\u00daDE COLETIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0058",
+    "nome": "FUNDAMENTOS BIOL\u00d3GICOS EM SA\u00daDE COLETIVA 2",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0134"
+    ],
+    "pre_requirements": [
+      "DSC0052"
+    ]
+  },
+  {
+    "cod": "DSC0061",
+    "nome": "FUNDAMENTOS BIOL\u00d3GICOS EM SA\u00daDE COLETIVA 3",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0069",
+      "DSC0112"
+    ],
+    "pre_requirements": [
+      "DSC0052 & DSC0058"
+    ]
+  },
+  {
+    "cod": "DSC0082",
+    "nome": "GEST\u00c3O DE INSUMOS MATERIAL E PATRIMONIO",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0202"
+    ],
+    "pre_requirements": [
+      "ADM0023 & DSC0079"
+    ]
+  },
+  {
+    "cod": "DSC0079",
+    "nome": "GEST\u00c3O DE SISTEMAS E SERVI\u00c7OS DE SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0122"
+    ],
+    "pre_requirements": [
+      "ADM0023 & DSC0050 & DSC0063"
+    ]
+  },
+  {
+    "cod": "DSC0072",
+    "nome": "GEST\u00c3O DO TRABALHO E EDUCA\u00c7\u00c3O PERMANENTE NA SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0075",
+    "nome": "GEST\u00c3O E PROMO\u00c7\u00c3O DA SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0121"
+    ],
+    "pre_requirements": [
+      "DSC0050"
+    ]
+  },
+  {
+    "cod": "DSC0065",
+    "nome": "GEST\u00c3O ESTRAT\u00c9GICA PARTICIPA\u00c7\u00c3O E CONTROLE SOCIAL EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0116"
+    ],
+    "pre_requirements": [
+      "DSC0050 & DSC0063 & DSC0038"
+    ]
+  },
+  {
+    "cod": "DSC0010",
+    "nome": "INFORMA\u00c7\u00c3O E INFORM\u00c1TICA EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0089",
+    "nome": "INFORMA\u00c7\u00c3O E INFORM\u00c1TICA EM SA\u00daDE 2",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0124"
+    ],
+    "pre_requirements": [
+      "DSC0010"
+    ]
+  },
+  {
+    "cod": "DSC0007",
+    "nome": "INTRODUCAO A BIOETICA",
+    "ch": 30,
+    "post_requirements": [
+      "DAN0086",
+      "DSC0008",
+      "DSC0009",
+      "DSC0064",
+      "DSC0130"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0006",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 GEST\u00c3O HOSPITALAR",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0040",
+    "nome": "INTRODUCAO AO METODOS QUANTITATIVOS EM SAUDE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0049",
+    "nome": "LABORAT\u00d3RIO DA ANTROPOLOGIA DA SA\u00daDE E DA DOEN\u00c7A",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0132"
+    ],
+    "pre_requirements": [
+      "DSC0011",
+      "DAN0022",
+      "DSC0057"
+    ]
+  },
+  {
+    "cod": "DSC0159",
+    "nome": "MIGRA\u00c7\u00c3O, SA\u00daDE E DIREITOS HUMANOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0070",
+    "nome": "MONITORAMENTO E AVALIA\u00c7\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0091",
+    "nome": "PESQUISA EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0059",
+    "nome": "PESQUISA SOCIAL EM SA\u00daDE COLETIVA",
+    "ch": 45,
+    "post_requirements": [
+      "DSC0135"
+    ],
+    "pre_requirements": [
+      "DSC0057"
+    ]
+  },
+  {
+    "cod": "DSC0092",
+    "nome": "PLANEJAMENTO E PROGRAMA\u00c7\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0125"
+    ],
+    "pre_requirements": [
+      "FCE0278",
+      "DSC0050"
+    ]
+  },
+  {
+    "cod": "DSC0005",
+    "nome": "POL\u00cdTICAS DE SEGURAN\u00c7A ALIMENTAR E NUTRICIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0050",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0037",
+    "nome": "PRATICAS DE SAUDE",
+    "ch": 60,
+    "post_requirements": [
+      "DAN0065",
+      "DAN0066",
+      "DAN0068",
+      "DAN0070",
+      "DAN0072",
+      "DAN0074",
+      "DAN0076",
+      "DAN0080",
+      "DAN0082",
+      "DAN0084",
+      "DAN0086",
+      "DAN0088",
+      "JOR0083",
+      "DSC0011",
+      "ENF0025",
+      "ENF0027",
+      "ENF0056",
+      "ODT0155",
+      "DSC0104"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0067",
+    "nome": "PR\u00c1TICAS INTEGRADAS EM SA\u00daDE 2",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0078",
+      "DSC0117",
+      "DSC0099"
+    ],
+    "pre_requirements": [
+      "DSC0076"
+    ]
+  },
+  {
+    "cod": "DSC0071",
+    "nome": "PR\u00c1TICAS INTEGRADAS EM SA\u00daDE 3",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0062",
+    "nome": "PR\u00c1TICAS INTEGRADAS EM SA\u00daDE COLETIVA 1",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0076",
+      "DSC0113"
+    ],
+    "pre_requirements": [
+      "DSC0060"
+    ]
+  },
+  {
+    "cod": "DSC0163",
+    "nome": "PR\u00c1TICAS SUPERVISIONADAS EM SA\u00daDE COLETIVA I",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": [
+      "DSC0067 & DSC0079"
+    ]
+  },
+  {
+    "cod": "DSC0164",
+    "nome": "PR\u00c1TICAS SUPERVISIONADAS EM SA\u00daDE COLETIVA II",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": [
+      "DSC0146"
+    ]
+  },
+  {
+    "cod": "DSC0167",
+    "nome": "PR\u00c1TICAS SUPERVISIONADAS EM SA\u00daDE COLETIVA III",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": [
+      "DSC0085"
+    ]
+  },
+  {
+    "cod": "DSC0068",
+    "nome": "SA\u00daDE DO TRABALHADOR",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0189"
+    ],
+    "pre_requirements": [
+      "FCE0187"
+    ]
+  },
+  {
+    "cod": "DSC0011",
+    "nome": "SAUDE E SOCIEDADE 1",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0020",
+      "DSC0049",
+      "ENF0056",
+      "DSC0155"
+    ],
+    "pre_requirements": [
+      "DSC0037"
+    ]
+  },
+  {
+    "cod": "DSC0018",
+    "nome": "SAUDE E SOCIEDADE 3",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0157"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0038",
+    "nome": "SAUDE FAMILIAR",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0131"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0003",
+    "nome": "SA\u00daDE IND\u00cdGENA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0086",
+    "nome": "SA\u00daDE INTERNACIONAL - T\u00d3PICOS ESPECIAIS EM SA\u00daDE COLETIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0055",
+    "nome": "SA\u00daDE MENTAL E BEM-ESTAR NO TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0176"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0043",
+    "nome": "SAUDE MENTAL EM SAUDE COLETIVA",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0039",
+    "nome": "SAUDE NO BRASIL - SITUACAO ATUAL E PERSPECTIVAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0074",
+    "nome": "SEMIN\u00c1RIO INTEGRADOR EM SA\u00daDE COLETIVA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0076",
+    "nome": "SEMIN\u00c1RIO INTEGRADOR EM SA\u00daDE COLETIVA 2",
+    "ch": 30,
+    "post_requirements": [
+      "DSC0067",
+      "DSC0138"
+    ],
+    "pre_requirements": [
+      "DSC0062"
+    ]
+  },
+  {
+    "cod": "DSC0078",
+    "nome": "SEMIN\u00c1RIO INTEGRADOR EM SA\u00daDE COLETIVA 3",
+    "ch": 45,
+    "post_requirements": [
+      "DSC0139",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "DSC0084",
+      "DSC0146"
+    ],
+    "pre_requirements": [
+      "DSC0067"
+    ]
+  },
+  {
+    "cod": "DSC0060",
+    "nome": "SEMIN\u00c1RIOS INTEGRADOS EM SA\u00daDE COLETIVA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0073",
+    "nome": "TECNOLOGIAS PARA INFORMA\u00c7\u00c3O COMUNICA\u00c7\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0094",
+    "nome": "TERAPIAS COMUNIT\u00c1RIAS E PR\u00c1TICAS INTEGRATIVAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0046",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ANTROPOLOGIA DA SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0170"
+    ],
+    "pre_requirements": [
+      "DAN0022 & SOL0042 & DSC0011"
+    ]
+  },
+  {
+    "cod": "DSC0008",
+    "nome": "T\u00d3PICOS ESPECIAIS EM BIO\u00c9TICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0152"
+    ],
+    "pre_requirements": [
+      "DSC0007"
+    ]
+  },
+  {
+    "cod": "DSC0009",
+    "nome": "T\u00d3PICOS ESPECIAIS EM BIO\u00c9TICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0153"
+    ],
+    "pre_requirements": [
+      "DSC0007"
+    ]
+  },
+  {
+    "cod": "DSC0083",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 150,
+    "post_requirements": [
+      "DSC0140"
+    ],
+    "pre_requirements": [
+      "DSC0084"
+    ]
+  },
+  {
+    "cod": "DSC0099",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 60,
+    "post_requirements": [
+      "DSC0111"
+    ],
+    "pre_requirements": [
+      "DSC0067"
+    ]
+  },
+  {
+    "cod": "DSC0103",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DSC0045",
+    "nome": "VIGILANCIA SANITARIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

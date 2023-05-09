@@ -1,0 +1,1189 @@
+[
+  {
+    "cod": "CCA0031",
+    "nome": "ADMINISTRACAO FINANCEIRA E CONTABILIDADE PUBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "GPP0036",
+      "CCA0259"
+    ],
+    "pre_requirements": [
+      "CCA0091",
+      "CCA0170"
+    ]
+  },
+  {
+    "cod": "CCA0089",
+    "nome": "ANALISE DA LIQUIDEZ",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0266"
+    ],
+    "pre_requirements": [
+      "CCA0021"
+    ]
+  },
+  {
+    "cod": "CCA0137",
+    "nome": "AN\u00c1LISE DAS DEMONSTRA\u00c7\u00d5ES CONT\u00c1BEIS GOVERNAMENTAIS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0341"
+    ],
+    "pre_requirements": [
+      "CCA0021 & CCA0031",
+      "CCA0021 & CCA0099",
+      "CCA0175 & CCA0031",
+      "CCA0175 & CCA0171"
+    ]
+  },
+  {
+    "cod": "CCA0021",
+    "nome": "AN\u00c1LISE ECON\u00d4MICO-FINANCEIRA 1",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0068",
+      "CCA0024",
+      "CCA0056",
+      "CCA0074",
+      "CCA0089",
+      "CCA0117",
+      "CCA0256"
+    ],
+    "pre_requirements": [
+      "CCA0040",
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "CCA0074",
+    "nome": "AN\u00c1LISE ECON\u00d4MICO-FINANCEIRA 2",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0236"
+    ],
+    "pre_requirements": [
+      "CCA0021"
+    ]
+  },
+  {
+    "cod": "CCA0149",
+    "nome": "ATU\u00c1RIA B\u00c1SICA",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0347"
+    ],
+    "pre_requirements": [
+      "CCA0155",
+      "CCA0183"
+    ]
+  },
+  {
+    "cod": "CCA0024",
+    "nome": "AUDITORIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0026",
+      "CCA0129",
+      "CCA0133",
+      "CCA0257"
+    ],
+    "pre_requirements": [
+      "CCA0179",
+      "CCA0040",
+      "CCA0021"
+    ]
+  },
+  {
+    "cod": "CCA0026",
+    "nome": "AUDITORIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0258"
+    ],
+    "pre_requirements": [
+      "CCA0024"
+    ]
+  },
+  {
+    "cod": "CCA0133",
+    "nome": "AUDITORIA DE SISTEMAS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0339"
+    ],
+    "pre_requirements": [
+      "CCA0024"
+    ]
+  },
+  {
+    "cod": "CCA0071",
+    "nome": "AUDITORIA EM SISTEMAS COMPUTADORIZADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0308"
+    ],
+    "pre_requirements": [
+      "CCA0026 & CCA0069"
+    ]
+  },
+  {
+    "cod": "CCA0227",
+    "nome": "AUDITORIA SETOR P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0275"
+    ],
+    "pre_requirements": [
+      "CCA0024 & CCA0091",
+      "CCA0024 & CCA0031",
+      "CCA0024 & CCA0170"
+    ]
+  },
+  {
+    "cod": "CCA0004",
+    "nome": "AVALIA\u00c7\u00c3O DE EMPRESAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0056",
+    "nome": "AVALIA\u00c7\u00c3O DE PROJETOS DE INVESTIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0261"
+    ],
+    "pre_requirements": [
+      "CCA0021",
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "CCA0124",
+    "nome": "COM\u00c9RCIO EXTERIOR",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0272"
+    ],
+    "pre_requirements": [
+      "CCA0015",
+      "CCA0103 & ECO0019"
+    ]
+  },
+  {
+    "cod": "CCA0063",
+    "nome": "CONTABILIDADE AGRARIA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0262"
+    ],
+    "pre_requirements": [
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0178",
+    "nome": "CONTABILIDADE AVAN\u00c7ADA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0371"
+    ],
+    "pre_requirements": [
+      "CCA0081 & CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0105",
+    "nome": "CONTABILIDADE B\u00c1SICA - SEMI PRESENCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0325"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0029",
+    "nome": "CONTABILIDADE COMERCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0230"
+    ],
+    "pre_requirements": [
+      "CCA0015"
+    ]
+  },
+  {
+    "cod": "CCA0085",
+    "nome": "CONTABILIDADE DE COMPANHIAS ABERTAS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0264"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0046",
+    "nome": "CONTABILIDADE DE INSTITUICOES FINANCEIRAS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0297"
+    ],
+    "pre_requirements": [
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0185",
+    "nome": "CONTABILIDADE DE INSTRUMENTOS FINANCEIROS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0248"
+    ],
+    "pre_requirements": [
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0157",
+    "nome": "CONTABILIDADE DE MICRO E PEQUENOS EMPREENDIMENTOS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0245"
+    ],
+    "pre_requirements": [
+      "CCA0029 & CCA0018",
+      "CCA0179 & CCA0018"
+    ]
+  },
+  {
+    "cod": "CCA0147",
+    "nome": "CONTABILIDADE DO AGRONEG\u00d3CIO",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0346"
+    ],
+    "pre_requirements": [
+      "CCA0040 & CCA0018"
+    ]
+  },
+  {
+    "cod": "CCA0145",
+    "nome": "CONTABILIDADE DO SETOR PREVIDENCI\u00c1RIO",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0345"
+    ],
+    "pre_requirements": [
+      "CCA0099",
+      "CCA0171"
+    ]
+  },
+  {
+    "cod": "CCA0171",
+    "nome": "CONTABILIDADE DO SETOR P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0145",
+      "CCA0364"
+    ],
+    "pre_requirements": [
+      "CCA0170"
+    ]
+  },
+  {
+    "cod": "CCA0065",
+    "nome": "CONTABILIDADE E ANALISE DE BALANCOS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0305"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0095",
+    "nome": "CONTABILIDADE E COMPANHIAS TRANSNACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0320"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0179",
+    "nome": "CONTABILIDADE EMPRESARIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0024",
+      "CCA0372"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0061",
+    "nome": "CONTABILIDADE FISCAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0107",
+      "CCA0127",
+      "CCA0143",
+      "CCA0234"
+    ],
+    "pre_requirements": [
+      "CCA0040 & FDD0141"
+    ]
+  },
+  {
+    "cod": "CCA0015",
+    "nome": "CONTABILIDADE GERAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0010",
+      "ADM0080",
+      "CCA0029",
+      "CCA0042",
+      "CCA0079",
+      "CCA0124",
+      "CCA0158",
+      "CCA0159",
+      "CCA0160",
+      "CCA0228"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0079",
+    "nome": "CONTABILIDADE GERAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0018",
+      "CCA0040",
+      "CCA0238"
+    ],
+    "pre_requirements": [
+      "CCA0015"
+    ]
+  },
+  {
+    "cod": "CCA0077",
+    "nome": "CONTABILIDADE GERAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0018",
+      "CCA0040",
+      "CCA0311"
+    ],
+    "pre_requirements": [
+      "CCA0015 & CCA0153"
+    ]
+  },
+  {
+    "cod": "CCA0040",
+    "nome": "CONTABILIDADE GERAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0021",
+      "CCA0024",
+      "CCA0046",
+      "CCA0054",
+      "CCA0058",
+      "CCA0063",
+      "CCA0081",
+      "CCA0113",
+      "CCA0175",
+      "CCA0185",
+      "CCA0231"
+    ],
+    "pre_requirements": [
+      "CCA0079",
+      "CCA0077"
+    ]
+  },
+  {
+    "cod": "CCA0048",
+    "nome": "CONTABILIDADE INDUSTRIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0298"
+    ],
+    "pre_requirements": [
+      "CCA0018"
+    ]
+  },
+  {
+    "cod": "CCA0123",
+    "nome": "CONTABILIDADE INTERNACIONAL",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0334"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0058",
+    "nome": "CONTABILIDADE SECURITARIA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0302"
+    ],
+    "pre_requirements": [
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0115",
+    "nome": "CONTABILIDADE SOCIAL CORPORATIVA",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0330"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0160",
+    "nome": "CONTABILIDADE SOCIOAMBIENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0353"
+    ],
+    "pre_requirements": [
+      "CCA0015",
+      "CCA0103"
+    ]
+  },
+  {
+    "cod": "CCA0181",
+    "nome": "CONTABILIDADE TRIBUT\u00c1RIA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0127",
+      "CCA0143",
+      "CCA0374"
+    ],
+    "pre_requirements": [
+      "CCA0179 & CCA0076 & FDD0015 & FDD0141"
+    ]
+  },
+  {
+    "cod": "CCA0044",
+    "nome": "CONTROLADORIA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0097",
+      "CCA0232"
+    ],
+    "pre_requirements": [
+      "CCA0021 & CCA0018"
+    ]
+  },
+  {
+    "cod": "CCA0099",
+    "nome": "CONTROLE E AVALIACAO DA GESTAO PUBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0145",
+      "CCA0240"
+    ],
+    "pre_requirements": [
+      "CCA0091"
+    ]
+  },
+  {
+    "cod": "CCA0018",
+    "nome": "CUSTOS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0002",
+      "CCA0048",
+      "CCA0180",
+      "CCA0255"
+    ],
+    "pre_requirements": [
+      "CCA0079",
+      "ADM0051",
+      "CCA0077"
+    ]
+  },
+  {
+    "cod": "CCA0002",
+    "nome": "CUSTOS APLICADOS AO SETOR P\u00daBLICO",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0249"
+    ],
+    "pre_requirements": [
+      "CCA0018"
+    ]
+  },
+  {
+    "cod": "CCA0162",
+    "nome": "EPISTEMOLOGIA DA PESQUISA EM CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0051",
+    "nome": "EST\u00c1GIO EM CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 90,
+    "post_requirements": [
+      "CCA0233"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0093",
+    "nome": "ETICA PROFISSIONAL EM CIENCIAS CONTABEIS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0268"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0091",
+    "nome": "EXECUCAO DA GESTAO PUBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0007",
+      "CCA0031",
+      "CCA0099",
+      "CCA0267"
+    ],
+    "pre_requirements": [
+      "CCA0067"
+    ]
+  },
+  {
+    "cod": "CCA0182",
+    "nome": "FILOSOFIA E \u00c9TICA PROFISSIONAL EM CONTABILIDADE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0005",
+    "nome": "FINAN\u00c7AS COMPORTAMENTAIS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0175",
+    "nome": "FINAN\u00c7AS CORPORATIVAS 1",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0176",
+      "CCA0368"
+    ],
+    "pre_requirements": [
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0176",
+    "nome": "FINAN\u00c7AS CORPORATIVAS 2",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0177",
+      "CCA0369"
+    ],
+    "pre_requirements": [
+      "CCA0175"
+    ]
+  },
+  {
+    "cod": "CCA0177",
+    "nome": "FINAN\u00c7AS CORPORATIVAS 3",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0370"
+    ],
+    "pre_requirements": [
+      "CCA0176"
+    ]
+  },
+  {
+    "cod": "CCA0169",
+    "nome": "FINAN\u00c7AS DO SETOR P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0170",
+      "CCA0362"
+    ],
+    "pre_requirements": [
+      "ECO0050",
+      "ECO0072"
+    ]
+  },
+  {
+    "cod": "CCA0126",
+    "nome": "FINAN\u00c7AS PESSOAIS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0243"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0011",
+    "nome": "GEST\u00c3O E PRESTA\u00c7\u00c3O DE CONTAS NO TERCEIRO SETOR",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0253"
+    ],
+    "pre_requirements": [
+      "ADM0023 & CCA0015",
+      "ADM0023 & CCA0103"
+    ]
+  },
+  {
+    "cod": "CCA0009",
+    "nome": "GOVERNAN\u00c7A APLICADA AO SETOR P\u00daBLICO",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0252"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "CCA0121",
+    "nome": "GOVERNAN\u00c7A CORPORATIVA",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0271"
+    ],
+    "pre_requirements": [
+      "CCA0081",
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "CCA0161",
+    "nome": "HIST\u00d3RIA DO PENSAMENTO CONT\u00c1BIL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0113",
+    "nome": "INFORMA\u00c7\u00d5ES CONTABEIS COMPLEMENTARES",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0329"
+    ],
+    "pre_requirements": [
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0010",
+    "nome": "INSTRUMENTOS FINANCEIROS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0283"
+    ],
+    "pre_requirements": [
+      "CCA0015",
+      "CCA0103 & ECO0019"
+    ]
+  },
+  {
+    "cod": "CCA0001",
+    "nome": "INSTRUMENTOS FINANCEIROS DERIVATIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0276"
+    ],
+    "pre_requirements": [
+      "CCA0153",
+      "ADM0192 & EST0019"
+    ]
+  },
+  {
+    "cod": "CCA0097",
+    "nome": "INTRODUCAO A ATUARIA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0321"
+    ],
+    "pre_requirements": [
+      "CCA0044"
+    ]
+  },
+  {
+    "cod": "CCA0103",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 CONTABILIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0158",
+      "CCA0159",
+      "CCA0160",
+      "CCA0241"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0135",
+    "nome": "JOGOS CONT\u00c1BEIS DE EMPRESAS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0340"
+    ],
+    "pre_requirements": [
+      "CCA0018 & CCA0029"
+    ]
+  },
+  {
+    "cod": "CCA0174",
+    "nome": "LABORAT\u00d3RIO CONT\u00c1BIL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0367"
+    ],
+    "pre_requirements": [
+      "CCA0178 & CCA0181"
+    ]
+  },
+  {
+    "cod": "CCA0107",
+    "nome": "LABORATORIO CONTABIL - EMPRESARIAL",
+    "ch": 90,
+    "post_requirements": [
+      "CCA0242"
+    ],
+    "pre_requirements": [
+      "CCA0061"
+    ]
+  },
+  {
+    "cod": "CCA0036",
+    "nome": "LABORAT\u00d3RIO EM CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 120,
+    "post_requirements": [
+      "CCA0293"
+    ],
+    "pre_requirements": [
+      "CCA0061 & CCA0026"
+    ]
+  },
+  {
+    "cod": "CCA0076",
+    "nome": "LEGISLACAO COMERCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0237"
+    ],
+    "pre_requirements": [
+      "FDD0004"
+    ]
+  },
+  {
+    "cod": "CCA0003",
+    "nome": "MANAGEMENT ACCOUNTING AND CONTROL SYSTEMS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0153",
+    "nome": "MATEM\u00c1TICA FINANCEIRA APLICADA \u00c0S CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0001",
+      "CCA0274"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0111",
+    "nome": "METODOLOGIA DA PESQUISA EM CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0270"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0163",
+    "nome": "M\u00c9TODOS QUALITATIVO EM CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0155",
+    "nome": "M\u00c9TODOS QUANTITATIVOS APLICADOS AS CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0149",
+      "CCA0349"
+    ],
+    "pre_requirements": [
+      "MAT0022 & EST0019"
+    ]
+  },
+  {
+    "cod": "CCA0183",
+    "nome": "M\u00c9TODOS QUANTITATIVOS APLICADOS \u00c0S CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0149",
+      "CCA0376"
+    ],
+    "pre_requirements": [
+      "EST0023",
+      "EST0019"
+    ]
+  },
+  {
+    "cod": "CCA0083",
+    "nome": "MODELOS DE AJUSTAMENTOS CONTABEIS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0314"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0158",
+    "nome": "NORMAS INTERNACIONAIS DE CONTABILIDADE PARA O SETOR P\u00daBLICO",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0351"
+    ],
+    "pre_requirements": [
+      "CCA0015",
+      "CCA0103"
+    ]
+  },
+  {
+    "cod": "CCA0139",
+    "nome": "NORMAS NORTE AMERICANAS DE CONTABILIDADE",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0342"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0170",
+    "nome": "OR\u00c7AMENTO DO SETOR P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0007",
+      "CCA0031",
+      "CCA0171",
+      "CCA0363"
+    ],
+    "pre_requirements": [
+      "CCA0169"
+    ]
+  },
+  {
+    "cod": "CCA0129",
+    "nome": "PER\u00cdCIA CONT\u00c1BIL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0244"
+    ],
+    "pre_requirements": [
+      "CCA0024"
+    ]
+  },
+  {
+    "cod": "CCA0127",
+    "nome": "PER\u00cdCIA CONT\u00c1BIL",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0337"
+    ],
+    "pre_requirements": [
+      "CCA0181",
+      "CCA0061"
+    ]
+  },
+  {
+    "cod": "CCA0109",
+    "nome": "PESQUISA EM CI\u00caNCIAS CONT\u00c1BEIS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0269"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0172",
+    "nome": "PESQUISA EM CONTABILIDADE 1",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0173",
+      "CCA0365"
+    ],
+    "pre_requirements": [
+      "CCA0111 & CCA0178"
+    ]
+  },
+  {
+    "cod": "CCA0173",
+    "nome": "PESQUISA EM CONTABILIDADE 2",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0366"
+    ],
+    "pre_requirements": [
+      "CCA0172"
+    ]
+  },
+  {
+    "cod": "CCA0143",
+    "nome": "PLANEJAMENTO TRIBUT\u00c1RIO",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0273"
+    ],
+    "pre_requirements": [
+      "CCA0061",
+      "CCA0181"
+    ]
+  },
+  {
+    "cod": "CCA0042",
+    "nome": "PRATICA COMERCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0260"
+    ],
+    "pre_requirements": [
+      "CCA0015"
+    ]
+  },
+  {
+    "cod": "CCA0159",
+    "nome": "PR\u00c1TICA CONT\u00c1BIL DO SETOR P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0352"
+    ],
+    "pre_requirements": [
+      "CCA0015",
+      "CCA0103"
+    ]
+  },
+  {
+    "cod": "CCA0117",
+    "nome": "PREVIS\u00c3O DE INSOLV\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0331"
+    ],
+    "pre_requirements": [
+      "CCA0021"
+    ]
+  },
+  {
+    "cod": "CCA0067",
+    "nome": "PROGRAMACAO FISCAL E FINANCEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0091",
+      "CCA0263"
+    ],
+    "pre_requirements": [
+      "ECO0050",
+      "ECO0072"
+    ]
+  },
+  {
+    "cod": "CCA0101",
+    "nome": "SISTEMAS CONTABEIS APLICADOS A ARQUIVOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0323"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0054",
+    "nome": "SISTEMAS CONTABEIS COMPUTADORIZADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0300"
+    ],
+    "pre_requirements": [
+      "CCA0069",
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0180",
+    "nome": "SISTEMAS DE CONTROLE GERENCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0069",
+      "CCA0373"
+    ],
+    "pre_requirements": [
+      "CCA0018"
+    ]
+  },
+  {
+    "cod": "CCA0069",
+    "nome": "SISTEMAS DE INFORMACOES CONTABEIS",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0054",
+      "CCA0235"
+    ],
+    "pre_requirements": [
+      "CCA0180",
+      "CCA0018 & CCA0029"
+    ]
+  },
+  {
+    "cod": "CCA0081",
+    "nome": "TEORIA CONTABIL",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0083",
+      "CCA0085",
+      "CCA0087",
+      "CCA0093",
+      "CCA0095",
+      "CCA0109",
+      "CCA0115",
+      "CCA0119",
+      "CCA0121",
+      "CCA0139",
+      "CCA0179",
+      "CCA0239"
+    ],
+    "pre_requirements": [
+      "CCA0111 & CCA0077",
+      "CCA0040"
+    ]
+  },
+  {
+    "cod": "CCA0141",
+    "nome": "TEORIA DA CONTABILIDADE GERENCIAL",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0343"
+    ],
+    "pre_requirements": [
+      "CCA0018 & CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0119",
+    "nome": "TEORIA DA CONTABILIDADE POSITIVA",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0332"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0184",
+    "nome": "TEORIA DO LUCRO",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0377"
+    ],
+    "pre_requirements": [
+      "CCA0040 & CCA0153"
+    ]
+  },
+  {
+    "cod": "CCA0012",
+    "nome": "TEORIA DOS JOGOS APLICADA \u00c0 GEST\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0087",
+    "nome": "TOPICOS CONTEMPORANEOS EM CONTABILIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "CCA0265"
+    ],
+    "pre_requirements": [
+      "CCA0081"
+    ]
+  },
+  {
+    "cod": "CCA0007",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM CONTABILIDADE P\u00daBLICA",
+    "ch": 30,
+    "post_requirements": [
+      "CCA0281"
+    ],
+    "pre_requirements": [
+      "CCA0091",
+      "CCA0170"
+    ]
+  },
+  {
+    "cod": "CCA0164",
+    "nome": "T\u00d3PICOS EM CONTABILIDADE 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0165",
+    "nome": "T\u00d3PICOS EM CONTABILIDADE 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0166",
+    "nome": "T\u00d3PICOS EM CONTABILIDADE 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0167",
+    "nome": "T\u00d3PICOS EM CONTABILIDADE 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0168",
+    "nome": "T\u00d3PICOS EM CONTABILIDADE 5",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CCA0186",
+    "nome": "T\u00d3PICOS EM CONTABILIDADE 6",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

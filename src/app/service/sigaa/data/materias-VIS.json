@@ -1,0 +1,2416 @@
+[
+  {
+    "cod": "VIS0104",
+    "nome": "ANALISE DO FILME 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0466"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0105",
+    "nome": "ANALISE DO FILME 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0467"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0106",
+    "nome": "ANALISE DO FILME 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0468"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0140",
+    "nome": "ANATOMIA ART\u00cdSTICA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0492"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0244",
+    "nome": "ANIMA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0556"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0213",
+    "nome": "APARTE - ATELIE PERMANENTE DE ARTE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0012",
+    "nome": "ARTE E ANTROPOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0004",
+    "nome": "ARTE E CI\u00caNCIAS DA LINGUAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0185",
+    "nome": "ARTE ELETRONICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0059",
+      "VIS0150",
+      "VIS0246",
+      "VIS0310"
+    ],
+    "pre_requirements": [
+      "VIS0065 & VIS0129 & VIS0088",
+      "VIS0065 & VIS0060 & VIS0085",
+      "VIS0065 & VIS0129",
+      "PRO0026 & VIS0129 & VIS0088",
+      "PRO0026 & VIS0060 & VIS0085",
+      "PRO0026 & VIS0129"
+    ]
+  },
+  {
+    "cod": "VIS0246",
+    "nome": "ARTE ELETRONICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0558"
+    ],
+    "pre_requirements": [
+      "VIS0185"
+    ]
+  },
+  {
+    "cod": "VIS0295",
+    "nome": "ARTE E LITERATURA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0003",
+    "nome": "ARTE E PENSAMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0007",
+    "nome": "ARTE E PSICAN\u00c1LISE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0002",
+    "nome": "ARTE E SOCIOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0217",
+    "nome": "ATELIE 1",
+    "ch": 120,
+    "post_requirements": [
+      "VIS0219",
+      "VIS0350"
+    ],
+    "pre_requirements": [
+      "VIS0220",
+      "VIS0173",
+      "VIS0143",
+      "VIS0165",
+      "VIS0192"
+    ]
+  },
+  {
+    "cod": "VIS0219",
+    "nome": "ATELIE 2",
+    "ch": 120,
+    "post_requirements": [
+      "VIS0229",
+      "VIS0351",
+      "VIS0366"
+    ],
+    "pre_requirements": [
+      "VIS0217",
+      "VIS0175",
+      "VIS0145",
+      "VIS0167",
+      "VIS0194"
+    ]
+  },
+  {
+    "cod": "VIS0180",
+    "nome": "ATELIE DE CERAMICA 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0516"
+    ],
+    "pre_requirements": [
+      "VIS0074 & VIS0063 & VIS0085 & CEN0030"
+    ]
+  },
+  {
+    "cod": "VIS0181",
+    "nome": "ATELIE DE CERAMICA 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0145",
+      "VIS0147",
+      "VIS0517"
+    ],
+    "pre_requirements": [
+      "VIS0067 & VIS0180"
+    ]
+  },
+  {
+    "cod": "VIS0182",
+    "nome": "ATELIE DE CERAMICA 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0518"
+    ],
+    "pre_requirements": [
+      "VIS0067 & VIS0180 & VIS0181"
+    ]
+  },
+  {
+    "cod": "VIS0183",
+    "nome": "ATELIE DE CERAMICA 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0519"
+    ],
+    "pre_requirements": [
+      "VIS0067 & VIS0180 & VIS0181 & VIS0182"
+    ]
+  },
+  {
+    "cod": "VIS0192",
+    "nome": "ATELIE DE DESENHO 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0194",
+      "VIS0217",
+      "VIS0229",
+      "VIS0366",
+      "VIS0525"
+    ],
+    "pre_requirements": [
+      "VIS0065 & VIS0072"
+    ]
+  },
+  {
+    "cod": "VIS0194",
+    "nome": "ATELIE DE DESENHO 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0196",
+      "VIS0219",
+      "VIS0526"
+    ],
+    "pre_requirements": [
+      "VIS0192"
+    ]
+  },
+  {
+    "cod": "VIS0196",
+    "nome": "ATELIE DE DESENHO 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0198",
+      "VIS0527"
+    ],
+    "pre_requirements": [
+      "VIS0194"
+    ]
+  },
+  {
+    "cod": "VIS0198",
+    "nome": "ATELIE DE DESENHO 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0208",
+      "VIS0528"
+    ],
+    "pre_requirements": [
+      "VIS0196"
+    ]
+  },
+  {
+    "cod": "VIS0143",
+    "nome": "ATELIE DE ESCULTURA 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0145",
+      "VIS0149",
+      "VIS0217",
+      "VIS0229",
+      "VIS0366",
+      "VIS0494"
+    ],
+    "pre_requirements": [
+      "VIS0074 & VIS0063 & VIS0085 & CEN0030"
+    ]
+  },
+  {
+    "cod": "VIS0145",
+    "nome": "ATELIE DE ESCULTURA 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0147",
+      "VIS0219",
+      "VIS0495"
+    ],
+    "pre_requirements": [
+      "VIS0143",
+      "VIS0181"
+    ]
+  },
+  {
+    "cod": "VIS0147",
+    "nome": "ATELIE DE ESCULTURA 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0496"
+    ],
+    "pre_requirements": [
+      "VIS0145",
+      "VIS0181"
+    ]
+  },
+  {
+    "cod": "VIS0149",
+    "nome": "ATELIE DE ESCULTURA 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0201",
+      "VIS0497"
+    ],
+    "pre_requirements": [
+      "VIS0143"
+    ]
+  },
+  {
+    "cod": "VIS0173",
+    "nome": "ATELIE DE GRAVURA 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0217",
+      "VIS0229",
+      "VIS0366",
+      "VIS0512"
+    ],
+    "pre_requirements": [
+      "VIS0188"
+    ]
+  },
+  {
+    "cod": "VIS0175",
+    "nome": "ATELIE DE GRAVURA 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0219",
+      "VIS0513"
+    ],
+    "pre_requirements": [
+      "VIS0188 & VIS0173"
+    ]
+  },
+  {
+    "cod": "VIS0177",
+    "nome": "ATELIE DE GRAVURA 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0514"
+    ],
+    "pre_requirements": [
+      "VIS0188 & VIS0173 & VIS0175"
+    ]
+  },
+  {
+    "cod": "VIS0179",
+    "nome": "ATELIE DE GRAVURA 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0205",
+      "VIS0515"
+    ],
+    "pre_requirements": [
+      "VIS0188 & VIS0173 & VIS0175 & VIS0177"
+    ]
+  },
+  {
+    "cod": "VIS0150",
+    "nome": "ATELIE DE MULTI MEIOS 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0498"
+    ],
+    "pre_requirements": [
+      "VIS0185"
+    ]
+  },
+  {
+    "cod": "VIS0151",
+    "nome": "ATELIE DE MULTI MEIOS 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0499"
+    ],
+    "pre_requirements": [
+      "VIS0185 & VIS0150"
+    ]
+  },
+  {
+    "cod": "VIS0152",
+    "nome": "ATELIE DE MULTI MEIOS 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0500"
+    ],
+    "pre_requirements": [
+      "VIS0185 & VIS0150 & VIS0151"
+    ]
+  },
+  {
+    "cod": "VIS0153",
+    "nome": "ATELIE DE MULTI MEIOS 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0199",
+      "VIS0501"
+    ],
+    "pre_requirements": [
+      "VIS0185 & VIS0150 & VIS0151 & VIS0152"
+    ]
+  },
+  {
+    "cod": "VIS0165",
+    "nome": "ATELIE DE PINTURA 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0217",
+      "VIS0229",
+      "VIS0366",
+      "VIS0508"
+    ],
+    "pre_requirements": [
+      "VIS0187",
+      "VIS0119"
+    ]
+  },
+  {
+    "cod": "VIS0167",
+    "nome": "ATELIE DE PINTURA 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0219",
+      "VIS0509"
+    ],
+    "pre_requirements": [
+      "VIS0165 & VIS0187",
+      "VIS0165 & VIS0119"
+    ]
+  },
+  {
+    "cod": "VIS0169",
+    "nome": "ATELIE DE PINTURA 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0510"
+    ],
+    "pre_requirements": [
+      "VIS0187 & VIS0165 & VIS0167",
+      "VIS0187 & VIS0165 & VIS0217"
+    ]
+  },
+  {
+    "cod": "VIS0171",
+    "nome": "ATELIE DE PINTURA 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0203",
+      "VIS0511"
+    ],
+    "pre_requirements": [
+      "VIS0187 & VIS0165 & VIS0167 & VIS0169",
+      "VIS0187 & VIS0165 & VIS0167 & VIS0219",
+      "VIS0187 & VIS0165 & VIS0217 & VIS0169"
+    ]
+  },
+  {
+    "cod": "VIS0285",
+    "nome": "ATELIER DE ARTES VISUAIS 3",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0286",
+    "nome": "ATELIER DE ARTES VISUAIS 4",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0283",
+      "VIS0586"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0283",
+    "nome": "ATELIER DE PRODU\u00c7\u00c3O INTERDISCIPLINAR",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0583"
+    ],
+    "pre_requirements": [
+      "IDA0363 & IDA0374",
+      "VIS0285",
+      "VIS0286",
+      "IDA0322"
+    ]
+  },
+  {
+    "cod": "VIS0249",
+    "nome": "CALCOGRAVURA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0561"
+    ],
+    "pre_requirements": [
+      "VIS0188"
+    ]
+  },
+  {
+    "cod": "VIS0097",
+    "nome": "CINEMA BRASILEIRO CONTEMPORANEO",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0459"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0021",
+    "nome": "CR\u00cdTICA E HIST\u00d3RIA DA ARTE NO BRASIL 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0395"
+    ],
+    "pre_requirements": [
+      "VIS0189",
+      "VIS0001"
+    ]
+  },
+  {
+    "cod": "VIS0022",
+    "nome": "CR\u00cdTICA E HIST\u00d3RIA DA ARTE NO BRASIL 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0396"
+    ],
+    "pre_requirements": [
+      "VIS0006",
+      "VIS0190"
+    ]
+  },
+  {
+    "cod": "VIS0010",
+    "nome": "CR\u00cdTICA E HIST\u00d3RIA DA ARTE NO BRASIL 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0316"
+    ],
+    "pre_requirements": [
+      "VIS0189",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0015",
+    "nome": "CR\u00cdTICA E HIST\u00d3RIA DA ARTE NO BRASIL 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0318"
+    ],
+    "pre_requirements": [
+      "VIS0190",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0035",
+    "nome": "CURR\u00cdCULO E AVALIA\u00c7\u00c3O EM ARTES VISUAIS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0063",
+    "nome": "DESENHO 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0065",
+      "VIS0067",
+      "CEN0139",
+      "VIS0303"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0065",
+    "nome": "DESENHO 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0188",
+      "VIS0212",
+      "VIS0304"
+    ],
+    "pre_requirements": [
+      "VIS0063"
+    ]
+  },
+  {
+    "cod": "VIS0212",
+    "nome": "DESENHO 3",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0325"
+    ],
+    "pre_requirements": [
+      "VIS0065"
+    ]
+  },
+  {
+    "cod": "VIS0245",
+    "nome": "DESENHO 4",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0074",
+    "nome": "DESENHO GEOMETRICO",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0072",
+      "VIS0442"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0075",
+    "nome": "DESENHO PERSPECTIVO",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0443"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0029",
+    "nome": "DID\u00c1TICA DAS ARTES VISUAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0229",
+    "nome": "DIPLOMA\u00c7\u00c3O EM ARTES PL\u00c1STICAS - BACHARELADO",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0353"
+    ],
+    "pre_requirements": [
+      "VIS0219",
+      "VIS0165",
+      "VIS0192",
+      "VIS0173",
+      "VIS0143",
+      "VIS0154"
+    ]
+  },
+  {
+    "cod": "VIS0161",
+    "nome": "DIPLOMA\u00c7\u00c3O EM ARTES PL\u00c1STICAS - LICENCIATURA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0347"
+    ],
+    "pre_requirements": [
+      "VIS0220"
+    ]
+  },
+  {
+    "cod": "VIS0122",
+    "nome": "ELEMENTOS DE LINGUAGEM, ARTE E CULTURA POPULAR",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0480"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0060",
+    "nome": "ELEMENTOS DE LINGUAGEM, EST\u00c9TICA E HIST\u00d3RIA DA ARTE 1",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0006",
+      "VIS0433"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0067",
+    "nome": "ESCULTURA 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0070",
+      "VIS0241",
+      "VIS0305"
+    ],
+    "pre_requirements": [
+      "VIS0065 & VIS0129",
+      "VIS0065 & VIS0060 & VIS0085",
+      "VIS0063"
+    ]
+  },
+  {
+    "cod": "VIS0241",
+    "nome": "ESCULTURA 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0357"
+    ],
+    "pre_requirements": [
+      "VIS0067"
+    ]
+  },
+  {
+    "cod": "VIS0135",
+    "nome": "ESTAGIO SUPERVISIONADO EM ARTES PLASTICAS",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0488"
+    ],
+    "pre_requirements": [
+      "MUS0738"
+    ]
+  },
+  {
+    "cod": "VIS0222",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES PL\u00c1STICAS 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0036",
+      "VIS0224",
+      "VIS0298",
+      "VIS0368",
+      "VIS0542"
+    ],
+    "pre_requirements": [
+      "CEN0135 & MTC0143 & PPB0067",
+      "CEN0135 & MTC0143 & PED0060",
+      "CEN0135 & MTC0012 & PED0060",
+      "CEN0059 & MTC0143 & PPB0067",
+      "CEN0059 & MTC0143 & PED0060",
+      "CEN0059 & MTC0012 & PED0060"
+    ]
+  },
+  {
+    "cod": "VIS0224",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES PL\u00c1STICAS 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0226",
+      "VIS0364",
+      "VIS0543"
+    ],
+    "pre_requirements": [
+      "VIS0222",
+      "VIS0367"
+    ]
+  },
+  {
+    "cod": "VIS0226",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES PL\u00c1STICAS 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0044",
+      "VIS0045",
+      "VIS0369",
+      "VIS0544",
+      "VIS0427",
+      "VIS0546"
+    ],
+    "pre_requirements": [
+      "VIS0224",
+      "VIS0368",
+      "MUS0738"
+    ]
+  },
+  {
+    "cod": "VIS0288",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0287",
+      "VIS0289",
+      "VIS0290",
+      "VIS0293",
+      "VIS0588"
+    ],
+    "pre_requirements": [
+      "VIS0282"
+    ]
+  },
+  {
+    "cod": "VIS0289",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0290",
+      "VIS0589"
+    ],
+    "pre_requirements": [
+      "VIS0282",
+      "IDA0376",
+      "VIS0288"
+    ]
+  },
+  {
+    "cod": "VIS0293",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS 3",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0593"
+    ],
+    "pre_requirements": [
+      "VIS0282",
+      "IDA0376",
+      "VIS0288"
+    ]
+  },
+  {
+    "cod": "VIS0041",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS - ESPA\u00c7OS MUSEAIS 1",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0322",
+      "VIS0415"
+    ],
+    "pre_requirements": [
+      "VIS0036",
+      "VIS0298",
+      "VIS0364"
+    ]
+  },
+  {
+    "cod": "VIS0043",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS - ESPA\u00c7OS MUSEAIS 2",
+    "ch": 120,
+    "post_requirements": [
+      "VIS0417"
+    ],
+    "pre_requirements": [
+      "VIS0036 & VIS0041"
+    ]
+  },
+  {
+    "cod": "VIS0036",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS - FORMA\u00c7\u00c3O DE PROFESSORES",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0039",
+      "VIS0041",
+      "VIS0046",
+      "VIS0047",
+      "VIS0048",
+      "VIS0049",
+      "VIS0050",
+      "VIS0051",
+      "VIS0300",
+      "VIS0362",
+      "VIS0363",
+      "VIS0410"
+    ],
+    "pre_requirements": [
+      "VIS0222",
+      "VIS0367",
+      "VIS0113 & VIS0033 & VIS0030 & VIS0032 & VIS0029",
+      "MTC0012 & PED0060",
+      "TEF0011"
+    ]
+  },
+  {
+    "cod": "VIS0136",
+    "nome": "ESTAGIO SUPERVISIONADO EM DESENHO",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0489"
+    ],
+    "pre_requirements": [
+      "MUS0738"
+    ]
+  },
+  {
+    "cod": "VIS0115",
+    "nome": "ESTAGIO SUPERVISIONADO EM DESENHO E PLASTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0474"
+    ],
+    "pre_requirements": [
+      "PPB0017"
+    ]
+  },
+  {
+    "cod": "VIS0039",
+    "nome": "EST\u00c1GIO SUPEVISIONADO ARTES VISUAIS-AMBIENTES VIRTUAIS DE APRENDIZAGEM 1",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0413"
+    ],
+    "pre_requirements": [
+      "VIS0036",
+      "VIS0298"
+    ]
+  },
+  {
+    "cod": "VIS0040",
+    "nome": "EST\u00c1GIO SUPEVISIONADO ARTES VISUAIS-AMBIENTES VIRTUAIS DE APRENDIZAGEM 2",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0414"
+    ],
+    "pre_requirements": [
+      "VIS0036 & VIS0039"
+    ]
+  },
+  {
+    "cod": "VIS0050",
+    "nome": "ESTUDOS AVAN\u00c7ADOS EM EDUCA\u00c7\u00c3O A DIST\u00c2NCIA",
+    "ch": 30,
+    "post_requirements": [
+      "VIS0424"
+    ],
+    "pre_requirements": [
+      "VIS0036"
+    ]
+  },
+  {
+    "cod": "VIS0034",
+    "nome": "ESTUDOS DAS VISUALIDADES AFRO-BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0031",
+    "nome": "ESTUDOS DAS VISUALIDADES IND\u00cdGENAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0057",
+    "nome": "ESTUDOS VISUAIS E EDUCA\u00c7\u00c3O - EXPERIMENTOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0053",
+    "nome": "ESTUDOS VISUAIS E EDUCA\u00c7\u00c3O - FUNDAMENTOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0054",
+    "nome": "ESTUDOS VISUAIS E EDUCA\u00c7\u00c3O - LINGUAGENS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0056",
+    "nome": "ESTUDOS VISUAIS E EDUCA\u00c7\u00c3O - NARRATIVAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0055",
+    "nome": "ESTUDOS VISUAIS E EDUCA\u00c7\u00c3O - T\u00d3PICOS ESPECIAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0069",
+    "nome": "EXPRESSAO EM SUPERFICIE",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0438"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0070",
+    "nome": "EXPRESSAO EM VOLUME",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0439"
+    ],
+    "pre_requirements": [
+      "VIS0067"
+    ]
+  },
+  {
+    "cod": "VIS0129",
+    "nome": "FUNDAMENTOS DA LINGUAGEM VISUAL",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0088",
+      "VIS0309"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0127",
+    "nome": "FUNDAMENTOS DE LINGUAGEM",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0484"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0048",
+    "nome": "FUNDAMENTOS METODOL\u00d3GICOS DA ARTE/EDUCA\u00c7\u00c3O EM ESPA\u00c7OS MUSEAIS",
+    "ch": 30,
+    "post_requirements": [
+      "VIS0422"
+    ],
+    "pre_requirements": [
+      "VIS0036"
+    ]
+  },
+  {
+    "cod": "VIS0061",
+    "nome": "HISTORIA DA ARTE 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0001",
+      "VIS0114",
+      "VIS0345"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0114",
+    "nome": "HISTORIA DA ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0005",
+      "VIS0189",
+      "VIS0346"
+    ],
+    "pre_requirements": [
+      "VIS0061",
+      "VIS0141",
+      "VIS0294"
+    ]
+  },
+  {
+    "cod": "VIS0189",
+    "nome": "HISTORIA DA ARTE 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0006",
+      "VIS0010",
+      "VIS0018",
+      "VIS0021",
+      "VIS0025",
+      "VIS0190",
+      "VIS0348"
+    ],
+    "pre_requirements": [
+      "VIS0114",
+      "VIS0294"
+    ]
+  },
+  {
+    "cod": "VIS0190",
+    "nome": "HISTORIA DA ARTE 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0008",
+      "VIS0014",
+      "VIS0015",
+      "VIS0016",
+      "VIS0017",
+      "VIS0019",
+      "VIS0020",
+      "VIS0022",
+      "VIS0023",
+      "VIS0026",
+      "VIS0027",
+      "VIS0349"
+    ],
+    "pre_requirements": [
+      "VIS0189",
+      "VIS0005"
+    ]
+  },
+  {
+    "cod": "VIS0141",
+    "nome": "HISTORIA DA ARTE ANTIGA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0255",
+    "nome": "HISTORIA DA ARTE CONTEMPORANEA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0253",
+    "nome": "HISTORIA DA ARTE MEDIEVAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0254",
+    "nome": "HISTORIA DA ARTE MODERNA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0256",
+    "nome": "HIST\u00d3RIA DA ARTE NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0313"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0025",
+    "nome": "HIST\u00d3RIA DA ARTE NO BRASIL, MEM\u00d3RIA E PATRIM\u00d4NIO",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0399"
+    ],
+    "pre_requirements": [
+      "VIS0189",
+      "VIS0005"
+    ]
+  },
+  {
+    "cod": "VIS0284",
+    "nome": "HIST\u00d3RIA DAS ARTES VISUAIS 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0584"
+    ],
+    "pre_requirements": [
+      "IDA0364"
+    ]
+  },
+  {
+    "cod": "VIS0281",
+    "nome": "HIST\u00d3RIA DAS ARTES VISUAIS NO BRASIL",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0581"
+    ],
+    "pre_requirements": [
+      "VIS0282"
+    ]
+  },
+  {
+    "cod": "VIS0049",
+    "nome": "HIST\u00d3RIA E TEORIA DA EDUCA\u00c7\u00c3O A DIST\u00c2NCIA",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0423"
+    ],
+    "pre_requirements": [
+      "VIS0036"
+    ]
+  },
+  {
+    "cod": "VIS0028",
+    "nome": "HIST\u00d3RIA E TEORIA DO ENSINO DAS ARTES VISUAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0058",
+    "nome": "HIST\u00d3RIA E TEORIA DO ENSINO DAS ARTES VISUAIS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0038",
+    "nome": "IMAGEM, CULTURA E SOCIEDADE",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0412"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0280",
+    "nome": "IMAGEM INTERATIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0059",
+    "nome": "INFOESTETICA 1 - ESTETICA DAS IMAGENS INFORMATICAS",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0432"
+    ],
+    "pre_requirements": [
+      "VIS0185"
+    ]
+  },
+  {
+    "cod": "VIS0079",
+    "nome": "INICIACAO AS TECNICAS INDUSTRIAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0447"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0230",
+    "nome": "INTERVENCAO/PERFORMANCE/INSTALACAO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0019",
+    "nome": "INTRODU\u00c7\u00c3O A CURADORIA",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0393"
+    ],
+    "pre_requirements": [
+      "VIS0190",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0188",
+    "nome": "INTRODUCAO A GRAVURA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0173",
+      "VIS0239",
+      "VIS0247",
+      "VIS0248",
+      "VIS0249",
+      "VIS0312"
+    ],
+    "pre_requirements": [
+      "VIS0065 & VIS0129",
+      "VIS0065"
+    ]
+  },
+  {
+    "cod": "VIS0080",
+    "nome": "INTRODUCAO AS TECNICAS ARTESANAIS",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0448"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0014",
+    "nome": "LABORAT\u00d3RIO DE CR\u00cdTICA,TEORIA E HIST\u00d3RIA DA ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0337"
+    ],
+    "pre_requirements": [
+      "VIS0006",
+      "VIS0190"
+    ]
+  },
+  {
+    "cod": "VIS0047",
+    "nome": "LABORAT\u00d3RIO DE EDUCA\u00c7\u00c3O EM ESPA\u00c7OS MUSEAIS",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0421"
+    ],
+    "pre_requirements": [
+      "VIS0036"
+    ]
+  },
+  {
+    "cod": "VIS0008",
+    "nome": "LABORAT\u00d3RIO DE TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0336"
+    ],
+    "pre_requirements": [
+      "VIS0006",
+      "VIS0190"
+    ]
+  },
+  {
+    "cod": "VIS0018",
+    "nome": "LABORAT\u00d3RIO DE TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0339"
+    ],
+    "pre_requirements": [
+      "VIS0189",
+      "VIS0005"
+    ]
+  },
+  {
+    "cod": "VIS0023",
+    "nome": "LABORAT\u00d3RIO DE TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0340"
+    ],
+    "pre_requirements": [
+      "VIS0006",
+      "VIS0190"
+    ]
+  },
+  {
+    "cod": "VIS0051",
+    "nome": "LABORAT\u00d3RIO EM EDUCA\u00c7\u00c3O A DIST\u00c2NCIA",
+    "ch": 30,
+    "post_requirements": [
+      "VIS0425"
+    ],
+    "pre_requirements": [
+      "VIS0036"
+    ]
+  },
+  {
+    "cod": "VIS0248",
+    "nome": "LITOGRAFIA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0560"
+    ],
+    "pre_requirements": [
+      "VIS0188"
+    ]
+  },
+  {
+    "cod": "VIS0296",
+    "nome": "MATERIAIS EM ARTE 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0163",
+      "VIS0361",
+      "VIS0596"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0163",
+    "nome": "MATERIAIS EM ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0507"
+    ],
+    "pre_requirements": [
+      "VIS0113",
+      "VIS0296"
+    ]
+  },
+  {
+    "cod": "VIS0032",
+    "nome": "METODOLOGIA DE ENSINO E PESQUISA EM ARTES VISUAIS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0116",
+    "nome": "MODELAGEM DO OBJETO 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0117",
+      "VIS0475"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0117",
+    "nome": "MODELAGEM DO OBJETO 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0476"
+    ],
+    "pre_requirements": [
+      "VIS0116"
+    ]
+  },
+  {
+    "cod": "VIS0073",
+    "nome": "MORFOLOGIA EXPERIMENTAL",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0441"
+    ],
+    "pre_requirements": [
+      "VIS0072"
+    ]
+  },
+  {
+    "cod": "VIS0072",
+    "nome": "MORFOLOGIA GEOMETRICA",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0073",
+      "VIS0440"
+    ],
+    "pre_requirements": [
+      "VIS0074"
+    ]
+  },
+  {
+    "cod": "VIS0085",
+    "nome": "OFICINA BASICA DE ARTES PLASTICAS 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0118",
+      "VIS0453"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0118",
+    "nome": "OFICINA BASICA DE ARTES PLASTICAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0477"
+    ],
+    "pre_requirements": [
+      "VIS0085"
+    ]
+  },
+  {
+    "cod": "VIS0137",
+    "nome": "OFICINA BASICA DE CINEMA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0490"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0096",
+    "nome": "OFICINA DE CINEMA E TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0458"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0076",
+    "nome": "OFICINA DE COMPOSICAO 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0444"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0077",
+    "nome": "OFICINA DE COMPOSICAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0445"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0078",
+    "nome": "OFICINA DE COMPOSICAO 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0446"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0088",
+    "nome": "OFICINA DE FOTOGRAFIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0090",
+      "VIS0306"
+    ],
+    "pre_requirements": [
+      "VIS0129"
+    ]
+  },
+  {
+    "cod": "VIS0090",
+    "nome": "OFICINA DE FOTOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0307",
+      "VIS0455"
+    ],
+    "pre_requirements": [
+      "VIS0088"
+    ]
+  },
+  {
+    "cod": "VIS0094",
+    "nome": "OFICINA DE FOTOGRAFIA 3",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0456"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0095",
+    "nome": "OFICINA DE FOTOGRAFIA 4",
+    "ch": 30,
+    "post_requirements": [
+      "VIS0457"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0187",
+    "nome": "PINTURA 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0165",
+      "VIS0240",
+      "VIS0311"
+    ],
+    "pre_requirements": [
+      "VIS0065 & VIS0129",
+      "VIS0065 & VIS0060 & VIS0085",
+      "VIS0074 & VIS0060 & VIS0085",
+      "VIS0065 & VIS0129"
+    ]
+  },
+  {
+    "cod": "VIS0240",
+    "nome": "PINTURA 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0356"
+    ],
+    "pre_requirements": [
+      "VIS0187"
+    ]
+  },
+  {
+    "cod": "VIS0297",
+    "nome": "PR\u00c1TICA DE ENSINO \u2013 AMBIENTES VIRTUAIS DE APRENDIZAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0042",
+    "nome": "PR\u00c1TICA DE ENSINO - ESPA\u00c7OS MUSEAIS",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0344"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0037",
+    "nome": "PR\u00c1TICA DE ENSINO - FORMA\u00c7\u00c3O DE PROFESSORES",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0411"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0030",
+    "nome": "PR\u00c1TICA DE ENSINO - LINGUAGENS DA ARTE",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0404"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0033",
+    "nome": "PR\u00c1TICA DE ENSINO - OBJETOS DE APRENDIZAGEM",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0342"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0113",
+    "nome": "PR\u00c1TICAS DE ENSINO: MATERIAIS EM ARTES",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0163",
+      "CEN0118",
+      "VIS0308",
+      "VIS0361"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0268",
+    "nome": "PRODU\u00c7\u00c3O CULTURAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0131",
+    "nome": "PROJETO DE DIPLOMACAO EM DESENHO",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0487"
+    ],
+    "pre_requirements": [
+      "VIS0074 & VIS0063 & ENC0053"
+    ]
+  },
+  {
+    "cod": "VIS0208",
+    "nome": "PROJETO DE DIPLOMACAO EM DESENHO, PARA O BACHARELADO",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0534"
+    ],
+    "pre_requirements": [
+      "VIS0198"
+    ]
+  },
+  {
+    "cod": "VIS0201",
+    "nome": "PROJETO DE DIPLOMACAO EM ESCULTURA",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0530"
+    ],
+    "pre_requirements": [
+      "VIS0149"
+    ]
+  },
+  {
+    "cod": "VIS0205",
+    "nome": "PROJETO DE DIPLOMACAO EM GRAVURA",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0532"
+    ],
+    "pre_requirements": [
+      "VIS0179"
+    ]
+  },
+  {
+    "cod": "VIS0199",
+    "nome": "PROJETO DE DIPLOMACAO EM MULTIMEIOS",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0529"
+    ],
+    "pre_requirements": [
+      "VIS0153"
+    ]
+  },
+  {
+    "cod": "VIS0203",
+    "nome": "PROJETO DE DIPLOMACAO EM PINTURA",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0531"
+    ],
+    "pre_requirements": [
+      "VIS0171"
+    ]
+  },
+  {
+    "cod": "VIS0207",
+    "nome": "PROJETO DE DIPLOMACAO EM TEORIA HISTORIA E CRITICA DA ARTE",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0533"
+    ],
+    "pre_requirements": [
+      "VIS0157"
+    ]
+  },
+  {
+    "cod": "VIS0220",
+    "nome": "PROJETO INTERDISCIPLINAR",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0009",
+      "VIS0011",
+      "VIS0013",
+      "VIS0161",
+      "VIS0217",
+      "CEN0200",
+      "VIS0352",
+      "VIS0365",
+      "VIS0546"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0287",
+    "nome": "PROJETO INTERDISCIPLINAR DE ENSINO E APRENDIZAGEM 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0290",
+      "VIS0291",
+      "VIS0587"
+    ],
+    "pre_requirements": [
+      "VIS0282",
+      "IDA0376",
+      "VIS0288"
+    ]
+  },
+  {
+    "cod": "VIS0290",
+    "nome": "PROJETO INTERDISCIPLINAR DE ENSINO E APRENDIZAGEM 2",
+    "ch": 270,
+    "post_requirements": [
+      "VIS0590"
+    ],
+    "pre_requirements": [
+      "VIS0288",
+      "VIS0289",
+      "VIS0287"
+    ]
+  },
+  {
+    "cod": "VIS0292",
+    "nome": "SEMIN\u00c1RIO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0214",
+    "nome": "SEMINARIO EM ARTES PLASTICAS",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0537"
+    ],
+    "pre_requirements": [
+      "VIS0113 & VIS0212 & VIS0114"
+    ]
+  },
+  {
+    "cod": "VIS0231",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0267",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 10",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0329"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0271",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 11",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0575"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0273",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 12",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0330"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0275",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 13",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0331"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0277",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 14",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0578"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0279",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 15",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0579"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0233",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0355"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0235",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0549"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0236",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0550"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0238",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0551"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0251",
+    "nome": "SEMIN\u00c1RIO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 5",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0326"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0259",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 6",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0327"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0261",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 7",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0359"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0263",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 8",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0328"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0265",
+    "nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 9",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0571"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0154",
+    "nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 1",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0229",
+      "VIS0366",
+      "VIS0502"
+    ],
+    "pre_requirements": [
+      "VIS0060 & CEN0030 & VIS0127"
+    ]
+  },
+  {
+    "cod": "VIS0155",
+    "nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 2",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0503"
+    ],
+    "pre_requirements": [
+      "VIS0060 & CEN0030 & VIS0154"
+    ]
+  },
+  {
+    "cod": "VIS0156",
+    "nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 3",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0504"
+    ],
+    "pre_requirements": [
+      "VIS0060 & CEN0030 & VIS0154 & VIS0155"
+    ]
+  },
+  {
+    "cod": "VIS0157",
+    "nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 4",
+    "ch": 225,
+    "post_requirements": [
+      "VIS0207",
+      "VIS0505"
+    ],
+    "pre_requirements": [
+      "VIS0060 & CEN0030 & VIS0154 & VIS0155 & VIS0156"
+    ]
+  },
+  {
+    "cod": "VIS0239",
+    "nome": "SERIGRAFIA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0552"
+    ],
+    "pre_requirements": [
+      "VIS0188"
+    ]
+  },
+  {
+    "cod": "VIS0101",
+    "nome": "TECNICA DE EDICAO CINEMATOGRAFICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0463"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0102",
+    "nome": "TECNICA DE EDICAO CINEMATOGRAFICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0464"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0103",
+    "nome": "TECNICA DE EDICAO CINEMATOGRAFICA 3",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0465"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0107",
+    "nome": "TECNICA DE FILMAGEM 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0469"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0108",
+    "nome": "TECNICA DE FILMAGEM 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0470"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0109",
+    "nome": "TECNICA DE FILMAGEM 3",
+    "ch": 150,
+    "post_requirements": [
+      "VIS0471"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0098",
+    "nome": "TECNICA DE PLANEJAMENTO CINEMATOGRAFICO 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0460"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0099",
+    "nome": "TECNICA DE PLANEJAMENTO CINEMATOGRAFICO 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0461"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0100",
+    "nome": "TECNICA DE PLANEJAMENTO CINEMATOGRAFICO 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0462"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0124",
+    "nome": "TECNICAS DE GRAVURA 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0481"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0125",
+    "nome": "TECNICAS DE GRAVURA 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0482"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0126",
+    "nome": "TECNICAS DE GRAVURA 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0483"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0138",
+    "nome": "TECNICAS DE GRAVURA 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0491"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0130",
+    "nome": "TECNICAS DE REPRESENTACAO GRAFICA",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0486"
+    ],
+    "pre_requirements": [
+      "ENC0053"
+    ]
+  },
+  {
+    "cod": "VIS0119",
+    "nome": "TECNICAS EXPERIMENTAIS DE ARTE 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0165",
+      "VIS0478"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0120",
+    "nome": "TECNICAS EXPERIMENTAIS DE ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0479"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0269",
+    "nome": "TECNOLOGIAS CONTEMPOR\u00c2NEAS NA ARTE-EDUCA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0294",
+    "nome": "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0001",
+    "nome": "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0005",
+      "VIS0021",
+      "VIS0332"
+    ],
+    "pre_requirements": [
+      "VIS0294",
+      "VIS0257",
+      "VIS0061",
+      "VIS0141"
+    ]
+  },
+  {
+    "cod": "VIS0005",
+    "nome": "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0006",
+      "VIS0018",
+      "VIS0025",
+      "VIS0190",
+      "VIS0333"
+    ],
+    "pre_requirements": [
+      "VIS0001",
+      "VIS0114"
+    ]
+  },
+  {
+    "cod": "VIS0006",
+    "nome": "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0008",
+      "VIS0009",
+      "VIS0010",
+      "VIS0011",
+      "VIS0013",
+      "VIS0014",
+      "VIS0015",
+      "VIS0017",
+      "VIS0019",
+      "VIS0020",
+      "VIS0022",
+      "VIS0023",
+      "VIS0026",
+      "VIS0027",
+      "VIS0334"
+    ],
+    "pre_requirements": [
+      "VIS0005",
+      "VIS0189"
+    ]
+  },
+  {
+    "cod": "VIS0011",
+    "nome": "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 5",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0016",
+      "VIS0302"
+    ],
+    "pre_requirements": [
+      "VIS0006",
+      "VIS0220"
+    ]
+  },
+  {
+    "cod": "VIS0016",
+    "nome": "TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE 6",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0338"
+    ],
+    "pre_requirements": [
+      "VIS0011",
+      "VIS0190"
+    ]
+  },
+  {
+    "cod": "VIS0282",
+    "nome": "TEORIA DA ARTE",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0081",
+    "nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0082",
+      "VIS0449"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0082",
+    "nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0083",
+      "VIS0450"
+    ],
+    "pre_requirements": [
+      "VIS0081"
+    ]
+  },
+  {
+    "cod": "VIS0083",
+    "nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0084",
+      "VIS0451"
+    ],
+    "pre_requirements": [
+      "VIS0082"
+    ]
+  },
+  {
+    "cod": "VIS0084",
+    "nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0452"
+    ],
+    "pre_requirements": [
+      "VIS0083"
+    ]
+  },
+  {
+    "cod": "VIS0257",
+    "nome": "TEORIA E HISTORIA DA ARTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0017",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARTE E DA IMAGEM NO ESPA\u00c7O/TEMPO 1",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0391"
+    ],
+    "pre_requirements": [
+      "VIS0190",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0009",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARTE E DA IMAGEM NO ESPA\u00c7O/TEMPO 2",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0383"
+    ],
+    "pre_requirements": [
+      "VIS0220",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0020",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARTE E DA IMAGEM NO ESPA\u00c7O/TEMPO 3",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0394"
+    ],
+    "pre_requirements": [
+      "VIS0190",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0013",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARTE E DA IMAGEM NO ESPA\u00c7O/TEMPO 4",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0387"
+    ],
+    "pre_requirements": [
+      "VIS0220",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0026",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARTE E DA IMAGEM NO ESPA\u00c7O/TEMPO 5",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0319"
+    ],
+    "pre_requirements": [
+      "VIS0190",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0027",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARTE E DA IMAGEM NO ESPA\u00c7O/TEMPO 6",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0320"
+    ],
+    "pre_requirements": [
+      "VIS0190",
+      "VIS0006"
+    ]
+  },
+  {
+    "cod": "VIS0046",
+    "nome": "TEORIA E HIST\u00d3RIA DA EDUCA\u00c7\u00c3O EM ESPA\u00c7OS MUSEAIS",
+    "ch": 60,
+    "post_requirements": [
+      "VIS0420"
+    ],
+    "pre_requirements": [
+      "VIS0036"
+    ]
+  },
+  {
+    "cod": "VIS0291",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 270,
+    "post_requirements": [
+      "VIS0591"
+    ],
+    "pre_requirements": [
+      "VIS0287",
+      "IDA0324"
+    ]
+  },
+  {
+    "cod": "VIS0044",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0045",
+      "VIS0418",
+      "VIS0427",
+      "VIS0546"
+    ],
+    "pre_requirements": [
+      "VIS0226",
+      "VIS0036 & VIS0039 & VIS0041"
+    ]
+  },
+  {
+    "cod": "VIS0045",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0419"
+    ],
+    "pre_requirements": [
+      "VIS0226",
+      "VIS0364",
+      "VIS0044",
+      "VIS0369"
+    ]
+  },
+  {
+    "cod": "VIS0024",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM TEORIA, CR\u00cdTICA E HIST\u00d3RIA DA ARTE",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0398"
+    ],
+    "pre_requirements": [
+      "VIS0023 & VIS0006 & VIS0190"
+    ]
+  },
+  {
+    "cod": "VIS0215",
+    "nome": "UTILIZACAO DE MULTIMEIOS NO ENSINO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0242",
+    "nome": "VIDEO-ARTE",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "VIS0247",
+    "nome": "XILOGRAVURA",
+    "ch": 90,
+    "post_requirements": [
+      "VIS0559"
+    ],
+    "pre_requirements": [
+      "VIS0188"
+    ]
+  }
+]

@@ -1,0 +1,1121 @@
+[
+  {
+    "cod": "TEL0099",
+    "nome": "CERVANTES E O QUIXOTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0080",
+    "nome": "CONTEXTOS CULTURAIS DA LITERATURA FRANCESA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0250"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0136",
+    "nome": "CONTEXTOS DE LITERATURAS DE EXPRESS\u00c3O INGLESA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0293"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0016",
+    "nome": "CRITICA LITERARIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0153"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0110",
+    "nome": "CULTURA CLASSICA 1 - GRECIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0111",
+    "nome": "CULTURA CLASSICA 2 - ROMA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0113",
+    "nome": "CULTURA MEDIEVAL 1 : GRECO - LATINA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0177",
+    "nome": "ENSINO DE LITERATURAS DE L\u00cdNGUA INGLESA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0294"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0002",
+    "nome": "EST\u00c1GIO DOCENTE EM LITERATURA DE EXPRESS\u00c3O FRANC\u00d3FONA",
+    "ch": 120,
+    "post_requirements": [
+      "TEL0181"
+    ],
+    "pre_requirements": [
+      "LET0028"
+    ]
+  },
+  {
+    "cod": "TEL0031",
+    "nome": "ESTETICA E LITERATURA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0205"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0018",
+    "nome": "ESTILISTICA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0194"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0109",
+    "nome": "FUNDAMENTOS DA LITERATURA BRASILEIRA CONTEMPORANEA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0029",
+    "nome": "FUNDAMENTOS DE HISTORIA LITERARIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0103",
+    "nome": "GENEROS LITERARIOS NA LINGUA ESPANHOLA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0104",
+    "nome": "GERACAO DO 27",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0028",
+    "nome": "HISTORIOGRAFIA DA LITERATURA BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0014",
+    "nome": "INTRODUCAO A TEORIA DA LITERATURA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0098",
+      "TEL0100",
+      "JOR0135",
+      "CEN0089",
+      "TEL0131"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0001",
+    "nome": "LABORAT\u00d3RIO DE ESTUDOS DE LITERATURA ARTES E HUMANIDADES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0098",
+    "nome": "LABORATORIO DE LITERATURA PARA O ENSINO FUNDAMENTAL E MEDIO",
+    "ch": 90,
+    "post_requirements": [
+      "TEL0142"
+    ],
+    "pre_requirements": [
+      "TEL0014"
+    ]
+  },
+  {
+    "cod": "TEL0056",
+    "nome": "LITERATURA AFRICANA EM LINGUA PORTUGUESA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0074",
+    "nome": "LITERATURA ALEMA 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0245"
+    ],
+    "pre_requirements": [
+      "LET0101"
+    ]
+  },
+  {
+    "cod": "TEL0024",
+    "nome": "LITERATURA BRASILEIRA - BARROCO E ARCADISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0026",
+    "nome": "LITERATURA BRASILEIRA CONTEMPOR\u00c2NEA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0023",
+    "nome": "LITERATURA BRASILEIRA - MODERNISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0025",
+    "nome": "LITERATURA BRASILEIRA - PARNASIANISMO E SIMBOLISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0091",
+    "nome": "LITERATURA BRASILEIRA - PRE-MODERNISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0022",
+    "nome": "LITERATURA BRASILEIRA - REALISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0021",
+    "nome": "LITERATURA BRASILEIRA - ROMANTISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0027",
+    "nome": "LITERATURA BRASILEIRA - TEATRO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0020",
+    "nome": "LITERATURA COMPARADA 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0195"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0058",
+    "nome": "LITERATURA COMPARADA 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0230"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0037",
+    "nome": "LITERATURA DE LINGUA FRANCESA 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0157"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0038",
+    "nome": "LITERATURA DE LINGUA FRANCESA 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0212"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0039",
+    "nome": "LITERATURA DE LINGUA FRANCESA 3",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0213"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0061",
+    "nome": "LITERATURA ESPANHOLA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0108",
+    "nome": "LITERATURA ESPANHOLA 1 - IDADE MEDIA E SIGLO DE ORO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0062",
+    "nome": "LITERATURA ESPANHOLA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0106",
+    "nome": "LITERATURA ESPANHOLA 2 - S\u00c9CULOS 18 E 19",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0063",
+    "nome": "LITERATURA ESPANHOLA 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0102",
+    "nome": "LITERATURA ESPANHOLA 3 - S\u00c9CULO 20",
+    "ch": 60,
+    "post_requirements": [
+      "LET0031",
+      "TEL0172",
+      "LET0465"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0064",
+    "nome": "LITERATURA ESPANHOLA 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0065",
+    "nome": "LITERATURA ESPANHOLA 5",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0066",
+    "nome": "LITERATURA ESPANHOLA 6",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0077",
+    "nome": "LITERATURA ESTRANGEIRA EM LINGUA VERNACULA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0036",
+    "nome": "LITERATURA FRANCESA - CRITICA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0210"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0032",
+    "nome": "LITERATURA FRANCESA - PANORAMA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0137"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0035",
+    "nome": "LITERATURA FRANCESA - POESIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0156"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0033",
+    "nome": "LITERATURA FRANCESA - ROMANCE",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0138"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0034",
+    "nome": "LITERATURA FRANCESA - TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0155"
+    ],
+    "pre_requirements": [
+      "LET0323"
+    ]
+  },
+  {
+    "cod": "TEL0051",
+    "nome": "LITERATURA GREGA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0052",
+    "nome": "LITERATURA GREGA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0053",
+    "nome": "LITERATURA GREGA 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0067",
+    "nome": "LITERATURA HISPANO-AMERICANA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0107",
+    "nome": "LITERATURA HISPANO - AMERICANA 1 - S\u00c9CULOS 16,17 E 18",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0070",
+      "TEL0100",
+      "TEL0146"
+    ],
+    "pre_requirements": [
+      "TEL0108",
+      "LET0120",
+      "LET0306"
+    ]
+  },
+  {
+    "cod": "TEL0068",
+    "nome": "LITERATURA HISPANO-AMERICANA 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0239"
+    ],
+    "pre_requirements": [
+      "LET0120"
+    ]
+  },
+  {
+    "cod": "TEL0100",
+    "nome": "LITERATURA HISPANO - AMERICANA 2-S\u00c9CULO 19 E MODERN\u00cdSMO",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0144"
+    ],
+    "pre_requirements": [
+      "TEL0107",
+      "LET0120",
+      "TEL0014"
+    ]
+  },
+  {
+    "cod": "TEL0069",
+    "nome": "LITERATURA HISPANO-AMERICANA 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0105",
+    "nome": "LITERATURA HISPANO-AMERICANA 3 - P\u00d3S MODERN\u00cdSMO AT\u00c9 A ATUALIDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0070",
+    "nome": "LITERATURA HISPANO - AMERICANA 4",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0241"
+    ],
+    "pre_requirements": [
+      "LET0120",
+      "TEL0107"
+    ]
+  },
+  {
+    "cod": "TEL0124",
+    "nome": "LITERATURA INGLESA 10 - POESIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0290"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0040",
+    "nome": "LITERATURA INGLESA 1 - S\u00c9CULO XX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0163"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0120",
+    "nome": "LITERATURA INGLESA 6 - S\u00c9CULO XVII",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0286"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0121",
+    "nome": "LITERATURA INGLESA 7 - S\u00c9CULO XVIII",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0287"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0122",
+    "nome": "LITERATURA INGLESA 8 - NARRATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0288"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0123",
+    "nome": "LITERATURA INGLESA 9 - DRAMATURGIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0289"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0041",
+    "nome": "LITERATURA INGLESA II - IDADE M\u00c9DIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0164"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0042",
+    "nome": "LITERATURA INGLESA III - S\u00c9CULO XIX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0139"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0043",
+    "nome": "LITERATURA INGLESA IV - DRAMA ISABELINO",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0165"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0084",
+    "nome": "LITERATURA INGLESA IX - JOHN MILTON",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0254"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0073",
+    "nome": "LITERATURA INGLESA VIII - TEATRO INGL\u00caS",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0244"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0072",
+    "nome": "LITERATURA INGLESA VII - POESIA S\u00c9CULO XVI - XVII",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0243"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0071",
+    "nome": "LITERATURA INGLESA VI - ROMANCE S\u00c9CULO XVIII - XX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0242"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0044",
+    "nome": "LITERATURA INGLESA V - TRAG\u00c9DIA SHAKESPEARIANA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0140",
+      "TEL0218"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0079",
+    "nome": "LITERATURA INGLESA XIII - CONTEXTOS CULTURAIS AT\u00c9 S\u00c9CULO XV",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0249"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0087",
+    "nome": "LITERATURA INGLESA XII - T\u00d3PICOS ESPECIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0169"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0086",
+    "nome": "LITERATURA INGLESA XI - LITERATURA IRLANDESA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0256"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0078",
+    "nome": "LITERATURA INGLESA XIV - CONTEXTOS CULTURAIS S\u00c9CULOS XVI - XVIII",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0248"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0085",
+    "nome": "LITERATURA INGLESA X - PROSA E POESIA  S\u00c9C. XVIII",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0255"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0088",
+    "nome": "LITERATURA INGLESA XV - CONTEXTOS CULTURAIS S\u00c9CULOS XIX - XX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0258"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0114",
+    "nome": "LITERATURA JAPONESA 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0115",
+      "TEL0149"
+    ],
+    "pre_requirements": [
+      "LET0074 & LET0075",
+      "LET0109 & LET0108"
+    ]
+  },
+  {
+    "cod": "TEL0115",
+    "nome": "LITERATURA JAPONESA 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0150"
+    ],
+    "pre_requirements": [
+      "TEL0114"
+    ]
+  },
+  {
+    "cod": "TEL0116",
+    "nome": "LITERATURA JAPONESA 3",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0282"
+    ],
+    "pre_requirements": [
+      "LET0365 & LET0363"
+    ]
+  },
+  {
+    "cod": "TEL0117",
+    "nome": "LITERATURA JAPONESA 4",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0151"
+    ],
+    "pre_requirements": [
+      "LET0363 & LET0365"
+    ]
+  },
+  {
+    "cod": "TEL0048",
+    "nome": "LITERATURA LATINA 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0222"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "TEL0049",
+    "nome": "LITERATURA LATINA 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0223"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "TEL0050",
+    "nome": "LITERATURA LATINA 3",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0224"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "TEL0054",
+    "nome": "LITERATURA LATINA 4",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0228"
+    ],
+    "pre_requirements": [
+      "LIP0063"
+    ]
+  },
+  {
+    "cod": "TEL0125",
+    "nome": "LITERATURA NORTE-AMERICANA 4 - DRAMATURGIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0291"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0126",
+    "nome": "LITERATURA NORTE-AMERICANA 5 - POESIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0292"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0047",
+    "nome": "LITERATURA NORTE-AMERICANA III - NARRATIVA S\u00c9CULO XX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0167"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0046",
+    "nome": "LITERATURA NORTE-AMERICANA II - S\u00c9CULO XIX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0141"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0045",
+    "nome": "LITERATURA NORTE-AMERICANA I - S\u00c9CULO XX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0166"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0081",
+    "nome": "LITERATURA NORTE AMERICANA IV - T\u00d3PICOS ESPECIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0251"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0082",
+    "nome": "LITERATURA NORTE-AMERICANA V - CONTEXTOS CULTURAIS DE 1850 AO S\u00c9C XX",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0252"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0083",
+    "nome": "LITERATURA NORTE-AMERICANA VI - CONTEXTOS CULTURAIS AT\u00c9 1850",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0253"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0010",
+    "nome": "LITERATURA PORTUGUESA - BARROCO E ARCADISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0009",
+    "nome": "LITERATURA PORTUGUESA - MEDIEVALISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0006",
+    "nome": "LITERATURA PORTUGUESA - MODERNISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0012",
+    "nome": "LITERATURA PORTUGUESA - PARNASIANISMO E SIMBOLISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0007",
+    "nome": "LITERATURA PORTUGUESA - REALISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0008",
+    "nome": "LITERATURA PORTUGUESA - RENASCIMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0011",
+    "nome": "LITERATURA PORTUGUESA - ROMANTISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0178",
+    "nome": "LITERATURAS ANGL\u00d3FONAS - ESTUDOS CULTURAIS",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0295"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0179",
+    "nome": "LITERATURAS DE EXPRESS\u00c3O EM L\u00cdNGUA INGLESA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0296"
+    ],
+    "pre_requirements": [
+      "LET0260",
+      "LET0085"
+    ]
+  },
+  {
+    "cod": "TEL0118",
+    "nome": "MONOGRAFIA EM LITERATURA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0005",
+    "nome": "OFICINA LITER\u00c1RIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0112",
+    "nome": "PANORAMA DA LITERATURA BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0097",
+    "nome": "TEORIA DA LINGUAGEM POETICA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0264"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0060",
+    "nome": "TEORIA DA NARRATIVA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0168"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0095",
+    "nome": "TEORIA DO TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0263"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0093",
+    "nome": "TEORIA E PR\u00c1TICA DA AN\u00c1LISE DO TEXTO",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0171"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0076",
+    "nome": "TOPICOS ATUAIS EM LITERATURA",
+    "ch": 30,
+    "post_requirements": [
+      "TEL0158"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0089",
+    "nome": "T\u00d3PICOS ESPECIAIS EM LITERATURA BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0159"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0090",
+    "nome": "T\u00d3PICOS ESPECIAIS EM LITERATURA BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "TEL0170"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0003",
+    "nome": "T\u00d3PICOS ESPECIAIS EM LITERATURA INFANTIL E JUVENIL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0119",
+    "nome": "TOPICOS ESPECIAIS EM LITERATURA JAPONESA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEL0004",
+    "nome": "TRAG\u00c9DIA GREGA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

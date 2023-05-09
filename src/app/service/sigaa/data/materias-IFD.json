@@ -1,0 +1,3105 @@
+[
+  {
+    "cod": "IFD0356",
+    "nome": "APRESENTA\u00c7\u00c3O DO CURSO DE F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0043",
+    "nome": "ASTROF\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0580"
+    ],
+    "pre_requirements": [
+      "IFD0445 & IFD0031 & IFD0342"
+    ]
+  },
+  {
+    "cod": "IFD0347",
+    "nome": "ASTROF\u00cdSICA E COSMOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0720"
+    ],
+    "pre_requirements": [
+      "IFD0098"
+    ]
+  },
+  {
+    "cod": "IFD0404",
+    "nome": "AVALIA\u00c7\u00c3O DO ENSINO DE F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0358",
+    "nome": "AVALIA\u00c7\u00c3O NO ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0727"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0440",
+    "nome": "AVALIA\u00c7\u00c3O NO ENSINO DE F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0807"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0359",
+    "nome": "C\u00c1LCULO 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0360",
+      "IFD0728"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0360",
+    "nome": "C\u00c1LCULO 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0361",
+      "IFD0523"
+    ],
+    "pre_requirements": [
+      "IFD0359"
+    ]
+  },
+  {
+    "cod": "IFD0361",
+    "nome": "C\u00c1LCULO 3",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0364",
+      "IFD0524"
+    ],
+    "pre_requirements": [
+      "IFD0360"
+    ]
+  },
+  {
+    "cod": "IFD0362",
+    "nome": "CI\u00caNCIAS NA EDUCA\u00c7\u00c3O INFANTIL E NO ENSINO FUNDAMENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0731"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0441",
+    "nome": "CI\u00caNCIAS NA EDUCA\u00c7\u00c3O INFANTIL E NO ENSINO FUNDAMENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0808"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0124",
+    "nome": "CINEMATICA RELATIVISTA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0627"
+    ],
+    "pre_requirements": [
+      "IFD0100 & IFD0071"
+    ]
+  },
+  {
+    "cod": "IFD0326",
+    "nome": "COMPUTA\u00c7\u00c3O ALG\u00c9BRICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0708"
+    ],
+    "pre_requirements": [
+      "IFD0353"
+    ]
+  },
+  {
+    "cod": "IFD0399",
+    "nome": "COMPUTA\u00c7\u00c3O ALG\u00c9BRICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0319",
+    "nome": "COMPUTACAO VETORIAL E PARALELA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0705"
+    ],
+    "pre_requirements": [
+      "IFD0054"
+    ]
+  },
+  {
+    "cod": "IFD0045",
+    "nome": "COSMOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0582"
+    ],
+    "pre_requirements": [
+      "IFD0056"
+    ]
+  },
+  {
+    "cod": "IFD0343",
+    "nome": "DIN\u00c2MICA DE FLUIDOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0406",
+    "nome": "EDUCA\u00c7\u00c3O CIENT\u00cdFICA E CI\u00caNCIA TECNOLOGIA SOCIEDADE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0439",
+    "nome": "EDUCA\u00c7\u00c3O CIENT\u00cdFICA E CI\u00caNCIA-TECNOLOGIA-SOCIEDADE",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0806"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0363",
+    "nome": "EDUCA\u00c7\u00c3O CIENT\u00cdFICA E CTS",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0732"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0286",
+    "nome": "ELABORACAO E UTILIZACAO DE MATERIAL DIDATICO 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0691"
+    ],
+    "pre_requirements": [
+      "IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0284",
+    "nome": "ELABORACAO E UTILIZACAO DE MATERIAL DIDATICO 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0690"
+    ],
+    "pre_requirements": [
+      "IFD0286 & IFD0290"
+    ]
+  },
+  {
+    "cod": "IFD0072",
+    "nome": "ELETRICIDADE MAGNETISMO",
+    "ch": 120,
+    "post_requirements": [
+      "CIC0084",
+      "ENE0243",
+      "IFD0606"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0163",
+    "nome": "ELETRODINAMICA CLASSICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0640"
+    ],
+    "pre_requirements": [
+      "MAT0059 & IFD0076"
+    ]
+  },
+  {
+    "cod": "IFD0055",
+    "nome": "ELETROMAGNETISMO",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0025",
+      "IFD0504",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0181"
+    ],
+    "pre_requirements": [
+      "IFD0013",
+      "IFD0420"
+    ]
+  },
+  {
+    "cod": "IFD0364",
+    "nome": "ELETROMAGNETISMO",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0372",
+      "IFD0394",
+      "IFD0733"
+    ],
+    "pre_requirements": [
+      "IFD0361"
+    ]
+  },
+  {
+    "cod": "IFD0421",
+    "nome": "ELETROMAGNETISMO 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0530"
+    ],
+    "pre_requirements": [
+      "MAT0026 & IFD0419"
+    ]
+  },
+  {
+    "cod": "IFD0422",
+    "nome": "ELETROMAGNETISMO 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0025",
+      "IFD0531"
+    ],
+    "pre_requirements": [
+      "MAT0027 & IFD0421 & IFD0423"
+    ]
+  },
+  {
+    "cod": "IFD0431",
+    "nome": "EPISTEMOLOGIA E ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0534"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0308",
+    "nome": "ESPECTROSCOPIA ELETRONICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0700"
+    ],
+    "pre_requirements": [
+      "IFD0100"
+    ]
+  },
+  {
+    "cod": "IFD0115",
+    "nome": "ESTADO SOLIDO",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0119",
+      "ENE0238",
+      "IFD0624"
+    ],
+    "pre_requirements": [
+      "IFD0098"
+    ]
+  },
+  {
+    "cod": "IFD0366",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0367"
+    ],
+    "pre_requirements": [
+      "IFD0365"
+    ]
+  },
+  {
+    "cod": "IFD0432",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0535"
+    ],
+    "pre_requirements": [
+      "IFD0419",
+      "IFD0069",
+      "IFD0210  &  IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0433",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0536"
+    ],
+    "pre_requirements": [
+      "IFD0432",
+      "IFD0282  &  IFD0420",
+      "IFD0013",
+      "IFD0217"
+    ]
+  },
+  {
+    "cod": "IFD0367",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": [
+      "IFD0366"
+    ]
+  },
+  {
+    "cod": "IFD0434",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 3",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0537"
+    ],
+    "pre_requirements": [
+      "IFD0432  &  IFD0423",
+      "IFD0013"
+    ]
+  },
+  {
+    "cod": "IFD0412",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 3",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0368",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 3",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0369",
+      "IFD0384"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0413",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 4",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0369",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 4",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0370",
+      "IFD0738"
+    ],
+    "pre_requirements": [
+      "IFD0368"
+    ]
+  },
+  {
+    "cod": "IFD0435",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 4",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0488"
+    ],
+    "pre_requirements": [
+      "IFD0433",
+      "IFD0411  &  IFD0421",
+      "IFD0055"
+    ]
+  },
+  {
+    "cod": "IFD0414",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 5",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0436",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 5",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0803"
+    ],
+    "pre_requirements": [
+      "IFD0434  &  IFD0422",
+      "IFD0018"
+    ]
+  },
+  {
+    "cod": "IFD0370",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 5",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0739"
+    ],
+    "pre_requirements": [
+      "IFD0369"
+    ]
+  },
+  {
+    "cod": "IFD0145",
+    "nome": "ESTAGIO SUPERVISIONADO EM FISICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0634"
+    ],
+    "pre_requirements": [
+      "IFD0179 & IFD0181 & IFD0183 & IFD0185"
+    ]
+  },
+  {
+    "cod": "IFD0154",
+    "nome": "ESTAGIO SUPERVISIONADO EM FISICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0637"
+    ],
+    "pre_requirements": [
+      "IFD0145 & MTC0012"
+    ]
+  },
+  {
+    "cod": "IFD0371",
+    "nome": "ESTRAT\u00c9GIAS DE ENSINO E APRENDIZAGEM \u00c0 DIST\u00c2NCIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0398",
+    "nome": "ESTRUTURA DA MAT\u00c9RIA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0767"
+    ],
+    "pre_requirements": [
+      "IFD0372"
+    ]
+  },
+  {
+    "cod": "IFD0306",
+    "nome": "ESTRUTURA DA MATERIA 1 - FISICA ATOMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0520"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0272",
+    "nome": "ESTRUTURA DA MATERIA 2 - FISICA NUCLEAR",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0686"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0270",
+    "nome": "ESTRUTURA DA MATERIA 3 - FISICA DOS SOLIDOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0119",
+      "IFD0685"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0275",
+    "nome": "ESTRUTURA DA MATERIA 4 - FISICA MOLECULAR",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0109",
+      "IFD0687"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0258",
+    "nome": "EVOLUCAO HISTORICA DOS CONCEITOS DA FISICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0514"
+    ],
+    "pre_requirements": [
+      "IFD0244"
+    ]
+  },
+  {
+    "cod": "IFD0051",
+    "nome": "FILOSOFIA DA F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0588"
+    ],
+    "pre_requirements": [
+      "IFD0034 & IFD0029 & IFD0019 & IFD0030 & IFD0031"
+    ]
+  },
+  {
+    "cod": "IFD0171",
+    "nome": "FISICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0001",
+      "IFD0002",
+      "IFD0003",
+      "FGA0154",
+      "IFD0465"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0173",
+    "nome": "FISICA 1 EXPERIMENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "FGA0188",
+      "IFD0466"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0233",
+    "nome": "FISICA 1 EXPERIMENTAL PARA BIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0668"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0302",
+    "nome": "FISICA 1 EXPERIMENTAL PARA QUIMICA",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0697"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0230",
+    "nome": "FISICA 1 PARA BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0667"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0299",
+    "nome": "FISICA 1 PARA QUIMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0696"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0175",
+    "nome": "FISICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0001",
+      "IFD0007",
+      "IFD0008",
+      "IFD0009",
+      "CEL0087",
+      "ENM0068",
+      "ENC0266",
+      "IFD0467",
+      "ENM0232",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0177"
+    ],
+    "pre_requirements": [
+      "IFD0069",
+      "IFD0210",
+      "IFD0171  &  MAT0025"
+    ]
+  },
+  {
+    "cod": "IFD0177",
+    "nome": "FISICA 2 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IQD0150",
+      "ENE0141",
+      "IFD0468"
+    ],
+    "pre_requirements": [
+      "IFD0010 & IFD0069",
+      "IFD0171 & IFD0173  &  MAT0025"
+    ]
+  },
+  {
+    "cod": "IFD0240",
+    "nome": "FISICA 2 EXPERIMENTAL PARA QUIMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0671"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0238",
+    "nome": "FISICA 2 PARA QUIMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0481"
+    ],
+    "pre_requirements": [
+      "IFD0299 & IFD0302 & MAT0023",
+      "IFD0299 & IFD0302 & MAT0026"
+    ]
+  },
+  {
+    "cod": "IFD0179",
+    "nome": "FISICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0025",
+      "IFD0091",
+      "IGD0172",
+      "ENE0243",
+      "ENM0174",
+      "ENE0353",
+      "IFD0469",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0181"
+    ],
+    "pre_requirements": [
+      "IFD0175 & MAT0026",
+      "IFD0217 & MAT0026",
+      "IFD0299 & IFD0302 & MAT0023"
+    ]
+  },
+  {
+    "cod": "IFD0181",
+    "nome": "FISICA 3 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0470"
+    ],
+    "pre_requirements": [
+      "IFD0175 & MAT0026",
+      "IFD0217 & IFD0220 & MAT0026",
+      "IFD0010 & IFD0013"
+    ]
+  },
+  {
+    "cod": "IFD0183",
+    "nome": "FISICA 4",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0018",
+      "IFD0471"
+    ],
+    "pre_requirements": [
+      "IFD0179 & MAT0026",
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "IFD0185",
+    "nome": "FISICA 4 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0472"
+    ],
+    "pre_requirements": [
+      "IFD0179 & IFD0181 & MAT0026",
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "IFD0202",
+    "nome": "FISICA ATOMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0658"
+    ],
+    "pre_requirements": [
+      "IFD0107"
+    ]
+  },
+  {
+    "cod": "IFD0107",
+    "nome": "FISICA ATOMICA E MOLECULAR 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0109",
+      "IFD0202",
+      "IFD0204",
+      "IFD0621"
+    ],
+    "pre_requirements": [
+      "IFD0098"
+    ]
+  },
+  {
+    "cod": "IFD0109",
+    "nome": "FISICA ATOMICA E MOLECULAR 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0622"
+    ],
+    "pre_requirements": [
+      "IFD0107",
+      "IFD0275"
+    ]
+  },
+  {
+    "cod": "IFD0046",
+    "nome": "F\u00cdSICA AT\u00d4MICA E MOLECULAR A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0047",
+      "IFD0583"
+    ],
+    "pre_requirements": [
+      "IFD0024 & IFD0031"
+    ]
+  },
+  {
+    "cod": "IFD0047",
+    "nome": "F\u00cdSICA AT\u00d4MICA E MOLECULAR B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0584"
+    ],
+    "pre_requirements": [
+      "IFD0046"
+    ]
+  },
+  {
+    "cod": "IFD0050",
+    "nome": "F\u00cdSICA BIOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0587"
+    ],
+    "pre_requirements": [
+      "IFD0031 & IFD0017"
+    ]
+  },
+  {
+    "cod": "IFD0048",
+    "nome": "F\u00cdSICA DO ESTADO S\u00d3LIDO A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0042",
+      "IFD0480"
+    ],
+    "pre_requirements": [
+      "IFD0018"
+    ]
+  },
+  {
+    "cod": "IFD0042",
+    "nome": "F\u00cdSICA DO ESTADO S\u00d3LIDO B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0579"
+    ],
+    "pre_requirements": [
+      "IFD0048",
+      "IFD0018"
+    ]
+  },
+  {
+    "cod": "IFD0445",
+    "nome": "F\u00cdSICA DOS PLASMAS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0811"
+    ],
+    "pre_requirements": [
+      "IFD0029"
+    ]
+  },
+  {
+    "cod": "IFD0082",
+    "nome": "F\u00cdSICA ESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0610"
+    ],
+    "pre_requirements": [
+      "IFD0078"
+    ]
+  },
+  {
+    "cod": "IFD0053",
+    "nome": "F\u00cdSICA ESTAT\u00cdSTICA FORA DO EQUILIBRIO",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0590"
+    ],
+    "pre_requirements": [
+      "IFD0019 & IFD0031"
+    ]
+  },
+  {
+    "cod": "IFD0006",
+    "nome": "F\u00cdSICA EXPERIMENTAL PARA CI\u00caNCIAS AGR\u00c1RIAS",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0450"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0210",
+    "nome": "FISICA GERAL 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0217",
+      "IFD0661"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0213",
+    "nome": "FISICA GERAL 1 EXPERIMENTAL",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0662"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0217",
+    "nome": "FISICA GERAL 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0663"
+    ],
+    "pre_requirements": [
+      "IFD0210",
+      "IFD0171 & MAT0025"
+    ]
+  },
+  {
+    "cod": "IFD0220",
+    "nome": "FISICA GERAL 2 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0664"
+    ],
+    "pre_requirements": [
+      "IFD0210 & IFD0213",
+      "IFD0171 & IFD0173 & MAT0025"
+    ]
+  },
+  {
+    "cod": "IFD0224",
+    "nome": "FISICA GERAL 3",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0025",
+      "IFD0665"
+    ],
+    "pre_requirements": [
+      "IFD0217 & MAT0025",
+      "IFD0175 & MAT0026"
+    ]
+  },
+  {
+    "cod": "IFD0227",
+    "nome": "FISICA GERAL 3 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0666"
+    ],
+    "pre_requirements": [
+      "IFD0217 & IFD0220 & MAT0025",
+      "IFD0175 & IFD0177 & MAT0026"
+    ]
+  },
+  {
+    "cod": "IFD0244",
+    "nome": "FISICA GERAL 4",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0247",
+      "IFD0258",
+      "IFD0672"
+    ],
+    "pre_requirements": [
+      "IFD0224 & MAT0026",
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "IFD0236",
+    "nome": "FISICA GERAL 4 EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0669"
+    ],
+    "pre_requirements": [
+      "IFD0224 & IFD0227 & MAT0026",
+      "ENE0177 & IFD0179 & IFD0181 & MAT0026",
+      "ENE0177"
+    ]
+  },
+  {
+    "cod": "IFD0198",
+    "nome": "FISICA MATEMATICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0023",
+      "IFD0254",
+      "IFD0656"
+    ],
+    "pre_requirements": [
+      "MAT0048",
+      "MAT0027"
+    ]
+  },
+  {
+    "cod": "IFD0017",
+    "nome": "F\u00cdSICA MATEM\u00c1TICA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0023",
+      "IFD0254",
+      "IFD0455",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0025"
+    ],
+    "pre_requirements": [
+      "MAT0028  &  MAT0039",
+      "MAT0031",
+      "IFD0012 & MAT0026"
+    ]
+  },
+  {
+    "cod": "IFD0023",
+    "nome": "F\u00cdSICA MATEM\u00c1TICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0462"
+    ],
+    "pre_requirements": [
+      "IFD0017",
+      "IFD0198",
+      "MAT0059",
+      "MAT0039",
+      "IFD0296"
+    ]
+  },
+  {
+    "cod": "IFD0252",
+    "nome": "FISICA MATEMATICA - NOTURNO",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0676"
+    ],
+    "pre_requirements": [
+      "MAT0027"
+    ]
+  },
+  {
+    "cod": "IFD0256",
+    "nome": "FISICA MODERNA 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0105",
+      "IFD0137",
+      "IFD0264",
+      "IFD0266",
+      "IFD0268",
+      "IFD0270",
+      "IFD0272",
+      "IFD0275",
+      "IFD0306",
+      "IFD0339",
+      "IFD0513"
+    ],
+    "pre_requirements": [
+      "IFD0244  &  IFD0236  &  MAT0031",
+      "IFD0252",
+      "IFD0198",
+      "IFD0419",
+      "IFD0069  &    IFD0420  &  IFD0423",
+      "IFD0013    &  IFD0422",
+      "IFD0055  &  IFD0296",
+      "IFD0017"
+    ]
+  },
+  {
+    "cod": "IFD0264",
+    "nome": "FISICA MODERNA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0682"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0427",
+    "nome": "F\u00cdSICA MODERNA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0794"
+    ],
+    "pre_requirements": [
+      "IFD0256",
+      "IFD0018  &  IFD0296",
+      "IFD0017"
+    ]
+  },
+  {
+    "cod": "IFD0204",
+    "nome": "FISICA MOLECULAR 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0206",
+      "IFD0659"
+    ],
+    "pre_requirements": [
+      "IFD0107"
+    ]
+  },
+  {
+    "cod": "IFD0206",
+    "nome": "FISICA MOLECULAR 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0660"
+    ],
+    "pre_requirements": [
+      "IFD0204"
+    ]
+  },
+  {
+    "cod": "IFD0122",
+    "nome": "FISICA NUCLEAR",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0626"
+    ],
+    "pre_requirements": [
+      "IFD0018"
+    ]
+  },
+  {
+    "cod": "IFD0096",
+    "nome": "FISICA ONDULATORIA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0616"
+    ],
+    "pre_requirements": [
+      "IFD0183 & IFD0185 & MAT0048",
+      "IFD0244 & IFD0236 & MAT0048"
+    ]
+  },
+  {
+    "cod": "IFD0187",
+    "nome": "FISICA PARA ARQUITETURA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0651"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0192",
+    "nome": "FISICA PARA CIENCIAS AGRARIAS",
+    "ch": 90,
+    "post_requirements": [
+      "FAV0152",
+      "FAV0266",
+      "IFD0653"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0189",
+    "nome": "FISICA PARA CIENCIAS BIOLOGICAS",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0140",
+      "IFD0652"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0304",
+    "nome": "FISICA PARA DESENHO INDUSTRIAL",
+    "ch": 90,
+    "post_requirements": [
+      "ENM0173",
+      "IFD0519"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0098",
+    "nome": "FISICA QUANTICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0105",
+      "IFD0107",
+      "IFD0115",
+      "IFD0137",
+      "IFD0196",
+      "IFD0339",
+      "IFD0347",
+      "IFD0617"
+    ],
+    "pre_requirements": [
+      "IFD0183 & MAT0027"
+    ]
+  },
+  {
+    "cod": "IFD0372",
+    "nome": "F\u00cdSICA QU\u00c2NTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0398",
+      "IFD0741"
+    ],
+    "pre_requirements": [
+      "IFD0364"
+    ]
+  },
+  {
+    "cod": "IFD0005",
+    "nome": "F\u00cdSICA TE\u00d3RICA PARA CI\u00caNCIAS AGR\u00c1RIAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0293",
+    "nome": "FISICA TERMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0517"
+    ],
+    "pre_requirements": [
+      "IFD0217",
+      "IFD0175  &  MAT0027  &  IFD0220",
+      "IFD0181",
+      "MAT0027  &  IFD0420",
+      "IFD0013"
+    ]
+  },
+  {
+    "cod": "IFD0373",
+    "nome": "F\u00cdSICA ZERO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0004",
+    "nome": "F\u00cdSICA ZERO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0417",
+    "nome": "FRONTEIRAS DA F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0401",
+    "nome": "FRONTEIRAS DA F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0391",
+    "nome": "FRONTEIRAS DA F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0342",
+    "nome": "FUNDAMENTOS DE ASTRONOMIA E ASTROF\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0716"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0340",
+    "nome": "FUNDAMENTOS DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0521"
+    ],
+    "pre_requirements": [
+      "MAT0025",
+      "MAT0022",
+      "MAT0137"
+    ]
+  },
+  {
+    "cod": "IFD0011",
+    "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA A",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0396",
+    "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA A",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0012",
+    "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0015",
+      "IFD0493",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0055"
+    ],
+    "pre_requirements": [
+      "IFD0011",
+      "MAT0025"
+    ]
+  },
+  {
+    "cod": "IFD0397",
+    "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0766"
+    ],
+    "pre_requirements": [
+      "IFD0396"
+    ]
+  },
+  {
+    "cod": "IFD0063",
+    "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA PARA CI\u00caNCIAS BIOL\u00d3GICAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0049",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0586"
+    ],
+    "pre_requirements": [
+      "IFD0015 & IFD0024 & IFD0031 & IFD0025"
+    ]
+  },
+  {
+    "cod": "IFD0041",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0578"
+    ],
+    "pre_requirements": [
+      "IFD0015 & IFD0024 & IFD0031 & IFD0025"
+    ]
+  },
+  {
+    "cod": "IFD0376",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0745"
+    ],
+    "pre_requirements": [
+      "IFD0374 & IFD0375 & IFD0364"
+    ]
+  },
+  {
+    "cod": "IFD0426",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0402",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0407",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA MODERNA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0377",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0746"
+    ],
+    "pre_requirements": [
+      "IFD0376 & IFD0372"
+    ]
+  },
+  {
+    "cod": "IFD0429",
+    "nome": "HIST\u00d3RIA DA F\u00cdSICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0487"
+    ],
+    "pre_requirements": [
+      "IFD0426"
+    ]
+  },
+  {
+    "cod": "IFD0034",
+    "nome": "HIST\u00d3RIA E FILOSOFIA DA F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0571"
+    ],
+    "pre_requirements": [
+      "IFD0015 & IFD0025 & IFD0018"
+    ]
+  },
+  {
+    "cod": "IFD0443",
+    "nome": "INICIA\u00c7\u00c3O \u00c0 DOC\u00caNCIA DAS CI\u00caNCIAS DA NATUREZA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0339",
+    "nome": "INICIACAO A PESQUISA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0714"
+    ],
+    "pre_requirements": [
+      "IFD0098",
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0310",
+    "nome": "INSTRUMENTACAO 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0312",
+      "IFD0701"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0312",
+    "nome": "INSTRUMENTACAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0702"
+    ],
+    "pre_requirements": [
+      "IFD0310"
+    ]
+  },
+  {
+    "cod": "IFD0140",
+    "nome": "INSTRUMENTACAO CIENTIFICA 1",
+    "ch": 120,
+    "post_requirements": [
+      "IFD0142",
+      "IFD0632"
+    ],
+    "pre_requirements": [
+      "IFD0179 & IFD0181",
+      "IFD0224 & IFD0227"
+    ]
+  },
+  {
+    "cod": "IFD0142",
+    "nome": "INSTRUMENTACAO CIENTIFICA 2",
+    "ch": 120,
+    "post_requirements": [
+      "IFD0156",
+      "IFD0633"
+    ],
+    "pre_requirements": [
+      "IFD0140",
+      "ENE0181",
+      "IFD0310 & IFD0312"
+    ]
+  },
+  {
+    "cod": "IFD0156",
+    "nome": "INSTRUMENTACAO CIENTIFICA 3",
+    "ch": 120,
+    "post_requirements": [
+      "IFD0638"
+    ],
+    "pre_requirements": [
+      "IFD0142"
+    ]
+  },
+  {
+    "cod": "IFD0091",
+    "nome": "INTRODUCAO A CINEMATICA RELATIVISTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0614"
+    ],
+    "pre_requirements": [
+      "IFD0179"
+    ]
+  },
+  {
+    "cod": "IFD0196",
+    "nome": "INTRODUCAO A ESPECTROSCOPIA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0655"
+    ],
+    "pre_requirements": [
+      "IFD0098"
+    ]
+  },
+  {
+    "cod": "IFD0067",
+    "nome": "INTRODUCAO A FISICA",
+    "ch": 90,
+    "post_requirements": [
+      "FAV0152",
+      "FAV0215",
+      "IFD0603"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0169",
+    "nome": "INTRODUCAO A FISICA DE PLASMA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0509"
+    ],
+    "pre_requirements": [
+      "IFD0179",
+      "IFD0224",
+      "IFD0055",
+      "IFD0422  &  MAT0026"
+    ]
+  },
+  {
+    "cod": "IFD0355",
+    "nome": "INTRODU\u00c7\u00c3O A F\u00cdSICA ESTAT\u00cdSTICA",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0724"
+    ],
+    "pre_requirements": [
+      "MAT0048 & IFD0244"
+    ]
+  },
+  {
+    "cod": "IFD0348",
+    "nome": "INTRODU\u00c7\u00c3O A MEC\u00c2NICA CELESTE",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0721"
+    ],
+    "pre_requirements": [
+      "IFD0175 & MAT0027 & MAT0048"
+    ]
+  },
+  {
+    "cod": "IFD0150",
+    "nome": "INTRODUCAO A METODOS DA FISICA TEORICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0636"
+    ],
+    "pre_requirements": [
+      "IFD0100 & MAT0028"
+    ]
+  },
+  {
+    "cod": "IFD0357",
+    "nome": "INTRODU\u00c7\u00c3O AO ENSINO E DIVULGA\u00c7\u00c3O DA F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0415",
+    "nome": "INTRODU\u00c7\u00c3O AO ENSINO E DIVULGA\u00c7\u00c3O DA F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0430",
+    "nome": "INTRODU\u00c7\u00c3O AO ENSINO E DIVULGA\u00c7\u00c3O DA F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0194",
+    "nome": "INTRODUCAO A RELATIVIDADE",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0654"
+    ],
+    "pre_requirements": [
+      "IFD0074 & MAT0059"
+    ]
+  },
+  {
+    "cod": "IFD0128",
+    "nome": "INTRODUCAO A RELATIVIDADE GERAL",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0628"
+    ],
+    "pre_requirements": [
+      "IFD0074",
+      "IFD0254 & MAT0050"
+    ]
+  },
+  {
+    "cod": "IFD0026",
+    "nome": "LABORAT\u00d3RIO DE ELETROMAGNETISMO A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0500"
+    ],
+    "pre_requirements": [
+      "IFD0010"
+    ]
+  },
+  {
+    "cod": "IFD0036",
+    "nome": "LABORAT\u00d3RIO DE ELETROMAGNETISMO B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0573"
+    ],
+    "pre_requirements": [
+      "IFD0014"
+    ]
+  },
+  {
+    "cod": "IFD0033",
+    "nome": "LABORAT\u00d3RIO DE ESPECTROSCOPIA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0570"
+    ],
+    "pre_requirements": [
+      "IFD0014"
+    ]
+  },
+  {
+    "cod": "IFD0035",
+    "nome": "LABORAT\u00d3RIO DE ESPECTROSCOPIA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0572"
+    ],
+    "pre_requirements": [
+      "IFD0014"
+    ]
+  },
+  {
+    "cod": "IFD0268",
+    "nome": "LABORATORIO DE FISICA AVANCADA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0684"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0424",
+    "nome": "LABORAT\u00d3RIO DE F\u00cdSICA CL\u00c1SSICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0532"
+    ],
+    "pre_requirements": [
+      "IFD0014"
+    ]
+  },
+  {
+    "cod": "IFD0425",
+    "nome": "LABORAT\u00d3RIO DE F\u00cdSICA CL\u00c1SSICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0428",
+      "IFD0486"
+    ],
+    "pre_requirements": [
+      "IFD0014"
+    ]
+  },
+  {
+    "cod": "IFD0021",
+    "nome": "LABORAT\u00d3RIO DE F\u00cdSICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0461"
+    ],
+    "pre_requirements": [
+      "IFD0010"
+    ]
+  },
+  {
+    "cod": "IFD0379",
+    "nome": "LABORAT\u00d3RIO DE F\u00cdSICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0748"
+    ],
+    "pre_requirements": [
+      "IFD0378"
+    ]
+  },
+  {
+    "cod": "IFD0428",
+    "nome": "LABORAT\u00d3RIO DE F\u00cdSICA MODERNA E CONTEMPOR\u00c2NEA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0795"
+    ],
+    "pre_requirements": [
+      "IFD0425"
+    ]
+  },
+  {
+    "cod": "IFD0380",
+    "nome": "LABORAT\u00d3RIO DE INSTRUMENTA\u00c7\u00c3O CIENT\u00cdFICA A",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0014",
+    "nome": "LABORAT\u00d3RIO DE INSTRUMENTA\u00c7\u00c3O CIENT\u00cdFICA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0033",
+      "IFD0035",
+      "IFD0036",
+      "IFD0037",
+      "IFD0424",
+      "IFD0425",
+      "IFD0495"
+    ],
+    "pre_requirements": [
+      "IFD0010"
+    ]
+  },
+  {
+    "cod": "IFD0037",
+    "nome": "LABORAT\u00d3RIO DE INSTRUMENTA\u00c7\u00c3O CIENT\u00cdFICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0574"
+    ],
+    "pre_requirements": [
+      "IFD0014"
+    ]
+  },
+  {
+    "cod": "IFD0016",
+    "nome": "LABORAT\u00d3RIO DE MEC\u00c2NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0496"
+    ],
+    "pre_requirements": [
+      "IFD0010"
+    ]
+  },
+  {
+    "cod": "IFD0381",
+    "nome": "LABORAT\u00d3RIO DE MEC\u00c2NICA, \u00d3PTICA E TERMODIN\u00c2MICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0484"
+    ],
+    "pre_requirements": [
+      "IFD0378"
+    ]
+  },
+  {
+    "cod": "IFD0382",
+    "nome": "LABORAT\u00d3RIO DE ONDAS E ELETROMAGNETISMO",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0751"
+    ],
+    "pre_requirements": [
+      "IFD0378"
+    ]
+  },
+  {
+    "cod": "IFD0032",
+    "nome": "LABORAT\u00d3RIO DE \u00d3PTICA E FOT\u00d4NICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0569"
+    ],
+    "pre_requirements": [
+      "IFD0010  &  IFD0013",
+      "IFD0423"
+    ]
+  },
+  {
+    "cod": "IFD0400",
+    "nome": "LABORAT\u00d3RIO DE OSCILA\u00c7\u00d5ES, ONDAS E FLUIDOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0769"
+    ],
+    "pre_requirements": [
+      "IFD0380"
+    ]
+  },
+  {
+    "cod": "IFD0022",
+    "nome": "LABORAT\u00d3RIO DE OSCILA\u00c7\u00d5ES, ONDAS E FLUIDOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0497"
+    ],
+    "pre_requirements": [
+      "IFD0010"
+    ]
+  },
+  {
+    "cod": "IFD0027",
+    "nome": "LABORAT\u00d3RIO DE TERMODIN\u00c2MCIA E F\u00cdSICA ESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0501"
+    ],
+    "pre_requirements": [
+      "IFD0010"
+    ]
+  },
+  {
+    "cod": "IFD0137",
+    "nome": "LABORATORIO ESPECIAL",
+    "ch": 120,
+    "post_requirements": [
+      "IFD0018",
+      "IFD0631"
+    ],
+    "pre_requirements": [
+      "IFD0098",
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0333",
+    "nome": "MATERIAIS DIDATICOS PARA O ENSINO DE FISICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0711"
+    ],
+    "pre_requirements": [
+      "IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0334",
+    "nome": "MATERIAIS DID\u00c1TICOS PARA O ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0473"
+    ],
+    "pre_requirements": [
+      "IFD0245",
+      "IFD0246",
+      "IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0383",
+    "nome": "MATERIAIS DID\u00c1TICOS PARA O ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0752"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0416",
+    "nome": "MATERIAL DID\u00c1TICO PARA O ENSINO F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0069",
+    "nome": "MECANICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0464"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0418",
+    "nome": "MEC\u00c2NICA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0374",
+    "nome": "MEC\u00c2NICA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0419",
+    "nome": "MEC\u00c2NICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0529"
+    ],
+    "pre_requirements": [
+      "IFD0418"
+    ]
+  },
+  {
+    "cod": "IFD0375",
+    "nome": "MEC\u00c2NICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0393",
+      "IFD0525"
+    ],
+    "pre_requirements": [
+      "IFD0374 & IFD0359"
+    ]
+  },
+  {
+    "cod": "IFD0393",
+    "nome": "MEC\u00c2NICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0762"
+    ],
+    "pre_requirements": [
+      "IFD0375"
+    ]
+  },
+  {
+    "cod": "IFD0250",
+    "nome": "MEC\u00c2NICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0088",
+      "IFD0511"
+    ],
+    "pre_requirements": [
+      "IFD0217 & IFD0220",
+      "IFD0175 & IFD0177   &  MAT0027",
+      "MAT0027  &  IFD0419",
+      "IFD0069"
+    ]
+  },
+  {
+    "cod": "IFD0071",
+    "nome": "MECANICA CLASSICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0088",
+      "IFD0605"
+    ],
+    "pre_requirements": [
+      "IFD0171 & MAT0048 & IFD0173",
+      "IFD0210 & IFD0213 & MAT0048",
+      "IFD0171 & IFD0173 & MAT0026",
+      "IFD0210 & IFD0213 & MAT0026"
+    ]
+  },
+  {
+    "cod": "IFD0088",
+    "nome": "MECANICA CLASSICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0166",
+      "IFD0613"
+    ],
+    "pre_requirements": [
+      "IFD0071",
+      "IFD0250"
+    ]
+  },
+  {
+    "cod": "IFD0015",
+    "nome": "MEC\u00c2NICA CL\u00c1SSICA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0019",
+      "IFD0044",
+      "IFD0454"
+    ],
+    "pre_requirements": [
+      "IFD0013",
+      "IFD0423",
+      "IFD0171",
+      "IFD0210  &   MAT0026  &  MAT0039",
+      "MAT0031",
+      "IFD0012",
+      "IFD0296"
+    ]
+  },
+  {
+    "cod": "IFD0166",
+    "nome": "MECANICA CLASSICA AVANCADA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0641"
+    ],
+    "pre_requirements": [
+      "IFD0088"
+    ]
+  },
+  {
+    "cod": "IFD0019",
+    "nome": "MEC\u00c2NICA CL\u00c1SSICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0457"
+    ],
+    "pre_requirements": [
+      "IFD0015"
+    ]
+  },
+  {
+    "cod": "IFD0248",
+    "nome": "MECANICA CLASSICA - NOTURNO",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0674"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0084",
+    "nome": "MECANICA ESTATISTICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0611"
+    ],
+    "pre_requirements": [
+      "IFD0082 & IFD0100",
+      "IFD0293 & IFD0100"
+    ]
+  },
+  {
+    "cod": "IFD0100",
+    "nome": "MECANICA QUANTICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0103",
+      "IFD0308",
+      "IFD0354",
+      "IFD0618"
+    ],
+    "pre_requirements": [
+      "IFD0098 & MAT0059",
+      "IFD0256 & IFD0296",
+      "IFD0098 & IFD0198"
+    ]
+  },
+  {
+    "cod": "IFD0354",
+    "nome": "MEC\u00c2NICA QU\u00c2NTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0723"
+    ],
+    "pre_requirements": [
+      "IFD0100"
+    ]
+  },
+  {
+    "cod": "IFD0024",
+    "nome": "MEC\u00c2NICA QU\u00c2NTICA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0498"
+    ],
+    "pre_requirements": [
+      "IFD0250",
+      "IFD0015  &  IFD0018",
+      "IFD0098",
+      "IFD0256  &  MAT0029",
+      "MAT0031",
+      "IFD0017",
+      "IFD0252",
+      "IFD0296",
+      "IFD0059"
+    ]
+  },
+  {
+    "cod": "IFD0030",
+    "nome": "MEC\u00c2NICA QU\u00c2NTICA B",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0038",
+      "IFD0503"
+    ],
+    "pre_requirements": [
+      "IFD0024 & IFD0100"
+    ]
+  },
+  {
+    "cod": "IFD0262",
+    "nome": "MECANICA QUANTICA RELATIVISTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0681"
+    ],
+    "pre_requirements": [
+      "IFD0103"
+    ]
+  },
+  {
+    "cod": "IFD0442",
+    "nome": "METODOLOGIA DA PESQUISA EM ENSINO DE CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0809"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0384",
+    "nome": "METODOLOGIA DA PESQUISA EM ENSINO DE CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0753"
+    ],
+    "pre_requirements": [
+      "IFD0368"
+    ]
+  },
+  {
+    "cod": "IFD0403",
+    "nome": "METODOLOGIA DA PESQUISA EM ENSINO DE CI\u00caNCIAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0365",
+    "nome": "METODOLOGIA DO ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0366",
+      "IFD0734"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0247",
+    "nome": "METODOLOGIA DO ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0282",
+      "IFD0286",
+      "IFD0290",
+      "IFD0333",
+      "IFD0334",
+      "IFD0338",
+      "IFD0510"
+    ],
+    "pre_requirements": [
+      "IFD0430",
+      "IFD0244"
+    ]
+  },
+  {
+    "cod": "IFD0321",
+    "nome": "METODOS COMPUTACIONAIS 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0314",
+      "IFD0323",
+      "IFD0706"
+    ],
+    "pre_requirements": [
+      "IFD0353 & MAT0048"
+    ]
+  },
+  {
+    "cod": "IFD0323",
+    "nome": "METODOS COMPUTACIONAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0707"
+    ],
+    "pre_requirements": [
+      "IFD0321"
+    ]
+  },
+  {
+    "cod": "IFD0020",
+    "nome": "M\u00c9TODOS COMPUTACIONAIS A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0054",
+      "IFD0459"
+    ],
+    "pre_requirements": [
+      "IFD0353  &  MAT0029",
+      "MAT0031",
+      "IFD0012"
+    ]
+  },
+  {
+    "cod": "IFD0054",
+    "nome": "M\u00c9TODOS COMPUTACIONAIS B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0319",
+      "IFD0591"
+    ],
+    "pre_requirements": [
+      "IFD0020"
+    ]
+  },
+  {
+    "cod": "IFD0200",
+    "nome": "METODOS COMPUTACIONAIS EM FISICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0657"
+    ],
+    "pre_requirements": [
+      "MAT0053 & IFD0183"
+    ]
+  },
+  {
+    "cod": "IFD0378",
+    "nome": "M\u00c9TODOS DA F\u00cdSICA EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0010",
+    "nome": "M\u00c9TODOS DA F\u00cdSICA EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0296",
+    "nome": "METODOS MATEMATICOS DA FISICA TEORICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0015",
+      "IFD0023",
+      "IFD0518",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0025"
+    ],
+    "pre_requirements": [
+      "IFD0244",
+      "IFD0244  &  IFD0252 & MAT0031",
+      "MAT0039",
+      "MAT0027  &  MAT0031",
+      "MAT0039"
+    ]
+  },
+  {
+    "cod": "IFD0423",
+    "nome": "ONDAS E \u00d3PTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0477",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0027"
+    ],
+    "pre_requirements": [
+      "MAT0026 & IFD0419"
+    ]
+  },
+  {
+    "cod": "IFD0386",
+    "nome": "ONDAS, \u00d3PTICA E TERMODIN\u00c2MICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0395",
+      "IFD0526"
+    ],
+    "pre_requirements": [
+      "IFD0375 & IFD0360"
+    ]
+  },
+  {
+    "cod": "IFD0013",
+    "nome": "ONDAS, \u00d3PTICA E TERMODIN\u00c2MICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0028",
+      "IFD0055",
+      "IFD0494",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0027"
+    ],
+    "pre_requirements": [
+      "IFD0069",
+      "IFD0171  &  MAT0025",
+      "IFD0011"
+    ]
+  },
+  {
+    "cod": "IFD0112",
+    "nome": "\u00d3PTICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0623"
+    ],
+    "pre_requirements": [
+      "IFD0015 & IFD0017 & IFD0024"
+    ]
+  },
+  {
+    "cod": "IFD0135",
+    "nome": "\u00d3PTICA QU\u00c2NTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0630"
+    ],
+    "pre_requirements": [
+      "IFD0024 & IFD0025"
+    ]
+  },
+  {
+    "cod": "IFD0385",
+    "nome": "O USO DO AMBIENTE VIRTUAL DE APRENDIZAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0038",
+    "nome": "PART\u00cdCULAS E CAMPOS A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0039",
+      "IFD0575"
+    ],
+    "pre_requirements": [
+      "IFD0030"
+    ]
+  },
+  {
+    "cod": "IFD0039",
+    "nome": "PART\u00cdCULAS E CAMPOS B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0576"
+    ],
+    "pre_requirements": [
+      "IFD0038"
+    ]
+  },
+  {
+    "cod": "IFD0105",
+    "nome": "PARTICULAS ELEMENTARES 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0620"
+    ],
+    "pre_requirements": [
+      "IFD0098",
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0007",
+    "nome": "PR\u00c1TICA DE APOIO A F\u00cdSICA 2 - 1",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0544"
+    ],
+    "pre_requirements": [
+      "IFD0175"
+    ]
+  },
+  {
+    "cod": "IFD0008",
+    "nome": "PR\u00c1TICA DE APOIO A F\u00cdSICA 2 - 2",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0545"
+    ],
+    "pre_requirements": [
+      "IFD0175"
+    ]
+  },
+  {
+    "cod": "IFD0009",
+    "nome": "PR\u00c1TICA DE APOIO A F\u00cdSICA 2 - 3",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0492"
+    ],
+    "pre_requirements": [
+      "IFD0175"
+    ]
+  },
+  {
+    "cod": "IFD0064",
+    "nome": "PR\u00c1TICA DE APOIO \u00c0 F\u00cdSICA EXPERIMENTAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0065",
+    "nome": "PR\u00c1TICA DE APOIO \u00c0 F\u00cdSICA EXPERIMENTAL 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0001",
+    "nome": "PR\u00c1TICA DE APOIO DA F\u00cdSICA 1- 1",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0489"
+    ],
+    "pre_requirements": [
+      "IFD0171"
+    ]
+  },
+  {
+    "cod": "IFD0002",
+    "nome": "PR\u00c1TICA DE APOIO DA F\u00cdSICA 1- 2",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0539"
+    ],
+    "pre_requirements": [
+      "IFD0171"
+    ]
+  },
+  {
+    "cod": "IFD0003",
+    "nome": "PR\u00c1TICA DE APOIO DA F\u00cdSICA 1-3",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0540"
+    ],
+    "pre_requirements": [
+      "IFD0171"
+    ]
+  },
+  {
+    "cod": "IFD0282",
+    "nome": "PRATICA E ENSINO DE FISICA PARA O 2 GRAU 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0516"
+    ],
+    "pre_requirements": [
+      "IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0279",
+    "nome": "PRATICA E ENSINO DE FISICA PARA O 2 GRAU 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0515"
+    ],
+    "pre_requirements": [
+      "IFD0282 & IFD0284 & IFD0288",
+      "IFD0282 & IFD0333 & IFD0338"
+    ]
+  },
+  {
+    "cod": "IFD0353",
+    "nome": "PROGRAMA\u00c7\u00c3O PARA SISTEMAS F\u00cdSICOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0175",
+      "IFD0326",
+      "IFD0475"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0290",
+    "nome": "PROGRAMA DE ENSINO DE FISICA PARA O 2 GRAU 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0693"
+    ],
+    "pre_requirements": [
+      "IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0288",
+    "nome": "PROGRAMA DE ENSINO DE FISICA PARA O 2 GRAU 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0692"
+    ],
+    "pre_requirements": [
+      "IFD0290 & IFD0286"
+    ]
+  },
+  {
+    "cod": "IFD0057",
+    "nome": "PROJETO DE TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0448",
+    "nome": "PROJETO FINAL EM F\u00cdSICA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0449",
+    "nome": "PROJETO FINAL EM F\u00cdSICA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0314",
+    "nome": "PROJETO FINAL EM FISICA COMPUTACIONAL 1",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0316",
+      "IFD0703"
+    ],
+    "pre_requirements": [
+      "IFD0321"
+    ]
+  },
+  {
+    "cod": "IFD0316",
+    "nome": "PROJETO FINAL EM FISICA COMPUTACIONAL 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0704"
+    ],
+    "pre_requirements": [
+      "IFD0314"
+    ]
+  },
+  {
+    "cod": "IFD0446",
+    "nome": "PROJETO FINAL EM LICENCIATURA DE F\u00cdSICA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0447",
+    "nome": "PROJETO FINAL EM LICENCIATURA DE F\u00cdSICA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0392",
+    "nome": "PROJETOS E PROGRAMAS PARA O ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0761"
+    ],
+    "pre_requirements": [
+      "IFD0365 & IFD0383"
+    ]
+  },
+  {
+    "cod": "IFD0338",
+    "nome": "PROJETOS E PROGRAMAS PARA O ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0474"
+    ],
+    "pre_requirements": [
+      "IFD0245",
+      "IFD0246",
+      "IFD0247"
+    ]
+  },
+  {
+    "cod": "IFD0018",
+    "nome": "RELATIVIDADE E F\u00cdSICA QU\u00c2NTICA",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0042",
+      "IFD0048",
+      "IFD0122",
+      "IFD0456",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "IFD0021"
+    ],
+    "pre_requirements": [
+      "IFD0055",
+      "IFD0422  &  IFD0069",
+      "IFD0419",
+      "IFD0183",
+      "IFD0137"
+    ]
+  },
+  {
+    "cod": "IFD0056",
+    "nome": "RELATIVIDADE GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0045",
+      "IFD0593"
+    ],
+    "pre_requirements": [
+      "IFD0029"
+    ]
+  },
+  {
+    "cod": "IFD0148",
+    "nome": "SEMINARIO DE GRADUACAO",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0635"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0345",
+    "nome": "SEMIN\u00c1RIO DE GRADUA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0482"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0346",
+    "nome": "SEMIN\u00c1RIO DE GRADUA\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0328",
+    "nome": "SIMULAC\u00c3O DE PROCESSOS FISICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0709"
+    ],
+    "pre_requirements": [
+      "IFD0054 & IFD0015 & IFD0018",
+      "IFD0071 & IFD0323 & IFD0098"
+    ]
+  },
+  {
+    "cod": "IFD0044",
+    "nome": "SISTEMAS DIN\u00c2MICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0581"
+    ],
+    "pre_requirements": [
+      "IFD0015"
+    ]
+  },
+  {
+    "cod": "IFD0086",
+    "nome": "TECNICAS EXPERIMENTAIS 1",
+    "ch": 120,
+    "post_requirements": [
+      "IFD0612"
+    ],
+    "pre_requirements": [
+      "IFD0171 & IFD0173"
+    ]
+  },
+  {
+    "cod": "IFD0438",
+    "nome": "TECNOLOGIAS DE INFORMA\u00c7\u00c3O E COMUNICA\u00c7\u00c3O NO ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0805"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0040",
+    "nome": "TEORIA CL\u00c1SSICA DE CAMPOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0577"
+    ],
+    "pre_requirements": [
+      "IFD0019 & IFD0029"
+    ]
+  },
+  {
+    "cod": "IFD0052",
+    "nome": "TEORIA CL\u00c1SSICA DOS FLUIDOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0589"
+    ],
+    "pre_requirements": [
+      "IFD0015 & IFD0017"
+    ]
+  },
+  {
+    "cod": "IFD0119",
+    "nome": "TEORIA DE SOLIDOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0625"
+    ],
+    "pre_requirements": [
+      "IFD0115",
+      "IFD0270"
+    ]
+  },
+  {
+    "cod": "IFD0093",
+    "nome": "TEORIA DOS FLUIDOS CL\u00c1SSICOS",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0615"
+    ],
+    "pre_requirements": [
+      "IFD0175 & MAT0027",
+      "IFD0217 & MAT0027"
+    ]
+  },
+  {
+    "cod": "IFD0132",
+    "nome": "TEORIA DOS GRUPOS APLICADA A FISICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0629"
+    ],
+    "pre_requirements": [
+      "IFD0023 & IFD0019"
+    ]
+  },
+  {
+    "cod": "IFD0254",
+    "nome": "TEORIA ELETROMAGNETICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0029",
+      "IFD0076",
+      "IFD0512"
+    ],
+    "pre_requirements": [
+      "IFD0179",
+      "IFD0224  &  IFD0227",
+      "IFD0181  &  IFD0252",
+      "IFD0296",
+      "MAT0059",
+      "IFD0198",
+      "IFD0017",
+      "IFD0296",
+      "MAT0059",
+      "IFD0017  &  IFD0422",
+      "IFD0055"
+    ]
+  },
+  {
+    "cod": "IFD0074",
+    "nome": "TEORIA ELETROMAGNETICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0029",
+      "IFD0076",
+      "IFD0128",
+      "IFD0607"
+    ],
+    "pre_requirements": [
+      "IFD0224 & IFD0227 & IFD0252",
+      "IFD0224 & IFD0227 & IFD0296",
+      "IFD0179 & IFD0181 & MAT0059",
+      "IFD0198 & IFD0224 & IFD0227"
+    ]
+  },
+  {
+    "cod": "IFD0076",
+    "nome": "TEORIA ELETROMAGNETICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0608"
+    ],
+    "pre_requirements": [
+      "IFD0074",
+      "IFD0254"
+    ]
+  },
+  {
+    "cod": "IFD0025",
+    "nome": "TEORIA ELETROMAGN\u00c9TICA A",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0029",
+      "IFD0499"
+    ],
+    "pre_requirements": [
+      "IFD0055",
+      "IFD0422",
+      "IFD0224",
+      "IFD0179"
+    ]
+  },
+  {
+    "cod": "IFD0029",
+    "nome": "TEORIA ELETROMAGN\u00c9TICA B",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0056",
+      "IFD0445",
+      "IFD0502"
+    ],
+    "pre_requirements": [
+      "IFD0025",
+      "IFD0074",
+      "IFD0254"
+    ]
+  },
+  {
+    "cod": "IFD0103",
+    "nome": "TEORIA QUANTICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0260",
+      "IFD0262",
+      "IFD0619"
+    ],
+    "pre_requirements": [
+      "IFD0100"
+    ]
+  },
+  {
+    "cod": "IFD0260",
+    "nome": "TEORIA QUANTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0680"
+    ],
+    "pre_requirements": [
+      "IFD0103"
+    ]
+  },
+  {
+    "cod": "IFD0159",
+    "nome": "TEORIA QU\u00c2NTICA DE CAMPOS",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0639"
+    ],
+    "pre_requirements": [
+      "IFD0100 & IFD0076"
+    ]
+  },
+  {
+    "cod": "IFD0437",
+    "nome": "TEORIAS DA APRENDIZAGEM E ENSINO DE F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [
+      "IFD0804"
+    ],
+    "pre_requirements": [
+      "IFD0430"
+    ]
+  },
+  {
+    "cod": "IFD0387",
+    "nome": "TEORIAS DA APRENDIZAGEM E ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0485"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0408",
+    "nome": "TEORIAS DA APRENDIZAGEM E ENSINO DE F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0394",
+    "nome": "TEORIAS ELETROMAGN\u00c9TICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0763"
+    ],
+    "pre_requirements": [
+      "IFD0364"
+    ]
+  },
+  {
+    "cod": "IFD0078",
+    "nome": "TERMODINAMICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0082",
+      "IFD0609"
+    ],
+    "pre_requirements": [
+      "MAT0026  &  IFD0013",
+      "IFD0175"
+    ]
+  },
+  {
+    "cod": "IFD0420",
+    "nome": "TERMODIN\u00c2MICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0055",
+      "IFD0476"
+    ],
+    "pre_requirements": [
+      "MAT0025"
+    ]
+  },
+  {
+    "cod": "IFD0031",
+    "nome": "TERMODIN\u00c2MICA E F\u00cdSICA ESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0463"
+    ],
+    "pre_requirements": [
+      "IFD0013",
+      "IFD0175",
+      "IFD0217",
+      "IFD0078  &  MAT0026",
+      "IFD0012"
+    ]
+  },
+  {
+    "cod": "IFD0395",
+    "nome": "TERMOESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0764"
+    ],
+    "pre_requirements": [
+      "IFD0386"
+    ]
+  },
+  {
+    "cod": "IFD0028",
+    "nome": "TERMOESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0479"
+    ],
+    "pre_requirements": [
+      "IFD0013"
+    ]
+  },
+  {
+    "cod": "IFD0388",
+    "nome": "TICS NO ENSINO DE F\u00cdSICA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0757"
+    ],
+    "pre_requirements": [
+      "IFD0357"
+    ]
+  },
+  {
+    "cod": "IFD0266",
+    "nome": "TOPICOS DE FISICA E TECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "IFD0683"
+    ],
+    "pre_requirements": [
+      "IFD0256"
+    ]
+  },
+  {
+    "cod": "IFD0330",
+    "nome": "TOPICOS EM FISICA COMPUTACIONAL",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0710"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0059",
+    "nome": "T\u00d3PICOS ESPECIAIS A",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0060",
+    "nome": "T\u00d3PICOS ESPECIAIS B",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0061",
+    "nome": "T\u00d3PICOS ESPECIAIS C",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0062",
+    "nome": "T\u00d3PICOS ESPECIAIS D",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0058",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0506"
+    ],
+    "pre_requirements": [
+      "IFD0057"
+    ]
+  },
+  {
+    "cod": "IFD0389",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0409",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1 - LICENCIATURA EM F\u00cdSICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IFD0390",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 90,
+    "post_requirements": [
+      "IFD0759"
+    ],
+    "pre_requirements": [
+      "IFD0389"
+    ]
+  }
+]

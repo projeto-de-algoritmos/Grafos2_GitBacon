@@ -1,0 +1,446 @@
+[
+  {
+    "cod": "TEC0037",
+    "nome": "A\u00c7O E ARQUITETURA",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0097"
+    ],
+    "pre_requirements": [
+      "TEC0022 & PRO0017"
+    ]
+  },
+  {
+    "cod": "TEC0029",
+    "nome": "CONFORTO AMBIENTAL LUMINOSO",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0061"
+    ],
+    "pre_requirements": [
+      "TEC0017",
+      "PRO0064"
+    ]
+  },
+  {
+    "cod": "TEC0028",
+    "nome": "CONFORTO SONORO",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0054"
+    ],
+    "pre_requirements": [
+      "TEC0017",
+      "PRO0064"
+    ]
+  },
+  {
+    "cod": "TEC0017",
+    "nome": "CONFORTO TERMICO AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0177",
+      "TEC0028",
+      "TEC0029",
+      "TEC0047"
+    ],
+    "pre_requirements": [
+      "TEC0016"
+    ]
+  },
+  {
+    "cod": "TEC0042",
+    "nome": "CONFORTO T\u00c9RMICO AMBIENTAL 1",
+    "ch": 30,
+    "post_requirements": [
+      "PRO0064",
+      "TEC0064"
+    ],
+    "pre_requirements": [
+      "TEC0016"
+    ]
+  },
+  {
+    "cod": "TEC0033",
+    "nome": "ENSAIO EM TECNOLOGIA  DA ARQUITETURA E URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0093"
+    ],
+    "pre_requirements": [
+      "TEC0013 & TEC0022 & TEC0028 & TEC0029"
+    ]
+  },
+  {
+    "cod": "TEC0014",
+    "nome": "ESTAGIO SUPERVISIONADO EM OBRA",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0060"
+    ],
+    "pre_requirements": [
+      "PRO0020",
+      "PRO0016"
+    ]
+  },
+  {
+    "cod": "TEC0010",
+    "nome": "ESTRUTURAS ARQUITETONICAS 3",
+    "ch": 120,
+    "post_requirements": [
+      "TEC0023",
+      "TEC0024",
+      "ENM0097",
+      "TEC0075"
+    ],
+    "pre_requirements": [
+      "FAU0147"
+    ]
+  },
+  {
+    "cod": "TEC0036",
+    "nome": "ESTRUTURAS ARQUITET\u00d4NICAS E O AMBIENTE CONSTRU\u00cdDO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEC0024",
+    "nome": "ESTRUTURAS ESPECIAIS EM ARQUITETURA",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0085"
+    ],
+    "pre_requirements": [
+      "TEC0023",
+      "TEC0010"
+    ]
+  },
+  {
+    "cod": "TEC0016",
+    "nome": "ESTUDOS AMBIENTAIS-BIOCLIMATISMO",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0017",
+      "TEC0042",
+      "TEC0046"
+    ],
+    "pre_requirements": [
+      "TAU0002",
+      "PRO0011"
+    ]
+  },
+  {
+    "cod": "TEC0031",
+    "nome": "ESTUDOS ESPECIAIS EM TECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0091"
+    ],
+    "pre_requirements": [
+      "TEC0017 & TEC0018",
+      "TEC0042 & PRO0064 & TEC0038 & TEC0039"
+    ]
+  },
+  {
+    "cod": "TEC0032",
+    "nome": "GEST\u00c3O AMBIENTAL URBANA",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0092"
+    ],
+    "pre_requirements": [
+      "TEC0027"
+    ]
+  },
+  {
+    "cod": "TEC0008",
+    "nome": "INDUSTRIALIZACAO DA CONSTRUCAO",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0073"
+    ],
+    "pre_requirements": [
+      "PRO0015",
+      "FAU0111"
+    ]
+  },
+  {
+    "cod": "TEC0027",
+    "nome": "INFRA-ESTRUTURA URBANA",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0032",
+      "TEC0053"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEC0002",
+    "nome": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS 1",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0003",
+      "TEC0057"
+    ],
+    "pre_requirements": [
+      "PRO0011"
+    ]
+  },
+  {
+    "cod": "TEC0007",
+    "nome": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "PRO0051",
+      "TEC0045"
+    ],
+    "pre_requirements": [
+      "PRO0011"
+    ]
+  },
+  {
+    "cod": "TEC0003",
+    "nome": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS 2",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0058"
+    ],
+    "pre_requirements": [
+      "TEC0002"
+    ]
+  },
+  {
+    "cod": "TEC0026",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 TECNOLOGIA EM ARQUITETURA E URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0004",
+      "TEC0030",
+      "TEC0038",
+      "ENC0271",
+      "TEC0052"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEC0004",
+    "nome": "PR\u00c1TICA CONSTRUTIVA EM CANTEIRO EXPERIMENTAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0070"
+    ],
+    "pre_requirements": [
+      "TEC0026"
+    ]
+  },
+  {
+    "cod": "TEC0005",
+    "nome": "PR\u00c1TICA CONSTRUTIVA EM CANTEIRO EXPERIMENTAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0071"
+    ],
+    "pre_requirements": [
+      "TEC0026 & TEC0004"
+    ]
+  },
+  {
+    "cod": "TEC0009",
+    "nome": "PROGRAMACAO E CONTROLE DE PROJETO E OBRA",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0074"
+    ],
+    "pre_requirements": [
+      "PRO0015 & TEC0013",
+      "PRO0015 & TEC0043 & TEC0044"
+    ]
+  },
+  {
+    "cod": "TEC0035",
+    "nome": "PROJETO AMBIENTAL INTEGRADO",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0095"
+    ],
+    "pre_requirements": [
+      "TEC0016 & PRO0028 & PRO0023 & TEC0017 & TEC0029"
+    ]
+  },
+  {
+    "cod": "TEC0034",
+    "nome": "PROJETO AMBIENTAL INTEGRADO",
+    "ch": 90,
+    "post_requirements": [
+      "TEC0094"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEC0012",
+    "nome": "SISTEMAS CONSTRUTIVOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0030",
+      "TEC0038",
+      "TEC0076"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEC0030",
+    "nome": "SISTEMAS CONSTRUTIVOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0090"
+    ],
+    "pre_requirements": [
+      "TEC0012",
+      "TEC0026"
+    ]
+  },
+  {
+    "cod": "TEC0038",
+    "nome": "SISTEMAS ESTRUTURAIS 1",
+    "ch": 60,
+    "post_requirements": [
+      "PRO0020",
+      "TEC0039",
+      "TEC0062"
+    ],
+    "pre_requirements": [
+      "TEC0026",
+      "TEC0012"
+    ]
+  },
+  {
+    "cod": "TEC0039",
+    "nome": "SISTEMAS ESTRUTURAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0041",
+      "TEC0063"
+    ],
+    "pre_requirements": [
+      "TEC0038"
+    ]
+  },
+  {
+    "cod": "TEC0022",
+    "nome": "SISTEMAS ESTRUTURAIS EM A\u00c7O",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0023",
+      "ENM0097",
+      "TEC0050"
+    ],
+    "pre_requirements": [
+      "TEC0019",
+      "TEC0001"
+    ]
+  },
+  {
+    "cod": "TEC0019",
+    "nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO",
+    "ch": 120,
+    "post_requirements": [
+      "TEC0022",
+      "ENC0055",
+      "TEC0049"
+    ],
+    "pre_requirements": [
+      "TEC0018",
+      "TEC0038 & TEC0039"
+    ]
+  },
+  {
+    "cod": "TEC0041",
+    "nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO 1",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0001",
+      "TEC0055"
+    ],
+    "pre_requirements": [
+      "TEC0039",
+      "TEC0018"
+    ]
+  },
+  {
+    "cod": "TEC0001",
+    "nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO 2",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0022",
+      "TEC0056"
+    ],
+    "pre_requirements": [
+      "TEC0041"
+    ]
+  },
+  {
+    "cod": "TEC0023",
+    "nome": "SISTEMAS ESTRUTURAIS EM MADEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "EFL0006",
+      "TEC0024",
+      "TEC0051"
+    ],
+    "pre_requirements": [
+      "TEC0022",
+      "TEC0010"
+    ]
+  },
+  {
+    "cod": "TEC0018",
+    "nome": "SISTEMAS ESTRUTURAIS NA ARQUITETURA",
+    "ch": 120,
+    "post_requirements": [
+      "PRO0020",
+      "TEC0019",
+      "ENC0229",
+      "ENC0230",
+      "TEC0041",
+      "TEC0048"
+    ],
+    "pre_requirements": [
+      "PRO0011"
+    ]
+  },
+  {
+    "cod": "TEC0013",
+    "nome": "TECNICAS DE CONSTRUCAO",
+    "ch": 60,
+    "post_requirements": [
+      "TEC0059"
+    ],
+    "pre_requirements": [
+      "ENC0055",
+      "ENC0229 & ENC0230",
+      "ENC0276 & ENC0277"
+    ]
+  },
+  {
+    "cod": "TEC0043",
+    "nome": "T\u00c9CNICAS DE CONSTRU\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0044",
+      "TEC0065"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "TEC0044",
+    "nome": "T\u00c9CNICAS DE CONSTRU\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [
+      "TEC0066"
+    ],
+    "pre_requirements": [
+      "TEC0043"
+    ]
+  }
+]

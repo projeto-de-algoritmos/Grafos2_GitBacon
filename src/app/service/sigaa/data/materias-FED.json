@@ -1,0 +1,2073 @@
+[
+  {
+    "cod": "PAD0049",
+    "nome": "ADMINISTRACAO DA EDUCACAO E COMUNIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0104"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0038",
+    "nome": "ADMINISTRA\u00c7\u00c3O DAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0047",
+      "PAD0078",
+      "PAD0083"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0070",
+    "nome": "ANTROPOLOGIA DAS ORGANIZACOES E EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0076",
+    "nome": "AVALIA\u00c7\u00c3O NAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0064",
+      "PAD0087"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0047",
+    "nome": "COMUNICACAO EM ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0071",
+    "nome": "CULTURA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0034",
+    "nome": "DIREITO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0046",
+    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 ADMINISTRA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0102"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0052",
+    "nome": "FINANCIAMENTO DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0058",
+      "PAD0105"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0080",
+    "nome": "GEST\u00c3O DAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0047",
+      "PAD0078",
+      "PAD0085"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0041",
+    "nome": "GESTAO DE DESENVOLVIMENTO DE CURRICULO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0100"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0058",
+    "nome": "GESTAO DE RECURSOS FISICOS NAS ORGANIZACOES EDUCACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0106"
+    ],
+    "pre_requirements": [
+      "PAD0022",
+      "PAD0052"
+    ]
+  },
+  {
+    "cod": "PAD0077",
+    "nome": "GEST\u00c3O DE SISTEMAS DE EAD",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0079",
+    "nome": "GEST\u00c3O DE SISTEMAS DE EDUCA\u00c7\u00c3O \u00c0 DIST\u00c2NCIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0019",
+    "nome": "HIGIENE ESCOLAR",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0093"
+    ],
+    "pre_requirements": [
+      "PAD0011"
+    ]
+  },
+  {
+    "cod": "PAD0010",
+    "nome": "INFORMATICA APLICADA A ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0017",
+    "nome": "LEGISLACAO DO ENSINO 1",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0018",
+      "PAD0091"
+    ],
+    "pre_requirements": [
+      "TEF0013"
+    ]
+  },
+  {
+    "cod": "PAD0018",
+    "nome": "LEGISLACAO DO ENSINO 2",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0092"
+    ],
+    "pre_requirements": [
+      "PAD0017"
+    ]
+  },
+  {
+    "cod": "PAD0039",
+    "nome": "METODOS E TECNICAS DE PLANEJAMENTO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0099"
+    ],
+    "pre_requirements": [
+      "PAD0022"
+    ]
+  },
+  {
+    "cod": "PAD0028",
+    "nome": "ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0031",
+      "FIL0171",
+      "PAD0081"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0074",
+    "nome": "ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O NO DISTRITO FEDERAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0045",
+    "nome": "PESQUISA EM ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0065",
+      "PAD0101"
+    ],
+    "pre_requirements": [
+      "TEF0103"
+    ]
+  },
+  {
+    "cod": "PAD0022",
+    "nome": "PLANEJAMENTO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0039",
+      "PAD0058",
+      "PAD0062",
+      "PAD0086"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0031",
+    "nome": "POLITICAS P\u00daBLICAS DE EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0082"
+    ],
+    "pre_requirements": [
+      "PAD0028"
+    ]
+  },
+  {
+    "cod": "PAD0001",
+    "nome": "PRATICA DE ENSINO DE DISCIPLINA PROFISSIONALIZANTE DO 2 GRAU 2",
+    "ch": 30,
+    "post_requirements": [
+      "PAD0088"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "PAD0011",
+    "nome": "PRINCIPIOS E METODOS DE ADMINISTRACAO ESCOLAR",
+    "ch": 90,
+    "post_requirements": [
+      "PAD0019",
+      "PAD0090"
+    ],
+    "pre_requirements": [
+      "TEF0013"
+    ]
+  },
+  {
+    "cod": "PAD0065",
+    "nome": "TOPICOS ESPECIAIS DE PESQUISA EM ADMINISTRACAO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0109"
+    ],
+    "pre_requirements": [
+      "PAD0045"
+    ]
+  },
+  {
+    "cod": "PAD0078",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ADMINISTRA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0116"
+    ],
+    "pre_requirements": [
+      "PAD0080",
+      "PAD0038"
+    ]
+  },
+  {
+    "cod": "PAD0064",
+    "nome": "T\u00d3PICOS ESPECIAIS EM AVALIA\u00c7\u00c3O EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0108"
+    ],
+    "pre_requirements": [
+      "PAD0076"
+    ]
+  },
+  {
+    "cod": "PAD0062",
+    "nome": "TOPICOS ESPECIAIS EM PLANEJAMENTO DA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0107"
+    ],
+    "pre_requirements": [
+      "PAD0022"
+    ]
+  },
+  {
+    "cod": "PAD0067",
+    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICAS DE EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "PAD0110"
+    ],
+    "pre_requirements": [
+      "PAD0028 & PAD0031"
+    ]
+  },
+  {
+    "cod": "FED0131",
+    "nome": "ADMINISTRA\u00c7\u00c3O DAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0526"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0158",
+    "nome": "ANTROPOLOGIA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0402"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0003",
+    "nome": "APRENDIZAGEM E DESENVOLVIMENTO DO PNEE",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0124",
+    "nome": "APRENDIZAGEM E DESENVOLVIMENTO DO PNEE",
+    "ch": 60,
+    "post_requirements": [
+      "FED0520"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0077",
+    "nome": "APRENDIZAGEM, TECNOLOGIA E EAD",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0192",
+    "nome": "ARTE, PEDAGOGIA E CULTURA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0195",
+    "nome": "ATIVIDADES L\u00daDICAS EM IN\u00cdCIO ESCOLARIZA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0196",
+    "nome": "AVALIA\u00c7\u00c3O EDUCACIONAL DO PNEE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0197",
+    "nome": "AVALIA\u00c7\u00c3O ESCOLAR",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0020",
+    "nome": "AVALIA\u00c7\u00c3O NA ESCOLA PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0174",
+    "nome": "AVALIA\u00c7\u00c3O NAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0562"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0038",
+    "nome": "AVALIA\u00c7\u00c3O NAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0074",
+    "nome": "BASES PEDAG\u00d3GICAS DO TRABALHO ESCOLAR 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0005",
+    "nome": "BASES PEDAG\u00d3GICAS DO TRABALHO ESCOLAR 1 PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0075",
+    "nome": "BASES PEDAG\u00d3GICAS DO TRABALHO ESCOLAR 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0006",
+    "nome": "BASES PEDAG\u00d3GICAS DO TRABALHO ESCOLAR 2 PARFOR",
+    "ch": 75,
+    "post_requirements": [
+      "FED0409"
+    ],
+    "pre_requirements": [
+      "FED0005"
+    ]
+  },
+  {
+    "cod": "FED0076",
+    "nome": "BASES PEDAG\u00d3GICAS DO TRABALHO ESCOLAR 3",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0094",
+    "nome": "CONSTRU\u00c7\u00c3O DO PROCESSO EDUCATIVO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0087",
+    "nome": "CONTRIBUI\u00c7\u00d5ES DA PSICOLOGIA PARA EDUCA\u00c7\u00c3O",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0198",
+    "nome": "CRIATIVIDADE E INOVA\u00c7\u00c3O NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0126",
+    "nome": "CULTURA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0199",
+    "nome": "CURR\u00cdCULO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0081",
+    "nome": "CURR\u00cdCULO E DIVERSIDADE CULTURAL",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0017",
+    "nome": "CURR\u00cdCULO E DIVERSIDADE CULTURAL PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0080",
+    "nome": "DESENVOLVIMENTO E APRENDIZAGEM",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0008",
+    "nome": "DESENVOLVIMENTO E APRENDIZAGEM PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0200",
+    "nome": "DESENVOLVIMENTO HUMANO E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0163",
+    "nome": "DID\u00c1TICA FUNDAMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FED0551"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0104",
+    "nome": "DID\u00c1TICA - ORGANIZA\u00c7\u00c3O DO TRABALHO PEDAG\u00d3GICO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0181",
+    "nome": "EDUCA\u00c7\u00c3O \u00c0 DIST\u00c2NCIA - PEDAGOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0569"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0064",
+    "nome": "EDUCA\u00c7\u00c3O ARTE E MOVIMENTO 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0031",
+    "nome": "EDUCA\u00c7\u00c3O ARTE E MOVIMENTO 1 PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0065",
+    "nome": "EDUCA\u00c7\u00c3O ARTE E MOVIMENTO 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0032",
+    "nome": "EDUCA\u00c7\u00c3O ARTE E MOVIMENTO 2 PARFOR",
+    "ch": 90,
+    "post_requirements": [
+      "FED0435"
+    ],
+    "pre_requirements": [
+      "FED0031"
+    ]
+  },
+  {
+    "cod": "FED0066",
+    "nome": "EDUCA\u00c7\u00c3O ARTE E MOVIMENTO 3",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0089",
+    "nome": "EDUCA\u00c7\u00c3O BRASILEIRA: ORGANIZA\u00c7\u00c3O E PROCESSOS",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0183",
+    "nome": "EDUCA\u00c7\u00c3O DAS RELA\u00c7\u00d5ES \u00c9TNICOS-RACIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0571"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0153",
+    "nome": "EDUCA\u00c7\u00c3O DE ADULTOS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0541"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0231",
+    "nome": "EDUCA\u00c7\u00c3O DE JOVENS, ADULTOS E IDOSOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0036",
+    "nome": "EDUCA\u00c7\u00c3O DE JOVENS E ADULTOS PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0071",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAIS SOCIAIS 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0024",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAIS SOCIAIS 1 PARFOR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0072",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAIS SOCIAIS 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0025",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAIS SOCIAIS 2 PARFOR",
+    "ch": 90,
+    "post_requirements": [
+      "FED0428"
+    ],
+    "pre_requirements": [
+      "FED0024"
+    ]
+  },
+  {
+    "cod": "FED0073",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAIS SOCIAIS 3",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0067",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAS F\u00cdSICAS E BIOL\u00d3GICAS 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0021",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAS F\u00cdSICAS E BIOL\u00d3GICAS 1 PARFOR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0068",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAS F\u00cdSICAS E BIOL\u00d3GICAS 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0022",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAS F\u00cdSICAS E BIOL\u00d3GICAS 2 PARFOR",
+    "ch": 90,
+    "post_requirements": [
+      "FED0425"
+    ],
+    "pre_requirements": [
+      "FED0021"
+    ]
+  },
+  {
+    "cod": "FED0069",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAS F\u00cdSICAS E BIOL\u00d3GICAS 3",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0070",
+    "nome": "EDUCA\u00c7\u00c3O E CI\u00caNCIAS F\u00cdSICAS E BIOL\u00d3GICAS 4",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0086",
+    "nome": "EDUCA\u00c7\u00c3O E DESENVOLVIMENTO SUSTENT\u00c1VEIS (SA\u00daDE E MEIO AMBIENTE)",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0060",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0011",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 1 PARFOR",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0061",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0012",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 2 PARFOR",
+    "ch": 135,
+    "post_requirements": [
+      "FED0016",
+      "FED0415"
+    ],
+    "pre_requirements": [
+      "FED0011"
+    ]
+  },
+  {
+    "cod": "FED0062",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 3",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0016",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 3 PARFOR",
+    "ch": 135,
+    "post_requirements": [
+      "FED0419"
+    ],
+    "pre_requirements": [
+      "FED0012"
+    ]
+  },
+  {
+    "cod": "FED0063",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGEM MATEM\u00c1TICA 4",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0201",
+    "nome": "EDUCA\u00c7\u00c3O E LINGUAGENS TECNOL\u00d3GICAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0056",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 1",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0009",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 1 PARFOR",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0057",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 2",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0010",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 2 PARFOR",
+    "ch": 135,
+    "post_requirements": [
+      "FED0015",
+      "FED0413"
+    ],
+    "pre_requirements": [
+      "FED0009"
+    ]
+  },
+  {
+    "cod": "FED0058",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 3",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0015",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 3 PARFOR",
+    "ch": 135,
+    "post_requirements": [
+      "FED0418"
+    ],
+    "pre_requirements": [
+      "FED0010"
+    ]
+  },
+  {
+    "cod": "FED0059",
+    "nome": "EDUCA\u00c7\u00c3O E L\u00cdNGUA MATERNA 4",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0202",
+    "nome": "EDUCA\u00c7\u00c3O EM ARTES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0175",
+    "nome": "EDUCA\u00c7\u00c3O EM GEOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0563"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0046",
+    "nome": "EDUCA\u00c7\u00c3O EM GEOGRAFIA II",
+    "ch": 60,
+    "post_requirements": [
+      "FED0392"
+    ],
+    "pre_requirements": [
+      "MTC0061"
+    ]
+  },
+  {
+    "cod": "FED0232",
+    "nome": "EDUCA\u00c7\u00c3O EM GEOGRAFIA II",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0203",
+    "nome": "EDUCA\u00c7\u00c3O EM SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0098",
+    "nome": "EDUCA\u00c7\u00c3O E PESQUISA 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0099",
+    "nome": "EDUCA\u00c7\u00c3O E PESQUISA 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0100",
+    "nome": "EDUCA\u00c7\u00c3O E PESQUISA 3",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0083",
+    "nome": "EDUCA\u00c7\u00c3O E SOCIEDADE NUMA PERSPECTIVA SOCIOL\u00d3GICA",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0007",
+    "nome": "EDUCA\u00c7\u00c3O E SOCIEDADE NUMA PERSPECTIVA SOCIOL\u00d3GICA  PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0123",
+    "nome": "EDUCA\u00c7\u00c3O E TRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "FED0519"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0193",
+    "nome": "EDUCA\u00c7\u00c3O INCLUSIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0030",
+    "nome": "EDUCA\u00c7\u00c3O INCLUSIVA PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0132",
+    "nome": "EDUCA\u00c7\u00c3O INFANTIL",
+    "ch": 60,
+    "post_requirements": [
+      "FED0527"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0155",
+    "nome": "EDUCA\u00c7\u00c3O MATEM\u00c1TICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FED0401"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0127",
+    "nome": "EDUCA\u00c7\u00c3O MATEM\u00c1TICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FED0523"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0204",
+    "nome": "EDUCA\u00c7\u00c3O MULTICULTURAL NA CONTEMPORANEIDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0205",
+    "nome": "EDUCA\u00c7\u00c3O N\u00c3O-FORMAL CI\u00caNCIA E TECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0233",
+    "nome": "EDUCA\u00c7\u00c3O PROFISSIONAL E TECNOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0052",
+    "nome": "EDUCA\u00c7\u00c3O PROFISSIONAL E TECNOL\u00d3GICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0211",
+    "nome": "EDUCA\u00c7\u00c3O, TECNOLOGIA E  COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0165",
+    "nome": "EDUCANDO COM NECESSIDADES EDUCACIONAIS ESPECIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0553"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0230",
+    "nome": "ENFOQUES PSICOPEDAG\u00d3GICOS DAS DIFICULDADES DE APRENDIZAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0130",
+    "nome": "ENSINO DE CI\u00caNCIA E TECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0525"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0213",
+    "nome": "ENSINO DE CI\u00caNCIAS E TECNOLOGIA II",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0172",
+    "nome": "ENSINO DE HIST\u00d3RIA, IDENTIDADE E CIDADANIA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0560"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0125",
+    "nome": "ENSINO E APRENDIZAGEM DA L\u00cdNGUA MATERNA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0521"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0002",
+    "nome": "ENSINO E APRENDIZAGEM DA L\u00cdNGUA MODERNA",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0184",
+    "nome": "ESCOLARIZA\u00c7\u00c3O DE SURDOS E LIBRAS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0572"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0037",
+    "nome": "ESCOLARIZA\u00c7\u00c3O DE SURDOS E LIBRAS PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0027",
+    "nome": "EST\u00c1GIO 1 PARFOR",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0028",
+    "nome": "EST\u00c1GIO 2 PARFOR",
+    "ch": 120,
+    "post_requirements": [
+      "FED0029",
+      "FED0431"
+    ],
+    "pre_requirements": [
+      "FED0027"
+    ]
+  },
+  {
+    "cod": "FED0029",
+    "nome": "EST\u00c1GIO 3 PARFOR",
+    "ch": 120,
+    "post_requirements": [
+      "FED0432"
+    ],
+    "pre_requirements": [
+      "FED0028"
+    ]
+  },
+  {
+    "cod": "FED0043",
+    "nome": "EST\u00c1GIO SUPERVISIONADO I: EDUCA\u00c7\u00c3O INFANTIL",
+    "ch": 120,
+    "post_requirements": [
+      "FED0390"
+    ],
+    "pre_requirements": [
+      "MTC0012 & MTC0039"
+    ]
+  },
+  {
+    "cod": "FED0250",
+    "nome": "EST\u00c1GIO SUPERVISIONADO I: EDUCA\u00c7\u00c3O INFANTIL",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": [
+      "FED0163 & FED0132"
+    ]
+  },
+  {
+    "cod": "FED0045",
+    "nome": "EST\u00c1GIO SUPERVISIONADO II: ANOS INICIAIS",
+    "ch": 120,
+    "post_requirements": [
+      "FED0391"
+    ],
+    "pre_requirements": [
+      "MTC0012"
+    ]
+  },
+  {
+    "cod": "FED0047",
+    "nome": "EST\u00c1GIO SUPERVISIONADO III: GEST\u00c3O ESCOLAR",
+    "ch": 120,
+    "post_requirements": [
+      "FED0393"
+    ],
+    "pre_requirements": [
+      "PAD0080",
+      "PAD0038"
+    ]
+  },
+  {
+    "cod": "FED0050",
+    "nome": "EST\u00c1GIO SUPERVISIONADO IV: ESPA\u00c7OS EDUCATIVOS N\u00c3O-ESCOLARES",
+    "ch": 90,
+    "post_requirements": [
+      "FED0395"
+    ],
+    "pre_requirements": [
+      "FED0043 & FED0045 & FED0047"
+    ]
+  },
+  {
+    "cod": "FED0054",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0055",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0191",
+    "nome": "FILOSOFIA COM CRIAN\u00c7AS",
+    "ch": 60,
+    "post_requirements": [
+      "FED0579"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0157",
+    "nome": "FILOSOFIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0545"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0206",
+    "nome": "FILOSOFIA DA EDUCA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0110",
+    "nome": "FILOSOFIA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0019",
+    "nome": "FILOSOFIA E PR\u00c1XIS PEDAG\u00d3GICO PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0088",
+    "nome": "FILOSOFIA E PR\u00c1XIS PEDAG\u00d3GICOS",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0235",
+    "nome": "FINANCIAMENTO DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0207",
+    "nome": "FORMAS DE EXPRESS\u00c3O DA CRIAN\u00c7A DE 0 A 6 ANOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0156",
+    "nome": "FUNDAMENTOS DA ARTE NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0544"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0164",
+    "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FED0552"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0078",
+    "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O B\u00c1SICA PARA CRIAN\u00c7A JOVEM E ADULTO",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0013",
+    "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O DA CRIAN\u00c7A PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0079",
+    "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O ESPECIAL",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0179",
+    "nome": "FUNDAMENTOS DA LINGUAGEM MUSICAL NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0567"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0176",
+    "nome": "FUNDAMENTOS DA LINGUAGEM NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0105",
+    "nome": "FUNDAMENTOS PSICOL\u00d3GICOS NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0109",
+    "nome": "FUNDAMENTOS SOCIAIS APLICADOS \u00c0 EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0001",
+    "nome": "G\u00caNERO E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0212",
+    "nome": "GEST\u00c3O DAS ORGANIZA\u00c7\u00d5ES EDUCATIVAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0048",
+    "nome": "GEST\u00c3O DE PROGRAMAS E PROJETOS EDUCACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0229",
+    "nome": "GEST\u00c3O DE PROGRAMAS E PROJETOS EDUCACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0166",
+    "nome": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0554"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0208",
+    "nome": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O BRASILEIRA II",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0182",
+    "nome": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O BRASILEIRA - PEDAGOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0570"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0108",
+    "nome": "HIST\u00d3RIA E ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0014",
+    "nome": "IDENTIDADE, SUJEITO E FATOS HIST\u00d3RICOS PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0085",
+    "nome": "IDENTIDADE, SUJEITOS E FATOS HIST\u00d3RICOS NA EDUCA\u00c7\u00c3O",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0194",
+    "nome": "INF\u00c2NCIA, CRIAN\u00c7A E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0053",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 AN\u00c1LISE DE DADOS E INDICADORES EDUCACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0152",
+    "nome": "INTRODU\u00c7\u00c3O A CLASSE HOSPITALAR",
+    "ch": 60,
+    "post_requirements": [
+      "FED0540"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0377",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 PEDAGOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0039",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 PEDAGOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0161",
+    "nome": "INVESTIGA\u00c7\u00c3O FILOS\u00d3FICA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0549"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0111",
+    "nome": "INVESTIGA\u00c7\u00c3O SOCIAL: FUNDAMENTOS E METODOLOGIA - TRABALHO CONCL CURSO",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0188",
+    "nome": "LITERATURA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0576"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0117",
+    "nome": "M\u00d3DULO 1 - A REALIDADE BRASILEIRA",
+    "ch": 525,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0118",
+    "nome": "M\u00d3DULO 2 - A CULTURA E O TRABALHO NO BRASIL",
+    "ch": 525,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0119",
+    "nome": "M\u00d3DULO 3 - A EDUCA\u00c7\u00c3O E O CONTEXTO SOCIAL",
+    "ch": 540,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0120",
+    "nome": "M\u00d3DULO 4 - A ESCOLA COMO INSTITUI\u00c7\u00c3O SOCIAL",
+    "ch": 555,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0121",
+    "nome": "M\u00d3DULO 5 - O CURR\u00cdCULO E A DIVERSIDADE CULTURAL",
+    "ch": 540,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0122",
+    "nome": "M\u00d3DULO 6 - O TRABALHO DOCENTE E DISCENTE - UMA RELA\u00c7\u00c3O DE CONSTRU\u00c7\u00c3O",
+    "ch": 540,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0209",
+    "nome": "MULTICULTURALISMO E ENSINO RELIGIOSO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0084",
+    "nome": "MULTICULTURISMO E EDUCA\u00c7\u00c3O",
+    "ch": 105,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0091",
+    "nome": "NOVAS TECNOLOGIAS DE COMUNICA\u00c7\u00c3O E INFORMA\u00c7\u00c3O NA EDUCA\u00c7\u00c3O  DIST\u00c2NCIA 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0092",
+    "nome": "NOVAS TECNOLOGIAS DE COMUNICA\u00c7\u00c3O E INFORMA\u00c7\u00c3O NA EDUCA\u00c7\u00c3O DIST\u00c2NCIA 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0093",
+    "nome": "NOVAS TECNOLOGIAS DE COMUNICA\u00c7\u00c3O E INFORMA\u00c7\u00c3O NA EDUCA\u00c7\u00c3O DIST\u00c2NCIA 3",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0095",
+    "nome": "OFICINA B\u00c1SICA DE VIV\u00caNCIA AS SUBJETIVIDADE E CONSTRU\u00c7\u00c3O DE REDES 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0096",
+    "nome": "OFICINA B\u00c1SICA DE VIV\u00caNCIA AS SUBJETIVIDADE E CONSTRU\u00c7\u00c3O DE REDES 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0097",
+    "nome": "OFICINA B\u00c1SICA DE VIV\u00caNCIA AS SUBJETIVIDADES E CONSTRU\u00c7\u00c3O DE REDES 3",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0225",
+    "nome": "OFICINA DE AUDIOVISUAIS NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0177",
+    "nome": "OFICINA DE FORMA\u00c7\u00c3O DE PROFESSOR LEITOR",
+    "ch": 60,
+    "post_requirements": [
+      "FED0565"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0090",
+    "nome": "OFICINA DE TEXTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0210",
+    "nome": "OFICINAS DE TEXTOS ACAD\u00caMICOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0168",
+    "nome": "ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "FED0385"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0018",
+    "nome": "ORGANIZA\u00c7\u00c3O DA EDUCA\u00c7\u00c3O BRASILEIRA PARFOR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0215",
+    "nome": "ORIENTA\u00c7\u00c3O EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0185",
+    "nome": "ORIENTA\u00c7\u00c3O VOCACIONAL PROFISSIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "FED0573"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0216",
+    "nome": "PENSAMENTO EDUCACIONAL BRASILEIRO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0159",
+    "nome": "PERSPECTIVAS DO DESENVOLVIMENTO HUMANO",
+    "ch": 60,
+    "post_requirements": [
+      "FED0547"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0150",
+    "nome": "PESQUISA EM EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0538"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0026",
+    "nome": "PESQUISA EM EDUCA\u00c7\u00c3O 1 PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0004",
+    "nome": "PLANEJAMENTO EDUCACIONAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0082",
+    "nome": "PLANEJAMENTO E GEST\u00c3O ESCOLAR",
+    "ch": 135,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0023",
+    "nome": "PLANEJAMENTO E GEST\u00c3O ESCOLAR PARFOR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0173",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS DE EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0561"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0033",
+    "nome": "POLITICAS P\u00daBLICAS DE EDUCA\u00c7\u00c3O PARFOR",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0106",
+    "nome": "PR\u00c1TICA EDUCATIVA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0107",
+    "nome": "PR\u00c1TICA EDUCATIVA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0218",
+    "nome": "PR\u00c1TICAS MIDI\u00c1TICAS EM EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0171",
+    "nome": "PROCESSO DE ALFABETIZA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0559"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0234",
+    "nome": "PROCESSOS DE ALFABETIZA\u00c7\u00c3O E LETRAMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0220",
+    "nome": "PRODU\u00c7\u00c3O E LEITURA DA IMAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0162",
+    "nome": "PROJETO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FED0169",
+      "FED0550"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0134",
+    "nome": "PROJETO 1 - ORIENTA\u00c7\u00c3O ACAD\u00caMICA INTEGRAL (OAI)",
+    "ch": 60,
+    "post_requirements": [
+      "FED0397"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0169",
+    "nome": "PROJETO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FED0557"
+    ],
+    "pre_requirements": [
+      "FED0162"
+    ]
+  },
+  {
+    "cod": "FED0135",
+    "nome": "PROJETO 2 - PROJETOS DE ENSINO, PESQUISA E EXTENS\u00c3O (GEPE)",
+    "ch": 60,
+    "post_requirements": [
+      "FED0384"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0154",
+    "nome": "PROJETO 3",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0129",
+    "nome": "PROJETO 3 FASE 1",
+    "ch": 90,
+    "post_requirements": [
+      "FED0524"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0178",
+    "nome": "PROJETO 3 FASE 2",
+    "ch": 90,
+    "post_requirements": [
+      "FED0180",
+      "FED0566"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0137",
+    "nome": "PROJETO 3 - PROJETOS INDIVIDUALIZADOS 1 (PESPE)",
+    "ch": 90,
+    "post_requirements": [
+      "FED0380"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0139",
+    "nome": "PROJETO 3 - PROJETOS INDIVIDUALIZADOS 2 (PESPE)",
+    "ch": 90,
+    "post_requirements": [
+      "FED0381"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0141",
+    "nome": "PROJETO 3 - PROJETOS INDIVIDUALIZADOS 3 (PESPE)",
+    "ch": 90,
+    "post_requirements": [
+      "FED0398"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0180",
+    "nome": "PROJETO 4 FASE 1",
+    "ch": 150,
+    "post_requirements": [
+      "FED0186",
+      "FED0568"
+    ],
+    "pre_requirements": [
+      "FED0178"
+    ]
+  },
+  {
+    "cod": "FED0186",
+    "nome": "PROJETO 4 FASE 2",
+    "ch": 150,
+    "post_requirements": [
+      "FED0187",
+      "FED0574"
+    ],
+    "pre_requirements": [
+      "FED0180"
+    ]
+  },
+  {
+    "cod": "FED0143",
+    "nome": "PROJETO 4 - PROJETOS INDIVIDUALIZADOS DE PR\u00c1TICA DOCENTE 1(SEPD)",
+    "ch": 120,
+    "post_requirements": [
+      "FED0382"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0145",
+    "nome": "PROJETO 4 - PROJETOS INDIVIDUALIZADOS DE PR\u00c1TICA DOCENTE 2 (SEPD)",
+    "ch": 120,
+    "post_requirements": [
+      "FED0399"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0187",
+    "nome": "PROJETO 5 FASE 1",
+    "ch": 60,
+    "post_requirements": [
+      "FED0190",
+      "FED0575"
+    ],
+    "pre_requirements": [
+      "FED0186"
+    ]
+  },
+  {
+    "cod": "FED0190",
+    "nome": "PROJETO 5 FASE 2 - TFC",
+    "ch": 60,
+    "post_requirements": [
+      "FED0578"
+    ],
+    "pre_requirements": [
+      "FED0187"
+    ]
+  },
+  {
+    "cod": "FED0146",
+    "nome": "PROJETO 5 - TRABALHO FINAL DE CURSO (TFC)",
+    "ch": 120,
+    "post_requirements": [
+      "FED0400"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0044",
+    "nome": "PROJETOS DE ENSINO, PESQUISA E EXTENS\u00c3O - PEPEX",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0222",
+    "nome": "PSICAN\u00c1LISE E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0224",
+    "nome": "PSICODRAMA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0226",
+    "nome": "PSICOLOGIA, CULTURA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0170",
+    "nome": "PSICOLOGIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0558"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0189",
+    "nome": "PSICOLOGIA SOCIAL NA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0577"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0133",
+    "nome": "SEMIN\u00c1RIO INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0528"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0101",
+    "nome": "SEMIN\u00c1RIOS INTERDISCIPLINARES 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0102",
+    "nome": "SEMIN\u00c1RIOS INTERDISCIPLINARES 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0103",
+    "nome": "SEMIN\u00c1RIOS INTERDISCIPLINARES 3",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0149",
+    "nome": "SEMIN\u00c1RIO SOBRE TRABALHO FINAL DE CURSO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0151",
+    "nome": "SOCIOLOGIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0539"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0167",
+    "nome": "SOCIONOMIA E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0555"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0227",
+    "nome": "TECNOLOGIAS NA EDUCA\u00c7\u00c3O ESPECIAL E INCLUSIVA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0160",
+    "nome": "TEORIAS DA EDUCA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [
+      "FED0548"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0228",
+    "nome": "T\u00d3PICOS ESPECIAIS DA HIST\u00d3RIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0223",
+    "nome": "T\u00d3PICOS ESPECIAIS DE PESQUISA EM EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0221",
+    "nome": "T\u00d3PICOS ESPECIAIS EM EDUCA\u00c7\u00c3O ESPECIAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0219",
+    "nome": "T\u00d3PICOS ESPECIAIS EM FILOSOFIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0114",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PESQUISA EM EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FED0512"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0214",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PSICOLOGIA  DA EDUCA\u00c7\u00c3O",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0217",
+    "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0034",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1 PARFOR",
+    "ch": 90,
+    "post_requirements": [
+      "FED0437"
+    ],
+    "pre_requirements": [
+      "FED0026"
+    ]
+  },
+  {
+    "cod": "FED0035",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2 PARFOR",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FED0049",
+    "nome": "TRABALHO FINAL DE CURSO I",
+    "ch": 60,
+    "post_requirements": [
+      "FED0051",
+      "FED0394",
+      "FED0244"
+    ],
+    "pre_requirements": [
+      "TEF0103"
+    ]
+  },
+  {
+    "cod": "FED0051",
+    "nome": "TRABALHO FINAL DE CURSO II",
+    "ch": 60,
+    "post_requirements": [
+      "FED0396"
+    ],
+    "pre_requirements": [
+      "FED0049",
+      "FED0243"
+    ]
+  }
+]

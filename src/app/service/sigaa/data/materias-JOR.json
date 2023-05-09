@@ -1,0 +1,1417 @@
+[
+  {
+    "cod": "JOR0097",
+    "nome": "AN\u00c1LISE DO JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0270"
+    ],
+    "pre_requirements": [
+      "JOR0070"
+    ]
+  },
+  {
+    "cod": "JOR0105",
+    "nome": "AN\u00c1LISE DO JORNALISMO AUDIOVISUAL",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0277"
+    ],
+    "pre_requirements": [
+      "DAP0096",
+      "COM0129"
+    ]
+  },
+  {
+    "cod": "JOR0033",
+    "nome": "ANALISE E OPINIAO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0218"
+    ],
+    "pre_requirements": [
+      "JOR0070"
+    ]
+  },
+  {
+    "cod": "JOR0005",
+    "nome": "APURA\u00c7\u00c3O E TEXTO JORNALISTICO 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0006",
+      "JOR0007",
+      "JOR0008",
+      "JOR0009",
+      "JOR0013",
+      "JOR0015",
+      "JOR0017",
+      "JOR0018",
+      "JOR0019",
+      "JOR0020",
+      "JOR0021",
+      "JOR0022",
+      "JOR0024",
+      "JOR0098",
+      "JOR0110",
+      "JOR0135",
+      "JOR0136",
+      "JOR0143",
+      "JOR0144",
+      "JOR0145",
+      "JOR0169"
+    ],
+    "pre_requirements": [
+      "JOR0080",
+      "JOR0058"
+    ]
+  },
+  {
+    "cod": "JOR0008",
+    "nome": "APURA\u00c7\u00c3O E TEXTO JORNALISTICO 2",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0196"
+    ],
+    "pre_requirements": [
+      "JOR0005"
+    ]
+  },
+  {
+    "cod": "JOR0142",
+    "nome": "APURA\u00c7\u00c3O JORNAL\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0006",
+      "JOR0013",
+      "JOR0015",
+      "JOR0017",
+      "JOR0018",
+      "JOR0019",
+      "JOR0020",
+      "JOR0021",
+      "JOR0024",
+      "JOR0098",
+      "JOR0110",
+      "JOR0135",
+      "JOR0143",
+      "JOR0144",
+      "JOR0145",
+      "JOR0308"
+    ],
+    "pre_requirements": [
+      "JOR0141",
+      "JOR0058"
+    ]
+  },
+  {
+    "cod": "JOR0067",
+    "nome": "ASSESSORIA DE COMUNICA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0247"
+    ],
+    "pre_requirements": [
+      "JOR0070",
+      "JOR0046"
+    ]
+  },
+  {
+    "cod": "JOR0024",
+    "nome": "ASSESSORIA DE COMUNICA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0025",
+      "JOR0154"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0025",
+    "nome": "ASSESSORIA DE COMUNICA\u00c7\u00c3O 2",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0155"
+    ],
+    "pre_requirements": [
+      "JOR0024"
+    ]
+  },
+  {
+    "cod": "JOR0082",
+    "nome": "CAMPUS 1",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0103",
+      "JOR0131",
+      "JOR0139",
+      "JOR0259"
+    ],
+    "pre_requirements": [
+      "JOR0070 & JOR0039"
+    ]
+  },
+  {
+    "cod": "JOR0071",
+    "nome": "CAMPUS 2",
+    "ch": 240,
+    "post_requirements": [
+      "JOR0104",
+      "JOR0249"
+    ],
+    "pre_requirements": [
+      "JOR0049 & JOR0082"
+    ]
+  },
+  {
+    "cod": "JOR0010",
+    "nome": "CAMPUS MULTIM\u00cdDIA",
+    "ch": 180,
+    "post_requirements": [
+      "JOR0149"
+    ],
+    "pre_requirements": [
+      "JOR0009 & JOR0006 & JOR0015 & JOR0007",
+      "JOR0003"
+    ]
+  },
+  {
+    "cod": "JOR0077",
+    "nome": "CAMPUS ON LINE",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0255"
+    ],
+    "pre_requirements": [
+      "JOR0031 & JOR0049"
+    ]
+  },
+  {
+    "cod": "JOR0083",
+    "nome": "COMUNICA\u00c7\u00c3O COMUNIT\u00c1RIA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0128",
+      "JOR0164"
+    ],
+    "pre_requirements": [
+      "JOR0045",
+      "COM0130",
+      "SER0024",
+      "MUS0089",
+      "POL0011",
+      "SOL0042",
+      "DAN0022",
+      "JOR0078",
+      "MAT0025",
+      "FUP0286",
+      "DSC0037",
+      "FIL0069",
+      "CET0038",
+      "TAU0002"
+    ]
+  },
+  {
+    "cod": "JOR0128",
+    "nome": "COMUNICA\u00c7\u00c3O COMUNIT\u00c1RIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0295"
+    ],
+    "pre_requirements": [
+      "JOR0083"
+    ]
+  },
+  {
+    "cod": "JOR0095",
+    "nome": "COMUNICA\u00c7\u00c3O E POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0127",
+      "JOR0269"
+    ],
+    "pre_requirements": [
+      "JOR0045",
+      "COM0130"
+    ]
+  },
+  {
+    "cod": "JOR0127",
+    "nome": "COMUNICA\u00c7\u00c3O E POL\u00cdTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0294"
+    ],
+    "pre_requirements": [
+      "JOR0095"
+    ]
+  },
+  {
+    "cod": "JOR0073",
+    "nome": "COMUNICA\u00c7\u00c3O E PROCESSOS DE INTERPRETA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0251"
+    ],
+    "pre_requirements": [
+      "JOR0058",
+      "JOR0141"
+    ]
+  },
+  {
+    "cod": "JOR0079",
+    "nome": "COMUNICA\u00c7\u00c3O E UNIVERSIDADE",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0163"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0001",
+    "nome": "COMUNICA\u00c7\u00c3O, INFORMA\u00c7\u00c3O E COMPUTA\u00c7\u00c3O : FUNDAMENTOS E APLICA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0093",
+    "nome": "COMUNICA\u00c7\u00c3O INSTITUCIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0267"
+    ],
+    "pre_requirements": [
+      "JOR0045"
+    ]
+  },
+  {
+    "cod": "JOR0131",
+    "nome": "CR\u00cdTICA DA M\u00cdDIA EM COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0297"
+    ],
+    "pre_requirements": [
+      "JOR0082"
+    ]
+  },
+  {
+    "cod": "JOR0094",
+    "nome": "DIREITO DO P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0268"
+    ],
+    "pre_requirements": [
+      "JOR0045"
+    ]
+  },
+  {
+    "cod": "JOR0133",
+    "nome": "EDI\u00c7\u00c3O DE IMAGEM EM REVISTAS",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0299"
+    ],
+    "pre_requirements": [
+      "JOR0049",
+      "DAP0125",
+      "COM0138",
+      "DAP0107 & DAP0108 & DAP0111"
+    ]
+  },
+  {
+    "cod": "JOR0126",
+    "nome": "EDI\u00c7\u00c3O DE TEXTO EM REVISTAS",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0293"
+    ],
+    "pre_requirements": [
+      "JOR0080"
+    ]
+  },
+  {
+    "cod": "JOR0047",
+    "nome": "EDICAO JORNALISTICA",
+    "ch": 150,
+    "post_requirements": [
+      "JOR0229"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0076",
+    "nome": "ELABORACAO DE PROJETOS EM COMUNICACAO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0012",
+    "nome": "EMPREENDEDORISMO E GEST\u00c3O EM COMUNICA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0173"
+    ],
+    "pre_requirements": [
+      "JOR0078"
+    ]
+  },
+  {
+    "cod": "JOR0026",
+    "nome": "EST\u00c1GIO OBRIGAT\u00d3RIO",
+    "ch": 210,
+    "post_requirements": [
+      "JOR0176"
+    ],
+    "pre_requirements": [
+      "JOR0009 & JOR0006 & JOR0015 & JOR0007"
+    ]
+  },
+  {
+    "cod": "JOR0055",
+    "nome": "ESTAGIO SUPERVISIONADO EM JORNALISMO",
+    "ch": 225,
+    "post_requirements": [
+      "JOR0236"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0064",
+    "nome": "EST\u00c9TICA DA COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0160"
+    ],
+    "pre_requirements": [
+      "JOR0078"
+    ]
+  },
+  {
+    "cod": "JOR0004",
+    "nome": "\u00c9TICA E JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0148"
+    ],
+    "pre_requirements": [
+      "JOR0080",
+      "JOR0078"
+    ]
+  },
+  {
+    "cod": "JOR0056",
+    "nome": "ETICA E LEGISLACAO EM COMUNICACAO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0237"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0062",
+    "nome": "\u00c9TICA NA COMUNICA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "DAP0170",
+      "JOR0159"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0044",
+    "nome": "FOTOGRAFIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0226"
+    ],
+    "pre_requirements": [
+      "DAP0079 & JOR0039"
+    ]
+  },
+  {
+    "cod": "JOR0039",
+    "nome": "FOTOJORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0075",
+      "JOR0157"
+    ],
+    "pre_requirements": [
+      "DAP0079",
+      "JOR0078",
+      "JOR0058"
+    ]
+  },
+  {
+    "cod": "JOR0130",
+    "nome": "HIST\u00d3RIA DA COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0296"
+    ],
+    "pre_requirements": [
+      "JOR0045"
+    ]
+  },
+  {
+    "cod": "JOR0050",
+    "nome": "HISTORIA DA IMPRENSA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0232"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0002",
+    "nome": "HIST\u00d3RIA DO JORNALISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0041",
+    "nome": "IMPRENSA E SOCIEDADE",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0223"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0060",
+    "nome": "IMPRENSA SINDICAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0078",
+    "nome": "INTRODU\u00c7\u00c3O A COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0080",
+    "nome": "INTRODU\u00c7\u00c3O AO JORNALISMO",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0003",
+      "JOR0004",
+      "JOR0005",
+      "JOR0007",
+      "JOR0009",
+      "JOR0023",
+      "JOR0049",
+      "JOR0070",
+      "JOR0085",
+      "JOR0126",
+      "JOR0179"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0027",
+    "nome": "JORNAL CAMPUS",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0156"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142  &  JOR0003"
+    ]
+  },
+  {
+    "cod": "JOR0144",
+    "nome": "JORNALISMO AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0310"
+    ],
+    "pre_requirements": [
+      "JOR0142",
+      "JOR0005"
+    ]
+  },
+  {
+    "cod": "JOR0143",
+    "nome": "JORNALISMO CIENT\u00cdFICO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0309"
+    ],
+    "pre_requirements": [
+      "JOR0142",
+      "JOR0005"
+    ]
+  },
+  {
+    "cod": "JOR0101",
+    "nome": "JORNALISMO CORPORATIVO",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0273"
+    ],
+    "pre_requirements": [
+      "JOR0070"
+    ]
+  },
+  {
+    "cod": "JOR0013",
+    "nome": "JORNALISMO CULTURAL",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0150"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0037",
+    "nome": "JORNALISMO DE REVISTA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0034",
+      "JOR0221"
+    ],
+    "pre_requirements": [
+      "JOR0046"
+    ]
+  },
+  {
+    "cod": "JOR0098",
+    "nome": "JORNALISMO ECON\u00d4MICO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0271"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0139",
+    "nome": "JORNALISMO EM R\u00c1DIO",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0305"
+    ],
+    "pre_requirements": [
+      "JOR0137 & JOR0070",
+      "JOR0082",
+      "JOR0030"
+    ]
+  },
+  {
+    "cod": "JOR0006",
+    "nome": "JORNALISMO EM R\u00c1DIO 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0014",
+      "JOR0170"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0014",
+    "nome": "JORNALISMO EM R\u00c1DIO 2",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0174"
+    ],
+    "pre_requirements": [
+      "JOR0006"
+    ]
+  },
+  {
+    "cod": "JOR0138",
+    "nome": "JORNALISMO EM TELEVIS\u00c3O",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0304"
+    ],
+    "pre_requirements": [
+      "JOR0137 & JOR0070",
+      "JOR0054",
+      "JOR0030"
+    ]
+  },
+  {
+    "cod": "JOR0015",
+    "nome": "JORNALISMO EM TV 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0016",
+      "JOR0151"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0016",
+    "nome": "JORNALISMO EM TV 2",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0152"
+    ],
+    "pre_requirements": [
+      "JOR0015"
+    ]
+  },
+  {
+    "cod": "JOR0145",
+    "nome": "JORNALISMO EM VE\u00cdCULOS P\u00daBLICOS",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0311"
+    ],
+    "pre_requirements": [
+      "JOR0142",
+      "JOR0005"
+    ]
+  },
+  {
+    "cod": "JOR0100",
+    "nome": "JORNALISMO E PODER",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0272"
+    ],
+    "pre_requirements": [
+      "JOR0070"
+    ]
+  },
+  {
+    "cod": "JOR0034",
+    "nome": "JORNALISMO ESPECIALIZADO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0219"
+    ],
+    "pre_requirements": [
+      "JOR0037"
+    ]
+  },
+  {
+    "cod": "JOR0017",
+    "nome": "JORNALISMO ESPORTIVO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0204"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0018",
+    "nome": "JORNALISMO INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0166"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0019",
+    "nome": "JORNALISMO INVESTIGATIVO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0153"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0135",
+    "nome": "JORNALISMO LITER\u00c1RIO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0187"
+    ],
+    "pre_requirements": [
+      "TEL0014",
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0020",
+    "nome": "JORNALISMO LOCAL",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0207"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0021",
+    "nome": "JORNALISMO OPINATIVO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0208"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0110",
+    "nome": "JORNALISMO POL\u00cdTICO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0280"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0142"
+    ]
+  },
+  {
+    "cod": "JOR0136",
+    "nome": "LABORAT\u00d3RIO CAMPUS REPORTER 1",
+    "ch": 90,
+    "post_requirements": [
+      "JOR0188"
+    ],
+    "pre_requirements": [
+      "JOR0005"
+    ]
+  },
+  {
+    "cod": "JOR0092",
+    "nome": "LEGISLA\u00c7\u00c3O E DIREITO A COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0181"
+    ],
+    "pre_requirements": [
+      "JOR0045"
+    ]
+  },
+  {
+    "cod": "JOR0063",
+    "nome": "M\u00c9TODOS E T\u00c9CNICAS EM PESQUISA EM COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0178"
+    ],
+    "pre_requirements": [
+      "JOR0078"
+    ]
+  },
+  {
+    "cod": "JOR0048",
+    "nome": "NOTICIA E MERCADOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0230"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0061",
+    "nome": "OFICINA AVAN\u00c7ADA DE NARRATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0242"
+    ],
+    "pre_requirements": [
+      "JOR0058",
+      "JOR0141"
+    ]
+  },
+  {
+    "cod": "JOR0132",
+    "nome": "OFICINA DE DIAGRAMA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0186"
+    ],
+    "pre_requirements": [
+      "JOR0003"
+    ]
+  },
+  {
+    "cod": "JOR0085",
+    "nome": "OFICINA DE JORNALISMO 1",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0103",
+      "JOR0261"
+    ],
+    "pre_requirements": [
+      "JOR0080",
+      "JOR0058"
+    ]
+  },
+  {
+    "cod": "JOR0103",
+    "nome": "OFICINA DE JORNALISMO 2",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0275"
+    ],
+    "pre_requirements": [
+      "JOR0082",
+      "JOR0085"
+    ]
+  },
+  {
+    "cod": "JOR0104",
+    "nome": "OFICINA DE JORNALISMO 3",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0276"
+    ],
+    "pre_requirements": [
+      "JOR0071"
+    ]
+  },
+  {
+    "cod": "JOR0121",
+    "nome": "OFICINA DE JORNALISMO 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0122",
+    "nome": "OFICINA DE JORNALISMO 5",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0124",
+    "nome": "OFICINA DE JORNALISMO 6",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0291"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0125",
+    "nome": "OFICINA DE JORNALISMO 7",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0117",
+    "nome": "OFICINA DE JORNALISMO DIGITAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0118",
+    "nome": "OFICINA DE JORNALISMO DIGITAL 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0119",
+    "nome": "OFICINA DE JORNALISMO DIGITAL 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0120",
+    "nome": "OFICINA DE JORNALISMO DIGITAL 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0134",
+    "nome": "OFICINA DE TELEJORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0300"
+    ],
+    "pre_requirements": [
+      "JOR0030 & JOR0082"
+    ]
+  },
+  {
+    "cod": "JOR0058",
+    "nome": "OFICINA DE TEXTO 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0003",
+      "JOR0005",
+      "JOR0039",
+      "JOR0061",
+      "JOR0072",
+      "JOR0073",
+      "JOR0085",
+      "JOR0142",
+      "JOR0158"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0072",
+    "nome": "OFICINA DE TEXTO 2",
+    "ch": 60,
+    "post_requirements": [
+      "DAP0058",
+      "DAP0059",
+      "JOR0250"
+    ],
+    "pre_requirements": [
+      "JOR0058",
+      "JOR0141"
+    ]
+  },
+  {
+    "cod": "JOR0043",
+    "nome": "OFICINA DE TEXTO-JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0225"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0051",
+    "nome": "OPINIAO PUBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0233"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0049",
+    "nome": "PLANEJAMENTO GRAFICO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0102",
+      "JOR0133",
+      "JOR0231"
+    ],
+    "pre_requirements": [
+      "JOR0080",
+      "COM0129 & COM0132"
+    ]
+  },
+  {
+    "cod": "JOR0102",
+    "nome": "PLANEJAMENTO GR\u00c1FICO 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0274"
+    ],
+    "pre_requirements": [
+      "JOR0049"
+    ]
+  },
+  {
+    "cod": "JOR0065",
+    "nome": "POLITICAS DE COMUNICA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0161"
+    ],
+    "pre_requirements": [
+      "JOR0045",
+      "COM0130"
+    ]
+  },
+  {
+    "cod": "JOR0088",
+    "nome": "PR\u00c9-PROJETO EXPERIMENTAL EM JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0180"
+    ],
+    "pre_requirements": [
+      "JOR0045 & JOR0082",
+      "JOR0045 & JOR0010"
+    ]
+  },
+  {
+    "cod": "JOR0003",
+    "nome": "PROCESSOS GR\u00c1FICOS EM JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0010",
+      "JOR0132",
+      "JOR0168"
+    ],
+    "pre_requirements": [
+      "JOR0080",
+      "JOR0078",
+      "JOR0058"
+    ]
+  },
+  {
+    "cod": "JOR0112",
+    "nome": "PROJETO FINAL EM JORNALISMO",
+    "ch": 90,
+    "post_requirements": [
+      "JOR0282"
+    ],
+    "pre_requirements": [
+      "JOR0088 & JOR0071",
+      "JOR0088 & JOR0027",
+      "JOR0088 & JOR0014",
+      "JOR0088 & JOR0016",
+      "JOR0088 & JOR0025"
+    ]
+  },
+  {
+    "cod": "JOR0036",
+    "nome": "PROJETOS EXPERIMENTAIS - JORNALISMO",
+    "ch": 270,
+    "post_requirements": [
+      "JOR0220"
+    ],
+    "pre_requirements": [
+      "JOR0034 & JOR0041 & JOR0047 & JOR0048"
+    ]
+  },
+  {
+    "cod": "JOR0054",
+    "nome": "RADIOJORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "DAP0036",
+      "DAP0072",
+      "JOR0087",
+      "JOR0138",
+      "JOR0235"
+    ],
+    "pre_requirements": [
+      "JOR0070"
+    ]
+  },
+  {
+    "cod": "JOR0087",
+    "nome": "RADIOJORNALISMO 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0263"
+    ],
+    "pre_requirements": [
+      "JOR0054"
+    ]
+  },
+  {
+    "cod": "JOR0057",
+    "nome": "REALIDADE BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0238"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0059",
+    "nome": "REALIDADE REGIONAL EM COMUNICACAO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0240"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0046",
+    "nome": "REDACAO DE JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0037",
+      "JOR0067",
+      "JOR0228"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0052",
+    "nome": "REDACAO PARA PUBLICIDADE IMPRESSA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0234"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0031",
+    "nome": "REPORTAGEM E ENTREVISTA",
+    "ch": 120,
+    "post_requirements": [
+      "JOR0217"
+    ],
+    "pre_requirements": [
+      "JOR0045"
+    ]
+  },
+  {
+    "cod": "JOR0075",
+    "nome": "REPORTAGEM FOTOGRAFICA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0253"
+    ],
+    "pre_requirements": [
+      "JOR0039"
+    ]
+  },
+  {
+    "cod": "JOR0111",
+    "nome": "SOCIOLOGIA DO JORNALISMO: ENSAIO DE COMPARA\u00c7\u00c3O INTERNACIONAL",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0042",
+    "nome": "TECNICAS DE COMUNICACAO DIRIGIDA 1",
+    "ch": 90,
+    "post_requirements": [
+      "JOR0224"
+    ],
+    "pre_requirements": [
+      "JOR0045"
+    ]
+  },
+  {
+    "cod": "JOR0070",
+    "nome": "T\u00c9CNICAS DE JORNALISMO",
+    "ch": 90,
+    "post_requirements": [
+      "JOR0033",
+      "JOR0054",
+      "JOR0067",
+      "JOR0097",
+      "JOR0100",
+      "JOR0101",
+      "JOR0248"
+    ],
+    "pre_requirements": [
+      "JOR0080",
+      "COM0137"
+    ]
+  },
+  {
+    "cod": "JOR0137",
+    "nome": "T\u00c9CNICAS DE R\u00c1DIO E TV",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0303"
+    ],
+    "pre_requirements": [
+      "JOR0045 & JOR0080",
+      "COM0137"
+    ]
+  },
+  {
+    "cod": "JOR0089",
+    "nome": "TECNOLOGIA DE COMUNICA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0165"
+    ],
+    "pre_requirements": [
+      "JOR0045",
+      "COM0130"
+    ]
+  },
+  {
+    "cod": "JOR0030",
+    "nome": "TELEJORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0086",
+      "JOR0138",
+      "JOR0139",
+      "JOR0216"
+    ],
+    "pre_requirements": [
+      "JOR0137 & JOR0070"
+    ]
+  },
+  {
+    "cod": "JOR0086",
+    "nome": "TELEJORNALISMO 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0262"
+    ],
+    "pre_requirements": [
+      "JOR0030"
+    ]
+  },
+  {
+    "cod": "JOR0022",
+    "nome": "TEORIA E PESQUISA DE OPINI\u00c3O P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0209"
+    ],
+    "pre_requirements": [
+      "JOR0005"
+    ]
+  },
+  {
+    "cod": "JOR0045",
+    "nome": "TEORIAS DA COMUNICA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0031",
+      "JOR0042",
+      "DAP0084",
+      "JOR0065",
+      "JOR0083",
+      "JOR0089",
+      "JOR0092",
+      "JOR0093",
+      "JOR0094",
+      "JOR0095",
+      "JOR0130",
+      "COM0136",
+      "JOR0177"
+    ],
+    "pre_requirements": [
+      "JOR0078"
+    ]
+  },
+  {
+    "cod": "JOR0023",
+    "nome": "TEORIAS DO JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0175"
+    ],
+    "pre_requirements": [
+      "JOR0080"
+    ]
+  },
+  {
+    "cod": "JOR0141",
+    "nome": "TEXTO JORNAL\u00cdSTICO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0061",
+      "JOR0072",
+      "JOR0073",
+      "JOR0142",
+      "JOR0167"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0107",
+    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0182"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0109",
+    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0183"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0114",
+    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 5",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0184"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0116",
+    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 6",
+    "ch": 30,
+    "post_requirements": [
+      "JOR0185"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "JOR0074",
+    "nome": "T\u00d3PICOS ESPECIAIS EM EST\u00c9TICA E CULTURA DE MASSA",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0252"
+    ],
+    "pre_requirements": [
+      "FAC0016"
+    ]
+  },
+  {
+    "cod": "JOR0007",
+    "nome": "WEBDESING EM JORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0171"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0080"
+    ]
+  },
+  {
+    "cod": "JOR0028",
+    "nome": "WEBDESING EM JORNALISMO 2",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0028",
+      "JOR0215"
+    ],
+    "pre_requirements": [
+      "JOR0028"
+    ]
+  },
+  {
+    "cod": "JOR0009",
+    "nome": "WEBJORNALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "JOR0172"
+    ],
+    "pre_requirements": [
+      "JOR0005",
+      "JOR0080"
+    ]
+  }
+]

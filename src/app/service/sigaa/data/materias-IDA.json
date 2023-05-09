@@ -1,0 +1,1146 @@
+[
+  {
+    "cod": "IDA0361",
+    "nome": "ANTROPOLOGIA CULTURAL",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0541"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0350",
+    "nome": "ANTROPOLOGIA CULTURAL",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0531"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0360",
+    "nome": "A PSICOLOGIA E A CONSTRU\u00c7\u00c3O DO CONHECIMENTO",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0540"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0306",
+    "nome": "ARTE E CULTURA POPULAR",
+    "ch": 60,
+    "post_requirements": [
+      "IDA0448"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0005",
+    "nome": "ARTE E CULTURA POPULAR - TEATRO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0363",
+    "nome": "ATELIER DE ARTES VISUAIS 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0374",
+    "nome": "ATELIER DE ARTES VISUAIS 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0348",
+    "nome": "ATELIER DE ARTES VISUAIS 3",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0344",
+    "nome": "ATELIER DE ARTES VISUAIS 4",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0332",
+      "IDA0525"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0340",
+    "nome": "ATELIER DE PRODU\u00c7\u00c3O INTERDISCIPLINAR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0411",
+    "nome": "DESENVOLVIMENTO PSICOL\u00d3GICO E ENSINO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0400",
+    "nome": "DID\u00c1TICA NAS ARTES VISUAIS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0311",
+    "nome": "ELABORA\u00c7\u00c3O DE PROJETO FINAL DE CURSO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0319",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM TEATRO 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0323",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM TEATRO 2",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0507"
+    ],
+    "pre_requirements": [
+      "IDA0319"
+    ]
+  },
+  {
+    "cod": "IDA0389",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM TEATRO 3",
+    "ch": 105,
+    "post_requirements": [
+      "IDA0560"
+    ],
+    "pre_requirements": [
+      "IDA0319"
+    ]
+  },
+  {
+    "cod": "IDA0327",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM TEATRO 4",
+    "ch": 120,
+    "post_requirements": [
+      "IDA0332",
+      "IDA0511"
+    ],
+    "pre_requirements": [
+      "IDA0319"
+    ]
+  },
+  {
+    "cod": "IDA0325",
+    "nome": "EST\u00c1GIO SUPERVISIONADO 3",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0390",
+      "IDA0509"
+    ],
+    "pre_requirements": [
+      "IDA0345 & IDA0341"
+    ]
+  },
+  {
+    "cod": "IDA0422",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS 1",
+    "ch": 105,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0428",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS 2",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0432",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES VISUAIS 3",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0345",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ATRTES VISUAIS 1",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0526"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0341",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ATRTES VISUAIS 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0353",
+    "nome": "ESTRAT\u00c9GIAS DE APRENDIZAGEM \u00c0 DIST\u00c2NCIA",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0534"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0358",
+    "nome": "ESTRAT\u00c9GIAS DE ENSINO E APRENDIZAGEM A DIST\u00c2NCIA",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0538"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0415",
+    "nome": "ESTUDO DAS VISUALIDADES AFRO-BRASILEIRAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0408",
+    "nome": "ESTUDO DAS VISUALIDADES IND\u00cdGENAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0285",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0286",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0424",
+    "nome": "ESTUDOS VISUAIS DA EDUCA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0429",
+    "nome": "ESTUDOS VISUAIS DA EDUCA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0357",
+    "nome": "FUNDAMENTOS DA LICENCIATURA EM ARTES VISUAIS",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0373",
+    "nome": "FUNDAMENTOS DA LICENCIATURA EM TEATRO",
+    "ch": 45,
+    "post_requirements": [
+      "IDA0549"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0355",
+    "nome": "FUNDAMENTOS DO CURSO",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0535"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0376",
+    "nome": "HIST\u00d3RIA DA ARTE-EDUCA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "IDA0338",
+      "VIS0287",
+      "VIS0289",
+      "VIS0293",
+      "IDA0551"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0004",
+    "nome": "HIST\u00d3RIA DA ARTE-EDUCA\u00c7\u00c3O 1 - TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "IDA0474"
+    ],
+    "pre_requirements": [
+      "IFD0015 & IFD0024 & IFD0031 & IFD0025"
+    ]
+  },
+  {
+    "cod": "IDA0347",
+    "nome": "HIST\u00d3RIA DA ARTE-EDUCA\u00c7\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0006",
+    "nome": "HIST\u00d3RIA DA ARTE-EDUCA\u00c7\u00c3O 2 - TEATRO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0403",
+    "nome": "HIST\u00d3RIA DA ARTE NO BRASIL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0318",
+    "nome": "HIST\u00d3RIA DAS ARTES - EDUCA\u00c7\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0364",
+    "nome": "HIST\u00d3RIA DAS ARTES VISUAIS 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0377",
+    "nome": "HIST\u00d3RIA DAS ARTES VISUAIS 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0342",
+    "nome": "HIST\u00d3RIA DAS ARTES VISUAIS NO BRASIL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0401",
+    "nome": "HIST\u00d3RIA DO ENSINO DAS ARTES VISUAIS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0007",
+    "nome": "HIST\u00d3RIA DO TEATRO 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0362",
+    "nome": "HIST\u00d3RIA DO TEATRO 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0008",
+    "nome": "HIST\u00d3RIA DO TEATRO 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0378",
+    "nome": "HIST\u00d3RIA DO TEATRO 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0321",
+    "nome": "HIST\u00d3RIA DO TEATRO NO BRASIL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0419",
+    "nome": "IMAGEM, CULTURA E SOCIEDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0001",
+    "nome": "INFORMATICA B\u00c1SICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0289",
+    "nome": "INSTRUMENTO 3 - TECLADO 3",
+    "ch": 30,
+    "post_requirements": [
+      "IDA0490"
+    ],
+    "pre_requirements": [
+      "IDA0386"
+    ]
+  },
+  {
+    "cod": "IDA0309",
+    "nome": "INSTRUMENTO 6 - TECLADO 6",
+    "ch": 30,
+    "post_requirements": [
+      "IDA0498"
+    ],
+    "pre_requirements": [
+      "IDA0302"
+    ]
+  },
+  {
+    "cod": "IDA0438",
+    "nome": "INSTRUMENTO SUPLEMENTAR 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0405",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 APRENDIZAGEM EAD",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0384",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 PESQUISA EM EDUCA\u00c7\u00c3O MUSICAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0402",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0S TEORIAS DA EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0331",
+    "nome": "LABORAT\u00d3RIO DE ARTE E TECNOLOGIA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0307",
+    "nome": "LABORAT\u00d3RIO DE M\u00daSICA E TECNOLOGIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0322",
+    "nome": "LABORAT\u00d3RIO DE PO\u00c9TICAS CONTEMPOR\u00c2NEAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0009",
+    "nome": "LABORAT\u00d3RIO DE PO\u00c9TICAS CONTEMPOR\u00c2NEAS - TEATRO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0328",
+    "nome": "LABORAT\u00d3RIO DE PRODU\u00c7\u00c3O INTERDISCIPLINAR  METODOLOGIA NO ENS DE TEATRO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0380",
+    "nome": "LABORAT\u00d3RIO DE TEATRO 2 - MOVIMENTO E VOZ",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0317",
+    "nome": "LABOR\u00c1TORIO DE TEATRO 3 - INTRODU\u00c7\u00c3O A INTERPRETA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0320",
+    "nome": "LABORAT\u00d3RIO DE TEATRO 4 - TEATRO DE FORMAS ANIMADAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0366",
+    "nome": "LABORAT\u00d3RIO DO TEATRO 1 - INTRODU\u00c7\u00c3O A LINGUAGEM C\u00caNICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0343",
+    "nome": "LABORAT\u00d3TIO DE PO\u00c9TICAS CONTEMPOR\u00c2NEAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0356",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0536"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0351",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0532"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0407",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0002",
+    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO - TEATRO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0012",
+    "nome": "METODOLOGIA DE PESQUISA EM ARTES C\u00caNICAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0414",
+    "nome": "METODOLOGIAS DE ENSINO E DE PESQUISA EM ARTES VISUAIS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0016",
+    "nome": "OBJETOS DE APRENDIZAGEM PARA O ENSINO DAS ARTES VISUAIS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0338",
+    "nome": "PEDAGOGIA DO TEATRO 1",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0334",
+      "IDA0462"
+    ],
+    "pre_requirements": [
+      "IDA0380",
+      "IDA0376"
+    ]
+  },
+  {
+    "cod": "IDA0334",
+    "nome": "PEDAGOGIA DO TEATRO 2",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0517"
+    ],
+    "pre_requirements": [
+      "IDA0338"
+    ]
+  },
+  {
+    "cod": "IDA0371",
+    "nome": "PERCEP\u00c7\u00c3O E ESTRUTURA\u00c7\u00c3O MUSICAL 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0383",
+    "nome": "PERCEP\u00c7\u00c3O E ESTRUTURA\u00c7\u00c3O MUSICAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "IDA0291",
+      "IDA0466"
+    ],
+    "pre_requirements": [
+      "IDA0371"
+    ]
+  },
+  {
+    "cod": "IDA0291",
+    "nome": "PERCEP\u00c7\u00c3O E ESTRUTURA\u00c7\u00c3O MUSICAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "IDA0298",
+      "IDA0461"
+    ],
+    "pre_requirements": [
+      "IDA0383"
+    ]
+  },
+  {
+    "cod": "IDA0298",
+    "nome": "PERCEP\u00c7\u00c3O E ESTRUTURA\u00c7\u00c3O MUSICAL 4",
+    "ch": 60,
+    "post_requirements": [
+      "IDA0447"
+    ],
+    "pre_requirements": [
+      "IDA0291"
+    ]
+  },
+  {
+    "cod": "IDA0442",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS E GEST\u00c3O EM ARTE EDUCA\u00c7\u00c3O",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0399",
+    "nome": "PR\u00c1TICA DE CANTO 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0437",
+    "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0433",
+    "nome": "PR\u00c1TICA DE ENSINO EM AMBIENTES VIRTUAIS DE APRENDIZAGEM",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0404",
+    "nome": "PR\u00c1TICA DE ENSINO EM DESENHO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0426",
+    "nome": "PR\u00c1TICA DE ENSINO EM ESPA\u00c7OS CULTURAIS OU MUSEUS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0420",
+    "nome": "PR\u00c1TICA DE ENSINO NA FORMA\u00c7\u00c3O DE PROFESSORES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0444",
+    "nome": "PR\u00c1TICA DOCENTE EM DAN\u00c7A",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0443",
+    "nome": "PR\u00c1TICA DOCENTE EM PEDAGOGIA DO TEATRO PARA A INCLUS\u00c3O ESCOLAR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0427",
+    "nome": "PR\u00c1TICAS DE ARTES VISUAIS - AN\u00c1LISES",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0421",
+    "nome": "PR\u00c1TICAS DE ARTES VISUAIS - EXPERIMENTA\u00c7\u00d5ES",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0410",
+    "nome": "PR\u00c1TICAS DE ARTES VISUAIS - MATERIAIS EM ARTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0431",
+    "nome": "PR\u00c1TICAS DE ARTES VISUAIS - PROPOSTAS",
+    "ch": 75,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0417",
+    "nome": "PR\u00c1TICAS DE ARTES VISUAIS - TR\u00c2NSITOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0412",
+    "nome": "PR\u00c1TICAS DE AUDIOVISUAL",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0409",
+    "nome": "PRATICAS DE ENSINO EM LINGUAGENS DE ARTE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0416",
+    "nome": "PR\u00c1TICAS DE ENSINO - OBJETOS DE APRENDIZAGEM",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0439",
+    "nome": "PR\u00c1TICAS DE INSTRUMENTO DE PERCUSS\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0385",
+    "nome": "PR\u00c1TICAS MUSICAIS DA CULTURA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0288",
+    "nome": "PR\u00c1TICAS MUSICAIS DA CULTURA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0295",
+    "nome": "PR\u00c1TICAS MUSICAIS DA CULTURA 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0301",
+    "nome": "PR\u00c1TICAS MUSICAIS DA CULTURA 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0336",
+    "nome": "PROCESSOS DE ENCENA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0518"
+    ],
+    "pre_requirements": [
+      "IDA0316"
+    ]
+  },
+  {
+    "cod": "IDA0326",
+    "nome": "PROCESSOS DE ENCENA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0406",
+    "nome": "PROJETO 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0413",
+    "nome": "PROJETO 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0418",
+    "nome": "PROJETO 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0423",
+    "nome": "PROJETO 4",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0440",
+    "nome": "PROJETO DE EXTENS\u00c3O EM M\u00daSICA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0441",
+    "nome": "PROJETO DE EXTENS\u00c3O EM M\u00daSICA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0293",
+    "nome": "PROJETO DE M\u00daSICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0392",
+    "nome": "PROJETO DESIGN EDUCACIONAL 01",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0393",
+    "nome": "PROJETO DESIGN EDUCACIONAL 02",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0394",
+    "nome": "PROJETO EXTENS\u00c3O ART\u00cdSTICA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0395",
+    "nome": "PROJETO EXTENS\u00c3O ART\u00cdSTICA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0388",
+    "nome": "PROJETO INTERDISCIPLINAR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0324",
+    "nome": "PROJETO INTERDISCIPLINAR DE ENSINO E APRENDIZAGEM 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0339",
+    "nome": "PROJETO INTERDISCIPLINAR DE ENSINO E APRENDIZAGEM 2",
+    "ch": 270,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0349",
+    "nome": "PSICOLOGIA E CONSTRU\u00c7\u00c3O DO CONHECIMENTO",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0530"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0436",
+    "nome": "SEMIN\u00c1RIO PRESENCIAL DE CONCLUS\u00c3O DE CURSO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0390",
+    "nome": "SEMIN\u00c1RIO PRESENCIAL DE CONCLUS\u00c3O DE CURSO EM ARTES VISUAIS",
+    "ch": 45,
+    "post_requirements": [
+      "IDA0561"
+    ],
+    "pre_requirements": [
+      "IDA0325",
+      "IDA0346"
+    ]
+  },
+  {
+    "cod": "IDA0330",
+    "nome": "SEMIN\u00c1RIO PRESENCIAL DE CONCLUS\u00c3O DO CURSO",
+    "ch": 30,
+    "post_requirements": [
+      "IDA0514"
+    ],
+    "pre_requirements": [
+      "IDA0389 & IDA0327 & IDA0336",
+      "IDA0325 & IDA0346"
+    ]
+  },
+  {
+    "cod": "IDA0397",
+    "nome": "SEMIN\u00c1RIO PRESENCIAL DE CONCLUS\u00c3O DO CURSO DE TEATRO",
+    "ch": 30,
+    "post_requirements": [
+      "IDA0567"
+    ],
+    "pre_requirements": [
+      "IDA0389 & IDA0334",
+      "IDA0327 & IDA0334"
+    ]
+  },
+  {
+    "cod": "IDA0396",
+    "nome": "SEMIN\u00c1RIO PRESENCIAL DE CONCLUS\u00c3O DO CURSO EM ARTES VISUAIS",
+    "ch": 45,
+    "post_requirements": [
+      "IDA0566"
+    ],
+    "pre_requirements": [
+      "IDA0324",
+      "IDA0339"
+    ]
+  },
+  {
+    "cod": "IDA0316",
+    "nome": "SUPORTE C\u00caNICO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0359",
+    "nome": "TECNOLOGIAS CONTEMPOR\u00c2NEAS NA ESCOLA 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0379",
+    "nome": "TECNOLOGIAS CONTEMPOR\u00c2NEAS NA ESCOLA 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0346",
+    "nome": "TECNOLOGIAS CONTEMPOR\u00c2NEAS NA ESCOLA 3",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0367",
+    "nome": "TEORIA DA ARTE",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0365",
+    "nome": "TEORIA DA ARTE 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0425",
+    "nome": "TEORIA EM ARTES VISUAIS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0430",
+    "nome": "TEORIA EM ARTES VISUAIS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0352",
+    "nome": "TEORIAS DA EDUCA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0533"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0003",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ARTES C\u00caNICAS 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0013",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ARTES C\u00caNICAS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0014",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ARTES C\u00caNICAS 3",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0015",
+    "nome": "T\u00d3PICOS ESPECIAIS EM ARTES C\u00caNICAS 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0332",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+    "ch": 270,
+    "post_requirements": [
+      "IDA0516"
+    ],
+    "pre_requirements": [
+      "IDA0344",
+      "IDA0327"
+    ]
+  },
+  {
+    "cod": "IDA0434",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0435",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "IDA0329",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO",
+    "ch": 105,
+    "post_requirements": [
+      "IDA0513"
+    ],
+    "pre_requirements": [
+      "IDA0325 & IDA0327 & IDA0336"
+    ]
+  },
+  {
+    "cod": "IDA0398",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO DE TEATRO",
+    "ch": 150,
+    "post_requirements": [
+      "IDA0568"
+    ],
+    "pre_requirements": [
+      "IDA0389 & IDA0334",
+      "IDA0327 & IDA0334"
+    ]
+  },
+  {
+    "cod": "IDA0010",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO DE TEATRO 1",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0011",
+      "IDA0480"
+    ],
+    "pre_requirements": [
+      "IDA0389 & IDA0334 & IDA0012"
+    ]
+  },
+  {
+    "cod": "IDA0011",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO DE TEATRO 2",
+    "ch": 90,
+    "post_requirements": [
+      "IDA0481"
+    ],
+    "pre_requirements": [
+      "IDA0010"
+    ]
+  }
+]

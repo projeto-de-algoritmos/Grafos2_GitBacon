@@ -1,0 +1,805 @@
+[
+  {
+    "cod": "EST0064",
+    "nome": "ANALISE DE DADOS CATEGORIZADOS",
+    "ch": 60,
+    "post_requirements": [
+      "EST0120"
+    ],
+    "pre_requirements": [
+      "EST0038"
+    ]
+  },
+  {
+    "cod": "EST0038",
+    "nome": "AN\u00c1LISE DE REGRESS\u00c3O LINEAR",
+    "ch": 90,
+    "post_requirements": [
+      "EST0007",
+      "EST0014",
+      "EST0051",
+      "EST0064",
+      "ECO0264",
+      "EST0086",
+      "EST0118"
+    ],
+    "pre_requirements": [
+      "EST0035"
+    ]
+  },
+  {
+    "cod": "EST0051",
+    "nome": "AN\u00c1LISE DE S\u00c9RIES TEMPORAIS",
+    "ch": 60,
+    "post_requirements": [
+      "EST0012",
+      "EST0102"
+    ],
+    "pre_requirements": [
+      "EST0038"
+    ]
+  },
+  {
+    "cod": "EST0012",
+    "nome": "AN\u00c1LISE DE S\u00c9RIES TEMPORAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0133"
+    ],
+    "pre_requirements": [
+      "EST0051"
+    ]
+  },
+  {
+    "cod": "EST0086",
+    "nome": "AN\u00c1LISE DE SOBREVIV\u00caNCIA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0186"
+    ],
+    "pre_requirements": [
+      "EST0038"
+    ]
+  },
+  {
+    "cod": "EST0034",
+    "nome": "AN\u00c1LISE ESTAT\u00cdSTICA",
+    "ch": 90,
+    "post_requirements": [
+      "EST0151"
+    ],
+    "pre_requirements": [
+      "MAT0026 & EST0023"
+    ]
+  },
+  {
+    "cod": "EST0040",
+    "nome": "AN\u00c1LISE MULTIVARIADA 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0106"
+    ],
+    "pre_requirements": [
+      "EST0035"
+    ]
+  },
+  {
+    "cod": "EST0018",
+    "nome": "AN\u00c1LISE MULTIVARIADA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0139"
+    ],
+    "pre_requirements": [
+      "EST0040 & EST0038"
+    ]
+  },
+  {
+    "cod": "EST0047",
+    "nome": "APLICACOES DA ESTATISTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0160"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0027",
+    "nome": "BIOESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAV0038",
+      "FAV0192",
+      "FAV0302",
+      "FAV0343",
+      "EST0099",
+      "CFS0085",
+      "EFL0150"
+    ],
+    "pre_requirements": [
+      "MAT0022",
+      "MAT0025"
+    ]
+  },
+  {
+    "cod": "EST0001",
+    "nome": "COMPUTA\u00c7\u00c3O EM ESTAT\u00cdSTICA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0003",
+    "nome": "COMPUTA\u00c7\u00c3O EM ESTAT\u00cdSTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0094"
+    ],
+    "pre_requirements": [
+      "EST0001"
+    ]
+  },
+  {
+    "cod": "EST0092",
+    "nome": "COMPUTA\u00c7\u00c3O EM ESTAT\u00cdSTICA 2: PYTHON",
+    "ch": 60,
+    "post_requirements": [
+      "EST0191"
+    ],
+    "pre_requirements": [
+      "EST0001"
+    ]
+  },
+  {
+    "cod": "EST0091",
+    "nome": "COMPUTA\u00c7\u00c3O EM ESTAT\u00cdSTICA 2: R",
+    "ch": 60,
+    "post_requirements": [
+      "EST0112"
+    ],
+    "pre_requirements": [
+      "EST0001"
+    ]
+  },
+  {
+    "cod": "EST0090",
+    "nome": "COMPUTA\u00c7\u00c3O EM ESTAT\u00cdSTICA 2: SAS",
+    "ch": 60,
+    "post_requirements": [
+      "EST0111"
+    ],
+    "pre_requirements": [
+      "EST0001"
+    ]
+  },
+  {
+    "cod": "EST0010",
+    "nome": "CONSULTORIA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0131"
+    ],
+    "pre_requirements": [
+      "EST0038 & EST0036 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0059",
+    "nome": "CONTROLE DE QUALIDADE NA PRODUCAO",
+    "ch": 60,
+    "post_requirements": [
+      "EST0168"
+    ],
+    "pre_requirements": [
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EST0045",
+    "nome": "CONTROLE ESTATISTICO DE QUALIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "EST0158"
+    ],
+    "pre_requirements": [
+      "EST0070",
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EST0042",
+    "nome": "DELINEAMENTO E AN\u00c1LISE DE EXPERIMENTOS",
+    "ch": 90,
+    "post_requirements": [
+      "EST0044",
+      "EST0119"
+    ],
+    "pre_requirements": [
+      "EST0035"
+    ]
+  },
+  {
+    "cod": "EST0044",
+    "nome": "DELINEAMENTO E AN\u00c1LISE DE EXPERIMENTOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0107"
+    ],
+    "pre_requirements": [
+      "EST0042"
+    ]
+  },
+  {
+    "cod": "EST0046",
+    "nome": "DEMOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0013",
+      "EST0101"
+    ],
+    "pre_requirements": [
+      "EST0070",
+      "EST0019",
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EST0013",
+    "nome": "DEMOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0114"
+    ],
+    "pre_requirements": [
+      "EST0046"
+    ]
+  },
+  {
+    "cod": "EST0058",
+    "nome": "ESTAGIO SUPERVISIONADO EM ESTATISTICA",
+    "ch": 150,
+    "post_requirements": [
+      "EST0167"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0024",
+    "nome": "ESTAT\u00cdSTICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "EST0025",
+      "ENF0056",
+      "EST0144"
+    ],
+    "pre_requirements": [
+      "MAT0026 & EST0023"
+    ]
+  },
+  {
+    "cod": "EST0025",
+    "nome": "ESTAT\u00cdSTICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "EST0145"
+    ],
+    "pre_requirements": [
+      "EST0024"
+    ]
+  },
+  {
+    "cod": "EST0019",
+    "nome": "ESTAT\u00cdSTICA APLICADA",
+    "ch": 90,
+    "post_requirements": [
+      "EST0046",
+      "PST0037",
+      "PST0039",
+      "GEA0036",
+      "ADM0035",
+      "FCI0052",
+      "ADM0198",
+      "FUP0282",
+      "FAV0345",
+      "CCA0183",
+      "EST0097",
+      "FAV0528"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0020",
+    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 EDUCA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0021",
+      "EST0141"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0021",
+    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 EDUCA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0142"
+    ],
+    "pre_requirements": [
+      "EST0020"
+    ]
+  },
+  {
+    "cod": "EST0028",
+    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 PSICOLOGIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "EST0029",
+      "PST0039",
+      "EST0147"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0029",
+    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 PSICOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0148"
+    ],
+    "pre_requirements": [
+      "EST0028"
+    ]
+  },
+  {
+    "cod": "EST0004",
+    "nome": "ESTAT\u00cdSTICA COMPUTACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "EST0095"
+    ],
+    "pre_requirements": [
+      "CIC0007 & MAT0053 & EST0035  &  EST0003",
+      "EST0090",
+      "EST0091",
+      "EST0092"
+    ]
+  },
+  {
+    "cod": "EST0030",
+    "nome": "ESTAT\u00cdSTICA ECON\u00d4MICA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0149"
+    ],
+    "pre_requirements": [
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EST0063",
+    "nome": "ESTATISTICA ECONOMICA AVANCADA",
+    "ch": 60,
+    "post_requirements": [
+      "ECO0130",
+      "EST0172"
+    ],
+    "pre_requirements": [
+      "EST0062"
+    ]
+  },
+  {
+    "cod": "EST0062",
+    "nome": "ESTATISTICA ECONOMICA INTERMEDIARIA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0063",
+      "EST0171"
+    ],
+    "pre_requirements": [
+      "EST0061"
+    ]
+  },
+  {
+    "cod": "EST0007",
+    "nome": "ESTAT\u00cdSTICA ESPACIAL",
+    "ch": 60,
+    "post_requirements": [
+      "EST0128"
+    ],
+    "pre_requirements": [
+      "EST0038"
+    ]
+  },
+  {
+    "cod": "EST0033",
+    "nome": "ESTAT\u00cdSTICA EXPLORAT\u00d3RIA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0068",
+      "EST0100"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0068",
+    "nome": "ESTATISTICA EXPLORATORIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0175"
+    ],
+    "pre_requirements": [
+      "EST0033"
+    ]
+  },
+  {
+    "cod": "EST0057",
+    "nome": "ESTATISTICA NAO PARAMETRICA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0166"
+    ],
+    "pre_requirements": [
+      "EST0070"
+    ]
+  },
+  {
+    "cod": "EST0052",
+    "nome": "HISTORIA DA ESTATISTICA",
+    "ch": 30,
+    "post_requirements": [
+      "EST0163"
+    ],
+    "pre_requirements": [
+      "EST0035"
+    ]
+  },
+  {
+    "cod": "EST0005",
+    "nome": "INFER\u00caNCIA BAYESIANA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0113"
+    ],
+    "pre_requirements": [
+      "EST0035"
+    ]
+  },
+  {
+    "cod": "EST0035",
+    "nome": "INFERENCIA ESTATISTICA",
+    "ch": 90,
+    "post_requirements": [
+      "EST0005",
+      "EST0038",
+      "EST0040",
+      "EST0042",
+      "EST0052",
+      "EST0116"
+    ],
+    "pre_requirements": [
+      "MAT0031 & MAT0075 & MAT0027 & EST0070"
+    ]
+  },
+  {
+    "cod": "EST0061",
+    "nome": "INTRODUCAO A ESTATISTICA ECONOMICA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0062",
+      "EST0170"
+    ],
+    "pre_requirements": [
+      "MAT0025"
+    ]
+  },
+  {
+    "cod": "EST0084",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 INFER\u00caNCIA BAYESIANA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0185"
+    ],
+    "pre_requirements": [
+      "MAT0075"
+    ]
+  },
+  {
+    "cod": "EST0069",
+    "nome": "INTRODUCAO A PROBABILIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "EST0103"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0008",
+    "nome": "LABORAT\u00d3RIO DE ESTAT\u00cdSTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0096"
+    ],
+    "pre_requirements": [
+      "EST0070"
+    ]
+  },
+  {
+    "cod": "EST0009",
+    "nome": "LABORAT\u00d3RIO DE ESTAT\u00cdSTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0130"
+    ],
+    "pre_requirements": [
+      "EST0038 & EST0036 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0074",
+    "nome": "MEDIDAS DE INFORMA\u00c7\u00c3O E APLICA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "EST0109"
+    ],
+    "pre_requirements": [
+      "EST0070",
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "EST0073",
+    "nome": "M\u00c9TODOS APLICADOS",
+    "ch": 60,
+    "post_requirements": [
+      "EST0178"
+    ],
+    "pre_requirements": [
+      "EST0070"
+    ]
+  },
+  {
+    "cod": "EST0070",
+    "nome": "METODOS ESTATISTICOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0008",
+      "EST0015",
+      "EST0017",
+      "EST0045",
+      "EST0046",
+      "EST0057",
+      "EST0073",
+      "EST0074",
+      "EST0104"
+    ],
+    "pre_requirements": [
+      "EST0033 & EST0069",
+      "EST0033 & EST0023",
+      "EST0033 & FGA0157"
+    ]
+  },
+  {
+    "cod": "EST0017",
+    "nome": "M\u00c9TODOS ESTAT\u00cdSTICOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0115"
+    ],
+    "pre_requirements": [
+      "EST0070"
+    ]
+  },
+  {
+    "cod": "EST0016",
+    "nome": "MODELOS L\u00cdNEARES",
+    "ch": 60,
+    "post_requirements": [
+      "EST0137"
+    ],
+    "pre_requirements": [
+      "EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0011",
+    "nome": "MODELOS LINEARES GENERALIZADOS",
+    "ch": 60,
+    "post_requirements": [
+      "EST0105"
+    ],
+    "pre_requirements": [
+      "EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0054",
+    "nome": "PESQUISA OPERACIONAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0307",
+      "EST0164"
+    ],
+    "pre_requirements": [
+      "MAT0031 & MAT0026 & EST0069"
+    ]
+  },
+  {
+    "cod": "EST0056",
+    "nome": "PESQUISA OPERACIONAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0165"
+    ],
+    "pre_requirements": [
+      "EST0054 & MAT0027"
+    ]
+  },
+  {
+    "cod": "EST0087",
+    "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM ESTAT\u00cdSTICA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0088",
+    "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM ESTAT\u00cdSTICA 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "EST0023",
+    "nome": "PROBABILIDADE E ESTAT\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "EPR0014",
+      "EPR0030",
+      "EST0030",
+      "EST0045",
+      "EST0046",
+      "EST0059",
+      "EST0074",
+      "ENC0042",
+      "EST0083",
+      "ECO0128",
+      "ENM0145",
+      "EPR0064",
+      "EPR0066",
+      "ADM0035",
+      "EPR0068",
+      "CCA0183",
+      "EST0098"
+    ],
+    "pre_requirements": [
+      "MAT0025",
+      "MAT0022"
+    ]
+  },
+  {
+    "cod": "EST0083",
+    "nome": "PROBABILIDADE E ESTAT\u00cdSTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0110"
+    ],
+    "pre_requirements": [
+      "EST0023",
+      "EST0022"
+    ]
+  },
+  {
+    "cod": "EST0048",
+    "nome": "PROCESSOS ESTOCASTICOS",
+    "ch": 60,
+    "post_requirements": [
+      "EST0108"
+    ],
+    "pre_requirements": [
+      "MAT0076"
+    ]
+  },
+  {
+    "cod": "EST0078",
+    "nome": "PROGRAMAS - PRODUTO EM ESTATISTICA",
+    "ch": 60,
+    "post_requirements": [
+      "EST0181"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0036",
+    "nome": "TECNICAS DE AMOSTRAGEM",
+    "ch": 90,
+    "post_requirements": [
+      "EST0117"
+    ],
+    "pre_requirements": [
+      "MAT0075 & EST0070"
+    ]
+  },
+  {
+    "cod": "EST0006",
+    "nome": "T\u00c9CNICAS DE AMOSTRAGEM 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0127"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038"
+    ]
+  },
+  {
+    "cod": "EST0014",
+    "nome": "TEORIA DA RESPOSTA AO \u00cdTEM",
+    "ch": 60,
+    "post_requirements": [
+      "EST0135"
+    ],
+    "pre_requirements": [
+      "EST0038"
+    ]
+  },
+  {
+    "cod": "EST0082",
+    "nome": "T\u00d3PICOS EM CONSULTORIA",
+    "ch": 30,
+    "post_requirements": [
+      "EST0183"
+    ],
+    "pre_requirements": [
+      "EST0038 & EST0042 & EST0036"
+    ]
+  },
+  {
+    "cod": "EST0015",
+    "nome": "T\u00d3PICOS EM ESTAT\u00cdSTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0136"
+    ],
+    "pre_requirements": [
+      "EST0070"
+    ]
+  },
+  {
+    "cod": "EST0077",
+    "nome": "T\u00d3PICOS EM ESTAT\u00cdSTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "EST0180"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0081",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
+    "ch": 60,
+    "post_requirements": [
+      "EST0122"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038 & EST0042"
+    ]
+  },
+  {
+    "cod": "EST0067",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
+    "ch": 90,
+    "post_requirements": [
+      "EST0121"
+    ],
+    "pre_requirements": [
+      "EST0036 & EST0038 & EST0042 & EST0081"
+    ]
+  }
+]

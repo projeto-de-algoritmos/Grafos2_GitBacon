@@ -1,0 +1,1912 @@
+[
+  {
+    "cod": "CIC0004",
+    "nome": "ALGORITMOS E PROGRAMA\u00c7\u00c3O DE COMPUTADORES",
+    "ch": 90,
+    "post_requirements": [
+      "FGA0028",
+      "ENE0039",
+      "ENE0040",
+      "CIC0090",
+      "CIC0169",
+      "FGA0084",
+      "CIC0229",
+      "CIC0231",
+      "FGA0131",
+      "FGA0147",
+      "FGA0158",
+      "CIC0358"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0177",
+    "nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0030",
+      "CIC0103",
+      "CIC0130",
+      "CIC0376"
+    ],
+    "pre_requirements": [
+      "CIC0175",
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0121",
+    "nome": "ARQUITETURAS AVANCADAS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0399"
+    ],
+    "pre_requirements": [
+      "CIC0099"
+    ]
+  },
+  {
+    "cod": "CIC0149",
+    "nome": "ARTES GRAFICAS E TIPOGRAFIA DIGITAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0514",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0150"
+    ],
+    "pre_requirements": [
+      "CIC0092"
+    ]
+  },
+  {
+    "cod": "CIC0161",
+    "nome": "AUT\u00d4MATOS E COMPUTABILIDADE",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0410"
+    ],
+    "pre_requirements": [
+      "MAT0034",
+      "MAT0038"
+    ]
+  },
+  {
+    "cod": "CIC0239",
+    "nome": "AVALIA\u00c7\u00c3O E DESEMPENHO DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0592"
+    ],
+    "pre_requirements": [
+      "CIC0236"
+    ]
+  },
+  {
+    "cod": "CIC0128",
+    "nome": "BANCO DE DADOS DISTRIBUIDOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0498"
+    ],
+    "pre_requirements": [
+      "CIC0097 & CIC0108",
+      "CIC0030"
+    ]
+  },
+  {
+    "cod": "CIC0097",
+    "nome": "BANCOS DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0101",
+      "CIC0117",
+      "CIC0365"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "CIC0007  &  EST0092",
+      "EST0091",
+      "EST0090",
+      "EST0003"
+    ]
+  },
+  {
+    "cod": "CIC0094",
+    "nome": "CIRCUITOS DIGITAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0099",
+      "CIC0186",
+      "ENE0278",
+      "ENM0178",
+      "CIC0476"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0229",
+    "nome": "CIRCUITOS L\u00d3GICOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0384",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0231"
+    ],
+    "pre_requirements": [
+      "CIC0004"
+    ]
+  },
+  {
+    "cod": "CIC0204",
+    "nome": "COMPILADORES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0391"
+    ],
+    "pre_requirements": [
+      "CIC0093 & CIC0104 & CIC0161"
+    ]
+  },
+  {
+    "cod": "CIC0088",
+    "nome": "COMPUTACAO BASICA",
+    "ch": 90,
+    "post_requirements": [
+      "FGA0031",
+      "FGA0041",
+      "FGA0042",
+      "CIC0008",
+      "CIC0090",
+      "CIC0175",
+      "CIC0472"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0203",
+    "nome": "COMPUTA\u00c7\u00c3O EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0421"
+    ],
+    "pre_requirements": [
+      "EST0023 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0238",
+    "nome": "COMPUTA\u00c7\u00c3O M\u00d3VEL E REDES SEM FIO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0591"
+    ],
+    "pre_requirements": [
+      "CIC0235",
+      "CIC0124"
+    ]
+  },
+  {
+    "cod": "CIC0178",
+    "nome": "CONSTRUCAO DE PECAS MULTIMIDIA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0538"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0192",
+    "nome": "DEPENDABILIDADE EM SISTEMAS COMPUTACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0550"
+    ],
+    "pre_requirements": [
+      "CIC0105"
+    ]
+  },
+  {
+    "cod": "CIC0226",
+    "nome": "DESENVOLVIMENTO DE APLICATIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0439"
+    ],
+    "pre_requirements": [
+      "CIC0197"
+    ]
+  },
+  {
+    "cod": "CIC0150",
+    "nome": "EDITORACAO POR COMPUTADOR",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0515",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0149"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0105",
+    "nome": "ENGENHARIA DE SOFTWARE",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0140",
+      "CIC0141",
+      "CIC0171",
+      "CIC0192",
+      "CIC0194",
+      "CIC0369"
+    ],
+    "pre_requirements": [
+      "CIC0093",
+      "CIC0197"
+    ]
+  },
+  {
+    "cod": "CIC0146",
+    "nome": "ESTAGIO SUPERVISIONADO",
+    "ch": 120,
+    "post_requirements": [
+      "CIC0512"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0181",
+    "nome": "EST\u00c1GIO SUPERVISIONADO DE LICENCIATURA - COMPUTA\u00c7\u00c3O",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0540",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0180"
+    ],
+    "pre_requirements": [
+      "CIC0156"
+    ]
+  },
+  {
+    "cod": "CIC0037",
+    "nome": "ESTAGIO SUPERVISIONADO EM ANALISE DE SISTEMAS 1",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0464",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0039"
+    ],
+    "pre_requirements": [
+      "CIC0030"
+    ]
+  },
+  {
+    "cod": "CIC0039",
+    "nome": "ESTAGIO SUPERVISIONADO EM ANALISE DE SISTEMAS 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0465",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0037"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0246",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENGENHARIA DE COMPUTA\u00c7\u00c3O 1",
+    "ch": 150,
+    "post_requirements": [
+      "CIC0243",
+      "CIC0444",
+      "CIC0266"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0243",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENGENHARIA DE COMPUTA\u00c7\u00c3O 2",
+    "ch": 150,
+    "post_requirements": [
+      "CIC0443"
+    ],
+    "pre_requirements": [
+      "CIC0246",
+      "CIC0265"
+    ]
+  },
+  {
+    "cod": "CIC0214",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM LICENCIATURA EM COMPUTA\u00c7\u00c3O 1",
+    "ch": 105,
+    "post_requirements": [
+      "CIC0215",
+      "CIC0216",
+      "CIC0430",
+      "CIC0271",
+      "CIC0272"
+    ],
+    "pre_requirements": [
+      "CIC0211"
+    ]
+  },
+  {
+    "cod": "CIC0215",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM LICENCIATURA EM COMPUTA\u00c7\u00c3O 2",
+    "ch": 105,
+    "post_requirements": [
+      "CIC0431"
+    ],
+    "pre_requirements": [
+      "CIC0214",
+      "CIC0270"
+    ]
+  },
+  {
+    "cod": "CIC0216",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM LICENCIATURA EM COMPUTA\u00c7\u00c3O 3",
+    "ch": 105,
+    "post_requirements": [
+      "CIC0432"
+    ],
+    "pre_requirements": [
+      "CIC0214",
+      "CIC0270"
+    ]
+  },
+  {
+    "cod": "CIC0090",
+    "nome": "ESTRUTURAS DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0093",
+      "CIC0097",
+      "CIC0101",
+      "CIC0111",
+      "CIC0124",
+      "CIC0135",
+      "CIC0151",
+      "CIC0177",
+      "CIC0178",
+      "CIC0182",
+      "CIC0190",
+      "CIC0193",
+      "CIC0195",
+      "CIC0197",
+      "CIC0199",
+      "CIC0227",
+      "CIC0233",
+      "CIC0234",
+      "CIC0352",
+      "CIC0363",
+      "CIC0264",
+      "CIC0269"
+    ],
+    "pre_requirements": [
+      "CIC0004",
+      "CIC0088",
+      "CIC0175"
+    ]
+  },
+  {
+    "cod": "CIC0015",
+    "nome": "ESTRUTURAS DE DADOS E ALGORITMOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0457"
+    ],
+    "pre_requirements": [
+      "CIC0007"
+    ]
+  },
+  {
+    "cod": "CIC0018",
+    "nome": "ESTRUTURAS DE DADOS E ALGORITMOS 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0458"
+    ],
+    "pre_requirements": [
+      "CIC0008"
+    ]
+  },
+  {
+    "cod": "CIC0120",
+    "nome": "ESTUDOS EM CODIFICACAO E CRIPTOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0493"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0116",
+    "nome": "ESTUDOS EM COMPUTACAO MULTIMIDIA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0398"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0136",
+    "nome": "ESTUDOS EM INTELIGENCIA ARTIFICIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0404"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0132",
+    "nome": "ESTUDOS EM SISTEMAS DE COMPUTACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0402"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0143",
+    "nome": "ESTUDOS EM SISTEMAS DE INFORMACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0406"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0138",
+    "nome": "FERRAMENTA DE ANALISE DE SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0139",
+      "CIC0506"
+    ],
+    "pre_requirements": [
+      "CIC0137"
+    ]
+  },
+  {
+    "cod": "CIC0005",
+    "nome": "FORMA\u00c7\u00c3O DOCENTE EM COMPUTA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0233",
+    "nome": "FUNDAMENTOS COMPUTACIONAIS DE ROB\u00d3TICA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0586"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0193",
+    "nome": "FUNDAMENTOS DE SISTEMAS INTELIGENTES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0379"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "FGA0147",
+      "ENE0013 & EST0023"
+    ]
+  },
+  {
+    "cod": "CIC0205",
+    "nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0422"
+    ],
+    "pre_requirements": [
+      "CIC0202"
+    ]
+  },
+  {
+    "cod": "CIC0002",
+    "nome": "FUNDAMENTOS TE\u00d3RICOS DA COMPUTA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0140",
+    "nome": "GERENCIA DE PROJETOS",
+    "ch": 60,
+    "post_requirements": [
+      "FGA0001",
+      "CIC0508"
+    ],
+    "pre_requirements": [
+      "CIC0105"
+    ]
+  },
+  {
+    "cod": "CIC0172",
+    "nome": "GERENCIA DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0533"
+    ],
+    "pre_requirements": [
+      "CIC0103 & CIC0108"
+    ]
+  },
+  {
+    "cod": "CIC0237",
+    "nome": "GER\u00caNCIA E SEGURAN\u00c7A DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0590"
+    ],
+    "pre_requirements": [
+      "CIC0236",
+      "CIC0124",
+      "CIC0103"
+    ]
+  },
+  {
+    "cod": "CIC0158",
+    "nome": "INFORMATICA APLICADA A EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0409"
+    ],
+    "pre_requirements": [
+      "CIC0093",
+      "PPB0067 & MTC0143"
+    ]
+  },
+  {
+    "cod": "CIC0142",
+    "nome": "INFORMATICA E SOCIEDADE",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0141",
+    "nome": "INFORMATICA NAS ORGANIZACOES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0509"
+    ],
+    "pre_requirements": [
+      "CIC0105"
+    ]
+  },
+  {
+    "cod": "CIC0194",
+    "nome": "INTERA\u00c7\u00c3O HUMANO COMPUTADOR",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0415"
+    ],
+    "pre_requirements": [
+      "CIC0105"
+    ]
+  },
+  {
+    "cod": "CIC0007",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 CI\u00caNCIA DA COMPUTA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "FGA0027",
+      "FGA0031",
+      "FGA0041",
+      "FGA0042",
+      "ENE0039",
+      "ENE0040",
+      "CIC0008",
+      "CIC0013",
+      "CIC0015",
+      "CIC0072",
+      "FGA0084",
+      "ENE0335",
+      "FGA0158",
+      "EPR0072",
+      "CIC0360"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0010",
+    "nome": "INTRODUCAO A COMPILACAO",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0455"
+    ],
+    "pre_requirements": [
+      "MAT0081"
+    ]
+  },
+  {
+    "cod": "CIC0112",
+    "nome": "INTRODUCAO A COMPUTACAO SONICA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0114",
+      "CIC0488"
+    ],
+    "pre_requirements": [
+      "CIC0090 & MAT0025"
+    ]
+  },
+  {
+    "cod": "CIC0188",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA DE COMPUTA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0135",
+    "nome": "INTRODUCAO A INTELIGENCIA ARTIFICIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0403"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0152",
+    "nome": "INTRODUCAO A MICROINFORMATICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0247",
+    "nome": "INTRODU\u00c7\u00c3O AO AMBIENTE UNIVERSIT\u00c1RIO NA COMPUTA\u00c7\u00c3O",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0191",
+    "nome": "INTRODU\u00c7\u00c3O AO DESENVOLVIMENTO DE JOGOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0390"
+    ],
+    "pre_requirements": [
+      "CIC0197",
+      "CIC0090 & CIC0008",
+      "CIC0151",
+      "FGA0147 & FGA0158 & FGA0208",
+      "ENE0024"
+    ]
+  },
+  {
+    "cod": "CIC0069",
+    "nome": "INTRODUCAO AO PROCESSAMENTO DE DADOS",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0468"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0176",
+    "nome": "INTRODUCAO AO PROCESSAMENTO DE IMAGENS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0413"
+    ],
+    "pre_requirements": [
+      "MAT0039 & CIC0088",
+      "MAT0039 & CIC0007",
+      "MAT0039 & ENE0334",
+      "MAT0031 & CIC0088",
+      "MAT0031 & CIC0007",
+      "MAT0031 & ENE0334"
+    ]
+  },
+  {
+    "cod": "CIC0084",
+    "nome": "INTRODUCAO AOS CIRCUITOS DIGITAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0027",
+      "CIC0470"
+    ],
+    "pre_requirements": [
+      "IFD0072"
+    ]
+  },
+  {
+    "cod": "CIC0003",
+    "nome": "INTRODU\u00c7\u00c3O AOS SISTEMAS COMPUTACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0357"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0001",
+    "nome": "INTRODU\u00c7\u00c3O AOS SISTEMAS COMPUTACIONAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0130",
+    "nome": "INTRODU\u00c7\u00c3O AOS SISTEMAS EMBARCADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0401"
+    ],
+    "pre_requirements": [
+      "CIC0099",
+      "ENE0245",
+      "CIC0177"
+    ]
+  },
+  {
+    "cod": "CIC0174",
+    "nome": "INTRODUCAO A PROGRAMACAO CIENTIFICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0064",
+    "nome": "INTRODUCAO A SISTEMAS DE INFORMACOES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0467"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0190",
+    "nome": "INTRODU\u00c7\u00c3O A SISTEMAS MULTIAGENTE",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0548"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "CIC0151"
+    ]
+  },
+  {
+    "cod": "CIC0225",
+    "nome": "INTRODU\u00c7\u00c3O A SISTEMAS OPERACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0438"
+    ],
+    "pre_requirements": [
+      "CIC0093"
+    ]
+  },
+  {
+    "cod": "CIC0231",
+    "nome": "LABORAT\u00d3RIO DE CIRCUITOS L\u00d3GICOS",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0385"
+    ],
+    "pre_requirements": [
+      "CIC0004"
+    ]
+  },
+  {
+    "cod": "CIC0013",
+    "nome": "LABORATORIO DE PROGRAMACAO",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0456"
+    ],
+    "pre_requirements": [
+      "CIC0007"
+    ]
+  },
+  {
+    "cod": "CIC0137",
+    "nome": "LEVANTAMENTO DE DADOS EM PESQUISA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0027",
+    "nome": "LINGUAGEM DE MONTADORES E ORGANIZACAO DE COMPUTADORES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0033",
+      "CIC0461"
+    ],
+    "pre_requirements": [
+      "CIC0084"
+    ]
+  },
+  {
+    "cod": "CIC0093",
+    "nome": "LINGUAGENS DE PROGRAMACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0105",
+      "CIC0133",
+      "CIC0154",
+      "CIC0158",
+      "CIC0160",
+      "CIC0225",
+      "CIC0364"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0148",
+    "nome": "LINGUAGENS PARA EDITORACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0513"
+    ],
+    "pre_requirements": [
+      "CIC0092"
+    ]
+  },
+  {
+    "cod": "CIC0154",
+    "nome": "LINGUAGENS PARA INTELIGENCIA ARTIFICIAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0519"
+    ],
+    "pre_requirements": [
+      "CIC0093"
+    ]
+  },
+  {
+    "cod": "CIC0182",
+    "nome": "L\u00d3GICA COMPUTACIONAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0183",
+      "FIL0152",
+      "CIC0377"
+    ],
+    "pre_requirements": [
+      "CIC0002",
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0183",
+    "nome": "L\u00d3GICA COMPUTACIONAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0184",
+      "CIC0542"
+    ],
+    "pre_requirements": [
+      "FIL0056",
+      "CIC0182"
+    ]
+  },
+  {
+    "cod": "CIC0200",
+    "nome": "METODOLOGIA CIENT\u00cdFICA",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0419"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0206",
+    "nome": "M\u00c9TODOS DE PESQUISA NA LICENCIATURA EM COMPUTA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0234",
+    "nome": "M\u00c9TODOS DE PROGRAMA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0386"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0241",
+    "nome": "MODELAGEM DE SISTEMAS COMPUTACIONAIS E DE REDES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0594"
+    ],
+    "pre_requirements": [
+      "CIC0236",
+      "EST0023 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0171",
+    "nome": "MODELAGEM ORIENTADA A OBJETOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0532"
+    ],
+    "pre_requirements": [
+      "CIC0105"
+    ]
+  },
+  {
+    "cod": "CIC0160",
+    "nome": "MULTIMIDIA NA EDUCACAO",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0525"
+    ],
+    "pre_requirements": [
+      "CIC0093",
+      "PPB0067",
+      "MTC0143"
+    ]
+  },
+  {
+    "cod": "CIC0030",
+    "nome": "NOCOES DE SISTEMAS OPERACIONAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0037",
+      "CIC0128",
+      "CIC0462"
+    ],
+    "pre_requirements": [
+      "CIC0177"
+    ]
+  },
+  {
+    "cod": "CIC0153",
+    "nome": "O EMPREENDIMENTO EM INFORMATICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0092",
+    "nome": "ORGANIZA\u00c7\u00c3O DE ARQUIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0148",
+      "CIC0149",
+      "CIC0474"
+    ],
+    "pre_requirements": [
+      "EST0023 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0072",
+    "nome": "ORGANIZACAO DE COMPUTADORES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0469"
+    ],
+    "pre_requirements": [
+      "CIC0007"
+    ]
+  },
+  {
+    "cod": "CIC0099",
+    "nome": "ORGANIZA\u00c7\u00c3O E ARQUITETURA DE COMPUTADORES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0121",
+      "CIC0126",
+      "CIC0130",
+      "ENE0270",
+      "CIC0248",
+      "CIC0366"
+    ],
+    "pre_requirements": [
+      "CIC0094",
+      "ENE0277",
+      "ENE0320 & ENE0291",
+      "ENE0039 & ENE0040",
+      "CIC0229 & CIC0231"
+    ]
+  },
+  {
+    "cod": "CIC0256",
+    "nome": "PR\u00c1TICA EXTENSIONISTA EM COMPUTA\u00c7\u00c3O A",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0257",
+    "nome": "PR\u00c1TICA EXTENSIONISTA EM COMPUTA\u00c7\u00c3O B",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0210",
+    "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM COMPUTA\u00c7\u00c3O 1",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0211",
+      "CIC0426",
+      "CIC0278"
+    ],
+    "pre_requirements": [
+      "MTC0012 & CIC0207"
+    ]
+  },
+  {
+    "cod": "CIC0211",
+    "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM COMPUTA\u00c7\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0214",
+      "CIC0427",
+      "CIC0270"
+    ],
+    "pre_requirements": [
+      "CIC0210",
+      "CIC0277"
+    ]
+  },
+  {
+    "cod": "CIC0227",
+    "nome": "PR\u00c1TICAS EM COMPUTA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0440"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0111",
+    "nome": "PRINCIPIOS DE COMPUTACAO GRAFICA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0487"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "FGA0147"
+    ]
+  },
+  {
+    "cod": "CIC0195",
+    "nome": "PRINC\u00cdPIOS DE VIS\u00c3O COMPUTACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0380"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "FGA0147",
+      "ENE0013 & EST0023"
+    ]
+  },
+  {
+    "cod": "CIC0269",
+    "nome": "PROCESSAMENTO DE LINGUAGEM NATURAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0615"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "FGA0147"
+    ]
+  },
+  {
+    "cod": "CIC0196",
+    "nome": "PROCESSAMENTO DE SINAIS MULTIM\u00cdDIA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0114",
+      "CIC0416"
+    ],
+    "pre_requirements": [
+      "CIC0242",
+      "ENE0067",
+      "ENE0037",
+      "FGA0102"
+    ]
+  },
+  {
+    "cod": "CIC0232",
+    "nome": "PROCESSAMENTO DIGITAL DE IMAGENS E APLICACOES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0585"
+    ],
+    "pre_requirements": [
+      "CIC0090 & MAT0034"
+    ]
+  },
+  {
+    "cod": "CIC0126",
+    "nome": "PROCESSAMENTO EM TEMPO REAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0400"
+    ],
+    "pre_requirements": [
+      "CIC0099"
+    ]
+  },
+  {
+    "cod": "CIC0223",
+    "nome": "PRODU\u00c7\u00c3O CIENTIFICA NA LICENCIATURA EM COMPUTA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0436"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0208",
+    "nome": "PRODU\u00c7\u00c3O DE MATERIAL DID\u00c1TICO",
+    "ch": 75,
+    "post_requirements": [
+      "CIC0383",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0209"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0175",
+    "nome": "PROGRAMACAO AVANCADA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0090",
+      "CIC0177",
+      "CIC0535"
+    ],
+    "pre_requirements": [
+      "CIC0088",
+      "CIC0174",
+      "IFD0353"
+    ]
+  },
+  {
+    "cod": "CIC0169",
+    "nome": "PROGRAMA\u00c7\u00c3O COMPETITIVA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0258",
+      "CIC0374"
+    ],
+    "pre_requirements": [
+      "CIC0004"
+    ]
+  },
+  {
+    "cod": "CIC0202",
+    "nome": "PROGRAMA\u00c7\u00c3O CONCORRENTE",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0205",
+      "CIC0420"
+    ],
+    "pre_requirements": [
+      "CIC0099 & CIC0198"
+    ]
+  },
+  {
+    "cod": "CIC0134",
+    "nome": "PROGRAMACAO EM LOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0389"
+    ],
+    "pre_requirements": [
+      "CIC0093 & CIC0182",
+      "FIL0056"
+    ]
+  },
+  {
+    "cod": "CIC0133",
+    "nome": "PROGRAMACAO FUNCIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0501"
+    ],
+    "pre_requirements": [
+      "CIC0093"
+    ]
+  },
+  {
+    "cod": "CIC0151",
+    "nome": "PROGRAMACAO ORIENTADA A OBJETOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0190",
+      "CIC0191",
+      "CIC0516"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0008",
+    "nome": "PROGRAMACAO SISTEMATICA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0018",
+      "CIC0454"
+    ],
+    "pre_requirements": [
+      "CIC0088",
+      "CIC0007"
+    ]
+  },
+  {
+    "cod": "CIC0157",
+    "nome": "PROJETO DE LICENCIATURA",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0163",
+    "nome": "PROJETO DE LICENCIATURA 1",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0411"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0164",
+    "nome": "PROJETO DE LICENCIATURA 2",
+    "ch": 120,
+    "post_requirements": [
+      "CIC0412"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0224",
+    "nome": "PROJETO DE PESQUISA NA LICENCIATURA EM COMPUTA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0437"
+    ],
+    "pre_requirements": [
+      "CIC0206"
+    ]
+  },
+  {
+    "cod": "CIC0125",
+    "nome": "PROJETO DE SISTEMAS OPERACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0496"
+    ],
+    "pre_requirements": [
+      "CIC0108"
+    ]
+  },
+  {
+    "cod": "CIC0189",
+    "nome": "PROJETO E AN\u00c1LISE DE ALGORITMOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0378"
+    ],
+    "pre_requirements": [
+      "MAT0025 & CIC0197",
+      "MAT0025 & CIC0090",
+      "MAT0137 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0353",
+    "nome": "PROJETO FINAL EM ENGENHARIA DE COMPUTA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0356",
+      "CIC0446",
+      "CIC0268"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0356",
+    "nome": "PROJETO FINAL EM ENGENHARIA DE COMPUTA\u00c7\u00c3O 2",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0447"
+    ],
+    "pre_requirements": [
+      "CIC0244",
+      "ENE0350",
+      "CIC0353",
+      "CIC0267"
+    ]
+  },
+  {
+    "cod": "CIC0024",
+    "nome": "PROJETO FISICO DE SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0460"
+    ],
+    "pre_requirements": [
+      "CIC0021"
+    ]
+  },
+  {
+    "cod": "CIC0207",
+    "nome": "PROJETO INTERDISCIPLINAR DE LICENCIATURA EM COMPUTA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0424"
+    ],
+    "pre_requirements": [
+      "CIC0005 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0021",
+    "nome": "PROJETO LOGICO DE SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0024",
+      "CIC0459"
+    ],
+    "pre_requirements": [
+      "CIC0018 & CIC0064"
+    ]
+  },
+  {
+    "cod": "CIC0187",
+    "nome": "QUALIDADE DE SOFTWARE",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0545"
+    ],
+    "pre_requirements": [
+      "CIC0008 & CIC0105"
+    ]
+  },
+  {
+    "cod": "CIC0124",
+    "nome": "REDES DE COMPUTADORES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0201",
+      "CIC0236",
+      "CIC0237",
+      "CIC0238",
+      "CIC0371"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0201",
+    "nome": "SEGURAN\u00c7A COMPUTACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0382"
+    ],
+    "pre_requirements": [
+      "CIC0124",
+      "CIC0103",
+      "CIC0236"
+    ]
+  },
+  {
+    "cod": "CIC0117",
+    "nome": "SEGURANCA DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0491"
+    ],
+    "pre_requirements": [
+      "CIC0097"
+    ]
+  },
+  {
+    "cod": "CIC0042",
+    "nome": "SEMINARIO EM ADMINISTRACAO DE CPD",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0466"
+    ],
+    "pre_requirements": [
+      "CIC0024 & ADM0023"
+    ]
+  },
+  {
+    "cod": "CIC0242",
+    "nome": "SINAIS E SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "ENE0068",
+      "CIC0196",
+      "ENE0209",
+      "CIC0442",
+      "ENE0414"
+    ],
+    "pre_requirements": [
+      "MAT0026 & EST0023 & MAT0031"
+    ]
+  },
+  {
+    "cod": "CIC0114",
+    "nome": "SINTESE DE AUDIO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0489"
+    ],
+    "pre_requirements": [
+      "CIC0112",
+      "CIC0196",
+      "MAT0059"
+    ]
+  },
+  {
+    "cod": "CIC0101",
+    "nome": "SISTEMAS DE INFORMACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0396"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "CIC0097"
+    ]
+  },
+  {
+    "cod": "CIC0240",
+    "nome": "SISTEMAS DE REDES MULTIM\u00cdDIA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0593"
+    ],
+    "pre_requirements": [
+      "CIC0236"
+    ]
+  },
+  {
+    "cod": "CIC0248",
+    "nome": "SISTEMAS DE TEMPO REAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0599"
+    ],
+    "pre_requirements": [
+      "CIC0099"
+    ]
+  },
+  {
+    "cod": "CIC0186",
+    "nome": "SISTEMAS DIGITAIS INTEGRADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0544"
+    ],
+    "pre_requirements": [
+      "CIC0094",
+      "ENE0278"
+    ]
+  },
+  {
+    "cod": "CIC0108",
+    "nome": "SISTEMAS OPERACIONAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0125",
+      "CIC0397"
+    ],
+    "pre_requirements": [
+      "CIC0104"
+    ]
+  },
+  {
+    "cod": "CIC0104",
+    "nome": "SOFTWARE BASICO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0108",
+      "CIC0368"
+    ],
+    "pre_requirements": [
+      "CIC0099 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0180",
+    "nome": "SUPERVIS\u00c3O DE EST\u00c1GIO DE LICENCIATURA - COMPUTA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0539",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0181"
+    ],
+    "pre_requirements": [
+      "CIC0156"
+    ]
+  },
+  {
+    "cod": "CIC0218",
+    "nome": "SUPERVIS\u00c3O DE EST\u00c1GIO EM LICENCIATURA EM COMPUTA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0433",
+      "CIC0575",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0214",
+      "CIC0270"
+    ],
+    "pre_requirements": [
+      "CIC0213"
+    ]
+  },
+  {
+    "cod": "CIC0220",
+    "nome": "SUPERVIS\u00c3O DE EST\u00c1GIO  EM LICENCIATURA EM COMPUTA\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0434",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0215",
+      "CIC0271"
+    ],
+    "pre_requirements": [
+      "CIC0213"
+    ]
+  },
+  {
+    "cod": "CIC0222",
+    "nome": "SUPERVIS\u00c3O DE EST\u00c1GIO  EM LICENCIATURA EM COMPUTA\u00c7\u00c3O 3",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0435",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0216",
+      "CIC0272"
+    ],
+    "pre_requirements": [
+      "CIC0213"
+    ]
+  },
+  {
+    "cod": "CIC0212",
+    "nome": "SUPERVIS\u00c3O DE PR\u00c1TICA PEDAG\u00d3GICA EM COMPUTA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0213",
+      "CIC0428",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0210",
+      "CIC0277"
+    ],
+    "pre_requirements": [
+      "MTC0012 & CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0213",
+    "nome": "SUPERVIS\u00c3O DE PR\u00c1TICA PEDAG\u00d3GICA EM COMPUTA\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0218",
+      "CIC0220",
+      "CIC0222",
+      "CIC0429",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0211",
+      "CIC0278"
+    ],
+    "pre_requirements": [
+      "CIC0212"
+    ]
+  },
+  {
+    "cod": "CIC0209",
+    "nome": "SUPERVIS\u00c3O DE PRODU\u00c7\u00c3O DE MATERIAL DID\u00c1TICO",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0425",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "CIC0208"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0197",
+    "nome": "TECNICAS DE PROGRAMA\u00c7\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0105",
+      "CIC0191",
+      "CIC0198",
+      "CIC0226",
+      "CIC0381"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0198",
+    "nome": "TECNICAS DE PROGRAMA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0417"
+    ],
+    "pre_requirements": [
+      "CIC0197"
+    ]
+  },
+  {
+    "cod": "CIC0139",
+    "nome": "TECNICAS DE PROJETOS E IMPLEMENTACAO DE SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0507"
+    ],
+    "pre_requirements": [
+      "CIC0138"
+    ]
+  },
+  {
+    "cod": "CIC0033",
+    "nome": "TELECOMUNICACOES E SISTEMAS DISTRIBUIDOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0463"
+    ],
+    "pre_requirements": [
+      "CIC0027"
+    ]
+  },
+  {
+    "cod": "CIC0235",
+    "nome": "TELEINFORM\u00c1TICA E REDES 1",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0236",
+      "CIC0238",
+      "CIC0441"
+    ],
+    "pre_requirements": [
+      "MAT0026 & CIC0090 & EST0023"
+    ]
+  },
+  {
+    "cod": "CIC0236",
+    "nome": "TELEINFORM\u00c1TICA E REDES 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0201",
+      "CIC0237",
+      "CIC0239",
+      "CIC0240",
+      "CIC0241",
+      "CIC0387"
+    ],
+    "pre_requirements": [
+      "CIC0235",
+      "CIC0124",
+      "CIC0103"
+    ]
+  },
+  {
+    "cod": "CIC0118",
+    "nome": "TEORIA DA CODIFICACAO E CRIPTOGRAFIA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0492"
+    ],
+    "pre_requirements": [
+      "MAT0038 & MAT0034"
+    ]
+  },
+  {
+    "cod": "CIC0095",
+    "nome": "TEORIA DA COMPUTACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0395"
+    ],
+    "pre_requirements": [
+      "MAT0034 & FIL0056",
+      "FIL0056 & MAT0038",
+      "MAT0034 & CIC0182",
+      "CIC0182 & MAT0038",
+      "MAT0031 & CIC0182"
+    ]
+  },
+  {
+    "cod": "CIC0199",
+    "nome": "TEORIA E APLICA\u00c7\u00c3O DE GRAFOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0418"
+    ],
+    "pre_requirements": [
+      "CIC0090"
+    ]
+  },
+  {
+    "cod": "CIC0155",
+    "nome": "TEORIA E PRATICA PEDAGOGICA EM INFORMATICA 1",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0156",
+      "CIC0372"
+    ],
+    "pre_requirements": [
+      "MTC0012 & PPB0067"
+    ]
+  },
+  {
+    "cod": "CIC0156",
+    "nome": "TEORIA E PRATICA PEDAGOGICA EM INFORMATICA 2",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0180",
+      "CIC0181",
+      "CIC0373"
+    ],
+    "pre_requirements": [
+      "CIC0155"
+    ]
+  },
+  {
+    "cod": "CIC0087",
+    "nome": "TOPICOS AVANCADOS EM COMPUTADORES",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0361"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0159",
+    "nome": "TOPICOS ESPECIAIS EM INFORMATICA NA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0184",
+    "nome": "T\u00d3PICOS ESPECIAIS EM L\u00d3GICA COMPUTACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0543"
+    ],
+    "pre_requirements": [
+      "CIC0183"
+    ]
+  },
+  {
+    "cod": "CIC0258",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PROGRAMA\u00c7\u00c3O COMPETITIVA",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0393"
+    ],
+    "pre_requirements": [
+      "CIC0169"
+    ]
+  },
+  {
+    "cod": "CIC0110",
+    "nome": "TRABALHO DE GRADUACAO",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0486"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0166",
+    "nome": "TRABALHO DE GRADUA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [
+      "CIC0529"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0167",
+    "nome": "TRABALHO DE GRADUA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0530"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CIC0106",
+    "nome": "TRADUTORES",
+    "ch": 90,
+    "post_requirements": [
+      "CIC0370"
+    ],
+    "pre_requirements": [
+      "MAT0081 & CIC0093 & CIC0104",
+      "CIC0161 & CIC0093 & CIC0104"
+    ]
+  },
+  {
+    "cod": "CIC0103",
+    "nome": "TRANSMISS\u00c3O DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0201",
+      "CIC0236",
+      "CIC0237",
+      "CIC0367"
+    ],
+    "pre_requirements": [
+      "CIC0177",
+      "CIC0099 & MAT0026"
+    ]
+  },
+  {
+    "cod": "CIC0352",
+    "nome": "VISUALIZA\u00c7\u00c3O DE DADOS",
+    "ch": 60,
+    "post_requirements": [
+      "CIC0388"
+    ],
+    "pre_requirements": [
+      "CIC0090",
+      "FGA0147"
+    ]
+  }
+]

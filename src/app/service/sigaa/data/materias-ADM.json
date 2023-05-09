@@ -1,0 +1,1360 @@
+[
+  {
+    "cod": "ADM0321",
+    "nome": "ABORDAGENS CR\u00cdTICAS AO ESTUDO DE ORGANIZA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0423"
+    ],
+    "pre_requirements": [
+      "ADM0214"
+    ]
+  },
+  {
+    "cod": "ADM0092",
+    "nome": "ADMINISTRA\u00c7\u00c3O DA PRODU\u00c7\u00c3O E OPERA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "FGA0001",
+      "EPR0035",
+      "ADM0303",
+      "ADM0313",
+      "ADM0314",
+      "ADM0317",
+      "ADM0382"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0317",
+    "nome": "ADMINISTRA\u00c7\u00c3O DA QUALIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0402"
+    ],
+    "pre_requirements": [
+      "ADM0092"
+    ]
+  },
+  {
+    "cod": "ADM0012",
+    "nome": "ADMINISTRA\u00c7\u00c3O DE CUSTOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0370"
+    ],
+    "pre_requirements": [
+      "CCA0103 & ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0064",
+    "nome": "ADMINISTRA\u00c7\u00c3O DE MARKETING",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0006",
+      "ADM0008",
+      "ADM0009",
+      "ADM0010",
+      "ADM0244",
+      "ADM0264",
+      "ADM0300",
+      "ADM0306",
+      "ADM0380"
+    ],
+    "pre_requirements": [
+      "ADM0023",
+      "DIN0023"
+    ]
+  },
+  {
+    "cod": "ADM0314",
+    "nome": "ADMINISTRA\u00c7\u00c3O DE RECURSOS MATERIAIS E PATRIMONIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0513"
+    ],
+    "pre_requirements": [
+      "ADM0092"
+    ]
+  },
+  {
+    "cod": "ADM0057",
+    "nome": "ADMINISTRACAO DE RECURSOS ORCAMENTARIOS E FINANCEIROS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0456"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0298",
+    "nome": "ADMINISTRA\u00c7\u00c3O DE SISTEMAS DE INFORMA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0313",
+      "ADM0418"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0221",
+    "nome": "ADMINISTRACAO EMPREENDEDORA",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0481"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0080",
+    "nome": "ADMINISTRACAO INDUSTRIAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0462"
+    ],
+    "pre_requirements": [
+      "CCA0015"
+    ]
+  },
+  {
+    "cod": "ADM0072",
+    "nome": "ADMINISTRACAO MUNICIPAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0461"
+    ],
+    "pre_requirements": [
+      "ADM0025"
+    ]
+  },
+  {
+    "cod": "ADM0014",
+    "nome": "ADMINISTRA\u00c7\u00c3O P\u00daBLICA E GEST\u00c3O SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0015",
+      "ADM0016",
+      "ADM0017",
+      "ADM0371"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0219",
+    "nome": "AN\u00c1LISE DECIS\u00d3RIA EM PROJETOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0480"
+    ],
+    "pre_requirements": [
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "ADM0035",
+    "nome": "AN\u00c1LISE DE DECIS\u00d5ES 1",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0299",
+      "ADM0410"
+    ],
+    "pre_requirements": [
+      "EST0019",
+      "EST0023"
+    ]
+  },
+  {
+    "cod": "ADM0299",
+    "nome": "AN\u00c1LISE DE DECIS\u00d5ES 2",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0498"
+    ],
+    "pre_requirements": [
+      "ADM0035"
+    ]
+  },
+  {
+    "cod": "ADM0228",
+    "nome": "ANALISE INSTITUCIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0414"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0320",
+    "nome": "AN\u00c1LISE ORGANIZACIONAL, SISTEMAS E M\u00c9TODOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0157",
+      "ADM0403"
+    ],
+    "pre_requirements": [
+      "ADM0023",
+      "DIN0023"
+    ]
+  },
+  {
+    "cod": "ADM0013",
+    "nome": "AVALIA\u00c7\u00c3O DA EFICI\u00caNCIA E PRODUTIVIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0437"
+    ],
+    "pre_requirements": [
+      "ADM0092 & EST0019"
+    ]
+  },
+  {
+    "cod": "ADM0018",
+    "nome": "AVALIA\u00c7\u00c3O E MONITORAMENTO DA ESTRAT\u00c9GIA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0442"
+    ],
+    "pre_requirements": [
+      "ADM0157"
+    ]
+  },
+  {
+    "cod": "ADM0192",
+    "nome": "CALCULO FINANCEIRO",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0087",
+      "ADM0388"
+    ],
+    "pre_requirements": [
+      "MAT0025",
+      "MAT0022"
+    ]
+  },
+  {
+    "cod": "ADM0044",
+    "nome": "CHEFIA E LIDERANCA",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0452"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0337",
+    "nome": "COM\u00c9RCIO EXTERIOR",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0300",
+    "nome": "COMPORTAMENTO DO CONSUMIDOR",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0395"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0231",
+    "nome": "COMPORTAMENTO ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0391"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0038",
+    "nome": "COMUNICACOES ADMINISTRATIVAS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0450"
+    ],
+    "pre_requirements": [
+      "ADM0025"
+    ]
+  },
+  {
+    "cod": "ADM0328",
+    "nome": "CONTABILIDADE GERAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0150",
+    "nome": "CRIACAO DE NEGOCIOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0469"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0322",
+    "nome": "CRIATIVIDADE E INOVA\u00c7\u00c3O NAS ORGANIZA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0424"
+    ],
+    "pre_requirements": [
+      "ADM0214"
+    ]
+  },
+  {
+    "cod": "ADM0365",
+    "nome": "DIREITO E LEGISLA\u00c7\u00c3O TRIBUT\u00c1RIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0362",
+    "nome": "DIREITO EMPRESARIAL",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0333",
+    "nome": "ECONOMIA BRASILEIRA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0011",
+    "nome": "ECONOMIA COMPORTAMENTAL APLICADA AO MARKETING",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0369"
+    ],
+    "pre_requirements": [
+      "ECO0019 & ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0297",
+    "nome": "ELABORA\u00c7\u00c3O DE TRABALHO DE CURSO",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0417"
+    ],
+    "pre_requirements": [
+      "ADM0273"
+    ]
+  },
+  {
+    "cod": "ADM0015",
+    "nome": "ESTADO, GOVERNO E SOCIEDADE",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0372"
+    ],
+    "pre_requirements": [
+      "GPP0037",
+      "ADM0014"
+    ]
+  },
+  {
+    "cod": "ADM0223",
+    "nome": "ESTAGIO SUPERVISIONADO",
+    "ch": 270,
+    "post_requirements": [
+      "ADM0482"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0097",
+    "nome": "ESTAGIO SUPERVISIONADO 1",
+    "ch": 90,
+    "post_requirements": [
+      "ADM0099",
+      "ADM0101",
+      "ADM0465"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0099",
+    "nome": "ESTAGIO SUPERVISIONADO 2",
+    "ch": 90,
+    "post_requirements": [
+      "ADM0466"
+    ],
+    "pre_requirements": [
+      "ADM0097"
+    ]
+  },
+  {
+    "cod": "ADM0101",
+    "nome": "ESTAGIO SUPERVISIONADO 3",
+    "ch": 90,
+    "post_requirements": [
+      "ADM0467"
+    ],
+    "pre_requirements": [
+      "ADM0097"
+    ]
+  },
+  {
+    "cod": "ADM0210",
+    "nome": "ESTAGIO SUPERVISIONADO EM ADMINISTRACAO DE EMPRESA",
+    "ch": 270,
+    "post_requirements": [
+      "ADM0478"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0208",
+    "nome": "ESTAGIO SUPERVISIONADO EM ADMINISTRACAO PUBLICA",
+    "ch": 270,
+    "post_requirements": [
+      "ADM0477"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0157",
+    "nome": "ESTRAT\u00c9GIA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "CET0024",
+      "ADM0018",
+      "ADM0385"
+    ],
+    "pre_requirements": [
+      "ADM0320",
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0002",
+    "nome": "ESTUDOS E PESQUISAS EM ADMINISTRA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0405"
+    ],
+    "pre_requirements": [
+      "ADM0198"
+    ]
+  },
+  {
+    "cod": "ADM0052",
+    "nome": "FINAN\u00c7AS 1",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0068",
+      "CCA0021",
+      "ADM0107",
+      "CCA0056",
+      "ADM0219",
+      "CCA0121",
+      "ADM0301",
+      "ADM0311",
+      "ADM0411"
+    ],
+    "pre_requirements": [
+      "CCA0103 & ADM0192"
+    ]
+  },
+  {
+    "cod": "ADM0301",
+    "nome": "FINAN\u00c7AS 2",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0500"
+    ],
+    "pre_requirements": [
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "ADM0051",
+    "nome": "FINANCAS DE EMPRESAS",
+    "ch": 90,
+    "post_requirements": [
+      "CCA0018",
+      "ADM0454"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0162",
+    "nome": "GEST\u00c3O DA INOVA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0005",
+      "ADM0387"
+    ],
+    "pre_requirements": [
+      "ADM0023 & ECO0019"
+    ]
+  },
+  {
+    "cod": "ADM0352",
+    "nome": "GEST\u00c3O DA QUALIDADE NO SETOR P\u00daBLICO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0017",
+    "nome": "GEST\u00c3O DE COMPRAS P\u00daBLICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0373"
+    ],
+    "pre_requirements": [
+      "ADM0014",
+      "ADM0061"
+    ]
+  },
+  {
+    "cod": "ADM0258",
+    "nome": "GEST\u00c3O DE DESEMPENHO",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0392"
+    ],
+    "pre_requirements": [
+      "ADM0041"
+    ]
+  },
+  {
+    "cod": "ADM0087",
+    "nome": "GEST\u00c3O DE FINAN\u00c7AS PESSOAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0463"
+    ],
+    "pre_requirements": [
+      "ADM0192"
+    ]
+  },
+  {
+    "cod": "ADM0006",
+    "nome": "GEST\u00c3O DE MARCAS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0406"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0302",
+    "nome": "GEST\u00c3O DE MUDAN\u00c7A ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0501"
+    ],
+    "pre_requirements": [
+      "ADM0214"
+    ]
+  },
+  {
+    "cod": "ADM0342",
+    "nome": "GEST\u00c3O DE OPERA\u00c7\u00d5ES E LOG\u00cdSTICA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0363",
+    "nome": "GEST\u00c3O DE ORGANIZA\u00c7\u00c3O SEM FINS LUCRATIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0548"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0041",
+    "nome": "GEST\u00c3O DE PESSOAS EM ORGANIZA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0253",
+      "ADM0258",
+      "ADM0305",
+      "ADM0377"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0303",
+    "nome": "GEST\u00c3O DE PROCESSOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0419"
+    ],
+    "pre_requirements": [
+      "ADM0092"
+    ]
+  },
+  {
+    "cod": "ADM0226",
+    "nome": "GEST\u00c3O DE PROJETOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0483"
+    ],
+    "pre_requirements": [
+      "ADM0214"
+    ]
+  },
+  {
+    "cod": "ADM0304",
+    "nome": "GEST\u00c3O DE RESPONSABILIDADE SOCIOAMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0420"
+    ],
+    "pre_requirements": [
+      "GPP0037"
+    ]
+  },
+  {
+    "cod": "ADM0366",
+    "nome": "GEST\u00c3O DE TELETRABALHO",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0425"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0244",
+    "nome": "GEST\u00c3O DE VENDAS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0487"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0305",
+    "nome": "GEST\u00c3O POR COMPET\u00caNCIAS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0504"
+    ],
+    "pre_requirements": [
+      "ADM0041"
+    ]
+  },
+  {
+    "cod": "ADM0070",
+    "nome": "GOVERNO E ADMINISTRACAO NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "GPP0033",
+      "ADM0460"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0005",
+    "nome": "INOVA\u00c7\u00c3O EM SERVI\u00c7OS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0429"
+    ],
+    "pre_requirements": [
+      "ADM0162"
+    ]
+  },
+  {
+    "cod": "ADM0318",
+    "nome": "INTERNACIONALIZA\u00c7\u00c3O DE EMPRESAS E GEST\u00c3O DE NEG\u00d3CIOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0422"
+    ],
+    "pre_requirements": [
+      "ADM0214"
+    ]
+  },
+  {
+    "cod": "ADM0023",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 ADMINISTRA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0003",
+      "ADM0004",
+      "CCA0009",
+      "ADM0014",
+      "ADM0019",
+      "ADM0020",
+      "ADM0025",
+      "ADM0041",
+      "ADM0044",
+      "ADM0061",
+      "ADM0064",
+      "ADM0092",
+      "FCI0051",
+      "ADM0150",
+      "ADM0157",
+      "ADM0198",
+      "ADM0214",
+      "ADM0221",
+      "ADM0270",
+      "GPP0037",
+      "GPP0038",
+      "FUP0521",
+      "FUP0522",
+      "ADM0298",
+      "ADM0308",
+      "ADM0310",
+      "ADM0312",
+      "ADM0316",
+      "ADM0320",
+      "ADM0323",
+      "ADM0363",
+      "ADM0366",
+      "ADM0367",
+      "ADM0375"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0324",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 EDUCA\u00c7\u00c3O A DIST\u00c2NCIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0214",
+    "nome": "INTRODU\u00c7\u00c3O A TEORIAS ORGANIZACIONAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0226",
+      "ADM0302",
+      "ADM0318",
+      "ADM0321",
+      "ADM0322",
+      "ADM0390"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0367",
+    "nome": "LGBT NAS ORGANIZA\u00c7\u00d5ES",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0552"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0356",
+    "nome": "LICITA\u00c7\u00c3O, CONTRATOS E CONV\u00caNIOS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0007",
+    "nome": "LOG\u00cdSTICA INTERNACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0431"
+    ],
+    "pre_requirements": [
+      "ADM0061"
+    ]
+  },
+  {
+    "cod": "ADM0061",
+    "nome": "LOG\u00cdSTICA ORGANIZACIONAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0007",
+      "ADM0017",
+      "FUP0239",
+      "ADM0313",
+      "ADM0379"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0327",
+    "nome": "MACROECONOMIA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0190",
+    "nome": "MACROECONOMIA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0413"
+    ],
+    "pre_requirements": [
+      "ECO0019 & MAT0025",
+      "ECO0019 & MAT0022"
+    ]
+  },
+  {
+    "cod": "ADM0261",
+    "nome": "MARKETING DE ESPECIALIDADES",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0490"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0306",
+    "nome": "MARKETING DE RELACIONAMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0396"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0009",
+    "nome": "MARKETING DE SERVI\u00c7OS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0368"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0010",
+    "nome": "MARKETING DIGITAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0408"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0264",
+    "nome": "MARKETING SOCIAL E DE SERVICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0491"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0008",
+    "nome": "MARKETING SOCIALMENTE RESPONS\u00c1VEL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0407"
+    ],
+    "pre_requirements": [
+      "ADM0064"
+    ]
+  },
+  {
+    "cod": "ADM0325",
+    "nome": "MATEM\u00c1TICA B\u00c1SICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0343",
+    "nome": "MATEM\u00c1TICA FINANCEIRA E AN\u00c1LISE DE INVESTIMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0329",
+    "nome": "MATEM\u00c1TICA PARA ADMINISTRADORES",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0527"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0068",
+    "nome": "MERCADO FINANCEIRO E DE CAPITAIS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0459"
+    ],
+    "pre_requirements": [
+      "ADM0052",
+      "CCA0021"
+    ]
+  },
+  {
+    "cod": "ADM0198",
+    "nome": "METODOLOGIA CIENT\u00cdFICA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "GPP0003",
+      "ADM0002",
+      "ADM0273",
+      "ADM0389"
+    ],
+    "pre_requirements": [
+      "EST0019",
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0047",
+    "nome": "M\u00c9TODOS E MODELOS QUANTITATIVOS DE DECIS\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0307",
+      "ADM0378"
+    ],
+    "pre_requirements": [
+      "ADM0035  &  MAT0024",
+      "MAT0025",
+      "MAT0021",
+      "MAT0022"
+    ]
+  },
+  {
+    "cod": "ADM0307",
+    "nome": "M\u00c9TODOS E MODELOS QUANTITATIVOS DE DECIS\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0397"
+    ],
+    "pre_requirements": [
+      "ADM0047",
+      "EPR0066",
+      "EST0054"
+    ]
+  },
+  {
+    "cod": "ADM0027",
+    "nome": "METODOS E PROCESSOS ADMINISTRATIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0448"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0187",
+    "nome": "MICROECONOMIA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0412"
+    ],
+    "pre_requirements": [
+      "ECO0019 & MAT0025",
+      "ECO0019 & MAT0022"
+    ]
+  },
+  {
+    "cod": "ADM0308",
+    "nome": "NEGOCIA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0398"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0270",
+    "nome": "OFICINA DE PRODUTOS E PROJETOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0393"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0295",
+    "nome": "OPERA\u00c7\u00d5ES POSTAIS 3",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0495"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0107",
+    "nome": "OR\u00c7AMENTO EMPRESARIAL",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0468"
+    ],
+    "pre_requirements": [
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "ADM0016",
+    "nome": "ORGANIZA\u00c7\u00c3O E GEST\u00c3O DE SERVI\u00c7OS P\u00daBLICOS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0440"
+    ],
+    "pre_requirements": [
+      "GPP0037",
+      "ADM0014"
+    ]
+  },
+  {
+    "cod": "ADM0025",
+    "nome": "ORGANIZACAO E SISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0038",
+      "ADM0072",
+      "ADM0447"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0241",
+    "nome": "PESQUISA DE MARKETING",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0415"
+    ],
+    "pre_requirements": [
+      "ADM0064 & ADM0198"
+    ]
+  },
+  {
+    "cod": "ADM0340",
+    "nome": "PLANEJAMENTO E PROGRAMA\u00c7\u00c3O NA ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0364",
+    "nome": "POLITICAS P\u00daBLICAS DE TURISMO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0273",
+    "nome": "PROJETO DE PESQUISA EM ADMINISTRA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0297",
+      "ADM0416"
+    ],
+    "pre_requirements": [
+      "ADM0198"
+    ]
+  },
+  {
+    "cod": "ADM0330",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0346",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0354",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0360",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0345",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0353",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0359",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0347",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0355",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 2",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0361",
+    "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 3",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0170",
+    "nome": "SISTEMAS DE COMPUTACAO APLICADOS A ADMINISTRACAO",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0472"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0338",
+    "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O E COMUNICA\u00c7\u00c3O NO SETOR P\u00daBLICO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0021",
+    "nome": "SOCIOLOGIA APLICADA \u00c0 ADMINISTRA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0374"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0326",
+    "nome": "TEORIAS DA ADMINISTRA\u00c7\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0331",
+    "nome": "TEORIAS DA ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0315",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM ADMINISTRA\u00c7\u00c3O 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0316",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM ADMINISTRA\u00c7\u00c3O 2",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0401"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0309",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM ADMINISTRA\u00c7\u00c3O P\u00daBLICA E GEST\u00c3O SOCIAL",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0508"
+    ],
+    "pre_requirements": [
+      "GPP0037"
+    ]
+  },
+  {
+    "cod": "ADM0003",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM ESTRAT\u00c9GIA",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0427"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0310",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM ESTRAT\u00c9GIA E INOVA\u00c7\u00c3O EM ORGANIZA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0509"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0311",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM FINAN\u00c7AS",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0421"
+    ],
+    "pre_requirements": [
+      "ADM0052"
+    ]
+  },
+  {
+    "cod": "ADM0312",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE PESSOAS E RELA\u00c7\u00d5ES DE TRABALHO",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0511"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0004",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM INOVA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0404"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0323",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM MARKETING",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0521"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0313",
+    "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM PRODU\u00c7\u00c3O, LOG\u00cdSTICA E GEST\u00c3O DA INFORMA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0399"
+    ],
+    "pre_requirements": [
+      "ADM0092",
+      "ADM0298",
+      "ADM0061"
+    ]
+  },
+  {
+    "cod": "ADM0020",
+    "nome": "T\u00d3PICOS EM GEST\u00c3O DA TECNOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0409"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0019",
+    "nome": "T\u00d3PICOS EM PRODU\u00c7\u00c3O E OPERA\u00c7\u00d5ES",
+    "ch": 30,
+    "post_requirements": [
+      "ADM0443"
+    ],
+    "pre_requirements": [
+      "ADM0023"
+    ]
+  },
+  {
+    "cod": "ADM0293",
+    "nome": "T\u00d3PICOS ESPECIAIS 2",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0494"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ADM0253",
+    "nome": "TREINAMENTO, DESENVOLVIMENTO E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "ADM0488"
+    ],
+    "pre_requirements": [
+      "ADM0041"
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "cod": "DEX0212",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 450,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0207",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 300,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0214",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 510,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0208",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 330,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0211",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 420,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0198",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0200",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0201",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0204",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 240,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0206",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 270,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0209",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 360,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0210",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 390,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0213",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 480,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0196",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0199",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0202",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0203",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 180,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX0197",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1114",
+    "nome": "CONSTRU\u00c7\u00c3O DE PROJETOS SOCIAIS MULTIDISCIPLINAR",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1108",
+    "nome": "CONSTRU\u00c7\u00c3O DE PROJETOS SOCIAIS MULTIDISCIPLINARES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1104",
+    "nome": "CRIATIVIDADE E INTUI\u00c7\u00c3O NA PRODU\u00c7\u00c3O DO CONHECIMENTO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1101",
+    "nome": "DARCY RIBEIRO: PENSAMENTO E FAZIMENTOS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1113",
+    "nome": "ETNOLOGIA VISUAL DA IMAGEM DO NEGRO NO CINEMA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1110",
+    "nome": "FUNDAMENTOS TE\u00d3RICOS METODOL\u00d3GICOS E \u00c9TICOS DA EXTENS\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1102",
+    "nome": "PENSAMENTO NEGRO CONTEMPOR\u00c2NEO",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1103",
+    "nome": "RESID\u00caNCIA NA EXTENS\u00c3O",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "DEX1112",
+    "nome": "RESID\u00caNCIA UNIVERSIT\u00c1RIA MULTIDISCIPLINAR EM EXTENS\u00c3O PROJETO RONDON 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": [
+      "DEX1108"
+    ]
+  },
+  {
+    "cod": "DEX1106",
+    "nome": "RESID\u00caNCIA UNIVERSIT\u00c1RIA MULTIDISCIPLINAR EM EXTENS\u00c3O PROJETO RONDON 2",
+    "ch": 120,
+    "post_requirements": [],
+    "pre_requirements": [
+      "DEX1108"
+    ]
+  }
+]

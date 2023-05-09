@@ -1,0 +1,312 @@
+[
+  {
+    "cod": "FAU0120",
+    "nome": "CONFORTO AMBIENTAL",
+    "ch": 90,
+    "post_requirements": [
+      "FAU0343"
+    ],
+    "pre_requirements": [
+      "MAT0025 & FAU0109",
+      "MAT0022 & FAU0109"
+    ]
+  },
+  {
+    "cod": "FAU0177",
+    "nome": "CONFORTO AMBIENTAL LUMINOSO E ACUSTICO",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0352"
+    ],
+    "pre_requirements": [
+      "TEC0017"
+    ]
+  },
+  {
+    "cod": "FAU0229",
+    "nome": "ESTAGIOS SUPERVISIONADOS DE PROJETOS 2",
+    "ch": 90,
+    "post_requirements": [
+      "FAU0360"
+    ],
+    "pre_requirements": [
+      "PRO0007"
+    ]
+  },
+  {
+    "cod": "FAU0146",
+    "nome": "ESTRUTURAS ARQUITETONICAS 1",
+    "ch": 120,
+    "post_requirements": [
+      "FAU0147",
+      "FAU0348"
+    ],
+    "pre_requirements": [
+      "MAT0025 & FAU0109",
+      "MAT0022 & FAU0109"
+    ]
+  },
+  {
+    "cod": "FAU0147",
+    "nome": "ESTRUTURAS ARQUITETONICAS 2",
+    "ch": 120,
+    "post_requirements": [
+      "TEC0010",
+      "FAU0349"
+    ],
+    "pre_requirements": [
+      "FAU0146"
+    ]
+  },
+  {
+    "cod": "FAU0001",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0002",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+    "ch": 15,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0238",
+    "nome": "ESTUDOS ESPECIAIS DE URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0362"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0236",
+    "nome": "ESTUDOS ESPECIAIS EM TECNOLOGIA DO URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0361"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0133",
+    "nome": "EXPRESSAO E REPRESENTACAO DE PROJETO 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0134",
+    "nome": "EXPRESSAO E REPRESENTACAO DE PROJETO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0345"
+    ],
+    "pre_requirements": [
+      "FAU0133"
+    ]
+  },
+  {
+    "cod": "FAU0173",
+    "nome": "INSTALACOES E EQUIPAMENTOS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0174",
+    "nome": "INSTALACOES E EQUIPAMENTOS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0242",
+    "nome": "LEGISLACAO URBANISTICA",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0364"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0240",
+    "nome": "METODOS E TECNICAS EM PLANEJAMENTO URBANO",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0363"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FAU0183",
+    "nome": "METODOS MATEMATICOS E ESTATISTICOS APLICADOS A ARRQUITERUA E URBANISMO",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0353"
+    ],
+    "pre_requirements": [
+      "MAT0022"
+    ]
+  },
+  {
+    "cod": "FAU0221",
+    "nome": "PLANEJAMENTO URBANO E REGIONAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0223",
+      "FAU0357"
+    ],
+    "pre_requirements": [
+      "TAU0002"
+    ]
+  },
+  {
+    "cod": "FAU0223",
+    "nome": "PLANEJAMENTO URBANO E REGIONAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0358"
+    ],
+    "pre_requirements": [
+      "FAU0221"
+    ]
+  },
+  {
+    "cod": "FAU0201",
+    "nome": "PROJETO DE ARQUITETURA-FORMA E SIGNIFICADO",
+    "ch": 90,
+    "post_requirements": [
+      "FAU0354"
+    ],
+    "pre_requirements": [
+      "PRO0017",
+      "FAU0111"
+    ]
+  },
+  {
+    "cod": "FAU0109",
+    "nome": "PROJETO DE EDIFICACAO E URBANISMO 1",
+    "ch": 180,
+    "post_requirements": [
+      "FAU0110",
+      "FAU0140",
+      "FAU0338"
+    ],
+    "pre_requirements": [
+      "TAU0002 & VIS0063"
+    ]
+  },
+  {
+    "cod": "FAU0110",
+    "nome": "PROJETO DE EDIFICACAO E URBANISMO 2",
+    "ch": 180,
+    "post_requirements": [
+      "FAU0111",
+      "FAU0339"
+    ],
+    "pre_requirements": [
+      "FAU0109"
+    ]
+  },
+  {
+    "cod": "FAU0111",
+    "nome": "PROJETO DE EDIFICACAO E URBANISMO 3",
+    "ch": 180,
+    "post_requirements": [
+      "TAU0003",
+      "TEC0008",
+      "FAU0201",
+      "FAU0216",
+      "FAU0340"
+    ],
+    "pre_requirements": [
+      "FAU0110"
+    ]
+  },
+  {
+    "cod": "FAU0216",
+    "nome": "PROJETO DE EDIFICACAO E URBANISMO 4",
+    "ch": 120,
+    "post_requirements": [
+      "FAU0218",
+      "FAU0355"
+    ],
+    "pre_requirements": [
+      "FAU0111"
+    ]
+  },
+  {
+    "cod": "FAU0218",
+    "nome": "PROJETO DE EDIFICACAO E URBANISMO 5",
+    "ch": 120,
+    "post_requirements": [
+      "PRO0041",
+      "PRO0043",
+      "FAU0356"
+    ],
+    "pre_requirements": [
+      "FAU0216"
+    ]
+  },
+  {
+    "cod": "FAU0140",
+    "nome": "SISTEMAS CONSTRUTIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0346"
+    ],
+    "pre_requirements": [
+      "FAU0109"
+    ]
+  },
+  {
+    "cod": "FAU0113",
+    "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 1",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0341"
+    ],
+    "pre_requirements": [
+      "TAU0002"
+    ]
+  },
+  {
+    "cod": "FAU0225",
+    "nome": "TEORIA E HIST\u00d3RIA DA ARQUITETURA E URBANISMO 2",
+    "ch": 60,
+    "post_requirements": [
+      "TAU0010",
+      "FAU0359"
+    ],
+    "pre_requirements": [
+      "TAU0002"
+    ]
+  },
+  {
+    "cod": "FAU0114",
+    "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 3",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0144",
+      "TAU0015",
+      "FAU0342"
+    ],
+    "pre_requirements": [
+      "TAU0002"
+    ]
+  },
+  {
+    "cod": "FAU0144",
+    "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 4",
+    "ch": 60,
+    "post_requirements": [
+      "FAU0347"
+    ],
+    "pre_requirements": [
+      "FAU0114"
+    ]
+  }
+]

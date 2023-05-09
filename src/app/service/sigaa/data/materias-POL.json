@@ -1,0 +1,802 @@
+[
+  {
+    "cod": "POL0030",
+    "nome": "AN\u00c1LISE POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0129"
+    ],
+    "pre_requirements": [
+      "POL0032 & POL0013"
+    ]
+  },
+  {
+    "cod": "POL0082",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O 1",
+    "ch": 60,
+    "post_requirements": [
+      "POL0083",
+      "POL0151"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0083",
+    "nome": "ATIVIDADE DE EXTENS\u00c3O 2",
+    "ch": 60,
+    "post_requirements": [
+      "POL0219"
+    ],
+    "pre_requirements": [
+      "POL0082"
+    ]
+  },
+  {
+    "cod": "POL0040",
+    "nome": "AVALIA\u00c7\u00c3O DE POL\u00cdTICAS GOVERNAMENTAIS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0189"
+    ],
+    "pre_requirements": [
+      "POL0011 & POL0055"
+    ]
+  },
+  {
+    "cod": "POL0022",
+    "nome": "COMPORTAMENTO POL\u00cdTICO",
+    "ch": 60,
+    "post_requirements": [
+      "POL0178"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0015",
+    "nome": "ELITES POL\u00cdTICAS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0139"
+    ],
+    "pre_requirements": [
+      "POL0012"
+    ]
+  },
+  {
+    "cod": "POL0051",
+    "nome": "ESTADO E DESENVOLVIMENTO NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0142"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0075",
+    "nome": "ESTADO E TEORIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0211"
+    ],
+    "pre_requirements": [
+      "POL0012"
+    ]
+  },
+  {
+    "cod": "POL0119",
+    "nome": "ESTADO, GOVERNO E POL\u00cdTICAS P\u00daBLICAS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0158"
+    ],
+    "pre_requirements": [
+      "POL0055"
+    ]
+  },
+  {
+    "cod": "POL0045",
+    "nome": "EST\u00c1GIO EM CI\u00caNCIA POL\u00cdTICA",
+    "ch": 90,
+    "post_requirements": [
+      "POL0146"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0047",
+    "nome": "ESTRUTURA DO PODER NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0193"
+    ],
+    "pre_requirements": [
+      "POL0011 & POL0017"
+    ]
+  },
+  {
+    "cod": "POL0003",
+    "nome": "ESTUDOS LEGISLATIVOS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0164"
+    ],
+    "pre_requirements": [
+      "POL0013"
+    ]
+  },
+  {
+    "cod": "POL0118",
+    "nome": "\u00c9TICA E POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0157"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0055",
+    "nome": "FUNDAMENTOS DE POL\u00cdTICAS P\u00daBLICAS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0060",
+      "POL0070",
+      "POL0119",
+      "GPP0042",
+      "POL0121",
+      "POL0135"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0007",
+    "nome": "G\u00caNERO E POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0122"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0121",
+    "nome": "GOVERNO ELETR\u00d4NICO E POL\u00cdTICAS P\u00daBLICAS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0230"
+    ],
+    "pre_requirements": [
+      "POL0055"
+    ]
+  },
+  {
+    "cod": "POL0010",
+    "nome": "HIST\u00d3RIA SOCIAL E POL\u00cdTICA LATINO-AMERICANA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0170"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0002",
+    "nome": "IDENTIDADE NACIONAL E NACIONALISMO",
+    "ch": 60,
+    "post_requirements": [
+      "POL0163"
+    ],
+    "pre_requirements": [
+      "POL0011 & POL0012"
+    ]
+  },
+  {
+    "cod": "POL0028",
+    "nome": "INFORM\u00c1TICA EM CI\u00caNCIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0180"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0011",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 CI\u00caNCIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "SOL0006",
+      "POL0005",
+      "POL0006",
+      "POL0007",
+      "POL0008",
+      "POL0009",
+      "JOR0083",
+      "POL0012",
+      "POL0017",
+      "POL0019",
+      "POL0022",
+      "POL0033",
+      "POL0035",
+      "POL0037",
+      "POL0038",
+      "POL0042",
+      "POL0046",
+      "POL0049",
+      "POL0050",
+      "POL0051",
+      "IRI0111",
+      "POL0055",
+      "POL0068",
+      "POL0077",
+      "POL0082",
+      "POL0084",
+      "POL0117",
+      "POL0118",
+      "CDS0012",
+      "POL0123",
+      "POL0162"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0038",
+    "nome": "LEGISLA\u00c7\u00c3O E PROCESSO POL\u00cdTICO",
+    "ch": 60,
+    "post_requirements": [
+      "essencial para a devida compreens\u00e3o do Legislativo e de seu papel, incluindo a rela\u00e7\u00e3o com os demais poderes da Rep\u00fablica.",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "60h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "60h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "60h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "60h",
+      "",
+      "Outros componentes que t\u00eam esse componente como equivalente",
+      "IRI0070",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "POL0188"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0080",
+    "nome": "M\u00c9TODOS QUANTITATIVOS 1",
+    "ch": 60,
+    "post_requirements": [
+      "POL0150"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0081",
+    "nome": "M\u00c9TODOS QUANTITATIVOS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0117",
+    "nome": "M\u00c9TODOS QUANTITATIVOS APLICADOS \u00c0S POL\u00cdTICAS P\u00daBLICAS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0029",
+      "POL0156"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0026",
+    "nome": "MONOGRAFIA EM CI\u00caNCIA POL\u00cdTICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "POL0144"
+    ],
+    "pre_requirements": [
+      "POL0029"
+    ]
+  },
+  {
+    "cod": "POL0086",
+    "nome": "MONOGRAFIA EM CI\u00caNCIA POL\u00cdTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "POL0154"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0049",
+    "nome": "MUDAN\u00c7A POL\u00cdTICA NA AM\u00c9RICA DO SUL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0134"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0050",
+    "nome": "MUDAN\u00c7A POL\u00cdTICA NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0196"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0087",
+    "nome": "PARTICIPA\u00c7\u00c3O POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0223"
+    ],
+    "pre_requirements": [
+      "POL0013"
+    ]
+  },
+  {
+    "cod": "POL0037",
+    "nome": "PARTIDOS POL\u00cdTICOS E SISTEMAS ELEITORAIS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0132"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0036",
+    "nome": "PENSAMENTO POL\u00cdTICO LATINO-AMERICANO",
+    "ch": 60,
+    "post_requirements": [
+      "POL0145"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0009",
+    "nome": "PENSAMENTO POL\u00cdTICO NEGRO",
+    "ch": 60,
+    "post_requirements": [
+      "POL0169"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0046",
+    "nome": "PENSAMENTO POL\u00cdTICO NO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0133"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0084",
+    "nome": "PESQUISA EM CI\u00caNCIA POL\u00cdTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "POL0085",
+      "POL0152"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0085",
+    "nome": "PESQUISA EM CI\u00caNCIA POL\u00cdTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "POL0153"
+    ],
+    "pre_requirements": [
+      "POL0084",
+      "POL0161"
+    ]
+  },
+  {
+    "cod": "POL0068",
+    "nome": "PESQUISA EM COMPORTAMENTO POL\u00cdTICO 1",
+    "ch": 60,
+    "post_requirements": [
+      "POL0205"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0110",
+    "nome": "PESQUISA EM COMPORTAMENTO POL\u00cdTICO 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0111",
+    "nome": "PESQUISA EM COMPORTAMENTO POL\u00cdTICO 3",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0070",
+    "nome": "PESQUISA EM POL\u00cdTICA P\u00daBLICA E GOVERNABILIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "POL0206"
+    ],
+    "pre_requirements": [
+      "POL0055"
+    ]
+  },
+  {
+    "cod": "POL0017",
+    "nome": "POL\u00cdTICA BRASILEIRA 1",
+    "ch": 60,
+    "post_requirements": [
+      "POL0032",
+      "POL0126"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0032",
+    "nome": "POL\u00cdTICA BRASILEIRA 2",
+    "ch": 60,
+    "post_requirements": [
+      "POL0130"
+    ],
+    "pre_requirements": [
+      "POL0017"
+    ]
+  },
+  {
+    "cod": "POL0006",
+    "nome": "POL\u00cdTICA E ANTIRRACISMO",
+    "ch": 60,
+    "post_requirements": [
+      "POL0166"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0048",
+    "nome": "POL\u00cdTICA E ECONOMIA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0147"
+    ],
+    "pre_requirements": [
+      "ECO0019"
+    ]
+  },
+  {
+    "cod": "POL0053",
+    "nome": "POL\u00cdTICA E ECONOMIA MUNDIAL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0148"
+    ],
+    "pre_requirements": [
+      "POL0011 & ECO0019"
+    ]
+  },
+  {
+    "cod": "POL0076",
+    "nome": "POL\u00cdTICA E FILOSOFIA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0212"
+    ],
+    "pre_requirements": [
+      "POL0011 & POL0012"
+    ]
+  },
+  {
+    "cod": "POL0073",
+    "nome": "POL\u00cdTICA E IDEOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0209"
+    ],
+    "pre_requirements": [
+      "POL0011 & SOL0042"
+    ]
+  },
+  {
+    "cod": "POL0077",
+    "nome": "POL\u00cdTICA E M\u00cdDIA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0213"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0042",
+    "nome": "POL\u00cdTICA E MOVIMENTOS SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0141"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0019",
+    "nome": "POL\u00cdTICA E SOCIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0140"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0072",
+    "nome": "POL\u00cdTICA E TEORIA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "POL0208"
+    ],
+    "pre_requirements": [
+      "POL0011 & SOL0042"
+    ]
+  },
+  {
+    "cod": "POL0035",
+    "nome": "POL\u00cdTICA REGIONAL AFRICANA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0185"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0060",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS E TEORIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0202"
+    ],
+    "pre_requirements": [
+      "POL0055"
+    ]
+  },
+  {
+    "cod": "POL0005",
+    "nome": "PR\u00c1TICA DE ENSINO EM INTRODU\u00c7\u00c3O \u00c0 CI\u00caNCIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0143"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0074",
+    "nome": "REPRESENTA\u00c7\u00c3O POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0210"
+    ],
+    "pre_requirements": [
+      "POL0013"
+    ]
+  },
+  {
+    "cod": "POL0079",
+    "nome": "SEMIN\u00c1RIO DE CONJUNTURA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0215"
+    ],
+    "pre_requirements": [
+      "POL0030 & POL0032"
+    ]
+  },
+  {
+    "cod": "POL0052",
+    "nome": "SEMIN\u00c1RIO SOBRE O BRASIL CONTEMPOR\u00c2NEO",
+    "ch": 60,
+    "post_requirements": [
+      "POL0198"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0029",
+    "nome": "T\u00c9CNICAS DE PESQUISA EM CI\u00caNCIA POL\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0026",
+      "POL0128",
+      "POL0159"
+    ],
+    "pre_requirements": [
+      "POL0013 & EST0019",
+      "POL0117"
+    ]
+  },
+  {
+    "cod": "POL0071",
+    "nome": "TEORIA DA DEMOCRACIA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0207"
+    ],
+    "pre_requirements": [
+      "POL0013"
+    ]
+  },
+  {
+    "cod": "POL0078",
+    "nome": "TEORIA DA ESCOLHA P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0214"
+    ],
+    "pre_requirements": [
+      "POL0011 & ECO0019"
+    ]
+  },
+  {
+    "cod": "POL0059",
+    "nome": "TEORIA E M\u00c9TODOS MARXISTAS",
+    "ch": 60,
+    "post_requirements": [
+      "POL0201"
+    ],
+    "pre_requirements": [
+      "POL0012"
+    ]
+  },
+  {
+    "cod": "POL0033",
+    "nome": "TEORIA POL\u00cdTICA CL\u00c1SSICA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0131"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0013",
+    "nome": "TEORIA POL\u00cdTICA CONTEMPOR\u00c2NEA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0003",
+      "POL0071",
+      "POL0074",
+      "POL0087",
+      "POL0125"
+    ],
+    "pre_requirements": [
+      "POL0011 & POL0012"
+    ]
+  },
+  {
+    "cod": "POL0008",
+    "nome": "TEORIA POL\u00cdTICA FEMINISTA",
+    "ch": 60,
+    "post_requirements": [
+      "POL0138"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0012",
+    "nome": "TEORIA POL\u00cdTICA MODERNA",
+    "ch": 60,
+    "post_requirements": [
+      "SOL0064",
+      "POL0015",
+      "POL0059",
+      "POL0075",
+      "POL0124"
+    ],
+    "pre_requirements": [
+      "POL0011"
+    ]
+  },
+  {
+    "cod": "POL0021",
+    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIA POL\u00cdTICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "POL0127"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0062",
+    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIA POL\u00cdTICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "POL0136"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0065",
+    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIA POL\u00cdTICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "POL0149"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "POL0088",
+    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIA POL\u00cdTICA 4",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

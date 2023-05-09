@@ -1,0 +1,113 @@
+[
+  {
+    "cod": "ELA0014",
+    "nome": "CI\u00caNCIAS SOCIAIS LATINO-AMERICANAS 1",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0124"
+    ],
+    "pre_requirements": [
+      "ELA0117"
+    ]
+  },
+  {
+    "cod": "ELA0003",
+    "nome": "CULTURA E IDENTIDADE NAS AM\u00c9RICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0121"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ELA0010",
+    "nome": "ESTUDOS COMPARADOS SOBRE AS AM\u00c9RICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0120"
+    ],
+    "pre_requirements": [
+      "SOL0042",
+      "DAN0022 & ELA0013"
+    ]
+  },
+  {
+    "cod": "ELA0013",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 METODOLOGIA DAS CI\u00caNCIAS SOCIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "DAN0040",
+      "FCI0052",
+      "ELA0123"
+    ],
+    "pre_requirements": [
+      "SOL0042"
+    ]
+  },
+  {
+    "cod": "ELA0117",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0S CI\u00caNCIAS SOCIAIS LATINO-AMERICANAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ELA0008",
+    "nome": "PENSAMENTO SOCIAL E POL\u00cdTICO NA AM\u00c9RICA LATINA",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0118"
+    ],
+    "pre_requirements": [
+      "SOL0042",
+      "DAN0022 & ELA0013"
+    ]
+  },
+  {
+    "cod": "ELA0007",
+    "nome": "POL\u00cdTICA E ESTADO NAS AM\u00c9RICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0122"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ELA0009",
+    "nome": "PROCESSOS DE DESENVOLVIMENTO NAS AM\u00c9RICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0131"
+    ],
+    "pre_requirements": [
+      "SOL0042",
+      "DAN0022"
+    ]
+  },
+  {
+    "cod": "ELA0012",
+    "nome": "SOCIEDADE, CULTURA E POL\u00cdTICA NAS AM\u00c9RICAS",
+    "ch": 60,
+    "post_requirements": [
+      "ELA0133"
+    ],
+    "pre_requirements": [
+      "SOL0042",
+      "DAN0022"
+    ]
+  },
+  {
+    "cod": "ELA0001",
+    "nome": "T\u00d3PICOS ESPECIAIS DE METODOLOGIA QUALITATIVA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "ELA0004",
+    "nome": "T\u00d3PICOS ESPECIAIS DE METODOLOGIA QUANTITATIVA 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  }
+]

@@ -1,0 +1,1764 @@
+[
+  {
+    "cod": "CEN0168",
+    "nome": "A PALAVRA EM PERFORMANCE",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0169",
+      "CEN0210"
+    ],
+    "pre_requirements": [
+      "CEN0167",
+      "CEN0076",
+      "CEN0078",
+      "CEN0133"
+    ]
+  },
+  {
+    "cod": "CEN0167",
+    "nome": "A VOZ EM PERFORMANCE",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0168",
+      "CEN0209"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0163",
+    "nome": "CARACTERIZA\u00c7\u00c3O",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0367"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0045",
+    "nome": "CENOGRAFIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0046",
+      "CEN0047",
+      "CEN0290"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0046",
+    "nome": "CENOGRAFIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0291"
+    ],
+    "pre_requirements": [
+      "CEN0045"
+    ]
+  },
+  {
+    "cod": "CEN0047",
+    "nome": "CENOGRAFIA 3",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0292"
+    ],
+    "pre_requirements": [
+      "CEN0045"
+    ]
+  },
+  {
+    "cod": "CEN0038",
+    "nome": "CORPO E MOVIMENTO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0066",
+      "CEN0178",
+      "CEN0285"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0066",
+    "nome": "CORPO E MOVIMENTO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0067",
+      "CEN0179",
+      "CEN0302"
+    ],
+    "pre_requirements": [
+      "CEN0038"
+    ]
+  },
+  {
+    "cod": "CEN0067",
+    "nome": "CORPO E MOVIMENTO 3",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0068",
+      "CEN0071",
+      "CEN0181",
+      "CEN0303"
+    ],
+    "pre_requirements": [
+      "CEN0066"
+    ]
+  },
+  {
+    "cod": "CEN0008",
+    "nome": "CORPOREIDADES BRASILEIRAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0009",
+    "nome": "CORPOREIDADES BRASILEIRAS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0109",
+    "nome": "CRITICA TEATRAL",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0332"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0133",
+    "nome": "DINAMICA DA VOZ 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0134",
+      "CEN0168",
+      "CEN0345"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0134",
+    "nome": "DINAMICA DA VOZ 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0155",
+      "CEN0156",
+      "CEN0169",
+      "CEN0346"
+    ],
+    "pre_requirements": [
+      "CEN0133"
+    ]
+  },
+  {
+    "cod": "CEN0193",
+    "nome": "DIPLOMA\u00c7\u00c3O EM ARTES C\u00caNICAS 1",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0194",
+      "CEN0240",
+      "CEN0243"
+    ],
+    "pre_requirements": [
+      "CEN0191 & MTC0012",
+      "CEN0149 & CEN0143 & CEN0059 & PAD0028"
+    ]
+  },
+  {
+    "cod": "CEN0194",
+    "nome": "DIPLOMA\u00c7\u00c3O EM ARTES C\u00caNICAS 2",
+    "ch": 180,
+    "post_requirements": [
+      "CEN0241"
+    ],
+    "pre_requirements": [
+      "CEN0193",
+      "CEN0149",
+      "CEN0242"
+    ]
+  },
+  {
+    "cod": "CEN0005",
+    "nome": "DIPLOMA\u00c7\u00c3O EM INTERPRETA\u00c7\u00c3O TEATRAL",
+    "ch": 150,
+    "post_requirements": [
+      "CEN0228"
+    ],
+    "pre_requirements": [
+      "CEN0006"
+    ]
+  },
+  {
+    "cod": "CEN0186",
+    "nome": "DIPLOMA\u00c7\u00c3O EM INTERPRETA\u00c7\u00c3O TEATRAL 1",
+    "ch": 240,
+    "post_requirements": [
+      "CEN0004",
+      "CEN0246",
+      "CEN0389"
+    ],
+    "pre_requirements": [
+      "CEN0185 & CEN0176",
+      "CEN0100 & CEN0070"
+    ]
+  },
+  {
+    "cod": "CEN0188",
+    "nome": "DIPLOMA\u00c7\u00c3O EM INTERPRETA\u00c7\u00c3O TEATRAL 2",
+    "ch": 180,
+    "post_requirements": [
+      "CEN0390"
+    ],
+    "pre_requirements": [
+      "CEN0186 & CEN0042"
+    ]
+  },
+  {
+    "cod": "CEN0014",
+    "nome": "DIPLOMA\u00c7\u00c3O EM LICENCIATURA EM ARTES C\u00caNICAS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0264"
+    ],
+    "pre_requirements": [
+      "CEN0191"
+    ]
+  },
+  {
+    "cod": "CEN0042",
+    "nome": "DIRECAO 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0102",
+      "CEN0204"
+    ],
+    "pre_requirements": [
+      "CEN0166 & CEN0169 & CEN0173 & CEN0179",
+      "CEN0095 & CEN0076 & CEN0107 & CEN0067",
+      "CEN0095 & CEN0134 & CEN0140 & CEN0066",
+      "CEN0031 & CEN0095",
+      "CEN0031 & CEN0173"
+    ]
+  },
+  {
+    "cod": "CEN0102",
+    "nome": "DIRECAO 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0103",
+      "CEN0327"
+    ],
+    "pre_requirements": [
+      "CEN0042"
+    ]
+  },
+  {
+    "cod": "CEN0103",
+    "nome": "DIRECAO 3",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0104",
+      "CEN0328"
+    ],
+    "pre_requirements": [
+      "CEN0102"
+    ]
+  },
+  {
+    "cod": "CEN0104",
+    "nome": "DIRECAO 4",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0329"
+    ],
+    "pre_requirements": [
+      "CEN0103"
+    ]
+  },
+  {
+    "cod": "CEN0132",
+    "nome": "ELEMENTO DE LINGUAGEM, ARTE E CULTURA",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0344"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0030",
+    "nome": "ELEMENTOS DE LINGUAGEM, EST\u00c9TICA E HIST\u00d3RIA DA ARTE 2",
+    "ch": 60,
+    "post_requirements": [
+      "DAN0001",
+      "DAN0002",
+      "DAN0003",
+      "DAN0004",
+      "DAN0006",
+      "DAN0007",
+      "DAN0008",
+      "DAN0009",
+      "DAN0010",
+      "DAN0011",
+      "DAN0012",
+      "DAN0013",
+      "DAN0014",
+      "DAN0015",
+      "DAN0016",
+      "DAN0017",
+      "DAN0018",
+      "DAN0019",
+      "DAN0024",
+      "DAN0036",
+      "DAN0043",
+      "DAN0046",
+      "DAN0047",
+      "DAN0049",
+      "DAN0050",
+      "DAN0052",
+      "DAN0053",
+      "DAN0054",
+      "DAN0055",
+      "DAN0056",
+      "DAN0058",
+      "DAN0060",
+      "DAN0061",
+      "DAN0062",
+      "DAN0063",
+      "DAN0065",
+      "DAN0066",
+      "DAN0068",
+      "DAN0070",
+      "DAN0072",
+      "DAN0074",
+      "DAN0076",
+      "DAN0077",
+      "DAN0078",
+      "DAN0080",
+      "DAN0082",
+      "DAN0084",
+      "DAN0086",
+      "DAN0088",
+      "CEN0036",
+      "CEN0280"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0039",
+    "nome": "ENCENACAO 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0286"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0040",
+    "nome": "ENCENACAO 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0287"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0041",
+    "nome": "ENCENACAO 3",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0288"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0093",
+    "nome": "ENCENACAO 4",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0320"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0182",
+    "nome": "ENCENA\u00c7\u00c3O TEATRAL 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0183",
+    "nome": "ENCENA\u00c7\u00c3O TEATRAL 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0153",
+      "CEN0218"
+    ],
+    "pre_requirements": [
+      "CEN0182",
+      "CEN0107",
+      "CEN0140"
+    ]
+  },
+  {
+    "cod": "CEN0184",
+    "nome": "ENCENA\u00c7\u00c3O TEATRAL 3",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0219"
+    ],
+    "pre_requirements": [
+      "CEN0182",
+      "CEN0031"
+    ]
+  },
+  {
+    "cod": "CEN0025",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DE OBSERVA\u00c7\u00c3O EM ARTES C\u00caNICAS",
+    "ch": 75,
+    "post_requirements": [
+      "CEN0026",
+      "CEN0027",
+      "CEN0028",
+      "CEN0029",
+      "CEN0191",
+      "CEN0224",
+      "CEN0248",
+      "CEN0249",
+      "CEN0252",
+      "CEN0254",
+      "CEN0255",
+      "CEN0256"
+    ],
+    "pre_requirements": [
+      "CEN0135"
+    ]
+  },
+  {
+    "cod": "CEN0026",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ARTES C\u00caNICAS NO ENSINO FUNDAMENTAL",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0276"
+    ],
+    "pre_requirements": [
+      "CEN0025",
+      "CEN0247",
+      "CEN0253"
+    ]
+  },
+  {
+    "cod": "CEN0027",
+    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ARTES C\u00caNICAS NO ENSINO M\u00c9DIO",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0277"
+    ],
+    "pre_requirements": [
+      "CEN0025",
+      "CEN0247",
+      "CEN0253"
+    ]
+  },
+  {
+    "cod": "CEN0028",
+    "nome": "EST\u00c1GIO CURR SUPERVISIONADO EM ARTES C\u00caNICAS EM ESPA\u00c7OS ALTERNATIVOS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0278"
+    ],
+    "pre_requirements": [
+      "CEN0025",
+      "CEN0247",
+      "CEN0253"
+    ]
+  },
+  {
+    "cod": "CEN0034",
+    "nome": "ESTAGIO SUPERVISIONADO EM ARTES CENICAS",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0283"
+    ],
+    "pre_requirements": [
+      "CEN0146",
+      "MUS0738"
+    ]
+  },
+  {
+    "cod": "CEN0146",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES C\u00caNICAS 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0034",
+      "CEN0231"
+    ],
+    "pre_requirements": [
+      "PED0060 & PAD0028",
+      "MTC0012 & CEN0135",
+      "MTC0006 & MTC0012",
+      "CEN0190 & TEF0011"
+    ]
+  },
+  {
+    "cod": "CEN0149",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES C\u00caNICAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0151",
+      "CEN0194",
+      "CEN0232",
+      "CEN0243"
+    ],
+    "pre_requirements": [
+      "CEN0146",
+      "CEN0250",
+      "CEN0260  &  MTC0012 & CEN0191",
+      "CEN0146",
+      "CEN0250",
+      "CEN0260  &  MTC0012"
+    ]
+  },
+  {
+    "cod": "CEN0151",
+    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARTES C\u00caNICAS 3",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0358"
+    ],
+    "pre_requirements": [
+      "CEN0149"
+    ]
+  },
+  {
+    "cod": "CEN0158",
+    "nome": "ESTUDOS MITOL\u00d3GICOS 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0159",
+    "nome": "ESTUDOS MITOLOGICOS 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0068",
+    "nome": "EXPRESSAO CORPORAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0069",
+      "CEN0178",
+      "CEN0304"
+    ],
+    "pre_requirements": [
+      "CEN0067"
+    ]
+  },
+  {
+    "cod": "CEN0069",
+    "nome": "EXPRESSAO CORPORAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0070",
+      "CEN0179",
+      "CEN0305"
+    ],
+    "pre_requirements": [
+      "CEN0068"
+    ]
+  },
+  {
+    "cod": "CEN0070",
+    "nome": "EXPRESSAO CORPORAL 3",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0071",
+      "CEN0306"
+    ],
+    "pre_requirements": [
+      "CEN0069"
+    ]
+  },
+  {
+    "cod": "CEN0071",
+    "nome": "EXPRESSAO CORPORAL 4",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0181",
+      "CEN0307"
+    ],
+    "pre_requirements": [
+      "CEN0070",
+      "CEN0067",
+      "CEN0179"
+    ]
+  },
+  {
+    "cod": "CEN0135",
+    "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O ART\u00cdSTICA",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0025",
+      "CEN0206",
+      "CEN0247",
+      "CEN0253"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0010",
+    "nome": "FUNDAMENTOS DA LICENCIATURA EM ARTES C\u00caNICAS",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0136",
+    "nome": "FUNDAMENTOS DA LINGUAGEM CENICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0154",
+    "nome": "HISTORIA DO ENSINO DAS ARTES",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0036",
+    "nome": "HISTORIA DO TEATRO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0049",
+      "CEN0091",
+      "CEN0165",
+      "CEN0284"
+    ],
+    "pre_requirements": [
+      "CEN0030",
+      "CEN0031"
+    ]
+  },
+  {
+    "cod": "CEN0049",
+    "nome": "HISTORIA DO TEATRO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0088",
+      "CEN0166",
+      "CEN0293"
+    ],
+    "pre_requirements": [
+      "CEN0036"
+    ]
+  },
+  {
+    "cod": "CEN0121",
+    "nome": "ILUMINACAO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0122",
+      "CEN0338"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0122",
+    "nome": "ILUMINACAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0339"
+    ],
+    "pre_requirements": [
+      "CEN0121"
+    ]
+  },
+  {
+    "cod": "CEN0112",
+    "nome": "INDUMENTARIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0113",
+      "CEN0333"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0113",
+    "nome": "INDUMENTARIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0334"
+    ],
+    "pre_requirements": [
+      "CEN0112"
+    ]
+  },
+  {
+    "cod": "CEN0097",
+    "nome": "INTERPRETACAO 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0098",
+      "CEN0174",
+      "CEN0175",
+      "CEN0200",
+      "CEN0322"
+    ],
+    "pre_requirements": [
+      "CEN0095"
+    ]
+  },
+  {
+    "cod": "CEN0098",
+    "nome": "INTERPRETACAO 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0099",
+      "CEN0323"
+    ],
+    "pre_requirements": [
+      "CEN0097"
+    ]
+  },
+  {
+    "cod": "CEN0099",
+    "nome": "INTERPRETACAO 3",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0100",
+      "CEN0176",
+      "CEN0324"
+    ],
+    "pre_requirements": [
+      "CEN0098"
+    ]
+  },
+  {
+    "cod": "CEN0100",
+    "nome": "INTERPRETACAO 4",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0325"
+    ],
+    "pre_requirements": [
+      "CEN0099"
+    ]
+  },
+  {
+    "cod": "CEN0176",
+    "nome": "INTERPRETA\u00c7\u00c3O E MONTAGEM",
+    "ch": 150,
+    "post_requirements": [
+      "CEN0237"
+    ],
+    "pre_requirements": [
+      "CEN0175 & CEN0174 & CEN0184 & CEN0179 & CEN0169 & CEN0166",
+      "CEN0099",
+      "CEN0031 & CEN0175"
+    ]
+  },
+  {
+    "cod": "CEN0171",
+    "nome": "INTERPRETA\u00c7\u00c3O TEATRAL 1",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0172",
+    "nome": "INTERPRETA\u00c7\u00c3O TEATRAL 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0173",
+      "CEN0234"
+    ],
+    "pre_requirements": [
+      "CEN0171",
+      "CEN0031",
+      "CEN0032"
+    ]
+  },
+  {
+    "cod": "CEN0173",
+    "nome": "INTERPRETA\u00c7\u00c3O TEATRAL 3",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0174",
+      "CEN0175",
+      "CEN0200",
+      "CEN0213"
+    ],
+    "pre_requirements": [
+      "CEN0172",
+      "CEN0095"
+    ]
+  },
+  {
+    "cod": "CEN0174",
+    "nome": "INTERPRETA\u00c7\u00c3O TEATRAL 4",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0153",
+      "CEN0235"
+    ],
+    "pre_requirements": [
+      "CEN0173",
+      "CEN0097",
+      "CEN0137"
+    ]
+  },
+  {
+    "cod": "CEN0101",
+    "nome": "INTRODUCAO A DIRECAO",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0326"
+    ],
+    "pre_requirements": [
+      "CEN0095 & CEN0107"
+    ]
+  },
+  {
+    "cod": "CEN0092",
+    "nome": "INTRODUCAO A ENCENACAO",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0319"
+    ],
+    "pre_requirements": [
+      "CEN0095"
+    ]
+  },
+  {
+    "cod": "CEN0095",
+    "nome": "INTRODUCAO A INTERPRETACAO",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0092",
+      "CEN0097",
+      "CEN0137",
+      "CEN0173",
+      "CEN0321"
+    ],
+    "pre_requirements": [
+      "CEN0031",
+      "CEN0032"
+    ]
+  },
+  {
+    "cod": "CEN0107",
+    "nome": "INTRODUCAO AS TECNICAS TEATRAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0183",
+      "CEN0331"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0007",
+    "nome": "LABORAT\u00d3RIO DE CRIA\u00c7\u00c3O C\u00caNICO-MUSICAL",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0199",
+    "nome": "LABORAT\u00d3RIO DE TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0222"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0013",
+    "nome": "LABORAT\u00d3RIO DE TEATRO EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0263"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0200",
+    "nome": "LABORAT\u00d3RIO INTERART\u00cdSTICO",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0398"
+    ],
+    "pre_requirements": [
+      "MUS0099",
+      "CEN0173",
+      "VIS0220",
+      "CEN0173",
+      "CEN0097",
+      "CEN0141"
+    ]
+  },
+  {
+    "cod": "CEN0058",
+    "nome": "LINGUAGEM DRAMATICA NA EDUCACAO",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0298"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0088",
+    "nome": "LITERATURA DRAMATICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0089",
+      "CEN0315"
+    ],
+    "pre_requirements": [
+      "CEN0049"
+    ]
+  },
+  {
+    "cod": "CEN0089",
+    "nome": "LITERATURA DRAMATICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0090",
+      "CEN0165",
+      "CEN0316"
+    ],
+    "pre_requirements": [
+      "CEN0088",
+      "TEL0014"
+    ]
+  },
+  {
+    "cod": "CEN0090",
+    "nome": "LITERATURA DRAMATICA 3",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0091",
+      "CEN0166",
+      "CEN0317"
+    ],
+    "pre_requirements": [
+      "CEN0089"
+    ]
+  },
+  {
+    "cod": "CEN0091",
+    "nome": "LITERATURA DRAMATICA 4",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0166",
+      "CEN0318"
+    ],
+    "pre_requirements": [
+      "CEN0090",
+      "CEN0036"
+    ]
+  },
+  {
+    "cod": "CEN0124",
+    "nome": "MAQUIAGEM",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0340"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0118",
+    "nome": "MASCARA",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0337"
+    ],
+    "pre_requirements": [
+      "VIS0113"
+    ]
+  },
+  {
+    "cod": "CEN0081",
+    "nome": "METODOLOGIA DA ENCENACAO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0083",
+      "CEN0143",
+      "CEN0311"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0083",
+    "nome": "METODOLOGIA DA ENCENACAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0153",
+      "CEN0312"
+    ],
+    "pre_requirements": [
+      "CEN0081"
+    ]
+  },
+  {
+    "cod": "CEN0142",
+    "nome": "METODOLOGIA DA ENCENACAO E DIRECAO 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0143",
+    "nome": "METODOLOGIA DA ENCENACAO E DIRECAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0153",
+      "CEN0355"
+    ],
+    "pre_requirements": [
+      "CEN0142",
+      "CEN0081"
+    ]
+  },
+  {
+    "cod": "CEN0185",
+    "nome": "METODOLOGIA DE PESQUISA EM ARTES C\u00caNICAS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0002",
+      "CEN0220",
+      "CEN0245"
+    ],
+    "pre_requirements": [
+      "CEN0166 & CEN0169 & CEN0174 & CEN0175 & CEN0179 & CEN0184",
+      "CEN0099 & CEN0070 & CEN0087 & CEN0049 & CEN0078",
+      "CEN0031 & CEN0100",
+      "CEN0031 & CEN0097 & CEN0175",
+      "CEN0031 & CEN0176",
+      "CEN0031 & CEN0175"
+    ]
+  },
+  {
+    "cod": "CEN0191",
+    "nome": "METODOLOGIA DE PESQUISA EM ARTES C\u00caNICAS E EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0014",
+      "CEN0239",
+      "CEN0244"
+    ],
+    "pre_requirements": [
+      "CEN0025",
+      "CEN0189"
+    ]
+  },
+  {
+    "cod": "CEN0189",
+    "nome": "METODOLOGIA DO ENSINO DO TEATRO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0191",
+      "CEN0221"
+    ],
+    "pre_requirements": [
+      "CEN0165 & CEN0168 & CEN0178 & CEN0182",
+      "CEN0031 & CEN0038 & CEN0036",
+      "CEN0032 & CEN0038 & CEN0036"
+    ]
+  },
+  {
+    "cod": "CEN0190",
+    "nome": "METODOLOGIA DO ENSINO DO TEATRO 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0238"
+    ],
+    "pre_requirements": [
+      "CEN0189 & CEN0169 & CEN0173 & CEN0179 & CEN0183",
+      "CEN0095 & CEN0066 & CEN0135",
+      "CEN0095 & CEN0066 & MTC0006"
+    ]
+  },
+  {
+    "cod": "CEN0177",
+    "nome": "MOVIMENTO E LINGUAGEM 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0178",
+    "nome": "MOVIMENTO E LINGUAGEM 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0179",
+      "CEN0215"
+    ],
+    "pre_requirements": [
+      "CEN0038",
+      "CEN0068",
+      "CEN0177"
+    ]
+  },
+  {
+    "cod": "CEN0179",
+    "nome": "MOVIMENTO E LINGUAGEM 3",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0071",
+      "CEN0181",
+      "CEN0216"
+    ],
+    "pre_requirements": [
+      "CEN0178",
+      "CEN0066",
+      "CEN0069"
+    ]
+  },
+  {
+    "cod": "CEN0181",
+    "nome": "MOVIMENTO E LINGUAGEM 4",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0384"
+    ],
+    "pre_requirements": [
+      "CEN0179",
+      "CEN0067",
+      "CEN0071"
+    ]
+  },
+  {
+    "cod": "CEN0131",
+    "nome": "O CORPO TRAGICO",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0343"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0031",
+    "nome": "OFICINA BASICA DE ARTES CENICAS 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0032",
+      "CEN0036",
+      "CEN0052",
+      "CEN0095",
+      "CEN0139",
+      "CEN0166",
+      "CEN0172",
+      "CEN0184",
+      "CEN0281"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0032",
+    "nome": "OFICINA BASICA DE ARTES CENICAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0095",
+      "CEN0172",
+      "CEN0282"
+    ],
+    "pre_requirements": [
+      "CEN0031"
+    ]
+  },
+  {
+    "cod": "CEN0012",
+    "nome": "PEDAGOGIA DO TEATRO E DIVERSIDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0164",
+    "nome": "PO\u00c9TICAS TEATRAIS",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0011",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS E GEST\u00c3O EM ARTE EDUCA\u00c7\u00c3O",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0262",
+    "nome": "PRA\u0301TICA DOCENTE EM ARTE CONTEMPOR\u00c2NEA E CENA EXPANDIDA: A\u00c7\u00d5ES PERFORMATIVAS EM AMBIENTE ESCOLAR",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0175",
+    "nome": "PR\u00c1TICA DE MONTAGEM",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0236"
+    ],
+    "pre_requirements": [
+      "CEN0173",
+      "CEN0097"
+    ]
+  },
+  {
+    "cod": "CEN0029",
+    "nome": "PR\u00c1TICA DE MONTAGEM EM EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0279"
+    ],
+    "pre_requirements": [
+      "CEN0025"
+    ]
+  },
+  {
+    "cod": "CEN0015",
+    "nome": "PR\u00c1TICA DOCENTE EM CONTA\u00c7\u00c3O DE HIST\u00d3RIAS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0230"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0021",
+    "nome": "PR\u00c1TICA DOCENTE EM DAN\u00c7A",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0271"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0022",
+    "nome": "PR\u00c1TICA DOCENTE EM HIST\u00d3RIA DO TEATRO E LITERATURA DRAM\u00c1TICA",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0272"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0265",
+    "nome": "PR\u00c1TICA DOCENTE EM INTERDISCIPLINARIDADES E HIBRIDISMOS ART\u00cdSTICOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0016",
+    "nome": "PR\u00c1TICA DOCENTE EM JOGOS PARA A CENA",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0266"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0017",
+    "nome": "PR\u00c1TICA DOCENTE EM MANIFESTA\u00c7\u00d5ES C\u00caNICAS TRADICIONAIS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0267"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0020",
+    "nome": "PR\u00c1TICA DOCENTE EM PEDAGOGIA DO TEATRO PARA INCLUS\u00c3O ESCOLAR",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0270"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0018",
+    "nome": "PR\u00c1TICA DOCENTE EM RELA\u00c7\u00d5ES \u00c9TNICAS E DE G\u00caNERO",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0268"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0273",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DE FORMAS 1 \u2013 TEATRO DE M\u00c1SCARAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0023",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DE FORMAS ANIMADAS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0223"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0275",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DE FORMAS ANIMADAS 2 \u2013 TEATRO DE BONECOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0289",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DE FORMAS ANIMADAS 3 \u2013 TEATRO DE SOMBRAS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0296",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DE FORMAS ANIMADAS  4 \u2013 TEATRO DE OBJETOS",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0341",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DE FORMAS ANIMADAS 5 \u2013 TEATRO LAMBE-LAMBE",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0019",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO DO OPRIMIDO",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0269"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0024",
+    "nome": "PR\u00c1TICA DOCENTE EM TEATRO INFANTO-JUVENIL",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0274"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0126",
+    "nome": "PRODUCAO TEATRAL",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0225"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0064",
+    "nome": "PROJETO DE DIPLOMACAO EM ARTES CENICAS",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0301"
+    ],
+    "pre_requirements": [
+      "CEN0034 & CEN0083",
+      "CEN0146 & CEN0143",
+      "CEN0146 & CEN0183",
+      "CEN0034 & CEN0183"
+    ]
+  },
+  {
+    "cod": "CEN0153",
+    "nome": "PROJETO DE DIPLOMA\u00c7\u00c3O EM ARTES C\u00caNICAS",
+    "ch": 120,
+    "post_requirements": [
+      "CEN0359"
+    ],
+    "pre_requirements": [
+      "CEN0143",
+      "CEN0183",
+      "CEN0083",
+      "CEN0097 & CEN0101",
+      "CEN0174",
+      "CEN0042 & CEN0173",
+      "CEN0101 & CEN0173",
+      "CEN0042 & CEN0097"
+    ]
+  },
+  {
+    "cod": "CEN0129",
+    "nome": "PROJETO DE DIPLOMA\u00c7\u00c3O EM INTERPRETA\u00c7\u00c3O TEATRAL",
+    "ch": 180,
+    "post_requirements": [
+      "CEN0342"
+    ],
+    "pre_requirements": [
+      "CEN0100 & CEN0185",
+      "CEN0100 & CEN0106",
+      "CEN0100 & CEN0109",
+      "CEN0100 & CEN0055",
+      "CEN0100 & CEN0051",
+      "CEN0176 & CEN0185",
+      "CEN0176 & CEN0106",
+      "CEN0176 & CEN0109",
+      "CEN0176 & CEN0055",
+      "CEN0176 & CEN0051"
+    ]
+  },
+  {
+    "cod": "CEN0006",
+    "nome": "PROJETO EM INTERPRETA\u00c7\u00c3O TEATRAL",
+    "ch": 210,
+    "post_requirements": [
+      "CEN0005",
+      "CEN0201"
+    ],
+    "pre_requirements": [
+      "CEN0185 & CEN0176",
+      "CEN0100 & CEN0070"
+    ]
+  },
+  {
+    "cod": "CEN0051",
+    "nome": "SEMINARIO AVANCADO DE TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0294"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0196",
+    "nome": "SEMIN\u00c1RIO DE ARTE EDUCA\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0396"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0161",
+    "nome": "SEMIN\u00c1RIO EM ARTE EDUCA\u00c7\u00c3O PARA A INCLUS\u00c3O",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0366"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0059",
+    "nome": "SEMINARIO INTERDISCIPLINAR 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0299"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0060",
+    "nome": "SEMINARIO INTERDISCIPLINAR 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0300"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0115",
+    "nome": "SONOPLASTIA 1",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0335"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0117",
+    "nome": "SONOPLASTIA 2",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0336"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0166",
+    "nome": "TEATRALIDADES BRASILEIRAS",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0208"
+    ],
+    "pre_requirements": [
+      "CEN0165",
+      "CEN0049",
+      "CEN0090",
+      "CEN0091",
+      "CEN0031"
+    ]
+  },
+  {
+    "cod": "CEN0138",
+    "nome": "TEATRO BRASILEIRO",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0350"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0085",
+    "nome": "TEATRO BRASILEIRO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0313"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0087",
+    "nome": "TEATRO BRASILEIRO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0314"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0052",
+    "nome": "TECNICAS DE DANCA",
+    "ch": 90,
+    "post_requirements": [
+      "CEN0295"
+    ],
+    "pre_requirements": [
+      "CEN0031"
+    ]
+  },
+  {
+    "cod": "CEN0137",
+    "nome": "TECNICAS DE INTERPRETACAO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0141",
+      "CEN0174",
+      "CEN0349"
+    ],
+    "pre_requirements": [
+      "CEN0095"
+    ]
+  },
+  {
+    "cod": "CEN0141",
+    "nome": "TECNICAS DE INTERPRETACAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0200",
+      "CEN0353"
+    ],
+    "pre_requirements": [
+      "CEN0137"
+    ]
+  },
+  {
+    "cod": "CEN0139",
+    "nome": "TECNICAS DE SUPORTE CENICO 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0140",
+      "CEN0351"
+    ],
+    "pre_requirements": [
+      "CEN0031",
+      "VIS0063"
+    ]
+  },
+  {
+    "cod": "CEN0140",
+    "nome": "TECNICAS DE SUPORTE CENICO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0183",
+      "CEN0352"
+    ],
+    "pre_requirements": [
+      "CEN0139"
+    ]
+  },
+  {
+    "cod": "CEN0053",
+    "nome": "TECNICAS EXPERIMENTAIS DE ARTES CENICAS 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0205"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0055",
+    "nome": "TECNICAS EXPERIMENTAIS DE ARTES CENICAS 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0297"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0106",
+    "nome": "TEORIA DO TEATRO",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0330"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0165",
+    "nome": "TEORIAS E PROCESSOS CRIATIVOS PARA A CENA",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0166",
+      "CEN0233"
+    ],
+    "pre_requirements": [
+      "CEN0164",
+      "CEN0036",
+      "CEN0089"
+    ]
+  },
+  {
+    "cod": "CEN0002",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM INTEREPRETA\u00c7\u00c3O TEATRAL 1",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0004",
+      "CEN0226",
+      "CEN0246"
+    ],
+    "pre_requirements": [
+      "CEN0185",
+      "CEN0100 & CEN0070"
+    ]
+  },
+  {
+    "cod": "CEN0004",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM INTEREPRETA\u00c7\u00c3O TEATRAL 2",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0227"
+    ],
+    "pre_requirements": [
+      "CEN0002",
+      "CEN0186",
+      "CEN0245"
+    ]
+  },
+  {
+    "cod": "CEN0072",
+    "nome": "VOZ E DICCAO 1",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0076",
+      "CEN0078",
+      "CEN0308"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CEN0076",
+    "nome": "VOZ E DICCAO 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0168",
+      "CEN0309"
+    ],
+    "pre_requirements": [
+      "CEN0072"
+    ]
+  },
+  {
+    "cod": "CEN0078",
+    "nome": "VOZ E MOVIMENTO",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0168",
+      "CEN0310"
+    ],
+    "pre_requirements": [
+      "CEN0072"
+    ]
+  },
+  {
+    "cod": "CEN0169",
+    "nome": "VOZ E PALAVRA NA PERFORMANCE TEATRAL CONTEMPORANEA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0170",
+      "CEN0211"
+    ],
+    "pre_requirements": [
+      "CEN0168",
+      "CEN0134"
+    ]
+  },
+  {
+    "cod": "CEN0170",
+    "nome": "VOZ E PALAVRA NA PERFORMANCE TEATRAL CONTEMPORANEA 2",
+    "ch": 60,
+    "post_requirements": [
+      "CEN0374"
+    ],
+    "pre_requirements": [
+      "CEN0169"
+    ]
+  },
+  {
+    "cod": "CEN0156",
+    "nome": "VOZ NO TEATRO CLASSICO",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0362"
+    ],
+    "pre_requirements": [
+      "CEN0155",
+      "CEN0134"
+    ]
+  },
+  {
+    "cod": "CEN0157",
+    "nome": "VOZ NO TEATRO CONTEMPORANEO",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0363"
+    ],
+    "pre_requirements": [
+      "CEN0134 & CEN0076 & CEN0078"
+    ]
+  },
+  {
+    "cod": "CEN0155",
+    "nome": "VOZ NO TEATRO NOS SECULOS XVI A XVIII",
+    "ch": 30,
+    "post_requirements": [
+      "CEN0156",
+      "CEN0361"
+    ],
+    "pre_requirements": [
+      "CEN0078 & CEN0076",
+      "CEN0134"
+    ]
+  }
+]

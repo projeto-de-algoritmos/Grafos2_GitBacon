@@ -1,0 +1,3045 @@
+[
+  {
+    "cod": "FMD0124",
+    "nome": "ALERGIA E IMUNOLOGIA CLINICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0848"
+    ],
+    "pre_requirements": [
+      "FMD0397 & FMD0237 & FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0127",
+    "nome": "ANATOMIA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "para um conjunto de disciplinas ensinadas nas unidades: b\u00e1sica, pr\u00e9",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "15h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "45h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "60h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "60h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "60h",
+      "",
+      "Outros componentes que t\u00eam esse componente como equivalente",
+      "FAR0069",
+      "FMD0126",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "FMD0850"
+    ],
+    "pre_requirements": [
+      "FMD0500"
+    ]
+  },
+  {
+    "cod": "FMD0135",
+    "nome": "ANATOMIA DA CRIANCA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0743"
+    ],
+    "pre_requirements": [
+      "FMD0027"
+    ]
+  },
+  {
+    "cod": "FMD0132",
+    "nome": "ANATOMIA FUNCIONAL DA CRIANCA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0854"
+    ],
+    "pre_requirements": [
+      "CFS0007"
+    ]
+  },
+  {
+    "cod": "FMD0163",
+    "nome": "ANATOMIA FUNCIONAL DA CRIANCA - PRATICA",
+    "ch": 15,
+    "post_requirements": [
+      "FMD0867",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0161"
+    ],
+    "pre_requirements": [
+      "CFS0007"
+    ]
+  },
+  {
+    "cod": "FMD0161",
+    "nome": "ANATOMIA FUNCIONAL DA CRIANCA - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0866",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0163"
+    ],
+    "pre_requirements": [
+      "CFS0007"
+    ]
+  },
+  {
+    "cod": "FMD0091",
+    "nome": "ANATOMIA HUMANA",
+    "ch": 60,
+    "post_requirements": [
+      "para um conjunto de disciplinas ensinadas no ciclo b\u00e1sico, e nas diversas especialidades do curso de Educa\u00e7\u00e3o F\u00edsica. Vem assumindo um papel diferente no contexto curricular. O estudo da anatomia passa a ser aplicado, aos diversos procedimentos t\u00e9cnicos e \u00e0s rotinas di\u00e1rias no exerc\u00edcio do profissional de Educa\u00e7\u00e3o F\u00edsica, tanto na avalia\u00e7\u00e3o semi\u00f3tica quanto no aprendizado de um conhecimento especifico e detalhado em varias vertentes das especializa\u00e7\u00f5es profissionais. O ensino da anatomia busca agregar todas as fases da forma\u00e7\u00e3o acad\u00eamica do curso. O enfoque principal est\u00e1 centrando na forma\u00e7\u00e3o cientifica dos estudantes da Faculdade de Educa\u00e7\u00e3o F\u00edsica da Universidade de Bras\u00edlia. O projeto pedag\u00f3gico busca a forma\u00e7\u00e3o de habilidades e compet\u00eancias que possibilitem ao estudante ver alem da descri\u00e7\u00e3o dos aspectos morfol\u00f3gicos dos sistemas org\u00e2nicos, dando \u00eanfase aos aparelhos: locomotor, cardiorespirat\u00f3rio, sistemas nervoso e tegumentar, enfocando as aplica\u00e7\u00f5es concernentes \u00e0s praticas profissionais.A disciplina foi estruturada para ser um guia do discente com informa\u00e7\u00f5es anat\u00f4micas objetivas, atualizadas e concisas, contribuindo para a intera\u00e7\u00e3o dos dom\u00ednios cognitivos, afetivos e psicomotor do aprendiz.OBJETIVOS: Conhecer os m\u00e9todos de estudo de anatomia, os termos t\u00e9cnicos e os princ\u00edpios b\u00e1sicos de estrutura\u00e7\u00e3o corporal, que possibilitam a compreens\u00e3o do todo e das partes.Identificar os \u00f3rg\u00e3os dos sistemas corporais, e suas subdivis\u00f5es anat\u00f4micas.Reconhecer a import\u00e2ncia da din\u00e2mica dos aparelhos locomotores e cardiorespirat\u00f3rio e perceber a rela\u00e7\u00e3o destes com o estudo de anatomia de superf\u00edcie e a fisiologia dos \u00f3rg\u00e3os e sistemas. Discriminar e distinguir as estruturas anat\u00f4micas nos estudos pr\u00e1ticos.\"UM FREIO PARA UMA BOA DISCUSS\u00c3O \u00c9 A TEND\u00caNCIA DO PROFESSOR DE REVELAR AOS ESTUDANTES A RESPOSTA CORRETA OU APRESENTAR A SOLU\u00c7\u00c3O EM TEMAS ANTES DE OS ESTUDANDES TEREM DESENVOLVIDO UMA RESPOSTA COM SEU PR\u00d3PRIO ESFOR\u00c7O\".(Juan Diaz Bordenave",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "30h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "30h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "60h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "60h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "60h",
+      "",
+      "Outros componentes que t\u00eam esse componente como equivalente",
+      "FMD0087",
+      "FMD0088",
+      "FMD0089",
+      "FMD0090",
+      "FEF0409",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "FEF0143",
+      "FEF0151",
+      "FEF0204",
+      "FMD0697"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0496",
+    "nome": "ANATOMIA MEDICA",
+    "ch": 180,
+    "post_requirements": [
+      "para um conjunto de disciplinas ensinadas no ciclo b\u00e1sico, e nas clinicas do curso de Medicina. Vem assumindo um papel diferente no contexto curricular. O estudo da anatomia passa a ser aplicado, aos diversos procedimentos t\u00e9cnicos e \u00e0s rotinas m\u00e9dicas di\u00e1rias, tanto na avalia\u00e7\u00e3o semi\u00f3tica (exame f\u00edsico) quanto nos estudos de imagem (radiografias / tomografias / resson\u00e2ncias), assim como, no aprendizado de um conhecimento especifico e detalhado das especializa\u00e7\u00f5es m\u00e9dicas. O ensino da anatomia busca agregar todas as fases da forma\u00e7\u00e3o acad\u00eamica no curso do m\u00e9dico. O enfoque principal est\u00e1 entrando na forma\u00e7\u00e3o cientifica dos estudantes da Faculdade de Medicina da Universidade de Bras\u00edlia. O projeto pedag\u00f3gico busca a forma\u00e7\u00e3o de habilidades e compet\u00eancias que possibilitem ao estudante ver alem da descri\u00e7\u00e3o dos aspectos morfol\u00f3gicos dos sistemas org\u00e2nico \\(digest\u00f3rio, urin\u00e1rio, reprodutor, end\u00f3crino, cardiovascular, respirat\u00f3rio e locomotor, tegumentar, end\u00f3crino, nervoso e estesiologia), dando \u00eanfase \u00e0s aplica\u00e7\u00f5es concernentes \u00e0s praticas m\u00e9dicas. A disciplina foi estruturada para ser um guia do discente com informa\u00e7\u00f5es anat\u00f4micas objetivas, atualizadas e concisas, contribuindo para a intera\u00e7\u00e3o dos dom\u00ednios cognitivos, afetivos e psicomotor do aprendiz.Objetivos: Conhecer os m\u00e9todos de estudo de anatomia, os termos t\u00e9cnicos e os princ\u00edpios b\u00e1sicos de estrutura\u00e7\u00e3o corporal, que possibilitam a compreens\u00e3o do todo e das partes. Identificar os \u00f3rg\u00e3os dos sistemas corporais, e suas subdivis\u00f5es anat\u00f4micas.Reconhecer a import\u00e2ncia da din\u00e2mica dos aparelhos locomotores, cardiorespirat\u00f3rio, urogenital e digest\u00f3rio e perceber a rela\u00e7\u00e3o destes com o estudo de imagem, anatomia de superf\u00edcie e a fisiologia dos \u00f3rg\u00e3os e sistemas. Discriminar e distinguir as estruturas anat\u00f4micas nos estudos pr\u00e1ticos e de disseca\u00e7\u00e3o em cad\u00e1veres no laborat\u00f3rio anat\u00f4mico.\"um freio para uma boa discuss\u00e3o \u00e9 a tend\u00eancia do professor de revelar aos estudantes a resposta correta ou apresentar a solu\u00e7\u00e3o em temas antes de os estudandes terem desenvolvido uma resposta com seu pr\u00f3prio esfor\u00e7o\".(Juan Diaz Bordenave",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "60h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "120h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "180h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "180h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "180h",
+      "",
+      "Outros componentes que t\u00eam esse componente como equivalente",
+      "FMD0494",
+      "FMD0495",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "CFS0031",
+      "FAR0075",
+      "FMD0954"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0069",
+    "nome": "ANATOMIA TOPOGR\u00c1FICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0819"
+    ],
+    "pre_requirements": [
+      "FMD0013 & FMD0019 & FMD0496"
+    ]
+  },
+  {
+    "cod": "FMD0189",
+    "nome": "APARELHO CIRCULATORIO 1",
+    "ch": 135,
+    "post_requirements": [
+      "FMD0199",
+      "FMD0881"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0316",
+    "nome": "APARELHO CIRCULATORIO 1 - PRATICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0921",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0313"
+    ],
+    "pre_requirements": [
+      "FMD0152",
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0313",
+    "nome": "APARELHO CIRCULATORIO 1 - TEORIA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0920",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0316"
+    ],
+    "pre_requirements": [
+      "FMD0151"
+    ]
+  },
+  {
+    "cod": "FMD0191",
+    "nome": "APARELHO CIRCULATORIO 2",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0882"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0195",
+    "nome": "APARELHO DIGESTIVO 1",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0226",
+      "FMD0885"
+    ],
+    "pre_requirements": [
+      "FMD0178 & FMD0189"
+    ]
+  },
+  {
+    "cod": "FMD0336",
+    "nome": "APARELHO DIGESTIVO 1 - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0925",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0333"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0333",
+    "nome": "APARELHO DIGESTIVO 1 - TEORIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0924",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0336"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0198",
+    "nome": "APARELHO DIGESTIVO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0886"
+    ],
+    "pre_requirements": [
+      "FMD0397 & FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0181",
+    "nome": "APARELHO LOCOMOTOR 1",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0877"
+    ],
+    "pre_requirements": [
+      "FAR0051"
+    ]
+  },
+  {
+    "cod": "FMD0306",
+    "nome": "APARELHO LOCOMOTOR 1 - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0919",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0303"
+    ],
+    "pre_requirements": [
+      "FMD0150"
+    ]
+  },
+  {
+    "cod": "FMD0303",
+    "nome": "APARELHO LOCOMOTOR 1 - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0918",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0306"
+    ],
+    "pre_requirements": [
+      "FMD0148"
+    ]
+  },
+  {
+    "cod": "FMD0184",
+    "nome": "APARELHO LOCOMOTOR 2",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0878"
+    ],
+    "pre_requirements": [
+      "FMD0397 & FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0192",
+    "nome": "APARELHO RESPIRATORIO 1",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0883"
+    ],
+    "pre_requirements": [
+      "FAR0056"
+    ]
+  },
+  {
+    "cod": "FMD0326",
+    "nome": "APARELHO RESPIRATORIO 1 - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0923",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0323"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0323",
+    "nome": "APARELHO RESPIRATORIO 1 - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0922",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0326"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0194",
+    "nome": "APARELHO RESPIRATORIO 2",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0744"
+    ],
+    "pre_requirements": [
+      "FMD0240",
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0199",
+    "nome": "APARELHO URINARIO",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0887"
+    ],
+    "pre_requirements": [
+      "FMD0189"
+    ]
+  },
+  {
+    "cod": "FMD0342",
+    "nome": "APARELHO URINARIO - PRATICA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0927",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0339"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0339",
+    "nome": "APARELHO URINARIO - TEORIA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0926",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0342"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0065",
+    "nome": "APRENDIZAGEM BASEADA EM SIMULA\u00c7\u00c3O PARA MEDICINA E ENFERMAGEM",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0815"
+    ],
+    "pre_requirements": [
+      "FMD0244",
+      "FMD0020",
+      "ENF0067"
+    ]
+  },
+  {
+    "cod": "FMD0078",
+    "nome": "ASSUNTOS B\u00c1SICOS EM NEUROANATOMIA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0448",
+    "nome": "ATENCAO INTEGRAL AS DOENCAS PREVALENTES NA INFANCIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0945"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0037",
+    "nome": "ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0556",
+    "nome": "AVALIACAO E CONTROLE DO PACIENTE TRAUMATIZADO",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0972"
+    ],
+    "pre_requirements": [
+      "FMD0506 & FMD0188"
+    ]
+  },
+  {
+    "cod": "FMD0507",
+    "nome": "BASES DA ANESTESIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0754"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0506",
+    "nome": "BASES DA CIRURGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0393",
+      "FMD0410",
+      "FMD0420",
+      "FMD0958"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0226",
+    "nome": "BASES DA FISIOPATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0897"
+    ],
+    "pre_requirements": [
+      "FMD0195"
+    ]
+  },
+  {
+    "cod": "FMD0452",
+    "nome": "BASES DA ONCOLOGIA CLINICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0947"
+    ],
+    "pre_requirements": [
+      "FMD0240 & FMD0506"
+    ]
+  },
+  {
+    "cod": "FMD0185",
+    "nome": "BASES DA TECNICA CIRURGICA E DA ANESTESIA",
+    "ch": 180,
+    "post_requirements": [
+      "FMD0879"
+    ],
+    "pre_requirements": [
+      "FMD0237 & FMD0397"
+    ]
+  },
+  {
+    "cod": "FMD0581",
+    "nome": "BIOESTAT\u00cdSTICA APLICADA \u00c0 MEDICINA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0574",
+    "nome": "BIOLOGIA MOLECULAR DO DESENVOLVIMENTO NO CONTEXTO M\u00c9DICO",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0989"
+    ],
+    "pre_requirements": [
+      "FMD0027 & CEL0017 & GEM0005",
+      "CEL0089 & GEM0055 & GEM0043",
+      "GEM0063 & CEL0054 & FAR0124"
+    ]
+  },
+  {
+    "cod": "FMD0575",
+    "nome": "BIOLOGIA MOLECULAR DO DESENVOLVIMENTO NO CONTEXTO M\u00c9DICO",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0990"
+    ],
+    "pre_requirements": [
+      "FMD0027 & CEL0017 & GEM0005",
+      "CEL0089 & GEM0055 & GEM0043",
+      "GEM0063 & CEL0054 & FAR0124"
+    ]
+  },
+  {
+    "cod": "FMD0146",
+    "nome": "CITOLOGIA DO TRATO GENITAL FEMININO",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0859"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0188",
+    "nome": "CLINICA CIRURGICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0880"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0450",
+    "nome": "CLINICA CIRURGICA NA CRIANCA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0946"
+    ],
+    "pre_requirements": [
+      "FMD0402 & FMD0506"
+    ]
+  },
+  {
+    "cod": "FMD0423",
+    "nome": "CLINICA GINECO-OBSTETRICIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0939"
+    ],
+    "pre_requirements": [
+      "FMD0420 & FMD0410"
+    ]
+  },
+  {
+    "cod": "FMD0240",
+    "nome": "CLINICA MEDICA 1",
+    "ch": 240,
+    "post_requirements": [
+      "FMD0102",
+      "FMD0110",
+      "FMD0111",
+      "FMD0180",
+      "FMD0194",
+      "FMD0205",
+      "FMD0211",
+      "FMD0213",
+      "FMD0218",
+      "FMD0244",
+      "FMD0402",
+      "FMD0414",
+      "FMD0554",
+      "FMD0902"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0244",
+    "nome": "CL\u00cdNICA M\u00c9DICA 2",
+    "ch": 240,
+    "post_requirements": [
+      "FMD0065",
+      "FMD0513",
+      "FMD0553",
+      "FMD0903"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0407",
+    "nome": "CLINICA PEDIATRICA",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0934"
+    ],
+    "pre_requirements": [
+      "FMD0404"
+    ]
+  },
+  {
+    "cod": "FMD0562",
+    "nome": "CONTROLE DE INFEC\u00c7\u00c3O HOSPITALAR",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0977"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0211",
+    "nome": "DERMATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0892"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0247",
+    "nome": "DOENCAS INFECCIOSAS E PARASITARIAS",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0904"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0077",
+    "nome": "DOEN\u00c7AS INFECCIOSAS E PARASIT\u00c1RIAS 1",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0736"
+    ],
+    "pre_requirements": [
+      "FMD0044"
+    ]
+  },
+  {
+    "cod": "FMD0208",
+    "nome": "DOENCAS METABOLICAS",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0891"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0510",
+    "nome": "ELEMENTOS DE ANATOMIA",
+    "ch": 60,
+    "post_requirements": [
+      "PCL0072",
+      "ODT0025",
+      "FMD0700"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0167",
+    "nome": "ELEMENTOS DE ANATOMIA E FISIOLOGIA HUMANAS - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0869",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0165"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0165",
+    "nome": "ELEMENTOS DE ANATOMIA E FISIOLOGIA HUMANAS - TEORIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0868",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0167"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0568",
+    "nome": "EMERG\u00caNCIAS CL\u00cdNICAS",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0983"
+    ],
+    "pre_requirements": [
+      "FMD0100"
+    ]
+  },
+  {
+    "cod": "FMD0203",
+    "nome": "ENDOCRINOLOGIA 1",
+    "ch": 135,
+    "post_requirements": [
+      "FMD0889"
+    ],
+    "pre_requirements": [
+      "FMD0178"
+    ]
+  },
+  {
+    "cod": "FMD0348",
+    "nome": "ENDOCRINOLOGIA 1 - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0929",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0345"
+    ],
+    "pre_requirements": [
+      "FMD0296"
+    ]
+  },
+  {
+    "cod": "FMD0345",
+    "nome": "ENDOCRINOLOGIA 1 - TEORIA",
+    "ch": 75,
+    "post_requirements": [
+      "FMD0928",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0348"
+    ],
+    "pre_requirements": [
+      "FMD0293"
+    ]
+  },
+  {
+    "cod": "FMD0205",
+    "nome": "ENDOCRINOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0890"
+    ],
+    "pre_requirements": [
+      "FMD0240",
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0578",
+    "nome": "ENSINO DE MEDICINA",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0012",
+    "nome": "EPIDEMIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0709"
+    ],
+    "pre_requirements": [
+      "FMD0015"
+    ]
+  },
+  {
+    "cod": "FMD0570",
+    "nome": "EPIDEMIOLOGIA DOS ACIDENTES DE TR\u00c2NSITO",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0129",
+    "nome": "ESTAGIO 1 EM ANATOMIA PATOLOGICA",
+    "ch": 300,
+    "post_requirements": [
+      "FMD0852"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0108",
+    "nome": "ESTAGIO 1 EM ANESTESIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0840"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0104",
+    "nome": "ESTAGIO 1 EM HEMOTERAPIA",
+    "ch": 0,
+    "post_requirements": [
+      "FMD0838"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0106",
+    "nome": "ESTAGIO 1 EM LABORATORIO CLINICO",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0839"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0097",
+    "nome": "EST\u00c1GIO 1 EM PATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0086",
+      "FMD0739"
+    ],
+    "pre_requirements": [
+      "FMD0009 & FMD0007",
+      "FMD0066"
+    ]
+  },
+  {
+    "cod": "FMD0221",
+    "nome": "ESTAGIO 1 INICIACAO PESQUISA CLINICA",
+    "ch": 0,
+    "post_requirements": [
+      "FMD0895"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0130",
+    "nome": "ESTAGIO 2 EM ANATOMIA PATOLOGICA",
+    "ch": 300,
+    "post_requirements": [
+      "FMD0853"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0117",
+    "nome": "ESTAGIO 2 EM ANESTESIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0845"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0137",
+    "nome": "ESTAGIO 2 EM LABORATORIO CLINICO",
+    "ch": 180,
+    "post_requirements": [
+      "FMD0857"
+    ],
+    "pre_requirements": [
+      "CEL0025 & CEL0050"
+    ]
+  },
+  {
+    "cod": "FMD0086",
+    "nome": "EST\u00c1GIO 2 EM PATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0738"
+    ],
+    "pre_requirements": [
+      "FMD0097"
+    ]
+  },
+  {
+    "cod": "FMD0119",
+    "nome": "ESTAGIO 2 EM RADIOLOGIA",
+    "ch": 0,
+    "post_requirements": [
+      "FMD0846"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0229",
+    "nome": "ESTAGIO CLINICA MEDICINA ESPECIALIZADA",
+    "ch": 0,
+    "post_requirements": [
+      "FMD0898"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0458",
+    "nome": "ESTAGIO DE INTERNATO 1 EM MEDICINA GERAL",
+    "ch": 900,
+    "post_requirements": [
+      "FMD0949"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0270",
+    "nome": "ESTAGIO DE INTERNATO 2 EM MEDICIMA GERAL",
+    "ch": 900,
+    "post_requirements": [
+      "FMD0909"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0115",
+    "nome": "ESTAGIO EM BIOMEDICINA",
+    "ch": 180,
+    "post_requirements": [
+      "FMD0844"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0263",
+    "nome": "EST\u00c1GIO EM CL\u00cdNICA CIR\u00daRGICA",
+    "ch": 600,
+    "post_requirements": [
+      "FMD0907"
+    ],
+    "pre_requirements": [
+      "FMD0539 & FMD0543 & FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0277",
+    "nome": "EST\u00c1GIO EM CL\u00cdNICA M\u00c9DICA",
+    "ch": 600,
+    "post_requirements": [
+      "FMD0910"
+    ],
+    "pre_requirements": [
+      "FMD0539 & FMD0543 & FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0441",
+    "nome": "EST\u00c1GIO EM GINECOLOGIA E OBSTETR\u00cdCIA",
+    "ch": 600,
+    "post_requirements": [
+      "FMD0942"
+    ],
+    "pre_requirements": [
+      "FMD0539 & FMD0543 & FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0138",
+    "nome": "ESTAGIO EM LABORATORIO DE PARASITOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0858"
+    ],
+    "pre_requirements": [
+      "FMD0071",
+      "CEL0096",
+      "GEM0041",
+      "FMD0512"
+    ]
+  },
+  {
+    "cod": "FMD0085",
+    "nome": "EST\u00c1GIO EM MEDICINA SOCIAL",
+    "ch": 600,
+    "post_requirements": [
+      "FMD0830"
+    ],
+    "pre_requirements": [
+      "FMD0539 & FMD0543 & FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0001",
+    "nome": "EST\u00c1GIO EM PARASITOLOGIA M\u00c9DICA",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0432",
+    "nome": "EST\u00c1GIO EM PEDIATRIA",
+    "ch": 600,
+    "post_requirements": [
+      "FMD0941"
+    ],
+    "pre_requirements": [
+      "FMD0539 & FMD0543 & FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0250",
+    "nome": "ESTAGIO INTERNATO 1 CLINICA MEDICA",
+    "ch": 0,
+    "post_requirements": [
+      "FMD0905"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0253",
+    "nome": "ESTAGIO INTERNATO 2 CLINICA MEDICA",
+    "ch": 0,
+    "post_requirements": [
+      "FMD0906"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0173",
+    "nome": "ESTRUTURA E FUNCAO ESTOMATOLOGICAS - PRATICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0871",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0171"
+    ],
+    "pre_requirements": [
+      "FMD0167 & ICB0143",
+      "FMD0510 & CFS0037 & ICB0143"
+    ]
+  },
+  {
+    "cod": "FMD0171",
+    "nome": "ESTRUTURA E FUNCAO ESTOMATOLOGICAS - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0870",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0173"
+    ],
+    "pre_requirements": [
+      "FMD0165 & ICB0143",
+      "FMD0510 & CFS0037 & ICB0143"
+    ]
+  },
+  {
+    "cod": "FMD0073",
+    "nome": "FARMACOLOGIA MEDICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0735"
+    ],
+    "pre_requirements": [
+      "FMD0027  &  CEL0017  &  GEM0005"
+    ]
+  },
+  {
+    "cod": "FMD0005",
+    "nome": "FILOSOFIA DA MEDICINA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0762"
+    ],
+    "pre_requirements": [
+      "FMD0240 & FMD0244"
+    ]
+  },
+  {
+    "cod": "FMD0497",
+    "nome": "FISIOLOGIA HUMANA 1",
+    "ch": 180,
+    "post_requirements": [
+      "CFS0032",
+      "FMD0505",
+      "FMD0955"
+    ],
+    "pre_requirements": [
+      "CEL0063 & FMD0496",
+      "CEL0082 & CEL0083 & FMD0496"
+    ]
+  },
+  {
+    "cod": "FMD0283",
+    "nome": "FISIOLOGIA HUMANA 1 - PRATICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0913",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0281"
+    ],
+    "pre_requirements": [
+      "CEL0063"
+    ]
+  },
+  {
+    "cod": "FMD0281",
+    "nome": "FISIOLOGIA HUMANA 1 - TEORIA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0912",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0283"
+    ],
+    "pre_requirements": [
+      "CEL0063"
+    ]
+  },
+  {
+    "cod": "FMD0509",
+    "nome": "FISIOLOGIA MEDICA 1",
+    "ch": 120,
+    "post_requirements": [
+      "CFS0032",
+      "FMD0960"
+    ],
+    "pre_requirements": [
+      "CEL0063 & FMD0496",
+      "CEL0082 & CEL0083 & FMD0496"
+    ]
+  },
+  {
+    "cod": "FMD0505",
+    "nome": "FISIOLOGIA MEDICA 2",
+    "ch": 135,
+    "post_requirements": [
+      "FMD0177",
+      "FMD0572",
+      "ENF0094",
+      "FMD0957"
+    ],
+    "pre_requirements": [
+      "FMD0497"
+    ]
+  },
+  {
+    "cod": "FMD0552",
+    "nome": "FUNDAMENTOS DE NEUROLOGIA PEDIATRICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0969"
+    ],
+    "pre_requirements": [
+      "FMD0240 & FMD0402"
+    ]
+  },
+  {
+    "cod": "FMD0445",
+    "nome": "FUNDAMENTOS DE PSICOPATOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "PCL0027",
+      "FMD0425",
+      "FMD0943"
+    ],
+    "pre_requirements": [
+      "FMD0447"
+    ]
+  },
+  {
+    "cod": "FMD0074",
+    "nome": "FUNDAMENTOS EM PSICOFARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0823"
+    ],
+    "pre_requirements": [
+      "FMD0281 & FAR0032",
+      "CFS0010 & CFS0011",
+      "FAR0032 & CFS0031"
+    ]
+  },
+  {
+    "cod": "FMD0286",
+    "nome": "GENETICA CLINICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0915"
+    ],
+    "pre_requirements": [
+      "FMD0237",
+      "FMD0044"
+    ]
+  },
+  {
+    "cod": "FMD0554",
+    "nome": "GERIATRIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0971"
+    ],
+    "pre_requirements": [
+      "FMD0240",
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0420",
+    "nome": "GINECOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0751"
+    ],
+    "pre_requirements": [
+      "FMD0506"
+    ]
+  },
+  {
+    "cod": "FMD0159",
+    "nome": "HEMATOLOGIA 1 - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0865",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0157"
+    ],
+    "pre_requirements": [
+      "FAR0031"
+    ]
+  },
+  {
+    "cod": "FMD0157",
+    "nome": "HEMATOLOGIA 1 - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0864",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0159"
+    ],
+    "pre_requirements": [
+      "FAR0031"
+    ]
+  },
+  {
+    "cod": "FMD0102",
+    "nome": "HEMATOLOGIA 2",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0740"
+    ],
+    "pre_requirements": [
+      "FMD0240",
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0512",
+    "nome": "HISTOLOGIA MEDICA",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0071",
+      "FMD0093",
+      "FMD0095",
+      "FMD0138",
+      "FMD0962"
+    ],
+    "pre_requirements": [
+      "CEL0035 & FMD0496 & CEL0063",
+      "CEL0035 & FMD0496 & CEL0082 & CEL0083"
+    ]
+  },
+  {
+    "cod": "FMD0492",
+    "nome": "HISTORIA DA MEDICINA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0753"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0110",
+    "nome": "IMAGINOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0123",
+      "FMD0741"
+    ],
+    "pre_requirements": [
+      "FMD0240",
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0123",
+    "nome": "IMAGINOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0847"
+    ],
+    "pre_requirements": [
+      "FMD0110"
+    ]
+  },
+  {
+    "cod": "FMD0062",
+    "nome": "IMUNIZA\u00c7\u00c3O NA PR\u00c1TICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0063",
+    "nome": "IMUNODIAGN\u00d3STICO NA PR\u00c1TICA CL\u00cdNICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0813"
+    ],
+    "pre_requirements": [
+      "FMD0136"
+    ]
+  },
+  {
+    "cod": "FMD0136",
+    "nome": "IMUNOLOGIA M\u00c9DICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0063",
+      "FMD0699"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0284",
+    "nome": "INFORMATICA EM CIENCIAS DA SAUDE",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0914"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0577",
+    "nome": "INTERNATO ELETIVO",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0992"
+    ],
+    "pre_requirements": [
+      "FMD0046 & FMD0053 & FMD0048 & FMD0051"
+    ]
+  },
+  {
+    "cod": "FMD0551",
+    "nome": "INTERNATO EM CL\u00cdNICA CIRURGICA",
+    "ch": 450,
+    "post_requirements": [
+      "FMD0968",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0547"
+    ],
+    "pre_requirements": [
+      "FMD0111 & FMD0213 & FMD0218 & FMD0393 & DSC0026 & FMD0493"
+    ]
+  },
+  {
+    "cod": "FMD0268",
+    "nome": "INTERNATO EM CLINICA GERAL",
+    "ch": 225,
+    "post_requirements": [
+      "FMD0908"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0539",
+    "nome": "INTERNATO EM CL\u00cdNICA GINECO-OBSTETRICIA",
+    "ch": 450,
+    "post_requirements": [
+      "FMD0965",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0543"
+    ],
+    "pre_requirements": [
+      "FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0547",
+    "nome": "INTERNATO EM CL\u00cdNICA M\u00c9DICA",
+    "ch": 450,
+    "post_requirements": [
+      "FMD0967",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0551"
+    ],
+    "pre_requirements": [
+      "FMD0111 & FMD0213 & FMD0218 & FMD0393 & DSC0026 & FMD0493"
+    ]
+  },
+  {
+    "cod": "FMD0561",
+    "nome": "INTERNATO EM MEDICINA SOCIAL",
+    "ch": 300,
+    "post_requirements": [
+      "FMD0976"
+    ],
+    "pre_requirements": [
+      "FMD0539 & FMD0543"
+    ]
+  },
+  {
+    "cod": "FMD0128",
+    "nome": "INTERNATO EM PATOLOGIA",
+    "ch": 300,
+    "post_requirements": [
+      "FMD0851"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0543",
+    "nome": "INTERNATO EM PEDIATRIA",
+    "ch": 450,
+    "post_requirements": [
+      "FMD0966",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0539"
+    ],
+    "pre_requirements": [
+      "FMD0547 & FMD0551"
+    ]
+  },
+  {
+    "cod": "FMD0054",
+    "nome": "INTERNATO - EST\u00c1GIO ELETIVO",
+    "ch": 150,
+    "post_requirements": [
+      "FMD0805"
+    ],
+    "pre_requirements": [
+      "FMD0030 & FMD0035 & FMD0041 & FMD0031 & FMD0043 & FMD0046 & FMD0053 & FMD0048 & FMD0051"
+    ]
+  },
+  {
+    "cod": "FMD0046",
+    "nome": "INTERNATO  - SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE - PEDIATRIA",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0704"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0048",
+    "nome": "INTERNATO  - SA\u00daDE DA MULHER GINECOLOGIA E OBSTETR\u00cdCIA",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0705"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0031",
+    "nome": "INTERNATO  - SA\u00daDE DO ADULTO CIRURGIA",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0720"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0035",
+    "nome": "INTERNATO  - SA\u00daDE DO ADULTO - CL\u00cdNICA M\u00c9DICA",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0722"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0030",
+    "nome": "INTERNATO - SA\u00daDE INTEGRAL 1",
+    "ch": 960,
+    "post_requirements": [
+      "FMD0031",
+      "FMD0035",
+      "FMD0041",
+      "FMD0043",
+      "FMD0046",
+      "FMD0048",
+      "FMD0051",
+      "FMD0053",
+      "FMD0719"
+    ],
+    "pre_requirements": [
+      "FMD0017 & FMD0018 & FMD0021 & FMD0024 & FMD0026 & FMD0052 & FMD0056"
+    ]
+  },
+  {
+    "cod": "FMD0042",
+    "nome": "INTERNATO - SA\u00daDE INTEGRAL 2",
+    "ch": 780,
+    "post_requirements": [
+      "FMD0793"
+    ],
+    "pre_requirements": [
+      "FMD0030 & FMD0035 & FMD0041 & FMD0031 & FMD0043 & FMD0046 & FMD0053 & FMD0048 & FMD0051"
+    ]
+  },
+  {
+    "cod": "FMD0576",
+    "nome": "INTERNATO - SA\u00daDE INTEGRAL 2",
+    "ch": 600,
+    "post_requirements": [
+      "FMD0991"
+    ],
+    "pre_requirements": [
+      "FMD0046 & FMD0053 & FMD0048 & FMD0051"
+    ]
+  },
+  {
+    "cod": "FMD0045",
+    "nome": "INTERNATO - SA\u00daDE RURAL",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0796"
+    ],
+    "pre_requirements": [
+      "FMD0030 & FMD0035 & FMD0041 & FMD0031 & FMD0043 & FMD0046 & FMD0053 & FMD0048 & FMD0051"
+    ]
+  },
+  {
+    "cod": "FMD0041",
+    "nome": "INTERNATO URG\u00caNCIA E EMERG\u00caNCIA 1-CL\u00cdNICA M\u00c9DICA",
+    "ch": 150,
+    "post_requirements": [
+      "FMD0725"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0043",
+    "nome": "INTERNATO  - URG\u00caNCIA E EMERG\u00caNCIA 2  - CIRURGIA",
+    "ch": 150,
+    "post_requirements": [
+      "FMD0726"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0053",
+    "nome": "INTERNATO  - URG\u00caNCIA E EMERG\u00caNCIA 3  - PEDIATRIA",
+    "ch": 150,
+    "post_requirements": [
+      "FMD0707"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0051",
+    "nome": "INTERNATO  - URG\u00caNCIA E EMERG\u00caNCIA 4- GINECOLOGIA E OBSTETR\u00cdCIA",
+    "ch": 150,
+    "post_requirements": [
+      "FMD0706"
+    ],
+    "pre_requirements": [
+      "FMD0030"
+    ]
+  },
+  {
+    "cod": "FMD0150",
+    "nome": "INTRODUCAO A ANATOMIA E EMBRIOLOGIA HUMANAS - PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0296",
+      "FMD0306",
+      "FMD0861",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0148"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0148",
+    "nome": "INTRODUCAO A ANATOMIA E EMBRIOLOGIA HUMANAS - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0293",
+      "FMD0303",
+      "FMD0860",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0150"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0454",
+    "nome": "INTRODUCAO A HOMEOPATIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0948"
+    ],
+    "pre_requirements": [
+      "FMD0151 & FMD0152",
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0491",
+    "nome": "INTRODUCAO A MEDICINA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0952"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0513",
+    "nome": "INTRODUCAO A PNEUMOLOGIA SANITARIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0963"
+    ],
+    "pre_requirements": [
+      "FMD0244",
+      "FMD0020"
+    ]
+  },
+  {
+    "cod": "FMD0569",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 PSIQUIATRIA SOCIAL",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0984"
+    ],
+    "pre_requirements": [
+      "FMD0425"
+    ]
+  },
+  {
+    "cod": "FMD0080",
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 SAUDE DO ADOLESCENTE",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0559",
+    "nome": "MALFORMA\u00c7\u00d5ES CONG\u00caNITAS",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0975"
+    ],
+    "pre_requirements": [
+      "FMD0512 & FAR0075",
+      "FMD0013 & FMD0019"
+    ]
+  },
+  {
+    "cod": "FMD0018",
+    "nome": "MEDICINA LEGAL E DEONTOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0712"
+    ],
+    "pre_requirements": [
+      "FMD0020"
+    ]
+  },
+  {
+    "cod": "FMD0111",
+    "nome": "MEDICINA LEGAL E DEONTOLOGIA M\u00c9DICA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0742"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0553",
+    "nome": "MEDICINA NUCLEAR",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0970"
+    ],
+    "pre_requirements": [
+      "FMD0244"
+    ]
+  },
+  {
+    "cod": "FMD0580",
+    "nome": "MEDITA\u00c7\u00c3O: TEORIA E PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0995"
+    ],
+    "pre_requirements": [
+      "FMD0044",
+      "FMD0050"
+    ]
+  },
+  {
+    "cod": "FMD0564",
+    "nome": "METODOLOGIA PESQ EM PERINAT CRESCIMENTO NEURODESENVOLVIMENTO 1",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0565",
+    "nome": "METODOLOGIA PESQ EM PERINAT CRESCIMENTO NEURODESENVOLVIMENTO 2",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0235",
+    "nome": "METODOS EM TERAPEUTICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0900"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0232",
+    "nome": "METODOS ESPECIAIS DE DIAGNOSTICO",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0899"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0125",
+    "nome": "METODOS EXPERIMENTAIS PARASITOLOGICOS",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0849"
+    ],
+    "pre_requirements": [
+      "FMD0071"
+    ]
+  },
+  {
+    "cod": "FMD0114",
+    "nome": "MODELOS EXPERIMENTAIS EM PATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0843"
+    ],
+    "pre_requirements": [
+      "FMD0007 & FMD0009",
+      "FMD0067 & FMD0066"
+    ]
+  },
+  {
+    "cod": "FMD0013",
+    "nome": "MORFOFUNCIONAL 1",
+    "ch": 150,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0019",
+    "nome": "MORFOFUNCIONAL 2",
+    "ch": 330,
+    "post_requirements": [
+      "FMD0034",
+      "FMD0066",
+      "FMD0067",
+      "FMD0679",
+      "CFS0086"
+    ],
+    "pre_requirements": [
+      "FMD0013 & CEL0089",
+      "FMD0496 & FAR0075 & FMD0512 & CFS0031 & FMD0509 & FMD0505 & CEL0035"
+    ]
+  },
+  {
+    "cod": "FMD0027",
+    "nome": "MORFOFUNCIONAL 3",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0135",
+      "FMD0682"
+    ],
+    "pre_requirements": [
+      "FMD0019 & CEL0089",
+      "FMD0496 & FAR0075 & FMD0512 & CFS0031 & FMD0509 & FMD0505 & CEL0035"
+    ]
+  },
+  {
+    "cod": "FMD0202",
+    "nome": "NEFROLOGIA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0888"
+    ],
+    "pre_requirements": [
+      "FMD0237"
+    ]
+  },
+  {
+    "cod": "FMD0414",
+    "nome": "NEONATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0076",
+      "FMD0750"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0500",
+    "nome": "NEUROANATOMIA M\u00c9DICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0127",
+      "FMD0956"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0279",
+    "nome": "NEUROCIRURGIA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0911"
+    ],
+    "pre_requirements": [
+      "FMD0188 & FMD0506"
+    ]
+  },
+  {
+    "cod": "FMD0178",
+    "nome": "NEUROLOGIA 1",
+    "ch": 135,
+    "post_requirements": [
+      "FMD0203",
+      "FMD0875"
+    ],
+    "pre_requirements": [
+      "FAR0051"
+    ]
+  },
+  {
+    "cod": "FMD0296",
+    "nome": "NEUROLOGIA 1 - PRATICA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0348",
+      "FMD0917",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0293"
+    ],
+    "pre_requirements": [
+      "FMD0150"
+    ]
+  },
+  {
+    "cod": "FMD0293",
+    "nome": "NEUROLOGIA 1 - TEORIA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0345",
+      "FMD0916",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0296"
+    ],
+    "pre_requirements": [
+      "FMD0148"
+    ]
+  },
+  {
+    "cod": "FMD0180",
+    "nome": "NEUROLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0876"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0410",
+    "nome": "OBSTETRICIA",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0749"
+    ],
+    "pre_requirements": [
+      "FMD0506"
+    ]
+  },
+  {
+    "cod": "FMD0213",
+    "nome": "OFTALMOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0745"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0567",
+    "nome": "ONCOLOGIA GINECOLOGICA",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0002",
+    "nome": "ONCOLOGIA MOLECULAR",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0760"
+    ],
+    "pre_requirements": [
+      "FMD0093 & CEL0082",
+      "FAR0124 & FAR0174",
+      "GEM0005 & FMD0067",
+      "CEL0054 & FAR0124 & FAR0174",
+      "CEL0082 & FMD0095",
+      "CEL0067 & GEM0024 & FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0218",
+    "nome": "OTORRINOLARINGOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0746"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0071",
+    "nome": "PARASITOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0125",
+      "FMD0138",
+      "FMD0696"
+    ],
+    "pre_requirements": [
+      "GEM0022",
+      "GEM0023",
+      "ICB0143",
+      "GEM0041",
+      "FMD0512",
+      "GEM0054",
+      "GEM0062"
+    ]
+  },
+  {
+    "cod": "FMD0557",
+    "nome": "PARASITOLOGIA BASICA",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0034",
+    "nome": "PARASITOLOGIA M\u00c9DICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0683"
+    ],
+    "pre_requirements": [
+      "FMD0019"
+    ]
+  },
+  {
+    "cod": "FMD0095",
+    "nome": "PATOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "DAN0065",
+      "DAN0066",
+      "DAN0068",
+      "DAN0070",
+      "DAN0072",
+      "DAN0074",
+      "DAN0076",
+      "DAN0080",
+      "DAN0082",
+      "DAN0084",
+      "DAN0086",
+      "DAN0088",
+      "FMD0106",
+      "FMD0146",
+      "FMD0189",
+      "FMD0223",
+      "FMD0235",
+      "FMD0316",
+      "DSC0020",
+      "FMD0454",
+      "ENF0034",
+      "FAR0131",
+      "FMD0562",
+      "FMD0698"
+    ],
+    "pre_requirements": [
+      "ICB0143",
+      "GEM0022",
+      "GEM0041",
+      "GEM0042",
+      "FMD0512",
+      "GEM0054",
+      "GEM0062"
+    ]
+  },
+  {
+    "cod": "FMD0152",
+    "nome": "PATOLOGIA GERAL- PRATICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0316",
+      "FMD0863",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0151"
+    ],
+    "pre_requirements": [
+      "ICB0143",
+      "GEM0022"
+    ]
+  },
+  {
+    "cod": "FMD0151",
+    "nome": "PATOLOGIA GERAL- TEORIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0313",
+      "FMD0862",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0152"
+    ],
+    "pre_requirements": [
+      "ICB0143",
+      "GEM0022"
+    ]
+  },
+  {
+    "cod": "FMD0514",
+    "nome": "PATOLOGIA ORAL",
+    "ch": 60,
+    "post_requirements": [
+      "ODT0071",
+      "FMD0964"
+    ],
+    "pre_requirements": [
+      "FMD0151 & ODT0020",
+      "FMD0095 & ODT0020"
+    ]
+  },
+  {
+    "cod": "FMD0175",
+    "nome": "PATOLOGIA ORAL-PRATICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0873",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0174"
+    ],
+    "pre_requirements": [
+      "CEL0025 & CEL0050 & FMD0152",
+      "CEL0025 & CEL0050 & FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0174",
+    "nome": "PATOLOGIA ORAL- TEORIA",
+    "ch": 45,
+    "post_requirements": [
+      "FMD0872",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0175"
+    ],
+    "pre_requirements": [
+      "CEL0025 & CEL0050 & FMD0151",
+      "CEL0025 & CEL0050 & FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0100",
+    "nome": "PATOLOGIA SISTEMICA",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0004",
+      "FMD0023",
+      "FMD0032",
+      "FMD0568",
+      "FMD0836"
+    ],
+    "pre_requirements": [
+      "FMD0007 & FMD0009"
+    ]
+  },
+  {
+    "cod": "FMD0070",
+    "nome": "PATOLOGIA SIST\u00caMICA 1",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0023",
+      "FMD0734"
+    ],
+    "pre_requirements": [
+      "FMD0067 & FMD0066"
+    ]
+  },
+  {
+    "cod": "FMD0023",
+    "nome": "PATOLOGIA SIST\u00caMICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0047",
+      "FMD0715",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0020"
+    ],
+    "pre_requirements": [
+      "FMD0100",
+      "FMD0070"
+    ]
+  },
+  {
+    "cod": "FMD0047",
+    "nome": "PATOLOGIA SIST\u00caMICA 3",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0727",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0029"
+    ],
+    "pre_requirements": [
+      "FMD0023"
+    ]
+  },
+  {
+    "cod": "FMD0404",
+    "nome": "PEDIATRIA 2",
+    "ch": 135,
+    "post_requirements": [
+      "FMD0407",
+      "FMD0933"
+    ],
+    "pre_requirements": [
+      "FMD0402"
+    ]
+  },
+  {
+    "cod": "FMD0469",
+    "nome": "PEDIATRIA 2 - PRATICA",
+    "ch": 105,
+    "post_requirements": [
+      "FMD0951",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0466"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0466",
+    "nome": "PEDIATRIA 2 - TEORIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0950",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0469"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0675",
+    "nome": "PEDIATRIA CLINICA E CIRURGICA",
+    "ch": 195,
+    "post_requirements": [
+      "FMD0758"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0402",
+    "nome": "PEDIATRIA : CRESCIMENTO E DESENVOLVIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0404",
+      "FMD0493",
+      "FMD0748"
+    ],
+    "pre_requirements": [
+      "FMD0240"
+    ]
+  },
+  {
+    "cod": "FMD0079",
+    "nome": "PESQUISA B\u00c1SICA DE INTERESSE M\u00c9DICO",
+    "ch": 90,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0075",
+    "nome": "PESQUISA EM PSICOFARMACOLOGIA",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0824"
+    ],
+    "pre_requirements": [
+      "FAR0032 & CFS0031",
+      "CFS0010",
+      "FAR0032 & FMD0497",
+      "CFS0041"
+    ]
+  },
+  {
+    "cod": "FMD0177",
+    "nome": "PRATICA DE ENSINO EM MEDICINA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0874"
+    ],
+    "pre_requirements": [
+      "FMD0505"
+    ]
+  },
+  {
+    "cod": "FMD0004",
+    "nome": "PR\u00c1TICAS DE ENSINO EM CITOPATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0761"
+    ],
+    "pre_requirements": [
+      "FMD0100"
+    ]
+  },
+  {
+    "cod": "FMD0573",
+    "nome": "PR\u00c1TICAS INTEGRATIVAS EM MEDICINA: FUNDAMENTOS DA HOMEOPATIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0756"
+    ],
+    "pre_requirements": [
+      "FMD0044"
+    ]
+  },
+  {
+    "cod": "FMD0566",
+    "nome": "PR\u00c9-INTERNATO MEDICINA",
+    "ch": 0,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0223",
+    "nome": "PRINCIPIOS DE MEDICINA EXPERIMENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0896"
+    ],
+    "pre_requirements": [
+      "FMD0095"
+    ]
+  },
+  {
+    "cod": "FMD0068",
+    "nome": "PRINC\u00cdPIOS DE VIROLOGIA HUMANA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0733"
+    ],
+    "pre_requirements": [
+      "CEL0035 & GEM0014 & CEL0050",
+      "CEL0111 & CEL0095",
+      "CEL0089 & CEL0079 & GEM0005"
+    ]
+  },
+  {
+    "cod": "FMD0093",
+    "nome": "PROCESSOS PATOL\u00d3GICOS GERAIS",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0833"
+    ],
+    "pre_requirements": [
+      "ICB0143",
+      "GEM0022",
+      "GEM0041",
+      "GEM0042",
+      "FMD0512",
+      "GEM0054"
+    ]
+  },
+  {
+    "cod": "FMD0009",
+    "nome": "PROCESSOS PATOL\u00d3GICOS GERAIS PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0764",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0007"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0007",
+    "nome": "PROCESSOS PATOL\u00d3GICOS GERAIS TE\u00d3RICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0763",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0009"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0066",
+    "nome": "PROCESSOS PATOL\u00d3GICOS PR\u00c1TICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0097",
+      "FMD0694",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0067"
+    ],
+    "pre_requirements": [
+      "FMD0019"
+    ]
+  },
+  {
+    "cod": "FMD0067",
+    "nome": "PROCESSOS PATOL\u00d3GICOS TE\u00d3RICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0695",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0066"
+    ],
+    "pre_requirements": [
+      "FMD0019"
+    ]
+  },
+  {
+    "cod": "FMD0447",
+    "nome": "PSICOLOGIA M\u00c9DICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0025",
+      "FMD0039",
+      "FMD0050",
+      "FMD0445",
+      "FMD0944"
+    ],
+    "pre_requirements": [
+      "FAR0075"
+    ]
+  },
+  {
+    "cod": "FMD0064",
+    "nome": "PSICOLOGIA M\u00c9DICA 1",
+    "ch": 30,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0025",
+    "nome": "PSICOLOGIA M\u00c9DICA 2",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0039",
+      "FMD0681"
+    ],
+    "pre_requirements": [
+      "FMD0064",
+      "FMD0447"
+    ]
+  },
+  {
+    "cod": "FMD0039",
+    "nome": "PSICOLOGIA M\u00c9DICA 3",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0050",
+      "FMD0686"
+    ],
+    "pre_requirements": [
+      "FMD0025",
+      "FMD0447"
+    ]
+  },
+  {
+    "cod": "FMD0050",
+    "nome": "PSICOLOGIA M\u00c9DICA 4",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0016",
+      "FMD0689",
+      "FMD0580"
+    ],
+    "pre_requirements": [
+      "FMD0039",
+      "FMD0447"
+    ]
+  },
+  {
+    "cod": "FMD0016",
+    "nome": "PSICOLOGIA M\u00c9DICA 5",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0040",
+      "FMD0678"
+    ],
+    "pre_requirements": [
+      "FMD0050"
+    ]
+  },
+  {
+    "cod": "FMD0040",
+    "nome": "PSICOLOGIA M\u00c9DICA 6",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0061",
+      "FMD0724"
+    ],
+    "pre_requirements": [
+      "FMD0016"
+    ]
+  },
+  {
+    "cod": "FMD0061",
+    "nome": "PSICOLOGIA M\u00c9DICA 7",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0026",
+      "FMD0731"
+    ],
+    "pre_requirements": [
+      "FMD0040"
+    ]
+  },
+  {
+    "cod": "FMD0026",
+    "nome": "PSICOLOGIA M\u00c9DICA 8",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0717"
+    ],
+    "pre_requirements": [
+      "FMD0061"
+    ]
+  },
+  {
+    "cod": "FMD0425",
+    "nome": "PSIQUIATRIA",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0569",
+      "FMD0752"
+    ],
+    "pre_requirements": [
+      "FMD0445"
+    ]
+  },
+  {
+    "cod": "FMD0397",
+    "nome": "RELACAO MEDICO-PACIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0417",
+      "FMD0931"
+    ],
+    "pre_requirements": [
+      "FMD0199 & FMD0195 & FMD0203"
+    ]
+  },
+  {
+    "cod": "FMD0014",
+    "nome": "SA\u00daDE, AMBIENTE E SOCIEDADE",
+    "ch": 60,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0032",
+    "nome": "SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE - PEDIATRIA 1",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0076",
+      "FMD0721"
+    ],
+    "pre_requirements": [
+      "FMD0020 & FMD0070",
+      "FMD0100"
+    ]
+  },
+  {
+    "cod": "FMD0052",
+    "nome": "SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE - PEDIATRIA 2",
+    "ch": 150,
+    "post_requirements": [
+      "FMD0728"
+    ],
+    "pre_requirements": [
+      "FMD0020 & FMD0032 & FMD0047"
+    ]
+  },
+  {
+    "cod": "FMD0049",
+    "nome": "SA\u00daDE DA FAMILIA E COMUNIDADE 1",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0015",
+      "FMD0688"
+    ],
+    "pre_requirements": [
+      "FMD0014 & FMD0022 & FMD0037",
+      "DSC0011 & FMD0022 & FMD0037",
+      "FMD0014 & FMD0022 & DSC0037",
+      "DSC0011 & FMD0022 & DSC0037"
+    ]
+  },
+  {
+    "cod": "FMD0015",
+    "nome": "SA\u00daDE DA FAM\u00cdLIA E COMUNIDADE 2",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0012",
+      "FMD0038",
+      "FMD0710"
+    ],
+    "pre_requirements": [
+      "FMD0049"
+    ]
+  },
+  {
+    "cod": "FMD0038",
+    "nome": "SA\u00daDE DA FAM\u00cdLIA E COMUNIDADE 3",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0057",
+      "FMD0685"
+    ],
+    "pre_requirements": [
+      "FMD0015"
+    ]
+  },
+  {
+    "cod": "FMD0057",
+    "nome": "SA\u00daDE DA FAM\u00cdLIA E COMUNIDADE 4",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0024",
+      "FMD0691"
+    ],
+    "pre_requirements": [
+      "FMD0038"
+    ]
+  },
+  {
+    "cod": "FMD0024",
+    "nome": "SA\u00daDE DA FAMILIA E COMUNIDADE 5",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0716"
+    ],
+    "pre_requirements": [
+      "FMD0057"
+    ]
+  },
+  {
+    "cod": "FMD0029",
+    "nome": "SA\u00daDE DA MULHER - GINECOLOGIA E OBSTETR\u00cdCIA",
+    "ch": 180,
+    "post_requirements": [
+      "FMD0718",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0047"
+    ],
+    "pre_requirements": [
+      "FMD0020 & FMD0058 & FMD0060"
+    ]
+  },
+  {
+    "cod": "FMD0058",
+    "nome": "SA\u00daDE DO ADULTO - CIRURGIA 1",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0692"
+    ],
+    "pre_requirements": [
+      "FMD0044 & FMD0100 & FMD0073",
+      "FMD0237 & FMD0073 & FMD0100",
+      "FMD0044 & FMD0070 & FAR0033",
+      "FMD0044 & FMD0070 & FMD0073"
+    ]
+  },
+  {
+    "cod": "FMD0017",
+    "nome": "SA\u00daDE DO ADULTO - CIRURGIA 2",
+    "ch": 90,
+    "post_requirements": [
+      "FMD0711"
+    ],
+    "pre_requirements": [
+      "FMD0058 & FMD0020 & FMD0047"
+    ]
+  },
+  {
+    "cod": "FMD0055",
+    "nome": "SA\u00daDE DO ADULTO - CL\u00cdNICA M\u00c9DICA 1",
+    "ch": 240,
+    "post_requirements": [
+      "FMD0020",
+      "FMD0060",
+      "FMD0102",
+      "FMD0110",
+      "FMD0194",
+      "FMD0205",
+      "FMD0554",
+      "FMD0690",
+      "FMD0579"
+    ],
+    "pre_requirements": [
+      "FMD0044 & FMD0100 & FMD0073",
+      "FMD0044 & FMD0100 & FAR0032",
+      "FMD0237 & FMD0073 & FMD0100",
+      "FMD0237 & FAR0032 & FMD0100",
+      "FMD0044 & FMD0070 & FMD0073",
+      "FMD0044 & FMD0070 & FAR0032"
+    ]
+  },
+  {
+    "cod": "FMD0020",
+    "nome": "SA\u00daDE DO ADULTO - CL\u00cdNICA M\u00c9DICA 2",
+    "ch": 180,
+    "post_requirements": [
+      "FMD0018",
+      "FMD0065",
+      "FMD0513",
+      "FMD0713",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como co",
+      "FMD0023"
+    ],
+    "pre_requirements": [
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0417",
+    "nome": "SAUDE MENTAL",
+    "ch": 120,
+    "post_requirements": [
+      "FMD0937"
+    ],
+    "pre_requirements": [
+      "FMD0397"
+    ]
+  },
+  {
+    "cod": "FMD0044",
+    "nome": "SEMIOLOGIA",
+    "ch": 240,
+    "post_requirements": [
+      "FMD0077",
+      "FMD0286",
+      "FMD0573",
+      "FMD0687",
+      "FMD0580"
+    ],
+    "pre_requirements": [
+      "FMD0027 & FMD0067 & FMD0066 & FMD0039 & FMD0037 & CEL0079 & FMD0136"
+    ]
+  },
+  {
+    "cod": "FMD0237",
+    "nome": "SEMIOTICA",
+    "ch": 300,
+    "post_requirements": [
+      "FMD0188",
+      "FMD0191",
+      "FMD0202",
+      "FMD0240",
+      "FMD0247",
+      "NUT0012",
+      "FMD0286",
+      "FMD0448",
+      "FMD0506",
+      "FMD0507",
+      "FMD0901"
+    ],
+    "pre_requirements": [
+      "FMD0095 & FMD0505"
+    ]
+  },
+  {
+    "cod": "FMD0022",
+    "nome": "SISTEMA \u00daNICO DE SA\u00daDE",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0680"
+    ],
+    "pre_requirements": [
+      "FMD0014"
+    ]
+  },
+  {
+    "cod": "FMD0571",
+    "nome": "T\u00d3PICOS EM MICROANATOMIA:TEGUMENTO, TECIDOS INTEGRADORES ESTR E FUN\u00c7\u00c3O",
+    "ch": 45,
+    "post_requirements": [],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FMD0076",
+    "nome": "T\u00d3PICOS ESPECIAIS EM NEONATOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0825"
+    ],
+    "pre_requirements": [
+      "FMD0414",
+      "FMD0032"
+    ]
+  },
+  {
+    "cod": "FMD0572",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PEDIATRIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0987"
+    ],
+    "pre_requirements": [
+      "FMD0505"
+    ]
+  },
+  {
+    "cod": "FMD0579",
+    "nome": "T\u00d3PICOS ESPECIAIS EM PSIQUIATRIA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0994"
+    ],
+    "pre_requirements": [
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0563",
+    "nome": "TOXICOLOGIA M\u00c9DICA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0978"
+    ],
+    "pre_requirements": [
+      "FAR0032"
+    ]
+  },
+  {
+    "cod": "FMD0558",
+    "nome": "TRABALHOS PR\u00c1TICOS DE EMBRIOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0974"
+    ],
+    "pre_requirements": [
+      "FMD0013",
+      "FAR0075"
+    ]
+  },
+  {
+    "cod": "FMD0393",
+    "nome": "TRAUMATOLOGIA E ORTOPEDIA",
+    "ch": 45,
+    "post_requirements": [
+      "s a aprova\u00e7\u00e3o nas disciplinas de 174041",
+      "",
+      "Cargas Hor\u00e1rias  Aula",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "15h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "30h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "45h",
+      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+      "0h",
+      "Carga Hor\u00e1ria de Aula Extensionista",
+      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
+      "0h",
+      "Subtotal de Carga Hor\u00e1ria de Aula",
+      "Subtotal do conjunto de cargas",
+      "0h",
+      "Total de Carga Hor\u00e1ria de Aula do Componente",
+      "Total do conjunto de cargas",
+      "45h",
+      "Total de Carga Hor\u00e1ria do Componente",
+      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
+      "45h",
+      "",
+      "Outros componentes que t\u00eam esse componente como equivalente",
+      "FMD0392",
+      "",
+      "",
+      "Outros componentes que t\u00eam esse componente como pr\u00e9",
+      "FMD0747"
+    ],
+    "pre_requirements": [
+      "FMD0506"
+    ]
+  },
+  {
+    "cod": "FMD0060",
+    "nome": "URG\u00caNCIA E EMERG\u00caNCIA 1 - CL\u00cdNICA M\u00c9DICA",
+    "ch": 60,
+    "post_requirements": [
+      "FMD0730"
+    ],
+    "pre_requirements": [
+      "FMD0055"
+    ]
+  },
+  {
+    "cod": "FMD0036",
+    "nome": "URG\u00caNCIA E EMERG\u00caNCIA 2 - GINECOLOGIA E OBSTETR\u00cdCIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0723"
+    ],
+    "pre_requirements": [
+      "FMD0058 & FMD0020 & FMD0060"
+    ]
+  },
+  {
+    "cod": "FMD0056",
+    "nome": "URG\u00caNCIA E EMERG\u00caNCIA 3 - PEDIATRIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0729"
+    ],
+    "pre_requirements": [
+      "FMD0020 & FMD0032 & FMD0047"
+    ]
+  },
+  {
+    "cod": "FMD0021",
+    "nome": "URG\u00caNCIA E EMERG\u00caNCIA 4 - CIRURGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FMD0714"
+    ],
+    "pre_requirements": [
+      "FMD0058 & FMD0020 & FMD0047"
+    ]
+  }
+]
