@@ -21,7 +21,8 @@ class Materia:
     nome: str
     ch: int
     post_requirements: List
-    post_requirements_query: str
+    pre_requirements: List
+    requirements_query: str
 
     def __init__(self, cod, nome, ch, component_id, requirements_post_data):
         self.cod = cod
@@ -34,10 +35,17 @@ class Materia:
         requirements_post_data['javax.faces.ViewState'] = 'j_id2'
         requirements_post_data['id'] = int(component_id)
 
-        self.post_requirements_query = urllib.parse.urlencode(requirements_post_data)
+        self.requirements_query = urllib.parse.urlencode(requirements_post_data)
 
     def set_post_requirements(self, requirements):
-        self.post_requirements = requirements
+        self.post_requirements = [a.split('-')[0].strip() for a in requirements.strip().split('   ')]
+
+    def set_pre_requirements(self, requirements):
+        if requirements[0] == '-':
+            self.pre_requirements = []
+            return
+        self.pre_requirements = [a.replace('(', '').replace(')', '').strip() for a in
+                                 requirements[0].replace(' E ', ' & ').replace(' OU ', ' || ').split('||')]
 
 
 def write():
@@ -46,8 +54,8 @@ def write():
     for dep in departments.keys():
         for c in departments[dep]:
             c_dict = c.__dict__
-            if 'post_requirements_query' in c_dict.keys():
-                c_dict.pop('post_requirements_query')
+            if 'requirements_query' in c_dict.keys():
+                c_dict.pop('requirements_query')
             write_data.append(c.__dict__)
 
         with open(f'data/materias-{dep}.json', 'a', encoding='utf-8') as f:
@@ -106,7 +114,7 @@ def main(cod_unidades):
                     requirements_post_data=post_data
                 )
                 print(f"Getting post-requirements for component: {c.cod} {c.nome}")
-                r = s.get(f'{sigaa_url}?{c.post_requirements_query}',
+                r = s.get(f'{sigaa_url}?{c.requirements_query}',
                           headers=header,
                           allow_redirects=False)
                 # print(f'\t > Request to {sigaa_url} returned status code: {r.status_code}')
@@ -114,11 +122,18 @@ def main(cod_unidades):
                 regex_match = re.compile('pré-requisito(.*?)Histórico').findall(
                     requirements_soup.text.replace('\n', ' '))
                 if regex_match:
-                    requirements = regex_match[0].replace(
-                        'pré-requisito', '').replace('Histórico', '')
+                    requirements = regex_match[0]
                     print(f"\t\t > {c.cod} - {c.nome} blocks: {requirements.strip().split('   ')}")
-                    c.set_post_requirements(requirements.strip().split('   '))
+                    c.set_post_requirements(requirements)
+                pre_requirements = re.compile('Pré-Requisitos:(.*?)Co-Re').findall(
+                    requirements_soup.text.replace('\n', ' '))
+                if pre_requirements:
+                    requirements = pre_requirements[0].replace('\t', '')
+                    print(f"\t\t > {c.cod} - {c.nome} is blocked by: {requirements.strip().split('   ')}")
+                    c.set_pre_requirements(requirements.strip().split('   '))
+
                 dep_name = re.sub('\d', '', c.cod)
+
                 if dep_name in departments.keys():
                     departments[dep_name].append(c)
                 else:
@@ -128,13 +143,13 @@ def main(cod_unidades):
             if len(components) == 500 or index == len(table_rows) - 1:
                 write()
 
-        print(departments)
     except Exception as e:
         print(e)
         pass
         write()
 
 
+# @TODO: buscar os códigos dos departamentos
 # cod_unidades = 673  # FGA = 673, 0 para buscar todas, MAT 518, CDS 640 (poucas matérias p/ testes)
-for x in [673, 518, 640]:
+for x in [640]:
     main(x)
