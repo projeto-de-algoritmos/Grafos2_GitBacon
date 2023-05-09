@@ -1,0 +1,184 @@
+[
+  {
+    "cod": "CDS0004",
+    "nome": "AGRICULTURA E MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0024 - MONITORIA EM AGRICULTURA E MEIO AMBIENTE"
+    ]
+  },
+  {
+    "cod": "CDS0021",
+    "nome": "AN\u00c1LISE DA PAISAGEM APLICADA \u00c0 SUSTENTABILIDADE URBANA",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0051 - MONITORIA EM AN\u00c1LISE DA PAISAGEM APLICADA \u00c0 SUSTENTABILIDADE URBANA"
+    ]
+  },
+  {
+    "cod": "CDS0003",
+    "nome": "COMIDA, CULTURA E SISTEMAS DE PRODU\u00c7\u00c3O",
+    "ch": 60,
+    "post_requirements": []
+  },
+  {
+    "cod": "CDS0035",
+    "nome": "COMUNICA\u00c7\u00c3O SOCIOAMBIENTAL",
+    "ch": 60,
+    "post_requirements": []
+  },
+  {
+    "cod": "CDS0016",
+    "nome": "EDUCA\u00c7\u00c3O E MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0030 - MONITORIA EM EDUCA\u00c7\u00c3O E MEIO AMBIENTE"
+    ]
+  },
+  {
+    "cod": "CDS0005",
+    "nome": "EPISTEMOLOGIA, TECNOLOGIA E SUSTENTABILIDADE",
+    "ch": 60,
+    "post_requirements": []
+  },
+  {
+    "cod": "CDS0032",
+    "nome": "ESTUDOS DOS SISTEMAS AGR\u00c1RIOS",
+    "ch": 60,
+    "post_requirements": []
+  },
+  {
+    "cod": "CDS0009",
+    "nome": "FUNDAMENTOS DO DESENVOLVIMENTO SUSTENT\u00c1VEL",
+    "ch": 60,
+    "post_requirements": []
+  },
+  {
+    "cod": "CDS0006",
+    "nome": "GOVERNAN\u00c7A AMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0037 - MONITORIA EM GOVERNAN\u00c7A AMBIENTAL"
+    ]
+  },
+  {
+    "cod": "CDS0002",
+    "nome": "HIST\u00d3RIA AMBIENTAL DO BRASIL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0033 - MONITORIA EM HIST\u00d3RIA AMBIENTAL DO BRASIL"
+    ]
+  },
+  {
+    "cod": "CDS0015",
+    "nome": "INDICADORES DE DESENVOLVIMENTO SUSTENT\u00c1VEL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0029 - MONITORIA EM INDICADORES DE DESENVOLVIMENTO SUSTENT\u00c1VEL"
+    ]
+  },
+  {
+    "cod": "CDS0007",
+    "nome": "INTRODU\u00c7\u00c3O AO DESENVOLVIMENTO SUSTENT\u00c1VEL",
+    "ch": 60,
+    "post_requirements": []
+  },
+  {
+    "cod": "CDS0008",
+    "nome": "MEIO AMBIENTE, CULTURA E SOCIEDADE",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0002 - HIST\u00d3RIA AMBIENTAL DO BRASIL",
+      "CDS0006 - GOVERNAN\u00c7A AMBIENTAL",
+      "CDS0011 - SISTEMAS SOCIOAMBIENTAIS E COMPLEXIDADE",
+      "CDS0013 - POPULA\u00c7\u00c3O E MEIO AMBIENTE",
+      "CDS0014 - TEORIAS DO DESENVOLVIMENTO",
+      "CDS0020 - PR\u00c1TICAS EM DESENVOLVIMENTO SUSTENT\u00c1VEL",
+      "CDS0021 - AN\u00c1LISE DA PAISAGEM APLICADA \u00c0 SUSTENTABILIDADE URBANA",
+      "CDS0026 - MONITORIA EM MEIO AMBIENTE, CULTURA E SOCIEDADE"
+    ]
+  },
+  {
+    "cod": "CDS0001",
+    "nome": "PLANEJAMENTO E AVALIA\u00c7\u00c3O SOCIOAMBIENTAL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0006 - GOVERNAN\u00c7A AMBIENTAL",
+      "CDS0023 - MONITORIA EM PLANEJAMENTO E AVALIA\u00c7\u00c3O SOCIOAMBIENTAL"
+    ]
+  },
+  {
+    "cod": "CDS0012",
+    "nome": "POL\u00cdTICAS P\u00daBLICAS E MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0043 - MONITORIA EM POL\u00cdTICAS P\u00daBLICAS E MEIO AMBIENTE"
+    ]
+  },
+  {
+    "cod": "CDS0013",
+    "nome": "POPULA\u00c7\u00c3O E MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0044 - MONITORIA EM POPULA\u00c7\u00c3O E MEIO AMBIENTE"
+    ]
+  },
+  {
+    "cod": "CDS0019",
+    "nome": "PR\u00c1TICA DE PESQUISA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0031 - MONITORIA EM PR\u00c1TICA DE PESQUISA 1"
+    ]
+  },
+  {
+    "cod": "CDS0020",
+    "nome": "PR\u00c1TICAS EM DESENVOLVIMENTO SUSTENT\u00c1VEL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0050 - MONITORIA EM PR\u00c1TICAS EM DESENVOLVIMENTO SUSTENT\u00c1VEL"
+    ]
+  },
+  {
+    "cod": "CDS0011",
+    "nome": "SISTEMAS SOCIOAMBIENTAIS E COMPLEXIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0022 - MONITORIA EM SISTEMAS SOCIOAMBIENTAIS E COMPLEXIDADE"
+    ]
+  },
+  {
+    "cod": "CDS0014",
+    "nome": "TEORIAS DO DESENVOLVIMENTO",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0006 - GOVERNAN\u00c7A AMBIENTAL",
+      "CDS0028 - MONITORIA EM TEORIAS DO DESENVOLVIMENTO"
+    ]
+  },
+  {
+    "cod": "CDS0010",
+    "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 1",
+    "ch": 30,
+    "post_requirements": [
+      "CDS0001 - PLANEJAMENTO E AVALIA\u00c7\u00c3O SOCIOAMBIENTAL",
+      "IGD0159 - INTRODU\u00c7\u00c3O AO PROCESSAMENTO DE IMAGENS",
+      "ZOO0048 - BIOGEOGRAFIA",
+      "CDS0012 - POL\u00cdTICAS P\u00daBLICAS E MEIO AMBIENTE",
+      "CDS0015 - INDICADORES DE DESENVOLVIMENTO SUSTENT\u00c1VEL",
+      "ECO0266 - ECONOMIA DA POL\u00cdTICA AMBIENTAL",
+      "ECO0270 - PLANEJAMENTO DE INVESTIMENTOS AMBIENTAIS",
+      "ECO0276 - AVALIA\u00c7\u00c3O AMBIENTAL ESTRAT\u00c9GICA",
+      "CDS0019 - PR\u00c1TICA DE PESQUISA 1",
+      "CDS0027 - MONITORIA EM TRABALHO INTERDISCIPLINAR INTEGRADO 1"
+    ]
+  },
+  {
+    "cod": "CDS0018",
+    "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 3",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0048 - MONITORIA EM TRABALHO INTERDISCIPLINAR INTEGRADO 3"
+    ]
+  }
+]
