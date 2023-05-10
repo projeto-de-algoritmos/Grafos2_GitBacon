@@ -1,2038 +1,591 @@
 [
-  {
-    "cod": "PCL0031",
-    "nome": "ACONSELHAMENTO PSICOLOGICO",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0191"
-    ],
-    "pre_requirements": [
-      "PCL0061"
-    ]
-  },
-  {
-    "cod": "PCL0030",
-    "nome": "AVALIA\u00c7\u00c3O E PSICODIAGN\u00d3STICO",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0243"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0001",
-    "nome": "EPISTEMOLOGIA E M\u00c9TODOS CL\u00cdNICOS",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0224"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0096",
-    "nome": "EST\u00c1GIO SUPERVIONADO BACHAREL-\u00c1REA PSICOLOGIA CL\u00cdNICA E CULTURAL",
-    "ch": 150,
-    "post_requirements": [
-      "PCL0220"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PCL0112",
-    "nome": "EST\u00c1GIO SUPERVISIONADO BACHAREL - \u00c1REA PSICOLOGIA CL\u00cdNICA E CULTURAL 2",
-    "ch": 150,
-    "post_requirements": [
-      "PCL0223"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PCL0098",
-    "nome": "EST\u00c1GIO SUPERVISIONADO BACHAREL - \u00c1REA PSICOLOGIA DA SA\u00daDE",
-    "ch": 150,
-    "post_requirements": [
-      "PCL0221"
-    ],
-    "pre_requirements": [
-      "PCL0020 & PCL0071"
-    ]
-  },
-  {
-    "cod": "PCL0089",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA INTERVEN\u00c7\u00d5ES PSICOSSOCIAIS 1",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0087"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PCL0090",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA INTERVEN\u00c7\u00d5ES PSICOSSOCIAIS 2",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0088"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0089",
-      "IPD0031",
-      "PCL0086",
-      "IPD0032"
-    ]
-  },
-  {
-    "cod": "PCL0091",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA INTERVEN\u00c7\u00d5ES PSICOSSOCIAIS 3",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0216"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0090",
-      "IPD0033",
-      "PCL0087",
-      "IPD0035"
-    ]
-  },
-  {
-    "cod": "PCL0086",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO-\u00c1REA INTERVEN\u00c7\u00d5ES PSICOTERAP\u00caUTICAS 1",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0090"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PCL0087",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO-\u00c1REA INTERVEN\u00c7\u00d5ES PSICOTERAP\u00caUTICAS 2",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0091"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0086",
-      "IPD0032",
-      "PCL0089",
-      "IPD0031"
-    ]
-  },
-  {
-    "cod": "PCL0088",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO-\u00c1REA INTERVEN\u00c7\u00d5ES PSICOTERAP\u00caUTICAS 3",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0213"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0087",
-      "IPD0035",
-      "PCL0090",
-      "IPD0033"
-    ]
-  },
-  {
-    "cod": "PCL0092",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA PSICOLOGIA DA SA\u00daDE 1",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0217"
-    ],
-    "pre_requirements": [
-      "PCL0020 & PCL0071"
-    ]
-  },
-  {
-    "cod": "PCL0093",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA PSICOLOGIA DA SA\u00daDE 2",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0218"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0071  &  PCL0092",
-      "IPD0041"
-    ]
-  },
-  {
-    "cod": "PCL0094",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA PSICOLOGIA DA SA\u00daDE 3",
-    "ch": 180,
-    "post_requirements": [
-      "PCL0219"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0071  &  PCL0093",
-      "IPD0042"
-    ]
-  },
-  {
-    "cod": "PCL0020",
-    "nome": "ETICA PROFISSIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "PED0021"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0061",
-    "nome": "FUNDAMENTOS DA PSICOLOGIA CLINICA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0002"
-    ],
-    "pre_requirements": [
-      "PPB0021"
-    ]
-  },
-  {
-    "cod": "PCL0025",
-    "nome": "FUNDAMENTOS DA PSICOTERAPIA",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0007"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0039",
-    "nome": "FUNDAMENTOS E T\u00c9CNICAS DE DIN\u00c2MICA DE GRUPO",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0245"
-    ],
-    "pre_requirements": [
-      "PCL0025 & PST0011"
-    ]
-  },
-  {
-    "cod": "PCL0075",
-    "nome": "INTERVEN\u00c7\u00c3O EM CRISE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0198"
-    ],
-    "pre_requirements": [
-      "PCL0021 & PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0002",
-    "nome": "INTERVEN\u00c7\u00d5ES PSICOSSOCIAIS COM CRIAN\u00c7AS E ADOLESCENTES",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0202"
-    ],
-    "pre_requirements": [
-      "PCL0061",
-      "PCL0015 & PED0027"
-    ]
-  },
-  {
-    "cod": "PCL0003",
-    "nome": "INTERVEN\u00c7\u00d5ES PSICOSSOCIAIS EM CONTEXTOS DE VIOL\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0226"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0074",
-    "nome": "METODO DE RORSCHACH",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0263"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0181",
-    "nome": "M\u00c9TODO DE RORSCHACH AVAN\u00c7ADO",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0289"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0074"
-    ]
-  },
-  {
-    "cod": "PCL0107",
-    "nome": "OBSERVA\u00c7\u00c3O DE BEB\u00caS NA CL\u00cdNICA PSICANAL\u00cdTICA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0285"
-    ],
-    "pre_requirements": [
-      "PCL0027"
-    ]
-  },
-  {
-    "cod": "PCL0083",
-    "nome": "PESQUISA EM PSICAN\u00c1LISE E PROCESSOS DE SUBJETIVA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0210"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0068",
-    "nome": "PESQUISA EM PSICOLOGIA CLINICA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0070"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0079",
-    "nome": "PESQUISA EM PSICOLOGIA CL\u00cdNICA E SA\u00daDE MENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0209"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0105",
-    "nome": "PESQUISA EM PSICOLOGIA DA SA\u00daDE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0222"
-    ],
-    "pre_requirements": [
-      "PCL0071"
-    ]
-  },
-  {
-    "cod": "PCL0058",
-    "nome": "PSICAN\u00c1LISE COM CRIAN\u00c7AS",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0255"
-    ],
-    "pre_requirements": [
-      "PCL0027"
-    ]
-  },
-  {
-    "cod": "PCL0043",
-    "nome": "PSICODRAMA",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0201"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0101",
-    "nome": "PSICOLOGIA APLICADA A ODONTOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0280"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0072",
-    "nome": "PSICOLOGIA APLICADA A SAUDE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0013"
-    ],
-    "pre_requirements": [
-      "FMD0510"
-    ]
-  },
-  {
-    "cod": "PCL0004",
-    "nome": "PSICOLOGIA COMUNIT\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0227"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0015",
-    "nome": "PSICOLOGIA DA PERSONALIDADE 1",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0019"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0104",
-    "nome": "PSICOLOGIA DA REABILITA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0283"
-    ],
-    "pre_requirements": [
-      "PCL0071",
-      "PCL0072"
-    ]
-  },
-  {
-    "cod": "PCL0071",
-    "nome": "PSICOLOGIA DA SAUDE",
-    "ch": 90,
-    "post_requirements": [
-      "PED0011"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PCL0054",
-    "nome": "PSICOLOGIA DA SEXUALIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0194"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0005",
-    "nome": "PSICOLOGIA DAS HABILIDADES SOCIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0182"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PCL0102",
-    "nome": "PSICOLOGIA E ENFERMAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0281"
-    ],
-    "pre_requirements": [
-      "PCL0072",
-      "PCL0071"
-    ]
-  },
-  {
-    "cod": "PCL0060",
-    "nome": "PSICOLOGIA E RELIGI\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0256"
-    ],
-    "pre_requirements": [
-      "PCL0061",
-      "PCL0015"
-    ]
-  },
-  {
-    "cod": "PCL0013",
-    "nome": "PSICOLOGIA E SA\u00daDE P\u00daBLICA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0200"
-    ],
-    "pre_requirements": [
-      "PCL0071",
-      "PCL0072"
-    ]
-  },
-  {
-    "cod": "PCL0076",
-    "nome": "PSICOLOGIA JUR\u00cdDICA",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0208"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0103",
-    "nome": "PSICOLOGIA PEDI\u00c1TRICA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0282"
-    ],
-    "pre_requirements": [
-      "PCL0071"
-    ]
-  },
-  {
-    "cod": "PCL0046",
-    "nome": "PSICOLOGIA PREVENTIVA",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0249"
-    ],
-    "pre_requirements": [
-      "PCL0071"
-    ]
-  },
-  {
-    "cod": "PCL0100",
-    "nome": "PSICO-ONCOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0279"
-    ],
-    "pre_requirements": [
-      "PCL0071",
-      "PCL0072"
-    ]
-  },
-  {
-    "cod": "PCL0021",
-    "nome": "PSICOPATOLOGIA 1",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0011"
-    ],
-    "pre_requirements": [
-      "PCL0015",
-      "PCL0061"
-    ]
-  },
-  {
-    "cod": "PCL0023",
-    "nome": "PSICOPATOLOGIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0188"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0056",
-    "nome": "PSICOTERAPIA DE GRUPO",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0254"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0007",
-    "nome": "PSICOTERAPIA ERICKSONIANA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0229"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0042",
-    "nome": "PSICOTERAPIA NAO DIRETIVA",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0247"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0009",
-    "nome": "PSICOTERAPIAS HUMANISTAS E FENOMENOL\u00d3GICO-EXISTENCIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0230"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0113",
-    "nome": "SA\u00daDE MENTAL, CL\u00cdNICA E CULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0288"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0111",
-    "nome": "SA\u00daDE MENTAL E POL\u00cdTICAS P\u00daBLICAS",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0199"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0048",
-    "nome": "T\u00c9CNICAS PROJETIVAS NARRATIVAS",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0250"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0027",
-    "nome": "TEORIAS PSICANAL\u00cdTICAS 1",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0010"
-    ],
-    "pre_requirements": [
-      "PCL0021",
-      "FMD0445"
-    ]
-  },
-  {
-    "cod": "PCL0040",
-    "nome": "TEORIAS PSICANAL\u00cdTICAS 2",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0192"
-    ],
-    "pre_requirements": [
-      "PCL0027"
-    ]
-  },
-  {
-    "cod": "PCL0014",
-    "nome": "TERAPIA COGNITIVO - COMPORTAMENTAL EM GRUPO",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0235"
-    ],
-    "pre_requirements": [
-      "PPB0003"
-    ]
-  },
-  {
-    "cod": "PCL0053",
-    "nome": "TERAPIA CONJUGAL E FAMILIAR",
-    "ch": 90,
-    "post_requirements": [
-      "PCL0193"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0010",
-    "nome": "T\u00d3PICOS EM PSICAN\u00c1LISE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0183"
-    ],
-    "pre_requirements": [
-      "PCL0027"
-    ]
-  },
-  {
-    "cod": "PCL0011",
-    "nome": "T\u00d3PICOS EM PSICOLOGIA CL\u00cdNICA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0184"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0019",
-    "nome": "T\u00d3PICOS EM PSICOLOGIA DA PERSONALIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0204"
-    ],
-    "pre_requirements": [
-      "PCL0015",
-      "PCL0061"
-    ]
-  },
-  {
-    "cod": "PCL0073",
-    "nome": "TOPICOS EM PSICOLOGIA DA SAUDE",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0262"
-    ],
-    "pre_requirements": [
-      "PCL0071",
-      "PCL0072"
-    ]
-  },
-  {
-    "cod": "PCL0064",
-    "nome": "T\u00d3PICOS EM PSICOPATOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0206"
-    ],
-    "pre_requirements": [
-      "PCL0021"
-    ]
-  },
-  {
-    "cod": "PCL0051",
-    "nome": "T\u00d3PICOS EM PSICOTERAPIA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0205"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "PCL0012",
-    "nome": "T\u00d3PICOS EM TERAPIA CONJUGAL E FAMILIAR",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0203"
-    ],
-    "pre_requirements": [
-      "PCL0025"
-    ]
-  },
-  {
-    "cod": "IPD0008",
-    "nome": "AN\u00c1LISE COMPORTAMENTAL APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0086"
-    ],
-    "pre_requirements": [
-      "PPB0002"
-    ]
-  },
-  {
-    "cod": "IPD0016",
-    "nome": "EST\u00c1GIO SUPERVISIONADO B\u00c1SICO EM PSICOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "IPD0017"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PED0071"
-    ]
-  },
-  {
-    "cod": "IPD0009",
-    "nome": "EST\u00c1GIO SUPERVISIONADO LICENCIATURA - \u00c1REA CI\u00caNCIAS DO COMPORTAMENTO 2",
-    "ch": 150,
-    "post_requirements": [
-      "IPD0018"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IPD0178",
-    "nome": "PROJETOS MULTIDISCIPLINARES 1",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": [
-      "IPD0175 & PCL0020"
-    ]
-  },
-  {
-    "cod": "IPD0005",
-    "nome": "T\u00d3PICOS EM AN\u00c1LISE CONCEITUAL EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0084"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IPD0003",
-    "nome": "T\u00d3PICOS EM APLICA\u00c7\u00d5ES DAS CI\u00caNCIAS DO COMPORTAMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0082"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IPD0002",
-    "nome": "T\u00d3PICOS EM ERGONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0081"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IPD0001",
-    "nome": "T\u00d3PICOS EM M\u00c9TODOS DE PESQUISA",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0080"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IPD0007",
-    "nome": "T\u00d3PICOS EM PSICOLOGIA SOCIAL APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0085"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IPD0004",
-    "nome": "T\u00d3PICOS EM TERAPIA ANAL\u00cdTICO - COMPORTAMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "IPD0083"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0077",
-    "nome": "ANALISE CONCEITUAL EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0118"
-    ],
-    "pre_requirements": [
-      "PPB0021"
-    ]
-  },
-  {
-    "cod": "PPB0024",
-    "nome": "AN\u00c1LISE DO COMPORTAMENTO HUMANO",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0026"
-    ],
-    "pre_requirements": [
-      "PPB0002"
-    ]
-  },
-  {
-    "cod": "PPB0067",
-    "nome": "APRENDIZAGEM NO ENSINO",
-    "ch": 60,
-    "post_requirements": [
-      "CIC0160"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0036",
-    "nome": "AVALIA\u00c7\u00c3O E REABILITA\u00c7\u00c3O NEUROPSICOL\u00d3GICA",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0037"
-    ],
-    "pre_requirements": [
-      "PPB0034 & PCL0020"
-    ]
-  },
-  {
-    "cod": "PPB0052",
-    "nome": "COMPORTAMENTO ANIMAL",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0162"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0051",
-    "nome": "COMPORTAMENTO ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0161"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0092",
-    "nome": "COMPORTAMENTO E COGNI\u00c7\u00c3O ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0108"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0012",
-    "nome": "EST\u00c1GIO BACHAREL 2",
-    "ch": 150,
-    "post_requirements": [
-      "PPB0133"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0087",
-    "nome": "EST\u00c1GIO SUPERVISIONADO BACHAREL - \u00c1REA CI\u00caNCIAS DO COMPORTAMENTO",
-    "ch": 150,
-    "post_requirements": [
-      "PPB0089"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PPB0089",
-    "nome": "EST\u00c1GIO SUPERVISIONADO BACHAREL - \u00c1REA CI\u00caNCIAS DO COMPORTAMENTO 2",
-    "ch": 150,
-    "post_requirements": [
-      "PPB0121"
-    ],
-    "pre_requirements": [
-      "PPB0086",
-      "PPB0087",
-      "IPD0020"
-    ]
-  },
-  {
-    "cod": "PPB0011",
-    "nome": "EST\u00c1GIO SUPERVISIONADO LICENCIATURA - \u00c1REA CI\u00caNCIAS DO COMPORTAMENTO 1",
-    "ch": 150,
-    "post_requirements": [
-      "PPB0111"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0080",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA AN\u00c1LISE DO COMPORTAMENTO APLICADA 1",
-    "ch": 180,
-    "post_requirements": [
-      "PPB0119"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PPB0081",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA AN\u00c1LISE DO COMPORTAMENTO APLICADA 2",
-    "ch": 180,
-    "post_requirements": [
-      "PPB0181"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PPB0080",
-      "IPD0053"
-    ]
-  },
-  {
-    "cod": "PPB0083",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA NEUROPSICOLOGIA E COGNI\u00c7\u00c3O 1",
-    "ch": 180,
-    "post_requirements": [
-      "PPB0183"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PPB0084",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA NEUROPSICOLOGIA E COGNI\u00c7\u00c3O 2",
-    "ch": 180,
-    "post_requirements": [
-      "PPB0184"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PPB0083",
-      "IPD0038"
-    ]
-  },
-  {
-    "cod": "PPB0085",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA NEUROPSICOLOGIA E COGNI\u00c7\u00c3O 3",
-    "ch": 180,
-    "post_requirements": [
-      "PPB0185"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PPB0084",
-      "IPD0039"
-    ]
-  },
-  {
-    "cod": "PPB0056",
-    "nome": "ESTAGIO SUPERVISIONADO PSICOLOGO-BACHAREL",
-    "ch": 120,
-    "post_requirements": [
-      "PPB0165"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0082",
-    "nome": "EST\u00c1GIO SUP PSIC\u00d3LOGO - \u00c1REA AN\u00c1LISE DO COMPORTAMENTO APLICADA 3",
-    "ch": 180,
-    "post_requirements": [
-      "PPB0182"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  PPB0081",
-      "IPD0054"
-    ]
-  },
-  {
-    "cod": "PPB0041",
-    "nome": "FILOSOFIA DA PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0113"
-    ],
-    "pre_requirements": [
-      "PPB0021  &  PED0071"
-    ]
-  },
-  {
-    "cod": "PPB0001",
-    "nome": "FUNDAMENTOS DE AN\u00c1LISE DO COMPORTAMENTO",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0124"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0002",
-    "nome": "FUNDAMENTOS DE AN\u00c1LISE DO COMPORTAMENTO",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0024"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0034",
-    "nome": "FUNDAMENTOS DE NEUROCI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0048"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0043",
-    "nome": "GENETICA DO COMPORTAMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0156"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0079",
-    "nome": "GEN\u00c9TICA E INTERVEN\u00c7\u00c3O PSICOL\u00d3GICA",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0179"
-    ],
-    "pre_requirements": [
-      "PPB0034 & PCL0071"
-    ]
-  },
-  {
-    "cod": "PPB0021",
-    "nome": "HISTORIA  DA PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0022"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0020",
-    "nome": "HISTORIA E SISTEMAS DA PSICOLOGIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0141"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0022",
-    "nome": "HISTORIA E SISTEMAS DA PSICOLOGIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0143"
-    ],
-    "pre_requirements": [
-      "PPB0021"
-    ]
-  },
-  {
-    "cod": "PPB0014",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PED0095"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0091",
-    "nome": "NEUROCI\u00caNCIAS DO COMPORTAMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0123"
-    ],
-    "pre_requirements": [
-      "PPB0034"
-    ]
-  },
-  {
-    "cod": "PPB0054",
-    "nome": "PERCEPCAO",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0039"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0009",
-    "nome": "PERCEP\u00c7\u00c3O E COGNI\u00c7\u00c3O: CI\u00caNCIA E TECNOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0131"
-    ],
-    "pre_requirements": [
-      "PPB0046 & PPB0054"
-    ]
-  },
-  {
-    "cod": "PPB0072",
-    "nome": "PESQUISA EM AN\u00c1LISE COMPORTAMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0116"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0073",
-    "nome": "PESQUISA EM ANALISE COMPORTAMENTAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0175"
-    ],
-    "pre_requirements": [
-      "PPB0017",
-      "PPB0018"
-    ]
-  },
-  {
-    "cod": "PPB0069",
-    "nome": "PESQUISA EM PROCESSOS COGNITIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0115"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0075",
-    "nome": "PESQUISA EM PSICOBIOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0117"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0008",
-    "nome": "PESQUISA EM PSICOLOGIA EVOLUCIONISTA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0110"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0048",
-    "nome": "PSICOFARMACOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0049"
-    ],
-    "pre_requirements": [
-      "PPB0034"
-    ]
-  },
-  {
-    "cod": "PPB0049",
-    "nome": "PSICOFARMACOLOGIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0159"
-    ],
-    "pre_requirements": [
-      "PPB0048"
-    ]
-  },
-  {
-    "cod": "PPB0039",
-    "nome": "PSICOF\u00cdSICA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0040"
-    ],
-    "pre_requirements": [
-      "PPB0054",
-      "PPB0046"
-    ]
-  },
-  {
-    "cod": "PPB0040",
-    "nome": "PSICOFISICA 2",
-    "ch": 150,
-    "post_requirements": [
-      "PPB0154"
-    ],
-    "pre_requirements": [
-      "PPB0039"
-    ]
-  },
-  {
-    "cod": "PPB0033",
-    "nome": "PSICOFISIOLOGIA 1",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0149"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0037",
-    "nome": "PSICOFISIOLOGIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0152"
-    ],
-    "pre_requirements": [
-      "PPB0036"
-    ]
-  },
-  {
-    "cod": "PPB0046",
-    "nome": "PSICOLOGIA COGNITIVA 1",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0039"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0050",
-    "nome": "PSICOLOGIA COGNITIVA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0114"
-    ],
-    "pre_requirements": [
-      "PPB0046"
-    ]
-  },
-  {
-    "cod": "PPB0017",
-    "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0073"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0015",
-    "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0136"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0016",
-    "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0137"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0019",
-    "nome": "PSICOLOGIA DA APRENDIZAGEM 2",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0140"
-    ],
-    "pre_requirements": [
-      "PPB0018"
-    ]
-  },
-  {
-    "cod": "PPB0057",
-    "nome": "PSICOLOGIA DA MOTIVACAO 1",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0060"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0060",
-    "nome": "PSICOLOGIA DA MOTIVACAO 2",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0168"
-    ],
-    "pre_requirements": [
-      "PPB0057"
-    ]
-  },
-  {
-    "cod": "PPB0006",
-    "nome": "PSICOLOGIA EVOLUCIONISTA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0094"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0026",
-    "nome": "PSICOLOGIA EXPERIMENTAL 2",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0145"
-    ],
-    "pre_requirements": [
-      "PPB0024"
-    ]
-  },
-  {
-    "cod": "PPB0028",
-    "nome": "PSICOLOGIA EXPERIMENTAL 3",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0146"
-    ],
-    "pre_requirements": [
-      "PPB0024"
-    ]
-  },
-  {
-    "cod": "PPB0018",
-    "nome": "PSICOLOGIA GERAL E EXPERIMENTAL",
-    "ch": 90,
-    "post_requirements": [
-      "PPB0019"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0053",
-    "nome": "TECNICAS DE LABORATORIO",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0163"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0005",
-    "nome": "TERAPIA ANAL\u00cdTICA - COMPORTAMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0106"
-    ],
-    "pre_requirements": [
-      "PPB0002  &  PCL0020"
-    ]
-  },
-  {
-    "cod": "PPB0078",
-    "nome": "TERAPIA ANAL\u00cdTICO COMPORTAMENTAL INFANTIL",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0105"
-    ],
-    "pre_requirements": [
-      "PPB0002  &  PCL0020"
-    ]
-  },
-  {
-    "cod": "PPB0003",
-    "nome": "TERAPIA COGNITIVA",
-    "ch": 60,
-    "post_requirements": [
-      "PCL0014"
-    ],
-    "pre_requirements": [
-      "PCL0021 & PPB0046"
-    ]
-  },
-  {
-    "cod": "PPB0032",
-    "nome": "TOPICOS EM ANALISE COMPORTAMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0112"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0062",
-    "nome": "TOPICOS EM APRENDIZAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0107"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0007",
-    "nome": "T\u00d3PICOS EM COGNI\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0109"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0030",
-    "nome": "TOPICOS EM HISTORIA E SISTEMAS DA PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0147"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0059",
-    "nome": "TOPICOS EM MOTIVACAO",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0167"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0064",
-    "nome": "TOPICOS EM PERCEPCAO",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0170"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0066",
-    "nome": "TOPICOS EM PSICOBIOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0103"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0090",
-    "nome": "T\u00d3PICOS EM PSICOLOGIA EVOLUCIONISTA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0122"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PPB0013",
-    "nome": "T\u00d3PICOS EM TERAPIA COGNITIVA",
-    "ch": 60,
-    "post_requirements": [
-      "PPB0134"
-    ],
-    "pre_requirements": [
-      "PPB0003"
-    ]
-  },
-  {
-    "cod": "PST0020",
-    "nome": "AN\u00c1LISE ORGANIZACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0207"
-    ],
-    "pre_requirements": [
-      "PST0051",
-      "PST0039"
-    ]
-  },
-  {
-    "cod": "PST0064",
-    "nome": "AVALIA\u00c7\u00c3O DE DESEMPENHO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0263"
-    ],
-    "pre_requirements": [
-      "PST0051"
-    ]
-  },
-  {
-    "cod": "PST0054",
-    "nome": "AVALIA\u00c7\u00c3O DE TREINAMENTO E DE DESENVOLVIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0258"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0027",
-    "nome": "COMPORTAMENTO HUMANO E TRABALHO",
-    "ch": 90,
-    "post_requirements": [
-      "PST0245"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0195",
-    "nome": "COMPORTAMENTO HUMANO NO TRABALHO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0206"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0078",
-    "nome": "DIVERSIDADE NAS ORGANIZA\u00c7\u00d5ES",
-    "ch": 60,
-    "post_requirements": [
-      "PST0218"
-    ],
-    "pre_requirements": [
-      "PST0011",
-      "PST0051"
-    ]
-  },
-  {
-    "cod": "PST0034",
-    "nome": "ERGONOMIA",
-    "ch": 90,
-    "post_requirements": [
-      "PST0056"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0056",
-    "nome": "ERGONOMIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0259"
-    ],
-    "pre_requirements": [
-      "PST0034"
-    ]
-  },
-  {
-    "cod": "PST0066",
-    "nome": "ERGONOMIA APLICADA A INFORMATICA",
-    "ch": 90,
-    "post_requirements": [
-      "PST0265"
-    ],
-    "pre_requirements": [
-      "PST0034"
-    ]
-  },
-  {
-    "cod": "PST0096",
-    "nome": "EST\u00c1GIO SUPERV. BACHAREL -  \u00c1REA: SOCIAL, TRABALHO E ORGANIZA\u00c7\u00d5ES 2",
-    "ch": 150,
-    "post_requirements": [
-      "PST0228"
-    ],
-    "pre_requirements": [
-      "PST0085",
-      "PST0086",
-      "IPD0014"
-    ]
-  },
-  {
-    "cod": "PST0086",
-    "nome": "EST\u00c1GIO SUPERVIS BACHAREL - \u00c1REA SOCIAL, TRABALHO E ORGANIZA\u00c7\u00d5ES",
-    "ch": 150,
-    "post_requirements": [
-      "PST0096"
-    ],
-    "pre_requirements": [
-      "PCL0020 & PST0051"
-    ]
-  },
-  {
-    "cod": "PST0032",
-    "nome": "ESTAGIO SUPERVISIONADO PSICOLOGO 2",
-    "ch": 165,
-    "post_requirements": [
-      "PST0246"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0080",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO-\u00c1REA SOCIAL, TRABALHO E ORGANIZA\u00c7\u00d5ES 1",
-    "ch": 180,
-    "post_requirements": [
-      "PST0219"
-    ],
-    "pre_requirements": [
-      "PCL0020 & PST0051"
-    ]
-  },
-  {
-    "cod": "PST0082",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO-\u00c1REA SOCIAL, TRABALHO E ORGNIZA\u00c7\u00d5ES 2",
-    "ch": 180,
-    "post_requirements": [
-      "PST0220"
-    ],
-    "pre_requirements": [
-      "PCL0020 & PST0051"
-    ]
-  },
-  {
-    "cod": "PST0006",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA SOC. TRAB. E ORG. 4",
-    "ch": 180,
-    "post_requirements": [
-      "PST0210"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0007",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PSIC\u00d3LOGO - \u00c1REA SOC. TRAB. E ORG. 5",
-    "ch": 180,
-    "post_requirements": [
-      "PST0211"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0084",
-    "nome": "EST\u00c1GIO SUPERVIS PSIC\u00d3LOGO - \u00c1REA SOCIAL, TRABALHO E ORGNIZA\u00c7\u00d5ES 3",
-    "ch": 180,
-    "post_requirements": [
-      "PST0221"
-    ],
-    "pre_requirements": [
-      "PCL0020 & PST0051"
-    ]
-  },
-  {
-    "cod": "PST0065",
-    "nome": "INFORMATICA EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0264"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0039",
-    "nome": "MEDIDAS EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0020"
-    ],
-    "pre_requirements": [
-      "EST0019",
-      "EST0028"
-    ]
-  },
-  {
-    "cod": "PST0036",
-    "nome": "M\u00c9TODOS DE PESQUISA EM PSICOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "PST0248"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0037",
-    "nome": "M\u00c9TODOS DE PESQUISA EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0202"
-    ],
-    "pre_requirements": [
-      "EST0019"
-    ]
-  },
-  {
-    "cod": "PST0069",
-    "nome": "PESQUISA EM AVALIACAO E MEDIDAS EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0070"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0070",
-    "nome": "PESQUISA EM AVALIA\u00c7AO E MEDIDAS EM PSICOLOGIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0215"
-    ],
-    "pre_requirements": [
-      "PST0067",
-      "PST0068",
-      "PST0069",
-      "IPD0058"
-    ]
-  },
-  {
-    "cod": "PST0074",
-    "nome": "PESQUISA EM ERGONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0217"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0199",
-    "nome": "PESQUISA EM ERGONOMIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0230"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0094",
-    "nome": "PESQUISA EM PSICOLOGIA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0095"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0095",
-    "nome": "PESQUISA EM PSICOLOGIA AMBIENTAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0227"
-    ],
-    "pre_requirements": [
-      "PST0093",
-      "PST0094",
-      "IPD0065"
-    ]
-  },
-  {
-    "cod": "PST0088",
-    "nome": "PESQUISA EM PSICOLOGIA DAS ORGANIZACOES",
-    "ch": 60,
-    "post_requirements": [
-      "PST0071"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0072",
-    "nome": "PESQUISA EM PSICOLOGIA DAS ORGANIZACOES 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0216"
-    ],
-    "pre_requirements": [
-      "PST0088",
-      "IPD0070"
-    ]
-  },
-  {
-    "cod": "PST0090",
-    "nome": "PESQUISA EM PSICOLOGIA DO TRABALHO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0224"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0092",
-    "nome": "PESQUISA EM PSICOLOGIA DO TRABALHO 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0225"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0005",
-    "nome": "PESQUISA EM PSICOLOGIA SOCIAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0209"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0097",
-    "nome": "PESQUISA EM PSICOLOGIA SOCIAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "PST0229"
-    ],
-    "pre_requirements": [
-      "PST0011  &  PST0004",
-      "PST0005",
-      "IPD0077"
-    ]
-  },
-  {
-    "cod": "PST0059",
-    "nome": "PSICOLOGIA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0205"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0057",
-    "nome": "PSICOLOGIA DA COMUNICACAO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0260"
-    ],
-    "pre_requirements": [
-      "PST0011"
-    ]
-  },
-  {
-    "cod": "PST0049",
-    "nome": "PSICOLOGIA DAS ORGANIZA\u00c7\u00d5ES",
-    "ch": 90,
-    "post_requirements": [
-      "PST0256"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0048",
-    "nome": "PSICOLOGIA DAS ORGANIZA\u00c7\u00d5ES",
-    "ch": 90,
-    "post_requirements": [
-      "PST0255"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0051",
-    "nome": "PSICOLOGIA DAS ORGANIZA\u00c7\u00d5ES",
-    "ch": 60,
-    "post_requirements": [
-      "PST0020"
-    ],
-    "pre_requirements": [
-      "PST0011"
-    ]
-  },
-  {
-    "cod": "PST0001",
-    "nome": "PSICOLOGIA DO TRABALHO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0208"
-    ],
-    "pre_requirements": [
-      "PST0011"
-    ]
-  },
-  {
-    "cod": "PST0011",
-    "nome": "PSICOLOGIA SOCIAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "PST0001"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0010",
-    "nome": "PSICOLOGIA SOCIAL 1",
-    "ch": 90,
-    "post_requirements": [
-      "PST0236"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0012",
-    "nome": "PSICOLOGIA SOCIAL 2",
-    "ch": 90,
-    "post_requirements": [
-      "PST0238"
-    ],
-    "pre_requirements": [
-      "PST0011"
-    ]
-  },
-  {
-    "cod": "PST0040",
-    "nome": "PSICOMETRIA",
-    "ch": 90,
-    "post_requirements": [
-      "PST0251"
-    ],
-    "pre_requirements": [
-      "PCL0020  &  EST0019"
-    ]
-  },
-  {
-    "cod": "PST0018",
-    "nome": "RECRUTAMENTO E SELE\u00c7\u00c3O PROFISSIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0241"
-    ],
-    "pre_requirements": [
-      "PST0039 & PST0051",
-      "PST0014"
-    ]
-  },
-  {
-    "cod": "PST0017",
-    "nome": "RECRUTAMENTO E SELE\u00c7\u00c3O PROFISSIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0240"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0042",
-    "nome": "TECNICAS DE ENTREVISTA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0213"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0014",
-    "nome": "TECNICAS DO EXAME PSICOLOGICO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0018"
-    ],
-    "pre_requirements": [
-      "PCL0020"
-    ]
-  },
-  {
-    "cod": "PST0003",
-    "nome": "T\u00d3PICOS EM PSICOLOGIA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0232"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0047",
-    "nome": "TOPICOS EM PSICOLOGIA ORGANIZACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0254"
-    ],
-    "pre_requirements": [
-      "PST0051"
-    ]
-  },
-  {
-    "cod": "PST0045",
-    "nome": "T\u00d3PICOS EM PSICOLOGIA SOCIAL",
-    "ch": 60,
-    "post_requirements": [
-      "PST0253"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0022",
-    "nome": "TREINAMENTO E DESENVOLVIMENTO",
-    "ch": 90,
-    "post_requirements": [
-      "PST0243"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0023",
-    "nome": "TREINAMENTO E DESENVOLVIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "PST0201"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PST0060",
-    "nome": "USO DO COMPUTADOR EM PSICOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "PST0262"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "PST0020",
+      "nome": "ANÁLISE ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0207"
+      ],
+      "pre_requisitos": [
+         "PST0051",
+         "PST0039"
+      ]
+   },
+   {
+      "codigo": "PST0064",
+      "nome": "AVALIAÇÃO DE DESEMPENHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0263"
+      ],
+      "pre_requisitos": [
+         "PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0054",
+      "nome": "AVALIAÇÃO DE TREINAMENTO E DE DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0258"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0027",
+      "nome": "COMPORTAMENTO HUMANO E TRABALHO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0245"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0195",
+      "nome": "COMPORTAMENTO HUMANO NO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0206"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0078",
+      "nome": "DIVERSIDADE NAS ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0218"
+      ],
+      "pre_requisitos": [
+         "PST0011",
+         "PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0034",
+      "nome": "ERGONOMIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0056",
+         "PST0066",
+         "PST0212"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0056",
+      "nome": "ERGONOMIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0259"
+      ],
+      "pre_requisitos": [
+         "PST0034"
+      ]
+   },
+   {
+      "codigo": "PST0066",
+      "nome": "ERGONOMIA APLICADA A INFORMATICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0265"
+      ],
+      "pre_requisitos": [
+         "PST0034"
+      ]
+   },
+   {
+      "codigo": "PST0096",
+      "nome": "ESTÁGIO SUPERV. BACHAREL -  ÁREA: SOCIAL, TRABALHO E ORGANIZAÇÕES 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PST0228"
+      ],
+      "pre_requisitos": [
+         "PST0085",
+         "PST0086",
+         "IPD0014"
+      ]
+   },
+   {
+      "codigo": "PST0086",
+      "nome": "ESTÁGIO SUPERVIS BACHAREL - ÁREA SOCIAL, TRABALHO E ORGANIZAÇÕES",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PST0096",
+         "PST0222"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0032",
+      "nome": "ESTAGIO SUPERVISIONADO PSICOLOGO 2",
+      "carga_horaria": 165,
+      "eh_requisito_de": [
+         "PST0246"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0080",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO-ÁREA SOCIAL, TRABALHO E ORGANIZAÇÕES 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0219",
+         "PST0271"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0082",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO-ÁREA SOCIAL, TRABALHO E ORGNIZAÇÕES 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0220"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0006",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA SOC. TRAB. E ORG. 4",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0210"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0007",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA SOC. TRAB. E ORG. 5",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0211"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0084",
+      "nome": "ESTÁGIO SUPERVIS PSICÓLOGO - ÁREA SOCIAL, TRABALHO E ORGNIZAÇÕES 3",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0221"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0065",
+      "nome": "INFORMATICA EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0264"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0039",
+      "nome": "MEDIDAS EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0020",
+         "PST0203"
+      ],
+      "pre_requisitos": [
+         "EST0019",
+         "EST0028"
+      ]
+   },
+   {
+      "codigo": "PST0036",
+      "nome": "MÉTODOS DE PESQUISA EM PSICOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0248"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0037",
+      "nome": "MÉTODOS DE PESQUISA EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0202"
+      ],
+      "pre_requisitos": [
+         "EST0019"
+      ]
+   },
+   {
+      "codigo": "PST0069",
+      "nome": "PESQUISA EM AVALIACAO E MEDIDAS EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0070",
+         "PST0214"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0070",
+      "nome": "PESQUISA EM AVALIAÇAO E MEDIDAS EM PSICOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0215"
+      ],
+      "pre_requisitos": [
+         "PST0067",
+         "PST0068",
+         "PST0069",
+         "IPD0058"
+      ]
+   },
+   {
+      "codigo": "PST0074",
+      "nome": "PESQUISA EM ERGONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0217"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0199",
+      "nome": "PESQUISA EM ERGONOMIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0230"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0094",
+      "nome": "PESQUISA EM PSICOLOGIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0095",
+         "PST0226"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0095",
+      "nome": "PESQUISA EM PSICOLOGIA AMBIENTAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0227"
+      ],
+      "pre_requisitos": [
+         "PST0093",
+         "PST0094",
+         "IPD0065"
+      ]
+   },
+   {
+      "codigo": "PST0088",
+      "nome": "PESQUISA EM PSICOLOGIA DAS ORGANIZACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0071",
+         "PST0072",
+         "PST0223"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0072",
+      "nome": "PESQUISA EM PSICOLOGIA DAS ORGANIZACOES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0216"
+      ],
+      "pre_requisitos": [
+         "PST0088",
+         "IPD0070"
+      ]
+   },
+   {
+      "codigo": "PST0090",
+      "nome": "PESQUISA EM PSICOLOGIA DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0224"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0092",
+      "nome": "PESQUISA EM PSICOLOGIA DO TRABALHO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0225"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0005",
+      "nome": "PESQUISA EM PSICOLOGIA SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0209"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0097",
+      "nome": "PESQUISA EM PSICOLOGIA SOCIAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0229"
+      ],
+      "pre_requisitos": [
+         "PST0011  &  PST0004",
+         "PST0005",
+         "IPD0077"
+      ]
+   },
+   {
+      "codigo": "PST0059",
+      "nome": "PSICOLOGIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0205"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0057",
+      "nome": "PSICOLOGIA DA COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0260"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0049",
+      "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0256"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0048",
+      "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0255"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0051",
+      "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0020",
+         "PST0047",
+         "PST0064",
+         "PST0078",
+         "PST0204"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0001",
+      "nome": "PSICOLOGIA DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0208"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0011",
+      "nome": "PSICOLOGIA SOCIAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0001",
+         "PST0012",
+         "PST0051",
+         "PST0057",
+         "PST0078",
+         "DAN0024",
+         "DAN0036",
+         "DAN0043",
+         "DAN0046",
+         "DAN0047",
+         "DAN0049",
+         "DAN0050",
+         "DAN0052",
+         "DAN0053",
+         "DAN0054",
+         "DAN0055",
+         "DAN0056",
+         "DAN0058",
+         "DAN0060",
+         "DAN0061",
+         "DAN0062",
+         "DAN0063",
+         "DAN0065",
+         "DAN0066",
+         "DAN0068",
+         "DAN0070",
+         "DAN0072",
+         "DAN0074",
+         "DAN0076",
+         "DAN0077",
+         "DAN0078",
+         "DAN0080",
+         "DAN0082",
+         "DAN0084",
+         "DAN0086",
+         "DAN0088",
+         "PST0200"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0010",
+      "nome": "PSICOLOGIA SOCIAL 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0012",
+      "nome": "PSICOLOGIA SOCIAL 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0238"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0040",
+      "nome": "PSICOMETRIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0251"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  EST0019"
+      ]
+   },
+   {
+      "codigo": "PST0018",
+      "nome": "RECRUTAMENTO E SELEÇÃO PROFISSIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0241"
+      ],
+      "pre_requisitos": [
+         "PST0039 & PST0051",
+         "PST0014"
+      ]
+   },
+   {
+      "codigo": "PST0017",
+      "nome": "RECRUTAMENTO E SELEÇÃO PROFISSIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0240"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0042",
+      "nome": "TECNICAS DE ENTREVISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0213"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0014",
+      "nome": "TECNICAS DO EXAME PSICOLOGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0018",
+         "PST0239"
+      ],
+      "pre_requisitos": [
+         "PCL0020"
+      ]
+   },
+   {
+      "codigo": "PST0003",
+      "nome": "TÓPICOS EM PSICOLOGIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0047",
+      "nome": "TOPICOS EM PSICOLOGIA ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0254"
+      ],
+      "pre_requisitos": [
+         "PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0045",
+      "nome": "TÓPICOS EM PSICOLOGIA SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0253"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0022",
+      "nome": "TREINAMENTO E DESENVOLVIMENTO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0243"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0023",
+      "nome": "TREINAMENTO E DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0201"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0060",
+      "nome": "USO DO COMPUTADOR EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0262"
+      ],
+      "pre_requisitos": []
+   }
 ]

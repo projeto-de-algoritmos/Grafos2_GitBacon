@@ -1,20 +1,20 @@
 [
-  {
-    "cod": "CER0001",
-    "nome": "T\u00d3PICOS EM ESTUDOS DO CERRADO 1",
-    "ch": 30,
-    "post_requirements": [
-      "CER0003"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CER0002",
-    "nome": "T\u00d3PICOS EM ESTUDOS DO CERRADO 2",
-    "ch": 60,
-    "post_requirements": [
-      "CER0004"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "CER0001",
+      "nome": "TÓPICOS EM ESTUDOS DO CERRADO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CER0003"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CER0002",
+      "nome": "TÓPICOS EM ESTUDOS DO CERRADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CER0004"
+      ],
+      "pre_requisitos": []
+   }
 ]

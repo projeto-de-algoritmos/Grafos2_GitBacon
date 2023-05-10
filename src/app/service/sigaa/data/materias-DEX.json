@@ -1,208 +1,210 @@
 [
-  {
-    "cod": "DEX0212",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 450,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0207",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 300,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0214",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 510,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0208",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 330,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0211",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 420,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0198",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 45,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0200",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 90,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0201",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 120,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0204",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 240,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0206",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 270,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0209",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 360,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0210",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 390,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0213",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 480,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0196",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 15,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0199",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0202",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 150,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0203",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 180,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX0197",
-    "nome": "ATIVIDADE DE EXTENS\u00c3O",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1114",
-    "nome": "CONSTRU\u00c7\u00c3O DE PROJETOS SOCIAIS MULTIDISCIPLINAR",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1108",
-    "nome": "CONSTRU\u00c7\u00c3O DE PROJETOS SOCIAIS MULTIDISCIPLINARES",
-    "ch": 60,
-    "post_requirements": [
-      "DEX1106"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1104",
-    "nome": "CRIATIVIDADE E INTUI\u00c7\u00c3O NA PRODU\u00c7\u00c3O DO CONHECIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "DEX1116"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1101",
-    "nome": "DARCY RIBEIRO: PENSAMENTO E FAZIMENTOS",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1113",
-    "nome": "ETNOLOGIA VISUAL DA IMAGEM DO NEGRO NO CINEMA",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1110",
-    "nome": "FUNDAMENTOS TE\u00d3RICOS METODOL\u00d3GICOS E \u00c9TICOS DA EXTENS\u00c3O",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1102",
-    "nome": "PENSAMENTO NEGRO CONTEMPOR\u00c2NEO",
-    "ch": 60,
-    "post_requirements": [
-      "DEX1115"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1103",
-    "nome": "RESID\u00caNCIA NA EXTENS\u00c3O",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DEX1112",
-    "nome": "RESID\u00caNCIA UNIVERSIT\u00c1RIA MULTIDISCIPLINAR EM EXTENS\u00c3O PROJETO RONDON 1",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": [
-      "DEX1108"
-    ]
-  },
-  {
-    "cod": "DEX1106",
-    "nome": "RESID\u00caNCIA UNIVERSIT\u00c1RIA MULTIDISCIPLINAR EM EXTENS\u00c3O PROJETO RONDON 2",
-    "ch": 120,
-    "post_requirements": [],
-    "pre_requirements": [
-      "DEX1108"
-    ]
-  }
+   {
+      "codigo": "DEX0212",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 450,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0207",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 300,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0214",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 510,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0208",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 330,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0211",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 420,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0198",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0200",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0201",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0204",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 240,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0206",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 270,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0209",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 360,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0210",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 390,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0213",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 480,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0196",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 15,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0199",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0202",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0203",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX0197",
+      "nome": "ATIVIDADE DE EXTENSÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1114",
+      "nome": "CONSTRUÇÃO DE PROJETOS SOCIAIS MULTIDISCIPLINAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1108",
+      "nome": "CONSTRUÇÃO DE PROJETOS SOCIAIS MULTIDISCIPLINARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DEX1106",
+         "DEX1112",
+         "DEX0215"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1104",
+      "nome": "CRIATIVIDADE E INTUIÇÃO NA PRODUÇÃO DO CONHECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DEX1116"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1101",
+      "nome": "DARCY RIBEIRO: PENSAMENTO E FAZIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1113",
+      "nome": "ETNOLOGIA VISUAL DA IMAGEM DO NEGRO NO CINEMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1110",
+      "nome": "FUNDAMENTOS TEÓRICOS METODOLÓGICOS E ÉTICOS DA EXTENSÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1102",
+      "nome": "PENSAMENTO NEGRO CONTEMPORÂNEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DEX1115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1103",
+      "nome": "RESIDÊNCIA NA EXTENSÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DEX1112",
+      "nome": "RESIDÊNCIA UNIVERSITÁRIA MULTIDISCIPLINAR EM EXTENSÃO PROJETO RONDON 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "DEX1108"
+      ]
+   },
+   {
+      "codigo": "DEX1106",
+      "nome": "RESIDÊNCIA UNIVERSITÁRIA MULTIDISCIPLINAR EM EXTENSÃO PROJETO RONDON 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "DEX1108"
+      ]
+   }
 ]

@@ -1,55 +1,55 @@
 [
-  {
-    "cod": "CBH0001",
-    "nome": "BIO\u00c9TICA E BIOTECNOCI\u00caNCIAS",
-    "ch": 30,
-    "post_requirements": [
-      "CB" ????/
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CBH0002",
-    "nome": "BIO\u00c9TICA E BIOTECNOCI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "CB"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CBH0004",
-    "nome": "BIO\u00c9TICA E SA\u00daDE P\u00daBLICA",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CBH0006",
-    "nome": "DECOLONIZING CLASSICS",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CBH0008",
-    "nome": "\u00c9TICAS ANTIGAS",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CBH0005",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 BIO\u00c9TICA",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CBH0007",
-    "nome": "ORIGENS PLURAIS DO PENSAMENTO OCIDENTAL",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "CBH0001",
+      "nome": "BIOÉTICA E BIOTECNOCIÊNCIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CBH0003"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CBH0002",
+      "nome": "BIOÉTICA E BIOTECNOCIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CBH0016"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CBH0004",
+      "nome": "BIOÉTICA E SAÚDE PÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CBH0006",
+      "nome": "DECOLONIZING CLASSICS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CBH0008",
+      "nome": "ÉTICAS ANTIGAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CBH0005",
+      "nome": "INTRODUÇÃO À BIOÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CBH0007",
+      "nome": "ORIGENS PLURAIS DO PENSAMENTO OCIDENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   }
 ]

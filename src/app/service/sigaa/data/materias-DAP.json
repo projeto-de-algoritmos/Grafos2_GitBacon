@@ -1,1397 +1,1436 @@
 [
-  {
-    "cod": "DAP0045",
-    "nome": "ADMINISTRACAO E ASSESSORIA DE RELACOES PUBLICAS 1",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0028"
-    ],
-    "pre_requirements": [
-      "JOR0042 & FAC0018"
-    ]
-  },
-  {
-    "cod": "DAP0027",
-    "nome": "ADMINISTRACAO E ASSESSORIA DE RELACOES PUBLICAS 2",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0252"
-    ],
-    "pre_requirements": [
-      "FAC0012 & JOR0042 & FAC0018"
-    ]
-  },
-  {
-    "cod": "DAP0030",
-    "nome": "ADMINISTRA\u00c7\u00c3O PUBLICIT\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0178"
-    ],
-    "pre_requirements": [
-      "DAP0098",
-      "COM0132 & COM0138"
-    ]
-  },
-  {
-    "cod": "DAP0083",
-    "nome": "ANALISE DA IMAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0293"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0007",
-    "nome": "ANALISE DA PUBLICIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0236"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0017",
-    "nome": "ANALISE DO FILME",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0244"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0008",
-    "nome": "ARGUMENTO E ROTEIRO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0087"
-    ],
-    "pre_requirements": [
-      "DAP0096 & DAP0067",
-      "COM0129 & COM0145",
-      "DAP0096 & DAP0103"
-    ]
-  },
-  {
-    "cod": "DAP0139",
-    "nome": "ARTE E PUBLICIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0337"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0001",
-    "nome": "BRANDING: UMA VIS\u00c3O PR\u00c1TICA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0203"
-    ],
-    "pre_requirements": [
-      "DAP0123",
-      "DAP0126",
-      "COM0143"
-    ]
-  },
-  {
-    "cod": "DAP0021",
-    "nome": "CINEMA BRASILEIRO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0206"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0155",
-    "nome": "CINEMA BRASILEIRO 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0347"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0015",
-    "nome": "CINEMA E LITERATURA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0242"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0100",
-    "nome": "COMUNICA\u00c7\u00c3O E G\u00caNERO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0185"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0099",
-    "nome": "COMUNICA\u00c7\u00c3O E M\u00daSICA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0305"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0084",
-    "nome": "COMUNICA\u00c7\u00c3O E SOCIEDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0183"
-    ],
-    "pre_requirements": [
-      "JOR0045"
-    ]
-  },
-  {
-    "cod": "DAP0102",
-    "nome": "CRIATIVIDADE EM COMUNICA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0308"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0011",
-    "nome": "CRIATIVIDADE EM PUBLICIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0205"
-    ],
-    "pre_requirements": [
-      "DAP0098"
-    ]
-  },
-  {
-    "cod": "DAP0107",
-    "nome": "DIRE\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0175"
-    ],
-    "pre_requirements": [
-      "DAP0008 & DAP0118",
-      "DAP0008 & DAP0117"
-    ]
-  },
-  {
-    "cod": "DAP0012",
-    "nome": "DIRECAO DE ARTE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0239"
-    ],
-    "pre_requirements": [
-      "DAP0006 & DAP0079"
-    ]
-  },
-  {
-    "cod": "DAP0125",
-    "nome": "DIRE\u00c7\u00c3O DE ARTE EM ARTES GR\u00c1FICAS",
-    "ch": 60,
-    "post_requirements": [
-      "J"
-    ],
-    "pre_requirements": [
-      "DAP0098",
-      "COM0132 & COM0138"
-    ]
-  },
-  {
-    "cod": "DAP0147",
-    "nome": "DIRE\u00c7\u00c3O DE ARTE PARA PRODUTO AUDIOVISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0221"
-    ],
-    "pre_requirements": [
-      "DAP0103 & DAP0096"
-    ]
-  },
-  {
-    "cod": "DAP0149",
-    "nome": "DIRE\u00c7\u00c3O DE ATORES",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0222"
-    ],
-    "pre_requirements": [
-      "DAP0096"
-    ]
-  },
-  {
-    "cod": "DAP0025",
-    "nome": "DIRECAO DE PROGRAMAS",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0250"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0078",
-    "nome": "DIRE\u00c7\u00c3O DO FILME 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0016"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0016",
-    "nome": "DIRECAO DO FILME 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0243"
-    ],
-    "pre_requirements": [
-      "DAP0078"
-    ]
-  },
-  {
-    "cod": "DAP0175",
-    "nome": "DIRE\u00c7\u00c3O EM AUDIOVISUAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0228"
-    ],
-    "pre_requirements": [
-      "DAP0107"
-    ]
-  },
-  {
-    "cod": "DAP0154",
-    "nome": "DOCUMENT\u00c1RIO 1",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0199"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0042",
-    "nome": "DOCUMENT\u00c1RIO 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0179"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0140",
-    "nome": "ECONOMIA DO CINEMA E AUDIOVISUAL",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0338"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0053",
-    "nome": "EDI\u00c7\u00c3O DO FILME 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0270"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0090",
-    "nome": "EDICAO DO FILME 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0299"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0111",
-    "nome": "EDI\u00c7\u00c3O E MONTAGEM",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0176"
-    ],
-    "pre_requirements": [
-      "DAP0008 & DAP0118",
-      "DAP0008 & DAP0117"
-    ]
-  },
-  {
-    "cod": "DAP0176",
-    "nome": "EDI\u00c7\u00c3O E MONTAGEM 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0229"
-    ],
-    "pre_requirements": [
-      "DAP0111"
-    ]
-  },
-  {
-    "cod": "DAP0003",
-    "nome": "ELEMENTOS DE LINGUAGEM MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0232"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0081",
-    "nome": "ESTAGIO SUPERVISIONADO EM PUBLICIDADE E PROPAGANDA",
-    "ch": 120,
-    "post_requirements": [
-      "DAP0291"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0082",
-    "nome": "ESTAGIO SUPERVISIONADO EM RADIO, TELEVISAO E CINEMA",
-    "ch": 120,
-    "post_requirements": [
-      "DAP0292"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0080",
-    "nome": "ESTAGIO SUPERVISIONADO EM RELACOES PUBLICAS",
-    "ch": 120,
-    "post_requirements": [
-      "DAP0290"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0050",
-    "nome": "EVOLUCAO DO TEATRO E DA DANCA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0269"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0141",
-    "nome": "FORMATA\u00c7\u00c3O PROJETO  AUDIOVISUAL E CAPTA\u00c7\u00c3O DE RECURSOS",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0339"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0076",
-    "nome": "FOTOGRAFIA E ILUMINA\u00c7\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0055"
-    ],
-    "pre_requirements": [
-      "DAP0118",
-      "DAP0008 & DAP0103",
-      "DAP0008 & DAP0117"
-    ]
-  },
-  {
-    "cod": "DAP0055",
-    "nome": "FOTOGRAFIA E ILUMINACAO 2",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0207"
-    ],
-    "pre_requirements": [
-      "DAP0076"
-    ]
-  },
-  {
-    "cod": "DAP0120",
-    "nome": "FOTOGRAFIA PUBLICIT\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0215"
-    ],
-    "pre_requirements": [
-      "DAP0079",
-      "COM0129 & COM0132"
-    ]
-  },
-  {
-    "cod": "DAP0101",
-    "nome": "FUNDAMENTOS DE COMUNICA\u00c7\u00c3O VISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0186"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0127",
-    "nome": "GERENCIAMENTO DE CONTAS",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0329"
-    ],
-    "pre_requirements": [
-      "DAP0098"
-    ]
-  },
-  {
-    "cod": "DAP0002",
-    "nome": "HISTORIA DA PUBLICIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0231"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0067",
-    "nome": "HISTORIA DO CINEMA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0104"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0151",
-    "nome": "HIST\u00d3RIA DO CINEMA 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0345"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0089",
-    "nome": "INFORMATICA E CINEMA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0298"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0162",
-    "nome": "INTRODU\u00c7\u00c3O A COMUNICA\u00c7\u00c3O N\u00c3O VERBAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0353"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0079",
-    "nome": "INTRODU\u00c7\u00c3O A FOTOGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "J"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0117",
-    "nome": "INTRODU\u00c7\u00c3O A LINGUAGEM SONORA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0105"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0098",
-    "nome": "INTRODU\u00c7\u00c3O A PUBLICIDADE E PROPAGANDA",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0011",
-      "DAP0030"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0085",
-    "nome": "INTRODUCAO AS COMUNICACOES MEDIADAS POR COMPUTADOR",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0295"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0061",
-    "nome": "INTRODUCAO AS HISTORIAS EM QUADRINHOS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0202"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0177",
-    "nome": "INTRODU\u00c7\u00c3O AS REDES SOCIAIS VIRTUAIS",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0366"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0088",
-    "nome": "LABORATORIO DE REALIZACAO CINEMATOGRAFICA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0297"
-    ],
-    "pre_requirements": [
-      "DAP0087"
-    ]
-  },
-  {
-    "cod": "DAP0114",
-    "nome": "LABORAT\u00d3RIO DE REALIZA\u00c7\u00c3O EM \u00c1UDIO",
-    "ch": 210,
-    "post_requirements": [
-      "DAP0318"
-    ],
-    "pre_requirements": [
-      "DAP0008 & DAP0117 & DAP0118"
-    ]
-  },
-  {
-    "cod": "DAP0113",
-    "nome": "LABORAT\u00d3RIO DE REALIZA\u00c7\u00c3O EM CINEMA",
-    "ch": 210,
-    "post_requirements": [
-      "DAP0317"
-    ],
-    "pre_requirements": [
-      "DAP0108 & DAP0107 & DAP0110 & DAP0111 & DAP0105 & DAP0076"
-    ]
-  },
-  {
-    "cod": "DAP0112",
-    "nome": "LABORAT\u00d3RIO DE REALIZA\u00c7\u00c3O EM TV E VIDEO",
-    "ch": 210,
-    "post_requirements": [
-      "DAP0316"
-    ],
-    "pre_requirements": [
-      "DAP0107 & DAP0108 & DAP0076 & DAP0110 & DAP0111 & DAP0105"
-    ]
-  },
-  {
-    "cod": "DAP0087",
-    "nome": "LABORAT\u00d3RIO DE ROTEIRIZA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0088"
-    ],
-    "pre_requirements": [
-      "DAP0008"
-    ]
-  },
-  {
-    "cod": "DAP0128",
-    "nome": "LABORAT\u00d3RIO EM PUBLICIDADE E PROPAGANDA",
-    "ch": 240,
-    "post_requirements": [
-      "DAP0134"
-    ],
-    "pre_requirements": [
-      "DAP0124 & DAP0125 & DAP0126 & DAP0127 & DAP0064"
-    ]
-  },
-  {
-    "cod": "DAP0171",
-    "nome": "LEGISLA\u00c7\u00c3O, DESENVOLVIMENTO E PRODU\u00c7\u00c3O DE PROJETOS",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0226"
-    ],
-    "pre_requirements": [
-      "DAP0174 & DAP0093 & DAP0175"
-    ]
-  },
-  {
-    "cod": "DAP0170",
-    "nome": "LEGISLA\u00c7\u00c3O E REGULAMENTA\u00c7\u00c3O DE PUBLICIDADE E PROPAGANDA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0200"
-    ],
-    "pre_requirements": [
-      "JOR0062"
-    ]
-  },
-  {
-    "cod": "DAP0097",
-    "nome": "LEITURA DOS MEIOS DE COMUNICA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0303"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0173",
-    "nome": "LEITURA ORIENTADA PARA PROJETO FINAL EM PUBLICIDADE E PROPAGANDA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0362"
-    ],
-    "pre_requirements": [
-      "DAP0130"
-    ]
-  },
-  {
-    "cod": "DAP0004",
-    "nome": "LINGUAGEM PUBLICITARIA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0233"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0103",
-    "nome": "LINGUAGENS CINEMATOGR\u00c1FICA E AUDIOVISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0188"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0123",
-    "nome": "MARKETING EM PUBLICIDADE E PROPAGANDA",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0001"
-    ],
-    "pre_requirements": [
-      "DAP0098"
-    ]
-  },
-  {
-    "cod": "DAP0026",
-    "nome": "MERCADOLOGIA DO RADIO E DA TV",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0251"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0005",
-    "nome": "MERCADOLOGIA EM PUBLICIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0234"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0064",
-    "nome": "MIDIA",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0279"
-    ],
-    "pre_requirements": [
-      "DAP0098"
-    ]
-  },
-  {
-    "cod": "DAP0013",
-    "nome": "MIDIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0240"
-    ],
-    "pre_requirements": [
-      "DAP0007 & DAP0064"
-    ]
-  },
-  {
-    "cod": "DAP0172",
-    "nome": "M\u00cdDIA E GERENCIAMENTO DE CONTAS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0201"
-    ],
-    "pre_requirements": [
-      "JOR0045 & DAP0098",
-      "COM0128 & COM0132"
-    ]
-  },
-  {
-    "cod": "DAP0157",
-    "nome": "NOVAS MIDIAS AUDIOVISUAIS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0349"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0096",
-    "nome": "OFICINA B\u00c1SICA DE AUDIOVISUAL",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0104"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0150",
-    "nome": "OFICINA DE ANIMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0223"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0105",
-    "nome": "OFICINA DE ARGUMENTO E ROTEIRO",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0212"
-    ],
-    "pre_requirements": [
-      "DAP0008",
-      "DAP0117"
-    ]
-  },
-  {
-    "cod": "DAP0169",
-    "nome": "OFICINA DE HIST\u00d3RIA EM QUADRINHOS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0358"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0131",
-    "nome": "OFICINA DE INTERPRETA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0333"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0167",
-    "nome": "OFICINA DE PUBLICIDADE 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0356"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0168",
-    "nome": "OFICINA DE PUBLICIDADE 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0357"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0132",
-    "nome": "OFICINA DE PUBLICIDADE E PROPAGANDA 1",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0334"
-    ],
-    "pre_requirements": [
-      "DAP0098"
-    ]
-  },
-  {
-    "cod": "DAP0133",
-    "nome": "OFICINA DE PUBLICIDADE E PROPAGANDA 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0335"
-    ],
-    "pre_requirements": [
-      "DAP0124 & DAP0125 & DAP0126 & DAP0064"
-    ]
-  },
-  {
-    "cod": "DAP0134",
-    "nome": "OFICINA DE PUBLICIDADE E PROPAGANDA 3",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0336"
-    ],
-    "pre_requirements": [
-      "DAP0128"
-    ]
-  },
-  {
-    "cod": "DAP0059",
-    "nome": "OFICINA DE TEXTO - CINEMA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0275"
-    ],
-    "pre_requirements": [
-      "JOR0072"
-    ]
-  },
-  {
-    "cod": "DAP0058",
-    "nome": "OFICINA DE TEXTO - RADIALISMO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0274"
-    ],
-    "pre_requirements": [
-      "JOR0072"
-    ]
-  },
-  {
-    "cod": "DAP0057",
-    "nome": "OFICINA DE TEXTO - RELACOES PUBLICAS",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0273"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0160",
-    "nome": "OFICINA RADIOF\u00d4NICA DE ADAPTA\u00c7\u00c3O LITER\u00c1RIA",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0352"
-    ],
-    "pre_requirements": [
-      "DAP0115 & DAP0118"
-    ]
-  },
-  {
-    "cod": "DAP0071",
-    "nome": "ORGANIZA\u00c7\u00c3O DA PRODU\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0284"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0044",
-    "nome": "PESQUISA PUBLICIT\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0180"
-    ],
-    "pre_requirements": [
-      "DAP0098"
-    ]
-  },
-  {
-    "cod": "DAP0062",
-    "nome": "PLANEJAMENTO DE CAMPANHAS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0278"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0028",
-    "nome": "PLANEJAMENTO DE RELACOES PUBLICAS",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0253"
-    ],
-    "pre_requirements": [
-      "DAP0045"
-    ]
-  },
-  {
-    "cod": "DAP0126",
-    "nome": "PLANEJAMENTO PUBLICIT\u00c1RIO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0001"
-    ],
-    "pre_requirements": [
-      "DAP0098 & DAP0123",
-      "COM0131 & COM0132 & COM0128"
-    ]
-  },
-  {
-    "cod": "DAP0115",
-    "nome": "PR\u00c9-PROJETO EM AUDIOVISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0213"
-    ],
-    "pre_requirements": [
-      "DAP0107 & DAP0108 & DAP0076 & DAP0110 & DAP0111 & DAP0105"
-    ]
-  },
-  {
-    "cod": "DAP0130",
-    "nome": "PR\u00c9-PROJETO EM PUBLICIDADE E PROPAGANDA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0173"
-    ],
-    "pre_requirements": [
-      "DAP0124 & DAP0125 & DAP0126 & DAP0064 & DAP0127"
-    ]
-  },
-  {
-    "cod": "DAP0108",
-    "nome": "PRODU\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0093"
-    ],
-    "pre_requirements": [
-      "DAP0008 & DAP0118",
-      "DAP0008 & DAP0117"
-    ]
-  },
-  {
-    "cod": "DAP0093",
-    "nome": "PRODU\u00c7\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0210"
-    ],
-    "pre_requirements": [
-      "DAP0108"
-    ]
-  },
-  {
-    "cod": "DAP0073",
-    "nome": "PRODUCAO E EDICAO EM TV",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0286"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0072",
-    "nome": "PRODUCAO E INTERPRETACAO PARA RADIO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0285"
-    ],
-    "pre_requirements": [
-      "DAP0068",
-      "JOR0054"
-    ]
-  },
-  {
-    "cod": "DAP0006",
-    "nome": "PRODUCAO GRAFICA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0235"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0158",
-    "nome": "PRODU\u00c7\u00c3O PUBLICIT\u00c1RIA AUDIOVISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0224"
-    ],
-    "pre_requirements": [
-      "DAP0125 & DAP0124 & DAP0126 & DAP0172"
-    ]
-  },
-  {
-    "cod": "DAP0031",
-    "nome": "PRODUCAO PUBLICITARIA PARA RADIO, TELEVISAO E CINEMA",
-    "ch": 120,
-    "post_requirements": [
-      "DAP0255"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0116",
-    "nome": "PROJETO EXPERIMENTAL EM AUDIOVISUAL",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0214"
-    ],
-    "pre_requirements": [
-      "DAP0115 & DAP0113",
-      "DAP0115 & DAP0112",
-      "DAP0115 & DAP0114",
-      "DAP0115 & DAP0175 & DAP0093 & DAP0055 & DAP0174 & DAP0176"
-    ]
-  },
-  {
-    "cod": "DAP0159",
-    "nome": "PROJETO FINAL EM PUBLICIDADE E PROPAGANDA",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0225"
-    ],
-    "pre_requirements": [
-      "DAP0130 & DAP0128"
-    ]
-  },
-  {
-    "cod": "DAP0035",
-    "nome": "PROJETOS EXPERIMENTAIS - CINEMA",
-    "ch": 270,
-    "post_requirements": [
-      "DAP0257"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0033",
-    "nome": "PROJETOS EXPERIMENTAIS - PUBLICIDADE",
-    "ch": 270,
-    "post_requirements": [
-      "DAP0256"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0040",
-    "nome": "PROJETOS EXPERIMENTAIS - RADIALISMO",
-    "ch": 270,
-    "post_requirements": [
-      "DAP0261"
-    ],
-    "pre_requirements": [
-      "DAP0025 & DAP0071"
-    ]
-  },
-  {
-    "cod": "DAP0056",
-    "nome": "PROJETOS EXPERIMENTAIS - RELACOES PUBLICAS",
-    "ch": 270,
-    "post_requirements": [
-      "DAP0272"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0060",
-    "nome": "PUBLICIDADE E SOCIEDADE",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0208"
-    ],
-    "pre_requirements": [
-      "DAP0098",
-      "COM0129 & COM0132"
-    ]
-  },
-  {
-    "cod": "DAP0049",
-    "nome": "REDACAO DE MENSAGENS ESPECIFICAS DE RELACOES PUBLICAS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0268"
-    ],
-    "pre_requirements": [
-      "LIP0037"
-    ]
-  },
-  {
-    "cod": "DAP0048",
-    "nome": "REDACAO DE NARRATIVAS ESPECIFICAS DE RELACOES PUBLICAS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0267"
-    ],
-    "pre_requirements": [
-      "LIP0037"
-    ]
-  },
-  {
-    "cod": "DAP0047",
-    "nome": "REDACAO DE PECAS INSTITUCIONAIS DE RELACOES PUBLICAS",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0266"
-    ],
-    "pre_requirements": [
-      "LIP0037"
-    ]
-  },
-  {
-    "cod": "DAP0023",
-    "nome": "REDACAO PARA OS MEIOS DE COMUNICACAO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0248"
-    ],
-    "pre_requirements": [
-      "LIP0037"
-    ]
-  },
-  {
-    "cod": "DAP0014",
-    "nome": "REDACAO PARA PUBLICIDADE AUDIO-VISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0241"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0068",
-    "nome": "REDACAO PARA RADIO 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0036"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0036",
-    "nome": "REDACAO PARA RADIO 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0258"
-    ],
-    "pre_requirements": [
-      "DAP0068",
-      "JOR0054"
-    ]
-  },
-  {
-    "cod": "DAP0037",
-    "nome": "REDACAO PARA TV 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0259"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0038",
-    "nome": "REDACAO PARA TV 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0260"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0156",
-    "nome": "REDA\u00c7\u00c3O PRODU\u00c7\u00c3O E EDI\u00c7\u00c3O EM TELEVIS\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0348"
-    ],
-    "pre_requirements": [
-      "DAP0096 & JOR0058",
-      "COM0129 & COM0132 & COM0135"
-    ]
-  },
-  {
-    "cod": "DAP0124",
-    "nome": "REDA\u00c7\u00c3O PUBLICIT\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0216"
-    ],
-    "pre_requirements": [
-      "DAP0098",
-      "COM0128 & COM0132"
-    ]
-  },
-  {
-    "cod": "DAP0065",
-    "nome": "RELACOES PUBLICAS 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0066"
-    ],
-    "pre_requirements": [
-      "FAC0018"
-    ]
-  },
-  {
-    "cod": "DAP0066",
-    "nome": "RELACOES PUBLICAS 2",
-    "ch": 90,
-    "post_requirements": [
-      "DAP0281"
-    ],
-    "pre_requirements": [
-      "DAP0065"
-    ]
-  },
-  {
-    "cod": "DAP0118",
-    "nome": "ROTEIRO, PRODU\u00c7\u00c3O E REALIZA\u00c7\u00c3O EM \u00c1UDIO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0076"
-    ],
-    "pre_requirements": [
-      "DAP0117",
-      "COM0129 & COM0145"
-    ]
-  },
-  {
-    "cod": "DAP0129",
-    "nome": "SEMIN\u00c1RIOS AVAN\u00c7ADOS EM \u00c1UDIOVISUAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0331"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0119",
-    "nome": "SEMIN\u00c1RIOS AVAN\u00c7ADOS EM AUDIOVISUAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0323"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0110",
-    "nome": "SOM 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0174"
-    ],
-    "pre_requirements": [
-      "DAP0118",
-      "DAP0008 & DAP0103",
-      "DAP0008 & DAP0117"
-    ]
-  },
-  {
-    "cod": "DAP0174",
-    "nome": "SOM 2",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0227"
-    ],
-    "pre_requirements": [
-      "DAP0110"
-    ]
-  },
-  {
-    "cod": "DAP0020",
-    "nome": "SOM DO FILME 1",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0245"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0091",
-    "nome": "SOM DO FILME 2",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0300"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0024",
-    "nome": "TECNOLOGIA DO RADIO E TV",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0249"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0022",
-    "nome": "TENDENCIAS DO CINEMA E DA TELEVISAO",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0247"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0046",
-    "nome": "TEORIA E PESQUISA DA OPINIAO PUBLICA",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0265"
-    ],
-    "pre_requirements": [
-      "FAC0017"
-    ]
-  },
-  {
-    "cod": "DAP0104",
-    "nome": "TEORIA EST\u00c9TICA DO CINEMA E DO AUDIOVISUAL",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0189"
-    ],
-    "pre_requirements": [
-      "DAP0067",
-      "DAP0096"
-    ]
-  },
-  {
-    "cod": "DAP0143",
-    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 3",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0219"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0145",
-    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 4",
-    "ch": 60,
-    "post_requirements": [
-      "DAP0220"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0164",
-    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 7",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0354"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "DAP0166",
-    "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 8",
-    "ch": 30,
-    "post_requirements": [
-      "DAP0355"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "DAP0045",
+      "nome": "ADMINISTRACAO E ASSESSORIA DE RELACOES PUBLICAS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0028",
+         "FAC0013",
+         "DAP0264"
+      ],
+      "pre_requisitos": [
+         "JOR0042 & FAC0018"
+      ]
+   },
+   {
+      "codigo": "DAP0027",
+      "nome": "ADMINISTRACAO E ASSESSORIA DE RELACOES PUBLICAS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0252"
+      ],
+      "pre_requisitos": [
+         "FAC0012 & JOR0042 & FAC0018"
+      ]
+   },
+   {
+      "codigo": "DAP0030",
+      "nome": "ADMINISTRAÇÃO PUBLICITÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0178"
+      ],
+      "pre_requisitos": [
+         "DAP0098",
+         "COM0132 & COM0138"
+      ]
+   },
+   {
+      "codigo": "DAP0083",
+      "nome": "ANALISE DA IMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0293"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0007",
+      "nome": "ANALISE DA PUBLICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0017",
+      "nome": "ANALISE DO FILME",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0244"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0008",
+      "nome": "ARGUMENTO E ROTEIRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0087",
+         "DAP0105",
+         "DAP0204"
+      ],
+      "pre_requisitos": [
+         "DAP0096 & DAP0067",
+         "COM0129 & COM0145",
+         "DAP0096 & DAP0103"
+      ]
+   },
+   {
+      "codigo": "DAP0139",
+      "nome": "ARTE E PUBLICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0337"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0001",
+      "nome": "BRANDING: UMA VISÃO PRÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0203"
+      ],
+      "pre_requisitos": [
+         "DAP0123",
+         "DAP0126",
+         "COM0143"
+      ]
+   },
+   {
+      "codigo": "DAP0021",
+      "nome": "CINEMA BRASILEIRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0206"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0155",
+      "nome": "CINEMA BRASILEIRO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0347"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0015",
+      "nome": "CINEMA E LITERATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0242"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0100",
+      "nome": "COMUNICAÇÃO E GÊNERO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0185"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0099",
+      "nome": "COMUNICAÇÃO E MÚSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0305"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0084",
+      "nome": "COMUNICAÇÃO E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0183"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "DAP0102",
+      "nome": "CRIATIVIDADE EM COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0308"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0011",
+      "nome": "CRIATIVIDADE EM PUBLICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0205"
+      ],
+      "pre_requisitos": [
+         "DAP0098"
+      ]
+   },
+   {
+      "codigo": "DAP0107",
+      "nome": "DIREÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0175",
+         "DAP0190"
+      ],
+      "pre_requisitos": [
+         "DAP0008 & DAP0118",
+         "DAP0008 & DAP0117"
+      ]
+   },
+   {
+      "codigo": "DAP0012",
+      "nome": "DIRECAO DE ARTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0239"
+      ],
+      "pre_requisitos": [
+         "DAP0006 & DAP0079"
+      ]
+   },
+   {
+      "codigo": "DAP0125",
+      "nome": "DIREÇÃO DE ARTE EM ARTES GRÁFICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0133",
+         "DAP0197"
+      ],
+      "pre_requisitos": [
+         "DAP0098",
+         "COM0132 & COM0138"
+      ]
+   },
+   {
+      "codigo": "DAP0147",
+      "nome": "DIREÇÃO DE ARTE PARA PRODUTO AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0221"
+      ],
+      "pre_requisitos": [
+         "DAP0103 & DAP0096"
+      ]
+   },
+   {
+      "codigo": "DAP0149",
+      "nome": "DIREÇÃO DE ATORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0222"
+      ],
+      "pre_requisitos": [
+         "DAP0096"
+      ]
+   },
+   {
+      "codigo": "DAP0025",
+      "nome": "DIRECAO DE PROGRAMAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0250"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0078",
+      "nome": "DIREÇÃO DO FILME 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0016",
+         "DAP0288"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0016",
+      "nome": "DIRECAO DO FILME 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0243"
+      ],
+      "pre_requisitos": [
+         "DAP0078"
+      ]
+   },
+   {
+      "codigo": "DAP0175",
+      "nome": "DIREÇÃO EM AUDIOVISUAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0228"
+      ],
+      "pre_requisitos": [
+         "DAP0107"
+      ]
+   },
+   {
+      "codigo": "DAP0154",
+      "nome": "DOCUMENTÁRIO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0199"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0042",
+      "nome": "DOCUMENTÁRIO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0140",
+      "nome": "ECONOMIA DO CINEMA E AUDIOVISUAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0338"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0053",
+      "nome": "EDIÇÃO DO FILME 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0270"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0090",
+      "nome": "EDICAO DO FILME 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0299"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0111",
+      "nome": "EDIÇÃO E MONTAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0176",
+         "DAP0193"
+      ],
+      "pre_requisitos": [
+         "DAP0008 & DAP0118",
+         "DAP0008 & DAP0117"
+      ]
+   },
+   {
+      "codigo": "DAP0176",
+      "nome": "EDIÇÃO E MONTAGEM 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0229"
+      ],
+      "pre_requisitos": [
+         "DAP0111"
+      ]
+   },
+   {
+      "codigo": "DAP0003",
+      "nome": "ELEMENTOS DE LINGUAGEM MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0081",
+      "nome": "ESTAGIO SUPERVISIONADO EM PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "DAP0291"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0082",
+      "nome": "ESTAGIO SUPERVISIONADO EM RADIO, TELEVISAO E CINEMA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "DAP0292"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0080",
+      "nome": "ESTAGIO SUPERVISIONADO EM RELACOES PUBLICAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "DAP0290"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0050",
+      "nome": "EVOLUCAO DO TEATRO E DA DANCA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0269"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0141",
+      "nome": "FORMATAÇÃO PROJETO  AUDIOVISUAL E CAPTAÇÃO DE RECURSOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0339"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0076",
+      "nome": "FOTOGRAFIA E ILUMINAÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0055",
+         "DAP0209"
+      ],
+      "pre_requisitos": [
+         "DAP0118",
+         "DAP0008 & DAP0103",
+         "DAP0008 & DAP0117"
+      ]
+   },
+   {
+      "codigo": "DAP0055",
+      "nome": "FOTOGRAFIA E ILUMINACAO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0207"
+      ],
+      "pre_requisitos": [
+         "DAP0076"
+      ]
+   },
+   {
+      "codigo": "DAP0120",
+      "nome": "FOTOGRAFIA PUBLICITÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0215"
+      ],
+      "pre_requisitos": [
+         "DAP0079",
+         "COM0129 & COM0132"
+      ]
+   },
+   {
+      "codigo": "DAP0101",
+      "nome": "FUNDAMENTOS DE COMUNICAÇÃO VISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0186"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0127",
+      "nome": "GERENCIAMENTO DE CONTAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0329"
+      ],
+      "pre_requisitos": [
+         "DAP0098"
+      ]
+   },
+   {
+      "codigo": "DAP0002",
+      "nome": "HISTORIA DA PUBLICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0231"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0067",
+      "nome": "HISTORIA DO CINEMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0104",
+         "DAP0181"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0151",
+      "nome": "HISTÓRIA DO CINEMA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0345"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0089",
+      "nome": "INFORMATICA E CINEMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0298"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0162",
+      "nome": "INTRODUÇÃO A COMUNICAÇÃO NÃO VERBAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0353"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0079",
+      "nome": "INTRODUÇÃO A FOTOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0039",
+         "DAP0120",
+         "DAP0182"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0117",
+      "nome": "INTRODUÇÃO A LINGUAGEM SONORA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0105",
+         "DAP0118",
+         "DAP0194"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0098",
+      "nome": "INTRODUÇÃO A PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0011",
+         "DAP0030",
+         "DAP0044",
+         "DAP0060",
+         "DAP0064",
+         "DAP0123",
+         "DAP0124",
+         "DAP0125",
+         "DAP0127",
+         "DAP0132",
+         "DAP0211"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0085",
+      "nome": "INTRODUCAO AS COMUNICACOES MEDIADAS POR COMPUTADOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0295"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0061",
+      "nome": "INTRODUCAO AS HISTORIAS EM QUADRINHOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0202"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0177",
+      "nome": "INTRODUÇÃO AS REDES SOCIAIS VIRTUAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0366"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0088",
+      "nome": "LABORATORIO DE REALIZACAO CINEMATOGRAFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0297"
+      ],
+      "pre_requisitos": [
+         "DAP0087"
+      ]
+   },
+   {
+      "codigo": "DAP0114",
+      "nome": "LABORATÓRIO DE REALIZAÇÃO EM ÁUDIO",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "DAP0318"
+      ],
+      "pre_requisitos": [
+         "DAP0008 & DAP0117 & DAP0118"
+      ]
+   },
+   {
+      "codigo": "DAP0113",
+      "nome": "LABORATÓRIO DE REALIZAÇÃO EM CINEMA",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "DAP0317"
+      ],
+      "pre_requisitos": [
+         "DAP0108 & DAP0107 & DAP0110 & DAP0111 & DAP0105 & DAP0076"
+      ]
+   },
+   {
+      "codigo": "DAP0112",
+      "nome": "LABORATÓRIO DE REALIZAÇÃO EM TV E VIDEO",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "DAP0316"
+      ],
+      "pre_requisitos": [
+         "DAP0107 & DAP0108 & DAP0076 & DAP0110 & DAP0111 & DAP0105"
+      ]
+   },
+   {
+      "codigo": "DAP0087",
+      "nome": "LABORATÓRIO DE ROTEIRIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0088",
+         "DAP0296"
+      ],
+      "pre_requisitos": [
+         "DAP0008"
+      ]
+   },
+   {
+      "codigo": "DAP0128",
+      "nome": "LABORATÓRIO EM PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "DAP0134",
+         "DAP0198"
+      ],
+      "pre_requisitos": [
+         "DAP0124 & DAP0125 & DAP0126 & DAP0127 & DAP0064"
+      ]
+   },
+   {
+      "codigo": "DAP0171",
+      "nome": "LEGISLAÇÃO, DESENVOLVIMENTO E PRODUÇÃO DE PROJETOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0226"
+      ],
+      "pre_requisitos": [
+         "DAP0174 & DAP0093 & DAP0175"
+      ]
+   },
+   {
+      "codigo": "DAP0170",
+      "nome": "LEGISLAÇÃO E REGULAMENTAÇÃO DE PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0200"
+      ],
+      "pre_requisitos": [
+         "JOR0062"
+      ]
+   },
+   {
+      "codigo": "DAP0097",
+      "nome": "LEITURA DOS MEIOS DE COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0303"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0173",
+      "nome": "LEITURA ORIENTADA PARA PROJETO FINAL EM PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0362"
+      ],
+      "pre_requisitos": [
+         "DAP0130"
+      ]
+   },
+   {
+      "codigo": "DAP0004",
+      "nome": "LINGUAGEM PUBLICITARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0233"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0103",
+      "nome": "LINGUAGENS CINEMATOGRÁFICA E AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0188"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0123",
+      "nome": "MARKETING EM PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0001",
+         "DAP0196"
+      ],
+      "pre_requisitos": [
+         "DAP0098"
+      ]
+   },
+   {
+      "codigo": "DAP0026",
+      "nome": "MERCADOLOGIA DO RADIO E DA TV",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0251"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0005",
+      "nome": "MERCADOLOGIA EM PUBLICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0234"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0064",
+      "nome": "MIDIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0279"
+      ],
+      "pre_requisitos": [
+         "DAP0098"
+      ]
+   },
+   {
+      "codigo": "DAP0013",
+      "nome": "MIDIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0240"
+      ],
+      "pre_requisitos": [
+         "DAP0007 & DAP0064"
+      ]
+   },
+   {
+      "codigo": "DAP0172",
+      "nome": "MÍDIA E GERENCIAMENTO DE CONTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0201"
+      ],
+      "pre_requisitos": [
+         "JOR0045 & DAP0098",
+         "COM0128 & COM0132"
+      ]
+   },
+   {
+      "codigo": "DAP0157",
+      "nome": "NOVAS MIDIAS AUDIOVISUAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0349"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0096",
+      "nome": "OFICINA BÁSICA DE AUDIOVISUAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0104",
+         "JOR0105",
+         "DAP0149",
+         "DAP0184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0150",
+      "nome": "OFICINA DE ANIMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0223"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0105",
+      "nome": "OFICINA DE ARGUMENTO E ROTEIRO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0212"
+      ],
+      "pre_requisitos": [
+         "DAP0008",
+         "DAP0117"
+      ]
+   },
+   {
+      "codigo": "DAP0169",
+      "nome": "OFICINA DE HISTÓRIA EM QUADRINHOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0358"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0131",
+      "nome": "OFICINA DE INTERPRETAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0333"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0167",
+      "nome": "OFICINA DE PUBLICIDADE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0356"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0168",
+      "nome": "OFICINA DE PUBLICIDADE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0357"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0132",
+      "nome": "OFICINA DE PUBLICIDADE E PROPAGANDA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0334"
+      ],
+      "pre_requisitos": [
+         "DAP0098"
+      ]
+   },
+   {
+      "codigo": "DAP0133",
+      "nome": "OFICINA DE PUBLICIDADE E PROPAGANDA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0335"
+      ],
+      "pre_requisitos": [
+         "DAP0124 & DAP0125 & DAP0126 & DAP0064"
+      ]
+   },
+   {
+      "codigo": "DAP0134",
+      "nome": "OFICINA DE PUBLICIDADE E PROPAGANDA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0336"
+      ],
+      "pre_requisitos": [
+         "DAP0128"
+      ]
+   },
+   {
+      "codigo": "DAP0059",
+      "nome": "OFICINA DE TEXTO - CINEMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0275"
+      ],
+      "pre_requisitos": [
+         "JOR0072"
+      ]
+   },
+   {
+      "codigo": "DAP0058",
+      "nome": "OFICINA DE TEXTO - RADIALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0274"
+      ],
+      "pre_requisitos": [
+         "JOR0072"
+      ]
+   },
+   {
+      "codigo": "DAP0057",
+      "nome": "OFICINA DE TEXTO - RELACOES PUBLICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0273"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0160",
+      "nome": "OFICINA RADIOFÔNICA DE ADAPTAÇÃO LITERÁRIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0352"
+      ],
+      "pre_requisitos": [
+         "DAP0115 & DAP0118"
+      ]
+   },
+   {
+      "codigo": "DAP0071",
+      "nome": "ORGANIZAÇÃO DA PRODUÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0284"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0044",
+      "nome": "PESQUISA PUBLICITÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0180"
+      ],
+      "pre_requisitos": [
+         "DAP0098"
+      ]
+   },
+   {
+      "codigo": "DAP0062",
+      "nome": "PLANEJAMENTO DE CAMPANHAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0278"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0028",
+      "nome": "PLANEJAMENTO DE RELACOES PUBLICAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0253"
+      ],
+      "pre_requisitos": [
+         "DAP0045"
+      ]
+   },
+   {
+      "codigo": "DAP0126",
+      "nome": "PLANEJAMENTO PUBLICITÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0001",
+         "COM0134",
+         "DAP0217"
+      ],
+      "pre_requisitos": [
+         "DAP0098 & DAP0123",
+         "COM0131 & COM0132 & COM0128"
+      ]
+   },
+   {
+      "codigo": "DAP0115",
+      "nome": "PRÉ-PROJETO EM AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0213"
+      ],
+      "pre_requisitos": [
+         "DAP0107 & DAP0108 & DAP0076 & DAP0110 & DAP0111 & DAP0105"
+      ]
+   },
+   {
+      "codigo": "DAP0130",
+      "nome": "PRÉ-PROJETO EM PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0173",
+         "DAP0218"
+      ],
+      "pre_requisitos": [
+         "DAP0124 & DAP0125 & DAP0126 & DAP0064 & DAP0127"
+      ]
+   },
+   {
+      "codigo": "DAP0108",
+      "nome": "PRODUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0093",
+         "DAP0191"
+      ],
+      "pre_requisitos": [
+         "DAP0008 & DAP0118",
+         "DAP0008 & DAP0117"
+      ]
+   },
+   {
+      "codigo": "DAP0093",
+      "nome": "PRODUÇÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0210"
+      ],
+      "pre_requisitos": [
+         "DAP0108"
+      ]
+   },
+   {
+      "codigo": "DAP0073",
+      "nome": "PRODUCAO E EDICAO EM TV",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0286"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0072",
+      "nome": "PRODUCAO E INTERPRETACAO PARA RADIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0285"
+      ],
+      "pre_requisitos": [
+         "DAP0068",
+         "JOR0054"
+      ]
+   },
+   {
+      "codigo": "DAP0006",
+      "nome": "PRODUCAO GRAFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0235"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0158",
+      "nome": "PRODUÇÃO PUBLICITÁRIA AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0224"
+      ],
+      "pre_requisitos": [
+         "DAP0125 & DAP0124 & DAP0126 & DAP0172"
+      ]
+   },
+   {
+      "codigo": "DAP0031",
+      "nome": "PRODUCAO PUBLICITARIA PARA RADIO, TELEVISAO E CINEMA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "DAP0255"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0116",
+      "nome": "PROJETO EXPERIMENTAL EM AUDIOVISUAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0214"
+      ],
+      "pre_requisitos": [
+         "DAP0115 & DAP0113",
+         "DAP0115 & DAP0112",
+         "DAP0115 & DAP0114",
+         "DAP0115 & DAP0175 & DAP0093 & DAP0055 & DAP0174 & DAP0176"
+      ]
+   },
+   {
+      "codigo": "DAP0159",
+      "nome": "PROJETO FINAL EM PUBLICIDADE E PROPAGANDA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0225"
+      ],
+      "pre_requisitos": [
+         "DAP0130 & DAP0128"
+      ]
+   },
+   {
+      "codigo": "DAP0035",
+      "nome": "PROJETOS EXPERIMENTAIS - CINEMA",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "DAP0257"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0033",
+      "nome": "PROJETOS EXPERIMENTAIS - PUBLICIDADE",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "DAP0256"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0040",
+      "nome": "PROJETOS EXPERIMENTAIS - RADIALISMO",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "DAP0261"
+      ],
+      "pre_requisitos": [
+         "DAP0025 & DAP0071"
+      ]
+   },
+   {
+      "codigo": "DAP0056",
+      "nome": "PROJETOS EXPERIMENTAIS - RELACOES PUBLICAS",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "DAP0272"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0060",
+      "nome": "PUBLICIDADE E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0208"
+      ],
+      "pre_requisitos": [
+         "DAP0098",
+         "COM0129 & COM0132"
+      ]
+   },
+   {
+      "codigo": "DAP0049",
+      "nome": "REDACAO DE MENSAGENS ESPECIFICAS DE RELACOES PUBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0268"
+      ],
+      "pre_requisitos": [
+         "LIP0037"
+      ]
+   },
+   {
+      "codigo": "DAP0048",
+      "nome": "REDACAO DE NARRATIVAS ESPECIFICAS DE RELACOES PUBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0267"
+      ],
+      "pre_requisitos": [
+         "LIP0037"
+      ]
+   },
+   {
+      "codigo": "DAP0047",
+      "nome": "REDACAO DE PECAS INSTITUCIONAIS DE RELACOES PUBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0266"
+      ],
+      "pre_requisitos": [
+         "LIP0037"
+      ]
+   },
+   {
+      "codigo": "DAP0023",
+      "nome": "REDACAO PARA OS MEIOS DE COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0248"
+      ],
+      "pre_requisitos": [
+         "LIP0037"
+      ]
+   },
+   {
+      "codigo": "DAP0014",
+      "nome": "REDACAO PARA PUBLICIDADE AUDIO-VISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0241"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0068",
+      "nome": "REDACAO PARA RADIO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0036",
+         "DAP0072",
+         "DAP0283"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0036",
+      "nome": "REDACAO PARA RADIO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0258"
+      ],
+      "pre_requisitos": [
+         "DAP0068",
+         "JOR0054"
+      ]
+   },
+   {
+      "codigo": "DAP0037",
+      "nome": "REDACAO PARA TV 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0259"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0038",
+      "nome": "REDACAO PARA TV 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0260"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0156",
+      "nome": "REDAÇÃO PRODUÇÃO E EDIÇÃO EM TELEVISÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0348"
+      ],
+      "pre_requisitos": [
+         "DAP0096 & JOR0058",
+         "COM0129 & COM0132 & COM0135"
+      ]
+   },
+   {
+      "codigo": "DAP0124",
+      "nome": "REDAÇÃO PUBLICITÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0216"
+      ],
+      "pre_requisitos": [
+         "DAP0098",
+         "COM0128 & COM0132"
+      ]
+   },
+   {
+      "codigo": "DAP0065",
+      "nome": "RELACOES PUBLICAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0066",
+         "DAP0280"
+      ],
+      "pre_requisitos": [
+         "FAC0018"
+      ]
+   },
+   {
+      "codigo": "DAP0066",
+      "nome": "RELACOES PUBLICAS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DAP0281"
+      ],
+      "pre_requisitos": [
+         "DAP0065"
+      ]
+   },
+   {
+      "codigo": "DAP0118",
+      "nome": "ROTEIRO, PRODUÇÃO E REALIZAÇÃO EM ÁUDIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0076",
+         "DAP0110",
+         "DAP0195"
+      ],
+      "pre_requisitos": [
+         "DAP0117",
+         "COM0129 & COM0145"
+      ]
+   },
+   {
+      "codigo": "DAP0129",
+      "nome": "SEMINÁRIOS AVANÇADOS EM ÁUDIOVISUAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0331"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0119",
+      "nome": "SEMINÁRIOS AVANÇADOS EM AUDIOVISUAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0323"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0110",
+      "nome": "SOM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0174",
+         "DAP0192"
+      ],
+      "pre_requisitos": [
+         "DAP0118",
+         "DAP0008 & DAP0103",
+         "DAP0008 & DAP0117"
+      ]
+   },
+   {
+      "codigo": "DAP0174",
+      "nome": "SOM 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0227"
+      ],
+      "pre_requisitos": [
+         "DAP0110"
+      ]
+   },
+   {
+      "codigo": "DAP0020",
+      "nome": "SOM DO FILME 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0245"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0091",
+      "nome": "SOM DO FILME 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0300"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0024",
+      "nome": "TECNOLOGIA DO RADIO E TV",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0249"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0022",
+      "nome": "TENDENCIAS DO CINEMA E DA TELEVISAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0247"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0046",
+      "nome": "TEORIA E PESQUISA DA OPINIAO PUBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0265"
+      ],
+      "pre_requisitos": [
+         "FAC0017"
+      ]
+   },
+   {
+      "codigo": "DAP0104",
+      "nome": "TEORIA ESTÉTICA DO CINEMA E DO AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0189"
+      ],
+      "pre_requisitos": [
+         "DAP0067",
+         "DAP0096"
+      ]
+   },
+   {
+      "codigo": "DAP0143",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0219"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0145",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0220"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0164",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 7",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0354"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "DAP0166",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 8",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0355"
+      ],
+      "pre_requisitos": []
+   }
 ]

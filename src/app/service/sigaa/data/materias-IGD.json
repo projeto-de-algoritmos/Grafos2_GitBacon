@@ -1,2253 +1,2380 @@
 [
-  {
-    "cod": "IGD0213",
-    "nome": "AN\u00c1LISE DE SINAIS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0649"
-    ],
-    "pre_requirements": [
-      "IFD0179 & IFD0181 & IGD0192",
-      "IFD0179 & IFD0181 & MAT0059 & IGD0187"
-    ]
-  },
-  {
-    "cod": "IGD0132",
-    "nome": "BIOESTRATIGRAFIA E PALEOECOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0728"
-    ],
-    "pre_requirements": [
-      "IGD0049"
-    ]
-  },
-  {
-    "cod": "IGD0180",
-    "nome": "CARACTERIZA\u00c7\u00c3O DE DEP\u00d3SITOS HIDROTERMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0767"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0198",
-    "nome": "CARTOGRAFIA E GEOD\u00c9SIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0143"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0206",
-    "nome": "CARTOGRAFIA GEOL\u00d3GICA DIGITAL",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0790"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0134",
-    "nome": "COMPUTA\u00c7\u00c3O APLICADA \u00c0 GEOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0730"
-    ],
-    "pre_requirements": [
-      "IGD0108 & IGD0106",
-      "IGD0138 & IGD0106"
-    ]
-  },
-  {
-    "cod": "IGD0024",
-    "nome": "CRISTALOGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0026"
-    ],
-    "pre_requirements": [
-      "IQD0058",
-      "IQD0262 & IQD0259 & IQD0263",
-      "IQD0153",
-      "ECL0030"
-    ]
-  },
-  {
-    "cod": "IGD0135",
-    "nome": "CRISTALOGRAFIA ESTRUTURAL",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0731"
-    ],
-    "pre_requirements": [
-      "IQD0051",
-      "IQD0058 & IQD0061"
-    ]
-  },
-  {
-    "cod": "IGD0246",
-    "nome": "CURADORIA MICROPALEONTOL\u00d3GIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0821"
-    ],
-    "pre_requirements": [
-      "IGD0049",
-      "IGD0174"
-    ]
-  },
-  {
-    "cod": "IGD0081",
-    "nome": "DESENHO GEOL\u00d3GICO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0045"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0143",
-    "nome": "DESENHO TECNICO GEOLOGICO",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0203"
-    ],
-    "pre_requirements": [
-      "IGD0198",
-      "IGD0183"
-    ]
-  },
-  {
-    "cod": "IGD0265",
-    "nome": "DESENHO TECNICO GEOLOGICO PRATICA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0620"
-    ],
-    "pre_requirements": [
-      "IGD0264"
-    ]
-  },
-  {
-    "cod": "IGD0264",
-    "nome": "DESENHO TECNICO GEOLOGICO TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0203"
-    ],
-    "pre_requirements": [
-      "IGD0198",
-      "IGD0183"
-    ]
-  },
-  {
-    "cod": "IGD0077",
-    "nome": "ECONOMIA MINERAL",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0706"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0205",
-    "nome": "EST\u00c1GIO EM GEOLOGIA",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0648"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0166",
-    "nome": "EST\u00c1GIO SUPERVISIONADO AVAN\u00c7ADO EM GEOCI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0639"
-    ],
-    "pre_requirements": [
-      "IGD0126"
-    ]
-  },
-  {
-    "cod": "IGD0126",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOCI\u00caNCIAS",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0166"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0051",
-    "nome": "ESTRATIGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0057"
-    ],
-    "pre_requirements": [
-      "IGD0203 & IGD0049",
-      "IGD0049 & ECL0030",
-      "IGD0203 & IGD0252"
-    ]
-  },
-  {
-    "cod": "IGD0001",
-    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0666"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0002",
-    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0667"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0262",
-    "nome": "EXPLORA\u00c7\u00c3O GEOF\u00cdSICA EM BACIAS SEDIMENTARES",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0835"
-    ],
-    "pre_requirements": [
-      "IGD0217 & IGD0210",
-      "IGD0217 & IGD0051",
-      "IGD0201 & IGD0051"
-    ]
-  },
-  {
-    "cod": "IGD0047",
-    "nome": "FOTOGEOLOGIA E SENSOR REMOTO",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0133"
-    ],
-    "pre_requirements": [
-      "IGD0143 & GEA0038"
-    ]
-  },
-  {
-    "cod": "IGD0167",
-    "nome": "FUNDAMENTOS DA HIST\u00d3RIA DA TERRA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0174"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0140",
-    "nome": "FUNDAMENTOS DE MINERALOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0592"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0207",
-    "nome": "FUNDAMENTOS DE SENSORIAMENTO REMOTO E INTERPRETA\u00c7\u00c3O DE IMAGENS",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0605"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0128",
-    "nome": "GEMOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0726"
-    ],
-    "pre_requirements": [
-      "IGD0145",
-      "IGD0195",
-      "IGD0144 & IGD0194"
-    ]
-  },
-  {
-    "cod": "IGD0241",
-    "nome": "GEOF\u00cdSICA APLICADA A GEOTECNIA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0816"
-    ],
-    "pre_requirements": [
-      "IGD0220 & IGD0223"
-    ]
-  },
-  {
-    "cod": "IGD0243",
-    "nome": "GEOF\u00cdSICA APLICADA AO MONITORAMENTO AMBIENTAL",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0818"
-    ],
-    "pre_requirements": [
-      "IGD0220 & IGD0217",
-      "IGD0201 & IGD0202"
-    ]
-  },
-  {
-    "cod": "IGD0110",
-    "nome": "GEOF\u00cdSICA B\u00c1SICA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0720"
-    ],
-    "pre_requirements": [
-      "MAT0026 & IFD0171"
-    ]
-  },
-  {
-    "cod": "IGD0188",
-    "nome": "GEOF\u00cdSICA DE CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0774"
-    ],
-    "pre_requirements": [
-      "IGD0192 & IGD0193"
-    ]
-  },
-  {
-    "cod": "IGD0238",
-    "nome": "GEOF\u00cdSICA DE EXPLORA\u00c7\u00c3O MINERAL",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0619"
-    ],
-    "pre_requirements": [
-      "IGD0220 & IGD0230 & IGD0217"
-    ]
-  },
-  {
-    "cod": "IGD0237",
-    "nome": "GEOF\u00cdSICA DE PETR\u00d3LEO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0812"
-    ],
-    "pre_requirements": [
-      "IGD0228 & IGD0220 & IGD0217"
-    ]
-  },
-  {
-    "cod": "IGD0093",
-    "nome": "GEOF\u00cdSICA GERAL",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0163"
-    ],
-    "pre_requirements": [
-      "IFD0177 & IGD0110 & IGD0138",
-      "IFD0175 & IFD0177 & IGD0110 & EST0019",
-      "IFD0175 & IFD0177 & IGD0138 & IGD0181 & IGD0182",
-      "IFD0175 & IFD0177 & EST0019 & IGD0181 & IGD0182"
-    ]
-  },
-  {
-    "cod": "IGD0240",
-    "nome": "GEOF\u00cdSICA MARINHA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0815"
-    ],
-    "pre_requirements": [
-      "IGD0217 & IGD0228"
-    ]
-  },
-  {
-    "cod": "IGD0230",
-    "nome": "GEOF\u00cdSICA NUCLEAR",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0805"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0118",
-    "nome": "GEOLOGIA AMBIENTAL",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0723"
-    ],
-    "pre_requirements": [
-      "IGD0054",
-      "IGD0010 & IQD0288"
-    ]
-  },
-  {
-    "cod": "IGD0059",
-    "nome": "GEOLOGIA APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0700"
-    ],
-    "pre_requirements": [
-      "IGD0045",
-      "IGD0148"
-    ]
-  },
-  {
-    "cod": "IGD0173",
-    "nome": "GEOLOGIA B\u00c1SICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0174"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0063",
-    "nome": "GEOLOGIA COMPLEMENTAR",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0702"
-    ],
-    "pre_requirements": [
-      "IGD0061"
-    ]
-  },
-  {
-    "cod": "IGD0585",
-    "nome": "GEOLOGIA DE ENGENHARIA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0615"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0176",
-    "nome": "GEOLOGIA DE IS\u00d3TOPOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0765"
-    ],
-    "pre_requirements": [
-      "IGD0085"
-    ]
-  },
-  {
-    "cod": "IGD0088",
-    "nome": "GEOLOGIA DO BRASIL",
-    "ch": 105,
-    "post_requirements": [
-      "IGD0711"
-    ],
-    "pre_requirements": [
-      "IGD0085 & IGD0191",
-      "IGD0085 & IGD0033 & IGD0150 & ICB0192",
-      "IGD0085 & IGD0244 & IGD0224"
-    ]
-  },
-  {
-    "cod": "IGD0267",
-    "nome": "GEOLOGIA DO BRASIL PRATICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0661"
-    ],
-    "pre_requirements": [
-      "IGD0266"
-    ]
-  },
-  {
-    "cod": "IGD0266",
-    "nome": "GEOLOGIA DO BRASIL TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0267"
-    ],
-    "pre_requirements": [
-      "IGD0085  &  IGD0033  &  IGD0150  &  ICB0192"
-    ]
-  },
-  {
-    "cod": "IGD0057",
-    "nome": "GEOLOGIA DO PETR\u00d3LEO",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0699"
-    ],
-    "pre_requirements": [
-      "IGD0051",
-      "IGD0210"
-    ]
-  },
-  {
-    "cod": "IGD0041",
-    "nome": "GEOLOGIA ECON\u00d4MICA",
-    "ch": 135,
-    "post_requirements": [
-      "IGD0077"
-    ],
-    "pre_requirements": [
-      "IGD0276 & IGD0268 & IGD0162",
-      "IGD0033 & IGD0150 & IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0289",
-    "nome": "GEOLOGIA ECON\u00d4MICA PR\u00c1TICA",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0665"
-    ],
-    "pre_requirements": [
-      "IGD0033 & IGD0150 & IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0288",
-    "nome": "GEOLOGIA ECON\u00d4MICA TE\u00d3RICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0861"
-    ],
-    "pre_requirements": [
-      "IGD0033 & IGD0150 & IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0045",
-    "nome": "GEOLOGIA ESTRUTURAL",
-    "ch": 150,
-    "post_requirements": [
-      "IGD0059"
-    ],
-    "pre_requirements": [
-      "IGD0081"
-    ]
-  },
-  {
-    "cod": "IGD0148",
-    "nome": "GEOLOGIA ESTRUTURAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0059"
-    ],
-    "pre_requirements": [
-      "IGD0143 & GEA0038",
-      "IGD0143 & ECL0030"
-    ]
-  },
-  {
-    "cod": "IGD0150",
-    "nome": "GEOLOGIA ESTRUTURAL 2",
-    "ch": 105,
-    "post_requirements": [
-      "IGD0083",
-      "IGD0740"
-    ],
-    "pre_requirements": [
-      "IGD0147 & IGD0036",
-      "IGD0148 & ECL0030"
-    ]
-  },
-  {
-    "cod": "IGD0269",
-    "nome": "GEOLOGIA ESTRUTURAL 2 PRATICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0662"
-    ],
-    "pre_requirements": [
-      "IGD0268"
-    ]
-  },
-  {
-    "cod": "IGD0268",
-    "nome": "GEOLOGIA ESTRUTURAL 2 TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0269"
-    ],
-    "pre_requirements": [
-      "IGD0147  &  IGD0036",
-      "IGD0148  &  ICB0192"
-    ]
-  },
-  {
-    "cod": "IGD0021",
-    "nome": "GEOLOGIA GERAL",
-    "ch": 90,
-    "post_requirements": [
-      "FUP0010"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0085",
-    "nome": "GEOLOGIA HIST\u00d3RICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0176"
-    ],
-    "pre_requirements": [
-      "IGD0033 & IGD0150 & IGD0162",
-      "IGD0244",
-      "ECL0030 & IGD0051",
-      "IGD0276 & IGD0268 & IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0203",
-    "nome": "GEOLOGIA SEDIMENTAR",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0208"
-    ],
-    "pre_requirements": [
-      "IGD0021 & ECL0030",
-      "IGD0143",
-      "IGD0021 & IGD0140",
-      "IGD0264"
-    ]
-  },
-  {
-    "cod": "IGD0154",
-    "nome": "GEOMETRIA E CONTROLE ESTRUTURAL DE CORPOS DE MIN\u00c9RIO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0744"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0253",
-    "nome": "GEOMORFOLOGIA APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0826"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0038",
-    "nome": "GEOQU\u00cdMICA",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0156"
-    ],
-    "pre_requirements": [
-      "IQD0063"
-    ]
-  },
-  {
-    "cod": "IGD0142",
-    "nome": "GEOQU\u00cdMICA ANAL\u00cdTICA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0593"
-    ],
-    "pre_requirements": [
-      "IQD0153"
-    ]
-  },
-  {
-    "cod": "IGD0199",
-    "nome": "GEOQU\u00cdMICA DO AMBIENTE SUPERFICIAL",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0784"
-    ],
-    "pre_requirements": [
-      "IGD0054"
-    ]
-  },
-  {
-    "cod": "IGD0162",
-    "nome": "GEOQU\u00cdMICA GERAL",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0156"
-    ],
-    "pre_requirements": [
-      "IGD0142 & IGD0036",
-      "IGD0142 & IGD0272"
-    ]
-  },
-  {
-    "cod": "IGD0054",
-    "nome": "HIDROGEOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0118"
-    ],
-    "pre_requirements": [
-      "IGD0147"
-    ]
-  },
-  {
-    "cod": "IGD0283",
-    "nome": "HIDROGEOLOGIA PRATICA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0664"
-    ],
-    "pre_requirements": [
-      "IGD0282"
-    ]
-  },
-  {
-    "cod": "IGD0282",
-    "nome": "HIDROGEOLOGIA TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0283"
-    ],
-    "pre_requirements": [
-      "IGD0147"
-    ]
-  },
-  {
-    "cod": "IGD0100",
-    "nome": "INSTRUMENTACAO GEOLOGICA BASICA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0716"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0233",
-    "nome": "INTEGRA\u00c7\u00c3O DE DADOS GEOL\u00d3GICOS E GEOF\u00cdSICOS",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0808"
-    ],
-    "pre_requirements": [
-      "IGD0220 & IGD0230 & IGD0217 & IGD0228 & IGD0226 & IGD0224"
-    ]
-  },
-  {
-    "cod": "IGD0164",
-    "nome": "INTROD AO PROCESSAMENTO E INTERPRETA\u00c7\u00c3O DADOS EM GEOF\u00cdSICA A\u00c9REA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0754"
-    ],
-    "pre_requirements": [
-      "IGD0093",
-      "IGD0138 & IGD0217"
-    ]
-  },
-  {
-    "cod": "IGD0171",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 AN\u00c1LISE DE BACIAS: TECT\u00d4NICA E SEDIMENTA\u00c7\u00c3O",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0760"
-    ],
-    "pre_requirements": [
-      "IGD0051 & IGD0150 & IGD0212",
-      "IGD0051 & IGD0200 & IGD0150"
-    ]
-  },
-  {
-    "cod": "IGD0175",
-    "nome": "INTRODU\u00c7\u00c3O A CARTOGRAFIA TEM\u00c1TICA E DIGITAL",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0764"
-    ],
-    "pre_requirements": [
-      "IGD0047"
-    ]
-  },
-  {
-    "cod": "IGD0192",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 F\u00cdSICA DA TERRA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0645"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0226",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 FOTOGEOLOGIA E AO SENSORIAMENTO REMOTO",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0159"
-    ],
-    "pre_requirements": [
-      "IGD0021 & IGD0183 & IGD0192",
-      "IGD0160"
-    ]
-  },
-  {
-    "cod": "IGD0181",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOF\u00cdSICA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0768"
-    ],
-    "pre_requirements": [
-      "MAT0026 & IFD0171"
-    ]
-  },
-  {
-    "cod": "IGD0170",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOLOGIA DE RESERVAT\u00d3RIOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0759"
-    ],
-    "pre_requirements": [
-      "IGD0150 & IGD0033 & IGD0093"
-    ]
-  },
-  {
-    "cod": "IGD0169",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOLOGIA DO PETR\u00d3LEO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0642"
-    ],
-    "pre_requirements": [
-      "IGD0051 & IGD0148 & IGD0212",
-      "IGD0210 & IGD0224",
-      "IGD0051 & IGD0200 & IGD0148"
-    ]
-  },
-  {
-    "cod": "IGD0224",
-    "nome": "INTRODU\u00c7\u00c3O A GEOLOGIA ESTRUTURAL",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0607"
-    ],
-    "pre_requirements": [
-      "IGD0021 & IGD0183 & IGD0192",
-      "IGD0244 & IGD0051"
-    ]
-  },
-  {
-    "cod": "IGD0260",
-    "nome": "INTRODU\u00c7\u00c3O A GEOMORFOLOGIA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0833"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0004",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 METEOROLOGIA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0669"
-    ],
-    "pre_requirements": [
-      "MAT0026 & IFD0175 & IGD0192",
-      "MAT0026 & IFD0175 & IGD0168"
-    ]
-  },
-  {
-    "cod": "IGD0185",
-    "nome": "INTRODU\u00c7\u00c3O A MINERALOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0210"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0182",
-    "nome": "INTRODU\u00c7\u00c3O AO ELETROMAGNETISMO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0599"
-    ],
-    "pre_requirements": [
-      "MAT0026 & IFD0171 & ECL0030",
-      "MAT0026 & IFD0175"
-    ]
-  },
-  {
-    "cod": "IGD0159",
-    "nome": "INTRODU\u00c7\u00c3O AO PROCESSAMENTO DE IMAGENS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0595"
-    ],
-    "pre_requirements": [
-      "CDS0010",
-      "IGD0047",
-      "IGD0226"
-    ]
-  },
-  {
-    "cod": "IGD0133",
-    "nome": "INTRODU\u00c7\u00c3O AO PROCESSAMENTO DE IMAGENS E SIG",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0729"
-    ],
-    "pre_requirements": [
-      "IGD0047"
-    ]
-  },
-  {
-    "cod": "IGD0152",
-    "nome": "INTRODU\u00c7\u00c3O AO PROCESSAMENTO DE SINAIS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0742"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0160",
-    "nome": "INTRODU\u00c7\u00c3O AO SISTEMA DE INFORMA\u00c7\u00d5ES GEOGR\u00c1FICAS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0226"
-    ],
-    "pre_requirements": [
-      "IGD0021 & MAT0022 & ECL0033",
-      "IGD0143 & MAT0025",
-      "IGD0021 & ECL0033"
-    ]
-  },
-  {
-    "cod": "IGD0161",
-    "nome": "INTRODU\u00c7\u00c3O AO SISTEMA DE POSICIONAMENTO GLOBAL",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0751"
-    ],
-    "pre_requirements": [
-      "IGD0021 & IGD0043",
-      "IGD0021 & IGD0183",
-      "IGD0043 & FAV0274",
-      "IGD0183 & FAV0274"
-    ]
-  },
-  {
-    "cod": "IGD0116",
-    "nome": "INTRODU\u00c7\u00c3O AOS M\u00c9TADOS E LAVRA E BENEFICIAMENTO DE MIN\u00c9RIOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0722"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0247",
-    "nome": "INTRODU\u00c7\u00c3O AOS MUSEUS DE CI\u00caNCIAS",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0822"
-    ],
-    "pre_requirements": [
-      "IGD0021",
-      "IGD0167",
-      "FCI0013"
-    ]
-  },
-  {
-    "cod": "IGD0258",
-    "nome": "INTRODU\u00c7\u00c3O A PEDOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0831"
-    ],
-    "pre_requirements": [
-      "IQD0257 & IGD0021",
-      "IGD0021 & IQD0153",
-      "IGD0021 & IQD0282"
-    ]
-  },
-  {
-    "cod": "IGD0172",
-    "nome": "INTRODU\u00c7\u00c3O A PROSPEC\u00c7\u00c3O GEOF\u00cdSICA DO PETR\u00d3LEO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0761"
-    ],
-    "pre_requirements": [
-      "IFD0179"
-    ]
-  },
-  {
-    "cod": "IGD0168",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0S CI\u00caNCIAS DA TERRA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0641"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0003",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 VULCANOLOGIA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0668"
-    ],
-    "pre_requirements": [
-      "IGD0036",
-      "IGD0244"
-    ]
-  },
-  {
-    "cod": "IGD0130",
-    "nome": "LEGISLA\u00c7\u00c3O MINERAL PROFISSIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0727"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0147",
-    "nome": "MAPEAMENTO GEOL\u00d3GICO 1",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0054"
-    ],
-    "pre_requirements": [
-      "IGD0047 & IGD0148 & IGD0051 & IGD0278",
-      "IGD0047 & IGD0148 & IGD0051 & IGD0200",
-      "IGD0047 & IGD0148 & IGD0051 & IGD0211"
-    ]
-  },
-  {
-    "cod": "IGD0191",
-    "nome": "MAPEAMENTO GEOL\u00d3GICO 2",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0618"
-    ],
-    "pre_requirements": [
-      "IGD0150 & IGD0033 & IGD0147"
-    ]
-  },
-  {
-    "cod": "IGD0069",
-    "nome": "MAPEAMENTO GEOL\u00d3GICO FINAL",
-    "ch": 150,
-    "post_requirements": [
-      "IGD0704"
-    ],
-    "pre_requirements": [
-      "IGD0088 & IGD0041 & IGD0114"
-    ]
-  },
-  {
-    "cod": "IGD0006",
-    "nome": "M\u00c9TODOS AEROELETROMAGN\u00c9TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0671"
-    ],
-    "pre_requirements": [
-      "IGD0250"
-    ]
-  },
-  {
-    "cod": "IGD0163",
-    "nome": "M\u00c9TODOS COMPUTACIONAIS EM GEOF\u00cdSICA APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0753"
-    ],
-    "pre_requirements": [
-      "IGD0093"
-    ]
-  },
-  {
-    "cod": "IGD0234",
-    "nome": "M\u00c9TODOS DE INVERS\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0809"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0138"
-    ]
-  },
-  {
-    "cod": "IGD0220",
-    "nome": "M\u00c9TODOS EL\u00c9TRICOS",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0235"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0287",
-    "nome": "M\u00c9TODOS EL\u00c9TRICOS - PR\u00c1TICA",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0627"
-    ],
-    "pre_requirements": [
-      "IGD0286"
-    ]
-  },
-  {
-    "cod": "IGD0286",
-    "nome": "M\u00c9TODOS EL\u00c9TRICOS - TE\u00d3RICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0287"
-    ],
-    "pre_requirements": [
-      "MAT0059  &  IGD0213  &  IGD0214",
-      "IGD0138  &  IGD0213  &  IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0250",
-    "nome": "M\u00c9TODOS ELETROMAGN\u00c9TICOS",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0006"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0292",
-    "nome": "M\u00c9TODOS ELETROMAGN\u00c9TICOS PR\u00c1TICA",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0628"
-    ],
-    "pre_requirements": [
-      "IGD0290"
-    ]
-  },
-  {
-    "cod": "IGD0290",
-    "nome": "M\u00c9TODOS ELETROMAGN\u00c9TICOS TE\u00d3RICO",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0292"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0108",
-    "nome": "METODOS ESTATISTICOS EM GEOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0719"
-    ],
-    "pre_requirements": [
-      "MAT0025"
-    ]
-  },
-  {
-    "cod": "IGD0235",
-    "nome": "M\u00c9TODOS GEOF\u00cdSICOS EM HIDROGEOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0810"
-    ],
-    "pre_requirements": [
-      "IGD0220"
-    ]
-  },
-  {
-    "cod": "IGD0242",
-    "nome": "M\u00c9TODOS MAGNETOTEL\u00daRICO",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0817"
-    ],
-    "pre_requirements": [
-      "IGD0220"
-    ]
-  },
-  {
-    "cod": "IGD0217",
-    "nome": "M\u00c9TODOS POTENCIAIS",
-    "ch": 105,
-    "post_requirements": [
-      "IGD0651"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0201",
-    "nome": "M\u00c9TODOS POTENCIAIS, RADIOM\u00c9TRICOS E ELETROMAGN\u00c9TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0603"
-    ],
-    "pre_requirements": [
-      "IGD0138 & IGD0182",
-      "EST0019 & IGD0182"
-    ]
-  },
-  {
-    "cod": "IGD0138",
-    "nome": "METODOS QUANTITATIVOS EM GEOCI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0591"
-    ],
-    "pre_requirements": [
-      "MAT0026",
-      "MAT0031"
-    ]
-  },
-  {
-    "cod": "IGD0263",
-    "nome": "M\u00c9TODOS S\u00cdSMICOS COM ONDAS SUPERFICIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0836"
-    ],
-    "pre_requirements": [
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0202",
-    "nome": "M\u00c9TODOS S\u00cdSMICOS E EL\u00c9TRICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0005"
-    ],
-    "pre_requirements": [
-      "IGD0138 & IGD0182",
-      "EST0019 & IGD0182"
-    ]
-  },
-  {
-    "cod": "IGD0098",
-    "nome": "MICROPALEONTOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0590"
-    ],
-    "pre_requirements": [
-      "IGD0049"
-    ]
-  },
-  {
-    "cod": "IGD0155",
-    "nome": "MICROSCOPIA DE MIN\u00c9RIOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0745"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0153",
-    "nome": "MICROTECT\u00d4NICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0743"
-    ],
-    "pre_requirements": [
-      "IGD0033 & IGD0150"
-    ]
-  },
-  {
-    "cod": "IGD0103",
-    "nome": "MINERAIS DE MINERIOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0717"
-    ],
-    "pre_requirements": [
-      "IGD0024"
-    ]
-  },
-  {
-    "cod": "IGD0196",
-    "nome": "MINERAIS E ROCHAS INDUSTRIAIS",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0781"
-    ],
-    "pre_requirements": [
-      "IGD0036  &  IGD0030",
-      "IGD0200",
-      "IGD0212"
-    ]
-  },
-  {
-    "cod": "IGD0151",
-    "nome": "MINERAIS E ROCHAS INDUSTRIAIS E RECURSOS MINERAIS ENERG\u00c9TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0741"
-    ],
-    "pre_requirements": [
-      "IGD0041",
-      "IGD0008 & IGD0244"
-    ]
-  },
-  {
-    "cod": "IGD0194",
-    "nome": "MINERALOGIA",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0030"
-    ],
-    "pre_requirements": [
-      "IGD0024"
-    ]
-  },
-  {
-    "cod": "IGD0144",
-    "nome": "MINERALOGIA 1",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0145"
-    ],
-    "pre_requirements": [
-      "IGD0024"
-    ]
-  },
-  {
-    "cod": "IGD0026",
-    "nome": "MINERALOGIA 1",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0106"
-    ],
-    "pre_requirements": [
-      "IGD0024"
-    ]
-  },
-  {
-    "cod": "IGD0106",
-    "nome": "MINERALOGIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0718"
-    ],
-    "pre_requirements": [
-      "IGD0026"
-    ]
-  },
-  {
-    "cod": "IGD0145",
-    "nome": "MINERALOGIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0030"
-    ],
-    "pre_requirements": [
-      "IGD0144"
-    ]
-  },
-  {
-    "cod": "IGD0158",
-    "nome": "MINERALOGIA DE ARGILAS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0748"
-    ],
-    "pre_requirements": [
-      "IGD0194"
-    ]
-  },
-  {
-    "cod": "IGD0195",
-    "nome": "MINERALOGIA DE N\u00c3O SILICATOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0128"
-    ],
-    "pre_requirements": [
-      "IGD0194",
-      "IGD0274 & IGD0275"
-    ]
-  },
-  {
-    "cod": "IGD0271",
-    "nome": "MINERALOGIA DE N\u00c3O SILICATOS PRATICA",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0621"
-    ],
-    "pre_requirements": [
-      "IGD0270"
-    ]
-  },
-  {
-    "cod": "IGD0270",
-    "nome": "MINERALOGIA DE N\u00c3O SILICATOS TEORICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0271"
-    ],
-    "pre_requirements": [
-      "IGD0194"
-    ]
-  },
-  {
-    "cod": "IGD0275",
-    "nome": "MINERALOGIA PRATICA",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0623"
-    ],
-    "pre_requirements": [
-      "IGD0274"
-    ]
-  },
-  {
-    "cod": "IGD0274",
-    "nome": "MINERALOGIA TEORICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0275"
-    ],
-    "pre_requirements": [
-      "IGD0024"
-    ]
-  },
-  {
-    "cod": "IGD0236",
-    "nome": "OCEANOGRAFIA F\u00cdSICA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0655"
-    ],
-    "pre_requirements": [
-      "IGD0021 & IFD0175 & MAT0026"
-    ]
-  },
-  {
-    "cod": "IGD0174",
-    "nome": "PALEOBIOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0246"
-    ],
-    "pre_requirements": [
-      "IGD0167",
-      "IGD0021",
-      "IGD0173"
-    ]
-  },
-  {
-    "cod": "IGD0208",
-    "nome": "PALEOCEANOGRAFIA E PALEOCLIMA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0606"
-    ],
-    "pre_requirements": [
-      "IGD0203",
-      "IGD0211",
-      "IGD0210"
-    ]
-  },
-  {
-    "cod": "IGD0049",
-    "nome": "PALEONTOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0098"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0028",
-    "nome": "PEDOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0022"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0239",
-    "nome": "PERFILAGEM GEOF\u00cdSICA DE PO\u00c7OS",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0814"
-    ],
-    "pre_requirements": [
-      "IGD0210 & IGD0214 & IGD0220"
-    ]
-  },
-  {
-    "cod": "IGD0036",
-    "nome": "PETROLOGIA \u00cdGNEA",
-    "ch": 135,
-    "post_requirements": [
-      "IGD0003"
-    ],
-    "pre_requirements": [
-      "IGD0194 & IQD0296",
-      "IGD0194 & ECL0030"
-    ]
-  },
-  {
-    "cod": "IGD0244",
-    "nome": "PETROLOGIA \u00cdGNEA E METAM\u00d3RFICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0003"
-    ],
-    "pre_requirements": [
-      "IGD0185 & IGD0210",
-      "IGD0140 & IGD0203"
-    ]
-  },
-  {
-    "cod": "IGD0273",
-    "nome": "PETROLOGIA \u00cdGNEA PRATICA",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0622"
-    ],
-    "pre_requirements": [
-      "IGD0272 & IGD0194"
-    ]
-  },
-  {
-    "cod": "IGD0272",
-    "nome": "PETROLOGIA \u00cdGNEA TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0613"
-    ],
-    "pre_requirements": [
-      "IGD0194 & IQD0296",
-      "IGD0194 & ECL0030"
-    ]
-  },
-  {
-    "cod": "IGD0033",
-    "nome": "PETROLOGIA METAM\u00d3RFICA",
-    "ch": 135,
-    "post_requirements": [
-      "IGD0009"
-    ],
-    "pre_requirements": [
-      "IGD0147 & IGD0036",
-      "IQD0296 & IGD0036 & IGD0212",
-      "IQD0296 & IGD0036 & IGD0200"
-    ]
-  },
-  {
-    "cod": "IGD0277",
-    "nome": "PETROLOGIA METAM\u00d3RFICA PRATICA",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0624"
-    ],
-    "pre_requirements": [
-      "IGD0276 & IGD0036 & IGD0200"
-    ]
-  },
-  {
-    "cod": "IGD0276",
-    "nome": "PETROLOGIA METAM\u00d3RFICA TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0849"
-    ],
-    "pre_requirements": [
-      "IGD0147  &  IGD0036",
-      "IQD0296  &  IGD0036  &  IGD0200"
-    ]
-  },
-  {
-    "cod": "IGD0200",
-    "nome": "PETROLOGIA SEDIMENTAR",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0785"
-    ],
-    "pre_requirements": [
-      "IGD0203 & IGD0195",
-      "IGD0203 & ECL0030 & IGD0194",
-      "IGD0211 & IGD0194 & ECL0030"
-    ]
-  },
-  {
-    "cod": "IGD0279",
-    "nome": "PETROLOGIA SEDIMENTAR PRATICA",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0625"
-    ],
-    "pre_requirements": [
-      "IGD0278 & IGD0195"
-    ]
-  },
-  {
-    "cod": "IGD0278",
-    "nome": "PETROLOGIA SEDIMENTAR TEORICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0614"
-    ],
-    "pre_requirements": [
-      "IGD0203  &  IGD0195"
-    ]
-  },
-  {
-    "cod": "IGD0065",
-    "nome": "PLANEJAMENTO GEOLOGICO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0703"
-    ],
-    "pre_requirements": [
-      "IGD0061"
-    ]
-  },
-  {
-    "cod": "IGD0114",
-    "nome": "PREPARACAO DO MAPEAMENTO GEOLOGICO FINAL",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0073"
-    ],
-    "pre_requirements": [
-      "IGD0191 & IGD0041",
-      "IGD0147 & IGD0033 & IGD0162 & IGD0150 & IGD0093"
-    ]
-  },
-  {
-    "cod": "IGD0008",
-    "nome": "PREPARA\u00c7\u00c3O TRABALHO FINAL - GEOF\u00cdSICA",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0629"
-    ],
-    "pre_requirements": [
-      "IGD0160 & IGD0192",
-      "IGD0226 & IGD0224"
-    ]
-  },
-  {
-    "cod": "IGD0251",
-    "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0252"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0252",
-    "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0187"
-    ],
-    "pre_requirements": [
-      "IGD0251"
-    ]
-  },
-  {
-    "cod": "IGD0285",
-    "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 2 - PR\u00c1TICA",
-    "ch": 15,
-    "post_requirements": [
-      "IGD0626"
-    ],
-    "pre_requirements": [
-      "IGD0284"
-    ]
-  },
-  {
-    "cod": "IGD0284",
-    "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 2 - TE\u00d3RICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0285"
-    ],
-    "pre_requirements": [
-      "IGD0251"
-    ]
-  },
-  {
-    "cod": "IGD0193",
-    "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA DE EXPLORA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0778"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0232",
-    "nome": "PROCESSAMENTO E INTERPRETA\u00c7\u00c3O GEOF\u00cdSICA A\u00c9REA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0654"
-    ],
-    "pre_requirements": [
-      "IGD0138 & IGD0230 & IGD0217 & IGD0250"
-    ]
-  },
-  {
-    "cod": "IGD0007",
-    "nome": "PROCESSAMENTOS DE DADOS SISMOL\u00d3GICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0672"
-    ],
-    "pre_requirements": [
-      "IGD0184",
-      "IGD0223"
-    ]
-  },
-  {
-    "cod": "IGD0009",
-    "nome": "PROCESSOS METAM\u00d3RFICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0674"
-    ],
-    "pre_requirements": [
-      "IGD0033"
-    ]
-  },
-  {
-    "cod": "IGD0187",
-    "nome": "PROGRAMA\u00c7\u00c3O EM GEOF\u00cdSICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0601"
-    ],
-    "pre_requirements": [
-      "IGD0252",
-      "IGD0201 & IGD0202"
-    ]
-  },
-  {
-    "cod": "IGD0214",
-    "nome": "PROPRIEDADES F\u00cdSICAS DAS ROCHAS",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0650"
-    ],
-    "pre_requirements": [
-      "IGD0252 & IGD0192 & IGD0244 & IGD0210",
-      "IGD0201 & IGD0202",
-      "IGD0244 & IGD0203"
-    ]
-  },
-  {
-    "cod": "IGD0061",
-    "nome": "PROSPECCAO",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0063"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0189",
-    "nome": "PROSPEC\u00c7\u00c3O GEOQU\u00cdMICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0775"
-    ],
-    "pre_requirements": [
-      "IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0096",
-    "nome": "PROSPEC\u00c7\u00c3O GERAL",
-    "ch": 105,
-    "post_requirements": [
-      "IGD0714"
-    ],
-    "pre_requirements": [
-      "IGD0202 & IGD0201 & IGD0041",
-      "IGD0093 & IGD0162",
-      "IGD0217 & IGD0223 & IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0281",
-    "nome": "PROSPEC\u00c7\u00c3O GERAL PRATICA",
-    "ch": 45,
-    "post_requirements": [
-      "IGD0663"
-    ],
-    "pre_requirements": [
-      "IGD0280"
-    ]
-  },
-  {
-    "cod": "IGD0280",
-    "nome": "PROSPEC\u00c7\u00c3O GERAL TEORICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0281"
-    ],
-    "pre_requirements": [
-      "IGD0093  &  IGD0162",
-      "IGD0202  &  IGD0201  &  IGD0162"
-    ]
-  },
-  {
-    "cod": "IGD0209",
-    "nome": "RADAR DE PENETRA\u00c7\u00c3O NO SOLO (GPR)",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0793"
-    ],
-    "pre_requirements": [
-      "IGD0201 & IGD0202",
-      "IGD0220 & IGD0250",
-      "IGD0201 & IGD0220",
-      "IGD0202 & IGD0250"
-    ]
-  },
-  {
-    "cod": "IGD0256",
-    "nome": "REABILITA\u00c7\u00c3O E RESTAURA\u00c7\u00c3O DE ECOSSISTEMAS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0829"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0257",
-    "nome": "RECUPERA\u00c7\u00c3O DE \u00c1REAS DEGRADADAS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0660"
-    ],
-    "pre_requirements": [
-      "IGD0010",
-      "IGD0254",
-      "IGD0255",
-      "IGD0054"
-    ]
-  },
-  {
-    "cod": "IGD0090",
-    "nome": "RECURSOS ENERG\u00c9TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0712"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0010",
-    "nome": "RECURSOS H\u00cdDRICOS PARA CI\u00caNCIAS AMBIENTAIS",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0257"
-    ],
-    "pre_requirements": [
-      "IGD0021 & IQD0257",
-      "IGD0211 & IGD0142"
-    ]
-  },
-  {
-    "cod": "IGD0255",
-    "nome": "RECURSOS H\u00cdDRICOS SUBTERR\u00c2NEOS",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0257"
-    ],
-    "pre_requirements": [
-      "IGD0021 & GEA0011",
-      "IGD0021 & IGD0254"
-    ]
-  },
-  {
-    "cod": "IGD0254",
-    "nome": "RECURSOS H\u00cdDRICOS SUPERFICIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0257"
-    ],
-    "pre_requirements": [
-      "IQD0282 & CDS0010"
-    ]
-  },
-  {
-    "cod": "IGD0197",
-    "nome": "RECURSOS MINERAIS ENERG\u00c9TICOS",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0782"
-    ],
-    "pre_requirements": [
-      "IGD0036  &  IGD0030",
-      "IGD0200",
-      "IGD0212"
-    ]
-  },
-  {
-    "cod": "IGD0073",
-    "nome": "RELATORIO DO MAPEAMENTO GEOLOGIC0 FINAL",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0705"
-    ],
-    "pre_requirements": [
-      "IGD0114"
-    ]
-  },
-  {
-    "cod": "IGD0120",
-    "nome": "REOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0724"
-    ],
-    "pre_requirements": [
-      "IFD0067 & MAT0031",
-      "IFD0171 & IFD0173 & MAT0031",
-      "IFD0067 & MAT0039",
-      "IFD0171 & IFD0173 & MAT0039"
-    ]
-  },
-  {
-    "cod": "IGD0030",
-    "nome": "SEDIMENTOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "IGD0688"
-    ],
-    "pre_requirements": [
-      "IGD0145",
-      "IGD0194"
-    ]
-  },
-  {
-    "cod": "IGD0211",
-    "nome": "SEDIMENTOLOGIA 1 - PRODUTOS E PROCESSOS SEDIMENTARES",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0208"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0212",
-    "nome": "SEDIMENTOLOGIA 2 - PRODUTOS E PROCESSOS SEDIMENTARES",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0796"
-    ],
-    "pre_requirements": [
-      "IGD0211 & IGD0194"
-    ]
-  },
-  {
-    "cod": "IGD0210",
-    "nome": "SEDIMENTOLOGIA E ESTRATIGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0057"
-    ],
-    "pre_requirements": [
-      "IGD0185"
-    ]
-  },
-  {
-    "cod": "IGD0228",
-    "nome": "S\u00cdSMICA DE REFLEX\u00c3O",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0652"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0223",
-    "nome": "SISMICA DE REFRA\u00c7\u00c3O",
-    "ch": 75,
-    "post_requirements": [
-      "IGD0005"
-    ],
-    "pre_requirements": [
-      "MAT0059 & IGD0213 & IGD0214 & IGD0192",
-      "IGD0138 & IGD0213 & IGD0214"
-    ]
-  },
-  {
-    "cod": "IGD0005",
-    "nome": "SISMOLOGIA AVAN\u00c7ADA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0670"
-    ],
-    "pre_requirements": [
-      "IGD0184",
-      "IGD0223",
-      "IGD0202"
-    ]
-  },
-  {
-    "cod": "IGD0184",
-    "nome": "SISMOLOGIA B\u00c1SICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0005"
-    ],
-    "pre_requirements": [
-      "IGD0093",
-      "IGD0202",
-      "IGD0251 & IGD0021"
-    ]
-  },
-  {
-    "cod": "IGD0156",
-    "nome": "T\u00c9CNICAS DE PESQUISA EM GEOQU\u00cdMICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0746"
-    ],
-    "pre_requirements": [
-      "IGD0162",
-      "IGD0038"
-    ]
-  },
-  {
-    "cod": "IGD0157",
-    "nome": "T\u00c9CNICAS DE PREPARA\u00c7\u00c3O E AN\u00c1LISE DE MINERAIS",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0747"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0083",
-    "nome": "TECT\u00d4NICA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0635"
-    ],
-    "pre_requirements": [
-      "IGD0150"
-    ]
-  },
-  {
-    "cod": "IGD0014",
-    "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 4",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0679"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0015",
-    "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 5",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0680"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0016",
-    "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 6",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0681"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0017",
-    "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 7",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0682"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0018",
-    "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 8",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0683"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0011",
-    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 1",
-    "ch": 30,
-    "post_requirements": [
-      "IGD0676"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0012",
-    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 2",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0677"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0013",
-    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 3",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0678"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0183",
-    "nome": "TOPOGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0143"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0043",
-    "nome": "TOPOGRAFIA FOTOGRAMETRIA",
-    "ch": 90,
-    "post_requirements": [
-      "EFL0100"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0179",
-    "nome": "TRABALHO DE MAPEAMENTO GEOL\u00d3GICO FINAL",
-    "ch": 240,
-    "post_requirements": [
-      "IGD0644"
-    ],
-    "pre_requirements": [
-      "IGD0088 & IGD0114 & IGD0096",
-      "IGD0088 & IGD0114 & IGD0041"
-    ]
-  },
-  {
-    "cod": "IGD0231",
-    "nome": "TRABALHO FINAL - GEOF\u00cdSICA",
-    "ch": 150,
-    "post_requirements": [
-      "IGD0653"
-    ],
-    "pre_requirements": [
-      "IGD0232 & IGD0250 & IGD0224 & IGD0228",
-      "IGD0250 & IGD0228 & IGD0008"
-    ]
-  },
-  {
-    "cod": "IGD0245",
-    "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 1",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0820"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0259",
-    "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 2",
-    "ch": 60,
-    "post_requirements": [
-      "CDS0018"
-    ],
-    "pre_requirements": [
-      "CDS0010 & EST0019"
-    ]
-  },
-  {
-    "cod": "IGD0261",
-    "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO CONCLUS\u00c3O DE CURSO",
-    "ch": 120,
-    "post_requirements": [
-      "IGD0834"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "IGD0079",
-    "nome": "TRATAMENTO MECANICO",
-    "ch": 60,
-    "post_requirements": [
-      "IGD0707"
-    ],
-    "pre_requirements": [
-      "IGD0041"
-    ]
-  }
+   {
+      "codigo": "IGD0213",
+      "nome": "ANÁLISE DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0649"
+      ],
+      "pre_requisitos": [
+         "IFD0179 & IFD0181 & IGD0192",
+         "IFD0179 & IFD0181 & MAT0059 & IGD0187"
+      ]
+   },
+   {
+      "codigo": "IGD0132",
+      "nome": "BIOESTRATIGRAFIA E PALEOECOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0728"
+      ],
+      "pre_requisitos": [
+         "IGD0049"
+      ]
+   },
+   {
+      "codigo": "IGD0180",
+      "nome": "CARACTERIZAÇÃO DE DEPÓSITOS HIDROTERMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0767"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0198",
+      "nome": "CARTOGRAFIA E GEODÉSIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0143",
+         "IGD0264",
+         "IGD0602"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0206",
+      "nome": "CARTOGRAFIA GEOLÓGICA DIGITAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0790"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0134",
+      "nome": "COMPUTAÇÃO APLICADA À GEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0730"
+      ],
+      "pre_requisitos": [
+         "IGD0108 & IGD0106",
+         "IGD0138 & IGD0106"
+      ]
+   },
+   {
+      "codigo": "IGD0024",
+      "nome": "CRISTALOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0026",
+         "IGD0103",
+         "IGD0144",
+         "IGD0194",
+         "IGD0274",
+         "IGD0630"
+      ],
+      "pre_requisitos": [
+         "IQD0058",
+         "IQD0262 & IQD0259 & IQD0263",
+         "IQD0153",
+         "ECL0030"
+      ]
+   },
+   {
+      "codigo": "IGD0135",
+      "nome": "CRISTALOGRAFIA ESTRUTURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0731"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0058 & IQD0061"
+      ]
+   },
+   {
+      "codigo": "IGD0246",
+      "nome": "CURADORIA MICROPALEONTOLÓGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0821"
+      ],
+      "pre_requisitos": [
+         "IGD0049",
+         "IGD0174"
+      ]
+   },
+   {
+      "codigo": "IGD0081",
+      "nome": "DESENHO GEOLÓGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0045",
+         "IGD0708"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0143",
+      "nome": "DESENHO TECNICO GEOLOGICO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0203",
+         "IGD0638"
+      ],
+      "pre_requisitos": [
+         "IGD0198",
+         "IGD0183"
+      ]
+   },
+   {
+      "codigo": "IGD0265",
+      "nome": "DESENHO TECNICO GEOLOGICO PRATICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0620"
+      ],
+      "pre_requisitos": [
+         "IGD0264"
+      ]
+   },
+   {
+      "codigo": "IGD0264",
+      "nome": "DESENHO TECNICO GEOLOGICO TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0203",
+         "IGD0265",
+         "IGD0610"
+      ],
+      "pre_requisitos": [
+         "IGD0198",
+         "IGD0183"
+      ]
+   },
+   {
+      "codigo": "IGD0077",
+      "nome": "ECONOMIA MINERAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0706"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0205",
+      "nome": "ESTÁGIO EM GEOLOGIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0648"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0166",
+      "nome": "ESTÁGIO SUPERVISIONADO AVANÇADO EM GEOCIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0639"
+      ],
+      "pre_requisitos": [
+         "IGD0126"
+      ]
+   },
+   {
+      "codigo": "IGD0126",
+      "nome": "ESTÁGIO SUPERVISIONADO EM GEOCIÊNCIAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0166",
+         "IGD0637"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0051",
+      "nome": "ESTRATIGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0057",
+         "IGD0633"
+      ],
+      "pre_requisitos": [
+         "IGD0203 & IGD0049",
+         "IGD0049 & ECL0030",
+         "IGD0203 & IGD0252"
+      ]
+   },
+   {
+      "codigo": "IGD0001",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0666"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0002",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0667"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0262",
+      "nome": "EXPLORAÇÃO GEOFÍSICA EM BACIAS SEDIMENTARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0835"
+      ],
+      "pre_requisitos": [
+         "IGD0217 & IGD0210",
+         "IGD0217 & IGD0051",
+         "IGD0201 & IGD0051"
+      ]
+   },
+   {
+      "codigo": "IGD0047",
+      "nome": "FOTOGEOLOGIA E SENSOR REMOTO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0133",
+         "IGD0159",
+         "IGD0175",
+         "IGD0588"
+      ],
+      "pre_requisitos": [
+         "IGD0143 & GEA0038"
+      ]
+   },
+   {
+      "codigo": "IGD0167",
+      "nome": "FUNDAMENTOS DA HISTÓRIA DA TERRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0174",
+         "FUP0256",
+         "IGD0247",
+         "IGD0640"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0140",
+      "nome": "FUNDAMENTOS DE MINERALOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0592"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0207",
+      "nome": "FUNDAMENTOS DE SENSORIAMENTO REMOTO E INTERPRETAÇÃO DE IMAGENS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0605"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0128",
+      "nome": "GEMOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0726"
+      ],
+      "pre_requisitos": [
+         "IGD0145",
+         "IGD0195",
+         "IGD0144 & IGD0194"
+      ]
+   },
+   {
+      "codigo": "IGD0241",
+      "nome": "GEOFÍSICA APLICADA A GEOTECNIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0816"
+      ],
+      "pre_requisitos": [
+         "IGD0220 & IGD0223"
+      ]
+   },
+   {
+      "codigo": "IGD0243",
+      "nome": "GEOFÍSICA APLICADA AO MONITORAMENTO AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0818"
+      ],
+      "pre_requisitos": [
+         "IGD0220 & IGD0217",
+         "IGD0201 & IGD0202"
+      ]
+   },
+   {
+      "codigo": "IGD0110",
+      "nome": "GEOFÍSICA BÁSICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0720"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IFD0171"
+      ]
+   },
+   {
+      "codigo": "IGD0188",
+      "nome": "GEOFÍSICA DE CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0774"
+      ],
+      "pre_requisitos": [
+         "IGD0192 & IGD0193"
+      ]
+   },
+   {
+      "codigo": "IGD0238",
+      "nome": "GEOFÍSICA DE EXPLORAÇÃO MINERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0619"
+      ],
+      "pre_requisitos": [
+         "IGD0220 & IGD0230 & IGD0217"
+      ]
+   },
+   {
+      "codigo": "IGD0237",
+      "nome": "GEOFÍSICA DE PETRÓLEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0812"
+      ],
+      "pre_requisitos": [
+         "IGD0228 & IGD0220 & IGD0217"
+      ]
+   },
+   {
+      "codigo": "IGD0093",
+      "nome": "GEOFÍSICA GERAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0163",
+         "IGD0164",
+         "IGD0184",
+         "IGD0713"
+      ],
+      "pre_requisitos": [
+         "IFD0177 & IGD0110 & IGD0138",
+         "IFD0175 & IFD0177 & IGD0110 & EST0019",
+         "IFD0175 & IFD0177 & IGD0138 & IGD0181 & IGD0182",
+         "IFD0175 & IFD0177 & EST0019 & IGD0181 & IGD0182"
+      ]
+   },
+   {
+      "codigo": "IGD0240",
+      "nome": "GEOFÍSICA MARINHA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0815"
+      ],
+      "pre_requisitos": [
+         "IGD0217 & IGD0228"
+      ]
+   },
+   {
+      "codigo": "IGD0230",
+      "nome": "GEOFÍSICA NUCLEAR",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0805"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0118",
+      "nome": "GEOLOGIA AMBIENTAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0723"
+      ],
+      "pre_requisitos": [
+         "IGD0054",
+         "IGD0010 & IQD0288"
+      ]
+   },
+   {
+      "codigo": "IGD0059",
+      "nome": "GEOLOGIA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0700"
+      ],
+      "pre_requisitos": [
+         "IGD0045",
+         "IGD0148"
+      ]
+   },
+   {
+      "codigo": "IGD0173",
+      "nome": "GEOLOGIA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0174",
+         "CDS0004",
+         "ENC0240",
+         "IGD0643"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0063",
+      "nome": "GEOLOGIA COMPLEMENTAR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0702"
+      ],
+      "pre_requisitos": [
+         "IGD0061"
+      ]
+   },
+   {
+      "codigo": "IGD0585",
+      "nome": "GEOLOGIA DE ENGENHARIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0615"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0176",
+      "nome": "GEOLOGIA DE ISÓTOPOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0765"
+      ],
+      "pre_requisitos": [
+         "IGD0085"
+      ]
+   },
+   {
+      "codigo": "IGD0088",
+      "nome": "GEOLOGIA DO BRASIL",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "IGD0711"
+      ],
+      "pre_requisitos": [
+         "IGD0085 & IGD0191",
+         "IGD0085 & IGD0033 & IGD0150 & ICB0192",
+         "IGD0085 & IGD0244 & IGD0224"
+      ]
+   },
+   {
+      "codigo": "IGD0267",
+      "nome": "GEOLOGIA DO BRASIL PRATICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0661"
+      ],
+      "pre_requisitos": [
+         "IGD0266"
+      ]
+   },
+   {
+      "codigo": "IGD0266",
+      "nome": "GEOLOGIA DO BRASIL TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0267",
+         "IGD0839"
+      ],
+      "pre_requisitos": [
+         "IGD0085  &  IGD0033  &  IGD0150  &  ICB0192"
+      ]
+   },
+   {
+      "codigo": "IGD0057",
+      "nome": "GEOLOGIA DO PETRÓLEO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0699"
+      ],
+      "pre_requisitos": [
+         "IGD0051",
+         "IGD0210"
+      ]
+   },
+   {
+      "codigo": "IGD0041",
+      "nome": "GEOLOGIA ECONÔMICA",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "IGD0077",
+         "IGD0079",
+         "IGD0090",
+         "IGD0116",
+         "IGD0130",
+         "IGD0151",
+         "IGD0155",
+         "IGD0180",
+         "IGD0632"
+      ],
+      "pre_requisitos": [
+         "IGD0276 & IGD0268 & IGD0162",
+         "IGD0033 & IGD0150 & IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0289",
+      "nome": "GEOLOGIA ECONÔMICA PRÁTICA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0665"
+      ],
+      "pre_requisitos": [
+         "IGD0033 & IGD0150 & IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0288",
+      "nome": "GEOLOGIA ECONÔMICA TEÓRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0861"
+      ],
+      "pre_requisitos": [
+         "IGD0033 & IGD0150 & IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0045",
+      "nome": "GEOLOGIA ESTRUTURAL",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "IGD0059",
+         "IGD0694"
+      ],
+      "pre_requisitos": [
+         "IGD0081"
+      ]
+   },
+   {
+      "codigo": "IGD0148",
+      "nome": "GEOLOGIA ESTRUTURAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0059",
+         "IGD0594"
+      ],
+      "pre_requisitos": [
+         "IGD0143 & GEA0038",
+         "IGD0143 & ECL0030"
+      ]
+   },
+   {
+      "codigo": "IGD0150",
+      "nome": "GEOLOGIA ESTRUTURAL 2",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "IGD0083",
+         "IGD0740"
+      ],
+      "pre_requisitos": [
+         "IGD0147 & IGD0036",
+         "IGD0148 & ECL0030"
+      ]
+   },
+   {
+      "codigo": "IGD0269",
+      "nome": "GEOLOGIA ESTRUTURAL 2 PRATICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0662"
+      ],
+      "pre_requisitos": [
+         "IGD0268"
+      ]
+   },
+   {
+      "codigo": "IGD0268",
+      "nome": "GEOLOGIA ESTRUTURAL 2 TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0269",
+         "IGD0611"
+      ],
+      "pre_requisitos": [
+         "IGD0147  &  IGD0036",
+         "IGD0148  &  ICB0192"
+      ]
+   },
+   {
+      "codigo": "IGD0021",
+      "nome": "GEOLOGIA GERAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FUP0010",
+         "IGD0028",
+         "IGD0049",
+         "IGD0081",
+         "IGD0100",
+         "IGD0174",
+         "IGD0185",
+         "IGD0198",
+         "IGD0206",
+         "GEA0038",
+         "ENC0240",
+         "FUP0219",
+         "FUP0249",
+         "FUP0256",
+         "FUP0261",
+         "FUP0350",
+         "IGD0247",
+         "IGD0253",
+         "IGD0260",
+         "IGD0587"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0085",
+      "nome": "GEOLOGIA HISTÓRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0176",
+         "IGD0636"
+      ],
+      "pre_requisitos": [
+         "IGD0033 & IGD0150 & IGD0162",
+         "IGD0244",
+         "ECL0030 & IGD0051",
+         "IGD0276 & IGD0268 & IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0203",
+      "nome": "GEOLOGIA SEDIMENTAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0208",
+         "IGD0604"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & ECL0030",
+         "IGD0143",
+         "IGD0021 & IGD0140",
+         "IGD0264"
+      ]
+   },
+   {
+      "codigo": "IGD0154",
+      "nome": "GEOMETRIA E CONTROLE ESTRUTURAL DE CORPOS DE MINÉRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0744"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0253",
+      "nome": "GEOMORFOLOGIA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0826"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0038",
+      "nome": "GEOQUÍMICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0156",
+         "IGD0691"
+      ],
+      "pre_requisitos": [
+         "IQD0063"
+      ]
+   },
+   {
+      "codigo": "IGD0142",
+      "nome": "GEOQUÍMICA ANALÍTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0593"
+      ],
+      "pre_requisitos": [
+         "IQD0153"
+      ]
+   },
+   {
+      "codigo": "IGD0199",
+      "nome": "GEOQUÍMICA DO AMBIENTE SUPERFICIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0784"
+      ],
+      "pre_requisitos": [
+         "IGD0054"
+      ]
+   },
+   {
+      "codigo": "IGD0162",
+      "nome": "GEOQUÍMICA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0156",
+         "IGD0189",
+         "IGD0597"
+      ],
+      "pre_requisitos": [
+         "IGD0142 & IGD0036",
+         "IGD0142 & IGD0272"
+      ]
+   },
+   {
+      "codigo": "IGD0054",
+      "nome": "HIDROGEOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0118",
+         "IGD0199",
+         "IGD0257",
+         "IGD0634"
+      ],
+      "pre_requisitos": [
+         "IGD0147"
+      ]
+   },
+   {
+      "codigo": "IGD0283",
+      "nome": "HIDROGEOLOGIA PRATICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0664"
+      ],
+      "pre_requisitos": [
+         "IGD0282"
+      ]
+   },
+   {
+      "codigo": "IGD0282",
+      "nome": "HIDROGEOLOGIA TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0283",
+         "IGD0855"
+      ],
+      "pre_requisitos": [
+         "IGD0147"
+      ]
+   },
+   {
+      "codigo": "IGD0100",
+      "nome": "INSTRUMENTACAO GEOLOGICA BASICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0716"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0233",
+      "nome": "INTEGRAÇÃO DE DADOS GEOLÓGICOS E GEOFÍSICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0808"
+      ],
+      "pre_requisitos": [
+         "IGD0220 & IGD0230 & IGD0217 & IGD0228 & IGD0226 & IGD0224"
+      ]
+   },
+   {
+      "codigo": "IGD0164",
+      "nome": "INTROD AO PROCESSAMENTO E INTERPRETAÇÃO DADOS EM GEOFÍSICA AÉREA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0754"
+      ],
+      "pre_requisitos": [
+         "IGD0093",
+         "IGD0138 & IGD0217"
+      ]
+   },
+   {
+      "codigo": "IGD0171",
+      "nome": "INTRODUÇÃO À ANÁLISE DE BACIAS: TECTÔNICA E SEDIMENTAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0760"
+      ],
+      "pre_requisitos": [
+         "IGD0051 & IGD0150 & IGD0212",
+         "IGD0051 & IGD0200 & IGD0150"
+      ]
+   },
+   {
+      "codigo": "IGD0175",
+      "nome": "INTRODUÇÃO A CARTOGRAFIA TEMÁTICA E DIGITAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0764"
+      ],
+      "pre_requisitos": [
+         "IGD0047"
+      ]
+   },
+   {
+      "codigo": "IGD0192",
+      "nome": "INTRODUÇÃO À FÍSICA DA TERRA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0645"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0226",
+      "nome": "INTRODUÇÃO À FOTOGEOLOGIA E AO SENSORIAMENTO REMOTO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0159",
+         "IGD0608"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & IGD0183 & IGD0192",
+         "IGD0160"
+      ]
+   },
+   {
+      "codigo": "IGD0181",
+      "nome": "INTRODUÇÃO À GEOFÍSICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0768"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IFD0171"
+      ]
+   },
+   {
+      "codigo": "IGD0170",
+      "nome": "INTRODUÇÃO À GEOLOGIA DE RESERVATÓRIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0759"
+      ],
+      "pre_requisitos": [
+         "IGD0150 & IGD0033 & IGD0093"
+      ]
+   },
+   {
+      "codigo": "IGD0169",
+      "nome": "INTRODUÇÃO À GEOLOGIA DO PETRÓLEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0642"
+      ],
+      "pre_requisitos": [
+         "IGD0051 & IGD0148 & IGD0212",
+         "IGD0210 & IGD0224",
+         "IGD0051 & IGD0200 & IGD0148"
+      ]
+   },
+   {
+      "codigo": "IGD0224",
+      "nome": "INTRODUÇÃO A GEOLOGIA ESTRUTURAL",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0607"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & IGD0183 & IGD0192",
+         "IGD0244 & IGD0051"
+      ]
+   },
+   {
+      "codigo": "IGD0260",
+      "nome": "INTRODUÇÃO A GEOMORFOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0833"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0004",
+      "nome": "INTRODUÇÃO À METEOROLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0669"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IFD0175 & IGD0192",
+         "MAT0026 & IFD0175 & IGD0168"
+      ]
+   },
+   {
+      "codigo": "IGD0185",
+      "nome": "INTRODUÇÃO A MINERALOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0210",
+         "IGD0772"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0182",
+      "nome": "INTRODUÇÃO AO ELETROMAGNETISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0599"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IFD0171 & ECL0030",
+         "MAT0026 & IFD0175"
+      ]
+   },
+   {
+      "codigo": "IGD0159",
+      "nome": "INTRODUÇÃO AO PROCESSAMENTO DE IMAGENS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0595"
+      ],
+      "pre_requisitos": [
+         "CDS0010",
+         "IGD0047",
+         "IGD0226"
+      ]
+   },
+   {
+      "codigo": "IGD0133",
+      "nome": "INTRODUÇÃO AO PROCESSAMENTO DE IMAGENS E SIG",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0729"
+      ],
+      "pre_requisitos": [
+         "IGD0047"
+      ]
+   },
+   {
+      "codigo": "IGD0152",
+      "nome": "INTRODUÇÃO AO PROCESSAMENTO DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0742"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0160",
+      "nome": "INTRODUÇÃO AO SISTEMA DE INFORMAÇÕES GEOGRÁFICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0226",
+         "IGD0596"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & MAT0022 & ECL0033",
+         "IGD0143 & MAT0025",
+         "IGD0021 & ECL0033"
+      ]
+   },
+   {
+      "codigo": "IGD0161",
+      "nome": "INTRODUÇÃO AO SISTEMA DE POSICIONAMENTO GLOBAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0751"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & IGD0043",
+         "IGD0021 & IGD0183",
+         "IGD0043 & FAV0274",
+         "IGD0183 & FAV0274"
+      ]
+   },
+   {
+      "codigo": "IGD0116",
+      "nome": "INTRODUÇÃO AOS MÉTADOS E LAVRA E BENEFICIAMENTO DE MINÉRIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0722"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0247",
+      "nome": "INTRODUÇÃO AOS MUSEUS DE CIÊNCIAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0822"
+      ],
+      "pre_requisitos": [
+         "IGD0021",
+         "IGD0167",
+         "FCI0013"
+      ]
+   },
+   {
+      "codigo": "IGD0258",
+      "nome": "INTRODUÇÃO A PEDOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0831"
+      ],
+      "pre_requisitos": [
+         "IQD0257 & IGD0021",
+         "IGD0021 & IQD0153",
+         "IGD0021 & IQD0282"
+      ]
+   },
+   {
+      "codigo": "IGD0172",
+      "nome": "INTRODUÇÃO A PROSPECÇÃO GEOFÍSICA DO PETRÓLEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0761"
+      ],
+      "pre_requisitos": [
+         "IFD0179"
+      ]
+   },
+   {
+      "codigo": "IGD0168",
+      "nome": "INTRODUÇÃO ÀS CIÊNCIAS DA TERRA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0641"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0003",
+      "nome": "INTRODUÇÃO À VULCANOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0668"
+      ],
+      "pre_requisitos": [
+         "IGD0036",
+         "IGD0244"
+      ]
+   },
+   {
+      "codigo": "IGD0130",
+      "nome": "LEGISLAÇÃO MINERAL PROFISSIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0727"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0147",
+      "nome": "MAPEAMENTO GEOLÓGICO 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0054",
+         "IGD0282",
+         "IGD0617"
+      ],
+      "pre_requisitos": [
+         "IGD0047 & IGD0148 & IGD0051 & IGD0278",
+         "IGD0047 & IGD0148 & IGD0051 & IGD0200",
+         "IGD0047 & IGD0148 & IGD0051 & IGD0211"
+      ]
+   },
+   {
+      "codigo": "IGD0191",
+      "nome": "MAPEAMENTO GEOLÓGICO 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0618"
+      ],
+      "pre_requisitos": [
+         "IGD0150 & IGD0033 & IGD0147"
+      ]
+   },
+   {
+      "codigo": "IGD0069",
+      "nome": "MAPEAMENTO GEOLÓGICO FINAL",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "IGD0704"
+      ],
+      "pre_requisitos": [
+         "IGD0088 & IGD0041 & IGD0114"
+      ]
+   },
+   {
+      "codigo": "IGD0006",
+      "nome": "MÉTODOS AEROELETROMAGNÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0671"
+      ],
+      "pre_requisitos": [
+         "IGD0250"
+      ]
+   },
+   {
+      "codigo": "IGD0163",
+      "nome": "MÉTODOS COMPUTACIONAIS EM GEOFÍSICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0753"
+      ],
+      "pre_requisitos": [
+         "IGD0093"
+      ]
+   },
+   {
+      "codigo": "IGD0234",
+      "nome": "MÉTODOS DE INVERSÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0809"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0138"
+      ]
+   },
+   {
+      "codigo": "IGD0220",
+      "nome": "MÉTODOS ELÉTRICOS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0235",
+         "IGD0242",
+         "IGD0800"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0287",
+      "nome": "MÉTODOS ELÉTRICOS - PRÁTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0627"
+      ],
+      "pre_requisitos": [
+         "IGD0286"
+      ]
+   },
+   {
+      "codigo": "IGD0286",
+      "nome": "MÉTODOS ELÉTRICOS - TEÓRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0287",
+         "IGD0859"
+      ],
+      "pre_requisitos": [
+         "MAT0059  &  IGD0213  &  IGD0214",
+         "IGD0138  &  IGD0213  &  IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0250",
+      "nome": "MÉTODOS ELETROMAGNÉTICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0006",
+         "IGD0657"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0292",
+      "nome": "MÉTODOS ELETROMAGNÉTICOS PRÁTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0628"
+      ],
+      "pre_requisitos": [
+         "IGD0290"
+      ]
+   },
+   {
+      "codigo": "IGD0290",
+      "nome": "MÉTODOS ELETROMAGNÉTICOS TEÓRICO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0292",
+         "IGD0863"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0108",
+      "nome": "METODOS ESTATISTICOS EM GEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0719"
+      ],
+      "pre_requisitos": [
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "IGD0235",
+      "nome": "MÉTODOS GEOFÍSICOS EM HIDROGEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0810"
+      ],
+      "pre_requisitos": [
+         "IGD0220"
+      ]
+   },
+   {
+      "codigo": "IGD0242",
+      "nome": "MÉTODOS MAGNETOTELÚRICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0817"
+      ],
+      "pre_requisitos": [
+         "IGD0220"
+      ]
+   },
+   {
+      "codigo": "IGD0217",
+      "nome": "MÉTODOS POTENCIAIS",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "IGD0651"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0201",
+      "nome": "MÉTODOS POTENCIAIS, RADIOMÉTRICOS E ELETROMAGNÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0603"
+      ],
+      "pre_requisitos": [
+         "IGD0138 & IGD0182",
+         "EST0019 & IGD0182"
+      ]
+   },
+   {
+      "codigo": "IGD0138",
+      "nome": "METODOS QUANTITATIVOS EM GEOCIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0591"
+      ],
+      "pre_requisitos": [
+         "MAT0026",
+         "MAT0031"
+      ]
+   },
+   {
+      "codigo": "IGD0263",
+      "nome": "MÉTODOS SÍSMICOS COM ONDAS SUPERFICIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0836"
+      ],
+      "pre_requisitos": [
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0202",
+      "nome": "MÉTODOS SÍSMICOS E ELÉTRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0005",
+         "IGD0184",
+         "IGD0647"
+      ],
+      "pre_requisitos": [
+         "IGD0138 & IGD0182",
+         "EST0019 & IGD0182"
+      ]
+   },
+   {
+      "codigo": "IGD0098",
+      "nome": "MICROPALEONTOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0590"
+      ],
+      "pre_requisitos": [
+         "IGD0049"
+      ]
+   },
+   {
+      "codigo": "IGD0155",
+      "nome": "MICROSCOPIA DE MINÉRIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0745"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0153",
+      "nome": "MICROTECTÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0743"
+      ],
+      "pre_requisitos": [
+         "IGD0033 & IGD0150"
+      ]
+   },
+   {
+      "codigo": "IGD0103",
+      "nome": "MINERAIS DE MINERIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0717"
+      ],
+      "pre_requisitos": [
+         "IGD0024"
+      ]
+   },
+   {
+      "codigo": "IGD0196",
+      "nome": "MINERAIS E ROCHAS INDUSTRIAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0781"
+      ],
+      "pre_requisitos": [
+         "IGD0036  &  IGD0030",
+         "IGD0200",
+         "IGD0212"
+      ]
+   },
+   {
+      "codigo": "IGD0151",
+      "nome": "MINERAIS E ROCHAS INDUSTRIAIS E RECURSOS MINERAIS ENERGÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0741"
+      ],
+      "pre_requisitos": [
+         "IGD0041",
+         "IGD0008 & IGD0244"
+      ]
+   },
+   {
+      "codigo": "IGD0194",
+      "nome": "MINERALOGIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0030",
+         "IGD0158",
+         "IGD0195",
+         "IGD0270",
+         "IGD0646"
+      ],
+      "pre_requisitos": [
+         "IGD0024"
+      ]
+   },
+   {
+      "codigo": "IGD0144",
+      "nome": "MINERALOGIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0145",
+         "IGD0736"
+      ],
+      "pre_requisitos": [
+         "IGD0024"
+      ]
+   },
+   {
+      "codigo": "IGD0026",
+      "nome": "MINERALOGIA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0106",
+         "IGD0686"
+      ],
+      "pre_requisitos": [
+         "IGD0024"
+      ]
+   },
+   {
+      "codigo": "IGD0106",
+      "nome": "MINERALOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0718"
+      ],
+      "pre_requisitos": [
+         "IGD0026"
+      ]
+   },
+   {
+      "codigo": "IGD0145",
+      "nome": "MINERALOGIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0030",
+         "IGD0128",
+         "IGD0737"
+      ],
+      "pre_requisitos": [
+         "IGD0144"
+      ]
+   },
+   {
+      "codigo": "IGD0158",
+      "nome": "MINERALOGIA DE ARGILAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0748"
+      ],
+      "pre_requisitos": [
+         "IGD0194"
+      ]
+   },
+   {
+      "codigo": "IGD0195",
+      "nome": "MINERALOGIA DE NÃO SILICATOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0128",
+         "IGD0780"
+      ],
+      "pre_requisitos": [
+         "IGD0194",
+         "IGD0274 & IGD0275"
+      ]
+   },
+   {
+      "codigo": "IGD0271",
+      "nome": "MINERALOGIA DE NÃO SILICATOS PRATICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0621"
+      ],
+      "pre_requisitos": [
+         "IGD0270"
+      ]
+   },
+   {
+      "codigo": "IGD0270",
+      "nome": "MINERALOGIA DE NÃO SILICATOS TEORICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0271",
+         "IGD0612"
+      ],
+      "pre_requisitos": [
+         "IGD0194"
+      ]
+   },
+   {
+      "codigo": "IGD0275",
+      "nome": "MINERALOGIA PRATICA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0623"
+      ],
+      "pre_requisitos": [
+         "IGD0274"
+      ]
+   },
+   {
+      "codigo": "IGD0274",
+      "nome": "MINERALOGIA TEORICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0275",
+         "IGD0847"
+      ],
+      "pre_requisitos": [
+         "IGD0024"
+      ]
+   },
+   {
+      "codigo": "IGD0236",
+      "nome": "OCEANOGRAFIA FÍSICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0655"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & IFD0175 & MAT0026"
+      ]
+   },
+   {
+      "codigo": "IGD0174",
+      "nome": "PALEOBIOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0246",
+         "IGD0763"
+      ],
+      "pre_requisitos": [
+         "IGD0167",
+         "IGD0021",
+         "IGD0173"
+      ]
+   },
+   {
+      "codigo": "IGD0208",
+      "nome": "PALEOCEANOGRAFIA E PALEOCLIMA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0606"
+      ],
+      "pre_requisitos": [
+         "IGD0203",
+         "IGD0211",
+         "IGD0210"
+      ]
+   },
+   {
+      "codigo": "IGD0049",
+      "nome": "PALEONTOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0098",
+         "IGD0132",
+         "IGD0246",
+         "IGD0589"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0028",
+      "nome": "PEDOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0022",
+         "IGD0616"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0239",
+      "nome": "PERFILAGEM GEOFÍSICA DE POÇOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0814"
+      ],
+      "pre_requisitos": [
+         "IGD0210 & IGD0214 & IGD0220"
+      ]
+   },
+   {
+      "codigo": "IGD0036",
+      "nome": "PETROLOGIA ÍGNEA",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "IGD0003",
+         "IGD0631"
+      ],
+      "pre_requisitos": [
+         "IGD0194 & IQD0296",
+         "IGD0194 & ECL0030"
+      ]
+   },
+   {
+      "codigo": "IGD0244",
+      "nome": "PETROLOGIA ÍGNEA E METAMÓRFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0003",
+         "IGD0085",
+         "IGD0656"
+      ],
+      "pre_requisitos": [
+         "IGD0185 & IGD0210",
+         "IGD0140 & IGD0203"
+      ]
+   },
+   {
+      "codigo": "IGD0273",
+      "nome": "PETROLOGIA ÍGNEA PRATICA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0622"
+      ],
+      "pre_requisitos": [
+         "IGD0272 & IGD0194"
+      ]
+   },
+   {
+      "codigo": "IGD0272",
+      "nome": "PETROLOGIA ÍGNEA TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0613"
+      ],
+      "pre_requisitos": [
+         "IGD0194 & IQD0296",
+         "IGD0194 & ECL0030"
+      ]
+   },
+   {
+      "codigo": "IGD0033",
+      "nome": "PETROLOGIA METAMÓRFICA",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "IGD0009",
+         "IGD0689"
+      ],
+      "pre_requisitos": [
+         "IGD0147 & IGD0036",
+         "IQD0296 & IGD0036 & IGD0212",
+         "IQD0296 & IGD0036 & IGD0200"
+      ]
+   },
+   {
+      "codigo": "IGD0277",
+      "nome": "PETROLOGIA METAMÓRFICA PRATICA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0624"
+      ],
+      "pre_requisitos": [
+         "IGD0276 & IGD0036 & IGD0200"
+      ]
+   },
+   {
+      "codigo": "IGD0276",
+      "nome": "PETROLOGIA METAMÓRFICA TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0849"
+      ],
+      "pre_requisitos": [
+         "IGD0147  &  IGD0036",
+         "IQD0296  &  IGD0036  &  IGD0200"
+      ]
+   },
+   {
+      "codigo": "IGD0200",
+      "nome": "PETROLOGIA SEDIMENTAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0785"
+      ],
+      "pre_requisitos": [
+         "IGD0203 & IGD0195",
+         "IGD0203 & ECL0030 & IGD0194",
+         "IGD0211 & IGD0194 & ECL0030"
+      ]
+   },
+   {
+      "codigo": "IGD0279",
+      "nome": "PETROLOGIA SEDIMENTAR PRATICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0625"
+      ],
+      "pre_requisitos": [
+         "IGD0278 & IGD0195"
+      ]
+   },
+   {
+      "codigo": "IGD0278",
+      "nome": "PETROLOGIA SEDIMENTAR TEORICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0614"
+      ],
+      "pre_requisitos": [
+         "IGD0203  &  IGD0195"
+      ]
+   },
+   {
+      "codigo": "IGD0065",
+      "nome": "PLANEJAMENTO GEOLOGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0703"
+      ],
+      "pre_requisitos": [
+         "IGD0061"
+      ]
+   },
+   {
+      "codigo": "IGD0114",
+      "nome": "PREPARACAO DO MAPEAMENTO GEOLOGICO FINAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0073",
+         "IGD0721"
+      ],
+      "pre_requisitos": [
+         "IGD0191 & IGD0041",
+         "IGD0147 & IGD0033 & IGD0162 & IGD0150 & IGD0093"
+      ]
+   },
+   {
+      "codigo": "IGD0008",
+      "nome": "PREPARAÇÃO TRABALHO FINAL - GEOFÍSICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0629"
+      ],
+      "pre_requisitos": [
+         "IGD0160 & IGD0192",
+         "IGD0226 & IGD0224"
+      ]
+   },
+   {
+      "codigo": "IGD0251",
+      "nome": "PRINCÍPIOS DE GEOFÍSICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0252",
+         "IGD0284",
+         "IGD0658"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0252",
+      "nome": "PRINCÍPIOS DE GEOFÍSICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0187",
+         "IGD0659"
+      ],
+      "pre_requisitos": [
+         "IGD0251"
+      ]
+   },
+   {
+      "codigo": "IGD0285",
+      "nome": "PRINCÍPIOS DE GEOFÍSICA 2 - PRÁTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "IGD0626"
+      ],
+      "pre_requisitos": [
+         "IGD0284"
+      ]
+   },
+   {
+      "codigo": "IGD0284",
+      "nome": "PRINCÍPIOS DE GEOFÍSICA 2 - TEÓRICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0285",
+         "IGD0857"
+      ],
+      "pre_requisitos": [
+         "IGD0251"
+      ]
+   },
+   {
+      "codigo": "IGD0193",
+      "nome": "PRINCÍPIOS DE GEOFÍSICA DE EXPLORAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0778"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0232",
+      "nome": "PROCESSAMENTO E INTERPRETAÇÃO GEOFÍSICA AÉREA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0654"
+      ],
+      "pre_requisitos": [
+         "IGD0138 & IGD0230 & IGD0217 & IGD0250"
+      ]
+   },
+   {
+      "codigo": "IGD0007",
+      "nome": "PROCESSAMENTOS DE DADOS SISMOLÓGICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0672"
+      ],
+      "pre_requisitos": [
+         "IGD0184",
+         "IGD0223"
+      ]
+   },
+   {
+      "codigo": "IGD0009",
+      "nome": "PROCESSOS METAMÓRFICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0674"
+      ],
+      "pre_requisitos": [
+         "IGD0033"
+      ]
+   },
+   {
+      "codigo": "IGD0187",
+      "nome": "PROGRAMAÇÃO EM GEOFÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0601"
+      ],
+      "pre_requisitos": [
+         "IGD0252",
+         "IGD0201 & IGD0202"
+      ]
+   },
+   {
+      "codigo": "IGD0214",
+      "nome": "PROPRIEDADES FÍSICAS DAS ROCHAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0650"
+      ],
+      "pre_requisitos": [
+         "IGD0252 & IGD0192 & IGD0244 & IGD0210",
+         "IGD0201 & IGD0202",
+         "IGD0244 & IGD0203"
+      ]
+   },
+   {
+      "codigo": "IGD0061",
+      "nome": "PROSPECCAO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0063",
+         "IGD0065",
+         "IGD0701"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0189",
+      "nome": "PROSPECÇÃO GEOQUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0775"
+      ],
+      "pre_requisitos": [
+         "IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0096",
+      "nome": "PROSPECÇÃO GERAL",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "IGD0714"
+      ],
+      "pre_requisitos": [
+         "IGD0202 & IGD0201 & IGD0041",
+         "IGD0093 & IGD0162",
+         "IGD0217 & IGD0223 & IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0281",
+      "nome": "PROSPECÇÃO GERAL PRATICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IGD0663"
+      ],
+      "pre_requisitos": [
+         "IGD0280"
+      ]
+   },
+   {
+      "codigo": "IGD0280",
+      "nome": "PROSPECÇÃO GERAL TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0281",
+         "IGD0853"
+      ],
+      "pre_requisitos": [
+         "IGD0093  &  IGD0162",
+         "IGD0202  &  IGD0201  &  IGD0162"
+      ]
+   },
+   {
+      "codigo": "IGD0209",
+      "nome": "RADAR DE PENETRAÇÃO NO SOLO (GPR)",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0793"
+      ],
+      "pre_requisitos": [
+         "IGD0201 & IGD0202",
+         "IGD0220 & IGD0250",
+         "IGD0201 & IGD0220",
+         "IGD0202 & IGD0250"
+      ]
+   },
+   {
+      "codigo": "IGD0256",
+      "nome": "REABILITAÇÃO E RESTAURAÇÃO DE ECOSSISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0829"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0257",
+      "nome": "RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0660"
+      ],
+      "pre_requisitos": [
+         "IGD0010",
+         "IGD0254",
+         "IGD0255",
+         "IGD0054"
+      ]
+   },
+   {
+      "codigo": "IGD0090",
+      "nome": "RECURSOS ENERGÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0712"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0010",
+      "nome": "RECURSOS HÍDRICOS PARA CIÊNCIAS AMBIENTAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0257",
+         "GEA0095",
+         "IGD0586"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & IQD0257",
+         "IGD0211 & IGD0142"
+      ]
+   },
+   {
+      "codigo": "IGD0255",
+      "nome": "RECURSOS HÍDRICOS SUBTERRÂNEOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0257",
+         "GEA0095",
+         "IGD0828"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & GEA0011",
+         "IGD0021 & IGD0254"
+      ]
+   },
+   {
+      "codigo": "IGD0254",
+      "nome": "RECURSOS HÍDRICOS SUPERFICIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0257",
+         "GEA0095",
+         "IGD0827"
+      ],
+      "pre_requisitos": [
+         "IQD0282 & CDS0010"
+      ]
+   },
+   {
+      "codigo": "IGD0197",
+      "nome": "RECURSOS MINERAIS ENERGÉTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0782"
+      ],
+      "pre_requisitos": [
+         "IGD0036  &  IGD0030",
+         "IGD0200",
+         "IGD0212"
+      ]
+   },
+   {
+      "codigo": "IGD0073",
+      "nome": "RELATORIO DO MAPEAMENTO GEOLOGIC0 FINAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0705"
+      ],
+      "pre_requisitos": [
+         "IGD0114"
+      ]
+   },
+   {
+      "codigo": "IGD0120",
+      "nome": "REOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0724"
+      ],
+      "pre_requisitos": [
+         "IFD0067 & MAT0031",
+         "IFD0171 & IFD0173 & MAT0031",
+         "IFD0067 & MAT0039",
+         "IFD0171 & IFD0173 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "IGD0030",
+      "nome": "SEDIMENTOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0688"
+      ],
+      "pre_requisitos": [
+         "IGD0145",
+         "IGD0194"
+      ]
+   },
+   {
+      "codigo": "IGD0211",
+      "nome": "SEDIMENTOLOGIA 1 - PRODUTOS E PROCESSOS SEDIMENTARES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0208",
+         "IGD0795"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0212",
+      "nome": "SEDIMENTOLOGIA 2 - PRODUTOS E PROCESSOS SEDIMENTARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0796"
+      ],
+      "pre_requisitos": [
+         "IGD0211 & IGD0194"
+      ]
+   },
+   {
+      "codigo": "IGD0210",
+      "nome": "SEDIMENTOLOGIA E ESTRATIGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0057",
+         "IGD0208",
+         "IGD0794"
+      ],
+      "pre_requisitos": [
+         "IGD0185"
+      ]
+   },
+   {
+      "codigo": "IGD0228",
+      "nome": "SÍSMICA DE REFLEXÃO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0652"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0223",
+      "nome": "SISMICA DE REFRAÇÃO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "IGD0005",
+         "IGD0007",
+         "IGD0801"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & IGD0213 & IGD0214 & IGD0192",
+         "IGD0138 & IGD0213 & IGD0214"
+      ]
+   },
+   {
+      "codigo": "IGD0005",
+      "nome": "SISMOLOGIA AVANÇADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0670"
+      ],
+      "pre_requisitos": [
+         "IGD0184",
+         "IGD0223",
+         "IGD0202"
+      ]
+   },
+   {
+      "codigo": "IGD0184",
+      "nome": "SISMOLOGIA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0005",
+         "IGD0007",
+         "IGD0771"
+      ],
+      "pre_requisitos": [
+         "IGD0093",
+         "IGD0202",
+         "IGD0251 & IGD0021"
+      ]
+   },
+   {
+      "codigo": "IGD0156",
+      "nome": "TÉCNICAS DE PESQUISA EM GEOQUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0746"
+      ],
+      "pre_requisitos": [
+         "IGD0162",
+         "IGD0038"
+      ]
+   },
+   {
+      "codigo": "IGD0157",
+      "nome": "TÉCNICAS DE PREPARAÇÃO E ANÁLISE DE MINERAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0747"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0083",
+      "nome": "TECTÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0635"
+      ],
+      "pre_requisitos": [
+         "IGD0150"
+      ]
+   },
+   {
+      "codigo": "IGD0014",
+      "nome": "TÓPICOA ESPECIAIS EM CIÊNCIAS AMBIENTAIS 4",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0679"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0015",
+      "nome": "TÓPICOA ESPECIAIS EM CIÊNCIAS AMBIENTAIS 5",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0680"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0016",
+      "nome": "TÓPICOA ESPECIAIS EM CIÊNCIAS AMBIENTAIS 6",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0681"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0017",
+      "nome": "TÓPICOA ESPECIAIS EM CIÊNCIAS AMBIENTAIS 7",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0682"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0018",
+      "nome": "TÓPICOA ESPECIAIS EM CIÊNCIAS AMBIENTAIS 8",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0683"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0011",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIAS AMBIENTAIS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IGD0676"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0012",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIAS AMBIENTAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0677"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0013",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIAS AMBIENTAIS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0678"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0183",
+      "nome": "TOPOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0143",
+         "ENC0244",
+         "FAV0277",
+         "IGD0264",
+         "IGD0600"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0043",
+      "nome": "TOPOGRAFIA FOTOGRAMETRIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EFL0100",
+         "ENC0244",
+         "FAV0277",
+         "FAV0312",
+         "IGD0693"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0179",
+      "nome": "TRABALHO DE MAPEAMENTO GEOLÓGICO FINAL",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "IGD0644"
+      ],
+      "pre_requisitos": [
+         "IGD0088 & IGD0114 & IGD0096",
+         "IGD0088 & IGD0114 & IGD0041"
+      ]
+   },
+   {
+      "codigo": "IGD0231",
+      "nome": "TRABALHO FINAL - GEOFÍSICA",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "IGD0653"
+      ],
+      "pre_requisitos": [
+         "IGD0232 & IGD0250 & IGD0224 & IGD0228",
+         "IGD0250 & IGD0228 & IGD0008"
+      ]
+   },
+   {
+      "codigo": "IGD0245",
+      "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0820"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0259",
+      "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0018",
+         "IGD0609"
+      ],
+      "pre_requisitos": [
+         "CDS0010 & EST0019"
+      ]
+   },
+   {
+      "codigo": "IGD0261",
+      "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO CONCLUSÃO DE CURSO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IGD0834"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IGD0079",
+      "nome": "TRATAMENTO MECANICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0707"
+      ],
+      "pre_requisitos": [
+         "IGD0041"
+      ]
+   }
 ]

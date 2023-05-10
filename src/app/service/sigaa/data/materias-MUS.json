@@ -1,4730 +1,5119 @@
 [
-  {
-    "cod": "MUS0254",
-    "nome": "ACUSTICA MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0929"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0248",
-    "nome": "ANALISE MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0633",
-      "MUS0928"
-    ],
-    "pre_requirements": [
-      "MUS0102 & MUS0106"
-    ]
-  },
-  {
-    "cod": "MUS0633",
-    "nome": "ANALISE MUSICAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0635",
-      "MUS0976"
-    ],
-    "pre_requirements": [
-      "MUS0248"
-    ]
-  },
-  {
-    "cod": "MUS0635",
-    "nome": "ANALISE MUSICAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1356"
-    ],
-    "pre_requirements": [
-      "MUS0633"
-    ]
-  },
-  {
-    "cod": "MUS0714",
-    "nome": "APRECIACAO MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0991"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0016",
-    "nome": "ARRANJO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1064"
-    ],
-    "pre_requirements": [
-      "MUS0099"
-    ]
-  },
-  {
-    "cod": "MUS0832",
-    "nome": "ARRANJO E CRIA\u00c7\u00c3O PARA O ENSINO E APRENDIZAGEM DA M\u00daSICA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1502"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0842",
-    "nome": "ARTE E CULTURA POPULAR",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1512"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0218",
-    "nome": "CANTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0220"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0220",
-    "nome": "CANTO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1186"
-    ],
-    "pre_requirements": [
-      "MUS0218"
-    ]
-  },
-  {
-    "cod": "MUS0223",
-    "nome": "CANTO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0226"
-    ],
-    "pre_requirements": [
-      "MUS0218"
-    ]
-  },
-  {
-    "cod": "MUS0226",
-    "nome": "CANTO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0927"
-    ],
-    "pre_requirements": [
-      "MUS0223"
-    ]
-  },
-  {
-    "cod": "MUS0229",
-    "nome": "CANTO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0231"
-    ],
-    "pre_requirements": [
-      "MUS0223"
-    ]
-  },
-  {
-    "cod": "MUS0231",
-    "nome": "CANTO 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1190"
-    ],
-    "pre_requirements": [
-      "MUS0229"
-    ]
-  },
-  {
-    "cod": "MUS0233",
-    "nome": "CANTO 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0235"
-    ],
-    "pre_requirements": [
-      "MUS0229"
-    ]
-  },
-  {
-    "cod": "MUS0235",
-    "nome": "CANTO 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1192"
-    ],
-    "pre_requirements": [
-      "MUS0233"
-    ]
-  },
-  {
-    "cod": "MUS0139",
-    "nome": "CANTO CORAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0142"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0142",
-    "nome": "CANTO CORAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0145"
-    ],
-    "pre_requirements": [
-      "MUS0139"
-    ]
-  },
-  {
-    "cod": "MUS0145",
-    "nome": "CANTO CORAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0776"
-    ],
-    "pre_requirements": [
-      "MUS0142"
-    ]
-  },
-  {
-    "cod": "MUS0776",
-    "nome": "CANTO CORAL 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0777"
-    ],
-    "pre_requirements": [
-      "MUS0145"
-    ]
-  },
-  {
-    "cod": "MUS0777",
-    "nome": "CANTO CORAL 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0778"
-    ],
-    "pre_requirements": [
-      "MUS0776"
-    ]
-  },
-  {
-    "cod": "MUS0778",
-    "nome": "CANTO CORAL 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1449"
-    ],
-    "pre_requirements": [
-      "MUS0777"
-    ]
-  },
-  {
-    "cod": "MUS0352",
-    "nome": "CLARINETA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0354",
-      "MUS0356",
-      "MUS0942"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0354",
-    "nome": "CLARINETA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1242"
-    ],
-    "pre_requirements": [
-      "MUS0352"
-    ]
-  },
-  {
-    "cod": "MUS0356",
-    "nome": "CLARINETA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0358",
-      "MUS0360",
-      "MUS0871"
-    ],
-    "pre_requirements": [
-      "MUS0352"
-    ]
-  },
-  {
-    "cod": "MUS0358",
-    "nome": "CLARINETA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0872"
-    ],
-    "pre_requirements": [
-      "MUS0356"
-    ]
-  },
-  {
-    "cod": "MUS0360",
-    "nome": "CLARINETA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0363",
-      "MUS0365",
-      "MUS1245"
-    ],
-    "pre_requirements": [
-      "MUS0356"
-    ]
-  },
-  {
-    "cod": "MUS0363",
-    "nome": "CLARINETA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0873"
-    ],
-    "pre_requirements": [
-      "MUS0360"
-    ]
-  },
-  {
-    "cod": "MUS0365",
-    "nome": "CLARINETA 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0367",
-      "MUS0682"
-    ],
-    "pre_requirements": [
-      "MUS0360"
-    ]
-  },
-  {
-    "cod": "MUS0367",
-    "nome": "CLARINETA 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1248"
-    ],
-    "pre_requirements": [
-      "MUS0365"
-    ]
-  },
-  {
-    "cod": "MUS0158",
-    "nome": "COMPOSICAO MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0161"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0161",
-    "nome": "COMPOSICAO MUSICAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0918"
-    ],
-    "pre_requirements": [
-      "MUS0158"
-    ]
-  },
-  {
-    "cod": "MUS0164",
-    "nome": "COMPOSICAO MUSICAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0166"
-    ],
-    "pre_requirements": [
-      "MUS0158"
-    ]
-  },
-  {
-    "cod": "MUS0166",
-    "nome": "COMPOSICAO MUSICAL 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0920"
-    ],
-    "pre_requirements": [
-      "MUS0164"
-    ]
-  },
-  {
-    "cod": "MUS0169",
-    "nome": "COMPOSICAO MUSICAL 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0172"
-    ],
-    "pre_requirements": [
-      "MUS0164"
-    ]
-  },
-  {
-    "cod": "MUS0172",
-    "nome": "COMPOSICAO MUSICAL 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0922"
-    ],
-    "pre_requirements": [
-      "MUS0169"
-    ]
-  },
-  {
-    "cod": "MUS0175",
-    "nome": "COMPOSICAO MUSICAL 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0178"
-    ],
-    "pre_requirements": [
-      "MUS0169"
-    ]
-  },
-  {
-    "cod": "MUS0178",
-    "nome": "COMPOSICAO MUSICAL 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0863"
-    ],
-    "pre_requirements": [
-      "MUS0175"
-    ]
-  },
-  {
-    "cod": "MUS0545",
-    "nome": "CONTRABAIXO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0547"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0547",
-    "nome": "CONTRABAIXO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1320"
-    ],
-    "pre_requirements": [
-      "MUS0545"
-    ]
-  },
-  {
-    "cod": "MUS0549",
-    "nome": "CONTRABAIXO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0551"
-    ],
-    "pre_requirements": [
-      "MUS0545"
-    ]
-  },
-  {
-    "cod": "MUS0551",
-    "nome": "CONTRABAIXO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1322"
-    ],
-    "pre_requirements": [
-      "MUS0549"
-    ]
-  },
-  {
-    "cod": "MUS0553",
-    "nome": "CONTRABAIXO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0555"
-    ],
-    "pre_requirements": [
-      "MUS0549"
-    ]
-  },
-  {
-    "cod": "MUS0555",
-    "nome": "CONTRABAIXO 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1324"
-    ],
-    "pre_requirements": [
-      "MUS0553"
-    ]
-  },
-  {
-    "cod": "MUS0557",
-    "nome": "CONTRABAIXO 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0559"
-    ],
-    "pre_requirements": [
-      "MUS0553"
-    ]
-  },
-  {
-    "cod": "MUS0559",
-    "nome": "CONTRABAIXO 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1326"
-    ],
-    "pre_requirements": [
-      "MUS0557"
-    ]
-  },
-  {
-    "cod": "MUS0106",
-    "nome": "CONTRAPONTO E FUGA 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0108"
-    ],
-    "pre_requirements": [
-      "MUS0093 & MUS0096 & MUS0250"
-    ]
-  },
-  {
-    "cod": "MUS0108",
-    "nome": "CONTRAPONTO E FUGA 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0662"
-    ],
-    "pre_requirements": [
-      "MUS0106"
-    ]
-  },
-  {
-    "cod": "MUS0662",
-    "nome": "CONTRAPONTO E FUGA 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0981"
-    ],
-    "pre_requirements": [
-      "MUS0108"
-    ]
-  },
-  {
-    "cod": "MUS0808",
-    "nome": "EDUCA\u00c7\u00c3O AUDITIVA MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0882"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0809",
-    "nome": "EDUCA\u00c7\u00c3O AUDITIVA MUSICAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1479"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0847",
-    "nome": "ELEMENTOS DA LINGUAGEM CORAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0889"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0735",
-    "nome": "ELEMENTOS DE LINGUAGEM,ESTETICA E HISTORIA DA ARTE 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0994"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0492",
-    "nome": "ESTAGIO SUPERVISIONADO EM CANTO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1299"
-    ],
-    "pre_requirements": [
-      "MUS0233"
-    ]
-  },
-  {
-    "cod": "MUS0682",
-    "nome": "ESTAGIO SUPERVISIONADO EM CLARINETA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0986"
-    ],
-    "pre_requirements": [
-      "MUS0365"
-    ]
-  },
-  {
-    "cod": "MUS0664",
-    "nome": "ESTAGIO SUPERVISIONADO EM COMPOSICAO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0982"
-    ],
-    "pre_requirements": [
-      "MUS0175"
-    ]
-  },
-  {
-    "cod": "MUS0267",
-    "nome": "ESTAGIO SUPERVISIONADO EM COMPOSICAO E REGENCIA",
-    "ch": 120,
-    "post_requirements": [
-      "MUS1208"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0672",
-    "nome": "ESTAGIO SUPERVISIONADO EM CONTRABAIXO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0984"
-    ],
-    "pre_requirements": [
-      "MUS0557"
-    ]
-  },
-  {
-    "cod": "MUS0688",
-    "nome": "ESTAGIO SUPERVISIONADO EM FAGOTE",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0987"
-    ],
-    "pre_requirements": [
-      "MUS0435"
-    ]
-  },
-  {
-    "cod": "MUS0690",
-    "nome": "ESTAGIO SUPERVISIONADO EM FLAUTA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1381"
-    ],
-    "pre_requirements": [
-      "MUS0460"
-    ]
-  },
-  {
-    "cod": "MUS0265",
-    "nome": "ESTAGIO SUPERVISIONADO EM INSTRUMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1207"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0262",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM M\u00daSICA 1",
-    "ch": 120,
-    "post_requirements": [
-      "MUS0737"
-    ],
-    "pre_requirements": [
-      "MUS0788"
-    ]
-  },
-  {
-    "cod": "MUS0738",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM M\u00daSICA 2",
-    "ch": 120,
-    "post_requirements": [
-      "VIS0135"
-    ],
-    "pre_requirements": [
-      "MUS0262"
-    ]
-  },
-  {
-    "cod": "MUS0787",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM M\u00daSICA 3",
-    "ch": 120,
-    "post_requirements": [
-      "MUS1012"
-    ],
-    "pre_requirements": [
-      "MUS0738"
-    ]
-  },
-  {
-    "cod": "MUS0684",
-    "nome": "ESTAGIO SUPERVISIONADO EM OBOE",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1378"
-    ],
-    "pre_requirements": [
-      "MUS0387"
-    ]
-  },
-  {
-    "cod": "MUS0692",
-    "nome": "ESTAGIO SUPERVISIONADO EM PIANO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0988"
-    ],
-    "pre_requirements": [
-      "MUS0488"
-    ]
-  },
-  {
-    "cod": "MUS0666",
-    "nome": "ESTAGIO SUPERVISIONADO EM REGENCIA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1369"
-    ],
-    "pre_requirements": [
-      "MUS0200"
-    ]
-  },
-  {
-    "cod": "MUS0674",
-    "nome": "ESTAGIO SUPERVISIONADO EM SAXOFONE",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1373"
-    ],
-    "pre_requirements": [
-      "MUS0583"
-    ]
-  },
-  {
-    "cod": "MUS0713",
-    "nome": "ESTAGIO SUPERVISIONADO EM TROMBONE",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1393"
-    ],
-    "pre_requirements": [
-      "MUS0710"
-    ]
-  },
-  {
-    "cod": "MUS0686",
-    "nome": "ESTAGIO SUPERVISIONADO EM TROMPA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1379"
-    ],
-    "pre_requirements": [
-      "MUS0410"
-    ]
-  },
-  {
-    "cod": "MUS0670",
-    "nome": "ESTAGIO SUPERVISIONADO EM TROMPETE",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0983"
-    ],
-    "pre_requirements": [
-      "MUS0533"
-    ]
-  },
-  {
-    "cod": "MUS0678",
-    "nome": "ESTAGIO SUPERVISIONADO EM VIOLA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1375"
-    ],
-    "pre_requirements": [
-      "MUS0319"
-    ]
-  },
-  {
-    "cod": "MUS0694",
-    "nome": "ESTAGIO SUPERVISIONADO EM VIOLAO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0989"
-    ],
-    "pre_requirements": [
-      "MUS0606"
-    ]
-  },
-  {
-    "cod": "MUS0676",
-    "nome": "ESTAGIO SUPERVISIONADO EM VIOLINO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0985"
-    ],
-    "pre_requirements": [
-      "MUS0291"
-    ]
-  },
-  {
-    "cod": "MUS0680",
-    "nome": "ESTAGIO SUPERVISIONADO EM VIOLONCELO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1376"
-    ],
-    "pre_requirements": [
-      "MUS0343"
-    ]
-  },
-  {
-    "cod": "MUS0741",
-    "nome": "ESTRUTURACAO MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1416"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0244",
-    "nome": "EVOLU\u00c7\u00c3O DA M\u00daSICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0246"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0246",
-    "nome": "EVOLUCAO DA MUSICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1199"
-    ],
-    "pre_requirements": [
-      "MUS0244"
-    ]
-  },
-  {
-    "cod": "MUS0420",
-    "nome": "FAGOTE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0422"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0422",
-    "nome": "FAGOTE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1272"
-    ],
-    "pre_requirements": [
-      "MUS0420"
-    ]
-  },
-  {
-    "cod": "MUS0424",
-    "nome": "FAGOTE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0426"
-    ],
-    "pre_requirements": [
-      "MUS0420"
-    ]
-  },
-  {
-    "cod": "MUS0426",
-    "nome": "FAGOTE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1274"
-    ],
-    "pre_requirements": [
-      "MUS0424"
-    ]
-  },
-  {
-    "cod": "MUS0429",
-    "nome": "FAGOTE 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0432"
-    ],
-    "pre_requirements": [
-      "MUS0424"
-    ]
-  },
-  {
-    "cod": "MUS0432",
-    "nome": "FAGOTE 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1276"
-    ],
-    "pre_requirements": [
-      "MUS0429"
-    ]
-  },
-  {
-    "cod": "MUS0435",
-    "nome": "FAGOTE 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0438"
-    ],
-    "pre_requirements": [
-      "MUS0429"
-    ]
-  },
-  {
-    "cod": "MUS0438",
-    "nome": "FAGOTE 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1278"
-    ],
-    "pre_requirements": [
-      "MUS0435"
-    ]
-  },
-  {
-    "cod": "MUS0120",
-    "nome": "FISIOLOGIA DA VOZ",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1143"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0446",
-    "nome": "FLAUTA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0448",
-      "MUS0450",
-      "MUS0949"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0448",
-    "nome": "FLAUTA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1282"
-    ],
-    "pre_requirements": [
-      "MUS0446"
-    ]
-  },
-  {
-    "cod": "MUS0450",
-    "nome": "FLAUTA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0452",
-      "MUS0455",
-      "MUS0950"
-    ],
-    "pre_requirements": [
-      "MUS0446"
-    ]
-  },
-  {
-    "cod": "MUS0452",
-    "nome": "FLAUTA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1284"
-    ],
-    "pre_requirements": [
-      "MUS0450"
-    ]
-  },
-  {
-    "cod": "MUS0455",
-    "nome": "FLAUTA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0457",
-      "MUS0460",
-      "MUS1285"
-    ],
-    "pre_requirements": [
-      "MUS0450"
-    ]
-  },
-  {
-    "cod": "MUS0457",
-    "nome": "FLAUTA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0951"
-    ],
-    "pre_requirements": [
-      "MUS0455"
-    ]
-  },
-  {
-    "cod": "MUS0460",
-    "nome": "FLAUTA 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0463",
-      "MUS0690"
-    ],
-    "pre_requirements": [
-      "MUS0455"
-    ]
-  },
-  {
-    "cod": "MUS0463",
-    "nome": "FLAUTA 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1288"
-    ],
-    "pre_requirements": [
-      "MUS0460"
-    ]
-  },
-  {
-    "cod": "MUS0849",
-    "nome": "FUNDAMENTOS DA ARTE MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1516"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0742",
-    "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1417"
-    ],
-    "pre_requirements": [
-      "PED0058"
-    ]
-  },
-  {
-    "cod": "MUS0745",
-    "nome": "FUNDAMENTOS DA T\u00c9CNICA VOCAL/INSTRUMENTAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "nem ex"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0746",
-    "nome": "FUNDAMENTOS DA T\u00c9CNICAVOCAL/INSTRUMENTAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "nem ex"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0747",
-    "nome": "FUNDAMENTOS DA T\u00c9CNICA VOCAL/INSTRUMENTAL 3",
-    "ch": 30,
-    "post_requirements": [
-      "nem ex"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0748",
-    "nome": "FUNDAMENTOS DA T\u00c9CNICA VOCAL/INSTRUMENTAL 4",
-    "ch": 30,
-    "post_requirements": [
-      "nem ex"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0722",
-    "nome": "HARMONIA E IMPROVISA\u00c7\u00c3O NA M\u00daSICA POPULAR 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0856"
-    ],
-    "pre_requirements": [
-      "MUS0102"
-    ]
-  },
-  {
-    "cod": "MUS0024",
-    "nome": "HARMONIA E IMPROVISA\u00c7\u00c3O NA M\u00daSICA POPULAR 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1072"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0025",
-    "nome": "HARMONIA E IMPROVISA\u00c7\u00c3O NA M\u00daSICA POPULAR 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1073"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0017",
-    "nome": "HARMONIA NA M\u00daSICA POPULAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0018"
-    ],
-    "pre_requirements": [
-      "MUS0099"
-    ]
-  },
-  {
-    "cod": "MUS0018",
-    "nome": "HARMONIA NA M\u00daSICA POPULAR 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1066"
-    ],
-    "pre_requirements": [
-      "MUS0017"
-    ]
-  },
-  {
-    "cod": "MUS0102",
-    "nome": "HARMONIA SUPERIOR 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0104"
-    ],
-    "pre_requirements": [
-      "MUS0093 & MUS0096 & MUS0250"
-    ]
-  },
-  {
-    "cod": "MUS0104",
-    "nome": "HARMONIA SUPERIOR 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0643"
-    ],
-    "pre_requirements": [
-      "MUS0102"
-    ]
-  },
-  {
-    "cod": "MUS0643",
-    "nome": "HARMONIA SUPERIOR 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1359"
-    ],
-    "pre_requirements": [
-      "MUS0104"
-    ]
-  },
-  {
-    "cod": "MUS0729",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0857"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0730",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0020"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0761",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1002"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0762",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1003"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0804",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA BRASILEIRA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0881"
-    ],
-    "pre_requirements": [
-      "MUS0730"
-    ]
-  },
-  {
-    "cod": "MUS0020",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA BRASILEIRA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1068"
-    ],
-    "pre_requirements": [
-      "MUS0730"
-    ]
-  },
-  {
-    "cod": "MUS0021",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA POPULAR DO BRASIL 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1069"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0022",
-    "nome": "HIST\u00d3RIA DA M\u00daSICA POPULAR DO BRASIL 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1070"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0019",
-    "nome": "IMPROVISA\u00c7\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1067"
-    ],
-    "pre_requirements": [
-      "MUS0017"
-    ]
-  },
-  {
-    "cod": "MUS0122",
-    "nome": "INSTRUMENTACAO E ORQUESTRACAO 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1144"
-    ],
-    "pre_requirements": [
-      "MUS0093"
-    ]
-  },
-  {
-    "cod": "MUS0124",
-    "nome": "INSTRUMENTACAO E ORQUESTRACAO 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0855"
-    ],
-    "pre_requirements": [
-      "MUS0122 & MUS0102"
-    ]
-  },
-  {
-    "cod": "MUS0214",
-    "nome": "INSTRUMENTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1183"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0828",
-    "nome": "INSTRUMENTO PRINCIPAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1030"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0831",
-    "nome": "INSTRUMENTO PRINCIPAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0887"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0833",
-    "nome": "INSTRUMENTO PRINCIPAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1503"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0835",
-    "nome": "INSTRUMENTO PRINCIPAL 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1505"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0058",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0899"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0059",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0900"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0060",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0901"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0061",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1103"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0733",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0773"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0773",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0783"
-    ],
-    "pre_requirements": [
-      "MUS0733"
-    ]
-  },
-  {
-    "cod": "MUS0783",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0802"
-    ],
-    "pre_requirements": [
-      "MUS0773"
-    ]
-  },
-  {
-    "cod": "MUS0802",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1472"
-    ],
-    "pre_requirements": [
-      "MUS0783"
-    ]
-  },
-  {
-    "cod": "MUS0822",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 5",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1492"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0823",
-    "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 6",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1493"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0042",
-    "nome": "INSTRUMENTO PRINCIPAL CLARINETA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1084"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0043",
-    "nome": "INSTRUMENTO PRINCIPAL CLARINETA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1085"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0044",
-    "nome": "INSTRUMENTO PRINCIPAL CLARINETA 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1086"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0045",
-    "nome": "INSTRUMENTO PRINCIPAL CLARINETA 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1087"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0036",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1078"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0037",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1079"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0798",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0799"
-    ],
-    "pre_requirements": [
-      "MUS0790"
-    ]
-  },
-  {
-    "cod": "MUS0799",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1469"
-    ],
-    "pre_requirements": [
-      "MUS0798"
-    ]
-  },
-  {
-    "cod": "MUS0768",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0790"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0790",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0005"
-    ],
-    "pre_requirements": [
-      "MUS0768"
-    ]
-  },
-  {
-    "cod": "MUS0005",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0007"
-    ],
-    "pre_requirements": [
-      "MUS0790"
-    ]
-  },
-  {
-    "cod": "MUS0007",
-    "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0892"
-    ],
-    "pre_requirements": [
-      "MUS0005"
-    ]
-  },
-  {
-    "cod": "MUS0046",
-    "nome": "INSTRUMENTO PRINCIPAL FAGOTE 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1088"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0047",
-    "nome": "INSTRUMENTO PRINCIPAL FAGOTE 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1089"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0048",
-    "nome": "INSTRUMENTO PRINCIPAL FAGOTE 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1090"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0049",
-    "nome": "INSTRUMENTO PRINCIPAL FAGOTE 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1091"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0038",
-    "nome": "INSTRUMENTO PRINCIPAL FLAUTA 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1080"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0039",
-    "nome": "INSTRUMENTO PRINCIPAL FLAUTA 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1081"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0040",
-    "nome": "INSTRUMENTO PRINCIPAL FLAUTA 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1082"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0041",
-    "nome": "INSTRUMENTO PRINCIPAL FLAUTA 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1083"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0769",
-    "nome": "INSTRUMENTO PRINCIPAL GUITARRA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0791"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0791",
-    "nome": "INSTRUMENTO PRINCIPAL GUITARRA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0792"
-    ],
-    "pre_requirements": [
-      "MUS0769"
-    ]
-  },
-  {
-    "cod": "MUS0792",
-    "nome": "INSTRUMENTO PRINCIPAL GUITARRA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0793"
-    ],
-    "pre_requirements": [
-      "MUS0791"
-    ]
-  },
-  {
-    "cod": "MUS0793",
-    "nome": "INSTRUMENTO PRINCIPAL GUITARRA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0081"
-    ],
-    "pre_requirements": [
-      "MUS0792"
-    ]
-  },
-  {
-    "cod": "MUS0081",
-    "nome": "INSTRUMENTO PRINCIPAL GUITARRA 5",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0083"
-    ],
-    "pre_requirements": [
-      "MUS0793"
-    ]
-  },
-  {
-    "cod": "MUS0083",
-    "nome": "INSTRUMENTO PRINCIPAL GUITARRA 6",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0903"
-    ],
-    "pre_requirements": [
-      "MUS0081"
-    ]
-  },
-  {
-    "cod": "MUS0008",
-    "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0009"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0009",
-    "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0010"
-    ],
-    "pre_requirements": [
-      "MUS0008"
-    ]
-  },
-  {
-    "cod": "MUS0010",
-    "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0011"
-    ],
-    "pre_requirements": [
-      "MUS0009"
-    ]
-  },
-  {
-    "cod": "MUS0011",
-    "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1059"
-    ],
-    "pre_requirements": [
-      "MUS0010"
-    ]
-  },
-  {
-    "cod": "MUS0731",
-    "nome": "INSTRUMENTO  PRINCIPAL PERCUSS\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1409"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0817",
-    "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1487"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0775",
-    "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0785"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0785",
-    "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0800"
-    ],
-    "pre_requirements": [
-      "MUS0775"
-    ]
-  },
-  {
-    "cod": "MUS0800",
-    "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1470"
-    ],
-    "pre_requirements": [
-      "MUS0785"
-    ]
-  },
-  {
-    "cod": "MUS0818",
-    "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 5",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1488"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0819",
-    "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 6",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1489"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0062",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0063"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0063",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0064"
-    ],
-    "pre_requirements": [
-      "MUS0062"
-    ]
-  },
-  {
-    "cod": "MUS0064",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0065"
-    ],
-    "pre_requirements": [
-      "MUS0063"
-    ]
-  },
-  {
-    "cod": "MUS0065",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1107"
-    ],
-    "pre_requirements": [
-      "MUS0064"
-    ]
-  },
-  {
-    "cod": "MUS0027",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0030"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0026",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 1",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0028",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 2",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0030",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0033"
-    ],
-    "pre_requirements": [
-      "MUS0027"
-    ]
-  },
-  {
-    "cod": "MUS0031",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 3",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0033",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0035"
-    ],
-    "pre_requirements": [
-      "MUS0030"
-    ]
-  },
-  {
-    "cod": "MUS0035",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0898"
-    ],
-    "pre_requirements": [
-      "MUS0033"
-    ]
-  },
-  {
-    "cod": "MUS0034",
-    "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 4",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0074",
-    "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1116"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0075",
-    "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1117"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0076",
-    "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1118"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0077",
-    "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1119"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0794",
-    "nome": "INSTRUMENTO PRINCIPAL TROMBONE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0795"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0795",
-    "nome": "INSTRUMENTO PRINCIPAL TROMBONE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0796"
-    ],
-    "pre_requirements": [
-      "MUS0794"
-    ]
-  },
-  {
-    "cod": "MUS0796",
-    "nome": "INSTRUMENTO PRINCIPAL TROMBONE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0797"
-    ],
-    "pre_requirements": [
-      "MUS0795"
-    ]
-  },
-  {
-    "cod": "MUS0797",
-    "nome": "INSTRUMENTO PRINCIPAL TROMBONE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1018"
-    ],
-    "pre_requirements": [
-      "MUS0796"
-    ]
-  },
-  {
-    "cod": "MUS0050",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPA 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1092"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0051",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPA 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1093"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0052",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPA 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1094"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0053",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPA 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1095"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0066",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPETE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1108"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0067",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPETE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1109"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0068",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPETE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1110"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0069",
-    "nome": "INSTRUMENTO PRINCIPAL TROMPETE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1111"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0054",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLA 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1096"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0055",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLA 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1097"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0056",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLA 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1098"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0057",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLA 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1099"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0766",
-    "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1004"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0774",
-    "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0784"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0784",
-    "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0801"
-    ],
-    "pre_requirements": [
-      "MUS0774"
-    ]
-  },
-  {
-    "cod": "MUS0801",
-    "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0820"
-    ],
-    "pre_requirements": [
-      "MUS0784"
-    ]
-  },
-  {
-    "cod": "MUS0820",
-    "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 5",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0821"
-    ],
-    "pre_requirements": [
-      "MUS0801"
-    ]
-  },
-  {
-    "cod": "MUS0821",
-    "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 6",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1028"
-    ],
-    "pre_requirements": [
-      "MUS0820"
-    ]
-  },
-  {
-    "cod": "MUS0012",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLINO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0013"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0013",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLINO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0014"
-    ],
-    "pre_requirements": [
-      "MUS0012"
-    ]
-  },
-  {
-    "cod": "MUS0014",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLINO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0015"
-    ],
-    "pre_requirements": [
-      "MUS0013"
-    ]
-  },
-  {
-    "cod": "MUS0015",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLINO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1063"
-    ],
-    "pre_requirements": [
-      "MUS0014"
-    ]
-  },
-  {
-    "cod": "MUS0070",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 1",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1112"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0071",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 2",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1113"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0072",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 3",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1114"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0073",
-    "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 4",
-    "ch": 0,
-    "post_requirements": [
-      "MUS1115"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0215",
-    "nome": "INSTRUMENTO SUPLEMENTAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0151"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0826",
-    "nome": "INSTRUMENTO SUPLEMENTAR 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1496"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0779",
-    "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1010"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0803",
-    "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1020"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0734",
-    "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1412"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0770",
-    "nome": "INSTRUMENTO SUPLEMENTAR PERCUSS\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0786"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0786",
-    "nome": "INSTRUMENTO SUPLEMENTAR PERCUSS\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0880"
-    ],
-    "pre_requirements": [
-      "MUS0770"
-    ]
-  },
-  {
-    "cod": "MUS0732",
-    "nome": "INSTRUMENTO SUPLEMENTAR PERCUSS\u00c3O 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1410"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0765",
-    "nome": "INSTRUMENTO SUPLEMENTAR VIOL\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0772"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0772",
-    "nome": "INSTRUMENTO SUPLEMENTAR VIOL\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0860"
-    ],
-    "pre_requirements": [
-      "MUS0765"
-    ]
-  },
-  {
-    "cod": "MUS0348",
-    "nome": "INTRODUCAO A CLARINETA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0350"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0350",
-    "nome": "INTRODUCAO A CLARINETA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1240"
-    ],
-    "pre_requirements": [
-      "MUS0348"
-    ]
-  },
-  {
-    "cod": "MUS0715",
-    "nome": "INTRODUCAO A ESTILOS E PRATICAS MUSICAIS DOS SECULOS XVII E XVIII",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1395"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0440",
-    "nome": "INTRODUCAO A FLAUTA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0442"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0442",
-    "nome": "INTRODUCAO A FLAUTA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1280"
-    ],
-    "pre_requirements": [
-      "MUS0440"
-    ]
-  },
-  {
-    "cod": "MUS0716",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 FLAUTA DOCE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0718"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0718",
-    "nome": "INTRODU\u00c7\u00c3O A FLAUTA DOCE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0876"
-    ],
-    "pre_requirements": [
-      "MUS0716"
-    ]
-  },
-  {
-    "cod": "MUS0093",
-    "nome": "INTRODUCAO A MUSICA 1",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0096"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0096",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 M\u00daSICA 2",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0112"
-    ],
-    "pre_requirements": [
-      "MUS0093"
-    ]
-  },
-  {
-    "cod": "MUS0206",
-    "nome": "INTRODUCAO A MUSICOLOGIA",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0207"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0648",
-    "nome": "INTRODUCAO AO CANTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0650"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0650",
-    "nome": "INTRODUCAO AO CANTO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1362"
-    ],
-    "pre_requirements": [
-      "MUS0648"
-    ]
-  },
-  {
-    "cod": "MUS0540",
-    "nome": "INTRODUCAO AO CONTRABAIXO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0542"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0542",
-    "nome": "INTRODUCAO AO CONTRABAIXO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1318"
-    ],
-    "pre_requirements": [
-      "MUS0540"
-    ]
-  },
-  {
-    "cod": "MUS0414",
-    "nome": "INTRODUCAO AO FAGOTE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0416"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0416",
-    "nome": "INTRODUCAO AO FAGOTE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1270"
-    ],
-    "pre_requirements": [
-      "MUS0414"
-    ]
-  },
-  {
-    "cod": "MUS0369",
-    "nome": "INTRODUCAO AO OBOE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0371"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0371",
-    "nome": "INTRODUCAO AO OBOE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1250"
-    ],
-    "pre_requirements": [
-      "MUS0369"
-    ]
-  },
-  {
-    "cod": "MUS0467",
-    "nome": "INTRODUCAO AO PIANO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0471"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0471",
-    "nome": "INTRODUCAO AO PIANO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1290"
-    ],
-    "pre_requirements": [
-      "MUS0467"
-    ]
-  },
-  {
-    "cod": "MUS0759",
-    "nome": "INTRODU\u00c7\u00c3O AO PIANO POPULAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0760"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0760",
-    "nome": "INTRODU\u00c7\u00c3O AO PIANO POPULAR 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1432"
-    ],
-    "pre_requirements": [
-      "MUS0759"
-    ]
-  },
-  {
-    "cod": "MUS0562",
-    "nome": "INTRODUCAO AO SAXOFONE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0564"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0564",
-    "nome": "INTRODUCAO AO SAXOFONE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1328"
-    ],
-    "pre_requirements": [
-      "MUS0562"
-    ]
-  },
-  {
-    "cod": "MUS0724",
-    "nome": "INTRODU\u00c7\u00c3O AO TROMBONE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0725"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0725",
-    "nome": "INTRODU\u00c7\u00c3O AO TROMBONE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0878"
-    ],
-    "pre_requirements": [
-      "MUS0724"
-    ]
-  },
-  {
-    "cod": "MUS0517",
-    "nome": "INTRODUCAO AO TROMPETE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0519"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0519",
-    "nome": "INTRODUCAO AO TROMPETE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1308"
-    ],
-    "pre_requirements": [
-      "MUS0517"
-    ]
-  },
-  {
-    "cod": "MUS0587",
-    "nome": "INTRODUCAO AO VIOLAO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1337"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0590",
-    "nome": "INTRODUCAO AO VIOLAO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1338"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0271",
-    "nome": "INTRODUCAO AO VIOLINO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0273"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0273",
-    "nome": "INTRODUCAO AO VIOLINO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0933"
-    ],
-    "pre_requirements": [
-      "MUS0271"
-    ]
-  },
-  {
-    "cod": "MUS0324",
-    "nome": "INTRODUCAO AO VIOLONCELO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0326"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0326",
-    "nome": "INTRODUCAO AO VIOLONCELO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1230"
-    ],
-    "pre_requirements": [
-      "MUS0324"
-    ]
-  },
-  {
-    "cod": "MUS0003",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 PESQUISA EM M\u00daSICA",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0806"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0392",
-    "nome": "INTRODUCAO A TROMPA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0394"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0394",
-    "nome": "INTRODUCAO A TROMPA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1260"
-    ],
-    "pre_requirements": [
-      "MUS0392"
-    ]
-  },
-  {
-    "cod": "MUS0298",
-    "nome": "INTRODUCAO A VIOLA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0302"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0302",
-    "nome": "INTRODUCAO A VIOLA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1220"
-    ],
-    "pre_requirements": [
-      "MUS0298"
-    ]
-  },
-  {
-    "cod": "MUS0087",
-    "nome": "LABORAT\u00d3RIO DE M\u00daSICA E TECNOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0851"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0086",
-    "nome": "LABORAT\u00d3RIO DE PERFORMANCE",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0850"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0763",
-    "nome": "LABORAT\u00d3RIO ORQUESTRAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0879"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0764",
-    "nome": "LABORAT\u00d3RIO ORQUESTRAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1436"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0837",
-    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1507"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0097",
-    "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0098"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0098",
-    "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0099"
-    ],
-    "pre_requirements": [
-      "MUS0097"
-    ]
-  },
-  {
-    "cod": "MUS0099",
-    "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0016"
-    ],
-    "pre_requirements": [
-      "MUS0098"
-    ]
-  },
-  {
-    "cod": "MUS0100",
-    "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0904"
-    ],
-    "pre_requirements": [
-      "MUS0099"
-    ]
-  },
-  {
-    "cod": "MUS0204",
-    "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 5",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1174"
-    ],
-    "pre_requirements": [
-      "MUS0097"
-    ]
-  },
-  {
-    "cod": "MUS0213",
-    "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 8",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1182"
-    ],
-    "pre_requirements": [
-      "MUS0097"
-    ]
-  },
-  {
-    "cod": "MUS0757",
-    "nome": "LITERATURA CORAL 1: IDADE M\u00c9DIA E RENASCIMENTO",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1429"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0755",
-    "nome": "LITERATURA CORAL 2: PER\u00cdODO BARROCO",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1428"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0780",
-    "nome": "LITERATURA CORAL 3: CLASSICISMO E ROMANTISMO",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1451"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0781",
-    "nome": "LITERATURA CORAL 4: ERA MODERNA",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1452"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0646",
-    "nome": "LITERATURA PIANISTICA",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1360"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0723",
-    "nome": "M\u00c9TODOS DE EDUCA\u00c7\u00c3O MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1401"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0129",
-    "nome": "M\u00daSICA DE C\u00c2MARA 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0912"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0133",
-    "nome": "MUSICA DE CAMARA 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0913"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0136",
-    "nome": "MUSICA DE CAMARA 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0638",
-      "MUS0914"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0259",
-    "nome": "M\u00daSICA DE C\u00c2MARA 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0930"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0638",
-    "nome": "MUSICA DE CAMARA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0641",
-      "MUS0977"
-    ],
-    "pre_requirements": [
-      "MUS0136"
-    ]
-  },
-  {
-    "cod": "MUS0641",
-    "nome": "M\u00daSICA DE C\u00c2MARA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0978"
-    ],
-    "pre_requirements": [
-      "MUS0638"
-    ]
-  },
-  {
-    "cod": "MUS0023",
-    "nome": "M\u00daSICA DE TRADI\u00c7\u00c3O ORAL PERFORM\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0896"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0085",
-    "nome": "M\u00daSICA E INTERFACES",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1123"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0180",
-    "nome": "MUSICA ELETRONICA 1",
-    "ch": 120,
-    "post_requirements": [
-      "MUS0182"
-    ],
-    "pre_requirements": [
-      "MUS0153"
-    ]
-  },
-  {
-    "cod": "MUS0182",
-    "nome": "MUSICA ELETRONICA 2",
-    "ch": 120,
-    "post_requirements": [
-      "MUS1165"
-    ],
-    "pre_requirements": [
-      "MUS0180"
-    ]
-  },
-  {
-    "cod": "MUS0236",
-    "nome": "MUSICA E SOCIEDADE 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0867"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0237",
-    "nome": "MUSICA E SOCIEDADE 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1194"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0263",
-    "nome": "MUSICA POPULAR BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1206"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0207",
-    "nome": "MUSICOLOGIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0208"
-    ],
-    "pre_requirements": [
-      "MUS0206"
-    ]
-  },
-  {
-    "cod": "MUS0208",
-    "nome": "MUSICOLOGIA 3",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0209"
-    ],
-    "pre_requirements": [
-      "MUS0207"
-    ]
-  },
-  {
-    "cod": "MUS0209",
-    "nome": "MUSICOLOGIA 4",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1178"
-    ],
-    "pre_requirements": [
-      "MUS0208"
-    ]
-  },
-  {
-    "cod": "MUS0210",
-    "nome": "MUSICOLOGIA 6",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0211"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0211",
-    "nome": "MUSICOLOGIA 7",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0212"
-    ],
-    "pre_requirements": [
-      "MUS0210"
-    ]
-  },
-  {
-    "cod": "MUS0212",
-    "nome": "MUSICOLOGIA 8",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1181"
-    ],
-    "pre_requirements": [
-      "MUS0211"
-    ]
-  },
-  {
-    "cod": "MUS0373",
-    "nome": "OBOE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0375"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0375",
-    "nome": "OBOE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0945"
-    ],
-    "pre_requirements": [
-      "MUS0373"
-    ]
-  },
-  {
-    "cod": "MUS0377",
-    "nome": "OBOE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0379"
-    ],
-    "pre_requirements": [
-      "MUS0373"
-    ]
-  },
-  {
-    "cod": "MUS0379",
-    "nome": "OBOE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0947"
-    ],
-    "pre_requirements": [
-      "MUS0377"
-    ]
-  },
-  {
-    "cod": "MUS0382",
-    "nome": "OBOE 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0385"
-    ],
-    "pre_requirements": [
-      "MUS0377"
-    ]
-  },
-  {
-    "cod": "MUS0385",
-    "nome": "OBOE 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1256"
-    ],
-    "pre_requirements": [
-      "MUS0382"
-    ]
-  },
-  {
-    "cod": "MUS0387",
-    "nome": "OBOE 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0390"
-    ],
-    "pre_requirements": [
-      "MUS0382"
-    ]
-  },
-  {
-    "cod": "MUS0390",
-    "nome": "OBOE 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1258"
-    ],
-    "pre_requirements": [
-      "MUS0387"
-    ]
-  },
-  {
-    "cod": "MUS0089",
-    "nome": "OFICINA B\u00c1SICA DE M\u00daSICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0091"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0091",
-    "nome": "OFICINA BASICA DE MUSICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1127"
-    ],
-    "pre_requirements": [
-      "MUS0089"
-    ]
-  },
-  {
-    "cod": "MUS0807",
-    "nome": "OFICINA INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1023"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0812",
-    "nome": "OFICINA INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1024"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0743",
-    "nome": "\u00d3PERA - EST\u00daDIO 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1418"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0744",
-    "nome": "\u00d3PERA - EST\u00daDIO 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0726"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0726",
-    "nome": "\u00d3PERA - ESTUDIO 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0727"
-    ],
-    "pre_requirements": [
-      "MUS0744"
-    ]
-  },
-  {
-    "cod": "MUS0727",
-    "nome": "\u00d3PERA - ESTUDIO 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0728"
-    ],
-    "pre_requirements": [
-      "MUS0726"
-    ]
-  },
-  {
-    "cod": "MUS0728",
-    "nome": "\u00d3PERA - ESTUDIO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1406"
-    ],
-    "pre_requirements": [
-      "MUS0727"
-    ]
-  },
-  {
-    "cod": "MUS0250",
-    "nome": "PERCEPCAO MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0252"
-    ],
-    "pre_requirements": [
-      "MUS0093"
-    ]
-  },
-  {
-    "cod": "MUS0252",
-    "nome": "PERCEPCAO MUSICAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0668"
-    ],
-    "pre_requirements": [
-      "MUS0250"
-    ]
-  },
-  {
-    "cod": "MUS0668",
-    "nome": "PERCEPCAO MUSICAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1370"
-    ],
-    "pre_requirements": [
-      "MUS0252"
-    ]
-  },
-  {
-    "cod": "MUS0475",
-    "nome": "PIANO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0477"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0477",
-    "nome": "PIANO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0952"
-    ],
-    "pre_requirements": [
-      "MUS0475"
-    ]
-  },
-  {
-    "cod": "MUS0479",
-    "nome": "PIANO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0481"
-    ],
-    "pre_requirements": [
-      "MUS0475"
-    ]
-  },
-  {
-    "cod": "MUS0481",
-    "nome": "PIANO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1294"
-    ],
-    "pre_requirements": [
-      "MUS0479"
-    ]
-  },
-  {
-    "cod": "MUS0484",
-    "nome": "PIANO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0486"
-    ],
-    "pre_requirements": [
-      "MUS0479"
-    ]
-  },
-  {
-    "cod": "MUS0486",
-    "nome": "PIANO 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1296"
-    ],
-    "pre_requirements": [
-      "MUS0484"
-    ]
-  },
-  {
-    "cod": "MUS0488",
-    "nome": "PIANO 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0490"
-    ],
-    "pre_requirements": [
-      "MUS0484"
-    ]
-  },
-  {
-    "cod": "MUS0490",
-    "nome": "PIANO 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0953"
-    ],
-    "pre_requirements": [
-      "MUS0488"
-    ]
-  },
-  {
-    "cod": "MUS0629",
-    "nome": "PIANO PARA CANTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0631"
-    ],
-    "pre_requirements": [
-      "MUS0151 & MUS0148"
-    ]
-  },
-  {
-    "cod": "MUS0631",
-    "nome": "PIANO PARA CANTO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1354"
-    ],
-    "pre_requirements": [
-      "MUS0629"
-    ]
-  },
-  {
-    "cod": "MUS0148",
-    "nome": "PIANO SUPLEMENTAR 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0151"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0151",
-    "nome": "PIANO SUPLEMENTAR 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0653"
-    ],
-    "pre_requirements": [
-      "MUS0148",
-      "MUS0215"
-    ]
-  },
-  {
-    "cod": "MUS0653",
-    "nome": "PIANO SUPLEMENTAR 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0979"
-    ],
-    "pre_requirements": [
-      "MUS0151"
-    ]
-  },
-  {
-    "cod": "MUS0656",
-    "nome": "PIANO SUPLEMENTAR 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0980"
-    ],
-    "pre_requirements": [
-      "MUS0151"
-    ]
-  },
-  {
-    "cod": "MUS0658",
-    "nome": "PRATICA DE ACOMPANHAMENTO 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0660"
-    ],
-    "pre_requirements": [
-      "MUS0475"
-    ]
-  },
-  {
-    "cod": "MUS0660",
-    "nome": "PRATICA DE ACOMPANHAMENTO 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1366"
-    ],
-    "pre_requirements": [
-      "MUS0658"
-    ]
-  },
-  {
-    "cod": "MUS0499",
-    "nome": "PRATICA DE CONJUNTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0954"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0503",
-    "nome": "PRATICA DE CONJUNTO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0955"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0506",
-    "nome": "PRATICA DE CONJUNTO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0956"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0509",
-    "nome": "PRATICA DE CONJUNTO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0957"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0512",
-    "nome": "PR\u00c1TICA DE CONJUNTO 5",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0958"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0515",
-    "nome": "PR\u00c1TICA DE CONJUNTO 6",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0959"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0827",
-    "nome": "PRATICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 2",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1029"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0843",
-    "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 3",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1513"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0753",
-    "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM MUSICAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0751"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0751",
-    "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM MUSICAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0999"
-    ],
-    "pre_requirements": [
-      "MUS0753"
-    ]
-  },
-  {
-    "cod": "MUS0758",
-    "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM MUSICAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1001"
-    ],
-    "pre_requirements": [
-      "MUS0753"
-    ]
-  },
-  {
-    "cod": "MUS0612",
-    "nome": "PRATICA DE ORQUESTRA 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0615"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0615",
-    "nome": "PRATICA DE ORQUESTRA 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1348"
-    ],
-    "pre_requirements": [
-      "MUS0612"
-    ]
-  },
-  {
-    "cod": "MUS0618",
-    "nome": "PRATICA DE ORQUESTRA 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0621"
-    ],
-    "pre_requirements": [
-      "MUS0612"
-    ]
-  },
-  {
-    "cod": "MUS0621",
-    "nome": "PRATICA DE ORQUESTRA 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0974"
-    ],
-    "pre_requirements": [
-      "MUS0618"
-    ]
-  },
-  {
-    "cod": "MUS0624",
-    "nome": "PRATICA DE ORQUESTRA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0627"
-    ],
-    "pre_requirements": [
-      "MUS0618"
-    ]
-  },
-  {
-    "cod": "MUS0627",
-    "nome": "PRATICA DE ORQUESTRA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1352"
-    ],
-    "pre_requirements": [
-      "MUS0624"
-    ]
-  },
-  {
-    "cod": "MUS0824",
-    "nome": "PR\u00c1TICAS MUSICAIS COLETIVAS 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1494"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0825",
-    "nome": "PR\u00c1TICAS MUSICAIS COLETIVAS 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1495"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS1052",
-    "nome": "PR\u00c1TICAS MUSICAIS COLETIVAS 3",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1536"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0788",
-    "nome": "PROJETO DE EST\u00c1GIO E PR\u00c1TICA DOCENTE",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0262"
-    ],
-    "pre_requirements": [
-      "MUS0753 & MUS0751 & MUS0758"
-    ]
-  },
-  {
-    "cod": "MUS0805",
-    "nome": "PROJETO DE RECITAL",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1021"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0838",
-    "nome": "PROJETO EM M\u00daSICA",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1508"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0110",
-    "nome": "PROSODIA MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1138"
-    ],
-    "pre_requirements": [
-      "MUS0102"
-    ]
-  },
-  {
-    "cod": "MUS0184",
-    "nome": "REGENCIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0186",
-      "MUS0864"
-    ],
-    "pre_requirements": [
-      "MUS0096"
-    ]
-  },
-  {
-    "cod": "MUS0186",
-    "nome": "REGENCIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0188",
-      "MUS1167"
-    ],
-    "pre_requirements": [
-      "MUS0184"
-    ]
-  },
-  {
-    "cod": "MUS0188",
-    "nome": "REGENCIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0191",
-      "MUS1168"
-    ],
-    "pre_requirements": [
-      "MUS0186"
-    ]
-  },
-  {
-    "cod": "MUS0191",
-    "nome": "REGENCIA 4",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0194",
-      "MUS1169"
-    ],
-    "pre_requirements": [
-      "MUS0188"
-    ]
-  },
-  {
-    "cod": "MUS0194",
-    "nome": "REGENCIA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0197",
-      "MUS0924"
-    ],
-    "pre_requirements": [
-      "MUS0191"
-    ]
-  },
-  {
-    "cod": "MUS0197",
-    "nome": "REGENCIA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0200",
-      "MUS0865"
-    ],
-    "pre_requirements": [
-      "MUS0194"
-    ]
-  },
-  {
-    "cod": "MUS0200",
-    "nome": "REGENCIA 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0203",
-      "MUS0666"
-    ],
-    "pre_requirements": [
-      "MUS0197"
-    ]
-  },
-  {
-    "cod": "MUS0203",
-    "nome": "REGENCIA 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1173"
-    ],
-    "pre_requirements": [
-      "MUS0200"
-    ]
-  },
-  {
-    "cod": "MUS0771",
-    "nome": "RITMOS BRASILEIROS 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1008"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0782",
-    "nome": "RITMOS BRASILEIROS 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1453"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0568",
-    "nome": "SAXOFONE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0570"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0570",
-    "nome": "SAXOFONE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0967"
-    ],
-    "pre_requirements": [
-      "MUS0568"
-    ]
-  },
-  {
-    "cod": "MUS0572",
-    "nome": "SAXOFONE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0574"
-    ],
-    "pre_requirements": [
-      "MUS0568"
-    ]
-  },
-  {
-    "cod": "MUS0574",
-    "nome": "SAXOFONE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0875"
-    ],
-    "pre_requirements": [
-      "MUS0572"
-    ]
-  },
-  {
-    "cod": "MUS0577",
-    "nome": "SAXOFONE 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0580"
-    ],
-    "pre_requirements": [
-      "MUS0572"
-    ]
-  },
-  {
-    "cod": "MUS0580",
-    "nome": "SAXOFONE 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1334"
-    ],
-    "pre_requirements": [
-      "MUS0577"
-    ]
-  },
-  {
-    "cod": "MUS0583",
-    "nome": "SAXOFONE 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0585"
-    ],
-    "pre_requirements": [
-      "MUS0577"
-    ]
-  },
-  {
-    "cod": "MUS0585",
-    "nome": "SAXOFONE 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1336"
-    ],
-    "pre_requirements": [
-      "MUS0583"
-    ]
-  },
-  {
-    "cod": "MUS0750",
-    "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0749"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0749",
-    "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0813"
-    ],
-    "pre_requirements": [
-      "MUS0750"
-    ]
-  },
-  {
-    "cod": "MUS0813",
-    "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0814"
-    ],
-    "pre_requirements": [
-      "MUS0749"
-    ]
-  },
-  {
-    "cod": "MUS0814",
-    "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1026"
-    ],
-    "pre_requirements": [
-      "MUS0813"
-    ]
-  },
-  {
-    "cod": "MUS0815",
-    "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 5",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0885"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0816",
-    "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 6",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1486"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0810",
-    "nome": "SEMIN\u00c1RIO INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0883"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0811",
-    "nome": "SEMIN\u00c1RIO INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0884"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0740",
-    "nome": "TECLADO OU VIOLAO COMPLEMENTAR 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1415"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0239",
-    "nome": "TECNICA DE EXPRESSAO VOCAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0241"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0241",
-    "nome": "TECNICA DE EXPRESSAO VOCAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1196"
-    ],
-    "pre_requirements": [
-      "MUS0239"
-    ]
-  },
-  {
-    "cod": "MUS0242",
-    "nome": "TECNICA DE EXPRESSAO VOCAL 3",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1197"
-    ],
-    "pre_requirements": [
-      "MUS0239"
-    ]
-  },
-  {
-    "cod": "MUS0494",
-    "nome": "TECNICA DE INICIACAO MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1300"
-    ],
-    "pre_requirements": [
-      "PED0058"
-    ]
-  },
-  {
-    "cod": "MUS0698",
-    "nome": "TECNICAS DE EXCURCAO PARA INSTRUMENTOS DE METAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1385"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0719",
-    "nome": "TECNOLOGIA MUSICAL B\u00c1SICA",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1398"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0841",
-    "nome": "TEORIA DA ARTE",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1511"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0153",
-    "nome": "TEORIA E PR\u00c1TICA DE GRAVA\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0155"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0846",
-    "nome": "TEORIA E PR\u00c1TICA DE GRAVA\u00c7\u00c3O 1",
-    "ch": 90,
-    "post_requirements": [
-      "MUS0888"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0155",
-    "nome": "TEORIA E PRATICA DE GRAVACAO 2",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1155"
-    ],
-    "pre_requirements": [
-      "MUS0153"
-    ]
-  },
-  {
-    "cod": "MUS0112",
-    "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0114"
-    ],
-    "pre_requirements": [
-      "MUS0096"
-    ]
-  },
-  {
-    "cod": "MUS0114",
-    "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0116"
-    ],
-    "pre_requirements": [
-      "MUS0112"
-    ]
-  },
-  {
-    "cod": "MUS0116",
-    "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0118"
-    ],
-    "pre_requirements": [
-      "MUS0114"
-    ]
-  },
-  {
-    "cod": "MUS0118",
-    "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1142"
-    ],
-    "pre_requirements": [
-      "MUS0116"
-    ]
-  },
-  {
-    "cod": "MUS0840",
-    "nome": "TEORIAS DA EDUCA\u00c7\u00c3O MUSICAL",
-    "ch": 90,
-    "post_requirements": [
-      "MUS1510"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0721",
-    "nome": "T\u00d3PICOS DE APLICA\u00c7\u00c3O DE TECNOLOGIA \u00c0 COMPOSI\u00c7\u00c3O MUSICAL",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0877"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0806",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1022"
-    ],
-    "pre_requirements": [
-      "MUS0003"
-    ]
-  },
-  {
-    "cod": "MUS0079",
-    "nome": "TRILHA SONORA PARA JOGOS",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1120"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0697",
-    "nome": "TROMBONE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0700"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0700",
-    "nome": "TROMBONE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0702"
-    ],
-    "pre_requirements": [
-      "MUS0697"
-    ]
-  },
-  {
-    "cod": "MUS0702",
-    "nome": "TROMBONE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0704"
-    ],
-    "pre_requirements": [
-      "MUS0700"
-    ]
-  },
-  {
-    "cod": "MUS0704",
-    "nome": "TROMBONE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0706"
-    ],
-    "pre_requirements": [
-      "MUS0702"
-    ]
-  },
-  {
-    "cod": "MUS0706",
-    "nome": "TROMBONE 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0708"
-    ],
-    "pre_requirements": [
-      "MUS0704"
-    ]
-  },
-  {
-    "cod": "MUS0708",
-    "nome": "TROMBONE 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0710"
-    ],
-    "pre_requirements": [
-      "MUS0706"
-    ]
-  },
-  {
-    "cod": "MUS0710",
-    "nome": "TROMBONE 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0712"
-    ],
-    "pre_requirements": [
-      "MUS0708"
-    ]
-  },
-  {
-    "cod": "MUS0712",
-    "nome": "TROMBONE 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1392"
-    ],
-    "pre_requirements": [
-      "MUS0710"
-    ]
-  },
-  {
-    "cod": "MUS0397",
-    "nome": "TROMPA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0399"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0399",
-    "nome": "TROMPA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1262"
-    ],
-    "pre_requirements": [
-      "MUS0397"
-    ]
-  },
-  {
-    "cod": "MUS0401",
-    "nome": "TROMPA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0403"
-    ],
-    "pre_requirements": [
-      "MUS0397"
-    ]
-  },
-  {
-    "cod": "MUS0403",
-    "nome": "TROMPA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1264"
-    ],
-    "pre_requirements": [
-      "MUS0401"
-    ]
-  },
-  {
-    "cod": "MUS0406",
-    "nome": "TROMPA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0408"
-    ],
-    "pre_requirements": [
-      "MUS0401"
-    ]
-  },
-  {
-    "cod": "MUS0408",
-    "nome": "TROMPA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1266"
-    ],
-    "pre_requirements": [
-      "MUS0406"
-    ]
-  },
-  {
-    "cod": "MUS0410",
-    "nome": "TROMPA 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0412"
-    ],
-    "pre_requirements": [
-      "MUS0406"
-    ]
-  },
-  {
-    "cod": "MUS0412",
-    "nome": "TROMPA 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1268"
-    ],
-    "pre_requirements": [
-      "MUS0410"
-    ]
-  },
-  {
-    "cod": "MUS0521",
-    "nome": "TROMPETE 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0523"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0523",
-    "nome": "TROMPETE 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1310"
-    ],
-    "pre_requirements": [
-      "MUS0521"
-    ]
-  },
-  {
-    "cod": "MUS0525",
-    "nome": "TROMPETE 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0527"
-    ],
-    "pre_requirements": [
-      "MUS0521"
-    ]
-  },
-  {
-    "cod": "MUS0527",
-    "nome": "TROMPETE 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1312"
-    ],
-    "pre_requirements": [
-      "MUS0525"
-    ]
-  },
-  {
-    "cod": "MUS0529",
-    "nome": "TROMPETE 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0531"
-    ],
-    "pre_requirements": [
-      "MUS0525"
-    ]
-  },
-  {
-    "cod": "MUS0531",
-    "nome": "TROMPETE 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0961"
-    ],
-    "pre_requirements": [
-      "MUS0529"
-    ]
-  },
-  {
-    "cod": "MUS0533",
-    "nome": "TROMPETE 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0536"
-    ],
-    "pre_requirements": [
-      "MUS0529"
-    ]
-  },
-  {
-    "cod": "MUS0536",
-    "nome": "TROMPETE 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1316"
-    ],
-    "pre_requirements": [
-      "MUS0533"
-    ]
-  },
-  {
-    "cod": "MUS0306",
-    "nome": "VIOLA 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0308"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0308",
-    "nome": "VIOLA 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1222"
-    ],
-    "pre_requirements": [
-      "MUS0306"
-    ]
-  },
-  {
-    "cod": "MUS0310",
-    "nome": "VIOLA 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0312"
-    ],
-    "pre_requirements": [
-      "MUS0306"
-    ]
-  },
-  {
-    "cod": "MUS0312",
-    "nome": "VIOLA 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0938"
-    ],
-    "pre_requirements": [
-      "MUS0310"
-    ]
-  },
-  {
-    "cod": "MUS0315",
-    "nome": "VIOLA 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0317"
-    ],
-    "pre_requirements": [
-      "MUS0310"
-    ]
-  },
-  {
-    "cod": "MUS0317",
-    "nome": "VIOLA 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1226"
-    ],
-    "pre_requirements": [
-      "MUS0315"
-    ]
-  },
-  {
-    "cod": "MUS0319",
-    "nome": "VIOLA 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0321"
-    ],
-    "pre_requirements": [
-      "MUS0315"
-    ]
-  },
-  {
-    "cod": "MUS0321",
-    "nome": "VIOLA 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1228"
-    ],
-    "pre_requirements": [
-      "MUS0319"
-    ]
-  },
-  {
-    "cod": "MUS0592",
-    "nome": "VIOLAO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0594"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0594",
-    "nome": "VIOLAO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0598"
-    ],
-    "pre_requirements": [
-      "MUS0592"
-    ]
-  },
-  {
-    "cod": "MUS0596",
-    "nome": "VIOLAO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0601"
-    ],
-    "pre_requirements": [
-      "MUS0592"
-    ]
-  },
-  {
-    "cod": "MUS0598",
-    "nome": "VIOLAO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0603"
-    ],
-    "pre_requirements": [
-      "MUS0594"
-    ]
-  },
-  {
-    "cod": "MUS0601",
-    "nome": "VIOLAO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0606"
-    ],
-    "pre_requirements": [
-      "MUS0596"
-    ]
-  },
-  {
-    "cod": "MUS0603",
-    "nome": "VIOLAO 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1344"
-    ],
-    "pre_requirements": [
-      "MUS0598"
-    ]
-  },
-  {
-    "cod": "MUS0606",
-    "nome": "VIOLAO 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0609"
-    ],
-    "pre_requirements": [
-      "MUS0601"
-    ]
-  },
-  {
-    "cod": "MUS0609",
-    "nome": "VIOLAO 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1346"
-    ],
-    "pre_requirements": [
-      "MUS0606"
-    ]
-  },
-  {
-    "cod": "MUS0277",
-    "nome": "VIOLINO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0279"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0279",
-    "nome": "VIOLINO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1212"
-    ],
-    "pre_requirements": [
-      "MUS0277"
-    ]
-  },
-  {
-    "cod": "MUS0281",
-    "nome": "VIOLINO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0283"
-    ],
-    "pre_requirements": [
-      "MUS0277"
-    ]
-  },
-  {
-    "cod": "MUS0283",
-    "nome": "VIOLINO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0935"
-    ],
-    "pre_requirements": [
-      "MUS0281"
-    ]
-  },
-  {
-    "cod": "MUS0286",
-    "nome": "VIOLINO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0288"
-    ],
-    "pre_requirements": [
-      "MUS0281"
-    ]
-  },
-  {
-    "cod": "MUS0288",
-    "nome": "VIOLINO 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1216"
-    ],
-    "pre_requirements": [
-      "MUS0286"
-    ]
-  },
-  {
-    "cod": "MUS0291",
-    "nome": "VIOLINO 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0294"
-    ],
-    "pre_requirements": [
-      "MUS0286"
-    ]
-  },
-  {
-    "cod": "MUS0294",
-    "nome": "VIOLINO 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1218"
-    ],
-    "pre_requirements": [
-      "MUS0291"
-    ]
-  },
-  {
-    "cod": "MUS0328",
-    "nome": "VIOLONCELO 1",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0330"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "MUS0330",
-    "nome": "VIOLONCELO 2",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0869"
-    ],
-    "pre_requirements": [
-      "MUS0328"
-    ]
-  },
-  {
-    "cod": "MUS0332",
-    "nome": "VIOLONCELO 3",
-    "ch": 30,
-    "post_requirements": [
-      "MUS0334"
-    ],
-    "pre_requirements": [
-      "MUS0328"
-    ]
-  },
-  {
-    "cod": "MUS0334",
-    "nome": "VIOLONCELO 4",
-    "ch": 30,
-    "post_requirements": [
-      "MUS1234"
-    ],
-    "pre_requirements": [
-      "MUS0332"
-    ]
-  },
-  {
-    "cod": "MUS0337",
-    "nome": "VIOLONCELO 5",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0340"
-    ],
-    "pre_requirements": [
-      "MUS0332"
-    ]
-  },
-  {
-    "cod": "MUS0340",
-    "nome": "VIOLONCELO 6",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0870"
-    ],
-    "pre_requirements": [
-      "MUS0337"
-    ]
-  },
-  {
-    "cod": "MUS0343",
-    "nome": "VIOLONCELO 7",
-    "ch": 60,
-    "post_requirements": [
-      "MUS0346"
-    ],
-    "pre_requirements": [
-      "MUS0337"
-    ]
-  },
-  {
-    "cod": "MUS0346",
-    "nome": "VIOLONCELO 8",
-    "ch": 60,
-    "post_requirements": [
-      "MUS1238"
-    ],
-    "pre_requirements": [
-      "MUS0343"
-    ]
-  }
+   {
+      "codigo": "MUS0254",
+      "nome": "ACUSTICA MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0929"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0248",
+      "nome": "ANALISE MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0633",
+         "MUS0928"
+      ],
+      "pre_requisitos": [
+         "MUS0102 & MUS0106"
+      ]
+   },
+   {
+      "codigo": "MUS0633",
+      "nome": "ANALISE MUSICAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0635",
+         "MUS0976"
+      ],
+      "pre_requisitos": [
+         "MUS0248"
+      ]
+   },
+   {
+      "codigo": "MUS0635",
+      "nome": "ANALISE MUSICAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1356"
+      ],
+      "pre_requisitos": [
+         "MUS0633"
+      ]
+   },
+   {
+      "codigo": "MUS0714",
+      "nome": "APRECIACAO MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0991"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0016",
+      "nome": "ARRANJO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1064"
+      ],
+      "pre_requisitos": [
+         "MUS0099"
+      ]
+   },
+   {
+      "codigo": "MUS0832",
+      "nome": "ARRANJO E CRIAÇÃO PARA O ENSINO E APRENDIZAGEM DA MÚSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1502"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0842",
+      "nome": "ARTE E CULTURA POPULAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1512"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0218",
+      "nome": "CANTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0220",
+         "MUS0223",
+         "MUS0925"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0220",
+      "nome": "CANTO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1186"
+      ],
+      "pre_requisitos": [
+         "MUS0218"
+      ]
+   },
+   {
+      "codigo": "MUS0223",
+      "nome": "CANTO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0226",
+         "MUS0229",
+         "MUS0926"
+      ],
+      "pre_requisitos": [
+         "MUS0218"
+      ]
+   },
+   {
+      "codigo": "MUS0226",
+      "nome": "CANTO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0927"
+      ],
+      "pre_requisitos": [
+         "MUS0223"
+      ]
+   },
+   {
+      "codigo": "MUS0229",
+      "nome": "CANTO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0231",
+         "MUS0233",
+         "MUS1189"
+      ],
+      "pre_requisitos": [
+         "MUS0223"
+      ]
+   },
+   {
+      "codigo": "MUS0231",
+      "nome": "CANTO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1190"
+      ],
+      "pre_requisitos": [
+         "MUS0229"
+      ]
+   },
+   {
+      "codigo": "MUS0233",
+      "nome": "CANTO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0235",
+         "MUS0492",
+         "MUS1032",
+         "MUS1191"
+      ],
+      "pre_requisitos": [
+         "MUS0229"
+      ]
+   },
+   {
+      "codigo": "MUS0235",
+      "nome": "CANTO 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1192"
+      ],
+      "pre_requisitos": [
+         "MUS0233"
+      ]
+   },
+   {
+      "codigo": "MUS0139",
+      "nome": "CANTO CORAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0142",
+         "MUS1149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0142",
+      "nome": "CANTO CORAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0145",
+         "MUS1150"
+      ],
+      "pre_requisitos": [
+         "MUS0139"
+      ]
+   },
+   {
+      "codigo": "MUS0145",
+      "nome": "CANTO CORAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0776",
+         "MUS1151"
+      ],
+      "pre_requisitos": [
+         "MUS0142"
+      ]
+   },
+   {
+      "codigo": "MUS0776",
+      "nome": "CANTO CORAL 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0777",
+         "MUS1447"
+      ],
+      "pre_requisitos": [
+         "MUS0145"
+      ]
+   },
+   {
+      "codigo": "MUS0777",
+      "nome": "CANTO CORAL 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0778",
+         "MUS1448"
+      ],
+      "pre_requisitos": [
+         "MUS0776"
+      ]
+   },
+   {
+      "codigo": "MUS0778",
+      "nome": "CANTO CORAL 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1449"
+      ],
+      "pre_requisitos": [
+         "MUS0777"
+      ]
+   },
+   {
+      "codigo": "MUS0352",
+      "nome": "CLARINETA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0354",
+         "MUS0356",
+         "MUS0942"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0354",
+      "nome": "CLARINETA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1242"
+      ],
+      "pre_requisitos": [
+         "MUS0352"
+      ]
+   },
+   {
+      "codigo": "MUS0356",
+      "nome": "CLARINETA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0358",
+         "MUS0360",
+         "MUS0871"
+      ],
+      "pre_requisitos": [
+         "MUS0352"
+      ]
+   },
+   {
+      "codigo": "MUS0358",
+      "nome": "CLARINETA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0872"
+      ],
+      "pre_requisitos": [
+         "MUS0356"
+      ]
+   },
+   {
+      "codigo": "MUS0360",
+      "nome": "CLARINETA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0363",
+         "MUS0365",
+         "MUS1245"
+      ],
+      "pre_requisitos": [
+         "MUS0356"
+      ]
+   },
+   {
+      "codigo": "MUS0363",
+      "nome": "CLARINETA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0873"
+      ],
+      "pre_requisitos": [
+         "MUS0360"
+      ]
+   },
+   {
+      "codigo": "MUS0365",
+      "nome": "CLARINETA 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0367",
+         "MUS0682",
+         "MUS1033",
+         "MUS1247"
+      ],
+      "pre_requisitos": [
+         "MUS0360"
+      ]
+   },
+   {
+      "codigo": "MUS0367",
+      "nome": "CLARINETA 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1248"
+      ],
+      "pre_requisitos": [
+         "MUS0365"
+      ]
+   },
+   {
+      "codigo": "MUS0158",
+      "nome": "COMPOSICAO MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0161",
+         "MUS0164",
+         "MUS0917"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0161",
+      "nome": "COMPOSICAO MUSICAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0918"
+      ],
+      "pre_requisitos": [
+         "MUS0158"
+      ]
+   },
+   {
+      "codigo": "MUS0164",
+      "nome": "COMPOSICAO MUSICAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0166",
+         "MUS0169",
+         "MUS0919"
+      ],
+      "pre_requisitos": [
+         "MUS0158"
+      ]
+   },
+   {
+      "codigo": "MUS0166",
+      "nome": "COMPOSICAO MUSICAL 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0920"
+      ],
+      "pre_requisitos": [
+         "MUS0164"
+      ]
+   },
+   {
+      "codigo": "MUS0169",
+      "nome": "COMPOSICAO MUSICAL 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0172",
+         "MUS0175",
+         "MUS0921"
+      ],
+      "pre_requisitos": [
+         "MUS0164"
+      ]
+   },
+   {
+      "codigo": "MUS0172",
+      "nome": "COMPOSICAO MUSICAL 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0922"
+      ],
+      "pre_requisitos": [
+         "MUS0169"
+      ]
+   },
+   {
+      "codigo": "MUS0175",
+      "nome": "COMPOSICAO MUSICAL 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0178",
+         "MUS0664",
+         "MUS0923",
+         "MUS1034"
+      ],
+      "pre_requisitos": [
+         "MUS0169"
+      ]
+   },
+   {
+      "codigo": "MUS0178",
+      "nome": "COMPOSICAO MUSICAL 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0863"
+      ],
+      "pre_requisitos": [
+         "MUS0175"
+      ]
+   },
+   {
+      "codigo": "MUS0545",
+      "nome": "CONTRABAIXO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0547",
+         "MUS0549",
+         "MUS0964"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0547",
+      "nome": "CONTRABAIXO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1320"
+      ],
+      "pre_requisitos": [
+         "MUS0545"
+      ]
+   },
+   {
+      "codigo": "MUS0549",
+      "nome": "CONTRABAIXO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0551",
+         "MUS0553",
+         "MUS1321"
+      ],
+      "pre_requisitos": [
+         "MUS0545"
+      ]
+   },
+   {
+      "codigo": "MUS0551",
+      "nome": "CONTRABAIXO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1322"
+      ],
+      "pre_requisitos": [
+         "MUS0549"
+      ]
+   },
+   {
+      "codigo": "MUS0553",
+      "nome": "CONTRABAIXO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0555",
+         "MUS0557",
+         "MUS1323"
+      ],
+      "pre_requisitos": [
+         "MUS0549"
+      ]
+   },
+   {
+      "codigo": "MUS0555",
+      "nome": "CONTRABAIXO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1324"
+      ],
+      "pre_requisitos": [
+         "MUS0553"
+      ]
+   },
+   {
+      "codigo": "MUS0557",
+      "nome": "CONTRABAIXO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0559",
+         "MUS0672",
+         "MUS1035",
+         "MUS1325"
+      ],
+      "pre_requisitos": [
+         "MUS0553"
+      ]
+   },
+   {
+      "codigo": "MUS0559",
+      "nome": "CONTRABAIXO 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1326"
+      ],
+      "pre_requisitos": [
+         "MUS0557"
+      ]
+   },
+   {
+      "codigo": "MUS0106",
+      "nome": "CONTRAPONTO E FUGA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0108",
+         "MUS0907"
+      ],
+      "pre_requisitos": [
+         "MUS0093 & MUS0096 & MUS0250"
+      ]
+   },
+   {
+      "codigo": "MUS0108",
+      "nome": "CONTRAPONTO E FUGA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0662",
+         "MUS0908"
+      ],
+      "pre_requisitos": [
+         "MUS0106"
+      ]
+   },
+   {
+      "codigo": "MUS0662",
+      "nome": "CONTRAPONTO E FUGA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0981"
+      ],
+      "pre_requisitos": [
+         "MUS0108"
+      ]
+   },
+   {
+      "codigo": "MUS0808",
+      "nome": "EDUCAÇÃO AUDITIVA MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0882"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0809",
+      "nome": "EDUCAÇÃO AUDITIVA MUSICAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1479"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0847",
+      "nome": "ELEMENTOS DA LINGUAGEM CORAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0889"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0735",
+      "nome": "ELEMENTOS DE LINGUAGEM,ESTETICA E HISTORIA DA ARTE 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0994"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0492",
+      "nome": "ESTAGIO SUPERVISIONADO EM CANTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1299"
+      ],
+      "pre_requisitos": [
+         "MUS0233"
+      ]
+   },
+   {
+      "codigo": "MUS0682",
+      "nome": "ESTAGIO SUPERVISIONADO EM CLARINETA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0986"
+      ],
+      "pre_requisitos": [
+         "MUS0365"
+      ]
+   },
+   {
+      "codigo": "MUS0664",
+      "nome": "ESTAGIO SUPERVISIONADO EM COMPOSICAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0982"
+      ],
+      "pre_requisitos": [
+         "MUS0175"
+      ]
+   },
+   {
+      "codigo": "MUS0267",
+      "nome": "ESTAGIO SUPERVISIONADO EM COMPOSICAO E REGENCIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MUS1208"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0672",
+      "nome": "ESTAGIO SUPERVISIONADO EM CONTRABAIXO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0984"
+      ],
+      "pre_requisitos": [
+         "MUS0557"
+      ]
+   },
+   {
+      "codigo": "MUS0688",
+      "nome": "ESTAGIO SUPERVISIONADO EM FAGOTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0987"
+      ],
+      "pre_requisitos": [
+         "MUS0435"
+      ]
+   },
+   {
+      "codigo": "MUS0690",
+      "nome": "ESTAGIO SUPERVISIONADO EM FLAUTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1381"
+      ],
+      "pre_requisitos": [
+         "MUS0460"
+      ]
+   },
+   {
+      "codigo": "MUS0265",
+      "nome": "ESTAGIO SUPERVISIONADO EM INSTRUMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1207"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0262",
+      "nome": "ESTÁGIO SUPERVISIONADO EM MÚSICA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MUS0737",
+         "MUS0738",
+         "MUS0931"
+      ],
+      "pre_requisitos": [
+         "MUS0788"
+      ]
+   },
+   {
+      "codigo": "MUS0738",
+      "nome": "ESTÁGIO SUPERVISIONADO EM MÚSICA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "VIS0135",
+         "CEN0034",
+         "VIS0136",
+         "VIS0226",
+         "MUS0787",
+         "MUS0995",
+         "VIS0364"
+      ],
+      "pre_requisitos": [
+         "MUS0262"
+      ]
+   },
+   {
+      "codigo": "MUS0787",
+      "nome": "ESTÁGIO SUPERVISIONADO EM MÚSICA 3",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MUS1012"
+      ],
+      "pre_requisitos": [
+         "MUS0738"
+      ]
+   },
+   {
+      "codigo": "MUS0684",
+      "nome": "ESTAGIO SUPERVISIONADO EM OBOE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1378"
+      ],
+      "pre_requisitos": [
+         "MUS0387"
+      ]
+   },
+   {
+      "codigo": "MUS0692",
+      "nome": "ESTAGIO SUPERVISIONADO EM PIANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0988"
+      ],
+      "pre_requisitos": [
+         "MUS0488"
+      ]
+   },
+   {
+      "codigo": "MUS0666",
+      "nome": "ESTAGIO SUPERVISIONADO EM REGENCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1369"
+      ],
+      "pre_requisitos": [
+         "MUS0200"
+      ]
+   },
+   {
+      "codigo": "MUS0674",
+      "nome": "ESTAGIO SUPERVISIONADO EM SAXOFONE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1373"
+      ],
+      "pre_requisitos": [
+         "MUS0583"
+      ]
+   },
+   {
+      "codigo": "MUS0713",
+      "nome": "ESTAGIO SUPERVISIONADO EM TROMBONE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1393"
+      ],
+      "pre_requisitos": [
+         "MUS0710"
+      ]
+   },
+   {
+      "codigo": "MUS0686",
+      "nome": "ESTAGIO SUPERVISIONADO EM TROMPA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1379"
+      ],
+      "pre_requisitos": [
+         "MUS0410"
+      ]
+   },
+   {
+      "codigo": "MUS0670",
+      "nome": "ESTAGIO SUPERVISIONADO EM TROMPETE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0983"
+      ],
+      "pre_requisitos": [
+         "MUS0533"
+      ]
+   },
+   {
+      "codigo": "MUS0678",
+      "nome": "ESTAGIO SUPERVISIONADO EM VIOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1375"
+      ],
+      "pre_requisitos": [
+         "MUS0319"
+      ]
+   },
+   {
+      "codigo": "MUS0694",
+      "nome": "ESTAGIO SUPERVISIONADO EM VIOLAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0989"
+      ],
+      "pre_requisitos": [
+         "MUS0606"
+      ]
+   },
+   {
+      "codigo": "MUS0676",
+      "nome": "ESTAGIO SUPERVISIONADO EM VIOLINO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0985"
+      ],
+      "pre_requisitos": [
+         "MUS0291"
+      ]
+   },
+   {
+      "codigo": "MUS0680",
+      "nome": "ESTAGIO SUPERVISIONADO EM VIOLONCELO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1376"
+      ],
+      "pre_requisitos": [
+         "MUS0343"
+      ]
+   },
+   {
+      "codigo": "MUS0741",
+      "nome": "ESTRUTURACAO MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1416"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0244",
+      "nome": "EVOLUÇÃO DA MÚSICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0246",
+         "MUS1198"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0246",
+      "nome": "EVOLUCAO DA MUSICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1199"
+      ],
+      "pre_requisitos": [
+         "MUS0244"
+      ]
+   },
+   {
+      "codigo": "MUS0420",
+      "nome": "FAGOTE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0422",
+         "MUS0424",
+         "MUS1271"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0422",
+      "nome": "FAGOTE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1272"
+      ],
+      "pre_requisitos": [
+         "MUS0420"
+      ]
+   },
+   {
+      "codigo": "MUS0424",
+      "nome": "FAGOTE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0426",
+         "MUS0429",
+         "MUS1273"
+      ],
+      "pre_requisitos": [
+         "MUS0420"
+      ]
+   },
+   {
+      "codigo": "MUS0426",
+      "nome": "FAGOTE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1274"
+      ],
+      "pre_requisitos": [
+         "MUS0424"
+      ]
+   },
+   {
+      "codigo": "MUS0429",
+      "nome": "FAGOTE 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0432",
+         "MUS0435",
+         "MUS1275"
+      ],
+      "pre_requisitos": [
+         "MUS0424"
+      ]
+   },
+   {
+      "codigo": "MUS0432",
+      "nome": "FAGOTE 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1276"
+      ],
+      "pre_requisitos": [
+         "MUS0429"
+      ]
+   },
+   {
+      "codigo": "MUS0435",
+      "nome": "FAGOTE 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0438",
+         "MUS0688",
+         "MUS1036",
+         "MUS1277"
+      ],
+      "pre_requisitos": [
+         "MUS0429"
+      ]
+   },
+   {
+      "codigo": "MUS0438",
+      "nome": "FAGOTE 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1278"
+      ],
+      "pre_requisitos": [
+         "MUS0435"
+      ]
+   },
+   {
+      "codigo": "MUS0120",
+      "nome": "FISIOLOGIA DA VOZ",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1143"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0446",
+      "nome": "FLAUTA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0448",
+         "MUS0450",
+         "MUS0949"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0448",
+      "nome": "FLAUTA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1282"
+      ],
+      "pre_requisitos": [
+         "MUS0446"
+      ]
+   },
+   {
+      "codigo": "MUS0450",
+      "nome": "FLAUTA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0452",
+         "MUS0455",
+         "MUS0950"
+      ],
+      "pre_requisitos": [
+         "MUS0446"
+      ]
+   },
+   {
+      "codigo": "MUS0452",
+      "nome": "FLAUTA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1284"
+      ],
+      "pre_requisitos": [
+         "MUS0450"
+      ]
+   },
+   {
+      "codigo": "MUS0455",
+      "nome": "FLAUTA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0457",
+         "MUS0460",
+         "MUS1285"
+      ],
+      "pre_requisitos": [
+         "MUS0450"
+      ]
+   },
+   {
+      "codigo": "MUS0457",
+      "nome": "FLAUTA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0951"
+      ],
+      "pre_requisitos": [
+         "MUS0455"
+      ]
+   },
+   {
+      "codigo": "MUS0460",
+      "nome": "FLAUTA 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0463",
+         "MUS0690",
+         "MUS1037",
+         "MUS1287"
+      ],
+      "pre_requisitos": [
+         "MUS0455"
+      ]
+   },
+   {
+      "codigo": "MUS0463",
+      "nome": "FLAUTA 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1288"
+      ],
+      "pre_requisitos": [
+         "MUS0460"
+      ]
+   },
+   {
+      "codigo": "MUS0849",
+      "nome": "FUNDAMENTOS DA ARTE MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1516"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0742",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1417"
+      ],
+      "pre_requisitos": [
+         "PED0058"
+      ]
+   },
+   {
+      "codigo": "MUS0745",
+      "nome": "FUNDAMENTOS DA TÉCNICA VOCAL/INSTRUMENTAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "nem exigir pré",
+         "",
+         "Cargas Horárias  Aula",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "30h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade presencial, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "30h",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade a distância, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "0h",
+         "Total de Carga Horária de Aula do Componente",
+         "Total do conjunto de cargas",
+         "30h",
+         "Total de Carga Horária do Componente",
+         "Total do conjunto de cargas horárias do componente cumpridas nas modalidades presencial e a distância.",
+         "30h"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0746",
+      "nome": "FUNDAMENTOS DA TÉCNICAVOCAL/INSTRUMENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "nem exigir pré",
+         "",
+         "Cargas Horárias  Aula",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "30h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade presencial, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "30h",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade a distância, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "0h",
+         "Total de Carga Horária de Aula do Componente",
+         "Total do conjunto de cargas",
+         "30h",
+         "Total de Carga Horária do Componente",
+         "Total do conjunto de cargas horárias do componente cumpridas nas modalidades presencial e a distância.",
+         "30h"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0747",
+      "nome": "FUNDAMENTOS DA TÉCNICA VOCAL/INSTRUMENTAL 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "nem exigir pré",
+         "",
+         "Cargas Horárias  Aula",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "30h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade presencial, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "30h",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade a distância, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "0h",
+         "Total de Carga Horária de Aula do Componente",
+         "Total do conjunto de cargas",
+         "30h",
+         "Total de Carga Horária do Componente",
+         "Total do conjunto de cargas horárias do componente cumpridas nas modalidades presencial e a distância.",
+         "30h"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0748",
+      "nome": "FUNDAMENTOS DA TÉCNICA VOCAL/INSTRUMENTAL 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "nem exigir pré",
+         "",
+         "Cargas Horárias  Aula",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "30h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade presencial, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "30h",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade a distância, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "0h",
+         "Total de Carga Horária de Aula do Componente",
+         "Total do conjunto de cargas",
+         "30h",
+         "Total de Carga Horária do Componente",
+         "Total do conjunto de cargas horárias do componente cumpridas nas modalidades presencial e a distância.",
+         "30h"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0722",
+      "nome": "HARMONIA E IMPROVISAÇÃO NA MÚSICA POPULAR 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0856"
+      ],
+      "pre_requisitos": [
+         "MUS0102"
+      ]
+   },
+   {
+      "codigo": "MUS0024",
+      "nome": "HARMONIA E IMPROVISAÇÃO NA MÚSICA POPULAR 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1072"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0025",
+      "nome": "HARMONIA E IMPROVISAÇÃO NA MÚSICA POPULAR 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1073"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0017",
+      "nome": "HARMONIA NA MÚSICA POPULAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0018",
+         "MUS0019",
+         "MUS0895"
+      ],
+      "pre_requisitos": [
+         "MUS0099"
+      ]
+   },
+   {
+      "codigo": "MUS0018",
+      "nome": "HARMONIA NA MÚSICA POPULAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1066"
+      ],
+      "pre_requisitos": [
+         "MUS0017"
+      ]
+   },
+   {
+      "codigo": "MUS0102",
+      "nome": "HARMONIA SUPERIOR 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0104",
+         "MUS0110",
+         "MUS0722",
+         "MUS0905"
+      ],
+      "pre_requisitos": [
+         "MUS0093 & MUS0096 & MUS0250"
+      ]
+   },
+   {
+      "codigo": "MUS0104",
+      "nome": "HARMONIA SUPERIOR 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0643",
+         "MUS0906"
+      ],
+      "pre_requisitos": [
+         "MUS0102"
+      ]
+   },
+   {
+      "codigo": "MUS0643",
+      "nome": "HARMONIA SUPERIOR 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1359"
+      ],
+      "pre_requisitos": [
+         "MUS0104"
+      ]
+   },
+   {
+      "codigo": "MUS0729",
+      "nome": "HISTÓRIA DA MÚSICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0857"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0730",
+      "nome": "HISTÓRIA DA MÚSICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0020",
+         "MUS0804",
+         "MUS0858"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0761",
+      "nome": "HISTÓRIA DA MÚSICA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1002"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0762",
+      "nome": "HISTÓRIA DA MÚSICA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1003"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0804",
+      "nome": "HISTÓRIA DA MÚSICA BRASILEIRA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0881"
+      ],
+      "pre_requisitos": [
+         "MUS0730"
+      ]
+   },
+   {
+      "codigo": "MUS0020",
+      "nome": "HISTÓRIA DA MÚSICA BRASILEIRA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1068"
+      ],
+      "pre_requisitos": [
+         "MUS0730"
+      ]
+   },
+   {
+      "codigo": "MUS0021",
+      "nome": "HISTÓRIA DA MÚSICA POPULAR DO BRASIL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0022",
+      "nome": "HISTÓRIA DA MÚSICA POPULAR DO BRASIL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1070"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0019",
+      "nome": "IMPROVISAÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1067"
+      ],
+      "pre_requisitos": [
+         "MUS0017"
+      ]
+   },
+   {
+      "codigo": "MUS0122",
+      "nome": "INSTRUMENTACAO E ORQUESTRACAO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1144"
+      ],
+      "pre_requisitos": [
+         "MUS0093"
+      ]
+   },
+   {
+      "codigo": "MUS0124",
+      "nome": "INSTRUMENTACAO E ORQUESTRACAO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0855"
+      ],
+      "pre_requisitos": [
+         "MUS0122 & MUS0102"
+      ]
+   },
+   {
+      "codigo": "MUS0214",
+      "nome": "INSTRUMENTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1183"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0828",
+      "nome": "INSTRUMENTO PRINCIPAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1030"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0831",
+      "nome": "INSTRUMENTO PRINCIPAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0887"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0833",
+      "nome": "INSTRUMENTO PRINCIPAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1503"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0835",
+      "nome": "INSTRUMENTO PRINCIPAL 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1505"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0058",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0899"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0059",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0900"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0060",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0901"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0061",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1103"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0733",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0773",
+         "MUS1411"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0773",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0783",
+         "MUS1444"
+      ],
+      "pre_requisitos": [
+         "MUS0733"
+      ]
+   },
+   {
+      "codigo": "MUS0783",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0802",
+         "MUS1454"
+      ],
+      "pre_requisitos": [
+         "MUS0773"
+      ]
+   },
+   {
+      "codigo": "MUS0802",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1472"
+      ],
+      "pre_requisitos": [
+         "MUS0783"
+      ]
+   },
+   {
+      "codigo": "MUS0822",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1492"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0823",
+      "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1493"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0042",
+      "nome": "INSTRUMENTO PRINCIPAL CLARINETA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1084"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0043",
+      "nome": "INSTRUMENTO PRINCIPAL CLARINETA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1085"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0044",
+      "nome": "INSTRUMENTO PRINCIPAL CLARINETA 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1086"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0045",
+      "nome": "INSTRUMENTO PRINCIPAL CLARINETA 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1087"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0036",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1078"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0037",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1079"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0798",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0799",
+         "MUS1468"
+      ],
+      "pre_requisitos": [
+         "MUS0790"
+      ]
+   },
+   {
+      "codigo": "MUS0799",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1469"
+      ],
+      "pre_requisitos": [
+         "MUS0798"
+      ]
+   },
+   {
+      "codigo": "MUS0768",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO ELÉTRICO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0790",
+         "MUS1005"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0790",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO ELÉTRICO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0005",
+         "MUS0798",
+         "MUS1014"
+      ],
+      "pre_requisitos": [
+         "MUS0768"
+      ]
+   },
+   {
+      "codigo": "MUS0005",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO ELÉTRICO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0007",
+         "MUS0891"
+      ],
+      "pre_requisitos": [
+         "MUS0790"
+      ]
+   },
+   {
+      "codigo": "MUS0007",
+      "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO ELÉTRICO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0892"
+      ],
+      "pre_requisitos": [
+         "MUS0005"
+      ]
+   },
+   {
+      "codigo": "MUS0046",
+      "nome": "INSTRUMENTO PRINCIPAL FAGOTE 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1088"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0047",
+      "nome": "INSTRUMENTO PRINCIPAL FAGOTE 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1089"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0048",
+      "nome": "INSTRUMENTO PRINCIPAL FAGOTE 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1090"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0049",
+      "nome": "INSTRUMENTO PRINCIPAL FAGOTE 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1091"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0038",
+      "nome": "INSTRUMENTO PRINCIPAL FLAUTA 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1080"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0039",
+      "nome": "INSTRUMENTO PRINCIPAL FLAUTA 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1081"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0040",
+      "nome": "INSTRUMENTO PRINCIPAL FLAUTA 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0041",
+      "nome": "INSTRUMENTO PRINCIPAL FLAUTA 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1083"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0769",
+      "nome": "INSTRUMENTO PRINCIPAL GUITARRA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0791",
+         "MUS1006"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0791",
+      "nome": "INSTRUMENTO PRINCIPAL GUITARRA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0792",
+         "MUS1015"
+      ],
+      "pre_requisitos": [
+         "MUS0769"
+      ]
+   },
+   {
+      "codigo": "MUS0792",
+      "nome": "INSTRUMENTO PRINCIPAL GUITARRA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0793",
+         "MUS1016"
+      ],
+      "pre_requisitos": [
+         "MUS0791"
+      ]
+   },
+   {
+      "codigo": "MUS0793",
+      "nome": "INSTRUMENTO PRINCIPAL GUITARRA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0081",
+         "MUS1017"
+      ],
+      "pre_requisitos": [
+         "MUS0792"
+      ]
+   },
+   {
+      "codigo": "MUS0081",
+      "nome": "INSTRUMENTO PRINCIPAL GUITARRA 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0083",
+         "MUS0902"
+      ],
+      "pre_requisitos": [
+         "MUS0793"
+      ]
+   },
+   {
+      "codigo": "MUS0083",
+      "nome": "INSTRUMENTO PRINCIPAL GUITARRA 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0903"
+      ],
+      "pre_requisitos": [
+         "MUS0081"
+      ]
+   },
+   {
+      "codigo": "MUS0008",
+      "nome": "INSTRUMENTO PRINCIPAL OBOÉ 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0009",
+         "MUS0893"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0009",
+      "nome": "INSTRUMENTO PRINCIPAL OBOÉ 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0010",
+         "MUS1057"
+      ],
+      "pre_requisitos": [
+         "MUS0008"
+      ]
+   },
+   {
+      "codigo": "MUS0010",
+      "nome": "INSTRUMENTO PRINCIPAL OBOÉ 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0011",
+         "MUS1058"
+      ],
+      "pre_requisitos": [
+         "MUS0009"
+      ]
+   },
+   {
+      "codigo": "MUS0011",
+      "nome": "INSTRUMENTO PRINCIPAL OBOÉ 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1059"
+      ],
+      "pre_requisitos": [
+         "MUS0010"
+      ]
+   },
+   {
+      "codigo": "MUS0731",
+      "nome": "INSTRUMENTO  PRINCIPAL PERCUSSÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1409"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0817",
+      "nome": "INSTRUMENTO PRINCIPAL PERCUSSÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1487"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0775",
+      "nome": "INSTRUMENTO PRINCIPAL PERCUSSÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0785",
+         "MUS1446"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0785",
+      "nome": "INSTRUMENTO PRINCIPAL PERCUSSÃO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0800",
+         "MUS1456"
+      ],
+      "pre_requisitos": [
+         "MUS0775"
+      ]
+   },
+   {
+      "codigo": "MUS0800",
+      "nome": "INSTRUMENTO PRINCIPAL PERCUSSÃO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1470"
+      ],
+      "pre_requisitos": [
+         "MUS0785"
+      ]
+   },
+   {
+      "codigo": "MUS0818",
+      "nome": "INSTRUMENTO PRINCIPAL PERCUSSÃO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1488"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0819",
+      "nome": "INSTRUMENTO PRINCIPAL PERCUSSÃO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1489"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0062",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0063",
+         "MUS0861"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0063",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0064",
+         "MUS1105"
+      ],
+      "pre_requisitos": [
+         "MUS0062"
+      ]
+   },
+   {
+      "codigo": "MUS0064",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0065",
+         "MUS1106"
+      ],
+      "pre_requisitos": [
+         "MUS0063"
+      ]
+   },
+   {
+      "codigo": "MUS0065",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1107"
+      ],
+      "pre_requisitos": [
+         "MUS0064"
+      ]
+   },
+   {
+      "codigo": "MUS0027",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0030",
+         "MUS0897"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0026",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0028",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0030",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0033",
+         "MUS1075"
+      ],
+      "pre_requisitos": [
+         "MUS0027"
+      ]
+   },
+   {
+      "codigo": "MUS0031",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0033",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0035",
+         "MUS1076"
+      ],
+      "pre_requisitos": [
+         "MUS0030"
+      ]
+   },
+   {
+      "codigo": "MUS0035",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0898"
+      ],
+      "pre_requisitos": [
+         "MUS0033"
+      ]
+   },
+   {
+      "codigo": "MUS0034",
+      "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0074",
+      "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1116"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0075",
+      "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1117"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0076",
+      "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0077",
+      "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1119"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0794",
+      "nome": "INSTRUMENTO PRINCIPAL TROMBONE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0795",
+         "MUS1464"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0795",
+      "nome": "INSTRUMENTO PRINCIPAL TROMBONE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0796",
+         "MUS1465"
+      ],
+      "pre_requisitos": [
+         "MUS0794"
+      ]
+   },
+   {
+      "codigo": "MUS0796",
+      "nome": "INSTRUMENTO PRINCIPAL TROMBONE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0797",
+         "MUS1466"
+      ],
+      "pre_requisitos": [
+         "MUS0795"
+      ]
+   },
+   {
+      "codigo": "MUS0797",
+      "nome": "INSTRUMENTO PRINCIPAL TROMBONE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1018"
+      ],
+      "pre_requisitos": [
+         "MUS0796"
+      ]
+   },
+   {
+      "codigo": "MUS0050",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPA 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1092"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0051",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPA 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0052",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPA 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1094"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0053",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPA 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1095"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0066",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPETE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1108"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0067",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPETE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1109"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0068",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPETE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1110"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0069",
+      "nome": "INSTRUMENTO PRINCIPAL TROMPETE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0054",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLA 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1096"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0055",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLA 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1097"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0056",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLA 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1098"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0057",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLA 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1099"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0766",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1004"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0774",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0784",
+         "MUS1009"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0784",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLÃO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0801",
+         "MUS1011"
+      ],
+      "pre_requisitos": [
+         "MUS0774"
+      ]
+   },
+   {
+      "codigo": "MUS0801",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLÃO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0820",
+         "MUS1019"
+      ],
+      "pre_requisitos": [
+         "MUS0784"
+      ]
+   },
+   {
+      "codigo": "MUS0820",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLÃO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0821",
+         "MUS1027"
+      ],
+      "pre_requisitos": [
+         "MUS0801"
+      ]
+   },
+   {
+      "codigo": "MUS0821",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLÃO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1028"
+      ],
+      "pre_requisitos": [
+         "MUS0820"
+      ]
+   },
+   {
+      "codigo": "MUS0012",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLINO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0013",
+         "MUS0894"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0013",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLINO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0014",
+         "MUS1061"
+      ],
+      "pre_requisitos": [
+         "MUS0012"
+      ]
+   },
+   {
+      "codigo": "MUS0014",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLINO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0015",
+         "MUS1062"
+      ],
+      "pre_requisitos": [
+         "MUS0013"
+      ]
+   },
+   {
+      "codigo": "MUS0015",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLINO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1063"
+      ],
+      "pre_requisitos": [
+         "MUS0014"
+      ]
+   },
+   {
+      "codigo": "MUS0070",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 1",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0071",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 2",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1113"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0072",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 3",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1114"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0073",
+      "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 4",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "MUS1115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0215",
+      "nome": "INSTRUMENTO SUPLEMENTAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0151",
+         "MUS1184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0826",
+      "nome": "INSTRUMENTO SUPLEMENTAR 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1496"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0779",
+      "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1010"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0803",
+      "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1020"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0734",
+      "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1412"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0770",
+      "nome": "INSTRUMENTO SUPLEMENTAR PERCUSSÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0786",
+         "MUS1007"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0786",
+      "nome": "INSTRUMENTO SUPLEMENTAR PERCUSSÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0880"
+      ],
+      "pre_requisitos": [
+         "MUS0770"
+      ]
+   },
+   {
+      "codigo": "MUS0732",
+      "nome": "INSTRUMENTO SUPLEMENTAR PERCUSSÃO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1410"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0765",
+      "nome": "INSTRUMENTO SUPLEMENTAR VIOLÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0772",
+         "MUS0859"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0772",
+      "nome": "INSTRUMENTO SUPLEMENTAR VIOLÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0860"
+      ],
+      "pre_requisitos": [
+         "MUS0765"
+      ]
+   },
+   {
+      "codigo": "MUS0348",
+      "nome": "INTRODUCAO A CLARINETA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0350",
+         "MUS1239"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0350",
+      "nome": "INTRODUCAO A CLARINETA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1240"
+      ],
+      "pre_requisitos": [
+         "MUS0348"
+      ]
+   },
+   {
+      "codigo": "MUS0715",
+      "nome": "INTRODUCAO A ESTILOS E PRATICAS MUSICAIS DOS SECULOS XVII E XVIII",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1395"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0440",
+      "nome": "INTRODUCAO A FLAUTA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0442",
+         "MUS1279"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0442",
+      "nome": "INTRODUCAO A FLAUTA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1280"
+      ],
+      "pre_requisitos": [
+         "MUS0440"
+      ]
+   },
+   {
+      "codigo": "MUS0716",
+      "nome": "INTRODUÇÃO À FLAUTA DOCE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0718",
+         "MUS0992"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0718",
+      "nome": "INTRODUÇÃO A FLAUTA DOCE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0876"
+      ],
+      "pre_requisitos": [
+         "MUS0716"
+      ]
+   },
+   {
+      "codigo": "MUS0093",
+      "nome": "INTRODUCAO A MUSICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0096",
+         "MUS0122",
+         "MUS0250",
+         "MUS1128"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0096",
+      "nome": "INTRODUÇÃO À MÚSICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0112",
+         "MUS0184",
+         "MUS1129"
+      ],
+      "pre_requisitos": [
+         "MUS0093"
+      ]
+   },
+   {
+      "codigo": "MUS0206",
+      "nome": "INTRODUCAO A MUSICOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0207",
+         "MUS0866"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0648",
+      "nome": "INTRODUCAO AO CANTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0650",
+         "MUS1361"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0650",
+      "nome": "INTRODUCAO AO CANTO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1362"
+      ],
+      "pre_requisitos": [
+         "MUS0648"
+      ]
+   },
+   {
+      "codigo": "MUS0540",
+      "nome": "INTRODUCAO AO CONTRABAIXO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0542",
+         "MUS0963"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0542",
+      "nome": "INTRODUCAO AO CONTRABAIXO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1318"
+      ],
+      "pre_requisitos": [
+         "MUS0540"
+      ]
+   },
+   {
+      "codigo": "MUS0414",
+      "nome": "INTRODUCAO AO FAGOTE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0416",
+         "MUS1269"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0416",
+      "nome": "INTRODUCAO AO FAGOTE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1270"
+      ],
+      "pre_requisitos": [
+         "MUS0414"
+      ]
+   },
+   {
+      "codigo": "MUS0369",
+      "nome": "INTRODUCAO AO OBOE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0371",
+         "MUS0943"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0371",
+      "nome": "INTRODUCAO AO OBOE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1250"
+      ],
+      "pre_requisitos": [
+         "MUS0369"
+      ]
+   },
+   {
+      "codigo": "MUS0467",
+      "nome": "INTRODUCAO AO PIANO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0471",
+         "MUS1289"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0471",
+      "nome": "INTRODUCAO AO PIANO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1290"
+      ],
+      "pre_requisitos": [
+         "MUS0467"
+      ]
+   },
+   {
+      "codigo": "MUS0759",
+      "nome": "INTRODUÇÃO AO PIANO POPULAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0760",
+         "MUS1431"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0760",
+      "nome": "INTRODUÇÃO AO PIANO POPULAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1432"
+      ],
+      "pre_requisitos": [
+         "MUS0759"
+      ]
+   },
+   {
+      "codigo": "MUS0562",
+      "nome": "INTRODUCAO AO SAXOFONE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0564",
+         "MUS0965"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0564",
+      "nome": "INTRODUCAO AO SAXOFONE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1328"
+      ],
+      "pre_requisitos": [
+         "MUS0562"
+      ]
+   },
+   {
+      "codigo": "MUS0724",
+      "nome": "INTRODUÇÃO AO TROMBONE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0725",
+         "MUS0993"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0725",
+      "nome": "INTRODUÇÃO AO TROMBONE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0878"
+      ],
+      "pre_requisitos": [
+         "MUS0724"
+      ]
+   },
+   {
+      "codigo": "MUS0517",
+      "nome": "INTRODUCAO AO TROMPETE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0519",
+         "MUS1307"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0519",
+      "nome": "INTRODUCAO AO TROMPETE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1308"
+      ],
+      "pre_requisitos": [
+         "MUS0517"
+      ]
+   },
+   {
+      "codigo": "MUS0587",
+      "nome": "INTRODUCAO AO VIOLAO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1337"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0590",
+      "nome": "INTRODUCAO AO VIOLAO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1338"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0271",
+      "nome": "INTRODUCAO AO VIOLINO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0273",
+         "MUS0932"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0273",
+      "nome": "INTRODUCAO AO VIOLINO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0933"
+      ],
+      "pre_requisitos": [
+         "MUS0271"
+      ]
+   },
+   {
+      "codigo": "MUS0324",
+      "nome": "INTRODUCAO AO VIOLONCELO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0326",
+         "MUS1229"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0326",
+      "nome": "INTRODUCAO AO VIOLONCELO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1230"
+      ],
+      "pre_requisitos": [
+         "MUS0324"
+      ]
+   },
+   {
+      "codigo": "MUS0003",
+      "nome": "INTRODUÇÃO À PESQUISA EM MÚSICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0806",
+         "MUS0844",
+         "MUS0890",
+         "MUS1031"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0392",
+      "nome": "INTRODUCAO A TROMPA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0394",
+         "MUS1259"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0394",
+      "nome": "INTRODUCAO A TROMPA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1260"
+      ],
+      "pre_requisitos": [
+         "MUS0392"
+      ]
+   },
+   {
+      "codigo": "MUS0298",
+      "nome": "INTRODUCAO A VIOLA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0302",
+         "MUS0936"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0302",
+      "nome": "INTRODUCAO A VIOLA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1220"
+      ],
+      "pre_requisitos": [
+         "MUS0298"
+      ]
+   },
+   {
+      "codigo": "MUS0087",
+      "nome": "LABORATÓRIO DE MÚSICA E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0851"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0086",
+      "nome": "LABORATÓRIO DE PERFORMANCE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0850"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0763",
+      "nome": "LABORATÓRIO ORQUESTRAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0879"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0764",
+      "nome": "LABORATÓRIO ORQUESTRAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1436"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0837",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1507"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0097",
+      "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0098",
+         "MUS0204",
+         "MUS0213",
+         "MUS0852"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0098",
+      "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0099",
+         "MUS0853"
+      ],
+      "pre_requisitos": [
+         "MUS0097"
+      ]
+   },
+   {
+      "codigo": "MUS0099",
+      "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0016",
+         "MUS0017",
+         "MUS0100",
+         "CEN0200",
+         "MUS0854"
+      ],
+      "pre_requisitos": [
+         "MUS0098"
+      ]
+   },
+   {
+      "codigo": "MUS0100",
+      "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0904"
+      ],
+      "pre_requisitos": [
+         "MUS0099"
+      ]
+   },
+   {
+      "codigo": "MUS0204",
+      "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 5",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1174"
+      ],
+      "pre_requisitos": [
+         "MUS0097"
+      ]
+   },
+   {
+      "codigo": "MUS0213",
+      "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 8",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1182"
+      ],
+      "pre_requisitos": [
+         "MUS0097"
+      ]
+   },
+   {
+      "codigo": "MUS0757",
+      "nome": "LITERATURA CORAL 1: IDADE MÉDIA E RENASCIMENTO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1429"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0755",
+      "nome": "LITERATURA CORAL 2: PERÍODO BARROCO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1428"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0780",
+      "nome": "LITERATURA CORAL 3: CLASSICISMO E ROMANTISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1451"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0781",
+      "nome": "LITERATURA CORAL 4: ERA MODERNA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1452"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0646",
+      "nome": "LITERATURA PIANISTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1360"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0723",
+      "nome": "MÉTODOS DE EDUCAÇÃO MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1401"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0129",
+      "nome": "MÚSICA DE CÂMARA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0912"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0133",
+      "nome": "MUSICA DE CAMARA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0913"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0136",
+      "nome": "MUSICA DE CAMARA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0638",
+         "MUS0914"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0259",
+      "nome": "MÚSICA DE CÂMARA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0930"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0638",
+      "nome": "MUSICA DE CAMARA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0641",
+         "MUS0977"
+      ],
+      "pre_requisitos": [
+         "MUS0136"
+      ]
+   },
+   {
+      "codigo": "MUS0641",
+      "nome": "MÚSICA DE CÂMARA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0978"
+      ],
+      "pre_requisitos": [
+         "MUS0638"
+      ]
+   },
+   {
+      "codigo": "MUS0023",
+      "nome": "MÚSICA DE TRADIÇÃO ORAL PERFORMÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0896"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0085",
+      "nome": "MÚSICA E INTERFACES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1123"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0180",
+      "nome": "MUSICA ELETRONICA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MUS0182",
+         "MUS1164"
+      ],
+      "pre_requisitos": [
+         "MUS0153"
+      ]
+   },
+   {
+      "codigo": "MUS0182",
+      "nome": "MUSICA ELETRONICA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MUS1165"
+      ],
+      "pre_requisitos": [
+         "MUS0180"
+      ]
+   },
+   {
+      "codigo": "MUS0236",
+      "nome": "MUSICA E SOCIEDADE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0867"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0237",
+      "nome": "MUSICA E SOCIEDADE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1194"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0263",
+      "nome": "MUSICA POPULAR BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1206"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0207",
+      "nome": "MUSICOLOGIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0208",
+         "MUS1176"
+      ],
+      "pre_requisitos": [
+         "MUS0206"
+      ]
+   },
+   {
+      "codigo": "MUS0208",
+      "nome": "MUSICOLOGIA 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0209",
+         "MUS1177"
+      ],
+      "pre_requisitos": [
+         "MUS0207"
+      ]
+   },
+   {
+      "codigo": "MUS0209",
+      "nome": "MUSICOLOGIA 4",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1178"
+      ],
+      "pre_requisitos": [
+         "MUS0208"
+      ]
+   },
+   {
+      "codigo": "MUS0210",
+      "nome": "MUSICOLOGIA 6",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0211",
+         "MUS1179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0211",
+      "nome": "MUSICOLOGIA 7",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0212",
+         "MUS1180"
+      ],
+      "pre_requisitos": [
+         "MUS0210"
+      ]
+   },
+   {
+      "codigo": "MUS0212",
+      "nome": "MUSICOLOGIA 8",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1181"
+      ],
+      "pre_requisitos": [
+         "MUS0211"
+      ]
+   },
+   {
+      "codigo": "MUS0373",
+      "nome": "OBOE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0375",
+         "MUS0377",
+         "MUS0944"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0375",
+      "nome": "OBOE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0945"
+      ],
+      "pre_requisitos": [
+         "MUS0373"
+      ]
+   },
+   {
+      "codigo": "MUS0377",
+      "nome": "OBOE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0379",
+         "MUS0382",
+         "MUS0946"
+      ],
+      "pre_requisitos": [
+         "MUS0373"
+      ]
+   },
+   {
+      "codigo": "MUS0379",
+      "nome": "OBOE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0947"
+      ],
+      "pre_requisitos": [
+         "MUS0377"
+      ]
+   },
+   {
+      "codigo": "MUS0382",
+      "nome": "OBOE 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0385",
+         "MUS0387",
+         "MUS0948"
+      ],
+      "pre_requisitos": [
+         "MUS0377"
+      ]
+   },
+   {
+      "codigo": "MUS0385",
+      "nome": "OBOE 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1256"
+      ],
+      "pre_requisitos": [
+         "MUS0382"
+      ]
+   },
+   {
+      "codigo": "MUS0387",
+      "nome": "OBOE 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0390",
+         "MUS0684",
+         "MUS1038",
+         "MUS1257"
+      ],
+      "pre_requisitos": [
+         "MUS0382"
+      ]
+   },
+   {
+      "codigo": "MUS0390",
+      "nome": "OBOE 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1258"
+      ],
+      "pre_requisitos": [
+         "MUS0387"
+      ]
+   },
+   {
+      "codigo": "MUS0089",
+      "nome": "OFICINA BÁSICA DE MÚSICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0091",
+         "JOR0083",
+         "MUS1126"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0091",
+      "nome": "OFICINA BASICA DE MUSICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1127"
+      ],
+      "pre_requisitos": [
+         "MUS0089"
+      ]
+   },
+   {
+      "codigo": "MUS0807",
+      "nome": "OFICINA INTERDISCIPLINAR EM EDUCAÇÃO MUSICAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1023"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0812",
+      "nome": "OFICINA INTERDISCIPLINAR EM EDUCAÇÃO MUSICAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1024"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0743",
+      "nome": "ÓPERA - ESTÚDIO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1418"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0744",
+      "nome": "ÓPERA - ESTÚDIO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0726",
+         "MUS1419"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0726",
+      "nome": "ÓPERA - ESTUDIO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0727",
+         "MUS1404"
+      ],
+      "pre_requisitos": [
+         "MUS0744"
+      ]
+   },
+   {
+      "codigo": "MUS0727",
+      "nome": "ÓPERA - ESTUDIO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0728",
+         "MUS1405"
+      ],
+      "pre_requisitos": [
+         "MUS0726"
+      ]
+   },
+   {
+      "codigo": "MUS0728",
+      "nome": "ÓPERA - ESTUDIO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1406"
+      ],
+      "pre_requisitos": [
+         "MUS0727"
+      ]
+   },
+   {
+      "codigo": "MUS0250",
+      "nome": "PERCEPCAO MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0252",
+         "MUS1201"
+      ],
+      "pre_requisitos": [
+         "MUS0093"
+      ]
+   },
+   {
+      "codigo": "MUS0252",
+      "nome": "PERCEPCAO MUSICAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0668",
+         "MUS1202"
+      ],
+      "pre_requisitos": [
+         "MUS0250"
+      ]
+   },
+   {
+      "codigo": "MUS0668",
+      "nome": "PERCEPCAO MUSICAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1370"
+      ],
+      "pre_requisitos": [
+         "MUS0252"
+      ]
+   },
+   {
+      "codigo": "MUS0475",
+      "nome": "PIANO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0477",
+         "MUS0479",
+         "MUS0658",
+         "MUS1291"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0477",
+      "nome": "PIANO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0952"
+      ],
+      "pre_requisitos": [
+         "MUS0475"
+      ]
+   },
+   {
+      "codigo": "MUS0479",
+      "nome": "PIANO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0481",
+         "MUS0484",
+         "MUS1293"
+      ],
+      "pre_requisitos": [
+         "MUS0475"
+      ]
+   },
+   {
+      "codigo": "MUS0481",
+      "nome": "PIANO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1294"
+      ],
+      "pre_requisitos": [
+         "MUS0479"
+      ]
+   },
+   {
+      "codigo": "MUS0484",
+      "nome": "PIANO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0486",
+         "MUS0488",
+         "MUS0874"
+      ],
+      "pre_requisitos": [
+         "MUS0479"
+      ]
+   },
+   {
+      "codigo": "MUS0486",
+      "nome": "PIANO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1296"
+      ],
+      "pre_requisitos": [
+         "MUS0484"
+      ]
+   },
+   {
+      "codigo": "MUS0488",
+      "nome": "PIANO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0490",
+         "MUS0692",
+         "MUS1049",
+         "MUS1297"
+      ],
+      "pre_requisitos": [
+         "MUS0484"
+      ]
+   },
+   {
+      "codigo": "MUS0490",
+      "nome": "PIANO 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0953"
+      ],
+      "pre_requisitos": [
+         "MUS0488"
+      ]
+   },
+   {
+      "codigo": "MUS0629",
+      "nome": "PIANO PARA CANTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0631",
+         "MUS1353"
+      ],
+      "pre_requisitos": [
+         "MUS0151 & MUS0148"
+      ]
+   },
+   {
+      "codigo": "MUS0631",
+      "nome": "PIANO PARA CANTO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1354"
+      ],
+      "pre_requisitos": [
+         "MUS0629"
+      ]
+   },
+   {
+      "codigo": "MUS0148",
+      "nome": "PIANO SUPLEMENTAR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0151",
+         "MUS0915"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0151",
+      "nome": "PIANO SUPLEMENTAR 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0653",
+         "MUS0656",
+         "MUS0916"
+      ],
+      "pre_requisitos": [
+         "MUS0148",
+         "MUS0215"
+      ]
+   },
+   {
+      "codigo": "MUS0653",
+      "nome": "PIANO SUPLEMENTAR 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0979"
+      ],
+      "pre_requisitos": [
+         "MUS0151"
+      ]
+   },
+   {
+      "codigo": "MUS0656",
+      "nome": "PIANO SUPLEMENTAR 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0980"
+      ],
+      "pre_requisitos": [
+         "MUS0151"
+      ]
+   },
+   {
+      "codigo": "MUS0658",
+      "nome": "PRATICA DE ACOMPANHAMENTO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0660",
+         "MUS1365"
+      ],
+      "pre_requisitos": [
+         "MUS0475"
+      ]
+   },
+   {
+      "codigo": "MUS0660",
+      "nome": "PRATICA DE ACOMPANHAMENTO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1366"
+      ],
+      "pre_requisitos": [
+         "MUS0658"
+      ]
+   },
+   {
+      "codigo": "MUS0499",
+      "nome": "PRATICA DE CONJUNTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0954"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0503",
+      "nome": "PRATICA DE CONJUNTO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0955"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0506",
+      "nome": "PRATICA DE CONJUNTO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0956"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0509",
+      "nome": "PRATICA DE CONJUNTO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0957"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0512",
+      "nome": "PRÁTICA DE CONJUNTO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0958"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0515",
+      "nome": "PRÁTICA DE CONJUNTO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0959"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0827",
+      "nome": "PRATICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1029"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0843",
+      "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1513"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0753",
+      "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM MUSICAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0751",
+         "MUS0758",
+         "MUS1000"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0751",
+      "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM MUSICAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0999"
+      ],
+      "pre_requisitos": [
+         "MUS0753"
+      ]
+   },
+   {
+      "codigo": "MUS0758",
+      "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM MUSICAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1001"
+      ],
+      "pre_requisitos": [
+         "MUS0753"
+      ]
+   },
+   {
+      "codigo": "MUS0612",
+      "nome": "PRATICA DE ORQUESTRA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0615",
+         "MUS0618",
+         "MUS0972"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0615",
+      "nome": "PRATICA DE ORQUESTRA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1348"
+      ],
+      "pre_requisitos": [
+         "MUS0612"
+      ]
+   },
+   {
+      "codigo": "MUS0618",
+      "nome": "PRATICA DE ORQUESTRA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0621",
+         "MUS0624",
+         "MUS0973"
+      ],
+      "pre_requisitos": [
+         "MUS0612"
+      ]
+   },
+   {
+      "codigo": "MUS0621",
+      "nome": "PRATICA DE ORQUESTRA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0974"
+      ],
+      "pre_requisitos": [
+         "MUS0618"
+      ]
+   },
+   {
+      "codigo": "MUS0624",
+      "nome": "PRATICA DE ORQUESTRA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0627",
+         "MUS0975"
+      ],
+      "pre_requisitos": [
+         "MUS0618"
+      ]
+   },
+   {
+      "codigo": "MUS0627",
+      "nome": "PRATICA DE ORQUESTRA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1352"
+      ],
+      "pre_requisitos": [
+         "MUS0624"
+      ]
+   },
+   {
+      "codigo": "MUS0824",
+      "nome": "PRÁTICAS MUSICAIS COLETIVAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1494"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0825",
+      "nome": "PRÁTICAS MUSICAIS COLETIVAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1495"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS1052",
+      "nome": "PRÁTICAS MUSICAIS COLETIVAS 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1536"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0788",
+      "nome": "PROJETO DE ESTÁGIO E PRÁTICA DOCENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0262",
+         "MUS1013"
+      ],
+      "pre_requisitos": [
+         "MUS0753 & MUS0751 & MUS0758"
+      ]
+   },
+   {
+      "codigo": "MUS0805",
+      "nome": "PROJETO DE RECITAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1021"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0838",
+      "nome": "PROJETO EM MÚSICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1508"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0110",
+      "nome": "PROSODIA MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1138"
+      ],
+      "pre_requisitos": [
+         "MUS0102"
+      ]
+   },
+   {
+      "codigo": "MUS0184",
+      "nome": "REGENCIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0186",
+         "MUS0864"
+      ],
+      "pre_requisitos": [
+         "MUS0096"
+      ]
+   },
+   {
+      "codigo": "MUS0186",
+      "nome": "REGENCIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0188",
+         "MUS1167"
+      ],
+      "pre_requisitos": [
+         "MUS0184"
+      ]
+   },
+   {
+      "codigo": "MUS0188",
+      "nome": "REGENCIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0191",
+         "MUS1168"
+      ],
+      "pre_requisitos": [
+         "MUS0186"
+      ]
+   },
+   {
+      "codigo": "MUS0191",
+      "nome": "REGENCIA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0194",
+         "MUS1169"
+      ],
+      "pre_requisitos": [
+         "MUS0188"
+      ]
+   },
+   {
+      "codigo": "MUS0194",
+      "nome": "REGENCIA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0197",
+         "MUS0924"
+      ],
+      "pre_requisitos": [
+         "MUS0191"
+      ]
+   },
+   {
+      "codigo": "MUS0197",
+      "nome": "REGENCIA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0200",
+         "MUS0865"
+      ],
+      "pre_requisitos": [
+         "MUS0194"
+      ]
+   },
+   {
+      "codigo": "MUS0200",
+      "nome": "REGENCIA 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0203",
+         "MUS0666",
+         "MUS1039",
+         "MUS1172"
+      ],
+      "pre_requisitos": [
+         "MUS0197"
+      ]
+   },
+   {
+      "codigo": "MUS0203",
+      "nome": "REGENCIA 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1173"
+      ],
+      "pre_requisitos": [
+         "MUS0200"
+      ]
+   },
+   {
+      "codigo": "MUS0771",
+      "nome": "RITMOS BRASILEIROS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1008"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0782",
+      "nome": "RITMOS BRASILEIROS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1453"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0568",
+      "nome": "SAXOFONE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0570",
+         "MUS0572",
+         "MUS0966"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0570",
+      "nome": "SAXOFONE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0967"
+      ],
+      "pre_requisitos": [
+         "MUS0568"
+      ]
+   },
+   {
+      "codigo": "MUS0572",
+      "nome": "SAXOFONE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0574",
+         "MUS0577",
+         "MUS1331"
+      ],
+      "pre_requisitos": [
+         "MUS0568"
+      ]
+   },
+   {
+      "codigo": "MUS0574",
+      "nome": "SAXOFONE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0875"
+      ],
+      "pre_requisitos": [
+         "MUS0572"
+      ]
+   },
+   {
+      "codigo": "MUS0577",
+      "nome": "SAXOFONE 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0580",
+         "MUS0583",
+         "MUS1333"
+      ],
+      "pre_requisitos": [
+         "MUS0572"
+      ]
+   },
+   {
+      "codigo": "MUS0580",
+      "nome": "SAXOFONE 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1334"
+      ],
+      "pre_requisitos": [
+         "MUS0577"
+      ]
+   },
+   {
+      "codigo": "MUS0583",
+      "nome": "SAXOFONE 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0585",
+         "MUS0674",
+         "MUS0968",
+         "MUS1040"
+      ],
+      "pre_requisitos": [
+         "MUS0577"
+      ]
+   },
+   {
+      "codigo": "MUS0585",
+      "nome": "SAXOFONE 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1336"
+      ],
+      "pre_requisitos": [
+         "MUS0583"
+      ]
+   },
+   {
+      "codigo": "MUS0750",
+      "nome": "SEMINÁRIO EM EDUCAÇÃO MUSICAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0749",
+         "MUS0998"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0749",
+      "nome": "SEMINÁRIO EM EDUCAÇÃO MUSICAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0813",
+         "MUS0997"
+      ],
+      "pre_requisitos": [
+         "MUS0750"
+      ]
+   },
+   {
+      "codigo": "MUS0813",
+      "nome": "SEMINÁRIO EM EDUCAÇÃO MUSICAL 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0814",
+         "MUS1025"
+      ],
+      "pre_requisitos": [
+         "MUS0749"
+      ]
+   },
+   {
+      "codigo": "MUS0814",
+      "nome": "SEMINÁRIO EM EDUCAÇÃO MUSICAL 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1026"
+      ],
+      "pre_requisitos": [
+         "MUS0813"
+      ]
+   },
+   {
+      "codigo": "MUS0815",
+      "nome": "SEMINÁRIO EM EDUCAÇÃO MUSICAL 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0885"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0816",
+      "nome": "SEMINÁRIO EM EDUCAÇÃO MUSICAL 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1486"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0810",
+      "nome": "SEMINÁRIO INTERDISCIPLINAR EM EDUCAÇÃO MUSICAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0883"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0811",
+      "nome": "SEMINÁRIO INTERDISCIPLINAR EM EDUCAÇÃO MUSICAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0884"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0740",
+      "nome": "TECLADO OU VIOLAO COMPLEMENTAR 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1415"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0239",
+      "nome": "TECNICA DE EXPRESSAO VOCAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0241",
+         "MUS0242",
+         "MUS0868"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0241",
+      "nome": "TECNICA DE EXPRESSAO VOCAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1196"
+      ],
+      "pre_requisitos": [
+         "MUS0239"
+      ]
+   },
+   {
+      "codigo": "MUS0242",
+      "nome": "TECNICA DE EXPRESSAO VOCAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1197"
+      ],
+      "pre_requisitos": [
+         "MUS0239"
+      ]
+   },
+   {
+      "codigo": "MUS0494",
+      "nome": "TECNICA DE INICIACAO MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1300"
+      ],
+      "pre_requisitos": [
+         "PED0058"
+      ]
+   },
+   {
+      "codigo": "MUS0698",
+      "nome": "TECNICAS DE EXCURCAO PARA INSTRUMENTOS DE METAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1385"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0719",
+      "nome": "TECNOLOGIA MUSICAL BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1398"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0841",
+      "nome": "TEORIA DA ARTE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1511"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0153",
+      "nome": "TEORIA E PRÁTICA DE GRAVAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0155",
+         "MUS0180",
+         "MUS0862"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0846",
+      "nome": "TEORIA E PRÁTICA DE GRAVAÇÃO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS0888"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0155",
+      "nome": "TEORIA E PRATICA DE GRAVACAO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1155"
+      ],
+      "pre_requisitos": [
+         "MUS0153"
+      ]
+   },
+   {
+      "codigo": "MUS0112",
+      "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0114",
+         "MUS0909"
+      ],
+      "pre_requisitos": [
+         "MUS0096"
+      ]
+   },
+   {
+      "codigo": "MUS0114",
+      "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0116",
+         "MUS0910"
+      ],
+      "pre_requisitos": [
+         "MUS0112"
+      ]
+   },
+   {
+      "codigo": "MUS0116",
+      "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0118",
+         "MUS0911"
+      ],
+      "pre_requisitos": [
+         "MUS0114"
+      ]
+   },
+   {
+      "codigo": "MUS0118",
+      "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1142"
+      ],
+      "pre_requisitos": [
+         "MUS0116"
+      ]
+   },
+   {
+      "codigo": "MUS0840",
+      "nome": "TEORIAS DA EDUCAÇÃO MUSICAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MUS1510"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0721",
+      "nome": "TÓPICOS DE APLICAÇÃO DE TECNOLOGIA À COMPOSIÇÃO MUSICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0877"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0806",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1022"
+      ],
+      "pre_requisitos": [
+         "MUS0003"
+      ]
+   },
+   {
+      "codigo": "MUS0079",
+      "nome": "TRILHA SONORA PARA JOGOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1120"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0697",
+      "nome": "TROMBONE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0700",
+         "MUS1384"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0700",
+      "nome": "TROMBONE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0702",
+         "MUS1386"
+      ],
+      "pre_requisitos": [
+         "MUS0697"
+      ]
+   },
+   {
+      "codigo": "MUS0702",
+      "nome": "TROMBONE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0704",
+         "MUS1387"
+      ],
+      "pre_requisitos": [
+         "MUS0700"
+      ]
+   },
+   {
+      "codigo": "MUS0704",
+      "nome": "TROMBONE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0706",
+         "MUS0990"
+      ],
+      "pre_requisitos": [
+         "MUS0702"
+      ]
+   },
+   {
+      "codigo": "MUS0706",
+      "nome": "TROMBONE 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0708",
+         "MUS1389"
+      ],
+      "pre_requisitos": [
+         "MUS0704"
+      ]
+   },
+   {
+      "codigo": "MUS0708",
+      "nome": "TROMBONE 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0710",
+         "MUS1390"
+      ],
+      "pre_requisitos": [
+         "MUS0706"
+      ]
+   },
+   {
+      "codigo": "MUS0710",
+      "nome": "TROMBONE 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0712",
+         "MUS0713",
+         "MUS1041",
+         "MUS1391"
+      ],
+      "pre_requisitos": [
+         "MUS0708"
+      ]
+   },
+   {
+      "codigo": "MUS0712",
+      "nome": "TROMBONE 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1392"
+      ],
+      "pre_requisitos": [
+         "MUS0710"
+      ]
+   },
+   {
+      "codigo": "MUS0397",
+      "nome": "TROMPA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0399",
+         "MUS0401",
+         "MUS1261"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0399",
+      "nome": "TROMPA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1262"
+      ],
+      "pre_requisitos": [
+         "MUS0397"
+      ]
+   },
+   {
+      "codigo": "MUS0401",
+      "nome": "TROMPA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0403",
+         "MUS0406",
+         "MUS1263"
+      ],
+      "pre_requisitos": [
+         "MUS0397"
+      ]
+   },
+   {
+      "codigo": "MUS0403",
+      "nome": "TROMPA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1264"
+      ],
+      "pre_requisitos": [
+         "MUS0401"
+      ]
+   },
+   {
+      "codigo": "MUS0406",
+      "nome": "TROMPA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0408",
+         "MUS0410",
+         "MUS1265"
+      ],
+      "pre_requisitos": [
+         "MUS0401"
+      ]
+   },
+   {
+      "codigo": "MUS0408",
+      "nome": "TROMPA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1266"
+      ],
+      "pre_requisitos": [
+         "MUS0406"
+      ]
+   },
+   {
+      "codigo": "MUS0410",
+      "nome": "TROMPA 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0412",
+         "MUS0686",
+         "MUS1267"
+      ],
+      "pre_requisitos": [
+         "MUS0406"
+      ]
+   },
+   {
+      "codigo": "MUS0412",
+      "nome": "TROMPA 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1268"
+      ],
+      "pre_requisitos": [
+         "MUS0410"
+      ]
+   },
+   {
+      "codigo": "MUS0521",
+      "nome": "TROMPETE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0523",
+         "MUS0525",
+         "MUS0960"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0523",
+      "nome": "TROMPETE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1310"
+      ],
+      "pre_requisitos": [
+         "MUS0521"
+      ]
+   },
+   {
+      "codigo": "MUS0525",
+      "nome": "TROMPETE 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0527",
+         "MUS0529",
+         "MUS1311"
+      ],
+      "pre_requisitos": [
+         "MUS0521"
+      ]
+   },
+   {
+      "codigo": "MUS0527",
+      "nome": "TROMPETE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1312"
+      ],
+      "pre_requisitos": [
+         "MUS0525"
+      ]
+   },
+   {
+      "codigo": "MUS0529",
+      "nome": "TROMPETE 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0531",
+         "MUS0533",
+         "MUS1313"
+      ],
+      "pre_requisitos": [
+         "MUS0525"
+      ]
+   },
+   {
+      "codigo": "MUS0531",
+      "nome": "TROMPETE 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0961"
+      ],
+      "pre_requisitos": [
+         "MUS0529"
+      ]
+   },
+   {
+      "codigo": "MUS0533",
+      "nome": "TROMPETE 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0536",
+         "MUS0670",
+         "MUS0962",
+         "MUS1042"
+      ],
+      "pre_requisitos": [
+         "MUS0529"
+      ]
+   },
+   {
+      "codigo": "MUS0536",
+      "nome": "TROMPETE 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1316"
+      ],
+      "pre_requisitos": [
+         "MUS0533"
+      ]
+   },
+   {
+      "codigo": "MUS0306",
+      "nome": "VIOLA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0308",
+         "MUS0310",
+         "MUS1221"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0308",
+      "nome": "VIOLA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1222"
+      ],
+      "pre_requisitos": [
+         "MUS0306"
+      ]
+   },
+   {
+      "codigo": "MUS0310",
+      "nome": "VIOLA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0312",
+         "MUS0315",
+         "MUS0937"
+      ],
+      "pre_requisitos": [
+         "MUS0306"
+      ]
+   },
+   {
+      "codigo": "MUS0312",
+      "nome": "VIOLA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0938"
+      ],
+      "pre_requisitos": [
+         "MUS0310"
+      ]
+   },
+   {
+      "codigo": "MUS0315",
+      "nome": "VIOLA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0317",
+         "MUS0319",
+         "MUS1225"
+      ],
+      "pre_requisitos": [
+         "MUS0310"
+      ]
+   },
+   {
+      "codigo": "MUS0317",
+      "nome": "VIOLA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1226"
+      ],
+      "pre_requisitos": [
+         "MUS0315"
+      ]
+   },
+   {
+      "codigo": "MUS0319",
+      "nome": "VIOLA 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0321",
+         "MUS0678",
+         "MUS0939",
+         "MUS1043"
+      ],
+      "pre_requisitos": [
+         "MUS0315"
+      ]
+   },
+   {
+      "codigo": "MUS0321",
+      "nome": "VIOLA 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1228"
+      ],
+      "pre_requisitos": [
+         "MUS0319"
+      ]
+   },
+   {
+      "codigo": "MUS0592",
+      "nome": "VIOLAO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0594",
+         "MUS0596",
+         "MUS1339"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0594",
+      "nome": "VIOLAO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0598",
+         "MUS0969"
+      ],
+      "pre_requisitos": [
+         "MUS0592"
+      ]
+   },
+   {
+      "codigo": "MUS0596",
+      "nome": "VIOLAO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0601",
+         "MUS0970"
+      ],
+      "pre_requisitos": [
+         "MUS0592"
+      ]
+   },
+   {
+      "codigo": "MUS0598",
+      "nome": "VIOLAO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0603",
+         "MUS1342"
+      ],
+      "pre_requisitos": [
+         "MUS0594"
+      ]
+   },
+   {
+      "codigo": "MUS0601",
+      "nome": "VIOLAO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0606",
+         "MUS1343"
+      ],
+      "pre_requisitos": [
+         "MUS0596"
+      ]
+   },
+   {
+      "codigo": "MUS0603",
+      "nome": "VIOLAO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1344"
+      ],
+      "pre_requisitos": [
+         "MUS0598"
+      ]
+   },
+   {
+      "codigo": "MUS0606",
+      "nome": "VIOLAO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0609",
+         "MUS0694",
+         "MUS0971",
+         "MUS1044"
+      ],
+      "pre_requisitos": [
+         "MUS0601"
+      ]
+   },
+   {
+      "codigo": "MUS0609",
+      "nome": "VIOLAO 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1346"
+      ],
+      "pre_requisitos": [
+         "MUS0606"
+      ]
+   },
+   {
+      "codigo": "MUS0277",
+      "nome": "VIOLINO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0279",
+         "MUS0281",
+         "MUS0934"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0279",
+      "nome": "VIOLINO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1212"
+      ],
+      "pre_requisitos": [
+         "MUS0277"
+      ]
+   },
+   {
+      "codigo": "MUS0281",
+      "nome": "VIOLINO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0283",
+         "MUS0286",
+         "MUS1213"
+      ],
+      "pre_requisitos": [
+         "MUS0277"
+      ]
+   },
+   {
+      "codigo": "MUS0283",
+      "nome": "VIOLINO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0935"
+      ],
+      "pre_requisitos": [
+         "MUS0281"
+      ]
+   },
+   {
+      "codigo": "MUS0286",
+      "nome": "VIOLINO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0288",
+         "MUS0291",
+         "MUS1215"
+      ],
+      "pre_requisitos": [
+         "MUS0281"
+      ]
+   },
+   {
+      "codigo": "MUS0288",
+      "nome": "VIOLINO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1216"
+      ],
+      "pre_requisitos": [
+         "MUS0286"
+      ]
+   },
+   {
+      "codigo": "MUS0291",
+      "nome": "VIOLINO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0294",
+         "MUS0676",
+         "MUS1050",
+         "MUS1217"
+      ],
+      "pre_requisitos": [
+         "MUS0286"
+      ]
+   },
+   {
+      "codigo": "MUS0294",
+      "nome": "VIOLINO 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1218"
+      ],
+      "pre_requisitos": [
+         "MUS0291"
+      ]
+   },
+   {
+      "codigo": "MUS0328",
+      "nome": "VIOLONCELO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0330",
+         "MUS0332",
+         "MUS0940"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MUS0330",
+      "nome": "VIOLONCELO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0869"
+      ],
+      "pre_requisitos": [
+         "MUS0328"
+      ]
+   },
+   {
+      "codigo": "MUS0332",
+      "nome": "VIOLONCELO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS0334",
+         "MUS0337",
+         "MUS1233"
+      ],
+      "pre_requisitos": [
+         "MUS0328"
+      ]
+   },
+   {
+      "codigo": "MUS0334",
+      "nome": "VIOLONCELO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MUS1234"
+      ],
+      "pre_requisitos": [
+         "MUS0332"
+      ]
+   },
+   {
+      "codigo": "MUS0337",
+      "nome": "VIOLONCELO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0340",
+         "MUS0343",
+         "MUS0941"
+      ],
+      "pre_requisitos": [
+         "MUS0332"
+      ]
+   },
+   {
+      "codigo": "MUS0340",
+      "nome": "VIOLONCELO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0870"
+      ],
+      "pre_requisitos": [
+         "MUS0337"
+      ]
+   },
+   {
+      "codigo": "MUS0343",
+      "nome": "VIOLONCELO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS0346",
+         "MUS0680",
+         "MUS1045",
+         "MUS1237"
+      ],
+      "pre_requisitos": [
+         "MUS0337"
+      ]
+   },
+   {
+      "codigo": "MUS0346",
+      "nome": "VIOLONCELO 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MUS1238"
+      ],
+      "pre_requisitos": [
+         "MUS0343"
+      ]
+   }
 ]

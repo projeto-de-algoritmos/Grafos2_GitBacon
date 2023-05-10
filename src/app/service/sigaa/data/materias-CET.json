@@ -1,524 +1,542 @@
 [
-  {
-    "cod": "CET0044",
-    "nome": "COMUNICA\u00c7\u00c3O NO TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0088"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0041",
-    "nome": "CONSTRU\u00c7\u00c3O DO CONHECIMENTO CIENT\u00cdFICO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0013"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0022",
-    "nome": "ELABORA\u00c7AO DE PROJETOS EM TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0079"
-    ],
-    "pre_requirements": [
-      "CET0005"
-    ]
-  },
-  {
-    "cod": "CET0012",
-    "nome": "ENOTURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0077"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0052",
-    "nome": "EQUIPAMENTOS E SERVI\u00c7OS TURISTICOS-AGENCIAMENTO OPERA\u00c7\u00c3O E TRANSPORTE",
-    "ch": 30,
-    "post_requirements": [
-      "CET0072"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0054",
-    "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - ALIMENTA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "CET0019"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0053",
-    "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - EVENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "CET0017"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0050",
-    "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - HOSPEDAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "CET0025"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0051",
-    "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - LAZER",
-    "ch": 30,
-    "post_requirements": [
-      "CET0027"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0091",
-    "nome": "ESCRIVIVENDO PELO E COM O TURISMO",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0004",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
-    "ch": 60,
-    "post_requirements": [
-      "CET0058"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0009",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 2",
-    "ch": 60,
-    "post_requirements": [
-      "CET0096"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0014",
-    "nome": "ESTRUTURA\u00c7\u00c3O E PROMO\u00c7\u00c3O DE DESTINOS",
-    "ch": 60,
-    "post_requirements": [
-      "CET0063"
-    ],
-    "pre_requirements": [
-      "CET0001 & CET0044"
-    ]
-  },
-  {
-    "cod": "CET0045",
-    "nome": "ESTRUTURAS DE SUPORTE AO TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0068"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0038",
-    "nome": "ESTUDO DO TURISMO 1",
-    "ch": 60,
-    "post_requirements": [
-      "J"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0040",
-    "nome": "ESTUDO DO TURISMO 2",
-    "ch": 60,
-    "post_requirements": [
-      "CET0043"
-    ],
-    "pre_requirements": [
-      "CET0038"
-    ]
-  },
-  {
-    "cod": "CET0043",
-    "nome": "ESTUDO DO TURISMO 3",
-    "ch": 60,
-    "post_requirements": [
-      "CET0067"
-    ],
-    "pre_requirements": [
-      "CET0040"
-    ]
-  },
-  {
-    "cod": "CET0031",
-    "nome": "FUNDAMENTOS DE  ECONOMETRIA  APLICADA AO TURISMO",
-    "ch": 30,
-    "post_requirements": [
-      "CET0117"
-    ],
-    "pre_requirements": [
-      "CET0006"
-    ]
-  },
-  {
-    "cod": "CET0026",
-    "nome": "FUNDAMENTOS DE ENOGASTRONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "CET0112"
-    ],
-    "pre_requirements": [
-      "CET0053"
-    ]
-  },
-  {
-    "cod": "CET0006",
-    "nome": "FUNDAMENTOS DE ESTAT\u00cdSTICA APLICADO AO TURISMO",
-    "ch": 30,
-    "post_requirements": [
-      "CET0031"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0048",
-    "nome": "HIST\u00d3RIA DA ARTE E TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0134"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0024",
-    "nome": "INOVA\u00c7\u00c3O EMPRESARIAL EM HOSPITALIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "CET0110"
-    ],
-    "pre_requirements": [
-      "ADM0157"
-    ]
-  },
-  {
-    "cod": "CET0049",
-    "nome": "INOVA\u00c7\u00c3O EM SERVI\u00c7OS TUR\u00cdSTICOS",
-    "ch": 30,
-    "post_requirements": [
-      "CET0135"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0025",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 HOTELARIA",
-    "ch": 60,
-    "post_requirements": [
-      "CET0111"
-    ],
-    "pre_requirements": [
-      "CET0050"
-    ]
-  },
-  {
-    "cod": "CET0002",
-    "nome": "LEGISLA\u00c7\u00c3O TUR\u00cdSTICA",
-    "ch": 30,
-    "post_requirements": [
-      "CET0059"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0020",
-    "nome": "MEM\u00d3RIAS GASTRON\u00d4MICAS E GUSTATIVAS",
-    "ch": 60,
-    "post_requirements": [
-      "CET0066"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0047",
-    "nome": "OFICINA VIVENCIAL: EDUCA\u00c7\u00c3O, GASTRONOMIA, NUTRI\u00c7\u00c3O E SUSTENTABILIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "CET0133"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0013",
-    "nome": "PESQUISA EM TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0007"
-    ],
-    "pre_requirements": [
-      "CET0041"
-    ]
-  },
-  {
-    "cod": "CET0001",
-    "nome": "PLANEJAMENTO E GEST\u00c3O EM TURISMO 1",
-    "ch": 60,
-    "post_requirements": [
-      "CET0005"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0005",
-    "nome": "PLANEJAMENTO E GEST\u00c3O EM TURISMO 2",
-    "ch": 60,
-    "post_requirements": [
-      "CET0022"
-    ],
-    "pre_requirements": [
-      "CET0001"
-    ]
-  },
-  {
-    "cod": "CET0029",
-    "nome": "PLANEJAMENTO E OPERA\u00c7\u00c3O DE TRILHAS INTERPRETATIVAS",
-    "ch": 60,
-    "post_requirements": [
-      "CET0115"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0017",
-    "nome": "PLANEJAMENTO E ORGANIZA\u00c7\u00c3O DE EVENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "CET0103"
-    ],
-    "pre_requirements": [
-      "CET0053"
-    ]
-  },
-  {
-    "cod": "CET0016",
-    "nome": "PO\u00c9TICAS DA VIAGEM: ARTE CINEMA LITERATURA E TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0065"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0042",
-    "nome": "PROJETO INTEGRADOR EM TURISMO 1",
-    "ch": 60,
-    "post_requirements": [
-      "CET0055"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0055",
-    "nome": "PROJETO INTEGRADOR EM TURISMO 2",
-    "ch": 30,
-    "post_requirements": [
-      "CET0089"
-    ],
-    "pre_requirements": [
-      "CET0042"
-    ]
-  },
-  {
-    "cod": "CET0007",
-    "nome": "PROJETO INTEGRADOR EM TURISMO 3",
-    "ch": 30,
-    "post_requirements": [
-      "CET0062"
-    ],
-    "pre_requirements": [
-      "CET0013"
-    ]
-  },
-  {
-    "cod": "CET0021",
-    "nome": "PROJETO INTEGRADOR EM TURISMO 4",
-    "ch": 60,
-    "post_requirements": [
-      "CET0107"
-    ],
-    "pre_requirements": [
-      "CET0013 & CET0007"
-    ]
-  },
-  {
-    "cod": "CET0027",
-    "nome": "RECREA\u00c7\u00c3O E ANIMA\u00c7\u00c3O TUR\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "CET0113"
-    ],
-    "pre_requirements": [
-      "CET0051"
-    ]
-  },
-  {
-    "cod": "CET0046",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 1",
-    "ch": 30,
-    "post_requirements": [
-      "CET0069"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0010",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 2",
-    "ch": 30,
-    "post_requirements": [
-      "CET0076"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0015",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 3",
-    "ch": 30,
-    "post_requirements": [
-      "CET0064"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0032",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 4",
-    "ch": 30,
-    "post_requirements": [
-      "CET0118"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0035",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 5",
-    "ch": 30,
-    "post_requirements": [
-      "CET0082"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0036",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 6",
-    "ch": 30,
-    "post_requirements": [
-      "CET0122"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0037",
-    "nome": "SEMIN\u00c1RIOS EM TURISMO 7",
-    "ch": 30,
-    "post_requirements": [
-      "CET0123"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0039",
-    "nome": "SUSTENTABILIDADE \u00c9TICA E TURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0084"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0028",
-    "nome": "T\u00c9CNICAS E PR\u00c1TICAS DE OPERA\u00c7\u00c3O E AGENCIAMENTO TUR\u00cdSTICO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0081"
-    ],
-    "pre_requirements": [
-      "CET0050 & CET0054 & CET0053"
-    ]
-  },
-  {
-    "cod": "CET0019",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GASTRONOMIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "CET0105"
-    ],
-    "pre_requirements": [
-      "CET0054"
-    ]
-  },
-  {
-    "cod": "CET0023",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GASTRONOMIA 2",
-    "ch": 30,
-    "post_requirements": [
-      "CET0080"
-    ],
-    "pre_requirements": [
-      "CET0054"
-    ]
-  },
-  {
-    "cod": "CET0033",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GASTRONOMIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "CET0119"
-    ],
-    "pre_requirements": [
-      "CET0054"
-    ]
-  },
-  {
-    "cod": "CET0034",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GASTRONOMIA 4 - COZINHAS BRASILEIRAS",
-    "ch": 60,
-    "post_requirements": [
-      "CET0120"
-    ],
-    "pre_requirements": [
-      "CET0054"
-    ]
-  },
-  {
-    "cod": "CET0090",
-    "nome": "TRABALHO E EMPREGO NO TURISMO",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0030",
-    "nome": "TURISMO E INTERPRETA\u00c7\u00c3O DE PATRIM\u00d4NIO",
-    "ch": 60,
-    "post_requirements": [
-      "CET0116"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "CET0018",
-    "nome": "TURISMO RURAL",
-    "ch": 30,
-    "post_requirements": [
-      "CET0104"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "CET0044",
+      "nome": "COMUNICAÇÃO NO TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0088"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0041",
+      "nome": "CONSTRUÇÃO DO CONHECIMENTO CIENTÍFICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0013",
+         "CET0086"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0022",
+      "nome": "ELABORAÇAO DE PROJETOS EM TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0079"
+      ],
+      "pre_requisitos": [
+         "CET0005"
+      ]
+   },
+   {
+      "codigo": "CET0012",
+      "nome": "ENOTURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0077"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0052",
+      "nome": "EQUIPAMENTOS E SERVIÇOS TURISTICOS-AGENCIAMENTO OPERAÇÃO E TRANSPORTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0072"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0054",
+      "nome": "EQUIPAMENTOS E SERVIÇOS TURÍSTICOS - ALIMENTAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0019",
+         "CET0023",
+         "CET0033",
+         "CET0034",
+         "CET0074"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0053",
+      "nome": "EQUIPAMENTOS E SERVIÇOS TURÍSTICOS - EVENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0017",
+         "CET0026",
+         "CET0073"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0050",
+      "nome": "EQUIPAMENTOS E SERVIÇOS TURÍSTICOS - HOSPEDAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0025",
+         "CET0070"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0051",
+      "nome": "EQUIPAMENTOS E SERVIÇOS TURÍSTICOS - LAZER",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0027",
+         "CET0071"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0091",
+      "nome": "ESCRIVIVENDO PELO E COM O TURISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0004",
+      "nome": "ESTÁGIO SUPERVISIONADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0058",
+         "CET0092"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0009",
+      "nome": "ESTÁGIO SUPERVISIONADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0096"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0014",
+      "nome": "ESTRUTURAÇÃO E PROMOÇÃO DE DESTINOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0063"
+      ],
+      "pre_requisitos": [
+         "CET0001 & CET0044"
+      ]
+   },
+   {
+      "codigo": "CET0045",
+      "nome": "ESTRUTURAS DE SUPORTE AO TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0068"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0038",
+      "nome": "ESTUDO DO TURISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0083",
+         "CET0040",
+         "CET0083"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0040",
+      "nome": "ESTUDO DO TURISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0043",
+         "CET0085"
+      ],
+      "pre_requisitos": [
+         "CET0038"
+      ]
+   },
+   {
+      "codigo": "CET0043",
+      "nome": "ESTUDO DO TURISMO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0067"
+      ],
+      "pre_requisitos": [
+         "CET0040"
+      ]
+   },
+   {
+      "codigo": "CET0031",
+      "nome": "FUNDAMENTOS DE  ECONOMETRIA  APLICADA AO TURISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0117"
+      ],
+      "pre_requisitos": [
+         "CET0006"
+      ]
+   },
+   {
+      "codigo": "CET0026",
+      "nome": "FUNDAMENTOS DE ENOGASTRONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0112"
+      ],
+      "pre_requisitos": [
+         "CET0053"
+      ]
+   },
+   {
+      "codigo": "CET0006",
+      "nome": "FUNDAMENTOS DE ESTATÍSTICA APLICADO AO TURISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0031",
+         "CET0061"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0048",
+      "nome": "HISTÓRIA DA ARTE E TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0134"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0024",
+      "nome": "INOVAÇÃO EMPRESARIAL EM HOSPITALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0110"
+      ],
+      "pre_requisitos": [
+         "ADM0157"
+      ]
+   },
+   {
+      "codigo": "CET0049",
+      "nome": "INOVAÇÃO EM SERVIÇOS TURÍSTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0135"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0025",
+      "nome": "INTRODUÇÃO À HOTELARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0111"
+      ],
+      "pre_requisitos": [
+         "CET0050"
+      ]
+   },
+   {
+      "codigo": "CET0002",
+      "nome": "LEGISLAÇÃO TURÍSTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0059"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0020",
+      "nome": "MEMÓRIAS GASTRONÔMICAS E GUSTATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0066"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0047",
+      "nome": "OFICINA VIVENCIAL: EDUCAÇÃO, GASTRONOMIA, NUTRIÇÃO E SUSTENTABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0133"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0013",
+      "nome": "PESQUISA EM TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0007",
+         "CET0078"
+      ],
+      "pre_requisitos": [
+         "CET0041"
+      ]
+   },
+   {
+      "codigo": "CET0001",
+      "nome": "PLANEJAMENTO E GESTÃO EM TURISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0005",
+         "CET0075"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0005",
+      "nome": "PLANEJAMENTO E GESTÃO EM TURISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0022",
+         "CET0060"
+      ],
+      "pre_requisitos": [
+         "CET0001"
+      ]
+   },
+   {
+      "codigo": "CET0029",
+      "nome": "PLANEJAMENTO E OPERAÇÃO DE TRILHAS INTERPRETATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0017",
+      "nome": "PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0103"
+      ],
+      "pre_requisitos": [
+         "CET0053"
+      ]
+   },
+   {
+      "codigo": "CET0016",
+      "nome": "POÉTICAS DA VIAGEM: ARTE CINEMA LITERATURA E TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0065"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0042",
+      "nome": "PROJETO INTEGRADOR EM TURISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0055",
+         "CET0087"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0055",
+      "nome": "PROJETO INTEGRADOR EM TURISMO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0089"
+      ],
+      "pre_requisitos": [
+         "CET0042"
+      ]
+   },
+   {
+      "codigo": "CET0007",
+      "nome": "PROJETO INTEGRADOR EM TURISMO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0062"
+      ],
+      "pre_requisitos": [
+         "CET0013"
+      ]
+   },
+   {
+      "codigo": "CET0021",
+      "nome": "PROJETO INTEGRADOR EM TURISMO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0107"
+      ],
+      "pre_requisitos": [
+         "CET0013 & CET0007"
+      ]
+   },
+   {
+      "codigo": "CET0027",
+      "nome": "RECREAÇÃO E ANIMAÇÃO TURÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0113"
+      ],
+      "pre_requisitos": [
+         "CET0051"
+      ]
+   },
+   {
+      "codigo": "CET0046",
+      "nome": "SEMINÁRIOS EM TURISMO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0010",
+      "nome": "SEMINÁRIOS EM TURISMO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0076"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0015",
+      "nome": "SEMINÁRIOS EM TURISMO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0064"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0032",
+      "nome": "SEMINÁRIOS EM TURISMO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0035",
+      "nome": "SEMINÁRIOS EM TURISMO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0036",
+      "nome": "SEMINÁRIOS EM TURISMO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0122"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0037",
+      "nome": "SEMINÁRIOS EM TURISMO 7",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0123"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0039",
+      "nome": "SUSTENTABILIDADE ÉTICA E TURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0084"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0028",
+      "nome": "TÉCNICAS E PRÁTICAS DE OPERAÇÃO E AGENCIAMENTO TURÍSTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0081"
+      ],
+      "pre_requisitos": [
+         "CET0050 & CET0054 & CET0053"
+      ]
+   },
+   {
+      "codigo": "CET0019",
+      "nome": "TÓPICOS ESPECIAIS EM GASTRONOMIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0105"
+      ],
+      "pre_requisitos": [
+         "CET0054"
+      ]
+   },
+   {
+      "codigo": "CET0023",
+      "nome": "TÓPICOS ESPECIAIS EM GASTRONOMIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0080"
+      ],
+      "pre_requisitos": [
+         "CET0054"
+      ]
+   },
+   {
+      "codigo": "CET0033",
+      "nome": "TÓPICOS ESPECIAIS EM GASTRONOMIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0119"
+      ],
+      "pre_requisitos": [
+         "CET0054"
+      ]
+   },
+   {
+      "codigo": "CET0034",
+      "nome": "TÓPICOS ESPECIAIS EM GASTRONOMIA 4 - COZINHAS BRASILEIRAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0120"
+      ],
+      "pre_requisitos": [
+         "CET0054"
+      ]
+   },
+   {
+      "codigo": "CET0090",
+      "nome": "TRABALHO E EMPREGO NO TURISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0030",
+      "nome": "TURISMO E INTERPRETAÇÃO DE PATRIMÔNIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CET0116"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CET0018",
+      "nome": "TURISMO RURAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CET0104"
+      ],
+      "pre_requisitos": []
+   }
 ]

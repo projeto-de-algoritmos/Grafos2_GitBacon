@@ -1,4367 +1,4484 @@
 [
-  {
-    "cod": "FUP0006",
-    "nome": "ABORDAGEM DO CORPO HUMANO NO ENSINO DE CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0789"
-    ],
-    "pre_requirements": [
-      "FUP0320"
-    ]
-  },
-  {
-    "cod": "FUP0160",
-    "nome": "A\u00c7\u00c3O COLETIVA E FORMA\u00c7\u00c3O DE GRUPOS DE INTERESSE NO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0662"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0450",
-    "nome": "ACESSO A PRODU\u00c7\u00d5ES CULTURAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1136"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0281",
-    "nome": "ADMINISTRA\u00c7\u00c3O APLICADA AO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0335"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0282",
-    "nome": "ADMINISTRA\u00c7\u00c3O FINANCEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0272"
-    ],
-    "pre_requirements": [
-      "FUP0310",
-      "EST0019"
-    ]
-  },
-  {
-    "cod": "FUP0521",
-    "nome": "ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0756"
-    ],
-    "pre_requirements": [
-      "ADM0023"
-    ]
-  },
-  {
-    "cod": "FUP0162",
-    "nome": "ADOLESC\u00caNCIA NA ESCOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0908"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0475",
-    "nome": "A FORMA\u00c7\u00c3O DA IDENTIDADE HUMANA E A ORGANIZA\u00c7\u00c3O DA SOCIEDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1156"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0545",
-    "nome": "AGRICULTURA E MEIO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0602"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0291",
-    "nome": "AGRICULTURA FAMILIAR E POL\u00cdTICAS P\u00daBLICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0703"
-    ],
-    "pre_requirements": [
-      "FUP0279"
-    ]
-  },
-  {
-    "cod": "FUP0153",
-    "nome": "AGROBIODIVERSIDADE E SEGURAN\u00c7A ALIMENTAR E NUTRICIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0899"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0161",
-    "nome": "AGROECOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0663"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0154",
-    "nome": "AGROECOLOGIA E ESCOLA DO CAMPO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0900"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0340",
-    "nome": "AGRONEG\u00d3CIO E DESENVOLVIMENTO REGIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0722"
-    ],
-    "pre_requirements": [
-      "FUP0277"
-    ]
-  },
-  {
-    "cod": "FUP0373",
-    "nome": "AGRONEG\u00d3CIO E DESENVOLVIMENTO REGIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0735"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0124",
-    "nome": "\u00c1LGEBRA ELEMENTAR",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0872"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0253",
-    "nome": "ALIMENTA\u00c7\u00c3O E NUTRI\u00c7\u00c3O NA ESCOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0976"
-    ],
-    "pre_requirements": [
-      "FUP0320"
-    ]
-  },
-  {
-    "cod": "FUP0477",
-    "nome": "ALTERNATIVA DE DESENVOLVIMENTO A PARTIR DO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1158"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0478",
-    "nome": "ALTERNATIVAS DID\u00c1TICAS PARA A DOC\u00caNCIA EM CI\u00caNCIAS HUMANAS E SOCIAIS 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1159"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0481",
-    "nome": "ALTERNATIVAS DID\u00c1TICAS PARA A DOC\u00caNCIA EM CI\u00caNCIAS HUMANAS E SOCIAIS 4",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1162"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0479",
-    "nome": "ALTERNATIVAS DID\u00c1TICAS PARA DOC\u00caNCIA EM CI\u00caNCIAS HUMANAS E SOCIAIS  2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1160"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0071",
-    "nome": "AMBIENTES INFORMATIZADOS",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0614"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0346",
-    "nome": "AN\u00c1LISE DE DECIS\u00d5ES E ADMINISTRA\u00c7\u00c3O DE RISCOS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0724"
-    ],
-    "pre_requirements": [
-      "FUP0282"
-    ]
-  },
-  {
-    "cod": "FUP0101",
-    "nome": "ANATOMIA E FISIOLOGIA HUMANA",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0855"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0001",
-    "nome": "ANATOMIA E FISIOLOGIA VEGETAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0646"
-    ],
-    "pre_requirements": [
-      "FUP0355"
-    ]
-  },
-  {
-    "cod": "FUP0241",
-    "nome": "ANTROPOLOGIA ECOL\u00d3GICA, ETNOCONSERVACIONISMO E GEST\u00c3O DOS BENS COMUNS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0964"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0476",
-    "nome": "A PRODU\u00c7\u00c3O REPRODU\u00c7\u00c3O SOCIAL DA CULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1157"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0056",
-    "nome": "ARITM\u00c9TICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0827"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0073",
-    "nome": "ARITM\u00c9TICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0615"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0510",
-    "nome": "ARTE E SOCIEDADE 1: TEATRO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1185"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0230",
-    "nome": "ARTE E SOCIEDADE 2 : TEATRO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0955"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0178",
-    "nome": "ARTES E SOCIEDADE 3",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0919"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0196",
-    "nome": "ARTES E SOCIEDADE 4 M\u00daSICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0930"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0109",
-    "nome": "AUDIOVISUAL EST\u00c9TICA POL\u00cdTICA E EDUCA\u00c7\u00c3O",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0860"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0561",
-    "nome": "AUDITORIA, PER\u00cdCIA E CERTIFICA\u00c7\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1232"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0314",
-    "nome": "BASES PSICOL\u00d3GICAS PARA O ENSINO DE CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0008"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0409",
-    "nome": "BIODIVERSIDADE BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1101"
-    ],
-    "pre_requirements": [
-      "FUP0528",
-      "FUP0328",
-      "FUP0265"
-    ]
-  },
-  {
-    "cod": "FUP0265",
-    "nome": "BIOLOGIA GERAL APLICADA A GEST\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0200"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0066",
-    "nome": "BIOLOGIA GERAL: CITOLOGIA E HISTOLOGIA",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0613"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0009",
-    "nome": "BIOLOGIA MOLECULAR E BIOTECNOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0792"
-    ],
-    "pre_requirements": [
-      "FUP0355 & FUP0199"
-    ]
-  },
-  {
-    "cod": "FUP0086",
-    "nome": "BIOLOGIA VEGETAL E ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0847"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0544",
-    "nome": "BIOQU\u00cdMICA E ELEMENTOS DE FARMACOQU\u00cdMICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1216"
-    ],
-    "pre_requirements": [
-      "FUP0329"
-    ]
-  },
-  {
-    "cod": "FUP0527",
-    "nome": "BOT\u00c2NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0251"
-    ],
-    "pre_requirements": [
-      "FUP0528"
-    ]
-  },
-  {
-    "cod": "FUP0347",
-    "nome": "BOT\u00c2NICA DE CAMPO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1053"
-    ],
-    "pre_requirements": [
-      "FUP0527"
-    ]
-  },
-  {
-    "cod": "FUP0251",
-    "nome": "BOT\u00c2NICA DE CAMPO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0974"
-    ],
-    "pre_requirements": [
-      "FUP0527"
-    ]
-  },
-  {
-    "cod": "FUP0179",
-    "nome": "C\u00c1LCULO DIFERENCIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0920"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0203",
-    "nome": "C\u00c1LCULO DIFERENCIAL E VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0673"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0202",
-    "nome": "C\u00c1LCULO INTEGRAL E A VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0672"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0035",
-    "nome": "C\u00c1LCULO VETORIAL E GEOMETRIA ANAL\u00cdTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0812"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0239",
-    "nome": "CANAIS DE DISTRIBUI\u00c7\u00c3O DE ALIMENTOS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0682"
-    ],
-    "pre_requirements": [
-      "FUP0414",
-      "ADM0061"
-    ]
-  },
-  {
-    "cod": "FUP0041",
-    "nome": "CEBEP 1 - CONFLITOS ESTRUTURAIS BRASILEIROS E EDUCA\u00c7\u00c3O POPULAR",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0649"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0049",
-    "nome": "CEBEP 2 - FORMA\u00c7\u00c3O NACIONAL E IDENTID CAMPONESA IND\u00cdGENA E QUILOMBOLA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0823"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0077",
-    "nome": "CEBEP 3: RA\u00c7A, G\u00caNERO E GERA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0652"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0079",
-    "nome": "CEBEP 4 - QUEST\u00c3O SOCIAL E QUEST\u00c3O AGR\u00c1RIA NO BRASIL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0842"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0106",
-    "nome": "CEBEP 5: DIVERSIDADE GERACIONAL NO CAMPO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0655"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0111",
-    "nome": "CEBEP 6: SOBERANIA, SEGURAN\u00c7A ALIMENTAR E NUTRICIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0862"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0130",
-    "nome": "CEBEP: T\u00d3PICOS ESPECIAIS",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0622"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0355",
-    "nome": "C\u00c9LULA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0001"
-    ],
-    "pre_requirements": [
-      "FUP0329"
-    ]
-  },
-  {
-    "cod": "FUP0283",
-    "nome": "CI\u00caNCIA E TECNOLOGIA",
-    "ch": 135,
-    "post_requirements": [
-      "FUP1002"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0357",
-    "nome": "CI\u00caNCIAS AMBIENTAIS E SUA MULTIDISCIPLINARIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1063"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0125",
-    "nome": "CI\u00caNCIA, TECNOLOGIA, SOCIEDADE: UMA INTRODU\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0873"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0434",
-    "nome": "CLIMATOLOGIA E MUDAN\u00c7AS CLIM\u00c1TICAS GLOBAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0746"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0307",
-    "nome": "COMERCIALIZA\u00c7\u00c3O DE PRODUTOS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0709"
-    ],
-    "pre_requirements": [
-      "FUP0295 & FUP0293",
-      "FUP0295 & ECO0019"
-    ]
-  },
-  {
-    "cod": "FUP0529",
-    "nome": "COMERCIALIZA\u00c7\u00c3O DE PRODUTOS AMBIENTAIS E MARKETING AMBIENTAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0763"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0011",
-    "nome": "COMPLEXIDADE",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0794"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0516",
-    "nome": "COMPOSI\u00c7\u00c3O DO UNIVERSO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1188"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0367",
-    "nome": "COMPOSI\u00c7\u00c3O QU\u00cdMICA DOS SERES VIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0633"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0329",
-    "nome": "COMPOSTOS ORG\u00c2NICOS E VIDA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0355",
-      "FUP0544"
-    ],
-    "pre_requirements": [
-      "FUP0313",
-      "IQD0153"
-    ]
-  },
-  {
-    "cod": "FUP0074",
-    "nome": "COMUNICA\u00c7\u00c3O E TECNOLOGIAS DA INFORMA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0838"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0273",
-    "nome": "COMUNICA\u00c7\u00c3O RURAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0993"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0425",
-    "nome": "CONCEITOS ORGANIZADORES DAS CI\u00caNCIAS HUMANAS E SOCIAIS",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1115"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0440",
-    "nome": "CONFLITOS SOCIOAMBIENTAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0750"
-    ],
-    "pre_requirements": [
-      "FUP0263"
-    ]
-  },
-  {
-    "cod": "FUP0519",
-    "nome": "CONSTRU\u00c7\u00c3O DE MERCADO E AN\u00c1LISE INSTITUCIONAL NO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1191"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0536",
-    "nome": "CONTABILIDADE AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0767"
-    ],
-    "pre_requirements": [
-      "FUP0531"
-    ]
-  },
-  {
-    "cod": "FUP0289",
-    "nome": "CONTABILIDADE GERENCIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0702"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0021",
-    "nome": "COSMOS E COSMOVIS\u00c3O",
-    "ch": 300,
-    "post_requirements": [
-      "FUP0031"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0022",
-    "nome": "COSMOS E COSMOVIS\u00c3O  2",
-    "ch": 120,
-    "post_requirements": [
-      "FUP0803"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0023",
-    "nome": "COSMOS E COSMOVIS\u00c3O 3",
-    "ch": 120,
-    "post_requirements": [
-      "FUP0804"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0305",
-    "nome": "CRIATIVIDADE NAS ORGANIZA\u00c7\u00d5ES",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1016"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0482",
-    "nome": "CULTURA E IDEOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1163"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0005",
-    "nome": "CURR\u00cdCULO E AVALIA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0788"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0333",
-    "nome": "CUSTOS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0588"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0234",
-    "nome": "DA DOMESTICA\u00c7\u00c3O \u00c0S LEIS DA HERAN\u00c7A",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0958"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0458",
-    "nome": "DESENVOLVIMENTO HUMANO E APRENDIZAGEM",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1143"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0460",
-    "nome": "DESENVOLVIMENTO HUMANO E APRENDIZAGEM 2",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1144"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0112",
-    "nome": "DESENVOLVIMENTO HUMANO E APRENDIZAGEM NA ESCOLA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0863"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0330",
-    "nome": "DID\u00c1TICA DAS CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0352"
-    ],
-    "pre_requirements": [
-      "FUP0286"
-    ]
-  },
-  {
-    "cod": "FUP0483",
-    "nome": "DIMENS\u00d5ES DA QUEST\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1164"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0534",
-    "nome": "DIREITO E LEGISLA\u00c7\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0765"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0270",
-    "nome": "DIREITO NO AGRONEG\u00d3CIO E LEGISLA\u00c7\u00c3O TRIBUT\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0693"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0184",
-    "nome": "DIVERSIDADE DOS SERES VIVOS",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0923"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0480",
-    "nome": "DOC\u00caNCIA EM CI\u00caNCIAS HUMANAS E SOCIAIS 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1161"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0159",
-    "nome": "DOCUMENT\u00c1RIO, TERRIT\u00d3RIO E EDUCA\u00c7\u00c3O DO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0905"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0428",
-    "nome": "ECOLOGIA DO AGROSSISTEMAS",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1117"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0019",
-    "nome": "ECOLOGIA DO ORGANISMO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0801"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0143",
-    "nome": "ECOLOGIA POL\u00cdTICA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0660"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0280",
-    "nome": "ECONOMIA APLICADA AO AGRONEG\u00d3CIO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0128"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0293",
-    "nome": "ECONOMIA APLICADA AO AGRONEG\u00d3CIO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0705"
-    ],
-    "pre_requirements": [
-      "FUP0280 & FUP0276"
-    ]
-  },
-  {
-    "cod": "FUP0128",
-    "nome": "ECONOMIA BRASILEIRA CONTEMPOR\u00c2NEA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0656"
-    ],
-    "pre_requirements": [
-      "FUP0280",
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "FUP0531",
-    "nome": "ECONOMIA E MEIO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0536"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "FUP0502",
-    "nome": "ECONOMIA E MERCADO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1181"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0374",
-    "nome": "ECONOMIA POL\u00cdTICA 1",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0635"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0397",
-    "nome": "ECONOMIA POLITICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1092"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0424",
-    "nome": "ECONOMIA POLITICA 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1114"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0523",
-    "nome": "ECOSSISTEMAS TERRESTRES AQUATICOS E INTERFACES",
-    "ch": 60,
-    "post_requirements": [
-      "ECL0049"
-    ],
-    "pre_requirements": [
-      "FUP0200"
-    ]
-  },
-  {
-    "cod": "FUP0353",
-    "nome": "EDUCA\u00c7\u00c3O AMBIENTAL E ENSINO DE CI\u00caNCIAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0727"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0151",
-    "nome": "EDUCA\u00c7\u00c3O DO CAMPO E DIREITOS HUMANOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0897"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0152",
-    "nome": "EDUCA\u00c7\u00c3O DO CAMPO SA\u00daDE E MEIO AMBIENTE",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0898"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0036",
-    "nome": "EDUCA\u00c7\u00c3O E COMUNICA\u00c7\u00c3O COMUNIT\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0813"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0008",
-    "nome": "EDUCA\u00c7\u00c3O E LUDICIDADE NO ENSINO DE CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0604"
-    ],
-    "pre_requirements": [
-      "FUP0314"
-    ]
-  },
-  {
-    "cod": "FUP0181",
-    "nome": "EDUCA\u00c7\u00c3O FINENCEIRA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0921"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0138",
-    "nome": "EDUCA\u00c7\u00c3O MATEM\u00c1TICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0659"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0092",
-    "nome": "EDUCA\u00c7\u00c3O MATEM\u00c1TICA E EDUCA\u00c7\u00c3O DO CAMPO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0850"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0098",
-    "nome": "EDUCA\u00c7\u00c3O MATEM\u00c1TICA E EDUCA\u00c7\u00c3O DO CAMPO 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0853"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0254",
-    "nome": "EDUCA\u00c7\u00c3O PARA A SA\u00daDE",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0977"
-    ],
-    "pre_requirements": [
-      "FUP0320"
-    ]
-  },
-  {
-    "cod": "FUP0150",
-    "nome": "EDUCA\u00c7\u00c3O POPULAR E EDUCA\u00c7\u00c3O DE JOVENS E ADULTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0896"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0445",
-    "nome": "ELABORA\u00c7\u00c3O E AN\u00c1LISE DE PROJETOS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0599"
-    ],
-    "pre_requirements": [
-      "FUP0342 & FUP0333 & FUP0282"
-    ]
-  },
-  {
-    "cod": "FUP0010",
-    "nome": "ELEMENTOS DE MINERALOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0793"
-    ],
-    "pre_requirements": [
-      "IGD0021",
-      "FUP0326"
-    ]
-  },
-  {
-    "cod": "FUP0236",
-    "nome": "ELETROMAGNETISMO E A VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0680"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0363",
-    "nome": "ELETROMAGNETISMO EM CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0731"
-    ],
-    "pre_requirements": [
-      "FUP0321 & MAT0025"
-    ]
-  },
-  {
-    "cod": "FUP0362",
-    "nome": "ENERGIA E DIN\u00c2MICA DAS TRANSFORMA\u00c7\u00d5ES QU\u00cdMICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0244"
-    ],
-    "pre_requirements": [
-      "FUP0329 & FUP0304",
-      "FUP0329 & MAT0025",
-      "IQD0072 & FUP0304",
-      "IQD0072 & MAT0025"
-    ]
-  },
-  {
-    "cod": "FUP0562",
-    "nome": "ENGENHARIA AMBIENTAL E COMISSIONAMENTO AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1233"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0286",
-    "nome": "ENSINO DE CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0014"
-    ],
-    "pre_requirements": [
-      "FUP0314"
-    ]
-  },
-  {
-    "cod": "FUP0350",
-    "nome": "ENSINO DE GEOCI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0725"
-    ],
-    "pre_requirements": [
-      "IGD0021",
-      "FUP0326"
-    ]
-  },
-  {
-    "cod": "FUP0324",
-    "nome": "ENSINO DE QU\u00cdMICA E TECNOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1031"
-    ],
-    "pre_requirements": [
-      "FUP0313"
-    ]
-  },
-  {
-    "cod": "FUP0257",
-    "nome": "EPIDEMIOLOGIA AMBIENTAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0686"
-    ],
-    "pre_requirements": [
-      "FUP0443"
-    ]
-  },
-  {
-    "cod": "FUP0381",
-    "nome": "ESCOLA E EDUCA\u00c7\u00c3O DO CAMPO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0738"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0209",
-    "nome": "ESCOLA E EDUCA\u00c7\u00c3O DO CAMPO 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0674"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0451",
-    "nome": "ESPANHOL INSTRUMENTAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1137"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0452",
-    "nome": "ESPANHOL INSTRUMENTAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1138"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0484",
-    "nome": "ESTADO: CONSTRU\u00c7\u00c3O HIST\u00d3RICA E DESENHO ATUAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1165"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0491",
-    "nome": "ESTADO E EDUCA\u00c7\u00c3O DO CAMPO 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1172"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0267",
-    "nome": "ESTADO POL\u00cdTICA AMBIENTE E SUSTENTABILIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0579"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0189",
-    "nome": "EST\u00c1GIO C. S. 3 - GEST\u00c3O DE DOC\u00caNCIA",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0669"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0214",
-    "nome": "EST\u00c1GIO C. S. 4 - GEST\u00c3O E DOC\u00caNCIA",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0677"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0225",
-    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 1 - COMUNIDADE",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0679"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0169",
-    "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 2: EJA",
-    "ch": 90,
-    "post_requirements": [
-      "FUP0666"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0238",
-    "nome": "EST\u00c1GIO SUPERVISIONADO",
-    "ch": 300,
-    "post_requirements": [
-      "FUP0681"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0569",
-    "nome": "EST\u00c1GIO SUPERVISIONADO ACAD\u00caMICO",
-    "ch": 270,
-    "post_requirements": [
-      "FUP1240"
-    ],
-    "pre_requirements": [
-      "FUP0568"
-    ]
-  },
-  {
-    "cod": "FUP0537",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS NATURAIS 1",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0406"
-    ],
-    "pre_requirements": [
-      "FUP0330"
-    ]
-  },
-  {
-    "cod": "FUP0541",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS NATURAIS 2",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0243"
-    ],
-    "pre_requirements": [
-      "FUP0537",
-      "FUP0352"
-    ]
-  },
-  {
-    "cod": "FUP0542",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS NATURAIS 3",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0771"
-    ],
-    "pre_requirements": [
-      "FUP0541",
-      "FUP0406"
-    ]
-  },
-  {
-    "cod": "FUP0543",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM ENSINO DE CI\u00caNCIAS NATURAIS 4",
-    "ch": 90,
-    "post_requirements": [
-      "FUP0772"
-    ],
-    "pre_requirements": [
-      "FUP0541",
-      "FUP0406"
-    ]
-  },
-  {
-    "cod": "FUP0024",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PARA 2\u00ba LICENCIATURA EM CI\u00caNCIAS NATURAIS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0032"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0037",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PARA SEGUNDA LIC. EM CI\u00caNCIAS NATURAIS 3",
-    "ch": 75,
-    "post_requirements": [
-      "FUP0814"
-    ],
-    "pre_requirements": [
-      "FUP0032"
-    ]
-  },
-  {
-    "cod": "FUP0570",
-    "nome": "EST\u00c1GIO SUPERVISIONADO PROFISSIONALIZANTE",
-    "ch": 270,
-    "post_requirements": [
-      "FUP1241"
-    ],
-    "pre_requirements": [
-      "FUP0568"
-    ]
-  },
-  {
-    "cod": "FUP0032",
-    "nome": "EST\u00c1GIO SUPERVISIONADO P/ SEGUNDA LICENCIATURA EM CI\u00caNCIAS NATURAIS 2",
-    "ch": 75,
-    "post_requirements": [
-      "FUP0037"
-    ],
-    "pre_requirements": [
-      "FUP0024"
-    ]
-  },
-  {
-    "cod": "FUP0310",
-    "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 GEST\u00c3O DO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0282"
-    ],
-    "pre_requirements": [
-      "FUP0276"
-    ]
-  },
-  {
-    "cod": "FUP0567",
-    "nome": "ESTAT\u00cdSTICA B\u00c1SICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1238"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0198",
-    "nome": "ESTAT\u00cdSTICA E A VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0931"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0546",
-    "nome": "ESTAT\u00cdSTICA E ECOLOGIA NUM\u00c9RICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0563",
-      "FUP0773"
-    ],
-    "pre_requirements": [
-      "MAT0022"
-    ]
-  },
-  {
-    "cod": "FUP0563",
-    "nome": "ESTAT\u00cdSTICA MULTIVARIADA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0645"
-    ],
-    "pre_requirements": [
-      "FUP0546"
-    ]
-  },
-  {
-    "cod": "FUP0422",
-    "nome": "EST\u00c9TICA E POL\u00cdTICA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1112"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0547",
-    "nome": "ESTUDOS INTERDISCIPLINARES DO CERRADO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0774"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0509",
-    "nome": "ESTUDOS LITER\u00c1RIOS 1: LITERATURA E NA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1184"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0229",
-    "nome": "ESTUDOS LITER\u00c1RIOS 2 :CONSOLIDA\u00c7\u00c3O DO SIST LIT E DESAGREGA\u00c7\u00c3O NACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0631"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0176",
-    "nome": "ESTUDOS LITER\u00c1RIOS 3: REPRESENTA\u00c7\u00c3O DO PERSONAGEM POPULAR BRASILEIRO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0917"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0193",
-    "nome": "ESTUDOS LITER\u00c1RIOS 4",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0629"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0012",
-    "nome": "\u00c9TICA E FORMA\u00c7\u00c3O DOCENTE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0795"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0290",
-    "nome": "\u00c9TICA E PERFIL DO PROFISSIONAL NO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0632"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0279",
-    "nome": "EVOLU\u00c7\u00c3O DA AGRICULTURA FAMILIAR",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0127"
-    ],
-    "pre_requirements": [
-      "FUP0280 & FUP0306",
-      "ECO0019 & SOL0042"
-    ]
-  },
-  {
-    "cod": "FUP0013",
-    "nome": "EVOLU\u00c7\u00c3O DO DESENVOLVIMENTO",
-    "ch": 0,
-    "post_requirements": [
-      "FUP0796"
-    ],
-    "pre_requirements": [
-      "FUP0355"
-    ]
-  },
-  {
-    "cod": "FUP0325",
-    "nome": "EXPERIMENTOS DE QU\u00cdMICA PARA O ENSINO M\u00c9DIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1032"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0157",
-    "nome": "EXPRESS\u00d5ES EST\u00c9TICA E CULTURA POL\u00cdTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0903"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0275",
-    "nome": "EXTENS\u00c3O RURAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0994"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0501",
-    "nome": "EXTENS\u00c3O RURAL NO AGRONEG\u00d3CIO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0641"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0375",
-    "nome": "FILOSOFIA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0736"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0400",
-    "nome": "FILOSOFIA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1093"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0429",
-    "nome": "FILOSOFIA 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0744"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0466",
-    "nome": "FILOSOFIA 4",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1149"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0468",
-    "nome": "FILOSOFIA 5",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1150"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0299",
-    "nome": "FILOSOFIA E SOCIOLOGIA DA EDUCA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0323"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0183",
-    "nome": "FLUXO DE ENERGIA E CICLOS BIOGEOQU\u00cdMICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0575"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0227",
-    "nome": "FON\u00c9TICA, FONOLOGIA E MORFOLOGIA DO PORTUGU\u00caS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0630"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0052",
-    "nome": "FUNDAMENTOS B\u00c1SICOS DAS ARTES PL\u00c1STICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0825"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0436",
-    "nome": "FUNDAMENTOS DA ABORDAGEM ECOSSISTEMICA A SA\u00daDE HUMANA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0748"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0506",
-    "nome": "FUNDAMENTOS DA L\u00cdNGU\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1183"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0360",
-    "nome": "FUNDAMENTOS DAS CI\u00caNCIAS DA NATUREZA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0244"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0415",
-    "nome": "FUNDAMENTOS DE QU\u00cdMICA ANAL\u00cdTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1107"
-    ],
-    "pre_requirements": [
-      "FUP0313"
-    ]
-  },
-  {
-    "cod": "FUP0014",
-    "nome": "FUNDAMENTOS E ESTRAT\u00c9GIAS NO ENSINO DE CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0797"
-    ],
-    "pre_requirements": [
-      "FUP0286"
-    ]
-  },
-  {
-    "cod": "FUP0004",
-    "nome": "FUNDAMENTOS EM CI\u00caNCIAS E MICROBIOLOGIA DOS ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0787"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0200",
-    "nome": "FUNDAMENTOS EM ECOLOGIA DE POPULA\u00c7\u00d5ES E COMUNIDADES",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0523"
-    ],
-    "pre_requirements": [
-      "FUP0265",
-      "FUP0528",
-      "FUP0328"
-    ]
-  },
-  {
-    "cod": "FUP0247",
-    "nome": "FUNDAMENTOS QU\u00cdMICA INORG\u00c2NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0577"
-    ],
-    "pre_requirements": [
-      "FUP0313"
-    ]
-  },
-  {
-    "cod": "FUP0199",
-    "nome": "GEN\u00c9TICA E EVOLU\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0576"
-    ],
-    "pre_requirements": [
-      "FUP0528",
-      "FUP0328"
-    ]
-  },
-  {
-    "cod": "FUP0115",
-    "nome": "GEN\u00c9TICA E MELHORAMENTO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0865"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0117",
-    "nome": "GEOCI\u00caNCIAS E MEIO AMBIENTE",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0867"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0088",
-    "nome": "GEOCI\u00caNCIAS PARA EDUCA\u00c7\u00c3O DO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0848"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0060",
-    "nome": "GEOMETRIA E A VIDA NO CAMPO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0829"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0065",
-    "nome": "GEOMETRIA E A VIDA NO CAMPO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0612"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0511",
-    "nome": "GEOMETRIA, \u00d3TICA E A PERCEP\u00c7\u00c3O DO ESPA\u00c7O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1186"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0444",
-    "nome": "GEOMORFOLOGIA TROPICAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1130"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0556",
-    "nome": "GEOPOL\u00cdTICA, MEIO AMBIENTE E RELA\u00c7\u00d5ES INTERNACIONAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0780"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0520",
-    "nome": "GEOPROCESSAMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0755"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0411",
-    "nome": "GEST\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0002"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0525",
-    "nome": "GEST\u00c3O AMBIENTAL EMPRESARIAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0760"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0535",
-    "nome": "GEST\u00c3O AMBIENTAL URBANA E REGIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0766"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0564",
-    "nome": "GEST\u00c3O DA BIODIVERSIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1235"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0369",
-    "nome": "GEST\u00c3O DA CADEIA DE SUPRIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0733"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0370",
-    "nome": "GEST\u00c3O DA EMPRESA RURAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0734"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0334",
-    "nome": "GEST\u00c3O DA QUALIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0345"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0388",
-    "nome": "GEST\u00c3O DA UNIDADE FAMILIAR DE PRODU\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1086"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0412",
-    "nome": "GEST\u00c3O DE COOPERATIVAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0597"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0548",
-    "nome": "GEST\u00c3O DE EFLUENTES L\u00cdQUIDOS E \u00c1GUAS RESIDUAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0775"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0446",
-    "nome": "GEST\u00c3O DE NEG\u00d3CIOS INTERNACIONAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0752"
-    ],
-    "pre_requirements": [
-      "FUP0280 & FUP0307",
-      "ECO0019 & FUP0307"
-    ]
-  },
-  {
-    "cod": "FUP0335",
-    "nome": "GEST\u00c3O DE PESSOAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0719"
-    ],
-    "pre_requirements": [
-      "FUP0281"
-    ]
-  },
-  {
-    "cod": "FUP0526",
-    "nome": "GEST\u00c3O E INOVA\u00c7\u00c3O TECNOL\u00d3GICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0761"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0517",
-    "nome": "GRANDES TEMAS AMBIENTAIS DO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1189"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0204",
-    "nome": "GRANDES TEMAS AMBIENTAIS MUNDIAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0936"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0233",
-    "nome": "HIDRODIN\u00c2MICA E TERMODIN\u00c2MICA E A VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0957"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0260",
-    "nome": "HIDROLOGIA APLICADA A GEST\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "GEA0095"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0259",
-    "nome": "HIST\u00d3RIA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0687"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0043",
-    "nome": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0650"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0126",
-    "nome": "HIST\u00d3RIA DOS MOVIMENTOS SOCIAIS NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0874"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0359",
-    "nome": "HIST\u00d3RIA E FILOSOFIA DA CI\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1065"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0285",
-    "nome": "HIST\u00d3RIA E FILOSOFIA DA CI\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0323"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0420",
-    "nome": "HIST\u00d3RIA E FILOSOFIA DA F\u00cdSICA E DA MATEM\u00c1TICA",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1110"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0058",
-    "nome": "HIST\u00d3RIA E FILOSOFIA DAS CI\u00caNCIAS DA NATUREZA E DA MATEM\u00c1TICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0828"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0069",
-    "nome": "HIST\u00d3RIA E FILOSOFIA DAS CI\u00caNCIAS DA NATUREZA E DA MATEM\u00c1TICA 2",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0651"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0039",
-    "nome": "HUMANIDADE, CI\u00caNCIA E TECNOLOGIA",
-    "ch": 360,
-    "post_requirements": [
-      "FUP0816"
-    ],
-    "pre_requirements": [
-      "FUP0034"
-    ]
-  },
-  {
-    "cod": "FUP0278",
-    "nome": "INICIA\u00c7\u00c3O A FORMA\u00c7\u00c3O UNIVERSIT\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0997"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0343",
-    "nome": "INOVA\u00c7\u00c3O TECNOL\u00d3GICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0723"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0453",
-    "nome": "INSER\u00c7\u00c3O COMUNIT\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1139"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0549",
-    "nome": "INSTRUMENTOS DE AVALIA\u00c7\u00c3O DE IMPACTO AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0776"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0288",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 ESTAT\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0701"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0084",
-    "nome": "INTRODU\u00c7\u00c3O A LINGUAGEM AUDIOVISUAL",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0846"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0277",
-    "nome": "INTRODU\u00c7\u00c3O AO AGRONEG\u00d3CIO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0292"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0348",
-    "nome": "INTRODU\u00c7\u00c3O AO C\u00c1LCULO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0592"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0356",
-    "nome": "INTRODU\u00c7\u00c3O AO CURSO DE GEST\u00c3O AMBIENTAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1062"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0394",
-    "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DA \u00c1REA DE CI\u00caNCIAS HUMANAS E SOCIAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1090"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0090",
-    "nome": "INTRODU\u00c7\u00c3O AO PENSAMENTO MATEM\u00c1TICO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0849"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0256",
-    "nome": "INTRODU\u00c7\u00c3O A PALEONTOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0979"
-    ],
-    "pre_requirements": [
-      "FUP0326",
-      "IGD0021",
-      "IGD0167"
-    ]
-  },
-  {
-    "cod": "FUP0443",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 SA\u00daDE P\u00daBLICA E AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0257"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0263",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0S CI\u00caNCIAS SOCIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0440"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0568",
-    "nome": "INTRODU\u00c7\u00c3O AS PR\u00c1TICAS E A PESQUISA DO GESTOR DO AGRONEG\u00d3CIO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0569"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0094",
-    "nome": "INTRODU\u00c7\u00c3O GEOMETRIA ANAL\u00cdTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0654"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0156",
-    "nome": "LABORAT\u00d3RIO DE DIRE\u00c7\u00c3O E INTERPRETA\u00c7\u00c3O TEATRAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0902"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0158",
-    "nome": "LABORAT\u00d3RIO DE DRAMATURGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0904"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0538",
-    "nome": "LABORAT\u00d3RIO DE F\u00cdSICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1210"
-    ],
-    "pre_requirements": [
-      "FUP0351"
-    ]
-  },
-  {
-    "cod": "FUP0015",
-    "nome": "LABORAT\u00d3RIO DE MICROSCOPIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0798"
-    ],
-    "pre_requirements": [
-      "FUP0355"
-    ]
-  },
-  {
-    "cod": "FUP0246",
-    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0969"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0016",
-    "nome": "LABORAT\u00d3RIO DE QU\u00cdMICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0799"
-    ],
-    "pre_requirements": [
-      "FUP0313"
-    ]
-  },
-  {
-    "cod": "FUP0044",
-    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0611"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0050",
-    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO 2",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0824"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0076",
-    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO 3",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0617"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0080",
-    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO 4",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0843"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0107",
-    "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO 5",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0858"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0063",
-    "nome": "LETRAMENTO CIENT\u00cdFICO E DIGITAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0831"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0129",
-    "nome": "L\u00cdNGUA BRASILEIRA DE SINAIS 1",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0657"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0144",
-    "nome": "L\u00cdNGUA BRASILEIRA DE SINAIS 2 LIBRAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0661"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0142",
-    "nome": "LITERATURA COMO FORMA\u00c7\u00c3O: FUNDAMENTOS HIST\u00d3RICO ONTOL\u00d3GICO E EST\u00c9TICO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0888"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0119",
-    "nome": "LITERATURA MUNDIAL ENTRE O CENTRO E A PERIFERIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0868"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0351",
-    "nome": "LUZ E SOM",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0538"
-    ],
-    "pre_requirements": [
-      "FUP0316 & FUP0321"
-    ]
-  },
-  {
-    "cod": "FUP0103",
-    "nome": "LUZ, ONDAS E A VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0856"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0245",
-    "nome": "MAPEAMENTO AMBIENTAL",
-    "ch": 120,
-    "post_requirements": [
-      "FUP0968"
-    ],
-    "pre_requirements": [
-      "FUP0302"
-    ]
-  },
-  {
-    "cod": "FUP0437",
-    "nome": "MAPEAMENTO ECOL\u00d3GICO EM UNIDADES DE CONSERVA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1124"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0308",
-    "nome": "MARKETING NO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0413"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0054",
-    "nome": "MATEM\u00c1TICA B\u00c1SICA E APLICA\u00c7\u00d5ES NA VIDA DO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0826"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0145",
-    "nome": "MATEM\u00c1TICA CONTEMPOR\u00c2NEA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0627"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0045",
-    "nome": "MATEM\u00c1TICA E SOCIEDADE",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0821"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0276",
-    "nome": "MATEM\u00c1TICA PARA AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0310"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0304",
-    "nome": "MATEM\u00c1TICA PARA CI\u00caNCIAS NATURAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1015"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0407",
-    "nome": "MEC\u00c2NICA APLICADA AS CI\u00caNCIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0740"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0513",
-    "nome": "MEC\u00c2NICA E VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1187"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0393",
-    "nome": "MEDIA\u00c7\u00d5ES ENTRE FORMA SOCIAL E EST\u00c9TICA",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1089"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0361",
-    "nome": "MEIO AMBIENTE E CIDADANIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1067"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0565",
-    "nome": "MEIO AMBIENTE E DIREITOS HUMANOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1236"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0272",
-    "nome": "MERCADOS FUTUROS E DE OP\u00c7\u00d5ES AGROPECU\u00c1RIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0992"
-    ],
-    "pre_requirements": [
-      "FUP0282"
-    ]
-  },
-  {
-    "cod": "FUP0262",
-    "nome": "METODOLOGIA DA PESQUISA CIENT\u00cdFICA E ELABORA\u00c7\u00c3O DE PROJETOS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0553"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0323",
-    "nome": "METODOLOGIA DA PESQUISA EM EDUCA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0352"
-    ],
-    "pre_requirements": [
-      "FUP0285",
-      "FUP0299"
-    ]
-  },
-  {
-    "cod": "FUP0311",
-    "nome": "METODOLOGIA DE PESQUISA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0354"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0194",
-    "nome": "METODOLOGIAS CULTURAIS 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0929"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0177",
-    "nome": "METODOLOGIAS CULTURAIS: ARTES PL\u00c1STICAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0918"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0231",
-    "nome": "METODOLOGIAS CULTURAIS DE TRABALHO EM EDUCA\u00c7\u00c3O 1 : TEATRO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0956"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0271",
-    "nome": "M\u00c9TODOS DE APOIO A DECIS\u00c3O EM AGRONEG\u00d3CIO E LOG\u00cdSTICA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0991"
-    ],
-    "pre_requirements": [
-      "FUP0336"
-    ]
-  },
-  {
-    "cod": "FUP0494",
-    "nome": "M\u00c9TODOS DE ORGANIZA\u00c7\u00c3O E EDUCA\u00c7\u00c3O COMUNIT\u00c1RIA  1",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1174"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0495",
-    "nome": "M\u00c9TODOS DE ORGANIZA\u00c7\u00c3O E EDUCA\u00c7\u00c3O COMUNIT\u00c1RIA 2",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1175"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0496",
-    "nome": "M\u00c9TODOS DE ORGANIZA\u00c7\u00c3O E EDUCA\u00c7\u00c3O COMUNIT\u00c1RIA 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1176"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0337",
-    "nome": "METODOS QUALITATIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1044"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0554",
-    "nome": "MICROBIOLOGIA APLICADA \u00c0 PRODU\u00c7\u00c3O VEGETAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1225"
-    ],
-    "pre_requirements": [
-      "FUP0292"
-    ]
-  },
-  {
-    "cod": "FUP0137",
-    "nome": "MODELAGEM MATEM\u00c1TICA E A VIDA NO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0626"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0255",
-    "nome": "MORFOFISIOLOGIA COMPARADA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0978"
-    ],
-    "pre_requirements": [
-      "FUP0328",
-      "FUP0528"
-    ]
-  },
-  {
-    "cod": "FUP0081",
-    "nome": "MORFOSSINTAXE",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0844"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0321",
-    "nome": "NATUREZA E ENERGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0714"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0368",
-    "nome": "NOVA ECONOMIA INSTITUCIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0732"
-    ],
-    "pre_requirements": [
-      "FUP0295"
-    ]
-  },
-  {
-    "cod": "FUP0083",
-    "nome": "OFICINA B\u00c1SICA DE ARTES C\u00caNICAS OBAC",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0653"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0455",
-    "nome": "OFICINAS DE INFORM\u00c1TICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1141"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0456",
-    "nome": "OFICINAS DE INFORM\u00c1TICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1142"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0454",
-    "nome": "OFICINAS DE LEITURA E PRODU\u00c7\u00c3O DE TEXTO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1140"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0237",
-    "nome": "O ORGANISMO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0960"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0485",
-    "nome": "O PAPEL DO CAMPO NO ATUAL NO CONTEXTO DO CAPITALISMO MUNDIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1166"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0524",
-    "nome": "ORGANIZA\u00c7\u00c3O E M\u00c9TODOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0759"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0493",
-    "nome": "ORGANIZA\u00c7\u00c3O ESCOLAR E M\u00c9TODO DE TRABALHO PEDAG\u00d3GICO 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1173"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0390",
-    "nome": "ORGANIZA\u00c7\u00c3O ESCOLAR E M\u00c9TODO DO TRABALHO PEDAG\u00d3GICO 1",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0638"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0427",
-    "nome": "ORGANIZA\u00c7\u00c3O ESCOLAR E M\u00c9TODO DO TRABALHO PEDAG\u00d3GICO 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0640"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0486",
-    "nome": "OS SUJEITOS E A ESFERA DA PRODU\u00c7\u00c3O: PRINCIPAIS CONCEITOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1167"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0216",
-    "nome": "OUTRAS FORMAS DE ATIVIDADE: ACESSO A PRODU\u00c7\u00d5ES CULTURAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0945"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0205",
-    "nome": "OUTRAS FORMAS DE ATIVIDADE: ESPANHOL INSTRUMENTAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0937"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0500",
-    "nome": "OUTRAS FORMAS DE ATIVIDADE: OFICINA DE LEITURA E PRODU\u00c7\u00c3O DE TEXTOS 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1179"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0223",
-    "nome": "OUTRAS FORMAS DE ATIVIDADE : OFICINA DE LEITURA E PRODU\u00c7\u00c3O DE TEXTOS 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0951"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0171",
-    "nome": "OUTRAS FORMAS DE ATIVIDADES ESPANHOL INSTRUMENTAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0915"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0387",
-    "nome": "OUTRAS FORMAS DE ATIVIDADES: INSER\u00c7\u00c3O COMUNIT\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1085"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0405",
-    "nome": "OUTRAS FORMAS DE ATIVIDADES: OFICINA INFORM\u00c1TICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1097"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0432",
-    "nome": "OUTRAS FORMAS DE ATIVIDADES: OFICINA INFORM\u00c1TICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1120"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0110",
-    "nome": "PEDAGOGIA DO TEATRO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0618"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0261",
-    "nome": "PEDOLOGIA E EDAFOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0689"
-    ],
-    "pre_requirements": [
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "FUP0566",
-    "nome": "PERMACULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1237"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0395",
-    "nome": "PESQUISA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1091"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0421",
-    "nome": "PESQUISA 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1111"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0469",
-    "nome": "PESQUISA 4",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1151"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0470",
-    "nome": "PESQUISA 5",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1152"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0413",
-    "nome": "PESQUISA DE MERCADO E COMPORTAMENTO DO CONSUMIDOR",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0639"
-    ],
-    "pre_requirements": [
-      "FUP0308"
-    ]
-  },
-  {
-    "cod": "FUP0312",
-    "nome": "PESQUISA E EXTENS\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0585"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0384",
-    "nome": "PESQUISA E MEM\u00d3RIA 1",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0637"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0062",
-    "nome": "PESQUISA E MEM\u00d3RIA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0571"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0075",
-    "nome": "PESQUISA E MEM\u00d3RIA 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0616"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0096",
-    "nome": "PESQUISA E MEM\u00d3RIA 4",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0852"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0108",
-    "nome": "PESQUISA E MEM\u00d3RIA 5",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0573"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0336",
-    "nome": "PESQUISA OPERACIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0271"
-    ],
-    "pre_requirements": [
-      "FUP0310"
-    ]
-  },
-  {
-    "cod": "FUP0522",
-    "nome": "PLANEJAMENTO AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0757"
-    ],
-    "pre_requirements": [
-      "ADM0023"
-    ]
-  },
-  {
-    "cod": "FUP0530",
-    "nome": "PLANEJAMENTO E GEST\u00c3O DE RECURSOS H\u00cdDRICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0601"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0342",
-    "nome": "PLANEJAMENTO ESTRAT\u00c9GICO E EMPRESARIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0589"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0264",
-    "nome": "PLANEJAMENTO GEST\u00c3O E SINALIZA\u00c7\u00c3O DE TRILHAS INTERPRETATIVAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0986"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0379",
-    "nome": "POLITICA EDUCACIONAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0737"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0163",
-    "nome": "POL\u00cdTICA EDUCACIONAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0909"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0207",
-    "nome": "POL\u00cdTICA EDUCACIONAL 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0939"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0532",
-    "nome": "POL\u00cdTICA E GEST\u00c3O AMBIENTAL EM TERRAS IND\u00cdGENAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0642"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0555",
-    "nome": "POL\u00cdTICA E GEST\u00c3O DE RES\u00cdDUOS URBANOS E RECICLAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0779"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0557",
-    "nome": "POL\u00cdTICA E GEST\u00c3O DE UNIDADES DE CONSERVA\u00c7\u00c3O E \u00c1REAS PROTEGIDAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0643"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0550",
-    "nome": "POL\u00cdTICA E GEST\u00c3O EM ECOTURISMO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1222"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0518",
-    "nome": "POL\u00cdTICA INTERNACIONAL DESENVOLVIMENTO E AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1190"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0127",
-    "nome": "POL\u00cdTICAS AGR\u00cdCOLAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0621"
-    ],
-    "pre_requirements": [
-      "FUP0279"
-    ]
-  },
-  {
-    "cod": "FUP0558",
-    "nome": "POLUI\u00c7\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0644"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0352",
-    "nome": "PR\u00c1TICA EM ENSINO DE CI\u00caNCIAS 1",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0406"
-    ],
-    "pre_requirements": [
-      "FUP0323",
-      "FUP0330"
-    ]
-  },
-  {
-    "cod": "FUP0406",
-    "nome": "PR\u00c1TICA EM ENSINO DE CI\u00caNCIAS 2",
-    "ch": 105,
-    "post_requirements": [
-      "FUP0243"
-    ],
-    "pre_requirements": [
-      "FUP0352",
-      "FUP0537"
-    ]
-  },
-  {
-    "cod": "FUP0364",
-    "nome": "PR\u00c1TICA EM ENSINO DE CI\u00caNCIAS 3",
-    "ch": 105,
-    "post_requirements": [
-      "FUP1070"
-    ],
-    "pre_requirements": [
-      "FUP0541",
-      "FUP0406",
-      "FUP0330 & FUP0323"
-    ]
-  },
-  {
-    "cod": "FUP0243",
-    "nome": "PR\u00c1TICA EM ENSINO DE CI\u00caNCIAS 4",
-    "ch": 90,
-    "post_requirements": [
-      "FUP0966"
-    ],
-    "pre_requirements": [
-      "FUP0541",
-      "FUP0406"
-    ]
-  },
-  {
-    "cod": "FUP0222",
-    "nome": "PR\u00c1TICA PEDAG\u00d3GICA 5",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0950"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0040",
-    "nome": "PR\u00c1TICAS DE CAMPO EM BOT\u00c2NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0817"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0386",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0739"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0403",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1095"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0417",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 3",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0743"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0499",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 4",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0754"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0167",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 6",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0665"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0187",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 7",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0668"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0212",
-    "nome": "PR\u00c1TICAS PEDAG\u00d3GICAS 8",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0676"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0487",
-    "nome": "PRINCIPAIS PROBLEMAS SOCIOAMBIENTAIA DA ATUALIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1168"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0539",
-    "nome": "PRINC\u00cdPIOS DE SISTEM\u00c1TICA FILOGEN\u00c9TICA E BIOGEOGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1211"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0136",
-    "nome": "PROBABILIDADE E AN\u00c1LISE COMBINAT\u00d3RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0625"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0132",
-    "nome": "PROCESSO EXPERIMENTAL EM TEATRO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0623"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0146",
-    "nome": "PROCESSO EXPERIMENTAL EM TEATRO 2",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0892"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0303",
-    "nome": "PROJETO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0331"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0331",
-    "nome": "PROJETO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1038"
-    ],
-    "pre_requirements": [
-      "FUP0303"
-    ]
-  },
-  {
-    "cod": "FUP0497",
-    "nome": "PROJETO DE DESENVOLVIMENTO DO CAMPO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1177"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0122",
-    "nome": "PROJETO EXPERIMENTAL EM AUDIOVISUAL 1",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0871"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0133",
-    "nome": "PROJETO EXPERIMENTAL EM AUDIOVISUAL: PRODU\u00c7\u00c3O E FINALIZA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0881"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0047",
-    "nome": "PROMO\u00c7\u00c3O DA SA\u00daDE",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0822"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0462",
-    "nome": "QUEST\u00c3O AGR\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1146"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0438",
-    "nome": "QU\u00cdMICA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0749"
-    ],
-    "pre_requirements": [
-      "FUP0360",
-      "FUP0313"
-    ]
-  },
-  {
-    "cod": "FUP0244",
-    "nome": "QU\u00cdMICA E AN\u00c1LISE DO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0684"
-    ],
-    "pre_requirements": [
-      "FUP0362",
-      "FUP0360"
-    ]
-  },
-  {
-    "cod": "FUP0313",
-    "nome": "QU\u00cdMICA E TECNOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0016"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0248",
-    "nome": "QU\u00cdMICA MODERNA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0971"
-    ],
-    "pre_requirements": [
-      "FUP0362 & MAT0025 & FUP0351"
-    ]
-  },
-  {
-    "cod": "FUP0100",
-    "nome": "QU\u00cdMICA TERRA E AMBIENTE",
-    "ch": 75,
-    "post_requirements": [
-      "FUP0854"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0463",
-    "nome": "REALIDADE BRASILEIRA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1147"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0206",
-    "nome": "REALIDADE BRASILEIRA 2",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0938"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0464",
-    "nome": "REALIDADE BRASILEIRA 2",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1148"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0533",
-    "nome": "RECUPERA\u00c7\u00c3O \u00c1REAS DEGRADADAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1205"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0332",
-    "nome": "RECURSOS DID\u00c1TICOS PARA O ENSINO DE CI\u00caNCIAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0717"
-    ],
-    "pre_requirements": [
-      "FUP0286"
-    ]
-  },
-  {
-    "cod": "FUP0344",
-    "nome": "REGULA\u00c7\u00c3O E POL\u00cdTICAS P\u00daBLICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0590"
-    ],
-    "pre_requirements": [
-      "FUP0280",
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "FUP0488",
-    "nome": "RELA\u00c7\u00d5ES SOCIAIS NA ESFERA DA PRODU\u00c7\u00c3O E CENTRALIDADE NO TRABALHO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1169"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0489",
-    "nome": "REPRESENTA\u00c7\u00d5ES DO CAMPO NA SOCIEDADE BRASILEIRA",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1170"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0320",
-    "nome": "SA\u00daDE E AMBIENTE 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0006"
-    ],
-    "pre_requirements": [
-      "FUP0355"
-    ]
-  },
-  {
-    "cod": "FUP0327",
-    "nome": "SA\u00daDE E AMBIENTE 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1034"
-    ],
-    "pre_requirements": [
-      "FUP0320"
-    ]
-  },
-  {
-    "cod": "FUP0401",
-    "nome": "SA\u00daDE, SEXUALIDADE E REPRODU\u00c7\u00c3O",
-    "ch": 45,
-    "post_requirements": [
-      "FUP1094"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0120",
-    "nome": "SEM\u00c2NTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0620"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0341",
-    "nome": "SEMIN\u00c1RIO EM AGRONEG\u00d3CIO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1047"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0418",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 1",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1109"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0170",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 2",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0914"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0447",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 2",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1133"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0448",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 3",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1134"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0217",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 3",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0946"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0215",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 4",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0944"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0449",
-    "nome": "SEMIN\u00c1RIO INTEGRADOR 4",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1135"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0354",
-    "nome": "SEMIN\u00c1RIOS EM CI\u00caNCIAS NATURAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1060"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0318",
-    "nome": "SERES VIVOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0328"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0328",
-    "nome": "SERES VIVOS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0199"
-    ],
-    "pre_requirements": [
-      "FUP0318"
-    ]
-  },
-  {
-    "cod": "FUP0218",
-    "nome": "SIMULA\u00c7\u00c3O EM ENSINO DE F\u00cdSICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0947"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0174",
-    "nome": "SINTAXE DA LINGUA PORTUGUESA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0916"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0345",
-    "nome": "SISTEMA DE INFORMA\u00c7\u00c3O E AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0591"
-    ],
-    "pre_requirements": [
-      "FUP0334"
-    ]
-  },
-  {
-    "cod": "FUP0349",
-    "nome": "SISTEMA EDUCACIONAL BRASILEIRO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0593"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0372",
-    "nome": "SISTEMAS AGROINDUSTRIAIS NO CENTRO-OESTE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0634"
-    ],
-    "pre_requirements": [
-      "FUP0295"
-    ]
-  },
-  {
-    "cod": "FUP0295",
-    "nome": "SISTEMAS AGROINDUTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0010"
-    ],
-    "pre_requirements": [
-      "FUP0277"
-    ]
-  },
-  {
-    "cod": "FUP0252",
-    "nome": "SISTEMAS COMPLEXOS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0975"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0309",
-    "nome": "SISTEMAS DE PRODU\u00c7\u00c3O DE MAT\u00c9RIAS-PRIMAS ANIMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0329",
-      "FUP0583"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0292",
-    "nome": "SISTEMAS DE PRODU\u00c7\u00c3O DE MAT\u00c9RIAS-PRIMAS VEGETAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0554"
-    ],
-    "pre_requirements": [
-      "FUP0277"
-    ]
-  },
-  {
-    "cod": "FUP0302",
-    "nome": "SISTEMAS ECOL\u00d3GICOS",
-    "ch": 120,
-    "post_requirements": [
-      "ECL0049"
-    ],
-    "pre_requirements": [
-      "FUP0528 & IGD0021",
-      "FUP0326"
-    ]
-  },
-  {
-    "cod": "FUP0490",
-    "nome": "SOCIEDADE BRASILEIRA: UM OLHAR APARTIR DO CAMPO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1171"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0358",
-    "nome": "SOCIEDADE E NATUREZA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0729"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0306",
-    "nome": "SOCIOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0708"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0441",
-    "nome": "SOCIOLOGIA DO AMBIENTALISMO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0751"
-    ],
-    "pre_requirements": [
-      "FUP0263"
-    ]
-  },
-  {
-    "cod": "FUP0382",
-    "nome": "SUJEITOS DO CAMPO",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1082"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0404",
-    "nome": "T\u00c9CNICAS DE LEITURA E INTERPRETA\u00c7\u00c3O DE TEXTOS",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1096"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0423",
-    "nome": "T\u00c9CNICAS E PRODU\u00c7\u00c3O DE TEXTOS",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1113"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0410",
-    "nome": "TECNOLOGIAS DE PRODUTOS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0595"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0240",
-    "nome": "TEORIA, CONCEITOS E METODOLOGIAS EM EDUCA\u00c7\u00c3O AMBIENTAL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0683"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0442",
-    "nome": "TEORIA DE SISTEMAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1128"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0435",
-    "nome": "TEORIA DO DESENVOLVIMENTO SUSTENT\u00c1VEL",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0747"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0068",
-    "nome": "TEORIA E HIST\u00d3RIA DAS ARTES PL\u00c1STICAS E VISUAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0572"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0121",
-    "nome": "TEORIA E HIST\u00d3RIA DO TEATRO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0574"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0377",
-    "nome": "TEORIA PEDAG\u00d3GICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0636"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0392",
-    "nome": "TEORIA PEDAG\u00d3GICA 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1088"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0431",
-    "nome": "TEORIA PEDAG\u00d3GICA 3",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0745"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0165",
-    "nome": "TEORIA PEDAG\u00d3GICA 4",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0910"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0461",
-    "nome": "TEORIA PEDAG\u00d3GICA 4",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1145"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0113",
-    "nome": "TEORIA PEDAG\u00d3GICA 5",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0864"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0131",
-    "nome": "TEORIA PEDAG\u00d3GICA 6",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0658"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0559",
-    "nome": "TEORIA POL\u00cdTICA MODERNA E SUSTENTABILIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1230"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0326",
-    "nome": "TERRA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0010"
-    ],
-    "pre_requirements": [
-      "FUP0302 & FUP0316"
-    ]
-  },
-  {
-    "cod": "FUP0540",
-    "nome": "TERRA, AGRICULTURA FAMILIAR E LITERATURA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0769"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0504",
-    "nome": "TERRITORIALIDADE NO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP1182"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0149",
-    "nome": "TEXTOS ACAD\u00caMICOS: ATIVIDADES DE LEITURA, ESCRITA E REESCRITA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0895"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0147",
-    "nome": "T\u00d3PICOS AMBIENTAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0893"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0339",
-    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM GEST\u00c3O DO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0721"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0026",
-    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM GEST\u00c3O DO AGRONEG\u00d3CIO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0607"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0028",
-    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM GEST\u00c3O DO AGRONEG\u00d3CIO 3",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0609"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0030",
-    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM GEST\u00c3O DO AGRONEG\u00d3CIO 4",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0648"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0191",
-    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM LINGU\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0670"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0148",
-    "nome": "T\u00d3PICOS EM ECOLINGU\u00cdSTICA",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0894"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0018",
-    "nome": "T\u00d3PICOS EM EDUCA\u00c7\u00c3O E DESENVOLVIMENTO HUMANO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0800"
-    ],
-    "pre_requirements": [
-      "FUP0314"
-    ]
-  },
-  {
-    "cod": "FUP0134",
-    "nome": "T\u00d3PICOS EM F\u00cdSICA MODERNA E CONTEMPOR\u00c2NEA",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0624"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0116",
-    "nome": "T\u00d3PICOS EM QU\u00cdMICA APLICADA E DO COTIDIANO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0619"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0135",
-    "nome": "T\u00d3PICOS EM QU\u00cdMICA APLICADA E DO COTIDIANO 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0883"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0003",
-    "nome": "T\u00d3PICOS ESPECIAIS EM BIOL\u00d3GIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0647"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0007",
-    "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS NATURAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0603"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0155",
-    "nome": "T\u00d3PICOS ESPECIAIS EM EDUCA\u00c7\u00c3O DO CAMPO",
-    "ch": 45,
-    "post_requirements": [
-      "FUP0628"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0220",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ENSINO DE F\u00cdSICA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0678"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0249",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GEOCI\u00caNCIAS",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0685"
-    ],
-    "pre_requirements": [
-      "FUP0326",
-      "FUP0302",
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "FUP0552",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GEST\u00c3O AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0777"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0219",
-    "nome": "TRABALHO DE CAMPO 1",
-    "ch": 120,
-    "post_requirements": [
-      "FUP0948"
-    ],
-    "pre_requirements": [
-      "FUP0265",
-      "FUP0328",
-      "FUP0528 & FUP0326",
-      "IGD0021"
-    ]
-  },
-  {
-    "cod": "FUP0250",
-    "nome": "TRABALHO DE CAMPO 2",
-    "ch": 120,
-    "post_requirements": [
-      "FUP0973"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0166",
-    "nome": "TRABALHO DE CONCLUS\u00c3O 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0664"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0185",
-    "nome": "TRABALHO DE CONCLUS\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0667"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0210",
-    "nome": "TRABALHO DE CONCLUS\u00c3O 3",
-    "ch": 15,
-    "post_requirements": [
-      "FUP0675"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0471",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP1153"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0408",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0473"
-    ],
-    "pre_requirements": [
-      "FUP0323",
-      "FUP0303"
-    ]
-  },
-  {
-    "cod": "FUP0473",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0753"
-    ],
-    "pre_requirements": [
-      "FUP0408"
-    ]
-  },
-  {
-    "cod": "FUP0474",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 3",
-    "ch": 15,
-    "post_requirements": [
-      "FUP1155"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0242",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM CI\u00caNCIAS NATURAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0965"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0553",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM GEST\u00c3O AMBIENTAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0560"
-    ],
-    "pre_requirements": [
-      "FUP0262"
-    ]
-  },
-  {
-    "cod": "FUP0560",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM GEST\u00c3O AMBIENTAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "FUP0781"
-    ],
-    "pre_requirements": [
-      "FUP0553"
-    ]
-  },
-  {
-    "cod": "FUP0031",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0038"
-    ],
-    "pre_requirements": [
-      "FUP0021"
-    ]
-  },
-  {
-    "cod": "FUP0038",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0815"
-    ],
-    "pre_requirements": [
-      "FUP0031"
-    ]
-  },
-  {
-    "cod": "FUP0414",
-    "nome": "TRANSPORTE E LOG\u00cdSTICA AGROINDUSTRIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0239"
-    ],
-    "pre_requirements": [
-      "FUP0336"
-    ]
-  },
-  {
-    "cod": "FUP0139",
-    "nome": "UNIVERSIDADE, SOCIEDADE E DEMOCRACIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0887"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0316",
-    "nome": "UNIVERSO",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0712"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0268",
-    "nome": "USO DO PROGRAMA R COM APLICA\u00c7\u00d5ES AMBIENTAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0989"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FUP0034",
-    "nome": "VIDA E BIOSFERA",
-    "ch": 300,
-    "post_requirements": [
-      "FUP0039"
-    ],
-    "pre_requirements": [
-      "FUP0021"
-    ]
-  },
-  {
-    "cod": "FUP0528",
-    "nome": "ZOOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FUP0199"
-    ],
-    "pre_requirements": [
-      "FUP0355"
-    ]
-  }
+   {
+      "codigo": "FUP0006",
+      "nome": "ABORDAGEM DO CORPO HUMANO NO ENSINO DE CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0789"
+      ],
+      "pre_requisitos": [
+         "FUP0320"
+      ]
+   },
+   {
+      "codigo": "FUP0160",
+      "nome": "AÇÃO COLETIVA E FORMAÇÃO DE GRUPOS DE INTERESSE NO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0662"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0450",
+      "nome": "ACESSO A PRODUÇÕES CULTURAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0281",
+      "nome": "ADMINISTRAÇÃO APLICADA AO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0335",
+         "FUP0697"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0282",
+      "nome": "ADMINISTRAÇÃO FINANCEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0272",
+         "FUP0346",
+         "FUP0698"
+      ],
+      "pre_requisitos": [
+         "FUP0310",
+         "EST0019"
+      ]
+   },
+   {
+      "codigo": "FUP0521",
+      "nome": "ADMINISTRAÇÃO PÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0756"
+      ],
+      "pre_requisitos": [
+         "ADM0023"
+      ]
+   },
+   {
+      "codigo": "FUP0162",
+      "nome": "ADOLESCÊNCIA NA ESCOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0908"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0475",
+      "nome": "A FORMAÇÃO DA IDENTIDADE HUMANA E A ORGANIZAÇÃO DA SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1156"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0545",
+      "nome": "AGRICULTURA E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0602"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0291",
+      "nome": "AGRICULTURA FAMILIAR E POLÍTICAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0703"
+      ],
+      "pre_requisitos": [
+         "FUP0279"
+      ]
+   },
+   {
+      "codigo": "FUP0153",
+      "nome": "AGROBIODIVERSIDADE E SEGURANÇA ALIMENTAR E NUTRICIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0899"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0161",
+      "nome": "AGROECOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0663"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0154",
+      "nome": "AGROECOLOGIA E ESCOLA DO CAMPO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0900"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0340",
+      "nome": "AGRONEGÓCIO E DESENVOLVIMENTO REGIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0722"
+      ],
+      "pre_requisitos": [
+         "FUP0277"
+      ]
+   },
+   {
+      "codigo": "FUP0373",
+      "nome": "AGRONEGÓCIO E DESENVOLVIMENTO REGIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0735"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0124",
+      "nome": "ÁLGEBRA ELEMENTAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0872"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0253",
+      "nome": "ALIMENTAÇÃO E NUTRIÇÃO NA ESCOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0976"
+      ],
+      "pre_requisitos": [
+         "FUP0320"
+      ]
+   },
+   {
+      "codigo": "FUP0477",
+      "nome": "ALTERNATIVA DE DESENVOLVIMENTO A PARTIR DO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1158"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0478",
+      "nome": "ALTERNATIVAS DIDÁTICAS PARA A DOCÊNCIA EM CIÊNCIAS HUMANAS E SOCIAIS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0481",
+      "nome": "ALTERNATIVAS DIDÁTICAS PARA A DOCÊNCIA EM CIÊNCIAS HUMANAS E SOCIAIS 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1162"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0479",
+      "nome": "ALTERNATIVAS DIDÁTICAS PARA DOCÊNCIA EM CIÊNCIAS HUMANAS E SOCIAIS  2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1160"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0071",
+      "nome": "AMBIENTES INFORMATIZADOS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0614"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0346",
+      "nome": "ANÁLISE DE DECISÕES E ADMINISTRAÇÃO DE RISCOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0724"
+      ],
+      "pre_requisitos": [
+         "FUP0282"
+      ]
+   },
+   {
+      "codigo": "FUP0101",
+      "nome": "ANATOMIA E FISIOLOGIA HUMANA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0855"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0001",
+      "nome": "ANATOMIA E FISIOLOGIA VEGETAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0646"
+      ],
+      "pre_requisitos": [
+         "FUP0355"
+      ]
+   },
+   {
+      "codigo": "FUP0241",
+      "nome": "ANTROPOLOGIA ECOLÓGICA, ETNOCONSERVACIONISMO E GESTÃO DOS BENS COMUNS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0964"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0476",
+      "nome": "A PRODUÇÃO REPRODUÇÃO SOCIAL DA CULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1157"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0056",
+      "nome": "ARITMÉTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0827"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0073",
+      "nome": "ARITMÉTICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0615"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0510",
+      "nome": "ARTE E SOCIEDADE 1: TEATRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1185"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0230",
+      "nome": "ARTE E SOCIEDADE 2 : TEATRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0955"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0178",
+      "nome": "ARTES E SOCIEDADE 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0919"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0196",
+      "nome": "ARTES E SOCIEDADE 4 MÚSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0930"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0109",
+      "nome": "AUDIOVISUAL ESTÉTICA POLÍTICA E EDUCAÇÃO",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0860"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0561",
+      "nome": "AUDITORIA, PERÍCIA E CERTIFICAÇÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0314",
+      "nome": "BASES PSICOLÓGICAS PARA O ENSINO DE CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0008",
+         "FUP0018",
+         "FUP0286",
+         "FUP0586"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0409",
+      "nome": "BIODIVERSIDADE BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1101"
+      ],
+      "pre_requisitos": [
+         "FUP0528",
+         "FUP0328",
+         "FUP0265"
+      ]
+   },
+   {
+      "codigo": "FUP0265",
+      "nome": "BIOLOGIA GERAL APLICADA A GESTÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0200",
+         "FUP0219",
+         "FUP0409",
+         "FUP0692"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0066",
+      "nome": "BIOLOGIA GERAL: CITOLOGIA E HISTOLOGIA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0613"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0009",
+      "nome": "BIOLOGIA MOLECULAR E BIOTECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0792"
+      ],
+      "pre_requisitos": [
+         "FUP0355 & FUP0199"
+      ]
+   },
+   {
+      "codigo": "FUP0086",
+      "nome": "BIOLOGIA VEGETAL E ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0847"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0544",
+      "nome": "BIOQUÍMICA E ELEMENTOS DE FARMACOQUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1216"
+      ],
+      "pre_requisitos": [
+         "FUP0329"
+      ]
+   },
+   {
+      "codigo": "FUP0527",
+      "nome": "BOTÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0251",
+         "FUP0347",
+         "FUP0762"
+      ],
+      "pre_requisitos": [
+         "FUP0528"
+      ]
+   },
+   {
+      "codigo": "FUP0347",
+      "nome": "BOTÂNICA DE CAMPO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1053"
+      ],
+      "pre_requisitos": [
+         "FUP0527"
+      ]
+   },
+   {
+      "codigo": "FUP0251",
+      "nome": "BOTÂNICA DE CAMPO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0974"
+      ],
+      "pre_requisitos": [
+         "FUP0527"
+      ]
+   },
+   {
+      "codigo": "FUP0179",
+      "nome": "CÁLCULO DIFERENCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0920"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0203",
+      "nome": "CÁLCULO DIFERENCIAL E VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0673"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0202",
+      "nome": "CÁLCULO INTEGRAL E A VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0672"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0035",
+      "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0812"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0239",
+      "nome": "CANAIS DE DISTRIBUIÇÃO DE ALIMENTOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0682"
+      ],
+      "pre_requisitos": [
+         "FUP0414",
+         "ADM0061"
+      ]
+   },
+   {
+      "codigo": "FUP0041",
+      "nome": "CEBEP 1 - CONFLITOS ESTRUTURAIS BRASILEIROS E EDUCAÇÃO POPULAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0649"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0049",
+      "nome": "CEBEP 2 - FORMAÇÃO NACIONAL E IDENTID CAMPONESA INDÍGENA E QUILOMBOLA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0823"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0077",
+      "nome": "CEBEP 3: RAÇA, GÊNERO E GERAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0652"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0079",
+      "nome": "CEBEP 4 - QUESTÃO SOCIAL E QUESTÃO AGRÁRIA NO BRASIL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0842"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0106",
+      "nome": "CEBEP 5: DIVERSIDADE GERACIONAL NO CAMPO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0655"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0111",
+      "nome": "CEBEP 6: SOBERANIA, SEGURANÇA ALIMENTAR E NUTRICIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0862"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0130",
+      "nome": "CEBEP: TÓPICOS ESPECIAIS",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0622"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0355",
+      "nome": "CÉLULA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0001",
+         "FUP0013",
+         "FUP0015",
+         "FUP0320",
+         "FUP0528",
+         "FUP0728"
+      ],
+      "pre_requisitos": [
+         "FUP0329"
+      ]
+   },
+   {
+      "codigo": "FUP0283",
+      "nome": "CIÊNCIA E TECNOLOGIA",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FUP1002"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0357",
+      "nome": "CIÊNCIAS AMBIENTAIS E SUA MULTIDISCIPLINARIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1063"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0125",
+      "nome": "CIÊNCIA, TECNOLOGIA, SOCIEDADE: UMA INTRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0873"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0434",
+      "nome": "CLIMATOLOGIA E MUDANÇAS CLIMÁTICAS GLOBAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0746"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0307",
+      "nome": "COMERCIALIZAÇÃO DE PRODUTOS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0709"
+      ],
+      "pre_requisitos": [
+         "FUP0295 & FUP0293",
+         "FUP0295 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "FUP0529",
+      "nome": "COMERCIALIZAÇÃO DE PRODUTOS AMBIENTAIS E MARKETING AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0763"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0011",
+      "nome": "COMPLEXIDADE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0794"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0516",
+      "nome": "COMPOSIÇÃO DO UNIVERSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1188"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0367",
+      "nome": "COMPOSIÇÃO QUÍMICA DOS SERES VIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0633"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0329",
+      "nome": "COMPOSTOS ORGÂNICOS E VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0355",
+         "FUP0544",
+         "FUP0587"
+      ],
+      "pre_requisitos": [
+         "FUP0313",
+         "IQD0153"
+      ]
+   },
+   {
+      "codigo": "FUP0074",
+      "nome": "COMUNICAÇÃO E TECNOLOGIAS DA INFORMAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0838"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0273",
+      "nome": "COMUNICAÇÃO RURAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0993"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0425",
+      "nome": "CONCEITOS ORGANIZADORES DAS CIÊNCIAS HUMANAS E SOCIAIS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0440",
+      "nome": "CONFLITOS SOCIOAMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0750"
+      ],
+      "pre_requisitos": [
+         "FUP0263"
+      ]
+   },
+   {
+      "codigo": "FUP0519",
+      "nome": "CONSTRUÇÃO DE MERCADO E ANÁLISE INSTITUCIONAL NO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1191"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0536",
+      "nome": "CONTABILIDADE AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0767"
+      ],
+      "pre_requisitos": [
+         "FUP0531"
+      ]
+   },
+   {
+      "codigo": "FUP0289",
+      "nome": "CONTABILIDADE GERENCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0702"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0021",
+      "nome": "COSMOS E COSMOVISÃO",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FUP0031",
+         "FUP0034",
+         "FUP0605"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0022",
+      "nome": "COSMOS E COSMOVISÃO  2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FUP0803"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0023",
+      "nome": "COSMOS E COSMOVISÃO 3",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FUP0804"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0305",
+      "nome": "CRIATIVIDADE NAS ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1016"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0482",
+      "nome": "CULTURA E IDEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1163"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0005",
+      "nome": "CURRÍCULO E AVALIAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0788"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0333",
+      "nome": "CUSTOS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0588"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0234",
+      "nome": "DA DOMESTICAÇÃO ÀS LEIS DA HERANÇA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0958"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0458",
+      "nome": "DESENVOLVIMENTO HUMANO E APRENDIZAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1143"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0460",
+      "nome": "DESENVOLVIMENTO HUMANO E APRENDIZAGEM 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1144"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0112",
+      "nome": "DESENVOLVIMENTO HUMANO E APRENDIZAGEM NA ESCOLA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0863"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0330",
+      "nome": "DIDÁTICA DAS CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0352",
+         "FUP0537",
+         "FUP0716"
+      ],
+      "pre_requisitos": [
+         "FUP0286"
+      ]
+   },
+   {
+      "codigo": "FUP0483",
+      "nome": "DIMENSÕES DA QUESTÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1164"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0534",
+      "nome": "DIREITO E LEGISLAÇÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0765"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0270",
+      "nome": "DIREITO NO AGRONEGÓCIO E LEGISLAÇÃO TRIBUTÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0693"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0184",
+      "nome": "DIVERSIDADE DOS SERES VIVOS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0923"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0480",
+      "nome": "DOCÊNCIA EM CIÊNCIAS HUMANAS E SOCIAIS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1161"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0159",
+      "nome": "DOCUMENTÁRIO, TERRITÓRIO E EDUCAÇÃO DO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0905"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0428",
+      "nome": "ECOLOGIA DO AGROSSISTEMAS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1117"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0019",
+      "nome": "ECOLOGIA DO ORGANISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0801"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0143",
+      "nome": "ECOLOGIA POLÍTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0660"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0280",
+      "nome": "ECONOMIA APLICADA AO AGRONEGÓCIO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0128",
+         "FUP0344",
+         "FUP0580"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0293",
+      "nome": "ECONOMIA APLICADA AO AGRONEGÓCIO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0705"
+      ],
+      "pre_requisitos": [
+         "FUP0280 & FUP0276"
+      ]
+   },
+   {
+      "codigo": "FUP0128",
+      "nome": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0656"
+      ],
+      "pre_requisitos": [
+         "FUP0280",
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "FUP0531",
+      "nome": "ECONOMIA E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0536",
+         "FUP0764"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "FUP0502",
+      "nome": "ECONOMIA E MERCADO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1181"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0374",
+      "nome": "ECONOMIA POLÍTICA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0635"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0397",
+      "nome": "ECONOMIA POLITICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1092"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0424",
+      "nome": "ECONOMIA POLITICA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1114"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0523",
+      "nome": "ECOSSISTEMAS TERRESTRES AQUATICOS E INTERFACES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECL0049",
+         "FUP0758"
+      ],
+      "pre_requisitos": [
+         "FUP0200"
+      ]
+   },
+   {
+      "codigo": "FUP0353",
+      "nome": "EDUCAÇÃO AMBIENTAL E ENSINO DE CIÊNCIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0727"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0151",
+      "nome": "EDUCAÇÃO DO CAMPO E DIREITOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0897"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0152",
+      "nome": "EDUCAÇÃO DO CAMPO SAÚDE E MEIO AMBIENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0898"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0036",
+      "nome": "EDUCAÇÃO E COMUNICAÇÃO COMUNITÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0813"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0008",
+      "nome": "EDUCAÇÃO E LUDICIDADE NO ENSINO DE CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0604"
+      ],
+      "pre_requisitos": [
+         "FUP0314"
+      ]
+   },
+   {
+      "codigo": "FUP0181",
+      "nome": "EDUCAÇÃO FINENCEIRA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0921"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0138",
+      "nome": "EDUCAÇÃO MATEMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0659"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0092",
+      "nome": "EDUCAÇÃO MATEMÁTICA E EDUCAÇÃO DO CAMPO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0850"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0098",
+      "nome": "EDUCAÇÃO MATEMÁTICA E EDUCAÇÃO DO CAMPO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0853"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0254",
+      "nome": "EDUCAÇÃO PARA A SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0977"
+      ],
+      "pre_requisitos": [
+         "FUP0320"
+      ]
+   },
+   {
+      "codigo": "FUP0150",
+      "nome": "EDUCAÇÃO POPULAR E EDUCAÇÃO DE JOVENS E ADULTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0896"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0445",
+      "nome": "ELABORAÇÃO E ANÁLISE DE PROJETOS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0599"
+      ],
+      "pre_requisitos": [
+         "FUP0342 & FUP0333 & FUP0282"
+      ]
+   },
+   {
+      "codigo": "FUP0010",
+      "nome": "ELEMENTOS DE MINERALOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0793"
+      ],
+      "pre_requisitos": [
+         "IGD0021",
+         "FUP0326"
+      ]
+   },
+   {
+      "codigo": "FUP0236",
+      "nome": "ELETROMAGNETISMO E A VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0680"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0363",
+      "nome": "ELETROMAGNETISMO EM CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0731"
+      ],
+      "pre_requisitos": [
+         "FUP0321 & MAT0025"
+      ]
+   },
+   {
+      "codigo": "FUP0362",
+      "nome": "ENERGIA E DINÂMICA DAS TRANSFORMAÇÕES QUÍMICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0244",
+         "FUP0594"
+      ],
+      "pre_requisitos": [
+         "FUP0329 & FUP0304",
+         "FUP0329 & MAT0025",
+         "IQD0072 & FUP0304",
+         "IQD0072 & MAT0025"
+      ]
+   },
+   {
+      "codigo": "FUP0562",
+      "nome": "ENGENHARIA AMBIENTAL E COMISSIONAMENTO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1233"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0286",
+      "nome": "ENSINO DE CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0014",
+         "JOR0083",
+         "FUP0330",
+         "FUP0332",
+         "FUP0700"
+      ],
+      "pre_requisitos": [
+         "FUP0314"
+      ]
+   },
+   {
+      "codigo": "FUP0350",
+      "nome": "ENSINO DE GEOCIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0725"
+      ],
+      "pre_requisitos": [
+         "IGD0021",
+         "FUP0326"
+      ]
+   },
+   {
+      "codigo": "FUP0324",
+      "nome": "ENSINO DE QUÍMICA E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1031"
+      ],
+      "pre_requisitos": [
+         "FUP0313"
+      ]
+   },
+   {
+      "codigo": "FUP0257",
+      "nome": "EPIDEMIOLOGIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0686"
+      ],
+      "pre_requisitos": [
+         "FUP0443"
+      ]
+   },
+   {
+      "codigo": "FUP0381",
+      "nome": "ESCOLA E EDUCAÇÃO DO CAMPO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0738"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0209",
+      "nome": "ESCOLA E EDUCAÇÃO DO CAMPO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0674"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0451",
+      "nome": "ESPANHOL INSTRUMENTAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0452",
+      "nome": "ESPANHOL INSTRUMENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1138"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0484",
+      "nome": "ESTADO: CONSTRUÇÃO HISTÓRICA E DESENHO ATUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1165"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0491",
+      "nome": "ESTADO E EDUCAÇÃO DO CAMPO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1172"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0267",
+      "nome": "ESTADO POLÍTICA AMBIENTE E SUSTENTABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0579"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0189",
+      "nome": "ESTÁGIO C. S. 3 - GESTÃO DE DOCÊNCIA",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0669"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0214",
+      "nome": "ESTÁGIO C. S. 4 - GESTÃO E DOCÊNCIA",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0677"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0225",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO 1 - COMUNIDADE",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0679"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0169",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO 2: EJA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FUP0666"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0238",
+      "nome": "ESTÁGIO SUPERVISIONADO",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FUP0681"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0569",
+      "nome": "ESTÁGIO SUPERVISIONADO ACADÊMICO",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "FUP1240"
+      ],
+      "pre_requisitos": [
+         "FUP0568"
+      ]
+   },
+   {
+      "codigo": "FUP0537",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ENSINO DE CIÊNCIAS NATURAIS 1",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0406",
+         "FUP0541",
+         "FUP0768"
+      ],
+      "pre_requisitos": [
+         "FUP0330"
+      ]
+   },
+   {
+      "codigo": "FUP0541",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ENSINO DE CIÊNCIAS NATURAIS 2",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0243",
+         "FUP0364",
+         "FUP0542",
+         "FUP0543",
+         "FUP0770"
+      ],
+      "pre_requisitos": [
+         "FUP0537",
+         "FUP0352"
+      ]
+   },
+   {
+      "codigo": "FUP0542",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ENSINO DE CIÊNCIAS NATURAIS 3",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0771"
+      ],
+      "pre_requisitos": [
+         "FUP0541",
+         "FUP0406"
+      ]
+   },
+   {
+      "codigo": "FUP0543",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ENSINO DE CIÊNCIAS NATURAIS 4",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FUP0772"
+      ],
+      "pre_requisitos": [
+         "FUP0541",
+         "FUP0406"
+      ]
+   },
+   {
+      "codigo": "FUP0024",
+      "nome": "ESTÁGIO SUPERVISIONADO PARA 2º LICENCIATURA EM CIÊNCIAS NATURAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0032",
+         "FUP0805"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0037",
+      "nome": "ESTÁGIO SUPERVISIONADO PARA SEGUNDA LIC. EM CIÊNCIAS NATURAIS 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FUP0814"
+      ],
+      "pre_requisitos": [
+         "FUP0032"
+      ]
+   },
+   {
+      "codigo": "FUP0570",
+      "nome": "ESTÁGIO SUPERVISIONADO PROFISSIONALIZANTE",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "FUP1241"
+      ],
+      "pre_requisitos": [
+         "FUP0568"
+      ]
+   },
+   {
+      "codigo": "FUP0032",
+      "nome": "ESTÁGIO SUPERVISIONADO P/ SEGUNDA LICENCIATURA EM CIÊNCIAS NATURAIS 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FUP0037",
+         "FUP0810"
+      ],
+      "pre_requisitos": [
+         "FUP0024"
+      ]
+   },
+   {
+      "codigo": "FUP0310",
+      "nome": "ESTATÍSTICA APLICADA À GESTÃO DO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0282",
+         "FUP0336",
+         "FUP0710"
+      ],
+      "pre_requisitos": [
+         "FUP0276"
+      ]
+   },
+   {
+      "codigo": "FUP0567",
+      "nome": "ESTATÍSTICA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1238"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0198",
+      "nome": "ESTATÍSTICA E A VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0931"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0546",
+      "nome": "ESTATÍSTICA E ECOLOGIA NUMÉRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0563",
+         "FUP0773"
+      ],
+      "pre_requisitos": [
+         "MAT0022"
+      ]
+   },
+   {
+      "codigo": "FUP0563",
+      "nome": "ESTATÍSTICA MULTIVARIADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0645"
+      ],
+      "pre_requisitos": [
+         "FUP0546"
+      ]
+   },
+   {
+      "codigo": "FUP0422",
+      "nome": "ESTÉTICA E POLÍTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0547",
+      "nome": "ESTUDOS INTERDISCIPLINARES DO CERRADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0774"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0509",
+      "nome": "ESTUDOS LITERÁRIOS 1: LITERATURA E NAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0229",
+      "nome": "ESTUDOS LITERÁRIOS 2 :CONSOLIDAÇÃO DO SIST LIT E DESAGREGAÇÃO NACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0631"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0176",
+      "nome": "ESTUDOS LITERÁRIOS 3: REPRESENTAÇÃO DO PERSONAGEM POPULAR BRASILEIRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0917"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0193",
+      "nome": "ESTUDOS LITERÁRIOS 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0629"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0012",
+      "nome": "ÉTICA E FORMAÇÃO DOCENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0795"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0290",
+      "nome": "ÉTICA E PERFIL DO PROFISSIONAL NO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0632"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0279",
+      "nome": "EVOLUÇÃO DA AGRICULTURA FAMILIAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0127",
+         "FUP0291",
+         "FUP0696"
+      ],
+      "pre_requisitos": [
+         "FUP0280 & FUP0306",
+         "ECO0019 & SOL0042"
+      ]
+   },
+   {
+      "codigo": "FUP0013",
+      "nome": "EVOLUÇÃO DO DESENVOLVIMENTO",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "FUP0796"
+      ],
+      "pre_requisitos": [
+         "FUP0355"
+      ]
+   },
+   {
+      "codigo": "FUP0325",
+      "nome": "EXPERIMENTOS DE QUÍMICA PARA O ENSINO MÉDIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1032"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0157",
+      "nome": "EXPRESSÕES ESTÉTICA E CULTURA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0903"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0275",
+      "nome": "EXTENSÃO RURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0994"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0501",
+      "nome": "EXTENSÃO RURAL NO AGRONEGÓCIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0641"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0375",
+      "nome": "FILOSOFIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0736"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0400",
+      "nome": "FILOSOFIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0429",
+      "nome": "FILOSOFIA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0744"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0466",
+      "nome": "FILOSOFIA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0468",
+      "nome": "FILOSOFIA 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1150"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0299",
+      "nome": "FILOSOFIA E SOCIOLOGIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0323",
+         "FUP0581"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0183",
+      "nome": "FLUXO DE ENERGIA E CICLOS BIOGEOQUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0575"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0227",
+      "nome": "FONÉTICA, FONOLOGIA E MORFOLOGIA DO PORTUGUÊS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0630"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0052",
+      "nome": "FUNDAMENTOS BÁSICOS DAS ARTES PLÁSTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0825"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0436",
+      "nome": "FUNDAMENTOS DA ABORDAGEM ECOSSISTEMICA A SAÚDE HUMANA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0748"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0506",
+      "nome": "FUNDAMENTOS DA LÍNGUÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1183"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0360",
+      "nome": "FUNDAMENTOS DAS CIÊNCIAS DA NATUREZA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0244",
+         "FUP0438",
+         "FUP0730"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0415",
+      "nome": "FUNDAMENTOS DE QUÍMICA ANALÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1107"
+      ],
+      "pre_requisitos": [
+         "FUP0313"
+      ]
+   },
+   {
+      "codigo": "FUP0014",
+      "nome": "FUNDAMENTOS E ESTRATÉGIAS NO ENSINO DE CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0797"
+      ],
+      "pre_requisitos": [
+         "FUP0286"
+      ]
+   },
+   {
+      "codigo": "FUP0004",
+      "nome": "FUNDAMENTOS EM CIÊNCIAS E MICROBIOLOGIA DOS ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0787"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0200",
+      "nome": "FUNDAMENTOS EM ECOLOGIA DE POPULAÇÕES E COMUNIDADES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0523",
+         "FUP0671"
+      ],
+      "pre_requisitos": [
+         "FUP0265",
+         "FUP0528",
+         "FUP0328"
+      ]
+   },
+   {
+      "codigo": "FUP0247",
+      "nome": "FUNDAMENTOS QUÍMICA INORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0577"
+      ],
+      "pre_requisitos": [
+         "FUP0313"
+      ]
+   },
+   {
+      "codigo": "FUP0199",
+      "nome": "GENÉTICA E EVOLUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0576"
+      ],
+      "pre_requisitos": [
+         "FUP0528",
+         "FUP0328"
+      ]
+   },
+   {
+      "codigo": "FUP0115",
+      "nome": "GENÉTICA E MELHORAMENTO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0865"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0117",
+      "nome": "GEOCIÊNCIAS E MEIO AMBIENTE",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0867"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0088",
+      "nome": "GEOCIÊNCIAS PARA EDUCAÇÃO DO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0848"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0060",
+      "nome": "GEOMETRIA E A VIDA NO CAMPO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0829"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0065",
+      "nome": "GEOMETRIA E A VIDA NO CAMPO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0612"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0511",
+      "nome": "GEOMETRIA, ÓTICA E A PERCEPÇÃO DO ESPAÇO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1186"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0444",
+      "nome": "GEOMORFOLOGIA TROPICAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1130"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0556",
+      "nome": "GEOPOLÍTICA, MEIO AMBIENTE E RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0780"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0520",
+      "nome": "GEOPROCESSAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0755"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0411",
+      "nome": "GESTÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0002",
+         "FUP0596"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0525",
+      "nome": "GESTÃO AMBIENTAL EMPRESARIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0760"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0535",
+      "nome": "GESTÃO AMBIENTAL URBANA E REGIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0766"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0564",
+      "nome": "GESTÃO DA BIODIVERSIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1235"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0369",
+      "nome": "GESTÃO DA CADEIA DE SUPRIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0733"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0370",
+      "nome": "GESTÃO DA EMPRESA RURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0734"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0334",
+      "nome": "GESTÃO DA QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0345",
+         "FUP0718"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0388",
+      "nome": "GESTÃO DA UNIDADE FAMILIAR DE PRODUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1086"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0412",
+      "nome": "GESTÃO DE COOPERATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0597"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0548",
+      "nome": "GESTÃO DE EFLUENTES LÍQUIDOS E ÁGUAS RESIDUAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0775"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0446",
+      "nome": "GESTÃO DE NEGÓCIOS INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0752"
+      ],
+      "pre_requisitos": [
+         "FUP0280 & FUP0307",
+         "ECO0019 & FUP0307"
+      ]
+   },
+   {
+      "codigo": "FUP0335",
+      "nome": "GESTÃO DE PESSOAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0719"
+      ],
+      "pre_requisitos": [
+         "FUP0281"
+      ]
+   },
+   {
+      "codigo": "FUP0526",
+      "nome": "GESTÃO E INOVAÇÃO TECNOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0761"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0517",
+      "nome": "GRANDES TEMAS AMBIENTAIS DO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1189"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0204",
+      "nome": "GRANDES TEMAS AMBIENTAIS MUNDIAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0936"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0233",
+      "nome": "HIDRODINÂMICA E TERMODINÂMICA E A VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0957"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0260",
+      "nome": "HIDROLOGIA APLICADA A GESTÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEA0095",
+         "FUP0688"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0259",
+      "nome": "HISTÓRIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0687"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0043",
+      "nome": "HISTÓRIA DA EDUCAÇÃO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0650"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0126",
+      "nome": "HISTÓRIA DOS MOVIMENTOS SOCIAIS NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0874"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0359",
+      "nome": "HISTÓRIA E FILOSOFIA DA CIÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1065"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0285",
+      "nome": "HISTÓRIA E FILOSOFIA DA CIÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0323",
+         "FUP0699"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0420",
+      "nome": "HISTÓRIA E FILOSOFIA DA FÍSICA E DA MATEMÁTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1110"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0058",
+      "nome": "HISTÓRIA E FILOSOFIA DAS CIÊNCIAS DA NATUREZA E DA MATEMÁTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0828"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0069",
+      "nome": "HISTÓRIA E FILOSOFIA DAS CIÊNCIAS DA NATUREZA E DA MATEMÁTICA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0651"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0039",
+      "nome": "HUMANIDADE, CIÊNCIA E TECNOLOGIA",
+      "carga_horaria": 360,
+      "eh_requisito_de": [
+         "FUP0816"
+      ],
+      "pre_requisitos": [
+         "FUP0034"
+      ]
+   },
+   {
+      "codigo": "FUP0278",
+      "nome": "INICIAÇÃO A FORMAÇÃO UNIVERSITÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0997"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0343",
+      "nome": "INOVAÇÃO TECNOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0723"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0453",
+      "nome": "INSERÇÃO COMUNITÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1139"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0549",
+      "nome": "INSTRUMENTOS DE AVALIAÇÃO DE IMPACTO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0776"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0288",
+      "nome": "INTRODUÇÃO À ESTATÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0701"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0084",
+      "nome": "INTRODUÇÃO A LINGUAGEM AUDIOVISUAL",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0846"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0277",
+      "nome": "INTRODUÇÃO AO AGRONEGÓCIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0292",
+         "FUP0295",
+         "FUP0340",
+         "FAV0346",
+         "FUP0695",
+         "FAV0521"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0348",
+      "nome": "INTRODUÇÃO AO CÁLCULO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0592"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0356",
+      "nome": "INTRODUÇÃO AO CURSO DE GESTÃO AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1062"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0394",
+      "nome": "INTRODUÇÃO AO ESTUDO DA ÁREA DE CIÊNCIAS HUMANAS E SOCIAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1090"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0090",
+      "nome": "INTRODUÇÃO AO PENSAMENTO MATEMÁTICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0849"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0256",
+      "nome": "INTRODUÇÃO A PALEONTOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0979"
+      ],
+      "pre_requisitos": [
+         "FUP0326",
+         "IGD0021",
+         "IGD0167"
+      ]
+   },
+   {
+      "codigo": "FUP0443",
+      "nome": "INTRODUÇÃO À SAÚDE PÚBLICA E AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0257",
+         "FUP0598"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0263",
+      "nome": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0440",
+         "FUP0441",
+         "FUP0691"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0568",
+      "nome": "INTRODUÇÃO AS PRÁTICAS E A PESQUISA DO GESTOR DO AGRONEGÓCIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0569",
+         "FUP0570",
+         "FUP1239"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0094",
+      "nome": "INTRODUÇÃO GEOMETRIA ANALÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0654"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0156",
+      "nome": "LABORATÓRIO DE DIREÇÃO E INTERPRETAÇÃO TEATRAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0902"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0158",
+      "nome": "LABORATÓRIO DE DRAMATURGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0904"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0538",
+      "nome": "LABORATÓRIO DE FÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1210"
+      ],
+      "pre_requisitos": [
+         "FUP0351"
+      ]
+   },
+   {
+      "codigo": "FUP0015",
+      "nome": "LABORATÓRIO DE MICROSCOPIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0798"
+      ],
+      "pre_requisitos": [
+         "FUP0355"
+      ]
+   },
+   {
+      "codigo": "FUP0246",
+      "nome": "LABORATÓRIO DE QUÍMICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0969"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0016",
+      "nome": "LABORATÓRIO DE QUÍMICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0799"
+      ],
+      "pre_requisitos": [
+         "FUP0313"
+      ]
+   },
+   {
+      "codigo": "FUP0044",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0611"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0050",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTO 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0824"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0076",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTO 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0617"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0080",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTO 4",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0843"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0107",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTO 5",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0858"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0063",
+      "nome": "LETRAMENTO CIENTÍFICO E DIGITAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0831"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0129",
+      "nome": "LÍNGUA BRASILEIRA DE SINAIS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0657"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0144",
+      "nome": "LÍNGUA BRASILEIRA DE SINAIS 2 LIBRAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0661"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0142",
+      "nome": "LITERATURA COMO FORMAÇÃO: FUNDAMENTOS HISTÓRICO ONTOLÓGICO E ESTÉTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0888"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0119",
+      "nome": "LITERATURA MUNDIAL ENTRE O CENTRO E A PERIFERIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0868"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0351",
+      "nome": "LUZ E SOM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0538",
+         "FUP0726"
+      ],
+      "pre_requisitos": [
+         "FUP0316 & FUP0321"
+      ]
+   },
+   {
+      "codigo": "FUP0103",
+      "nome": "LUZ, ONDAS E A VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0856"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0245",
+      "nome": "MAPEAMENTO AMBIENTAL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FUP0968"
+      ],
+      "pre_requisitos": [
+         "FUP0302"
+      ]
+   },
+   {
+      "codigo": "FUP0437",
+      "nome": "MAPEAMENTO ECOLÓGICO EM UNIDADES DE CONSERVAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1124"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0308",
+      "nome": "MARKETING NO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0413",
+         "FUP0582"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0054",
+      "nome": "MATEMÁTICA BÁSICA E APLICAÇÕES NA VIDA DO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0826"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0145",
+      "nome": "MATEMÁTICA CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0627"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0045",
+      "nome": "MATEMÁTICA E SOCIEDADE",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0821"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0276",
+      "nome": "MATEMÁTICA PARA AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0310",
+         "FUP0694"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0304",
+      "nome": "MATEMÁTICA PARA CIÊNCIAS NATURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1015"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0407",
+      "nome": "MECÂNICA APLICADA AS CIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0740"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0513",
+      "nome": "MECÂNICA E VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1187"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0393",
+      "nome": "MEDIAÇÕES ENTRE FORMA SOCIAL E ESTÉTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1089"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0361",
+      "nome": "MEIO AMBIENTE E CIDADANIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1067"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0565",
+      "nome": "MEIO AMBIENTE E DIREITOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0272",
+      "nome": "MERCADOS FUTUROS E DE OPÇÕES AGROPECUÁRIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0992"
+      ],
+      "pre_requisitos": [
+         "FUP0282"
+      ]
+   },
+   {
+      "codigo": "FUP0262",
+      "nome": "METODOLOGIA DA PESQUISA CIENTÍFICA E ELABORAÇÃO DE PROJETOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0553",
+         "FUP0690"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0323",
+      "nome": "METODOLOGIA DA PESQUISA EM EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0352",
+         "FUP0408",
+         "FUP0715"
+      ],
+      "pre_requisitos": [
+         "FUP0285",
+         "FUP0299"
+      ]
+   },
+   {
+      "codigo": "FUP0311",
+      "nome": "METODOLOGIA DE PESQUISA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0354",
+         "FUP0584"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0194",
+      "nome": "METODOLOGIAS CULTURAIS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0929"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0177",
+      "nome": "METODOLOGIAS CULTURAIS: ARTES PLÁSTICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0918"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0231",
+      "nome": "METODOLOGIAS CULTURAIS DE TRABALHO EM EDUCAÇÃO 1 : TEATRO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0956"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0271",
+      "nome": "MÉTODOS DE APOIO A DECISÃO EM AGRONEGÓCIO E LOGÍSTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0991"
+      ],
+      "pre_requisitos": [
+         "FUP0336"
+      ]
+   },
+   {
+      "codigo": "FUP0494",
+      "nome": "MÉTODOS DE ORGANIZAÇÃO E EDUCAÇÃO COMUNITÁRIA  1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1174"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0495",
+      "nome": "MÉTODOS DE ORGANIZAÇÃO E EDUCAÇÃO COMUNITÁRIA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1175"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0496",
+      "nome": "MÉTODOS DE ORGANIZAÇÃO E EDUCAÇÃO COMUNITÁRIA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1176"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0337",
+      "nome": "METODOS QUALITATIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1044"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0554",
+      "nome": "MICROBIOLOGIA APLICADA À PRODUÇÃO VEGETAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1225"
+      ],
+      "pre_requisitos": [
+         "FUP0292"
+      ]
+   },
+   {
+      "codigo": "FUP0137",
+      "nome": "MODELAGEM MATEMÁTICA E A VIDA NO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0626"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0255",
+      "nome": "MORFOFISIOLOGIA COMPARADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0978"
+      ],
+      "pre_requisitos": [
+         "FUP0328",
+         "FUP0528"
+      ]
+   },
+   {
+      "codigo": "FUP0081",
+      "nome": "MORFOSSINTAXE",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0844"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0321",
+      "nome": "NATUREZA E ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0714"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0368",
+      "nome": "NOVA ECONOMIA INSTITUCIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0732"
+      ],
+      "pre_requisitos": [
+         "FUP0295"
+      ]
+   },
+   {
+      "codigo": "FUP0083",
+      "nome": "OFICINA BÁSICA DE ARTES CÊNICAS OBAC",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0653"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0455",
+      "nome": "OFICINAS DE INFORMÁTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1141"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0456",
+      "nome": "OFICINAS DE INFORMÁTICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1142"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0454",
+      "nome": "OFICINAS DE LEITURA E PRODUÇÃO DE TEXTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1140"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0237",
+      "nome": "O ORGANISMO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0960"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0485",
+      "nome": "O PAPEL DO CAMPO NO ATUAL NO CONTEXTO DO CAPITALISMO MUNDIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1166"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0524",
+      "nome": "ORGANIZAÇÃO E MÉTODOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0759"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0493",
+      "nome": "ORGANIZAÇÃO ESCOLAR E MÉTODO DE TRABALHO PEDAGÓGICO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1173"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0390",
+      "nome": "ORGANIZAÇÃO ESCOLAR E MÉTODO DO TRABALHO PEDAGÓGICO 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0638"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0427",
+      "nome": "ORGANIZAÇÃO ESCOLAR E MÉTODO DO TRABALHO PEDAGÓGICO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0640"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0486",
+      "nome": "OS SUJEITOS E A ESFERA DA PRODUÇÃO: PRINCIPAIS CONCEITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1167"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0216",
+      "nome": "OUTRAS FORMAS DE ATIVIDADE: ACESSO A PRODUÇÕES CULTURAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0945"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0205",
+      "nome": "OUTRAS FORMAS DE ATIVIDADE: ESPANHOL INSTRUMENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0937"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0500",
+      "nome": "OUTRAS FORMAS DE ATIVIDADE: OFICINA DE LEITURA E PRODUÇÃO DE TEXTOS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0223",
+      "nome": "OUTRAS FORMAS DE ATIVIDADE : OFICINA DE LEITURA E PRODUÇÃO DE TEXTOS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0951"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0171",
+      "nome": "OUTRAS FORMAS DE ATIVIDADES ESPANHOL INSTRUMENTAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0915"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0387",
+      "nome": "OUTRAS FORMAS DE ATIVIDADES: INSERÇÃO COMUNITÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1085"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0405",
+      "nome": "OUTRAS FORMAS DE ATIVIDADES: OFICINA INFORMÁTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1097"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0432",
+      "nome": "OUTRAS FORMAS DE ATIVIDADES: OFICINA INFORMÁTICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1120"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0110",
+      "nome": "PEDAGOGIA DO TEATRO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0618"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0261",
+      "nome": "PEDOLOGIA E EDAFOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0689"
+      ],
+      "pre_requisitos": [
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "FUP0566",
+      "nome": "PERMACULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1237"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0395",
+      "nome": "PESQUISA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1091"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0421",
+      "nome": "PESQUISA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0469",
+      "nome": "PESQUISA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1151"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0470",
+      "nome": "PESQUISA 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1152"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0413",
+      "nome": "PESQUISA DE MERCADO E COMPORTAMENTO DO CONSUMIDOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0639"
+      ],
+      "pre_requisitos": [
+         "FUP0308"
+      ]
+   },
+   {
+      "codigo": "FUP0312",
+      "nome": "PESQUISA E EXTENSÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0585"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0384",
+      "nome": "PESQUISA E MEMÓRIA 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0637"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0062",
+      "nome": "PESQUISA E MEMÓRIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0571"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0075",
+      "nome": "PESQUISA E MEMÓRIA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0616"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0096",
+      "nome": "PESQUISA E MEMÓRIA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0852"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0108",
+      "nome": "PESQUISA E MEMÓRIA 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0573"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0336",
+      "nome": "PESQUISA OPERACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0271",
+         "FUP0414",
+         "FUP0720"
+      ],
+      "pre_requisitos": [
+         "FUP0310"
+      ]
+   },
+   {
+      "codigo": "FUP0522",
+      "nome": "PLANEJAMENTO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0757"
+      ],
+      "pre_requisitos": [
+         "ADM0023"
+      ]
+   },
+   {
+      "codigo": "FUP0530",
+      "nome": "PLANEJAMENTO E GESTÃO DE RECURSOS HÍDRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0601"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0342",
+      "nome": "PLANEJAMENTO ESTRATÉGICO E EMPRESARIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0589"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0264",
+      "nome": "PLANEJAMENTO GESTÃO E SINALIZAÇÃO DE TRILHAS INTERPRETATIVAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0986"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0379",
+      "nome": "POLITICA EDUCACIONAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0737"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0163",
+      "nome": "POLÍTICA EDUCACIONAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0909"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0207",
+      "nome": "POLÍTICA EDUCACIONAL 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0939"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0532",
+      "nome": "POLÍTICA E GESTÃO AMBIENTAL EM TERRAS INDÍGENAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0642"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0555",
+      "nome": "POLÍTICA E GESTÃO DE RESÍDUOS URBANOS E RECICLAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0779"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0557",
+      "nome": "POLÍTICA E GESTÃO DE UNIDADES DE CONSERVAÇÃO E ÁREAS PROTEGIDAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0643"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0550",
+      "nome": "POLÍTICA E GESTÃO EM ECOTURISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1222"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0518",
+      "nome": "POLÍTICA INTERNACIONAL DESENVOLVIMENTO E AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1190"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0127",
+      "nome": "POLÍTICAS AGRÍCOLAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0621"
+      ],
+      "pre_requisitos": [
+         "FUP0279"
+      ]
+   },
+   {
+      "codigo": "FUP0558",
+      "nome": "POLUIÇÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0644"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0352",
+      "nome": "PRÁTICA EM ENSINO DE CIÊNCIAS 1",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0406",
+         "FUP0541",
+         "FUP1058"
+      ],
+      "pre_requisitos": [
+         "FUP0323",
+         "FUP0330"
+      ]
+   },
+   {
+      "codigo": "FUP0406",
+      "nome": "PRÁTICA EM ENSINO DE CIÊNCIAS 2",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP0243",
+         "FUP0364",
+         "FUP0542",
+         "FUP0543",
+         "FUP1098"
+      ],
+      "pre_requisitos": [
+         "FUP0352",
+         "FUP0537"
+      ]
+   },
+   {
+      "codigo": "FUP0364",
+      "nome": "PRÁTICA EM ENSINO DE CIÊNCIAS 3",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FUP1070"
+      ],
+      "pre_requisitos": [
+         "FUP0541",
+         "FUP0406",
+         "FUP0330 & FUP0323"
+      ]
+   },
+   {
+      "codigo": "FUP0243",
+      "nome": "PRÁTICA EM ENSINO DE CIÊNCIAS 4",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FUP0966"
+      ],
+      "pre_requisitos": [
+         "FUP0541",
+         "FUP0406"
+      ]
+   },
+   {
+      "codigo": "FUP0222",
+      "nome": "PRÁTICA PEDAGÓGICA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0950"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0040",
+      "nome": "PRÁTICAS DE CAMPO EM BOTÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0817"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0386",
+      "nome": "PRÁTICAS PEDAGÓGICAS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0739"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0403",
+      "nome": "PRÁTICAS PEDAGÓGICAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1095"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0417",
+      "nome": "PRÁTICAS PEDAGÓGICAS 3",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0743"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0499",
+      "nome": "PRÁTICAS PEDAGÓGICAS 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0754"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0167",
+      "nome": "PRÁTICAS PEDAGÓGICAS 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0665"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0187",
+      "nome": "PRÁTICAS PEDAGÓGICAS 7",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0668"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0212",
+      "nome": "PRÁTICAS PEDAGÓGICAS 8",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0676"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0487",
+      "nome": "PRINCIPAIS PROBLEMAS SOCIOAMBIENTAIA DA ATUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1168"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0539",
+      "nome": "PRINCÍPIOS DE SISTEMÁTICA FILOGENÉTICA E BIOGEOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1211"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0136",
+      "nome": "PROBABILIDADE E ANÁLISE COMBINATÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0625"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0132",
+      "nome": "PROCESSO EXPERIMENTAL EM TEATRO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0623"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0146",
+      "nome": "PROCESSO EXPERIMENTAL EM TEATRO 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0892"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0303",
+      "nome": "PROJETO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0331",
+         "FUP0408",
+         "FUP1014"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0331",
+      "nome": "PROJETO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1038"
+      ],
+      "pre_requisitos": [
+         "FUP0303"
+      ]
+   },
+   {
+      "codigo": "FUP0497",
+      "nome": "PROJETO DE DESENVOLVIMENTO DO CAMPO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1177"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0122",
+      "nome": "PROJETO EXPERIMENTAL EM AUDIOVISUAL 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0871"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0133",
+      "nome": "PROJETO EXPERIMENTAL EM AUDIOVISUAL: PRODUÇÃO E FINALIZAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0881"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0047",
+      "nome": "PROMOÇÃO DA SAÚDE",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0822"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0462",
+      "nome": "QUESTÃO AGRÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0438",
+      "nome": "QUÍMICA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0749"
+      ],
+      "pre_requisitos": [
+         "FUP0360",
+         "FUP0313"
+      ]
+   },
+   {
+      "codigo": "FUP0244",
+      "nome": "QUÍMICA E ANÁLISE DO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0684"
+      ],
+      "pre_requisitos": [
+         "FUP0362",
+         "FUP0360"
+      ]
+   },
+   {
+      "codigo": "FUP0313",
+      "nome": "QUÍMICA E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0016",
+         "FCE0073",
+         "FUP0247",
+         "FUP0324",
+         "FUP0329",
+         "FUP0415",
+         "FUP0438",
+         "FUP0711"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0248",
+      "nome": "QUÍMICA MODERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0971"
+      ],
+      "pre_requisitos": [
+         "FUP0362 & MAT0025 & FUP0351"
+      ]
+   },
+   {
+      "codigo": "FUP0100",
+      "nome": "QUÍMICA TERRA E AMBIENTE",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FUP0854"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0463",
+      "nome": "REALIDADE BRASILEIRA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1147"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0206",
+      "nome": "REALIDADE BRASILEIRA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0938"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0464",
+      "nome": "REALIDADE BRASILEIRA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1148"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0533",
+      "nome": "RECUPERAÇÃO ÁREAS DEGRADADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1205"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0332",
+      "nome": "RECURSOS DIDÁTICOS PARA O ENSINO DE CIÊNCIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0717"
+      ],
+      "pre_requisitos": [
+         "FUP0286"
+      ]
+   },
+   {
+      "codigo": "FUP0344",
+      "nome": "REGULAÇÃO E POLÍTICAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0590"
+      ],
+      "pre_requisitos": [
+         "FUP0280",
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "FUP0488",
+      "nome": "RELAÇÕES SOCIAIS NA ESFERA DA PRODUÇÃO E CENTRALIDADE NO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1169"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0489",
+      "nome": "REPRESENTAÇÕES DO CAMPO NA SOCIEDADE BRASILEIRA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1170"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0320",
+      "nome": "SAÚDE E AMBIENTE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0006",
+         "FUP0253",
+         "FUP0254",
+         "FUP0327",
+         "FUP0713"
+      ],
+      "pre_requisitos": [
+         "FUP0355"
+      ]
+   },
+   {
+      "codigo": "FUP0327",
+      "nome": "SAÚDE E AMBIENTE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1034"
+      ],
+      "pre_requisitos": [
+         "FUP0320"
+      ]
+   },
+   {
+      "codigo": "FUP0401",
+      "nome": "SAÚDE, SEXUALIDADE E REPRODUÇÃO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP1094"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0120",
+      "nome": "SEMÂNTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0620"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0341",
+      "nome": "SEMINÁRIO EM AGRONEGÓCIO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1047"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0418",
+      "nome": "SEMINÁRIO INTEGRADOR 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1109"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0170",
+      "nome": "SEMINÁRIO INTEGRADOR 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0914"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0447",
+      "nome": "SEMINÁRIO INTEGRADOR 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1133"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0448",
+      "nome": "SEMINÁRIO INTEGRADOR 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1134"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0217",
+      "nome": "SEMINÁRIO INTEGRADOR 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0946"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0215",
+      "nome": "SEMINÁRIO INTEGRADOR 4",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0944"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0449",
+      "nome": "SEMINÁRIO INTEGRADOR 4",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1135"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0354",
+      "nome": "SEMINÁRIOS EM CIÊNCIAS NATURAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1060"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0318",
+      "nome": "SERES VIVOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0328",
+         "FUP1027"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0328",
+      "nome": "SERES VIVOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0199",
+         "FUP0200",
+         "FUP0219",
+         "FUP0255",
+         "FUP0409",
+         "FUP1035"
+      ],
+      "pre_requisitos": [
+         "FUP0318"
+      ]
+   },
+   {
+      "codigo": "FUP0218",
+      "nome": "SIMULAÇÃO EM ENSINO DE FÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0947"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0174",
+      "nome": "SINTAXE DA LINGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0916"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0345",
+      "nome": "SISTEMA DE INFORMAÇÃO E AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0591"
+      ],
+      "pre_requisitos": [
+         "FUP0334"
+      ]
+   },
+   {
+      "codigo": "FUP0349",
+      "nome": "SISTEMA EDUCACIONAL BRASILEIRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0593"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0372",
+      "nome": "SISTEMAS AGROINDUSTRIAIS NO CENTRO-OESTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0634"
+      ],
+      "pre_requisitos": [
+         "FUP0295"
+      ]
+   },
+   {
+      "codigo": "FUP0295",
+      "nome": "SISTEMAS AGROINDUTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0010",
+         "FUP0368",
+         "FUP0372",
+         "FAV0351",
+         "FUP0706"
+      ],
+      "pre_requisitos": [
+         "FUP0277"
+      ]
+   },
+   {
+      "codigo": "FUP0252",
+      "nome": "SISTEMAS COMPLEXOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0975"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0309",
+      "nome": "SISTEMAS DE PRODUÇÃO DE MATÉRIAS-PRIMAS ANIMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0329",
+         "FUP0583"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0292",
+      "nome": "SISTEMAS DE PRODUÇÃO DE MATÉRIAS-PRIMAS VEGETAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0554",
+         "FUP0704"
+      ],
+      "pre_requisitos": [
+         "FUP0277"
+      ]
+   },
+   {
+      "codigo": "FUP0302",
+      "nome": "SISTEMAS ECOLÓGICOS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ECL0049",
+         "FUP0245",
+         "FUP0249",
+         "FUP0707"
+      ],
+      "pre_requisitos": [
+         "FUP0528 & IGD0021",
+         "FUP0326"
+      ]
+   },
+   {
+      "codigo": "FUP0490",
+      "nome": "SOCIEDADE BRASILEIRA: UM OLHAR APARTIR DO CAMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1171"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0358",
+      "nome": "SOCIEDADE E NATUREZA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0729"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0306",
+      "nome": "SOCIOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0708"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0441",
+      "nome": "SOCIOLOGIA DO AMBIENTALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0751"
+      ],
+      "pre_requisitos": [
+         "FUP0263"
+      ]
+   },
+   {
+      "codigo": "FUP0382",
+      "nome": "SUJEITOS DO CAMPO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0404",
+      "nome": "TÉCNICAS DE LEITURA E INTERPRETAÇÃO DE TEXTOS",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1096"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0423",
+      "nome": "TÉCNICAS E PRODUÇÃO DE TEXTOS",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1113"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0410",
+      "nome": "TECNOLOGIAS DE PRODUTOS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0595"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0240",
+      "nome": "TEORIA, CONCEITOS E METODOLOGIAS EM EDUCAÇÃO AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0683"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0442",
+      "nome": "TEORIA DE SISTEMAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1128"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0435",
+      "nome": "TEORIA DO DESENVOLVIMENTO SUSTENTÁVEL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0747"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0068",
+      "nome": "TEORIA E HISTÓRIA DAS ARTES PLÁSTICAS E VISUAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0572"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0121",
+      "nome": "TEORIA E HISTÓRIA DO TEATRO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0574"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0377",
+      "nome": "TEORIA PEDAGÓGICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0636"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0392",
+      "nome": "TEORIA PEDAGÓGICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1088"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0431",
+      "nome": "TEORIA PEDAGÓGICA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0745"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0165",
+      "nome": "TEORIA PEDAGÓGICA 4",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0910"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0461",
+      "nome": "TEORIA PEDAGÓGICA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1145"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0113",
+      "nome": "TEORIA PEDAGÓGICA 5",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0864"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0131",
+      "nome": "TEORIA PEDAGÓGICA 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0658"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0559",
+      "nome": "TEORIA POLÍTICA MODERNA E SUSTENTABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1230"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0326",
+      "nome": "TERRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0010",
+         "FUP0249",
+         "FUP0256",
+         "FUP0302",
+         "FUP0350",
+         "FUP1033"
+      ],
+      "pre_requisitos": [
+         "FUP0302 & FUP0316"
+      ]
+   },
+   {
+      "codigo": "FUP0540",
+      "nome": "TERRA, AGRICULTURA FAMILIAR E LITERATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0769"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0504",
+      "nome": "TERRITORIALIDADE NO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP1182"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0149",
+      "nome": "TEXTOS ACADÊMICOS: ATIVIDADES DE LEITURA, ESCRITA E REESCRITA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0895"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0147",
+      "nome": "TÓPICOS AMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0893"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0339",
+      "nome": "TÓPICOS AVANÇADOS EM GESTÃO DO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0721"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0026",
+      "nome": "TÓPICOS AVANÇADOS EM GESTÃO DO AGRONEGÓCIO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0607"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0028",
+      "nome": "TÓPICOS AVANÇADOS EM GESTÃO DO AGRONEGÓCIO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0609"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0030",
+      "nome": "TÓPICOS AVANÇADOS EM GESTÃO DO AGRONEGÓCIO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0648"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0191",
+      "nome": "TÓPICOS AVANÇADOS EM LINGUÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0670"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0148",
+      "nome": "TÓPICOS EM ECOLINGUÍSTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0894"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0018",
+      "nome": "TÓPICOS EM EDUCAÇÃO E DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0800"
+      ],
+      "pre_requisitos": [
+         "FUP0314"
+      ]
+   },
+   {
+      "codigo": "FUP0134",
+      "nome": "TÓPICOS EM FÍSICA MODERNA E CONTEMPORÂNEA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0624"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0116",
+      "nome": "TÓPICOS EM QUÍMICA APLICADA E DO COTIDIANO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0619"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0135",
+      "nome": "TÓPICOS EM QUÍMICA APLICADA E DO COTIDIANO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0883"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0003",
+      "nome": "TÓPICOS ESPECIAIS EM BIOLÓGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0647"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0007",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIAS NATURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0603"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0155",
+      "nome": "TÓPICOS ESPECIAIS EM EDUCAÇÃO DO CAMPO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FUP0628"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0220",
+      "nome": "TÓPICOS ESPECIAIS EM ENSINO DE FÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0678"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0249",
+      "nome": "TÓPICOS ESPECIAIS EM GEOCIÊNCIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0685"
+      ],
+      "pre_requisitos": [
+         "FUP0326",
+         "FUP0302",
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "FUP0552",
+      "nome": "TÓPICOS ESPECIAIS EM GESTÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0777"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0219",
+      "nome": "TRABALHO DE CAMPO 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FUP0948"
+      ],
+      "pre_requisitos": [
+         "FUP0265",
+         "FUP0328",
+         "FUP0528 & FUP0326",
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "FUP0250",
+      "nome": "TRABALHO DE CAMPO 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FUP0973"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0166",
+      "nome": "TRABALHO DE CONCLUSÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0664"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0185",
+      "nome": "TRABALHO DE CONCLUSÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0667"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0210",
+      "nome": "TRABALHO DE CONCLUSÃO 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP0675"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0471",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP1153"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0408",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0473",
+         "FUP0741"
+      ],
+      "pre_requisitos": [
+         "FUP0323",
+         "FUP0303"
+      ]
+   },
+   {
+      "codigo": "FUP0473",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0753"
+      ],
+      "pre_requisitos": [
+         "FUP0408"
+      ]
+   },
+   {
+      "codigo": "FUP0474",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FUP1155"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0242",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM CIÊNCIAS NATURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0965"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0553",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM GESTÃO AMBIENTAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0560",
+         "FUP0778"
+      ],
+      "pre_requisitos": [
+         "FUP0262"
+      ]
+   },
+   {
+      "codigo": "FUP0560",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM GESTÃO AMBIENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FUP0781"
+      ],
+      "pre_requisitos": [
+         "FUP0553"
+      ]
+   },
+   {
+      "codigo": "FUP0031",
+      "nome": "TRABALHO DE CONCLUSÃO DO CURSO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0038",
+         "FUP0809"
+      ],
+      "pre_requisitos": [
+         "FUP0021"
+      ]
+   },
+   {
+      "codigo": "FUP0038",
+      "nome": "TRABALHO DE CONCLUSÃO DO CURSO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0815"
+      ],
+      "pre_requisitos": [
+         "FUP0031"
+      ]
+   },
+   {
+      "codigo": "FUP0414",
+      "nome": "TRANSPORTE E LOGÍSTICA AGROINDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0239",
+         "FUP0742"
+      ],
+      "pre_requisitos": [
+         "FUP0336"
+      ]
+   },
+   {
+      "codigo": "FUP0139",
+      "nome": "UNIVERSIDADE, SOCIEDADE E DEMOCRACIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0887"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0316",
+      "nome": "UNIVERSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0712"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0268",
+      "nome": "USO DO PROGRAMA R COM APLICAÇÕES AMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0989"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FUP0034",
+      "nome": "VIDA E BIOSFERA",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FUP0039",
+         "FUP0811"
+      ],
+      "pre_requisitos": [
+         "FUP0021"
+      ]
+   },
+   {
+      "codigo": "FUP0528",
+      "nome": "ZOOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FUP0199",
+         "FUP0200",
+         "FUP0255",
+         "FUP0409",
+         "FUP0527",
+         "FUP0600"
+      ],
+      "pre_requisitos": [
+         "FUP0355"
+      ]
+   }
 ]

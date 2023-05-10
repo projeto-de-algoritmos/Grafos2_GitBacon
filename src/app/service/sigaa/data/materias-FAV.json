@@ -1,2869 +1,3016 @@
 [
-  {
-    "cod": "FAV0296",
-    "nome": "ABASTECIMENTO, COMERCIALIZA\u00c7\u00c3O E POL\u00cdTICAS P\u00daBLICAS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0696"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0342",
-    "nome": "ADMINISTRA\u00c7\u00c3O AGROINDUSTRIAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0737"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0213",
-    "nome": "ADMINISTRACAO RURAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0639"
-    ],
-    "pre_requirements": [
-      "ECO0108"
-    ]
-  },
-  {
-    "cod": "FAV0275",
-    "nome": "ADMINISTRA\u00c7\u00c3O RURAL E COMERCIALIZA\u00c7\u00c3O AGR\u00cdCOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0229"
-    ],
-    "pre_requirements": [
-      "ECO0019",
-      "SOL0087"
-    ]
-  },
-  {
-    "cod": "FAV0251",
-    "nome": "ADUBOS E ADUBACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0662"
-    ],
-    "pre_requirements": [
-      "FAV0282",
-      "FAV0310 & FAV0311"
-    ]
-  },
-  {
-    "cod": "FAV0154",
-    "nome": "AGRICULTURA 1",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0600"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FIT0008 & ZOO0020 & FAV0069 & FIT0008 & ZOO0020 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0072",
-    "nome": "AGRICULTURA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0567"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FIT0008 & ZOO0020 & FAV0069 & FIT0008 & ZOO0020 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0045",
-    "nome": "AGRICULTURA DE PRECIS\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0550"
-    ],
-    "pre_requirements": [
-      "FAV0284"
-    ]
-  },
-  {
-    "cod": "FAV0309",
-    "nome": "AGRICULTURA FAMILIAR E DESENVOLVIMENTO RURAL NO BRASIL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0493"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0216",
-    "nome": "AGRICULTURA ORG\u00c2NICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0475"
-    ],
-    "pre_requirements": [
-      "FAV0266 & BOT0008 & FAV0274 & FAV0280"
-    ]
-  },
-  {
-    "cod": "FAV0046",
-    "nome": "AGROECOLOGIA E AGRICULTURA ORG\u00c2NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0551"
-    ],
-    "pre_requirements": [
-      "FAV0030 & FAV0069 & FAV0037"
-    ]
-  },
-  {
-    "cod": "FAV0348",
-    "nome": "AGROMETEOROLOGIA DAS PLANTAS CULTIVADAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0743"
-    ],
-    "pre_requirements": [
-      "FAV0266"
-    ]
-  },
-  {
-    "cod": "FAV0266",
-    "nome": "AGROMETEOROLOGIA E CLIMATOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0348"
-    ],
-    "pre_requirements": [
-      "IFD0192",
-      "IFD0005 & IFD0006"
-    ]
-  },
-  {
-    "cod": "FAV0295",
-    "nome": "AGRONEG\u00d3CIO E SISTEMAS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0410"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "FAV0050",
-    "nome": "AGROTOXICOS",
-    "ch": 45,
-    "post_requirements": [
-      "FAV0552"
-    ],
-    "pre_requirements": [
-      "CEL0054",
-      "CEL0019",
-      "CEL0063",
-      "CEL0082 & CEL0083"
-    ]
-  },
-  {
-    "cod": "FAV0291",
-    "nome": "AGROT\u00d3XICOS E MIP",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0691"
-    ],
-    "pre_requirements": [
-      "ZOO0018"
-    ]
-  },
-  {
-    "cod": "FAV0109",
-    "nome": "ALIMENTOS E ALIMENTA\u00c7\u00c3O ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0460"
-    ],
-    "pre_requirements": [
-      "FAV0178",
-      "FAV0113"
-    ]
-  },
-  {
-    "cod": "FAV0298",
-    "nome": "AN\u00c1LISE E TECNOLOGIA DE ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0698"
-    ],
-    "pre_requirements": [
-      "FAV0092",
-      "FAV0042"
-    ]
-  },
-  {
-    "cod": "FAV0236",
-    "nome": "ANATOMIA DOS ANIMAIS DOMESTICOS 1",
-    "ch": 120,
-    "post_requirements": [
-      "GEM0043"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0066",
-    "nome": "ANATOMIA DOS ANIMAIS DOMESTICOS 2",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0382"
-    ],
-    "pre_requirements": [
-      "FAV0236"
-    ]
-  },
-  {
-    "cod": "FAV0113",
-    "nome": "ANATOMIA E FISIOLOGIA DOS ANIMAIS DE PRODU\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0017"
-    ],
-    "pre_requirements": [
-      "CEL0054",
-      "CEL0019"
-    ]
-  },
-  {
-    "cod": "FAV0207",
-    "nome": "ANESTESIOLOGIA VETERINARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0472"
-    ],
-    "pre_requirements": [
-      "FAV0178 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0358",
-    "nome": "ANESTESIOLOGIA VETERIN\u00c1RIA PR\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0430"
-    ],
-    "pre_requirements": [
-      "FAV0356"
-    ]
-  },
-  {
-    "cod": "FAV0356",
-    "nome": "ANESTESIOLOGIA VETERIN\u00c1RIA TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0358"
-    ],
-    "pre_requirements": [
-      "FAV0178 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0329",
-    "nome": "AQUICULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0414"
-    ],
-    "pre_requirements": [
-      "FAV0113",
-      "FAV0178",
-      "ZOO0017",
-      "FUP0309"
-    ]
-  },
-  {
-    "cod": "FAV0510",
-    "nome": "AQUICULTURA E MERCADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0769"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0024",
-    "nome": "ARBORIZA\u00c7\u00c3O URBANA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0532"
-    ],
-    "pre_requirements": [
-      "FAV0211",
-      "PRO0022",
-      "PRO0060",
-      "EFL0040",
-      "BOT0078"
-    ]
-  },
-  {
-    "cod": "FAV0173",
-    "nome": "ARMAZENAMENTO E PRE-PROCESSAMENTO DE PRODUTOS AGRICOLAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0466"
-    ],
-    "pre_requirements": [
-      "GEA0011 & MAT0023",
-      "FAV0266 & MAT0023"
-    ]
-  },
-  {
-    "cod": "FAV0097",
-    "nome": "ARMAZENAMENTO TRANSPORTE E COMERCIALIZACAO DOS PRODUTOS AGROPECUARIOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0576"
-    ],
-    "pre_requirements": [
-      "ECO0108"
-    ]
-  },
-  {
-    "cod": "FAV0330",
-    "nome": "AVALIA\u00c7\u00c3O DE CARCA\u00c7AS E QUALIDADE DA CARNE",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0415"
-    ],
-    "pre_requirements": [
-      "FAV0178",
-      "FAV0113"
-    ]
-  },
-  {
-    "cod": "FAV0044",
-    "nome": "AVALIA\u00c7\u00c3O E PER\u00cdCIA DE IM\u00d3VEIS RURAIS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0549"
-    ],
-    "pre_requirements": [
-      "FAV0037 & FAV0173"
-    ]
-  },
-  {
-    "cod": "FAV0248",
-    "nome": "AVICULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0401"
-    ],
-    "pre_requirements": [
-      "FAV0180 & FAV0066 & FAV0178",
-      "FAV0150 & FAV0113",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0272",
-    "nome": "BEM-ESTAR ANIMAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0674"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0245",
-    "nome": "BEM-ESTAR ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0481"
-    ],
-    "pre_requirements": [
-      "FAV0178",
-      "FAV0113",
-      "CFS0049"
-    ]
-  },
-  {
-    "cod": "FAV0026",
-    "nome": "BIOCLIMATOLOGIA ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0534"
-    ],
-    "pre_requirements": [
-      "FAV0180",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0001",
-    "nome": "BIOCOMBUST\u00cdVEIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0511"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0273",
-    "nome": "BIOLOGIA DO SOLO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0069"
-    ],
-    "pre_requirements": [
-      "FAV0274"
-    ]
-  },
-  {
-    "cod": "FAV0146",
-    "nome": "BIOTECNICAS AVANCADAS NA REPRODUCAO",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0596"
-    ],
-    "pre_requirements": [
-      "FAV0167 & FAV0161"
-    ]
-  },
-  {
-    "cod": "FAV0043",
-    "nome": "BIOTECNOLOGIA AGR\u00cdCOLA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0428"
-    ],
-    "pre_requirements": [
-      "FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0337",
-    "nome": "BIOTERISMO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0419"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0181",
-    "nome": "BOVINOCULTURA DE CORTE",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0468"
-    ],
-    "pre_requirements": [
-      "FAV0180",
-      "FAV0150 & FAV0113",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0182",
-    "nome": "BOVINOCULTURA DE LEITE",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0469"
-    ],
-    "pre_requirements": [
-      "FAV0180",
-      "FAV0150 & FAV0113",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0239",
-    "nome": "CAPRINOCULTURA E OVINOCULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0399"
-    ],
-    "pre_requirements": [
-      "FAV0178",
-      "FAV0113"
-    ]
-  },
-  {
-    "cod": "FAV0351",
-    "nome": "CEN\u00c1RIOS CORPORATIVOS NO AGRONEG\u00d3CIO",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0429"
-    ],
-    "pre_requirements": [
-      "FUP0295"
-    ]
-  },
-  {
-    "cod": "FAV0145",
-    "nome": "CLINICA CIRURGICA DE GRANDES ANIMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0595"
-    ],
-    "pre_requirements": [
-      "FAV0165"
-    ]
-  },
-  {
-    "cod": "FAV0199",
-    "nome": "CLINICA CIRURGICA DE PEQUENOS ANIMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0396"
-    ],
-    "pre_requirements": [
-      "FAV0165",
-      "FAV0357"
-    ]
-  },
-  {
-    "cod": "FAV0005",
-    "nome": "CL\u00cdNICA E CIRURGIA DE RUMINANTES E EQUINOS 1",
-    "ch": 150,
-    "post_requirements": [
-      "FAV0007"
-    ],
-    "pre_requirements": [
-      "FAV0297 & FAV0158  &  FAV0015",
-      "FAV0359  &  FAV0207",
-      "FAV0356  &  FAV0166",
-      "FAV0365  &  FAV0165",
-      "FAV0357"
-    ]
-  },
-  {
-    "cod": "FAV0007",
-    "nome": "CL\u00cdNICA E CIRURGIA DE RUMINANTES E EQUINOS 2",
-    "ch": 150,
-    "post_requirements": [
-      "FAV0373"
-    ],
-    "pre_requirements": [
-      "FAV0005"
-    ]
-  },
-  {
-    "cod": "FAV0003",
-    "nome": "CL\u00cdNICA M\u00c9DICA DE ANIMAIS DE COMPANHIA 1",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0004"
-    ],
-    "pre_requirements": [
-      "FAV0303 & FAV0066  &  FAV0166",
-      "FAV0365  &  FAV0207",
-      "FAV0356"
-    ]
-  },
-  {
-    "cod": "FAV0369",
-    "nome": "CL\u00cdNICA M\u00c9DICA DE ANIMAIS DE COMPANHIA 1 PR\u00c1TICA",
-    "ch": 45,
-    "post_requirements": [
-      "FAV0435"
-    ],
-    "pre_requirements": [
-      "FAV0368"
-    ]
-  },
-  {
-    "cod": "FAV0368",
-    "nome": "CL\u00cdNICA M\u00c9DICA DE ANIMAIS DE COMPANHIA 1 TE\u00d3RICA",
-    "ch": 45,
-    "post_requirements": [
-      "FAV0004"
-    ],
-    "pre_requirements": [
-      "FAV0303 & FAV0066  &  FAV0166",
-      "FAV0365  &  FAV0207",
-      "FAV0356"
-    ]
-  },
-  {
-    "cod": "FAV0004",
-    "nome": "CL\u00cdNICA M\u00c9DICA DE ANIMAIS DE COMPANHIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0371"
-    ],
-    "pre_requirements": [
-      "FAV0368",
-      "FAV0003"
-    ]
-  },
-  {
-    "cod": "FAV0171",
-    "nome": "COMERCIALIZACAO AGRICOLA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0613"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0010",
-    "nome": "COMPORTAMENTO DO CONSUMIDOR DE ALIMENTOS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0440"
-    ],
-    "pre_requirements": [
-      "FUP0295"
-    ]
-  },
-  {
-    "cod": "FAV0008",
-    "nome": "COMPORTAMENTO ORGANIZACIONAL NOS AMBIENTES RURAL E AGROINDUSTRIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0438"
-    ],
-    "pre_requirements": [
-      "ADM0023 & FUP0277"
-    ]
-  },
-  {
-    "cod": "FAV0198",
-    "nome": "CONSERVACAO DO SOLO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0631"
-    ],
-    "pre_requirements": [
-      "FAV0148 & IGD0043 & FAV0069 & IGD0043 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0076",
-    "nome": "CONSTRUCOES RURAIS 1",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0116"
-    ],
-    "pre_requirements": [
-      "ENC0053 & IGD0043"
-    ]
-  },
-  {
-    "cod": "FAV0116",
-    "nome": "CONSTRUCOES RURAIS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0582"
-    ],
-    "pre_requirements": [
-      "FAV0076",
-      "FAV0277"
-    ]
-  },
-  {
-    "cod": "FAV0040",
-    "nome": "CONSTRU\u00c7\u00d5ES RURAIS E AMBI\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0453"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0175",
-    "nome": "COOPERATIVISMO",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0467"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0320",
-    "nome": "CULTIVOS CONSORCIADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0719"
-    ],
-    "pre_requirements": [
-      "FAV0310 & FAV0311 & FAV0292"
-    ]
-  },
-  {
-    "cod": "FAV0287",
-    "nome": "CULTIVO SOB PROTE\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0488"
-    ],
-    "pre_requirements": [
-      "FAV0137"
-    ]
-  },
-  {
-    "cod": "FAV0334",
-    "nome": "CULTURA DE ESPECIARIAS E CONDIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0418"
-    ],
-    "pre_requirements": [
-      "FAV0030"
-    ]
-  },
-  {
-    "cod": "FAV0308",
-    "nome": "CULTURAS DE GRAN\u00cdFERAS DE INVERNO",
-    "ch": 45,
-    "post_requirements": [
-      "FAV0707"
-    ],
-    "pre_requirements": [
-      "FAV0069 & FIT0030 & ZOO0020 & BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0311",
-    "nome": "CULTURAS DE GRAN\u00cdFERAS DE VER\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0095"
-    ],
-    "pre_requirements": [
-      "FAV0069 & FIT0030 & ZOO0020 & BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0318",
-    "nome": "CULTURAS OLEAGINOSAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0717"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FAV0069 & FAV0266 & FIT0030 & ZOO0020"
-    ]
-  },
-  {
-    "cod": "FAV0340",
-    "nome": "CUNICULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0736"
-    ],
-    "pre_requirements": [
-      "FAV0180",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0183",
-    "nome": "DEONTOLOGIA VETERINARIA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0622"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0041",
-    "nome": "DESENHO T\u00c9CNICO",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0211"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0277",
-    "nome": "DESENHO T\u00c9CNICO E CONSTRU\u00c7\u00d5ES RURAIS 1",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0116"
-    ],
-    "pre_requirements": [
-      "IGD0043",
-      "IGD0183"
-    ]
-  },
-  {
-    "cod": "FAV0346",
-    "nome": "DESENVOLVIMENTO E GEST\u00c3O DE PROJETOS NO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0499"
-    ],
-    "pre_requirements": [
-      "FUP0277"
-    ]
-  },
-  {
-    "cod": "FAV0370",
-    "nome": "DESENVOLVIMENTO RURAL SUSTENT\u00c1VEL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0765"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0331",
-    "nome": "DIAGN\u00d3STICO HISTOPATOL\u00d3GICO",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0727"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0243",
-    "nome": "DIAGNOSTICO POR IMAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0400"
-    ],
-    "pre_requirements": [
-      "FAV0166",
-      "FAV0365"
-    ]
-  },
-  {
-    "cod": "FAV0261",
-    "nome": "DIAGNOSTICO RURAL PARTICIPATIVO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0268"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0268",
-    "nome": "DIAGNOSTICO RURAL PARTICIPATIVO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0670"
-    ],
-    "pre_requirements": [
-      "FAV0261"
-    ]
-  },
-  {
-    "cod": "FAV0297",
-    "nome": "DOEN\u00c7AS INFECCIOSAS DOS ANIMAIS DOM\u00c9STICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0084"
-    ],
-    "pre_requirements": [
-      "FAV0160 & FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0015",
-    "nome": "DOEN\u00c7AS PARASIT\u00c1RIAS DOS ANIMAIS DOM\u00c9STICOS",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0445"
-    ],
-    "pre_requirements": [
-      "FAV0018",
-      "FAV0362  &  FAV0158 & FAV0179 & FAV0160"
-    ]
-  },
-  {
-    "cod": "FAV0361",
-    "nome": "DOEN\u00c7AS PARASIT\u00c1RIAS DOS ANIMAIS DOM\u00c9STICOS PR\u00c1TICA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0432"
-    ],
-    "pre_requirements": [
-      "FAV0359"
-    ]
-  },
-  {
-    "cod": "FAV0359",
-    "nome": "DOEN\u00c7AS PARASIT\u00c1RIAS DOS ANIMAIS DOM\u00c9STICOS TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0361"
-    ],
-    "pre_requirements": [
-      "FAV0018 & FAV0158 & FAV0179 & FAV0160"
-    ]
-  },
-  {
-    "cod": "FAV0218",
-    "nome": "DRENAGEM AGRICOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0642"
-    ],
-    "pre_requirements": [
-      "FAV0074",
-      "ENC0167",
-      "ENC0251 & ENC0252"
-    ]
-  },
-  {
-    "cod": "FAV0148",
-    "nome": "EDAFOLOGIA",
-    "ch": 90,
-    "post_requirements": [
-      "GEA0030"
-    ],
-    "pre_requirements": [
-      "IGD0021 & IQD0118",
-      "IGD0021 & IQD0063"
-    ]
-  },
-  {
-    "cod": "FAV0229",
-    "nome": "ELABORA\u00c7\u00c3O DE PROJETOS AGROPECU\u00c1RIOS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0477"
-    ],
-    "pre_requirements": [
-      "FAV0275",
-      "FAV0230"
-    ]
-  },
-  {
-    "cod": "FAV0021",
-    "nome": "ELABORA\u00c7\u00c3O DE PROJETOS PAISAGISTICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0530"
-    ],
-    "pre_requirements": [
-      "FAV0277 & FAV0211",
-      "ENC0053"
-    ]
-  },
-  {
-    "cod": "FAV0125",
-    "nome": "ELETRIFICACAO RURAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0586"
-    ],
-    "pre_requirements": [
-      "FAV0123"
-    ]
-  },
-  {
-    "cod": "FAV0269",
-    "nome": "ELETROFORESE DE ISOZIMAS EM PLANTAS CULTIVADAS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0671"
-    ],
-    "pre_requirements": [
-      "CEL0054 & IFD0192 & FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0025",
-    "nome": "EMPREENDEDORISMO E MARKETING RURAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0375"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "FAV0215",
-    "nome": "ENERGIA RENOVAVEL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0640"
-    ],
-    "pre_requirements": [
-      "IFD0067",
-      "IFD0192 & CEL0019",
-      "CEL0054"
-    ]
-  },
-  {
-    "cod": "FAV0160",
-    "nome": "EPIDEMIOLOGIA VETERINARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0463"
-    ],
-    "pre_requirements": [
-      "EST0027",
-      "FAV0016  &  FAV0206"
-    ]
-  },
-  {
-    "cod": "FAV0237",
-    "nome": "EQUINOCULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0480"
-    ],
-    "pre_requirements": [
-      "FAV0180",
-      "FAV0150 & FAV0113",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0129",
-    "nome": "ESTAGIO SUPERVISIONADO",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0587"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0184",
-    "nome": "ESTAGIO SUPERVISIONADO",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0470"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0294",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0489"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0011",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0012"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0012",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0442"
-    ],
-    "pre_requirements": [
-      "FAV0011"
-    ]
-  },
-  {
-    "cod": "FAV0038",
-    "nome": "ESTAT\u00cdSTICA EXPERIMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0452"
-    ],
-    "pre_requirements": [
-      "EST0027"
-    ]
-  },
-  {
-    "cod": "FAV0313",
-    "nome": "\u00c9TICA E LEGISLA\u00c7\u00c3O PROFISSIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0712"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0225",
-    "nome": "EVOLUCAO DE PLANTAS CULTIVADAS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0644"
-    ],
-    "pre_requirements": [
-      "FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0192",
-    "nome": "EXPERIMENTACAO AGRICOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0628"
-    ],
-    "pre_requirements": [
-      "EST0027"
-    ]
-  },
-  {
-    "cod": "FAV0088",
-    "nome": "EXTENSAO RURAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0142"
-    ],
-    "pre_requirements": [
-      "FAV0248 & FAV0249",
-      "ECO0019 & SOL0087"
-    ]
-  },
-  {
-    "cod": "FAV0179",
-    "nome": "FARMACOLOGIA VETERINARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0271"
-    ],
-    "pre_requirements": [
-      "FAV0178"
-    ]
-  },
-  {
-    "cod": "FAV0271",
-    "nome": "FARMACOVIGILANCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0673"
-    ],
-    "pre_requirements": [
-      "FAV0179",
-      "FAR0032",
-      "FAR0125"
-    ]
-  },
-  {
-    "cod": "FAV0339",
-    "nome": "FATORES DE PRODU\u00c7\u00c3O AGROPECU\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0497"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0068",
-    "nome": "FERTILIDADE DO SOLO",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0565"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0069",
-    "nome": "FERTILIDADE DO SOLO E ADUBA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0053"
-    ],
-    "pre_requirements": [
-      "FAV0273"
-    ]
-  },
-  {
-    "cod": "FAV0022",
-    "nome": "F\u00cdSICA DO SOLO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0426"
-    ],
-    "pre_requirements": [
-      "IFD0005 & IFD0006",
-      "IFD0171 & IFD0173 & MAT0025",
-      "MAT0071 & FAV0274",
-      "IGD0028",
-      "EFL0089"
-    ]
-  },
-  {
-    "cod": "FAV0052",
-    "nome": "FISIOLOGIA VETERINARIA 1",
-    "ch": 90,
-    "post_requirements": [
-      "CFS0045"
-    ],
-    "pre_requirements": [
-      "CEL0077",
-      "CEL0054  &  CEL0089"
-    ]
-  },
-  {
-    "cod": "FAV0178",
-    "nome": "FISIOLOGIA VETERINARIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0017"
-    ],
-    "pre_requirements": [
-      "FAV0052 & FAV0236"
-    ]
-  },
-  {
-    "cod": "FAV0161",
-    "nome": "FISIOPATOLOGIA DA REPRODUCAO DA FEMEA",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0242"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0167",
-    "nome": "FISIOPATOLOGIA DA REPRODUCAO DO MACHO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0391"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0323",
-    "nome": "FLORICULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0721"
-    ],
-    "pre_requirements": [
-      "FAV0030"
-    ]
-  },
-  {
-    "cod": "FAV0286",
-    "nome": "FORRAGICULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0686"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FAV0069 & FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0132",
-    "nome": "FRUTICULTURA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0588"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FIT0008 & ZOO0020 & FAV0069",
-      "FIT0030 & BOT0008 & ZOO0020 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0135",
-    "nome": "FRUTICULTURA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0589"
-    ],
-    "pre_requirements": [
-      "FAV0292"
-    ]
-  },
-  {
-    "cod": "FAV0292",
-    "nome": "FRUTICULTURA GERAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0135",
-      "FAV0316"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FIT0008 & ZOO0020 & FAV0069",
-      "FIT0030 & BOT0008 & ZOO0020 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0316",
-    "nome": "FRUTICULTURA SUBTROPICAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0715"
-    ],
-    "pre_requirements": [
-      "FAV0292",
-      "FAV0030"
-    ]
-  },
-  {
-    "cod": "FAV0319",
-    "nome": "FRUTICULTURA TROPICAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0495"
-    ],
-    "pre_requirements": [
-      "FAV0292",
-      "FAV0030"
-    ]
-  },
-  {
-    "cod": "FAV0274",
-    "nome": "FUNDAMENTOS DE CI\u00caNCIA DO SOLO",
-    "ch": 90,
-    "post_requirements": [
-      "GEA0030"
-    ],
-    "pre_requirements": [
-      "IQD0209",
-      "IQD0125",
-      "IQD0252 & IQD0126"
-    ]
-  },
-  {
-    "cod": "FAV0110",
-    "nome": "GENETICA QUANTITATIVA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0580"
-    ],
-    "pre_requirements": [
-      "GEM0014 & EST0027"
-    ]
-  },
-  {
-    "cod": "FAV0312",
-    "nome": "GEOPROCESSAMENTO APLICADO \u00c0S CI\u00caNCIAS AGR\u00c1RIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0711"
-    ],
-    "pre_requirements": [
-      "IGD0043"
-    ]
-  },
-  {
-    "cod": "FAV0300",
-    "nome": "GER\u00caNCIA DA PROPRIEDADE RURAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0700"
-    ],
-    "pre_requirements": [
-      "FAV0275"
-    ]
-  },
-  {
-    "cod": "FAV0156",
-    "nome": "GERENCIA DE MAQUINAS AGRICOLAS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0601"
-    ],
-    "pre_requirements": [
-      "FAV0284",
-      "FAV0152"
-    ]
-  },
-  {
-    "cod": "FAV0002",
-    "nome": "GEST\u00c3O DE RES\u00cdDUOS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0436"
-    ],
-    "pre_requirements": [
-      "FUP0411"
-    ]
-  },
-  {
-    "cod": "FAV0009",
-    "nome": "GEST\u00c3O DO TRABALHO NO CONTEXTO RURAL E AGROINDUSTRIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0439"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0537",
-    "nome": "GEST\u00c3O E MERCADO NA AQUICULTURA",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0282",
-    "nome": "GRANDES CULTURAS 1",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0251"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0310",
-    "nome": "GRANDES CULTURAS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0709"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FAV0069 & FAV0266 & FIT0030 & ZOO0020"
-    ]
-  },
-  {
-    "cod": "FAV0288",
-    "nome": "GRANDES CULTURAS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0688"
-    ],
-    "pre_requirements": [
-      "BOT0008 & IQD0209 & ZOO0020 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0074",
-    "nome": "HIDRAULICA AGRICOLA",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0218"
-    ],
-    "pre_requirements": [
-      "FAV0148 & IGD0043 & GEA0011 & IGD0043 & GEA0011"
-    ]
-  },
-  {
-    "cod": "FAV0290",
-    "nome": "HIDR\u00c1ULICA APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0027"
-    ],
-    "pre_requirements": [
-      "IFD0005 & IFD0006 & MAT0022 & MAT0023 & IGD0183",
-      "IFD0192 & MAT0022 & MAT0023 & IGD0183"
-    ]
-  },
-  {
-    "cod": "FAV0032",
-    "nome": "HIDR\u00c1ULICA E HIDROLOGIA APLICADAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0027"
-    ],
-    "pre_requirements": [
-      "MAT0023 & IFD0005 & IGD0183 & FAV0274"
-    ]
-  },
-  {
-    "cod": "FAV0304",
-    "nome": "HIDROLOGIA DE PEQUENAS BACIAS HIDROGR\u00c1FICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0492"
-    ],
-    "pre_requirements": [
-      "FAV0290",
-      "FAV0074"
-    ]
-  },
-  {
-    "cod": "FAV0030",
-    "nome": "HORTICULTURA GERAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0137"
-    ],
-    "pre_requirements": [
-      "FAV0069 & FAV0266 & BOT0008 & FIT0030"
-    ]
-  },
-  {
-    "cod": "FAV0343",
-    "nome": "INFORM\u00c1TICA APLICADA \u00c0 AGROPECU\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0738"
-    ],
-    "pre_requirements": [
-      "EST0027"
-    ]
-  },
-  {
-    "cod": "FAV0285",
-    "nome": "INOCULANTES E BIOFERTILIZANTES",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0487"
-    ],
-    "pre_requirements": [
-      "FAV0273"
-    ]
-  },
-  {
-    "cod": "FAV0120",
-    "nome": "INSEMINACAO ARTIFICIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0584"
-    ],
-    "pre_requirements": [
-      "FAV0113"
-    ]
-  },
-  {
-    "cod": "FAV0208",
-    "nome": "INSPECAO DE CARNES E DERIVADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0473"
-    ],
-    "pre_requirements": [
-      "FAV0168  &  FAV0166",
-      "FAV0365"
-    ]
-  },
-  {
-    "cod": "FAV0186",
-    "nome": "INSPECAO DE LEITE E DERIVADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0471"
-    ],
-    "pre_requirements": [
-      "FAV0169"
-    ]
-  },
-  {
-    "cod": "FAV0257",
-    "nome": "INTERPRETACAO E USO DO SOLO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0665"
-    ],
-    "pre_requirements": [
-      "FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0190",
-    "nome": "INTRODUCAO A AGRONOMIA",
-    "ch": 15,
-    "post_requirements": [
-      "FAV0627"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0280",
-    "nome": "INTRODU\u00c7\u00c3O A AGRONOMIA E CI\u00caNCIAS AMBIENTAIS",
-    "ch": 60,
-    "post_requirements": [
-      "CDS0004"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0028",
-    "nome": "INTRODU\u00c7\u00c3O A AGRONOMIA, \u00c9TICA E LEGISLA\u00c7\u00c3O PROFISSIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0448"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0234",
-    "nome": "INTRODUCAO A MEDICINA VETERINARIA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0479"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0230",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 PROJETOS AGROPECU\u00c1RIOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0229"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0027",
-    "nome": "IRRIGA\u00c7\u00c3O E DRENAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0376"
-    ],
-    "pre_requirements": [
-      "FAV0032",
-      "FAV0290"
-    ]
-  },
-  {
-    "cod": "FAV0064",
-    "nome": "JARDINAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0456"
-    ],
-    "pre_requirements": [
-      "BOT0008",
-      "PRO0022",
-      "PRO0060",
-      "BOT0078",
-      "FCE0220",
-      "BOT0044"
-    ]
-  },
-  {
-    "cod": "FAV0222",
-    "nome": "MANEJO DE PLANTAS DANINHAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0476"
-    ],
-    "pre_requirements": [
-      "FAV0030 & FAV0037",
-      "BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0279",
-    "nome": "MANEJO E CONSERVA\u00c7\u00c3O DO SOLO E DA \u00c1GUA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0486"
-    ],
-    "pre_requirements": [
-      "IGD0043 & FAV0069",
-      "FAV0069 & IGD0183 & IGD0207"
-    ]
-  },
-  {
-    "cod": "FAV0281",
-    "nome": "MANEJO E M\u00c9TODOS DE IRRIGA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0682"
-    ],
-    "pre_requirements": [
-      "FAV0290 & FAV0274"
-    ]
-  },
-  {
-    "cod": "FAV0317",
-    "nome": "MANEJO INTEGRADO DE ARTR\u00d3PODES-PRAGA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0412"
-    ],
-    "pre_requirements": [
-      "ZOO0018 & FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0053",
-    "nome": "MANEJO INTEGRADO DE ARTR\u00d3PODES-PRAGA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0381"
-    ],
-    "pre_requirements": [
-      "ZOO0018",
-      "FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0284",
-    "nome": "M\u00c1QUINAS E MECANIZA\u00c7\u00c3O AGR\u00cdCOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0045"
-    ],
-    "pre_requirements": [
-      "IFD0005 & IFD0006 & MAT0022",
-      "IFD0192 & MAT0022"
-    ]
-  },
-  {
-    "cod": "FAV0344",
-    "nome": "MARKETING AGROINDUSTRIAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0498"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0255",
-    "nome": "MARKETING RURAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0664"
-    ],
-    "pre_requirements": [
-      "ECO0019 & FAV0275"
-    ]
-  },
-  {
-    "cod": "FAV0152",
-    "nome": "MECANICA DOS MOTORES E MAQUINAS AGRICOLAS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0123"
-    ],
-    "pre_requirements": [
-      "IFD0192",
-      "IFD0067",
-      "IFD0005"
-    ]
-  },
-  {
-    "cod": "FAV0123",
-    "nome": "MECANICA DOS MOTORES E MAQUINAS AGRICOLAS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0125"
-    ],
-    "pre_requirements": [
-      "FAV0152"
-    ]
-  },
-  {
-    "cod": "FAV0332",
-    "nome": "MEDICINA VETERIN\u00c1RIA LEGAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0416"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0101",
-    "nome": "MELHORAMENTO DE PLANTAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0034"
-    ],
-    "pre_requirements": [
-      "GEM0014 & EST0027",
-      "GEM0014 & FAV0038"
-    ]
-  },
-  {
-    "cod": "FAV0228",
-    "nome": "MELHORAMENTO DE PLANTAS PERENES",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0645"
-    ],
-    "pre_requirements": [
-      "FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0263",
-    "nome": "MELHORAMENTO GENETICO ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0485"
-    ],
-    "pre_requirements": [
-      "EST0027 & GEM0014",
-      "FAV0016 & GEM0014"
-    ]
-  },
-  {
-    "cod": "FAV0203",
-    "nome": "MELHORAMENTO GENETICO EM HORTICULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0633"
-    ],
-    "pre_requirements": [
-      "FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0090",
-    "nome": "MELHORAMENTO POR MEIOS CITOGENETICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0573"
-    ],
-    "pre_requirements": [
-      "GEM0014"
-    ]
-  },
-  {
-    "cod": "FAV0350",
-    "nome": "METODOLOGIA CIENT\u00cdFICA APLICADA \u00c0S CI\u00caNCIAS AGR\u00c1RIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0502"
-    ],
-    "pre_requirements": [
-      "FAV0101",
-      "FAV0088"
-    ]
-  },
-  {
-    "cod": "FAV0302",
-    "nome": "M\u00c9TODOS DE EXPERIMENTA\u00c7\u00c3O  COM ANIMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0702"
-    ],
-    "pre_requirements": [
-      "EST0027"
-    ]
-  },
-  {
-    "cod": "FAV0354",
-    "nome": "M\u00c9TODOS QUALITATIVOS APLICADOS AO AGRONEG\u00d3CIO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0503"
-    ],
-    "pre_requirements": [
-      "FUP0311"
-    ]
-  },
-  {
-    "cod": "FAV0345",
-    "nome": "M\u00c9TODOS QUANTITATIVOS EM GEST\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0420"
-    ],
-    "pre_requirements": [
-      "EST0019"
-    ]
-  },
-  {
-    "cod": "FAV0016",
-    "nome": "M\u00c9TODOS QUANTITATIVOS EM MEDICINA VETERIN\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0374"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0163",
-    "nome": "MICROBIOLOGIA BIOTECNOLOGIA AGRICOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0606"
-    ],
-    "pre_requirements": [
-      "CEL0054",
-      "CEL0054 & BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0206",
-    "nome": "MICROBIOLOGIA VETERINARIA",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0397"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0177",
-    "nome": "MICROINFORMATICA APLICADA A AGRICULTURA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0616"
-    ],
-    "pre_requirements": [
-      "EST0027 & IFD0005 & IFD0006",
-      "EST0027 & IFD0192"
-    ]
-  },
-  {
-    "cod": "FAV0142",
-    "nome": "MONITOIRA EM ENTENSAO RURAL",
-    "ch": 75,
-    "post_requirements": [
-      "FAV0592"
-    ],
-    "pre_requirements": [
-      "FAV0088"
-    ]
-  },
-  {
-    "cod": "FAV0512",
-    "nome": "NEUROLOGIA VETERIN\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [],
-    "pre_requirements": [
-      "FAV0006"
-    ]
-  },
-  {
-    "cod": "FAV0180",
-    "nome": "NUTRICAO ANIMAL",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0026"
-    ],
-    "pre_requirements": [
-      "FAV0178",
-      "FAV0113"
-    ]
-  },
-  {
-    "cod": "FAV0314",
-    "nome": "NUTRI\u00c7\u00c3O DE EQUINOS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0713"
-    ],
-    "pre_requirements": [
-      "FAV0276",
-      "FAV0180"
-    ]
-  },
-  {
-    "cod": "FAV0247",
-    "nome": "NUTRICAO DE MONOGASTRICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0659"
-    ],
-    "pre_requirements": [
-      "FAV0180",
-      "FAV0150 & FAV0113",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0246",
-    "nome": "NUTRI\u00c7\u00c3O DE RUMINANTES",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0482"
-    ],
-    "pre_requirements": [
-      "FAV0178",
-      "FAV0113"
-    ]
-  },
-  {
-    "cod": "FAV0253",
-    "nome": "NUTRICAO MINERAL DE PLANTAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0483"
-    ],
-    "pre_requirements": [
-      "BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0242",
-    "nome": "OBSTETRICIA VETERINARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0655"
-    ],
-    "pre_requirements": [
-      "FAV0161"
-    ]
-  },
-  {
-    "cod": "FAV0051",
-    "nome": "OFTALMOLOGIA VETERIN\u00c1RIA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0553"
-    ],
-    "pre_requirements": [
-      "FAV0165"
-    ]
-  },
-  {
-    "cod": "FAV0137",
-    "nome": "OLERICULTURA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0095"
-    ],
-    "pre_requirements": [
-      "BOT0008 & FIT0008 & ZOO0020 & FAV0069",
-      "FIT0030 & BOT0008 & ZOO0020 & FAV0069",
-      "FAV0030"
-    ]
-  },
-  {
-    "cod": "FAV0140",
-    "nome": "OLERICULTURA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0591"
-    ],
-    "pre_requirements": [
-      "FAV0137"
-    ]
-  },
-  {
-    "cod": "FAV0211",
-    "nome": "PAISAGISMO, PARQUES E JARDINS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0024"
-    ],
-    "pre_requirements": [
-      "FAV0274",
-      "EFL0083 & BOT0008 & FAV0277",
-      "FAV0041"
-    ]
-  },
-  {
-    "cod": "FAV0159",
-    "nome": "PARASITOLOGIA E DOENCAS PARASITARIAS",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0603"
-    ],
-    "pre_requirements": [
-      "FAV0066 & GEM0042 & CEL0025"
-    ]
-  },
-  {
-    "cod": "FAV0018",
-    "nome": "PARASITOLOGIA VETERIN\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0447"
-    ],
-    "pre_requirements": [
-      "FAV0066 & GEM0042"
-    ]
-  },
-  {
-    "cod": "FAV0364",
-    "nome": "PARASITOLOGIA VETERIN\u00c1RIA PR\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0433"
-    ],
-    "pre_requirements": [
-      "FAV0362"
-    ]
-  },
-  {
-    "cod": "FAV0362",
-    "nome": "PARASITOLOGIA VETERIN\u00c1RIA TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0364"
-    ],
-    "pre_requirements": [
-      "FAV0236 & GEM0042"
-    ]
-  },
-  {
-    "cod": "FAV0143",
-    "nome": "PATOLOGIA CLINICA CIRURGICA VETERINARIA",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0593"
-    ],
-    "pre_requirements": [
-      "FAV0165"
-    ]
-  },
-  {
-    "cod": "FAV0166",
-    "nome": "PATOLOGIA CL\u00cdNICA VETERIN\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0243"
-    ],
-    "pre_requirements": [
-      "FAV0158  &  FAV0178  &  FAV0206  &   FAV0018",
-      "FAV0362"
-    ]
-  },
-  {
-    "cod": "FAV0366",
-    "nome": "PATOLOGIA CL\u00cdNICA VETERIN\u00c1RIA PR\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0505"
-    ],
-    "pre_requirements": [
-      "FAV0365"
-    ]
-  },
-  {
-    "cod": "FAV0365",
-    "nome": "PATOLOGIA CL\u00cdNICA VETERIN\u00c1RIA TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0243"
-    ],
-    "pre_requirements": [
-      "FAV0018",
-      "FAV0362  &  FAV0178 & FAV0158 & FAV0206"
-    ]
-  },
-  {
-    "cod": "FAV0303",
-    "nome": "PATOLOGIA GERAL VETERIN\u00c1RIA",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0158"
-    ],
-    "pre_requirements": [
-      "GEM0042 & FAV0066 & FAV0234"
-    ]
-  },
-  {
-    "cod": "FAV0158",
-    "nome": "PATOLOGIA VETERIN\u00c1RIA",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0006"
-    ],
-    "pre_requirements": [
-      "FAV0303"
-    ]
-  },
-  {
-    "cod": "FAV0349",
-    "nome": "PESQUISA OPERACIONAL EM SISTEMAS AGROINDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0501"
-    ],
-    "pre_requirements": [
-      "MAT0071",
-      "MAT0022",
-      "MAT0025"
-    ]
-  },
-  {
-    "cod": "FAV0301",
-    "nome": "PESQUISA PARTICIPANTE",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0701"
-    ],
-    "pre_requirements": [
-      "FAV0088"
-    ]
-  },
-  {
-    "cod": "FAV0195",
-    "nome": "PLANEJAMENTO E DESENVOLVIMENTO AGRICOLA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0629"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0164",
-    "nome": "PLANEJAMENTO EM SAUDE ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0607"
-    ],
-    "pre_requirements": [
-      "FAV0160 & FAV0297"
-    ]
-  },
-  {
-    "cod": "FAV0105",
-    "nome": "PLANTAS FORRAGEIRAS E PASTAGENS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0385"
-    ],
-    "pre_requirements": [
-      "FAV0069 & BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0259",
-    "nome": "POLITICA AGRICOLA E DESENVOLVIMENTO RURAL",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0484"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0084",
-    "nome": "POL\u00cdTICAS P\u00daBLICAS DE SA\u00daDE ANIMAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0457"
-    ],
-    "pre_requirements": [
-      "FAV0297"
-    ]
-  },
-  {
-    "cod": "FAV0347",
-    "nome": "P\u00d3S-COLHEITA DE FRUTAS E HORTALI\u00c7AS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0500"
-    ],
-    "pre_requirements": [
-      "FAV0292",
-      "FAV0137"
-    ]
-  },
-  {
-    "cod": "FAV0185",
-    "nome": "PRATICA HOSPITALAR VETERINARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0624"
-    ],
-    "pre_requirements": [
-      "FAV0179 & FAV0166"
-    ]
-  },
-  {
-    "cod": "FAV0055",
-    "nome": "PR\u00c1TICA HOSPITALAR VETERIN\u00c1RIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0557"
-    ],
-    "pre_requirements": [
-      "FAV0179 & FAV0166"
-    ]
-  },
-  {
-    "cod": "FAV0056",
-    "nome": "PR\u00c1TICA HOSPITALAR VETERIN\u00c1RIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0558"
-    ],
-    "pre_requirements": [
-      "FAV0179 & FAV0166"
-    ]
-  },
-  {
-    "cod": "FAV0057",
-    "nome": "PR\u00c1TICA HOSPITALAR VETERIN\u00c1RIA 4",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0559"
-    ],
-    "pre_requirements": [
-      "FAV0179 & FAV0166"
-    ]
-  },
-  {
-    "cod": "FAV0338",
-    "nome": "PR\u00c1TICAS CIR\u00daRGICAS EM PEQUENOS ANIMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0734"
-    ],
-    "pre_requirements": [
-      "FAV0165 & FAV0199 & FAV0207"
-    ]
-  },
-  {
-    "cod": "FAV0325",
-    "nome": "PR\u00c1TICAS EM MEDICINA VETERIN\u00c1RIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0496"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0059",
-    "nome": "PR\u00c1TICAS EM MEDICINA VETERIN\u00c1RIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0560"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0061",
-    "nome": "PR\u00c1TICAS EM MEDICINA VETERIN\u00c1RIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0561"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0063",
-    "nome": "PR\u00c1TICAS EM MEDICINA VETERIN\u00c1RIA 4",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0455"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0054",
-    "nome": "PR\u00c1TICAS LABORATORIAIS EM FERTILIDADE DO SOLO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0556"
-    ],
-    "pre_requirements": [
-      "FAV0069"
-    ]
-  },
-  {
-    "cod": "FAV0355",
-    "nome": "PRINC\u00cdPIOS DE SOCIOLOGIA ECON\u00d4MICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0504"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0029",
-    "nome": "PRODU\u00c7\u00c3O DE AVES E SU\u00cdNOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0449"
-    ],
-    "pre_requirements": [
-      "FAV0276",
-      "FAV0180"
-    ]
-  },
-  {
-    "cod": "FAV0031",
-    "nome": "PRODU\u00c7\u00c3O DE BOVINOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0450"
-    ],
-    "pre_requirements": [
-      "FAV0276",
-      "FAV0180"
-    ]
-  },
-  {
-    "cod": "FAV0117",
-    "nome": "PRODUCAO E CONTROLE DE PRODUTOS BIOLOGICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0583"
-    ],
-    "pre_requirements": [
-      "FAV0206 & FAV0159 & CEL0025 & FAV0179 & FAV0297"
-    ]
-  },
-  {
-    "cod": "FAV0017",
-    "nome": "PRODU\u00c7\u00c3O E MANEJO DE ANIMAIS SILVESTRES E EX\u00d3TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0446"
-    ],
-    "pre_requirements": [
-      "FAV0113",
-      "FAV0178",
-      "ZOO0017",
-      "ECL0039"
-    ]
-  },
-  {
-    "cod": "FAV0095",
-    "nome": "PRODU\u00c7\u00c3O E TECNOLOGIA DE SEMENTES",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0384"
-    ],
-    "pre_requirements": [
-      "FAV0101 & BOT0008 & FAV0310",
-      "FAV0311",
-      "FAV0137"
-    ]
-  },
-  {
-    "cod": "FAV0307",
-    "nome": "RELA\u00c7\u00d5ES \u00c1GUA-SOLO-PLANTA EM SISTEMAS AGRICOLAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0706"
-    ],
-    "pre_requirements": [
-      "FAV0290 & FAV0274",
-      "FAV0032 & FAV0274"
-    ]
-  },
-  {
-    "cod": "FAV0187",
-    "nome": "SANEAMENTO",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0626"
-    ],
-    "pre_requirements": [
-      "FAV0206 & FAV0159"
-    ]
-  },
-  {
-    "cod": "FAV0144",
-    "nome": "SAUDE E CLINICA DAS AVES",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0461"
-    ],
-    "pre_requirements": [
-      "FAV0166 & FAV0179 & FAV0248"
-    ]
-  },
-  {
-    "cod": "FAV0315",
-    "nome": "SA\u00daDE E CL\u00cdNICA DE ANIMAIS SILVESTRES",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0494"
-    ],
-    "pre_requirements": [
-      "FAV0166 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0241",
-    "nome": "SAUDE E CLINICA DOS ANIMAIS DE COMPANHIA",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0654"
-    ],
-    "pre_requirements": [
-      "FAV0166 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0205",
-    "nome": "SAUDE E CLINICA DOS EQUINOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0634"
-    ],
-    "pre_requirements": [
-      "FAV0166 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0196",
-    "nome": "SAUDE E CLINICA DOS RUMINANTES",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0630"
-    ],
-    "pre_requirements": [
-      "FAV0166 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0240",
-    "nome": "SAUDE E CLINICA DOS SUINOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0653"
-    ],
-    "pre_requirements": [
-      "FAV0166 & FAV0179"
-    ]
-  },
-  {
-    "cod": "FAV0328",
-    "nome": "SA\u00daDE P\u00daBLICA VETERIN\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0336"
-    ],
-    "pre_requirements": [
-      "FAV0015 & FAV0297 & FAV0160",
-      "FAV0359 & FAV0297 & FAV0160"
-    ]
-  },
-  {
-    "cod": "FAV0006",
-    "nome": "SEMIOLOGIA VETERIN\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0437"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0367",
-    "nome": "SEMIOLOGIA VETERIN\u00c1RIA PR\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0434"
-    ],
-    "pre_requirements": [
-      "FAV0363"
-    ]
-  },
-  {
-    "cod": "FAV0363",
-    "nome": "SEMIOLOGIA VETERIN\u00c1RIA TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0367"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0289",
-    "nome": "SISTEMA DE PLANTIO DIRETO",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0689"
-    ],
-    "pre_requirements": [
-      "FAV0282"
-    ]
-  },
-  {
-    "cod": "FAV0034",
-    "nome": "SISTEMAS DE PRODU\u00c7\u00c3O DE CULTURAS ENERG\u00c9TICAS E FIBROSAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0427"
-    ],
-    "pre_requirements": [
-      "FAV0100",
-      "FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0037",
-    "nome": "SISTEMAS DE PRODU\u00c7\u00c3O DE CULTURAS GRAN\u00cdFERAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0451"
-    ],
-    "pre_requirements": [
-      "FAV0100",
-      "FAV0101"
-    ]
-  },
-  {
-    "cod": "FAV0321",
-    "nome": "SUBSTRATOS PARA PLANTAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0720"
-    ],
-    "pre_requirements": [
-      "FAV0273"
-    ]
-  },
-  {
-    "cod": "FAV0249",
-    "nome": "SUINOCULTURA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0402"
-    ],
-    "pre_requirements": [
-      "FAV0180 & FAV0066 & FAV0178",
-      "FAV0150 & FAV0113",
-      "FAV0276"
-    ]
-  },
-  {
-    "cod": "FAV0165",
-    "nome": "TECNICA CIRURGICA VETERINARIA",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0051"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0360",
-    "nome": "T\u00c9CNICA CIR\u00daRGICA VETERIN\u00c1RIA - M\u00d3DULO PR\u00c1TICO",
-    "ch": 75,
-    "post_requirements": [
-      "FAV0431"
-    ],
-    "pre_requirements": [
-      "FAV0357"
-    ]
-  },
-  {
-    "cod": "FAV0357",
-    "nome": "T\u00c9CNICA CIR\u00daRGICA VETERIN\u00c1RIA - M\u00d3DULO TE\u00d3RICO",
-    "ch": 45,
-    "post_requirements": [
-      "FAV0199"
-    ],
-    "pre_requirements": [
-      "FAV0018",
-      "FAV0362  &  FAV0179 & FAV0160"
-    ]
-  },
-  {
-    "cod": "FAV0168",
-    "nome": "TECNOLOGIA DE CARNES E DERIVADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0465"
-    ],
-    "pre_requirements": [
-      "FAV0206 & FAV0297  &  FAV0015",
-      "FAV0359"
-    ]
-  },
-  {
-    "cod": "FAV0169",
-    "nome": "TECNOLOGIA DE LEITE E DERIVADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0186"
-    ],
-    "pre_requirements": [
-      "FAV0182 & FAV0161"
-    ]
-  },
-  {
-    "cod": "FAV0270",
-    "nome": "TECNOLOGIA DE MELHORAMENTO DE PLANTAS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0672"
-    ],
-    "pre_requirements": [
-      "FAV0101 & BOT0008"
-    ]
-  },
-  {
-    "cod": "FAV0092",
-    "nome": "TECNOLOGIA DOS PRODUTOS AGROPECUARIOS",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0298"
-    ],
-    "pre_requirements": [
-      "CEL0054",
-      "CEL0019"
-    ]
-  },
-  {
-    "cod": "FAV0042",
-    "nome": "TECNOLOGIA E CONTROLE DE QUALIDADE DOS PRODUTOS AGROPECU\u00c1RIOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0298"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0326",
-    "nome": "TECNOLOGIA E INSPE\u00c7\u00c3O DE PESCADO OVOS E MEL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0723"
-    ],
-    "pre_requirements": [
-      "FAV0206 & FAV0159"
-    ]
-  },
-  {
-    "cod": "FAV0306",
-    "nome": "TERAP\u00caUTICA APLICADA AOS ANIMAIS DE COMPANHIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0705"
-    ],
-    "pre_requirements": [
-      "FAV0179 & FAV0241"
-    ]
-  },
-  {
-    "cod": "FAV0335",
-    "nome": "TERAPIA G\u00caNICA 1 - FUNDAMENTOS E T\u00c9CNICAS DE RNAI",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0731"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0020",
-    "nome": "T\u00d3PICOS ESPECIAIS EM AGRONOMIA",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0529"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0293",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ZOOTECNIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0693"
-    ],
-    "pre_requirements": [
-      "FAV0276",
-      "FAV0150",
-      "FAV0113",
-      "FAV0180"
-    ]
-  },
-  {
-    "cod": "FAV0333",
-    "nome": "TOXICOLOGIA VETERIN\u00c1RIA E PLANTAS TOXICAS",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0417"
-    ],
-    "pre_requirements": [
-      "FAV0158"
-    ]
-  },
-  {
-    "cod": "FAV0039",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
-    "ch": 30,
-    "post_requirements": [
-      "FAV0544"
-    ],
-    "pre_requirements": [
-      "SOL0087  &  FAV0279  &  FAV0042  &  FAV0319  &  FAV0031",
-      "FAV0029"
-    ]
-  },
-  {
-    "cod": "FAV0013",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0014"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0014",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0444"
-    ],
-    "pre_requirements": [
-      "FAV0013"
-    ]
-  },
-  {
-    "cod": "FAV0353",
-    "nome": "TRABALHO E SA\u00daDE NO CONTEXTO AGROINDUSTRIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0748"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FAV0232",
-    "nome": "USO SUSTENT\u00c1VEL DE SOLOS TROPICAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0478"
-    ],
-    "pre_requirements": [
-      "FAV0279 & FAV0290 & FAV0310",
-      "FAV0279 & FAV0032 & FAV0037"
-    ]
-  },
-  {
-    "cod": "FAV0299",
-    "nome": "UTILIZA\u00c7\u00c3O DE PLANTAS FORRAGEIRAS",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0491"
-    ],
-    "pre_requirements": [
-      "FAV0234 & FAV0180"
-    ]
-  },
-  {
-    "cod": "FAV0352",
-    "nome": "VITI-VINICULTURA E ENOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0747"
-    ],
-    "pre_requirements": [
-      "FAV0292"
-    ]
-  },
-  {
-    "cod": "FAV0336",
-    "nome": "ZOONOSES",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0732"
-    ],
-    "pre_requirements": [
-      "FAV0328"
-    ]
-  },
-  {
-    "cod": "FAV0150",
-    "nome": "ZOOTECNIA 1",
-    "ch": 90,
-    "post_requirements": [
-      "FAV0079"
-    ],
-    "pre_requirements": [
-      "GEM0014 & EST0027"
-    ]
-  },
-  {
-    "cod": "FAV0079",
-    "nome": "ZOOTECNIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0570"
-    ],
-    "pre_requirements": [
-      "FAV0150"
-    ]
-  },
-  {
-    "cod": "FAV0276",
-    "nome": "ZOOTECNIA GERAL",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0026"
-    ],
-    "pre_requirements": [
-      "GEM0014  &  FAV0113",
-      "FAV0112"
-    ]
-  }
+   {
+      "codigo": "FAV0296",
+      "nome": "ABASTECIMENTO, COMERCIALIZAÇÃO E POLÍTICAS PÚBLICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0696"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0342",
+      "nome": "ADMINISTRAÇÃO AGROINDUSTRIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0737"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0213",
+      "nome": "ADMINISTRACAO RURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0639"
+      ],
+      "pre_requisitos": [
+         "ECO0108"
+      ]
+   },
+   {
+      "codigo": "FAV0275",
+      "nome": "ADMINISTRAÇÃO RURAL E COMERCIALIZAÇÃO AGRÍCOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0229",
+         "FAV0300",
+         "FAV0406"
+      ],
+      "pre_requisitos": [
+         "ECO0019",
+         "SOL0087"
+      ]
+   },
+   {
+      "codigo": "FAV0251",
+      "nome": "ADUBOS E ADUBACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0662"
+      ],
+      "pre_requisitos": [
+         "FAV0282",
+         "FAV0310 & FAV0311"
+      ]
+   },
+   {
+      "codigo": "FAV0154",
+      "nome": "AGRICULTURA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0600"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FIT0008 & ZOO0020 & FAV0069 & FIT0008 & ZOO0020 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0072",
+      "nome": "AGRICULTURA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0567"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FIT0008 & ZOO0020 & FAV0069 & FIT0008 & ZOO0020 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0045",
+      "nome": "AGRICULTURA DE PRECISÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0550"
+      ],
+      "pre_requisitos": [
+         "FAV0284"
+      ]
+   },
+   {
+      "codigo": "FAV0309",
+      "nome": "AGRICULTURA FAMILIAR E DESENVOLVIMENTO RURAL NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0493"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0216",
+      "nome": "AGRICULTURA ORGÂNICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0475"
+      ],
+      "pre_requisitos": [
+         "FAV0266 & BOT0008 & FAV0274 & FAV0280"
+      ]
+   },
+   {
+      "codigo": "FAV0046",
+      "nome": "AGROECOLOGIA E AGRICULTURA ORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0551"
+      ],
+      "pre_requisitos": [
+         "FAV0030 & FAV0069 & FAV0037"
+      ]
+   },
+   {
+      "codigo": "FAV0348",
+      "nome": "AGROMETEOROLOGIA DAS PLANTAS CULTIVADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0743"
+      ],
+      "pre_requisitos": [
+         "FAV0266"
+      ]
+   },
+   {
+      "codigo": "FAV0266",
+      "nome": "AGROMETEOROLOGIA E CLIMATOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0348",
+         "FAV0403"
+      ],
+      "pre_requisitos": [
+         "IFD0192",
+         "IFD0005 & IFD0006"
+      ]
+   },
+   {
+      "codigo": "FAV0295",
+      "nome": "AGRONEGÓCIO E SISTEMAS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0410"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "FAV0050",
+      "nome": "AGROTOXICOS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FAV0552"
+      ],
+      "pre_requisitos": [
+         "CEL0054",
+         "CEL0019",
+         "CEL0063",
+         "CEL0082 & CEL0083"
+      ]
+   },
+   {
+      "codigo": "FAV0291",
+      "nome": "AGROTÓXICOS E MIP",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0691"
+      ],
+      "pre_requisitos": [
+         "ZOO0018"
+      ]
+   },
+   {
+      "codigo": "FAV0109",
+      "nome": "ALIMENTOS E ALIMENTAÇÃO ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0460"
+      ],
+      "pre_requisitos": [
+         "FAV0178",
+         "FAV0113"
+      ]
+   },
+   {
+      "codigo": "FAV0298",
+      "nome": "ANÁLISE E TECNOLOGIA DE ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0698"
+      ],
+      "pre_requisitos": [
+         "FAV0092",
+         "FAV0042"
+      ]
+   },
+   {
+      "codigo": "FAV0236",
+      "nome": "ANATOMIA DOS ANIMAIS DOMESTICOS 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "GEM0043",
+         "FAV0066",
+         "FAV0398"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0066",
+      "nome": "ANATOMIA DOS ANIMAIS DOMESTICOS 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0382"
+      ],
+      "pre_requisitos": [
+         "FAV0236"
+      ]
+   },
+   {
+      "codigo": "FAV0113",
+      "nome": "ANATOMIA E FISIOLOGIA DOS ANIMAIS DE PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0017",
+         "FAV0109",
+         "FAV0120",
+         "FAV0180",
+         "FAV0239",
+         "FAV0245",
+         "FAV0246",
+         "FAV0293",
+         "FAV0329",
+         "FAV0330",
+         "FAV0386"
+      ],
+      "pre_requisitos": [
+         "CEL0054",
+         "CEL0019"
+      ]
+   },
+   {
+      "codigo": "FAV0207",
+      "nome": "ANESTESIOLOGIA VETERINARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0472"
+      ],
+      "pre_requisitos": [
+         "FAV0178 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0358",
+      "nome": "ANESTESIOLOGIA VETERINÁRIA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0430"
+      ],
+      "pre_requisitos": [
+         "FAV0356"
+      ]
+   },
+   {
+      "codigo": "FAV0356",
+      "nome": "ANESTESIOLOGIA VETERINÁRIA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0358",
+         "FAV0421"
+      ],
+      "pre_requisitos": [
+         "FAV0178 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0329",
+      "nome": "AQUICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0414"
+      ],
+      "pre_requisitos": [
+         "FAV0113",
+         "FAV0178",
+         "ZOO0017",
+         "FUP0309"
+      ]
+   },
+   {
+      "codigo": "FAV0510",
+      "nome": "AQUICULTURA E MERCADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0769"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0024",
+      "nome": "ARBORIZAÇÃO URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0532"
+      ],
+      "pre_requisitos": [
+         "FAV0211",
+         "PRO0022",
+         "PRO0060",
+         "EFL0040",
+         "BOT0078"
+      ]
+   },
+   {
+      "codigo": "FAV0173",
+      "nome": "ARMAZENAMENTO E PRE-PROCESSAMENTO DE PRODUTOS AGRICOLAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0466"
+      ],
+      "pre_requisitos": [
+         "GEA0011 & MAT0023",
+         "FAV0266 & MAT0023"
+      ]
+   },
+   {
+      "codigo": "FAV0097",
+      "nome": "ARMAZENAMENTO TRANSPORTE E COMERCIALIZACAO DOS PRODUTOS AGROPECUARIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0576"
+      ],
+      "pre_requisitos": [
+         "ECO0108"
+      ]
+   },
+   {
+      "codigo": "FAV0330",
+      "nome": "AVALIAÇÃO DE CARCAÇAS E QUALIDADE DA CARNE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0415"
+      ],
+      "pre_requisitos": [
+         "FAV0178",
+         "FAV0113"
+      ]
+   },
+   {
+      "codigo": "FAV0044",
+      "nome": "AVALIAÇÃO E PERÍCIA DE IMÓVEIS RURAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0549"
+      ],
+      "pre_requisitos": [
+         "FAV0037 & FAV0173"
+      ]
+   },
+   {
+      "codigo": "FAV0248",
+      "nome": "AVICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0401"
+      ],
+      "pre_requisitos": [
+         "FAV0180 & FAV0066 & FAV0178",
+         "FAV0150 & FAV0113",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0272",
+      "nome": "BEM-ESTAR ANIMAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0674"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0245",
+      "nome": "BEM-ESTAR ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0481"
+      ],
+      "pre_requisitos": [
+         "FAV0178",
+         "FAV0113",
+         "CFS0049"
+      ]
+   },
+   {
+      "codigo": "FAV0026",
+      "nome": "BIOCLIMATOLOGIA ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0534"
+      ],
+      "pre_requisitos": [
+         "FAV0180",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0001",
+      "nome": "BIOCOMBUSTÍVEIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0511"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0273",
+      "nome": "BIOLOGIA DO SOLO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0069",
+         "FAV0285",
+         "FAV0321",
+         "FAV0404"
+      ],
+      "pre_requisitos": [
+         "FAV0274"
+      ]
+   },
+   {
+      "codigo": "FAV0146",
+      "nome": "BIOTECNICAS AVANCADAS NA REPRODUCAO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0596"
+      ],
+      "pre_requisitos": [
+         "FAV0167 & FAV0161"
+      ]
+   },
+   {
+      "codigo": "FAV0043",
+      "nome": "BIOTECNOLOGIA AGRÍCOLA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0428"
+      ],
+      "pre_requisitos": [
+         "FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0337",
+      "nome": "BIOTERISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0419"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0181",
+      "nome": "BOVINOCULTURA DE CORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0468"
+      ],
+      "pre_requisitos": [
+         "FAV0180",
+         "FAV0150 & FAV0113",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0182",
+      "nome": "BOVINOCULTURA DE LEITE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0469"
+      ],
+      "pre_requisitos": [
+         "FAV0180",
+         "FAV0150 & FAV0113",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0239",
+      "nome": "CAPRINOCULTURA E OVINOCULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0399"
+      ],
+      "pre_requisitos": [
+         "FAV0178",
+         "FAV0113"
+      ]
+   },
+   {
+      "codigo": "FAV0351",
+      "nome": "CENÁRIOS CORPORATIVOS NO AGRONEGÓCIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0429"
+      ],
+      "pre_requisitos": [
+         "FUP0295"
+      ]
+   },
+   {
+      "codigo": "FAV0145",
+      "nome": "CLINICA CIRURGICA DE GRANDES ANIMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0595"
+      ],
+      "pre_requisitos": [
+         "FAV0165"
+      ]
+   },
+   {
+      "codigo": "FAV0199",
+      "nome": "CLINICA CIRURGICA DE PEQUENOS ANIMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0396"
+      ],
+      "pre_requisitos": [
+         "FAV0165",
+         "FAV0357"
+      ]
+   },
+   {
+      "codigo": "FAV0005",
+      "nome": "CLÍNICA E CIRURGIA DE RUMINANTES E EQUINOS 1",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FAV0007",
+         "FAV0372"
+      ],
+      "pre_requisitos": [
+         "FAV0297 & FAV0158  &  FAV0015",
+         "FAV0359  &  FAV0207",
+         "FAV0356  &  FAV0166",
+         "FAV0365  &  FAV0165",
+         "FAV0357"
+      ]
+   },
+   {
+      "codigo": "FAV0007",
+      "nome": "CLÍNICA E CIRURGIA DE RUMINANTES E EQUINOS 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FAV0373"
+      ],
+      "pre_requisitos": [
+         "FAV0005"
+      ]
+   },
+   {
+      "codigo": "FAV0003",
+      "nome": "CLÍNICA MÉDICA DE ANIMAIS DE COMPANHIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0004",
+         "FAV0513"
+      ],
+      "pre_requisitos": [
+         "FAV0303 & FAV0066  &  FAV0166",
+         "FAV0365  &  FAV0207",
+         "FAV0356"
+      ]
+   },
+   {
+      "codigo": "FAV0369",
+      "nome": "CLÍNICA MÉDICA DE ANIMAIS DE COMPANHIA 1 PRÁTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FAV0435"
+      ],
+      "pre_requisitos": [
+         "FAV0368"
+      ]
+   },
+   {
+      "codigo": "FAV0368",
+      "nome": "CLÍNICA MÉDICA DE ANIMAIS DE COMPANHIA 1 TEÓRICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FAV0004",
+         "FAV0369",
+         "FAV0506"
+      ],
+      "pre_requisitos": [
+         "FAV0303 & FAV0066  &  FAV0166",
+         "FAV0365  &  FAV0207",
+         "FAV0356"
+      ]
+   },
+   {
+      "codigo": "FAV0004",
+      "nome": "CLÍNICA MÉDICA DE ANIMAIS DE COMPANHIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0371"
+      ],
+      "pre_requisitos": [
+         "FAV0368",
+         "FAV0003"
+      ]
+   },
+   {
+      "codigo": "FAV0171",
+      "nome": "COMERCIALIZACAO AGRICOLA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0613"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0010",
+      "nome": "COMPORTAMENTO DO CONSUMIDOR DE ALIMENTOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0440"
+      ],
+      "pre_requisitos": [
+         "FUP0295"
+      ]
+   },
+   {
+      "codigo": "FAV0008",
+      "nome": "COMPORTAMENTO ORGANIZACIONAL NOS AMBIENTES RURAL E AGROINDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0438"
+      ],
+      "pre_requisitos": [
+         "ADM0023 & FUP0277"
+      ]
+   },
+   {
+      "codigo": "FAV0198",
+      "nome": "CONSERVACAO DO SOLO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0631"
+      ],
+      "pre_requisitos": [
+         "FAV0148 & IGD0043 & FAV0069 & IGD0043 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0076",
+      "nome": "CONSTRUCOES RURAIS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0116",
+         "FAV0569"
+      ],
+      "pre_requisitos": [
+         "ENC0053 & IGD0043"
+      ]
+   },
+   {
+      "codigo": "FAV0116",
+      "nome": "CONSTRUCOES RURAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0582"
+      ],
+      "pre_requisitos": [
+         "FAV0076",
+         "FAV0277"
+      ]
+   },
+   {
+      "codigo": "FAV0040",
+      "nome": "CONSTRUÇÕES RURAIS E AMBIÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0453"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0175",
+      "nome": "COOPERATIVISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0467"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0320",
+      "nome": "CULTIVOS CONSORCIADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0719"
+      ],
+      "pre_requisitos": [
+         "FAV0310 & FAV0311 & FAV0292"
+      ]
+   },
+   {
+      "codigo": "FAV0287",
+      "nome": "CULTIVO SOB PROTEÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0488"
+      ],
+      "pre_requisitos": [
+         "FAV0137"
+      ]
+   },
+   {
+      "codigo": "FAV0334",
+      "nome": "CULTURA DE ESPECIARIAS E CONDIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0418"
+      ],
+      "pre_requisitos": [
+         "FAV0030"
+      ]
+   },
+   {
+      "codigo": "FAV0308",
+      "nome": "CULTURAS DE GRANÍFERAS DE INVERNO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FAV0707"
+      ],
+      "pre_requisitos": [
+         "FAV0069 & FIT0030 & ZOO0020 & BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0311",
+      "nome": "CULTURAS DE GRANÍFERAS DE VERÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0095",
+         "FAV0710"
+      ],
+      "pre_requisitos": [
+         "FAV0069 & FIT0030 & ZOO0020 & BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0318",
+      "nome": "CULTURAS OLEAGINOSAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0717"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FAV0069 & FAV0266 & FIT0030 & ZOO0020"
+      ]
+   },
+   {
+      "codigo": "FAV0340",
+      "nome": "CUNICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0736"
+      ],
+      "pre_requisitos": [
+         "FAV0180",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0183",
+      "nome": "DEONTOLOGIA VETERINARIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0622"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0041",
+      "nome": "DESENHO TÉCNICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0211",
+         "FAV0454"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0277",
+      "nome": "DESENHO TÉCNICO E CONSTRUÇÕES RURAIS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0116",
+         "FAV0679"
+      ],
+      "pre_requisitos": [
+         "IGD0043",
+         "IGD0183"
+      ]
+   },
+   {
+      "codigo": "FAV0346",
+      "nome": "DESENVOLVIMENTO E GESTÃO DE PROJETOS NO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0499"
+      ],
+      "pre_requisitos": [
+         "FUP0277"
+      ]
+   },
+   {
+      "codigo": "FAV0370",
+      "nome": "DESENVOLVIMENTO RURAL SUSTENTÁVEL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0765"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0331",
+      "nome": "DIAGNÓSTICO HISTOPATOLÓGICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0727"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0243",
+      "nome": "DIAGNOSTICO POR IMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0400"
+      ],
+      "pre_requisitos": [
+         "FAV0166",
+         "FAV0365"
+      ]
+   },
+   {
+      "codigo": "FAV0261",
+      "nome": "DIAGNOSTICO RURAL PARTICIPATIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0268",
+         "FAV0667"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0268",
+      "nome": "DIAGNOSTICO RURAL PARTICIPATIVO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0670"
+      ],
+      "pre_requisitos": [
+         "FAV0261"
+      ]
+   },
+   {
+      "codigo": "FAV0297",
+      "nome": "DOENÇAS INFECCIOSAS DOS ANIMAIS DOMÉSTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0084",
+         "FAV0490"
+      ],
+      "pre_requisitos": [
+         "FAV0160 & FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0015",
+      "nome": "DOENÇAS PARASITÁRIAS DOS ANIMAIS DOMÉSTICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0445"
+      ],
+      "pre_requisitos": [
+         "FAV0018",
+         "FAV0362  &  FAV0158 & FAV0179 & FAV0160"
+      ]
+   },
+   {
+      "codigo": "FAV0361",
+      "nome": "DOENÇAS PARASITÁRIAS DOS ANIMAIS DOMÉSTICOS PRÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0432"
+      ],
+      "pre_requisitos": [
+         "FAV0359"
+      ]
+   },
+   {
+      "codigo": "FAV0359",
+      "nome": "DOENÇAS PARASITÁRIAS DOS ANIMAIS DOMÉSTICOS TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0361",
+         "FAV0423"
+      ],
+      "pre_requisitos": [
+         "FAV0018 & FAV0158 & FAV0179 & FAV0160"
+      ]
+   },
+   {
+      "codigo": "FAV0218",
+      "nome": "DRENAGEM AGRICOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0642"
+      ],
+      "pre_requisitos": [
+         "FAV0074",
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "FAV0148",
+      "nome": "EDAFOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEA0030",
+         "EFL0029",
+         "EFL0089",
+         "FAV0597"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & IQD0118",
+         "IGD0021 & IQD0063"
+      ]
+   },
+   {
+      "codigo": "FAV0229",
+      "nome": "ELABORAÇÃO DE PROJETOS AGROPECUÁRIOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0477"
+      ],
+      "pre_requisitos": [
+         "FAV0275",
+         "FAV0230"
+      ]
+   },
+   {
+      "codigo": "FAV0021",
+      "nome": "ELABORAÇÃO DE PROJETOS PAISAGISTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0530"
+      ],
+      "pre_requisitos": [
+         "FAV0277 & FAV0211",
+         "ENC0053"
+      ]
+   },
+   {
+      "codigo": "FAV0125",
+      "nome": "ELETRIFICACAO RURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0586"
+      ],
+      "pre_requisitos": [
+         "FAV0123"
+      ]
+   },
+   {
+      "codigo": "FAV0269",
+      "nome": "ELETROFORESE DE ISOZIMAS EM PLANTAS CULTIVADAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0671"
+      ],
+      "pre_requisitos": [
+         "CEL0054 & IFD0192 & FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0025",
+      "nome": "EMPREENDEDORISMO E MARKETING RURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0375"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "FAV0215",
+      "nome": "ENERGIA RENOVAVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0640"
+      ],
+      "pre_requisitos": [
+         "IFD0067",
+         "IFD0192 & CEL0019",
+         "CEL0054"
+      ]
+   },
+   {
+      "codigo": "FAV0160",
+      "nome": "EPIDEMIOLOGIA VETERINARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0463"
+      ],
+      "pre_requisitos": [
+         "EST0027",
+         "FAV0016  &  FAV0206"
+      ]
+   },
+   {
+      "codigo": "FAV0237",
+      "nome": "EQUINOCULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0480"
+      ],
+      "pre_requisitos": [
+         "FAV0180",
+         "FAV0150 & FAV0113",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0129",
+      "nome": "ESTAGIO SUPERVISIONADO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0587"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0184",
+      "nome": "ESTAGIO SUPERVISIONADO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0470"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0294",
+      "nome": "ESTÁGIO SUPERVISIONADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0489"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0011",
+      "nome": "ESTÁGIO SUPERVISIONADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0012",
+         "FAV0441"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0012",
+      "nome": "ESTÁGIO SUPERVISIONADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0442"
+      ],
+      "pre_requisitos": [
+         "FAV0011"
+      ]
+   },
+   {
+      "codigo": "FAV0038",
+      "nome": "ESTATÍSTICA EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0452"
+      ],
+      "pre_requisitos": [
+         "EST0027"
+      ]
+   },
+   {
+      "codigo": "FAV0313",
+      "nome": "ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0712"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0225",
+      "nome": "EVOLUCAO DE PLANTAS CULTIVADAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0644"
+      ],
+      "pre_requisitos": [
+         "FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0192",
+      "nome": "EXPERIMENTACAO AGRICOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0628"
+      ],
+      "pre_requisitos": [
+         "EST0027"
+      ]
+   },
+   {
+      "codigo": "FAV0088",
+      "nome": "EXTENSAO RURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0142",
+         "FAV0301",
+         "FAV0350",
+         "FAV0458"
+      ],
+      "pre_requisitos": [
+         "FAV0248 & FAV0249",
+         "ECO0019 & SOL0087"
+      ]
+   },
+   {
+      "codigo": "FAV0179",
+      "nome": "FARMACOLOGIA VETERINARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0271",
+         "FAR0041",
+         "FAV0394"
+      ],
+      "pre_requisitos": [
+         "FAV0178"
+      ]
+   },
+   {
+      "codigo": "FAV0271",
+      "nome": "FARMACOVIGILANCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0673"
+      ],
+      "pre_requisitos": [
+         "FAV0179",
+         "FAR0032",
+         "FAR0125"
+      ]
+   },
+   {
+      "codigo": "FAV0339",
+      "nome": "FATORES DE PRODUÇÃO AGROPECUÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0497"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0068",
+      "nome": "FERTILIDADE DO SOLO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0565"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0069",
+      "nome": "FERTILIDADE DO SOLO E ADUBAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0053",
+         "FAV0054",
+         "FAV0257",
+         "FAV0383"
+      ],
+      "pre_requisitos": [
+         "FAV0273"
+      ]
+   },
+   {
+      "codigo": "FAV0022",
+      "nome": "FÍSICA DO SOLO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0426"
+      ],
+      "pre_requisitos": [
+         "IFD0005 & IFD0006",
+         "IFD0171 & IFD0173 & MAT0025",
+         "MAT0071 & FAV0274",
+         "IGD0028",
+         "EFL0089"
+      ]
+   },
+   {
+      "codigo": "FAV0052",
+      "nome": "FISIOLOGIA VETERINARIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "CFS0045",
+         "CFS0050",
+         "CFS0054",
+         "FAV0380",
+         "CFS0086"
+      ],
+      "pre_requisitos": [
+         "CEL0077",
+         "CEL0054  &  CEL0089"
+      ]
+   },
+   {
+      "codigo": "FAV0178",
+      "nome": "FISIOLOGIA VETERINARIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0017",
+         "FAV0109",
+         "FAV0179",
+         "FAV0180",
+         "FAV0239",
+         "FAV0245",
+         "FAV0246",
+         "FAV0329",
+         "FAV0330",
+         "FAV0393"
+      ],
+      "pre_requisitos": [
+         "FAV0052 & FAV0236"
+      ]
+   },
+   {
+      "codigo": "FAV0161",
+      "nome": "FISIOPATOLOGIA DA REPRODUCAO DA FEMEA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0242",
+         "FAV0389"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0167",
+      "nome": "FISIOPATOLOGIA DA REPRODUCAO DO MACHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0391"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0323",
+      "nome": "FLORICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0721"
+      ],
+      "pre_requisitos": [
+         "FAV0030"
+      ]
+   },
+   {
+      "codigo": "FAV0286",
+      "nome": "FORRAGICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0686"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FAV0069 & FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0132",
+      "nome": "FRUTICULTURA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0588"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FIT0008 & ZOO0020 & FAV0069",
+         "FIT0030 & BOT0008 & ZOO0020 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0135",
+      "nome": "FRUTICULTURA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0589"
+      ],
+      "pre_requisitos": [
+         "FAV0292"
+      ]
+   },
+   {
+      "codigo": "FAV0292",
+      "nome": "FRUTICULTURA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0135",
+         "FAV0316",
+         "FAV0319",
+         "FAV0347",
+         "FAV0352",
+         "FAV0409"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FIT0008 & ZOO0020 & FAV0069",
+         "FIT0030 & BOT0008 & ZOO0020 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0316",
+      "nome": "FRUTICULTURA SUBTROPICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0715"
+      ],
+      "pre_requisitos": [
+         "FAV0292",
+         "FAV0030"
+      ]
+   },
+   {
+      "codigo": "FAV0319",
+      "nome": "FRUTICULTURA TROPICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0495"
+      ],
+      "pre_requisitos": [
+         "FAV0292",
+         "FAV0030"
+      ]
+   },
+   {
+      "codigo": "FAV0274",
+      "nome": "FUNDAMENTOS DE CIÊNCIA DO SOLO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEA0030",
+         "FAV0211",
+         "EFL0029",
+         "FAV0273",
+         "FAV0405"
+      ],
+      "pre_requisitos": [
+         "IQD0209",
+         "IQD0125",
+         "IQD0252 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "FAV0110",
+      "nome": "GENETICA QUANTITATIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0580"
+      ],
+      "pre_requisitos": [
+         "GEM0014 & EST0027"
+      ]
+   },
+   {
+      "codigo": "FAV0312",
+      "nome": "GEOPROCESSAMENTO APLICADO ÀS CIÊNCIAS AGRÁRIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0711"
+      ],
+      "pre_requisitos": [
+         "IGD0043"
+      ]
+   },
+   {
+      "codigo": "FAV0300",
+      "nome": "GERÊNCIA DA PROPRIEDADE RURAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0700"
+      ],
+      "pre_requisitos": [
+         "FAV0275"
+      ]
+   },
+   {
+      "codigo": "FAV0156",
+      "nome": "GERENCIA DE MAQUINAS AGRICOLAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0601"
+      ],
+      "pre_requisitos": [
+         "FAV0284",
+         "FAV0152"
+      ]
+   },
+   {
+      "codigo": "FAV0002",
+      "nome": "GESTÃO DE RESÍDUOS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0436"
+      ],
+      "pre_requisitos": [
+         "FUP0411"
+      ]
+   },
+   {
+      "codigo": "FAV0009",
+      "nome": "GESTÃO DO TRABALHO NO CONTEXTO RURAL E AGROINDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0439"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0537",
+      "nome": "GESTÃO E MERCADO NA AQUICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0282",
+      "nome": "GRANDES CULTURAS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0251",
+         "FAV0289",
+         "FAV0683"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0310",
+      "nome": "GRANDES CULTURAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0709"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FAV0069 & FAV0266 & FIT0030 & ZOO0020"
+      ]
+   },
+   {
+      "codigo": "FAV0288",
+      "nome": "GRANDES CULTURAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0688"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & IQD0209 & ZOO0020 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0074",
+      "nome": "HIDRAULICA AGRICOLA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0218",
+         "FAV0304",
+         "FAV0568"
+      ],
+      "pre_requisitos": [
+         "FAV0148 & IGD0043 & GEA0011 & IGD0043 & GEA0011"
+      ]
+   },
+   {
+      "codigo": "FAV0290",
+      "nome": "HIDRÁULICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0027",
+         "FAV0304",
+         "FAV0690"
+      ],
+      "pre_requisitos": [
+         "IFD0005 & IFD0006 & MAT0022 & MAT0023 & IGD0183",
+         "IFD0192 & MAT0022 & MAT0023 & IGD0183"
+      ]
+   },
+   {
+      "codigo": "FAV0032",
+      "nome": "HIDRÁULICA E HIDROLOGIA APLICADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0027",
+         "FAV0378"
+      ],
+      "pre_requisitos": [
+         "MAT0023 & IFD0005 & IGD0183 & FAV0274"
+      ]
+   },
+   {
+      "codigo": "FAV0304",
+      "nome": "HIDROLOGIA DE PEQUENAS BACIAS HIDROGRÁFICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0492"
+      ],
+      "pre_requisitos": [
+         "FAV0290",
+         "FAV0074"
+      ]
+   },
+   {
+      "codigo": "FAV0030",
+      "nome": "HORTICULTURA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0137",
+         "FAV0316",
+         "FAV0319",
+         "FAV0323",
+         "FAV0334",
+         "FAV0377"
+      ],
+      "pre_requisitos": [
+         "FAV0069 & FAV0266 & BOT0008 & FIT0030"
+      ]
+   },
+   {
+      "codigo": "FAV0343",
+      "nome": "INFORMÁTICA APLICADA À AGROPECUÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0738"
+      ],
+      "pre_requisitos": [
+         "EST0027"
+      ]
+   },
+   {
+      "codigo": "FAV0285",
+      "nome": "INOCULANTES E BIOFERTILIZANTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0487"
+      ],
+      "pre_requisitos": [
+         "FAV0273"
+      ]
+   },
+   {
+      "codigo": "FAV0120",
+      "nome": "INSEMINACAO ARTIFICIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0584"
+      ],
+      "pre_requisitos": [
+         "FAV0113"
+      ]
+   },
+   {
+      "codigo": "FAV0208",
+      "nome": "INSPECAO DE CARNES E DERIVADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0473"
+      ],
+      "pre_requisitos": [
+         "FAV0168  &  FAV0166",
+         "FAV0365"
+      ]
+   },
+   {
+      "codigo": "FAV0186",
+      "nome": "INSPECAO DE LEITE E DERIVADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0471"
+      ],
+      "pre_requisitos": [
+         "FAV0169"
+      ]
+   },
+   {
+      "codigo": "FAV0257",
+      "nome": "INTERPRETACAO E USO DO SOLO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0665"
+      ],
+      "pre_requisitos": [
+         "FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0190",
+      "nome": "INTRODUCAO A AGRONOMIA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FAV0627"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0280",
+      "nome": "INTRODUÇÃO A AGRONOMIA E CIÊNCIAS AMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0004",
+         "FAV0681"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0028",
+      "nome": "INTRODUÇÃO A AGRONOMIA, ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0448"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0234",
+      "nome": "INTRODUCAO A MEDICINA VETERINARIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0479"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0230",
+      "nome": "INTRODUÇÃO À PROJETOS AGROPECUÁRIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0229",
+         "FAV0647"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0027",
+      "nome": "IRRIGAÇÃO E DRENAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0376"
+      ],
+      "pre_requisitos": [
+         "FAV0032",
+         "FAV0290"
+      ]
+   },
+   {
+      "codigo": "FAV0064",
+      "nome": "JARDINAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0456"
+      ],
+      "pre_requisitos": [
+         "BOT0008",
+         "PRO0022",
+         "PRO0060",
+         "BOT0078",
+         "FCE0220",
+         "BOT0044"
+      ]
+   },
+   {
+      "codigo": "FAV0222",
+      "nome": "MANEJO DE PLANTAS DANINHAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0476"
+      ],
+      "pre_requisitos": [
+         "FAV0030 & FAV0037",
+         "BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0279",
+      "nome": "MANEJO E CONSERVAÇÃO DO SOLO E DA ÁGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0486"
+      ],
+      "pre_requisitos": [
+         "IGD0043 & FAV0069",
+         "FAV0069 & IGD0183 & IGD0207"
+      ]
+   },
+   {
+      "codigo": "FAV0281",
+      "nome": "MANEJO E MÉTODOS DE IRRIGAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0682"
+      ],
+      "pre_requisitos": [
+         "FAV0290 & FAV0274"
+      ]
+   },
+   {
+      "codigo": "FAV0317",
+      "nome": "MANEJO INTEGRADO DE ARTRÓPODES-PRAGA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0412"
+      ],
+      "pre_requisitos": [
+         "ZOO0018 & FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0053",
+      "nome": "MANEJO INTEGRADO DE ARTRÓPODES-PRAGA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0381"
+      ],
+      "pre_requisitos": [
+         "ZOO0018",
+         "FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0284",
+      "nome": "MÁQUINAS E MECANIZAÇÃO AGRÍCOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0045",
+         "ZOO0020",
+         "FAV0156",
+         "FAV0408"
+      ],
+      "pre_requisitos": [
+         "IFD0005 & IFD0006 & MAT0022",
+         "IFD0192 & MAT0022"
+      ]
+   },
+   {
+      "codigo": "FAV0344",
+      "nome": "MARKETING AGROINDUSTRIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0498"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0255",
+      "nome": "MARKETING RURAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0664"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & FAV0275"
+      ]
+   },
+   {
+      "codigo": "FAV0152",
+      "nome": "MECANICA DOS MOTORES E MAQUINAS AGRICOLAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0123",
+         "FAV0156",
+         "FAV0388"
+      ],
+      "pre_requisitos": [
+         "IFD0192",
+         "IFD0067",
+         "IFD0005"
+      ]
+   },
+   {
+      "codigo": "FAV0123",
+      "nome": "MECANICA DOS MOTORES E MAQUINAS AGRICOLAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0125",
+         "FAV0585"
+      ],
+      "pre_requisitos": [
+         "FAV0152"
+      ]
+   },
+   {
+      "codigo": "FAV0332",
+      "nome": "MEDICINA VETERINÁRIA LEGAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0416"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0101",
+      "nome": "MELHORAMENTO DE PLANTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0034",
+         "FAV0037",
+         "FAV0043",
+         "FAV0203",
+         "FAV0225",
+         "FAV0228",
+         "FAV0350",
+         "FAV0459"
+      ],
+      "pre_requisitos": [
+         "GEM0014 & EST0027",
+         "GEM0014 & FAV0038"
+      ]
+   },
+   {
+      "codigo": "FAV0228",
+      "nome": "MELHORAMENTO DE PLANTAS PERENES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0645"
+      ],
+      "pre_requisitos": [
+         "FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0263",
+      "nome": "MELHORAMENTO GENETICO ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0485"
+      ],
+      "pre_requisitos": [
+         "EST0027 & GEM0014",
+         "FAV0016 & GEM0014"
+      ]
+   },
+   {
+      "codigo": "FAV0203",
+      "nome": "MELHORAMENTO GENETICO EM HORTICULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0633"
+      ],
+      "pre_requisitos": [
+         "FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0090",
+      "nome": "MELHORAMENTO POR MEIOS CITOGENETICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0573"
+      ],
+      "pre_requisitos": [
+         "GEM0014"
+      ]
+   },
+   {
+      "codigo": "FAV0350",
+      "nome": "METODOLOGIA CIENTÍFICA APLICADA ÀS CIÊNCIAS AGRÁRIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0502"
+      ],
+      "pre_requisitos": [
+         "FAV0101",
+         "FAV0088"
+      ]
+   },
+   {
+      "codigo": "FAV0302",
+      "nome": "MÉTODOS DE EXPERIMENTAÇÃO  COM ANIMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0702"
+      ],
+      "pre_requisitos": [
+         "EST0027"
+      ]
+   },
+   {
+      "codigo": "FAV0354",
+      "nome": "MÉTODOS QUALITATIVOS APLICADOS AO AGRONEGÓCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0503"
+      ],
+      "pre_requisitos": [
+         "FUP0311"
+      ]
+   },
+   {
+      "codigo": "FAV0345",
+      "nome": "MÉTODOS QUANTITATIVOS EM GESTÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0420"
+      ],
+      "pre_requisitos": [
+         "EST0019"
+      ]
+   },
+   {
+      "codigo": "FAV0016",
+      "nome": "MÉTODOS QUANTITATIVOS EM MEDICINA VETERINÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0374"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0163",
+      "nome": "MICROBIOLOGIA BIOTECNOLOGIA AGRICOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0606"
+      ],
+      "pre_requisitos": [
+         "CEL0054",
+         "CEL0054 & BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0206",
+      "nome": "MICROBIOLOGIA VETERINARIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0397"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0177",
+      "nome": "MICROINFORMATICA APLICADA A AGRICULTURA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0616"
+      ],
+      "pre_requisitos": [
+         "EST0027 & IFD0005 & IFD0006",
+         "EST0027 & IFD0192"
+      ]
+   },
+   {
+      "codigo": "FAV0142",
+      "nome": "MONITOIRA EM ENTENSAO RURAL",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FAV0592"
+      ],
+      "pre_requisitos": [
+         "FAV0088"
+      ]
+   },
+   {
+      "codigo": "FAV0512",
+      "nome": "NEUROLOGIA VETERINÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "FAV0006"
+      ]
+   },
+   {
+      "codigo": "FAV0180",
+      "nome": "NUTRICAO ANIMAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0026",
+         "FAV0029",
+         "FAV0031",
+         "FAV0181",
+         "FAV0182",
+         "FAV0237",
+         "FAV0247",
+         "FAV0293",
+         "FAV0314",
+         "FAV0340",
+         "FAV0395"
+      ],
+      "pre_requisitos": [
+         "FAV0178",
+         "FAV0113"
+      ]
+   },
+   {
+      "codigo": "FAV0314",
+      "nome": "NUTRIÇÃO DE EQUINOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0713"
+      ],
+      "pre_requisitos": [
+         "FAV0276",
+         "FAV0180"
+      ]
+   },
+   {
+      "codigo": "FAV0247",
+      "nome": "NUTRICAO DE MONOGASTRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0659"
+      ],
+      "pre_requisitos": [
+         "FAV0180",
+         "FAV0150 & FAV0113",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0246",
+      "nome": "NUTRIÇÃO DE RUMINANTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0482"
+      ],
+      "pre_requisitos": [
+         "FAV0178",
+         "FAV0113"
+      ]
+   },
+   {
+      "codigo": "FAV0253",
+      "nome": "NUTRICAO MINERAL DE PLANTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0483"
+      ],
+      "pre_requisitos": [
+         "BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0242",
+      "nome": "OBSTETRICIA VETERINARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0655"
+      ],
+      "pre_requisitos": [
+         "FAV0161"
+      ]
+   },
+   {
+      "codigo": "FAV0051",
+      "nome": "OFTALMOLOGIA VETERINÁRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0553"
+      ],
+      "pre_requisitos": [
+         "FAV0165"
+      ]
+   },
+   {
+      "codigo": "FAV0137",
+      "nome": "OLERICULTURA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0095",
+         "FAV0140",
+         "FAV0287",
+         "FAV0347",
+         "FAV0387"
+      ],
+      "pre_requisitos": [
+         "BOT0008 & FIT0008 & ZOO0020 & FAV0069",
+         "FIT0030 & BOT0008 & ZOO0020 & FAV0069",
+         "FAV0030"
+      ]
+   },
+   {
+      "codigo": "FAV0140",
+      "nome": "OLERICULTURA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0591"
+      ],
+      "pre_requisitos": [
+         "FAV0137"
+      ]
+   },
+   {
+      "codigo": "FAV0211",
+      "nome": "PAISAGISMO, PARQUES E JARDINS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0024",
+         "FAV0474"
+      ],
+      "pre_requisitos": [
+         "FAV0274",
+         "EFL0083 & BOT0008 & FAV0277",
+         "FAV0041"
+      ]
+   },
+   {
+      "codigo": "FAV0159",
+      "nome": "PARASITOLOGIA E DOENCAS PARASITARIAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0603"
+      ],
+      "pre_requisitos": [
+         "FAV0066 & GEM0042 & CEL0025"
+      ]
+   },
+   {
+      "codigo": "FAV0018",
+      "nome": "PARASITOLOGIA VETERINÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0447"
+      ],
+      "pre_requisitos": [
+         "FAV0066 & GEM0042"
+      ]
+   },
+   {
+      "codigo": "FAV0364",
+      "nome": "PARASITOLOGIA VETERINÁRIA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0433"
+      ],
+      "pre_requisitos": [
+         "FAV0362"
+      ]
+   },
+   {
+      "codigo": "FAV0362",
+      "nome": "PARASITOLOGIA VETERINÁRIA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0364",
+         "FAV0424"
+      ],
+      "pre_requisitos": [
+         "FAV0236 & GEM0042"
+      ]
+   },
+   {
+      "codigo": "FAV0143",
+      "nome": "PATOLOGIA CLINICA CIRURGICA VETERINARIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0593"
+      ],
+      "pre_requisitos": [
+         "FAV0165"
+      ]
+   },
+   {
+      "codigo": "FAV0166",
+      "nome": "PATOLOGIA CLÍNICA VETERINÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0243",
+         "FAV0390"
+      ],
+      "pre_requisitos": [
+         "FAV0158  &  FAV0178  &  FAV0206  &   FAV0018",
+         "FAV0362"
+      ]
+   },
+   {
+      "codigo": "FAV0366",
+      "nome": "PATOLOGIA CLÍNICA VETERINÁRIA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0505"
+      ],
+      "pre_requisitos": [
+         "FAV0365"
+      ]
+   },
+   {
+      "codigo": "FAV0365",
+      "nome": "PATOLOGIA CLÍNICA VETERINÁRIA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0243",
+         "FAV0366",
+         "FAV0760"
+      ],
+      "pre_requisitos": [
+         "FAV0018",
+         "FAV0362  &  FAV0178 & FAV0158 & FAV0206"
+      ]
+   },
+   {
+      "codigo": "FAV0303",
+      "nome": "PATOLOGIA GERAL VETERINÁRIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0158",
+         "FAV0411"
+      ],
+      "pre_requisitos": [
+         "GEM0042 & FAV0066 & FAV0234"
+      ]
+   },
+   {
+      "codigo": "FAV0158",
+      "nome": "PATOLOGIA VETERINÁRIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0006",
+         "FAV0161",
+         "FAV0165",
+         "FAV0167",
+         "FAV0331",
+         "FAV0332",
+         "FAV0333",
+         "FAV0462"
+      ],
+      "pre_requisitos": [
+         "FAV0303"
+      ]
+   },
+   {
+      "codigo": "FAV0349",
+      "nome": "PESQUISA OPERACIONAL EM SISTEMAS AGROINDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0501"
+      ],
+      "pre_requisitos": [
+         "MAT0071",
+         "MAT0022",
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "FAV0301",
+      "nome": "PESQUISA PARTICIPANTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0701"
+      ],
+      "pre_requisitos": [
+         "FAV0088"
+      ]
+   },
+   {
+      "codigo": "FAV0195",
+      "nome": "PLANEJAMENTO E DESENVOLVIMENTO AGRICOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0629"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0164",
+      "nome": "PLANEJAMENTO EM SAUDE ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0607"
+      ],
+      "pre_requisitos": [
+         "FAV0160 & FAV0297"
+      ]
+   },
+   {
+      "codigo": "FAV0105",
+      "nome": "PLANTAS FORRAGEIRAS E PASTAGENS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0385"
+      ],
+      "pre_requisitos": [
+         "FAV0069 & BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0259",
+      "nome": "POLITICA AGRICOLA E DESENVOLVIMENTO RURAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0484"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0084",
+      "nome": "POLÍTICAS PÚBLICAS DE SAÚDE ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0457"
+      ],
+      "pre_requisitos": [
+         "FAV0297"
+      ]
+   },
+   {
+      "codigo": "FAV0347",
+      "nome": "PÓS-COLHEITA DE FRUTAS E HORTALIÇAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0500"
+      ],
+      "pre_requisitos": [
+         "FAV0292",
+         "FAV0137"
+      ]
+   },
+   {
+      "codigo": "FAV0185",
+      "nome": "PRATICA HOSPITALAR VETERINARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0624"
+      ],
+      "pre_requisitos": [
+         "FAV0179 & FAV0166"
+      ]
+   },
+   {
+      "codigo": "FAV0055",
+      "nome": "PRÁTICA HOSPITALAR VETERINÁRIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0557"
+      ],
+      "pre_requisitos": [
+         "FAV0179 & FAV0166"
+      ]
+   },
+   {
+      "codigo": "FAV0056",
+      "nome": "PRÁTICA HOSPITALAR VETERINÁRIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0558"
+      ],
+      "pre_requisitos": [
+         "FAV0179 & FAV0166"
+      ]
+   },
+   {
+      "codigo": "FAV0057",
+      "nome": "PRÁTICA HOSPITALAR VETERINÁRIA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0559"
+      ],
+      "pre_requisitos": [
+         "FAV0179 & FAV0166"
+      ]
+   },
+   {
+      "codigo": "FAV0338",
+      "nome": "PRÁTICAS CIRÚRGICAS EM PEQUENOS ANIMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0734"
+      ],
+      "pre_requisitos": [
+         "FAV0165 & FAV0199 & FAV0207"
+      ]
+   },
+   {
+      "codigo": "FAV0325",
+      "nome": "PRÁTICAS EM MEDICINA VETERINÁRIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0496"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0059",
+      "nome": "PRÁTICAS EM MEDICINA VETERINÁRIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0560"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0061",
+      "nome": "PRÁTICAS EM MEDICINA VETERINÁRIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0561"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0063",
+      "nome": "PRÁTICAS EM MEDICINA VETERINÁRIA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0455"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0054",
+      "nome": "PRÁTICAS LABORATORIAIS EM FERTILIDADE DO SOLO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0556"
+      ],
+      "pre_requisitos": [
+         "FAV0069"
+      ]
+   },
+   {
+      "codigo": "FAV0355",
+      "nome": "PRINCÍPIOS DE SOCIOLOGIA ECONÔMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0504"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0029",
+      "nome": "PRODUÇÃO DE AVES E SUÍNOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0449"
+      ],
+      "pre_requisitos": [
+         "FAV0276",
+         "FAV0180"
+      ]
+   },
+   {
+      "codigo": "FAV0031",
+      "nome": "PRODUÇÃO DE BOVINOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0450"
+      ],
+      "pre_requisitos": [
+         "FAV0276",
+         "FAV0180"
+      ]
+   },
+   {
+      "codigo": "FAV0117",
+      "nome": "PRODUCAO E CONTROLE DE PRODUTOS BIOLOGICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0583"
+      ],
+      "pre_requisitos": [
+         "FAV0206 & FAV0159 & CEL0025 & FAV0179 & FAV0297"
+      ]
+   },
+   {
+      "codigo": "FAV0017",
+      "nome": "PRODUÇÃO E MANEJO DE ANIMAIS SILVESTRES E EXÓTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0446"
+      ],
+      "pre_requisitos": [
+         "FAV0113",
+         "FAV0178",
+         "ZOO0017",
+         "ECL0039"
+      ]
+   },
+   {
+      "codigo": "FAV0095",
+      "nome": "PRODUÇÃO E TECNOLOGIA DE SEMENTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0384"
+      ],
+      "pre_requisitos": [
+         "FAV0101 & BOT0008 & FAV0310",
+         "FAV0311",
+         "FAV0137"
+      ]
+   },
+   {
+      "codigo": "FAV0307",
+      "nome": "RELAÇÕES ÁGUA-SOLO-PLANTA EM SISTEMAS AGRICOLAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0706"
+      ],
+      "pre_requisitos": [
+         "FAV0290 & FAV0274",
+         "FAV0032 & FAV0274"
+      ]
+   },
+   {
+      "codigo": "FAV0187",
+      "nome": "SANEAMENTO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0626"
+      ],
+      "pre_requisitos": [
+         "FAV0206 & FAV0159"
+      ]
+   },
+   {
+      "codigo": "FAV0144",
+      "nome": "SAUDE E CLINICA DAS AVES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0461"
+      ],
+      "pre_requisitos": [
+         "FAV0166 & FAV0179 & FAV0248"
+      ]
+   },
+   {
+      "codigo": "FAV0315",
+      "nome": "SAÚDE E CLÍNICA DE ANIMAIS SILVESTRES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0494"
+      ],
+      "pre_requisitos": [
+         "FAV0166 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0241",
+      "nome": "SAUDE E CLINICA DOS ANIMAIS DE COMPANHIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0654"
+      ],
+      "pre_requisitos": [
+         "FAV0166 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0205",
+      "nome": "SAUDE E CLINICA DOS EQUINOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0634"
+      ],
+      "pre_requisitos": [
+         "FAV0166 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0196",
+      "nome": "SAUDE E CLINICA DOS RUMINANTES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0630"
+      ],
+      "pre_requisitos": [
+         "FAV0166 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0240",
+      "nome": "SAUDE E CLINICA DOS SUINOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0653"
+      ],
+      "pre_requisitos": [
+         "FAV0166 & FAV0179"
+      ]
+   },
+   {
+      "codigo": "FAV0328",
+      "nome": "SAÚDE PÚBLICA VETERINÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0336",
+         "FAV0413"
+      ],
+      "pre_requisitos": [
+         "FAV0015 & FAV0297 & FAV0160",
+         "FAV0359 & FAV0297 & FAV0160"
+      ]
+   },
+   {
+      "codigo": "FAV0006",
+      "nome": "SEMIOLOGIA VETERINÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0437",
+         "FAV0512"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0367",
+      "nome": "SEMIOLOGIA VETERINÁRIA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0434"
+      ],
+      "pre_requisitos": [
+         "FAV0363"
+      ]
+   },
+   {
+      "codigo": "FAV0363",
+      "nome": "SEMIOLOGIA VETERINÁRIA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0367",
+         "FAV0425"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0289",
+      "nome": "SISTEMA DE PLANTIO DIRETO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0689"
+      ],
+      "pre_requisitos": [
+         "FAV0282"
+      ]
+   },
+   {
+      "codigo": "FAV0034",
+      "nome": "SISTEMAS DE PRODUÇÃO DE CULTURAS ENERGÉTICAS E FIBROSAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0427"
+      ],
+      "pre_requisitos": [
+         "FAV0100",
+         "FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0037",
+      "nome": "SISTEMAS DE PRODUÇÃO DE CULTURAS GRANÍFERAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0451"
+      ],
+      "pre_requisitos": [
+         "FAV0100",
+         "FAV0101"
+      ]
+   },
+   {
+      "codigo": "FAV0321",
+      "nome": "SUBSTRATOS PARA PLANTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0720"
+      ],
+      "pre_requisitos": [
+         "FAV0273"
+      ]
+   },
+   {
+      "codigo": "FAV0249",
+      "nome": "SUINOCULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0402"
+      ],
+      "pre_requisitos": [
+         "FAV0180 & FAV0066 & FAV0178",
+         "FAV0150 & FAV0113",
+         "FAV0276"
+      ]
+   },
+   {
+      "codigo": "FAV0165",
+      "nome": "TECNICA CIRURGICA VETERINARIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0051",
+         "FAV0143",
+         "FAV0145",
+         "FAV0199",
+         "FAV0464"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0360",
+      "nome": "TÉCNICA CIRÚRGICA VETERINÁRIA - MÓDULO PRÁTICO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FAV0431"
+      ],
+      "pre_requisitos": [
+         "FAV0357"
+      ]
+   },
+   {
+      "codigo": "FAV0357",
+      "nome": "TÉCNICA CIRÚRGICA VETERINÁRIA - MÓDULO TEÓRICO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FAV0199",
+         "FAV0360",
+         "FAV0422"
+      ],
+      "pre_requisitos": [
+         "FAV0018",
+         "FAV0362  &  FAV0179 & FAV0160"
+      ]
+   },
+   {
+      "codigo": "FAV0168",
+      "nome": "TECNOLOGIA DE CARNES E DERIVADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0465"
+      ],
+      "pre_requisitos": [
+         "FAV0206 & FAV0297  &  FAV0015",
+         "FAV0359"
+      ]
+   },
+   {
+      "codigo": "FAV0169",
+      "nome": "TECNOLOGIA DE LEITE E DERIVADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0186",
+         "FAV0392"
+      ],
+      "pre_requisitos": [
+         "FAV0182 & FAV0161"
+      ]
+   },
+   {
+      "codigo": "FAV0270",
+      "nome": "TECNOLOGIA DE MELHORAMENTO DE PLANTAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0672"
+      ],
+      "pre_requisitos": [
+         "FAV0101 & BOT0008"
+      ]
+   },
+   {
+      "codigo": "FAV0092",
+      "nome": "TECNOLOGIA DOS PRODUTOS AGROPECUARIOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0298",
+         "FAV0574"
+      ],
+      "pre_requisitos": [
+         "CEL0054",
+         "CEL0019"
+      ]
+   },
+   {
+      "codigo": "FAV0042",
+      "nome": "TECNOLOGIA E CONTROLE DE QUALIDADE DOS PRODUTOS AGROPECUÁRIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0298",
+         "NUT0049",
+         "NUT0091",
+         "FAV0379"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0326",
+      "nome": "TECNOLOGIA E INSPEÇÃO DE PESCADO OVOS E MEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0723"
+      ],
+      "pre_requisitos": [
+         "FAV0206 & FAV0159"
+      ]
+   },
+   {
+      "codigo": "FAV0306",
+      "nome": "TERAPÊUTICA APLICADA AOS ANIMAIS DE COMPANHIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0705"
+      ],
+      "pre_requisitos": [
+         "FAV0179 & FAV0241"
+      ]
+   },
+   {
+      "codigo": "FAV0335",
+      "nome": "TERAPIA GÊNICA 1 - FUNDAMENTOS E TÉCNICAS DE RNAI",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0731"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0020",
+      "nome": "TÓPICOS ESPECIAIS EM AGRONOMIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0529"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0293",
+      "nome": "TÓPICOS ESPECIAIS EM ZOOTECNIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0693"
+      ],
+      "pre_requisitos": [
+         "FAV0276",
+         "FAV0150",
+         "FAV0113",
+         "FAV0180"
+      ]
+   },
+   {
+      "codigo": "FAV0333",
+      "nome": "TOXICOLOGIA VETERINÁRIA E PLANTAS TOXICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0417"
+      ],
+      "pre_requisitos": [
+         "FAV0158"
+      ]
+   },
+   {
+      "codigo": "FAV0039",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAV0544"
+      ],
+      "pre_requisitos": [
+         "SOL0087  &  FAV0279  &  FAV0042  &  FAV0319  &  FAV0031",
+         "FAV0029"
+      ]
+   },
+   {
+      "codigo": "FAV0013",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0014",
+         "FAV0443"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0014",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0444"
+      ],
+      "pre_requisitos": [
+         "FAV0013"
+      ]
+   },
+   {
+      "codigo": "FAV0353",
+      "nome": "TRABALHO E SAÚDE NO CONTEXTO AGROINDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0748"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAV0232",
+      "nome": "USO SUSTENTÁVEL DE SOLOS TROPICAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0478"
+      ],
+      "pre_requisitos": [
+         "FAV0279 & FAV0290 & FAV0310",
+         "FAV0279 & FAV0032 & FAV0037"
+      ]
+   },
+   {
+      "codigo": "FAV0299",
+      "nome": "UTILIZAÇÃO DE PLANTAS FORRAGEIRAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0491"
+      ],
+      "pre_requisitos": [
+         "FAV0234 & FAV0180"
+      ]
+   },
+   {
+      "codigo": "FAV0352",
+      "nome": "VITI-VINICULTURA E ENOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0747"
+      ],
+      "pre_requisitos": [
+         "FAV0292"
+      ]
+   },
+   {
+      "codigo": "FAV0336",
+      "nome": "ZOONOSES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0732"
+      ],
+      "pre_requisitos": [
+         "FAV0328"
+      ]
+   },
+   {
+      "codigo": "FAV0150",
+      "nome": "ZOOTECNIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0079",
+         "FAV0293",
+         "FAV0598"
+      ],
+      "pre_requisitos": [
+         "GEM0014 & EST0027"
+      ]
+   },
+   {
+      "codigo": "FAV0079",
+      "nome": "ZOOTECNIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0570"
+      ],
+      "pre_requisitos": [
+         "FAV0150"
+      ]
+   },
+   {
+      "codigo": "FAV0276",
+      "nome": "ZOOTECNIA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0026",
+         "FAV0029",
+         "FAV0031",
+         "FAV0181",
+         "FAV0182",
+         "FAV0237",
+         "FAV0247",
+         "FAV0248",
+         "FAV0249",
+         "FAV0293",
+         "FAV0314",
+         "FAV0340",
+         "FAV0407"
+      ],
+      "pre_requisitos": [
+         "GEM0014  &  FAV0113",
+         "FAV0112"
+      ]
+   }
 ]

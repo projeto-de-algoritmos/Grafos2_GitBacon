@@ -1,11 +1,11 @@
 [
-  {
-    "cod": "CDT1101",
-    "nome": "TECNOLOGIA SOCIAL E INOVA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "CDT1102"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "CDT1101",
+      "nome": "TECNOLOGIA SOCIAL E INOVAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDT1102"
+      ],
+      "pre_requisitos": []
+   }
 ]

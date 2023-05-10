@@ -1,11 +1,11 @@
 [
-  {
-    "cod": "COT0001",
-    "nome": "ECONOMIA E GEST\u00c3O DE \u00c1REAS PROTEGIDAS",
-    "ch": 60,
-    "post_requirements": [
-      "C"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "COT0001",
+      "nome": "ECONOMIA E GESTÃO DE ÁREAS PROTEGIDAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COT0002"
+      ],
+      "pre_requisitos": []
+   }
 ]

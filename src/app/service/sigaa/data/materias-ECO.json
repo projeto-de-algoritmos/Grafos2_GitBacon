@@ -1,1274 +1,1414 @@
 [
-  {
-    "cod": "ECO0268",
-    "nome": "AN\u00c1LISE CUSTO BENEF\u00cdCIO AMBIENTAL DE PROJETOS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0272",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0267",
-    "nome": "AN\u00c1LISE CUSTO BENEF\u00cdCIO AMBIENTAL DE PROJETOS",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0010",
-    "nome": "AN\u00c1LISE DE INSUMO-PRODUTO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0050",
-      "ECO0003"
-    ]
-  },
-  {
-    "cod": "ECO0079",
-    "nome": "ANALISE DE PROJETOS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0280",
-    "nome": "AN\u00c1LISE ECON\u00d4MICA DE PROCESSOS POL\u00cdTICOS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0230",
-    "nome": "ANALISE ECONOMICA DE SERIES DE TEMPO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0128"
-    ]
-  },
-  {
-    "cod": "ECO0244",
-    "nome": "ANALISE MACROECONOMICA AVANCADA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0242",
-    "nome": "ANALISE MICROECONOMICA AVANCADA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185"
-    ]
-  },
-  {
-    "cod": "ECO0276",
-    "nome": "AVALIA\u00c7\u00c3O AMBIENTAL ESTRAT\u00c9GICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "CDS0010",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0147",
-    "nome": "CONJUNTURA ECONOMICA BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126 & ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0050",
-    "nome": "CONTABILIDADE NACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0067",
-    "nome": "DESENVOLVIMENTO ECONOMICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0032",
-      "ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0012",
-    "nome": "DESENVOLVIMENTO ECON\u00d4MICO E SOCIAL",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0199"
-    ]
-  },
-  {
-    "cod": "ECO0054",
-    "nome": "ECONOMETRIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0128"
-    ]
-  },
-  {
-    "cod": "ECO0240",
-    "nome": "ECONOMETRIA AVANCADA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0128"
-    ]
-  },
-  {
-    "cod": "ECO0264",
-    "nome": "ECONOMETRIA DE S\u00c9RIES DE TEMPO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0128",
-      "EST0038",
-      "EST0023 & ENE0085"
-    ]
-  },
-  {
-    "cod": "ECO0052",
-    "nome": "ECONOMIA AGRICOLA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0262",
-    "nome": "ECONOMIA AMBIENTAL E ECOL\u00d3GICA",
-    "ch": 60,
-    "post_requirements": [
-      "FDD0282"
-    ],
-    "pre_requirements": [
-      "ECO0272",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0072",
-    "nome": "ECONOMIA BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "CCA0067"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0238",
-    "nome": "ECONOMIA BRASILEIRA AVANCADA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0159"
-    ]
-  },
-  {
-    "cod": "ECO0017",
-    "nome": "ECONOMIA DA DEFESA DA CONCORR\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0007",
-    "nome": "ECONOMIA DA INFRAESTRUTURA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0266",
-    "nome": "ECONOMIA DA POL\u00cdTICA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "CDS0010",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0011",
-    "nome": "ECONOMIA DA REGULA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185"
-    ]
-  },
-  {
-    "cod": "ECO0085",
-    "nome": "ECONOMIA DA TECNOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099 & ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0191",
-    "nome": "ECONOMIA DE COMERCIO INTERNACIONAL",
-    "ch": 90,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0128 & ECO0189",
-      "EST0063 & ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0234",
-    "nome": "ECONOMIA DE EMPRESAS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126 & ECO0185 & ECO0099 & ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0159",
-    "nome": "ECONOMIA DO BRASIL CONTEMPORANEO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0023 & ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0277",
-    "nome": "ECONOMIA DO CRIME",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0252",
-    "nome": "ECONOMIA DO MEIO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185",
-      "MAT0027 & ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0273",
-    "nome": "ECONOMIA DO SETOR EXTERNO E MEIO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0141",
-    "nome": "ECONOMIA DO SETOR PUBLICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0161",
-    "nome": "ECONOMIA DOS RECURSOS HUMANOS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0104",
-    "nome": "ECONOMIA DOS RECURSOS NATURAIS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126 & ECO0099",
-      "MAT0026 & ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0101",
-    "nome": "ECONOMIA DOS TRANSPORTES",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0083",
-    "nome": "ECONOMIA DO TRABALHO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099 & ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0279",
-    "nome": "ECONOMIA E DEMOCRACIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0197",
-    "nome": "ECONOMIA ESTATISTICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019 & EST0061"
-    ]
-  },
-  {
-    "cod": "ECO0134",
-    "nome": "ECONOMIA INDUSTRIAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185"
-    ]
-  },
-  {
-    "cod": "ECO0040",
-    "nome": "ECONOMIA INTERNACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0246",
-    "nome": "ECONOMIA LATINO-AMERICANA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0218"
-    ]
-  },
-  {
-    "cod": "ECO0194",
-    "nome": "ECONOMIA MONETARIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0124",
-    "nome": "ECONOMIA POLITICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0218"
-    ]
-  },
-  {
-    "cod": "ECO0222",
-    "nome": "ECONOMIA POLITICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0124"
-    ]
-  },
-  {
-    "cod": "ECO0187",
-    "nome": "ECONOMIA QUANTITATIVA 1",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "MAT0025 & ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0056",
-    "nome": "ECONOMIA QUANTITATIVA 2",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0187"
-    ]
-  },
-  {
-    "cod": "ECO0061",
-    "nome": "ECONOMIA REGIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0108",
-    "nome": "ECONOMIA RURAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "FAV0097"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0139",
-    "nome": "ECONOMIA URBANA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0250",
-    "nome": "ELEMENTOS DE ECONOMIA INTERNACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "IRI0013"
-    ]
-  },
-  {
-    "cod": "ECO0145",
-    "nome": "EMPRESAS MULTINACIONAIS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0274",
-    "nome": "ESPA\u00c7O REGIONAL URBANO E MEIO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0272",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0224",
-    "nome": "ESTAGIO CURRICULAR SUPERVISIONADO",
-    "ch": 15,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0218",
-    "nome": "EVOLUCAO DAS IDEIAS ECONOMICAS SOCIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0077",
-    "nome": "EXPERIENCIAS COMPARADAS DE DESENVOLVIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099 & ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0153",
-    "nome": "FINANCAS INTERNACIONAIS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0143",
-    "nome": "FORMACAO ECONOMICA DA AMERICA LATINA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0023"
-    ]
-  },
-  {
-    "cod": "ECO0023",
-    "nome": "FORMA\u00c7\u00c3O ECON\u00d4MICA DO BRASIL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0265",
-    "nome": "FUNDAMENTOS DE ECONOMIA DO MEIO AMBIENTE",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0025",
-    "nome": "HISTORIA DO PENSAMENTO ECONOMICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185 & ECO0218 & ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0021",
-    "nome": "HIST\u00d3RIA ECON\u00d4MICA GERAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0015",
-    "nome": "HIST\u00d3RIA ECON\u00d4MICA GERAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0021"
-    ]
-  },
-  {
-    "cod": "ECO0275",
-    "nome": "INSTRUMENTO DE POL\u00cdTICA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "CDS0006"
-    ],
-    "pre_requirements": [
-      "ECO0262",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0128",
-    "nome": "INTRODUCAO A ECONOMETRIA",
-    "ch": 60,
-    "post_requirements": [
-      ""
-    ],
-    "pre_requirements": [
-      "ECO0197",
-      "EST0023"
-    ]
-  },
-  {
-    "cod": "ECO0019",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 ECONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0008",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 ECONOMIA POL\u00cdTICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0004",
-    "nome": "INTRODU\u00c7\u00c3O A ECONOMIA QUANTITATIVA",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0006",
-    "nome": "LABORAT\u00d3RIO DE ECONOMETRIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0054"
-    ]
-  },
-  {
-    "cod": "ECO0099",
-    "nome": "MACROECONOMIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0050 & ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0189",
-    "nome": "MACROECONOMIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099 & ECO0187"
-    ]
-  },
-  {
-    "cod": "ECO0228",
-    "nome": "MACROECONOMIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0278",
-    "nome": "MACROECONOMIA ESTRUTURALISTA DO DESENVOLVIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0218 & ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0254",
-    "nome": "MATEM\u00c1TICA FINANCEIRA PARA ECONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0220",
-    "nome": "METODOLOGIA NA CI\u00caNCIA ECON\u00d4MICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0218"
-    ]
-  },
-  {
-    "cod": "ECO0236",
-    "nome": "METODOS MATEMATICOS EM CIENCIAS SOCIAIS AVANCADOS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0187"
-    ]
-  },
-  {
-    "cod": "ECO0126",
-    "nome": "MICROECONOMIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0187 & ECO0218"
-    ]
-  },
-  {
-    "cod": "ECO0185",
-    "nome": "MICROECONOMIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0226",
-    "nome": "MICROECONOMIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185"
-    ]
-  },
-  {
-    "cod": "ECO0272",
-    "nome": "MICROECONOMIA AMBIENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "MAT0022",
-      "MAT0025"
-    ]
-  },
-  {
-    "cod": "ECO0208",
-    "nome": "MONITORIA 1 PROFISSIONAL EM ECONOMIA",
-    "ch": 0,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0248",
-    "nome": "MONOGRAFIA",
-    "ch": 240,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0114"
-    ]
-  },
-  {
-    "cod": "ECO0336",
-    "nome": "O MERCADO DE IDEIAS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0013",
-    "nome": "PENSAMENTO ECON\u00d4MICO BRASILEIRO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0270",
-    "nome": "PLANEJAMENTO DE INVESTIMENTOS AMBIENTAIS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "CDS0010",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0261",
-    "nome": "PLANEJAMENTO P\u00daBLICO E MEIO AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "CDS0006"
-    ],
-    "pre_requirements": [
-      "ECO0272",
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0122",
-    "nome": "POLITICA ECONOMICA BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0090",
-    "nome": "POLITICA E PROGRAMACAO ECONOMICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019 & ECO0032"
-    ]
-  },
-  {
-    "cod": "ECO0070",
-    "nome": "SEMINARIO DE DESENVOLVIMENTO ECONOMICO",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0218"
-    ]
-  },
-  {
-    "cod": "ECO0059",
-    "nome": "SEMINARIO DE ECONOMETRIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0054"
-    ]
-  },
-  {
-    "cod": "ECO0117",
-    "nome": "SEMINARIO DE ECONOMIA BRASILEIRA",
-    "ch": 90,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0023"
-    ]
-  },
-  {
-    "cod": "ECO0137",
-    "nome": "SEMINARIO DE ECONOMIA INDUSTRIAL",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126 & ECO0185"
-    ]
-  },
-  {
-    "cod": "ECO0045",
-    "nome": "SEMINARIO DE ECONOMIA INTERNACIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126 & ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0048",
-    "nome": "SEMINARIO DE ECONOMIA MONETARIA",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0064",
-    "nome": "SEMINARIO DE ECONOMIA REGIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0093",
-    "nome": "SEMINARIO DE POLITICA FISCAL",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126 & ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0258",
-    "nome": "SEMIN\u00c1RIOS - VIS\u00d5ES EM CI\u00caNCIAS AMBIENTAIS",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ECO0114",
-    "nome": "TECNICAS DE PESQUISA ECONOMICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0128 & ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0256",
-    "nome": "TEORIA DAS FINAN\u00c7AS",
-    "ch": 60,
-    "post_requirements": [
-      ""
-    ],
-    "pre_requirements": [
-      "ECO0128 & ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0036",
-    "nome": "TEORIA DO CRESCIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126",
-      "ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0232",
-    "nome": "TEORIA DO CRESCIMENTO ECONOMICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0199",
-    "nome": "TEORIA DO DESENVOLVIMENTO ECONOMICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0211",
-    "nome": "TOPICO AVANCADO EM ECONOMIA MATEMATICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0056"
-    ]
-  },
-  {
-    "cod": "ECO0216",
-    "nome": "TOPICOS ESPECIAIS EM ANALISE ECONOMICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0185"
-    ]
-  },
-  {
-    "cod": "ECO0172",
-    "nome": "TOPICOS ESPECIAIS EM DESENVOLVIMENTO ECONOMICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0199"
-    ]
-  },
-  {
-    "cod": "ECO0283",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ECONOMIA DO TRABALHO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019 & EST0023"
-    ]
-  },
-  {
-    "cod": "ECO0176",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ECONOMIA INTERNACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0040"
-    ]
-  },
-  {
-    "cod": "ECO0183",
-    "nome": "TOPICOS ESPECIAIS EM ECONOMIA MONETARIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0194"
-    ]
-  },
-  {
-    "cod": "ECO0002",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ECONOMIA REGIONAL E URBANA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0019"
-    ]
-  },
-  {
-    "cod": "ECO0156",
-    "nome": "TOPICOS ESPECIAIS EM EVOLUCAO DO PENSAMENTO ECONOMICO",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0218"
-    ]
-  },
-  {
-    "cod": "ECO0179",
-    "nome": "TOPICOS ESPECIAIS EM FINANCAS PUBLICAS",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0141"
-    ]
-  },
-  {
-    "cod": "ECO0150",
-    "nome": "TOPICOS ESPECIAIS EM HISTORIA ECONOMICA DO BRASIL",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0023"
-    ]
-  },
-  {
-    "cod": "ECO0284",
-    "nome": "T\u00d3PICOS ESPECIAIS EM MACROECONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0282",
-    "nome": "T\u00d3PICOS ESPECIAIS EM MICROECONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0126"
-    ]
-  },
-  {
-    "cod": "ECO0016",
-    "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA MACROECON\u00d4MICA",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0189"
-    ]
-  },
-  {
-    "cod": "ECO0281",
-    "nome": "T\u00d3PICOS ESPECIAIS SOBRE CRESCIMENTO ECON\u00d4MICO",
-    "ch": 60,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": [
-      "ECO0099"
-    ]
-  },
-  {
-    "cod": "ECO0014",
-    "nome": "TUTORIAL EM CI\u00caNCIAS ECON\u00d4MICAS",
-    "ch": 30,
-    "post_requirements": [
-      "EC"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "ECO0268",
+      "nome": "ANÁLISE CUSTO BENEFÍCIO AMBIENTAL DE PROJETOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0331"
+      ],
+      "pre_requisitos": [
+         "ECO0272",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0267",
+      "nome": "ANÁLISE CUSTO BENEFÍCIO AMBIENTAL DE PROJETOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0436"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0010",
+      "nome": "ANÁLISE DE INSUMO-PRODUTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0307"
+      ],
+      "pre_requisitos": [
+         "ECO0050",
+         "ECO0003"
+      ]
+   },
+   {
+      "codigo": "ECO0079",
+      "nome": "ANALISE DE PROJETOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0314"
+      ],
+      "pre_requisitos": [
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0280",
+      "nome": "ANÁLISE ECONÔMICA DE PROCESSOS POLÍTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0447"
+      ],
+      "pre_requisitos": [
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0230",
+      "nome": "ANALISE ECONOMICA DE SERIES DE TEMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0323"
+      ],
+      "pre_requisitos": [
+         "ECO0128"
+      ]
+   },
+   {
+      "codigo": "ECO0244",
+      "nome": "ANALISE MACROECONOMICA AVANCADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0423"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0242",
+      "nome": "ANALISE MICROECONOMICA AVANCADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0422"
+      ],
+      "pre_requisitos": [
+         "ECO0185"
+      ]
+   },
+   {
+      "codigo": "ECO0276",
+      "nome": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0443"
+      ],
+      "pre_requisitos": [
+         "CDS0010",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0147",
+      "nome": "CONJUNTURA ECONOMICA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0390"
+      ],
+      "pre_requisitos": [
+         "ECO0126 & ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0050",
+      "nome": "CONTABILIDADE NACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0010",
+         "CCA0067",
+         "CCA0169",
+         "ECO0291"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0067",
+      "nome": "DESENVOLVIMENTO ECONOMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0365"
+      ],
+      "pre_requisitos": [
+         "ECO0032",
+         "ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0012",
+      "nome": "DESENVOLVIMENTO ECONÔMICO E SOCIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0344"
+      ],
+      "pre_requisitos": [
+         "ECO0199"
+      ]
+   },
+   {
+      "codigo": "ECO0054",
+      "nome": "ECONOMETRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0006",
+         "ECO0059",
+         "ECO0292"
+      ],
+      "pre_requisitos": [
+         "ECO0128"
+      ]
+   },
+   {
+      "codigo": "ECO0240",
+      "nome": "ECONOMETRIA AVANCADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0421"
+      ],
+      "pre_requisitos": [
+         "ECO0128"
+      ]
+   },
+   {
+      "codigo": "ECO0264",
+      "nome": "ECONOMETRIA DE SÉRIES DE TEMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0433"
+      ],
+      "pre_requisitos": [
+         "ECO0128",
+         "EST0038",
+         "EST0023 & ENE0085"
+      ]
+   },
+   {
+      "codigo": "ECO0052",
+      "nome": "ECONOMIA AGRICOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0359"
+      ],
+      "pre_requisitos": [
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0262",
+      "nome": "ECONOMIA AMBIENTAL E ECOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FDD0282",
+         "ECO0275",
+         "ECO0329"
+      ],
+      "pre_requisitos": [
+         "ECO0272",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0072",
+      "nome": "ECONOMIA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CCA0067",
+         "CCA0169",
+         "ECO0313"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0238",
+      "nome": "ECONOMIA BRASILEIRA AVANCADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0420"
+      ],
+      "pre_requisitos": [
+         "ECO0159"
+      ]
+   },
+   {
+      "codigo": "ECO0017",
+      "nome": "ECONOMIA DA DEFESA DA CONCORRÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0309"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0007",
+      "nome": "ECONOMIA DA INFRAESTRUTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0286"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0266",
+      "nome": "ECONOMIA DA POLÍTICA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0330"
+      ],
+      "pre_requisitos": [
+         "CDS0010",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0011",
+      "nome": "ECONOMIA DA REGULAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0343"
+      ],
+      "pre_requisitos": [
+         "ECO0185"
+      ]
+   },
+   {
+      "codigo": "ECO0085",
+      "nome": "ECONOMIA DA TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0371"
+      ],
+      "pre_requisitos": [
+         "ECO0099 & ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0191",
+      "nome": "ECONOMIA DE COMERCIO INTERNACIONAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ECO0403"
+      ],
+      "pre_requisitos": [
+         "ECO0128 & ECO0189",
+         "EST0063 & ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0234",
+      "nome": "ECONOMIA DE EMPRESAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0418"
+      ],
+      "pre_requisitos": [
+         "ECO0126 & ECO0185 & ECO0099 & ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0159",
+      "nome": "ECONOMIA DO BRASIL CONTEMPORANEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0238",
+         "ECO0318"
+      ],
+      "pre_requisitos": [
+         "ECO0023 & ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0277",
+      "nome": "ECONOMIA DO CRIME",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0335"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0252",
+      "nome": "ECONOMIA DO MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0427"
+      ],
+      "pre_requisitos": [
+         "ECO0185",
+         "MAT0027 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0273",
+      "nome": "ECONOMIA DO SETOR EXTERNO E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0332"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0141",
+      "nome": "ECONOMIA DO SETOR PUBLICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0179",
+         "ECO0317"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0161",
+      "nome": "ECONOMIA DOS RECURSOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0395"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0104",
+      "nome": "ECONOMIA DOS RECURSOS NATURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0376"
+      ],
+      "pre_requisitos": [
+         "ECO0126 & ECO0099",
+         "MAT0026 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0101",
+      "nome": "ECONOMIA DOS TRANSPORTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0375"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0083",
+      "nome": "ECONOMIA DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0293"
+      ],
+      "pre_requisitos": [
+         "ECO0099 & ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0279",
+      "nome": "ECONOMIA E DEMOCRACIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0446"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0197",
+      "nome": "ECONOMIA ESTATISTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0128",
+         "ECO0405"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & EST0061"
+      ]
+   },
+   {
+      "codigo": "ECO0134",
+      "nome": "ECONOMIA INDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0316"
+      ],
+      "pre_requisitos": [
+         "ECO0185"
+      ]
+   },
+   {
+      "codigo": "ECO0040",
+      "nome": "ECONOMIA INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0176",
+         "ECO0311"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0246",
+      "nome": "ECONOMIA LATINO-AMERICANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0424"
+      ],
+      "pre_requisitos": [
+         "ECO0218"
+      ]
+   },
+   {
+      "codigo": "ECO0194",
+      "nome": "ECONOMIA MONETARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0183",
+         "ECO0319"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0124",
+      "nome": "ECONOMIA POLITICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0222",
+         "ECO0295"
+      ],
+      "pre_requisitos": [
+         "ECO0218"
+      ]
+   },
+   {
+      "codigo": "ECO0222",
+      "nome": "ECONOMIA POLITICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0412"
+      ],
+      "pre_requisitos": [
+         "ECO0124"
+      ]
+   },
+   {
+      "codigo": "ECO0187",
+      "nome": "ECONOMIA QUANTITATIVA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0056",
+         "ECO0236",
+         "ECO0299"
+      ],
+      "pre_requisitos": [
+         "MAT0025 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0056",
+      "nome": "ECONOMIA QUANTITATIVA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0211",
+         "ECO0312"
+      ],
+      "pre_requisitos": [
+         "ECO0187"
+      ]
+   },
+   {
+      "codigo": "ECO0061",
+      "nome": "ECONOMIA REGIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0363"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0108",
+      "nome": "ECONOMIA RURAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0097",
+         "FAV0213",
+         "EFL0013",
+         "ECO0377"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0139",
+      "nome": "ECONOMIA URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0386"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0250",
+      "nome": "ELEMENTOS DE ECONOMIA INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0426"
+      ],
+      "pre_requisitos": [
+         "IRI0013"
+      ]
+   },
+   {
+      "codigo": "ECO0145",
+      "nome": "EMPRESAS MULTINACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0389"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0274",
+      "nome": "ESPAÇO REGIONAL URBANO E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0333"
+      ],
+      "pre_requisitos": [
+         "ECO0272",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0224",
+      "nome": "ESTAGIO CURRICULAR SUPERVISIONADO",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ECO0303"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0218",
+      "nome": "EVOLUCAO DAS IDEIAS ECONOMICAS SOCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0070",
+         "ECO0124",
+         "ECO0156",
+         "ECO0220",
+         "ECO0246",
+         "ECO0301"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0077",
+      "nome": "EXPERIENCIAS COMPARADAS DE DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0368"
+      ],
+      "pre_requisitos": [
+         "ECO0099 & ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0153",
+      "nome": "FINANCAS INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0392"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0143",
+      "nome": "FORMACAO ECONOMICA DA AMERICA LATINA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0388"
+      ],
+      "pre_requisitos": [
+         "ECO0023"
+      ]
+   },
+   {
+      "codigo": "ECO0023",
+      "nome": "FORMAÇÃO ECONÔMICA DO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0117",
+         "ECO0143",
+         "ECO0150",
+         "ECO0290"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0265",
+      "nome": "FUNDAMENTOS DE ECONOMIA DO MEIO AMBIENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0434"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0025",
+      "nome": "HISTORIA DO PENSAMENTO ECONOMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0310"
+      ],
+      "pre_requisitos": [
+         "ECO0185 & ECO0218 & ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0021",
+      "nome": "HISTÓRIA ECONÔMICA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0015",
+         "ECO0289"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0015",
+      "nome": "HISTÓRIA ECONÔMICA GERAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0287"
+      ],
+      "pre_requisitos": [
+         "ECO0021"
+      ]
+   },
+   {
+      "codigo": "ECO0275",
+      "nome": "INSTRUMENTO DE POLÍTICA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0006",
+         "ECO0334"
+      ],
+      "pre_requisitos": [
+         "ECO0262",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0128",
+      "nome": "INTRODUCAO A ECONOMETRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "um bom domínio de estatística e de álgebra linear.",
+         "",
+         "Cargas Horárias  Aula",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "60h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade presencial, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "60h",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade a distância, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "0h",
+         "Total de Carga Horária de Aula do Componente",
+         "Total do conjunto de cargas",
+         "60h",
+         "Total de Carga Horária do Componente",
+         "Total do conjunto de cargas horárias do componente cumpridas nas modalidades presencial e a distância.",
+         "60h"
+      ],
+      "pre_requisitos": [
+         "ECO0197",
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "ECO0019",
+      "nome": "INTRODUÇÃO À ECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0002",
+         "FAV0025",
+         "FUP0128",
+         "ECO0017",
+         "ECO0021",
+         "ECO0023",
+         "ECO0032",
+         "ECO0048",
+         "ECO0050",
+         "ECO0061",
+         "ECO0064",
+         "ECO0072",
+         "ECO0101",
+         "ECO0108",
+         "ECO0139",
+         "ECO0145",
+         "ECO0161",
+         "ECO0218",
+         "GPP0031",
+         "SER0031",
+         "SER0129",
+         "FAV0275",
+         "FAV0295",
+         "IRI0065",
+         "POL0048",
+         "FUP0344",
+         "FCE0336",
+         "FUP0531",
+         "ECO0277",
+         "ECO0288",
+         "ECO0336"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0008",
+      "nome": "INTRODUÇÃO À ECONOMIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0341"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0004",
+      "nome": "INTRODUÇÃO A ECONOMIA QUANTITATIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0338"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0006",
+      "nome": "LABORATÓRIO DE ECONOMETRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0306"
+      ],
+      "pre_requisitos": [
+         "ECO0054"
+      ]
+   },
+   {
+      "codigo": "ECO0099",
+      "nome": "MACROECONOMIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0036",
+         "ECO0067",
+         "ECO0199",
+         "ECO0232",
+         "ECO0281",
+         "ECO0284",
+         "ECO0294"
+      ],
+      "pre_requisitos": [
+         "ECO0050 & ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0189",
+      "nome": "MACROECONOMIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0007",
+         "ECO0013",
+         "ECO0016",
+         "ECO0040",
+         "ECO0122",
+         "ECO0141",
+         "ECO0153",
+         "ECO0194",
+         "ECO0228",
+         "ECO0244",
+         "ECO0279",
+         "ECO0300"
+      ],
+      "pre_requisitos": [
+         "ECO0099 & ECO0187"
+      ]
+   },
+   {
+      "codigo": "ECO0228",
+      "nome": "MACROECONOMIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0322"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0278",
+      "nome": "MACROECONOMIA ESTRUTURALISTA DO DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0445"
+      ],
+      "pre_requisitos": [
+         "ECO0218 & ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0254",
+      "nome": "MATEMÁTICA FINANCEIRA PARA ECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0326"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0220",
+      "nome": "METODOLOGIA NA CIÊNCIA ECONÔMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0321"
+      ],
+      "pre_requisitos": [
+         "ECO0218"
+      ]
+   },
+   {
+      "codigo": "ECO0236",
+      "nome": "METODOS MATEMATICOS EM CIENCIAS SOCIAIS AVANCADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0419"
+      ],
+      "pre_requisitos": [
+         "ECO0187"
+      ]
+   },
+   {
+      "codigo": "ECO0126",
+      "nome": "MICROECONOMIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0036",
+         "ECO0052",
+         "ECO0079",
+         "ECO0185",
+         "ECO0261",
+         "ECO0262",
+         "ECO0266",
+         "ECO0268",
+         "ECO0270",
+         "ECO0274",
+         "ECO0275",
+         "ECO0276",
+         "ECO0280",
+         "ECO0282",
+         "ECO0296"
+      ],
+      "pre_requisitos": [
+         "ECO0187 & ECO0218"
+      ]
+   },
+   {
+      "codigo": "ECO0185",
+      "nome": "MICROECONOMIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0011",
+         "ECO0134",
+         "ECO0216",
+         "ECO0226",
+         "ECO0242",
+         "ECO0252",
+         "ECO0298"
+      ],
+      "pre_requisitos": [
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0226",
+      "nome": "MICROECONOMIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0414"
+      ],
+      "pre_requisitos": [
+         "ECO0185"
+      ]
+   },
+   {
+      "codigo": "ECO0272",
+      "nome": "MICROECONOMIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0261",
+         "ECO0262",
+         "ECO0268",
+         "ECO0274",
+         "ECO0302"
+      ],
+      "pre_requisitos": [
+         "MAT0022",
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "ECO0208",
+      "nome": "MONITORIA 1 PROFISSIONAL EM ECONOMIA",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "ECO0407"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0248",
+      "nome": "MONOGRAFIA",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "ECO0325"
+      ],
+      "pre_requisitos": [
+         "ECO0114"
+      ]
+   },
+   {
+      "codigo": "ECO0336",
+      "nome": "O MERCADO DE IDEIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0453"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0013",
+      "nome": "PENSAMENTO ECONÔMICO BRASILEIRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0345"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0270",
+      "nome": "PLANEJAMENTO DE INVESTIMENTOS AMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0438"
+      ],
+      "pre_requisitos": [
+         "CDS0010",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0261",
+      "nome": "PLANEJAMENTO PÚBLICO E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0006",
+         "FDD0282",
+         "ECO0328"
+      ],
+      "pre_requisitos": [
+         "ECO0272",
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0122",
+      "nome": "POLITICA ECONOMICA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0380"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0090",
+      "nome": "POLITICA E PROGRAMACAO ECONOMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0372"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & ECO0032"
+      ]
+   },
+   {
+      "codigo": "ECO0070",
+      "nome": "SEMINARIO DE DESENVOLVIMENTO ECONOMICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0366"
+      ],
+      "pre_requisitos": [
+         "ECO0218"
+      ]
+   },
+   {
+      "codigo": "ECO0059",
+      "nome": "SEMINARIO DE ECONOMETRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0362"
+      ],
+      "pre_requisitos": [
+         "ECO0054"
+      ]
+   },
+   {
+      "codigo": "ECO0117",
+      "nome": "SEMINARIO DE ECONOMIA BRASILEIRA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ECO0379"
+      ],
+      "pre_requisitos": [
+         "ECO0023"
+      ]
+   },
+   {
+      "codigo": "ECO0137",
+      "nome": "SEMINARIO DE ECONOMIA INDUSTRIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0385"
+      ],
+      "pre_requisitos": [
+         "ECO0126 & ECO0185"
+      ]
+   },
+   {
+      "codigo": "ECO0045",
+      "nome": "SEMINARIO DE ECONOMIA INTERNACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0356"
+      ],
+      "pre_requisitos": [
+         "ECO0126 & ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0048",
+      "nome": "SEMINARIO DE ECONOMIA MONETARIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0357"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0064",
+      "nome": "SEMINARIO DE ECONOMIA REGIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0364"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0093",
+      "nome": "SEMINARIO DE POLITICA FISCAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0373"
+      ],
+      "pre_requisitos": [
+         "ECO0126 & ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0258",
+      "nome": "SEMINÁRIOS - VISÕES EM CIÊNCIAS AMBIENTAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0327"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ECO0114",
+      "nome": "TECNICAS DE PESQUISA ECONOMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0248",
+         "ECO0285",
+         "ECO0315"
+      ],
+      "pre_requisitos": [
+         "ECO0128 & ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0256",
+      "nome": "TEORIA DAS FINANÇAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "s para o curso são microeconomia 1 e econometria. Um conhecimento de leitura em inglês édesejável, mas não requerido. Este programa pode ser modificado no decorrer do curso e podem ser exigidas leiturasextras."
+      ],
+      "pre_requisitos": [
+         "ECO0128 & ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0036",
+      "nome": "TEORIA DO CRESCIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0354"
+      ],
+      "pre_requisitos": [
+         "ECO0126",
+         "ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0232",
+      "nome": "TEORIA DO CRESCIMENTO ECONOMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0324"
+      ],
+      "pre_requisitos": [
+         "ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0199",
+      "nome": "TEORIA DO DESENVOLVIMENTO ECONOMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0012",
+         "ECO0172",
+         "ECO0320"
+      ],
+      "pre_requisitos": [
+         "ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0211",
+      "nome": "TOPICO AVANCADO EM ECONOMIA MATEMATICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0408"
+      ],
+      "pre_requisitos": [
+         "ECO0056"
+      ]
+   },
+   {
+      "codigo": "ECO0216",
+      "nome": "TOPICOS ESPECIAIS EM ANALISE ECONOMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0409"
+      ],
+      "pre_requisitos": [
+         "ECO0185"
+      ]
+   },
+   {
+      "codigo": "ECO0172",
+      "nome": "TOPICOS ESPECIAIS EM DESENVOLVIMENTO ECONOMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0396"
+      ],
+      "pre_requisitos": [
+         "ECO0199"
+      ]
+   },
+   {
+      "codigo": "ECO0283",
+      "nome": "TÓPICOS ESPECIAIS EM ECONOMIA DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0450"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & EST0023"
+      ]
+   },
+   {
+      "codigo": "ECO0176",
+      "nome": "TÓPICOS ESPECIAIS EM ECONOMIA INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0397"
+      ],
+      "pre_requisitos": [
+         "ECO0040"
+      ]
+   },
+   {
+      "codigo": "ECO0183",
+      "nome": "TOPICOS ESPECIAIS EM ECONOMIA MONETARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0399"
+      ],
+      "pre_requisitos": [
+         "ECO0194"
+      ]
+   },
+   {
+      "codigo": "ECO0002",
+      "nome": "TÓPICOS ESPECIAIS EM ECONOMIA REGIONAL E URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0305"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "ECO0156",
+      "nome": "TOPICOS ESPECIAIS EM EVOLUCAO DO PENSAMENTO ECONOMICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0393"
+      ],
+      "pre_requisitos": [
+         "ECO0218"
+      ]
+   },
+   {
+      "codigo": "ECO0179",
+      "nome": "TOPICOS ESPECIAIS EM FINANCAS PUBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0398"
+      ],
+      "pre_requisitos": [
+         "ECO0141"
+      ]
+   },
+   {
+      "codigo": "ECO0150",
+      "nome": "TOPICOS ESPECIAIS EM HISTORIA ECONOMICA DO BRASIL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0391"
+      ],
+      "pre_requisitos": [
+         "ECO0023"
+      ]
+   },
+   {
+      "codigo": "ECO0284",
+      "nome": "TÓPICOS ESPECIAIS EM MACROECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0451"
+      ],
+      "pre_requisitos": [
+         "ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0282",
+      "nome": "TÓPICOS ESPECIAIS EM MICROECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0304"
+      ],
+      "pre_requisitos": [
+         "ECO0126"
+      ]
+   },
+   {
+      "codigo": "ECO0016",
+      "nome": "TÓPICOS ESPECIAIS EM POLÍTICA MACROECONÔMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0308"
+      ],
+      "pre_requisitos": [
+         "ECO0189"
+      ]
+   },
+   {
+      "codigo": "ECO0281",
+      "nome": "TÓPICOS ESPECIAIS SOBRE CRESCIMENTO ECONÔMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0448"
+      ],
+      "pre_requisitos": [
+         "ECO0099"
+      ]
+   },
+   {
+      "codigo": "ECO0014",
+      "nome": "TUTORIAL EM CIÊNCIAS ECONÔMICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ECO0346"
+      ],
+      "pre_requisitos": []
+   }
 ]

@@ -1,908 +1,961 @@
 [
-  {
-    "cod": "NUT0037",
-    "nome": "ADMINISTRA\u00c7\u00c3O DE SERVI\u00c7OS DE ALIMENTA\u00c7\u00c3O",
-    "ch": 120,
-    "post_requirements": [
-      "NUT0170"
-    ],
-    "pre_requirements": [
-      "NUT0025"
-    ]
-  },
-  {
-    "cod": "NUT0064",
-    "nome": "AMBULAT\u00d3RIO DE ESPECIALIDADES EM NUTRI\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0187"
-    ],
-    "pre_requirements": [
-      "NUT0034 & NUT0069"
-    ]
-  },
-  {
-    "cod": "NUT0091",
-    "nome": "AN\u00c1LISE SENSORIAL DE ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0133"
-    ],
-    "pre_requirements": [
-      "FAR0050",
-      "FAV0042"
-    ]
-  },
-  {
-    "cod": "NUT0034",
-    "nome": "AVALIACAO ALIMENTAR E NUTRICIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "SER0096"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0136",
-    "nome": "AVALIA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL PR\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0145"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0137",
-    "nome": "AVALIA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0222"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0080",
-    "nome": "AVALIA\u00c7\u00c3O NUTRICIONAL NA PR\u00c1TICA CL\u00cdNICA",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0201"
-    ],
-    "pre_requirements": [
-      "NUT0034"
-    ]
-  },
-  {
-    "cod": "NUT0018",
-    "nome": "BROMATOLOGIA E TECNOLOGIA DOS ALIMENTOS",
-    "ch": 90,
-    "post_requirements": [
-      "NUT0161"
-    ],
-    "pre_requirements": [
-      "CEL0019",
-      "CEL0063 & CEL0021",
-      "CEL0082 & CEL0083",
-      "FAR0050"
-    ]
-  },
-  {
-    "cod": "NUT0022",
-    "nome": "COMPOSICAO DOS ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0163"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0052",
-    "nome": "CORRENTES ALTERNATIVAS DE ALIMENTACAO",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0179"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0028",
-    "nome": "EDUCA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0011"
-    ],
-    "pre_requirements": [
-      "NUT0034",
-      "NUT0024"
-    ]
-  },
-  {
-    "cod": "NUT0009",
-    "nome": "EPIDEMIOLOGIA NUTRICIONAL",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0072"
-    ],
-    "pre_requirements": [
-      "DSC0020 & NUT0034"
-    ]
-  },
-  {
-    "cod": "NUT0066",
-    "nome": "EST\u00c1GIO COMPLEMENTAR EM NUTRI\u00c7\u00c3O",
-    "ch": 180,
-    "post_requirements": [
-      "NUT0128"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0094",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES",
-    "ch": 210,
-    "post_requirements": [
-      "NUT0214"
-    ],
-    "pre_requirements": [
-      "NUT0078 & NUT0051 & NUT0093 & NUT0079"
-    ]
-  },
-  {
-    "cod": "NUT0059",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES",
-    "ch": 180,
-    "post_requirements": [
-      "NUT0126"
-    ],
-    "pre_requirements": [
-      "NUT0043 & NUT0077 & NUT0032"
-    ]
-  },
-  {
-    "cod": "NUT0040",
-    "nome": "ESTAGIO SUPERVISIONADO EM NUTRICAO",
-    "ch": 510,
-    "post_requirements": [
-      "NUT0171"
-    ],
-    "pre_requirements": [
-      "NUT0033 & NUT0037 & NUT0032"
-    ]
-  },
-  {
-    "cod": "NUT0057",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM NUTRI\u00c7\u00c3O CL\u00cdNICA",
-    "ch": 180,
-    "post_requirements": [
-      "NUT0125"
-    ],
-    "pre_requirements": [
-      "NUT0043 & NUT0077 & NUT0032"
-    ]
-  },
-  {
-    "cod": "NUT0051",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM NUTRI\u00c7\u00c3O CL\u00cdNICA",
-    "ch": 210,
-    "post_requirements": [
-      "NUT0178"
-    ],
-    "pre_requirements": [
-      "NUT0005 & NUT0097 & NUT0081 & NUT0079"
-    ]
-  },
-  {
-    "cod": "NUT0093",
-    "nome": "ESTAGIO SUPERVISIONADO EM NUTRI\u00c7\u00c3O EM SA\u00daDE COLETIVA",
-    "ch": 210,
-    "post_requirements": [
-      "NUT0213"
-    ],
-    "pre_requirements": [
-      "NUT0005 & NUT0032 & NUT0088 & NUT0079"
-    ]
-  },
-  {
-    "cod": "NUT0060",
-    "nome": "ESTAGIO SUPERVISIONADO EM NUTRICAO SOCIAL",
-    "ch": 180,
-    "post_requirements": [
-      "NUT0127"
-    ],
-    "pre_requirements": [
-      "NUT0043 & NUT0077 & NUT0032"
-    ]
-  },
-  {
-    "cod": "NUT0079",
-    "nome": "ETICA E FORMA\u00c7\u00c3O PROFISSIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0111"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0049",
-    "nome": "FUNDAMENTOS DE ANALISE DE ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FAR0041"
-    ],
-    "pre_requirements": [
-      "FAR0050",
-      "FAV0042"
-    ]
-  },
-  {
-    "cod": "NUT0092",
-    "nome": "FUNDAMENTOS DE CI\u00caNCIAS DOS ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0116"
-    ],
-    "pre_requirements": [
-      "CEL0082 & CEL0083"
-    ]
-  },
-  {
-    "cod": "NUT0001",
-    "nome": "FUNDAMENTOS EM ALIMENTA\u00c7\u00c3O E NUTRI\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0002"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0067",
-    "nome": "GASTRONOMIA E NUTRI\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0129"
-    ],
-    "pre_requirements": [
-      "NUT0041"
-    ]
-  },
-  {
-    "cod": "NUT0073",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0194"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0075",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1",
-    "ch": 75,
-    "post_requirements": [
-      "NUT0078"
-    ],
-    "pre_requirements": [
-      "NUT0070 & NUT0041"
-    ]
-  },
-  {
-    "cod": "NUT0074",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0109"
-    ],
-    "pre_requirements": [
-      "NUT0068"
-    ]
-  },
-  {
-    "cod": "NUT0139",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1 - PR\u00c1TICA",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0224"
-    ],
-    "pre_requirements": [
-      "NUT0070 & NUT0041"
-    ]
-  },
-  {
-    "cod": "NUT0138",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1 - TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0223"
-    ],
-    "pre_requirements": [
-      "NUT0070 & NUT0041"
-    ]
-  },
-  {
-    "cod": "NUT0077",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0110"
-    ],
-    "pre_requirements": [
-      "NUT0041 & NUT0074"
-    ]
-  },
-  {
-    "cod": "NUT0076",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0197"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0078",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2",
-    "ch": 75,
-    "post_requirements": [
-      "NUT0199"
-    ],
-    "pre_requirements": [
-      "NUT0075",
-      "NUT0138 & NUT0139"
-    ]
-  },
-  {
-    "cod": "NUT0141",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2 - PR\u00c1TICA",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0226"
-    ],
-    "pre_requirements": [
-      "NUT0075",
-      "NUT0138 & NUT0139"
-    ]
-  },
-  {
-    "cod": "NUT0140",
-    "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2 - TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0225"
-    ],
-    "pre_requirements": [
-      "NUT0075",
-      "NUT0138 & NUT0139"
-    ]
-  },
-  {
-    "cod": "NUT0063",
-    "nome": "HIGIENE E VIGIL\u00c2NCIA SANIT\u00c1RIA DOS ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0186"
-    ],
-    "pre_requirements": [
-      "NUT0021"
-    ]
-  },
-  {
-    "cod": "NUT0002",
-    "nome": "INTEGRADORA 1",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0118"
-    ],
-    "pre_requirements": [
-      "NUT0001"
-    ]
-  },
-  {
-    "cod": "NUT0003",
-    "nome": "INTEGRADORA 2",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0119"
-    ],
-    "pre_requirements": [
-      "NUT0002 & NUT0055 & NUT0034 & CFS0039"
-    ]
-  },
-  {
-    "cod": "NUT0004",
-    "nome": "INTEGRADORA 3",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0149"
-    ],
-    "pre_requirements": [
-      "NUT0003 & NUT0092 & NUT0021 & NUT0089"
-    ]
-  },
-  {
-    "cod": "NUT0005",
-    "nome": "INTEGRADORA 4",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0150"
-    ],
-    "pre_requirements": [
-      "NUT0004 & NUT0097"
-    ]
-  },
-  {
-    "cod": "NUT0053",
-    "nome": "INTRODUCAO A NUTRICAO",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0180"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0008",
-    "nome": "MARCADORES CL\u00cdNICOS E BIOQU\u00cdMICOS DO ESTADO NUTRICIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0082"
-    ],
-    "pre_requirements": [
-      "NUT0002 & NUT0034"
-    ]
-  },
-  {
-    "cod": "NUT0021",
-    "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0063"
-    ],
-    "pre_requirements": [
-      "CEL0050"
-    ]
-  },
-  {
-    "cod": "NUT0143",
-    "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS PR\u00c1TICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0228"
-    ],
-    "pre_requirements": [
-      "CEL0050"
-    ]
-  },
-  {
-    "cod": "NUT0142",
-    "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS TE\u00d3RICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0227"
-    ],
-    "pre_requirements": [
-      "CEL0050"
-    ]
-  },
-  {
-    "cod": "NUT0016",
-    "nome": "NUTRI\u00c7\u00c3O APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0159"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0012",
-    "nome": "NUTRICAO CLINICA",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0157"
-    ],
-    "pre_requirements": [
-      "FMD0237"
-    ]
-  },
-  {
-    "cod": "NUT0097",
-    "nome": "NUTRI\u00c7\u00c3O CL\u00cdNICA E DIETOTERAPIA",
-    "ch": 90,
-    "post_requirements": [
-      "NUT0144"
-    ],
-    "pre_requirements": [
-      "NUT0010"
-    ]
-  },
-  {
-    "cod": "NUT0090",
-    "nome": "NUTRI\u00c7\u00c3O CL\u00cdNICA E DIETOTERAPIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0043"
-    ],
-    "pre_requirements": [
-      "FMD0095 & NUT0068"
-    ]
-  },
-  {
-    "cod": "NUT0043",
-    "nome": "NUTRI\u00c7\u00c3O CL\u00cdNICA E DIETOTERAPIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0082"
-    ],
-    "pre_requirements": [
-      "NUT0033",
-      "NUT0090"
-    ]
-  },
-  {
-    "cod": "NUT0081",
-    "nome": "NUTRI\u00c7\u00c3O CL\u00cdNICA EM PEDIATRIA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0202"
-    ],
-    "pre_requirements": [
-      "NUT0010"
-    ]
-  },
-  {
-    "cod": "NUT0095",
-    "nome": "NUTRI\u00c7\u00c3O E ALIMENTA\u00c7\u00c3O NO ESPORTE",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0134"
-    ],
-    "pre_requirements": [
-      "NUT0070"
-    ]
-  },
-  {
-    "cod": "NUT0085",
-    "nome": "NUTRI\u00c7\u00c3O E CICLOS DA VIDA 1",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0086"
-    ],
-    "pre_requirements": [
-      "NUT0055 & NUT0034"
-    ]
-  },
-  {
-    "cod": "NUT0086",
-    "nome": "NUTRI\u00c7\u00c3O E CICLOS DA VIDA 2",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0112"
-    ],
-    "pre_requirements": [
-      "NUT0085"
-    ]
-  },
-  {
-    "cod": "NUT0068",
-    "nome": "NUTRI\u00c7\u00c3O E DIET\u00c9TICA 1",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0069"
-    ],
-    "pre_requirements": [
-      "NUT0055 & NUT0034"
-    ]
-  },
-  {
-    "cod": "NUT0070",
-    "nome": "NUTRI\u00c7\u00c3O E DIET\u00c9TICA 2",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0095"
-    ],
-    "pre_requirements": [
-      "NUT0068 & NUT0089"
-    ]
-  },
-  {
-    "cod": "NUT0032",
-    "nome": "NUTRI\u00c7\u00c3O EM SA\u00daDE COLETIVA",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0103"
-    ],
-    "pre_requirements": [
-      "DSC0037 & NUT0086",
-      "DSC0020 & NUT0086"
-    ]
-  },
-  {
-    "cod": "NUT0047",
-    "nome": "NUTRI\u00c7\u00c3O EXPERIMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0175"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0054",
-    "nome": "NUTRICAO HUMANA 1",
-    "ch": 45,
-    "post_requirements": [
-      "DSC0020"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0055",
-    "nome": "NUTRICAO HUMANA 2",
-    "ch": 45,
-    "post_requirements": [
-      "NUT0098"
-    ],
-    "pre_requirements": [
-      "NUT0054 & CEL0082"
-    ]
-  },
-  {
-    "cod": "NUT0024",
-    "nome": "NUTRICAO MATERNO-INFANTIL",
-    "ch": 90,
-    "post_requirements": [
-      "NUT0028"
-    ],
-    "pre_requirements": [
-      "NUT0017",
-      "NUT0054"
-    ]
-  },
-  {
-    "cod": "NUT0007",
-    "nome": "NUTRI\u00c7\u00c3O NAS FASES DA VIDA",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0120"
-    ],
-    "pre_requirements": [
-      "NUT0034 & NUT0068"
-    ]
-  },
-  {
-    "cod": "NUT0017",
-    "nome": "NUTRICAO NORMAL",
-    "ch": 90,
-    "post_requirements": [
-      "DSC0020"
-    ],
-    "pre_requirements": [
-      "CEL0019 & FMD0165 & FMD0167",
-      "CEL0021 & FMD0165 & FMD0167",
-      "CEL0067 & FMD0165 & FMD0167",
-      "CEL0067 & FMD0510 & CFS0037",
-      "CEL0082 & CEL0083 & FMD0510 & CFS0037"
-    ]
-  },
-  {
-    "cod": "NUT0011",
-    "nome": "OFICINA DE EDUCA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0156"
-    ],
-    "pre_requirements": [
-      "NUT0028"
-    ]
-  },
-  {
-    "cod": "NUT0033",
-    "nome": "PATOLOGIA NUTRICIONAL E DIETOTERAPIA 1",
-    "ch": 120,
-    "post_requirements": [
-      "NUT0043"
-    ],
-    "pre_requirements": [
-      "NUT0025 & FMD0095",
-      "FMD0151 & FMD0152 & NUT0025"
-    ]
-  },
-  {
-    "cod": "NUT0006",
-    "nome": "PESQUISA QUALITATIVA EM ALIMENTA\u00c7\u00c3O E NUTRI\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0151"
-    ],
-    "pre_requirements": [
-      "NUT0001"
-    ]
-  },
-  {
-    "cod": "NUT0044",
-    "nome": "PLANEJAMENTO NUTRICIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0174"
-    ],
-    "pre_requirements": [
-      "NUT0034"
-    ]
-  },
-  {
-    "cod": "NUT0088",
-    "nome": "PR\u00c1TICAS EM NUTRI\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0113"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "NUT0014",
-    "nome": "SEMINARIO AVANCADO 1",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0101"
-    ],
-    "pre_requirements": [
-      "NUT0054",
-      "FAR0124",
-      "CEL0054"
-    ]
-  },
-  {
-    "cod": "NUT0065",
-    "nome": "SEMIN\u00c1RIO AVAN\u00c7ADO EM GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0188"
-    ],
-    "pre_requirements": [
-      "NUT0068 & NUT0075"
-    ]
-  },
-  {
-    "cod": "NUT0098",
-    "nome": "SEMIN\u00c1RIO AVAN\u00c7ADO EM NUTRI\u00c7\u00c3O B\u00c1SICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0218"
-    ],
-    "pre_requirements": [
-      "NUT0055"
-    ]
-  },
-  {
-    "cod": "NUT0072",
-    "nome": "SEMIN\u00c1RIO AVAN\u00c7ADO EM NUTRI\u00c7\u00c3O EM SA\u00daDE COLETIVA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0193"
-    ],
-    "pre_requirements": [
-      "NUT0009"
-    ]
-  },
-  {
-    "cod": "NUT0082",
-    "nome": "SEMIN\u00c1RIOS AVAN\u00c7ADOS EM NUTRI\u00c7\u00c3O CL\u00cdNICA",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0203"
-    ],
-    "pre_requirements": [
-      "NUT0008",
-      "NUT0043"
-    ]
-  },
-  {
-    "cod": "NUT0025",
-    "nome": "TECNICA DIETETICA 1",
-    "ch": 120,
-    "post_requirements": [
-      "NUT0037"
-    ],
-    "pre_requirements": [
-      "NUT0017 & NUT0018",
-      "NUT0017 & NUT0092",
-      "NUT0054 & NUT0092"
-    ]
-  },
-  {
-    "cod": "NUT0089",
-    "nome": "T\u00c9CNICA DIET\u00c9TICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0041",
-      "NUT0114"
-    ],
-    "pre_requirements": [
-      "NUT0054  &  NUT0050",
-      "NUT0092"
-    ]
-  },
-  {
-    "cod": "NUT0041",
-    "nome": "TECNICA DIETETICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0067"
-    ],
-    "pre_requirements": [
-      "NUT0089"
-    ]
-  },
-  {
-    "cod": "NUT0010",
-    "nome": "TERAPIA NUTRICIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0081"
-    ],
-    "pre_requirements": [
-      "NUT0008  &  NUT0069",
-      "NUT0070"
-    ]
-  },
-  {
-    "cod": "NUT0096",
-    "nome": "T\u00d3PICOS EM ALIMENTOS",
-    "ch": 30,
-    "post_requirements": [
-      "NUT0216"
-    ],
-    "pre_requirements": [
-      "CEL0050 & NUT0021"
-    ]
-  },
-  {
-    "cod": "NUT0048",
-    "nome": "TOXICOLOGIA DOS ALIMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "NUT0176"
-    ],
-    "pre_requirements": [
-      "NUT0054 & NUT0021"
-    ]
-  },
-  {
-    "cod": "NUT0083",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
-    "ch": 15,
-    "post_requirements": [
-      "NUT0084"
-    ],
-    "pre_requirements": [
-      "DSC0044 & DSC0020",
-      "NUT0009"
-    ]
-  },
-  {
-    "cod": "NUT0084",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
-    "ch": 15,
-    "post_requirements": [
-      "NUT0132"
-    ],
-    "pre_requirements": [
-      "NUT0083",
-      "NUT0108"
-    ]
-  }
+   {
+      "codigo": "NUT0037",
+      "nome": "ADMINISTRAÇÃO DE SERVIÇOS DE ALIMENTAÇÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "NUT0170"
+      ],
+      "pre_requisitos": [
+         "NUT0025"
+      ]
+   },
+   {
+      "codigo": "NUT0064",
+      "nome": "AMBULATÓRIO DE ESPECIALIDADES EM NUTRIÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0187"
+      ],
+      "pre_requisitos": [
+         "NUT0034 & NUT0069"
+      ]
+   },
+   {
+      "codigo": "NUT0091",
+      "nome": "ANÁLISE SENSORIAL DE ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0133"
+      ],
+      "pre_requisitos": [
+         "FAR0050",
+         "FAV0042"
+      ]
+   },
+   {
+      "codigo": "NUT0034",
+      "nome": "AVALIACAO ALIMENTAR E NUTRICIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "SER0096",
+         "NUT0028",
+         "NUT0044",
+         "NUT0080",
+         "NUT0104"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0136",
+      "nome": "AVALIAÇÃO ALIMENTAR E NUTRICIONAL PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0145",
+         "NUT0221"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0137",
+      "nome": "AVALIAÇÃO ALIMENTAR E NUTRICIONAL TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0222"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0080",
+      "nome": "AVALIAÇÃO NUTRICIONAL NA PRÁTICA CLÍNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0201"
+      ],
+      "pre_requisitos": [
+         "NUT0034"
+      ]
+   },
+   {
+      "codigo": "NUT0018",
+      "nome": "BROMATOLOGIA E TECNOLOGIA DOS ALIMENTOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "NUT0161"
+      ],
+      "pre_requisitos": [
+         "CEL0019",
+         "CEL0063 & CEL0021",
+         "CEL0082 & CEL0083",
+         "FAR0050"
+      ]
+   },
+   {
+      "codigo": "NUT0022",
+      "nome": "COMPOSICAO DOS ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0163"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0052",
+      "nome": "CORRENTES ALTERNATIVAS DE ALIMENTACAO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0179"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0028",
+      "nome": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0011",
+         "NUT0122"
+      ],
+      "pre_requisitos": [
+         "NUT0034",
+         "NUT0024"
+      ]
+   },
+   {
+      "codigo": "NUT0009",
+      "nome": "EPIDEMIOLOGIA NUTRICIONAL",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0072",
+         "NUT0083",
+         "NUT0121",
+         "NUT0108"
+      ],
+      "pre_requisitos": [
+         "DSC0020 & NUT0034"
+      ]
+   },
+   {
+      "codigo": "NUT0066",
+      "nome": "ESTÁGIO COMPLEMENTAR EM NUTRIÇÃO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "NUT0128"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0094",
+      "nome": "ESTÁGIO SUPERVISIONADO EM GESTÃO DE PRODUÇÃO DE REFEIÇÕES",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "NUT0214"
+      ],
+      "pre_requisitos": [
+         "NUT0078 & NUT0051 & NUT0093 & NUT0079"
+      ]
+   },
+   {
+      "codigo": "NUT0059",
+      "nome": "ESTÁGIO SUPERVISIONADO EM GESTÃO DE PRODUÇÃO DE REFEIÇÕES",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "NUT0126"
+      ],
+      "pre_requisitos": [
+         "NUT0043 & NUT0077 & NUT0032"
+      ]
+   },
+   {
+      "codigo": "NUT0040",
+      "nome": "ESTAGIO SUPERVISIONADO EM NUTRICAO",
+      "carga_horaria": 510,
+      "eh_requisito_de": [
+         "NUT0171"
+      ],
+      "pre_requisitos": [
+         "NUT0033 & NUT0037 & NUT0032"
+      ]
+   },
+   {
+      "codigo": "NUT0057",
+      "nome": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "NUT0125"
+      ],
+      "pre_requisitos": [
+         "NUT0043 & NUT0077 & NUT0032"
+      ]
+   },
+   {
+      "codigo": "NUT0051",
+      "nome": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "NUT0178"
+      ],
+      "pre_requisitos": [
+         "NUT0005 & NUT0097 & NUT0081 & NUT0079"
+      ]
+   },
+   {
+      "codigo": "NUT0093",
+      "nome": "ESTAGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE COLETIVA",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "NUT0213"
+      ],
+      "pre_requisitos": [
+         "NUT0005 & NUT0032 & NUT0088 & NUT0079"
+      ]
+   },
+   {
+      "codigo": "NUT0060",
+      "nome": "ESTAGIO SUPERVISIONADO EM NUTRICAO SOCIAL",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "NUT0127"
+      ],
+      "pre_requisitos": [
+         "NUT0043 & NUT0077 & NUT0032"
+      ]
+   },
+   {
+      "codigo": "NUT0079",
+      "nome": "ETICA E FORMAÇÃO PROFISSIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0111",
+         "",
+         "",
+         "Expressões específicas de currículo cadastradas para este componente"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0049",
+      "nome": "FUNDAMENTOS DE ANALISE DE ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0041",
+         "NUT0177"
+      ],
+      "pre_requisitos": [
+         "FAR0050",
+         "FAV0042"
+      ]
+   },
+   {
+      "codigo": "NUT0092",
+      "nome": "FUNDAMENTOS DE CIÊNCIAS DOS ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0116"
+      ],
+      "pre_requisitos": [
+         "CEL0082 & CEL0083"
+      ]
+   },
+   {
+      "codigo": "NUT0001",
+      "nome": "FUNDAMENTOS EM ALIMENTAÇÃO E NUTRIÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0002",
+         "NUT0006",
+         "NUT0099"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0067",
+      "nome": "GASTRONOMIA E NUTRIÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0129"
+      ],
+      "pre_requisitos": [
+         "NUT0041"
+      ]
+   },
+   {
+      "codigo": "NUT0073",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0194"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0075",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "NUT0078",
+         "NUT0140",
+         "NUT0141",
+         "NUT0196"
+      ],
+      "pre_requisitos": [
+         "NUT0070 & NUT0041"
+      ]
+   },
+   {
+      "codigo": "NUT0074",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0109"
+      ],
+      "pre_requisitos": [
+         "NUT0068"
+      ]
+   },
+   {
+      "codigo": "NUT0139",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 1 - PRÁTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0224"
+      ],
+      "pre_requisitos": [
+         "NUT0070 & NUT0041"
+      ]
+   },
+   {
+      "codigo": "NUT0138",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 1 - TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0223"
+      ],
+      "pre_requisitos": [
+         "NUT0070 & NUT0041"
+      ]
+   },
+   {
+      "codigo": "NUT0077",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0110"
+      ],
+      "pre_requisitos": [
+         "NUT0041 & NUT0074"
+      ]
+   },
+   {
+      "codigo": "NUT0076",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0197"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0078",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "NUT0199"
+      ],
+      "pre_requisitos": [
+         "NUT0075",
+         "NUT0138 & NUT0139"
+      ]
+   },
+   {
+      "codigo": "NUT0141",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 2 - PRÁTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0226"
+      ],
+      "pre_requisitos": [
+         "NUT0075",
+         "NUT0138 & NUT0139"
+      ]
+   },
+   {
+      "codigo": "NUT0140",
+      "nome": "GESTÃO DE PRODUÇÃO DE REFEIÇÕES 2 - TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0225"
+      ],
+      "pre_requisitos": [
+         "NUT0075",
+         "NUT0138 & NUT0139"
+      ]
+   },
+   {
+      "codigo": "NUT0063",
+      "nome": "HIGIENE E VIGILÂNCIA SANITÁRIA DOS ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0186"
+      ],
+      "pre_requisitos": [
+         "NUT0021"
+      ]
+   },
+   {
+      "codigo": "NUT0002",
+      "nome": "INTEGRADORA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0118"
+      ],
+      "pre_requisitos": [
+         "NUT0001"
+      ]
+   },
+   {
+      "codigo": "NUT0003",
+      "nome": "INTEGRADORA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0119"
+      ],
+      "pre_requisitos": [
+         "NUT0002 & NUT0055 & NUT0034 & CFS0039"
+      ]
+   },
+   {
+      "codigo": "NUT0004",
+      "nome": "INTEGRADORA 3",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0149"
+      ],
+      "pre_requisitos": [
+         "NUT0003 & NUT0092 & NUT0021 & NUT0089"
+      ]
+   },
+   {
+      "codigo": "NUT0005",
+      "nome": "INTEGRADORA 4",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0150"
+      ],
+      "pre_requisitos": [
+         "NUT0004 & NUT0097"
+      ]
+   },
+   {
+      "codigo": "NUT0053",
+      "nome": "INTRODUCAO A NUTRICAO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0180"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0008",
+      "nome": "MARCADORES CLÍNICOS E BIOQUÍMICOS DO ESTADO NUTRICIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0082",
+         "NUT0100"
+      ],
+      "pre_requisitos": [
+         "NUT0002 & NUT0034"
+      ]
+   },
+   {
+      "codigo": "NUT0021",
+      "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0063",
+         "NUT0102"
+      ],
+      "pre_requisitos": [
+         "CEL0050"
+      ]
+   },
+   {
+      "codigo": "NUT0143",
+      "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0228"
+      ],
+      "pre_requisitos": [
+         "CEL0050"
+      ]
+   },
+   {
+      "codigo": "NUT0142",
+      "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0227"
+      ],
+      "pre_requisitos": [
+         "CEL0050"
+      ]
+   },
+   {
+      "codigo": "NUT0016",
+      "nome": "NUTRIÇÃO APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0012",
+      "nome": "NUTRICAO CLINICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0157"
+      ],
+      "pre_requisitos": [
+         "FMD0237"
+      ]
+   },
+   {
+      "codigo": "NUT0097",
+      "nome": "NUTRIÇÃO CLÍNICA E DIETOTERAPIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "NUT0144"
+      ],
+      "pre_requisitos": [
+         "NUT0010"
+      ]
+   },
+   {
+      "codigo": "NUT0090",
+      "nome": "NUTRIÇÃO CLÍNICA E DIETOTERAPIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0043",
+         "NUT0115"
+      ],
+      "pre_requisitos": [
+         "FMD0095 & NUT0068"
+      ]
+   },
+   {
+      "codigo": "NUT0043",
+      "nome": "NUTRIÇÃO CLÍNICA E DIETOTERAPIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0082",
+         "NUT0106"
+      ],
+      "pre_requisitos": [
+         "NUT0033",
+         "NUT0090"
+      ]
+   },
+   {
+      "codigo": "NUT0081",
+      "nome": "NUTRIÇÃO CLÍNICA EM PEDIATRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0202"
+      ],
+      "pre_requisitos": [
+         "NUT0010"
+      ]
+   },
+   {
+      "codigo": "NUT0095",
+      "nome": "NUTRIÇÃO E ALIMENTAÇÃO NO ESPORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0134"
+      ],
+      "pre_requisitos": [
+         "NUT0070"
+      ]
+   },
+   {
+      "codigo": "NUT0085",
+      "nome": "NUTRIÇÃO E CICLOS DA VIDA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0086",
+         "NUT0206"
+      ],
+      "pre_requisitos": [
+         "NUT0055 & NUT0034"
+      ]
+   },
+   {
+      "codigo": "NUT0086",
+      "nome": "NUTRIÇÃO E CICLOS DA VIDA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0112"
+      ],
+      "pre_requisitos": [
+         "NUT0085"
+      ]
+   },
+   {
+      "codigo": "NUT0068",
+      "nome": "NUTRIÇÃO E DIETÉTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0069",
+         "NUT0074",
+         "NUT0107"
+      ],
+      "pre_requisitos": [
+         "NUT0055 & NUT0034"
+      ]
+   },
+   {
+      "codigo": "NUT0070",
+      "nome": "NUTRIÇÃO E DIETÉTICA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0095",
+         "NUT0130"
+      ],
+      "pre_requisitos": [
+         "NUT0068 & NUT0089"
+      ]
+   },
+   {
+      "codigo": "NUT0032",
+      "nome": "NUTRIÇÃO EM SAÚDE COLETIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0103"
+      ],
+      "pre_requisitos": [
+         "DSC0037 & NUT0086",
+         "DSC0020 & NUT0086"
+      ]
+   },
+   {
+      "codigo": "NUT0047",
+      "nome": "NUTRIÇÃO EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0175"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0054",
+      "nome": "NUTRICAO HUMANA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "DSC0020",
+         "NUT0014",
+         "NUT0022",
+         "NUT0024",
+         "NUT0034",
+         "NUT0047",
+         "NUT0052",
+         "NUT0123",
+         "NUT0136",
+         "NUT0137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0055",
+      "nome": "NUTRICAO HUMANA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "NUT0098",
+         "NUT0124"
+      ],
+      "pre_requisitos": [
+         "NUT0054 & CEL0082"
+      ]
+   },
+   {
+      "codigo": "NUT0024",
+      "nome": "NUTRICAO MATERNO-INFANTIL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "NUT0028",
+         "NUT0164"
+      ],
+      "pre_requisitos": [
+         "NUT0017",
+         "NUT0054"
+      ]
+   },
+   {
+      "codigo": "NUT0007",
+      "nome": "NUTRIÇÃO NAS FASES DA VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0120"
+      ],
+      "pre_requisitos": [
+         "NUT0034 & NUT0068"
+      ]
+   },
+   {
+      "codigo": "NUT0017",
+      "nome": "NUTRICAO NORMAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "DSC0020",
+         "NUT0022",
+         "NUT0024",
+         "NUT0034",
+         "NUT0047",
+         "NUT0052",
+         "ENF0034",
+         "NUT0136",
+         "NUT0137",
+         "NUT0160"
+      ],
+      "pre_requisitos": [
+         "CEL0019 & FMD0165 & FMD0167",
+         "CEL0021 & FMD0165 & FMD0167",
+         "CEL0067 & FMD0165 & FMD0167",
+         "CEL0067 & FMD0510 & CFS0037",
+         "CEL0082 & CEL0083 & FMD0510 & CFS0037"
+      ]
+   },
+   {
+      "codigo": "NUT0011",
+      "nome": "OFICINA DE EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0156"
+      ],
+      "pre_requisitos": [
+         "NUT0028"
+      ]
+   },
+   {
+      "codigo": "NUT0033",
+      "nome": "PATOLOGIA NUTRICIONAL E DIETOTERAPIA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "NUT0043",
+         "NUT0168"
+      ],
+      "pre_requisitos": [
+         "NUT0025 & FMD0095",
+         "FMD0151 & FMD0152 & NUT0025"
+      ]
+   },
+   {
+      "codigo": "NUT0006",
+      "nome": "PESQUISA QUALITATIVA EM ALIMENTAÇÃO E NUTRIÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0151"
+      ],
+      "pre_requisitos": [
+         "NUT0001"
+      ]
+   },
+   {
+      "codigo": "NUT0044",
+      "nome": "PLANEJAMENTO NUTRICIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0174"
+      ],
+      "pre_requisitos": [
+         "NUT0034"
+      ]
+   },
+   {
+      "codigo": "NUT0088",
+      "nome": "PRÁTICAS EM NUTRIÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0113"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "NUT0014",
+      "nome": "SEMINARIO AVANCADO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0101"
+      ],
+      "pre_requisitos": [
+         "NUT0054",
+         "FAR0124",
+         "CEL0054"
+      ]
+   },
+   {
+      "codigo": "NUT0065",
+      "nome": "SEMINÁRIO AVANÇADO EM GESTÃO DE PRODUÇÃO DE REFEIÇÕES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0188"
+      ],
+      "pre_requisitos": [
+         "NUT0068 & NUT0075"
+      ]
+   },
+   {
+      "codigo": "NUT0098",
+      "nome": "SEMINÁRIO AVANÇADO EM NUTRIÇÃO BÁSICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0218"
+      ],
+      "pre_requisitos": [
+         "NUT0055"
+      ]
+   },
+   {
+      "codigo": "NUT0072",
+      "nome": "SEMINÁRIO AVANÇADO EM NUTRIÇÃO EM SAÚDE COLETIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0193"
+      ],
+      "pre_requisitos": [
+         "NUT0009"
+      ]
+   },
+   {
+      "codigo": "NUT0082",
+      "nome": "SEMINÁRIOS AVANÇADOS EM NUTRIÇÃO CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0203"
+      ],
+      "pre_requisitos": [
+         "NUT0008",
+         "NUT0043"
+      ]
+   },
+   {
+      "codigo": "NUT0025",
+      "nome": "TECNICA DIETETICA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "NUT0037",
+         "NUT0165"
+      ],
+      "pre_requisitos": [
+         "NUT0017 & NUT0018",
+         "NUT0017 & NUT0092",
+         "NUT0054 & NUT0092"
+      ]
+   },
+   {
+      "codigo": "NUT0089",
+      "nome": "TÉCNICA DIETÉTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0041",
+         "NUT0114"
+      ],
+      "pre_requisitos": [
+         "NUT0054  &  NUT0050",
+         "NUT0092"
+      ]
+   },
+   {
+      "codigo": "NUT0041",
+      "nome": "TECNICA DIETETICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0067",
+         "NUT0105"
+      ],
+      "pre_requisitos": [
+         "NUT0089"
+      ]
+   },
+   {
+      "codigo": "NUT0010",
+      "nome": "TERAPIA NUTRICIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0081",
+         "NUT0097",
+         "NUT0117"
+      ],
+      "pre_requisitos": [
+         "NUT0008  &  NUT0069",
+         "NUT0070"
+      ]
+   },
+   {
+      "codigo": "NUT0096",
+      "nome": "TÓPICOS EM ALIMENTOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "NUT0216"
+      ],
+      "pre_requisitos": [
+         "CEL0050 & NUT0021"
+      ]
+   },
+   {
+      "codigo": "NUT0048",
+      "nome": "TOXICOLOGIA DOS ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "NUT0176"
+      ],
+      "pre_requisitos": [
+         "NUT0054 & NUT0021"
+      ]
+   },
+   {
+      "codigo": "NUT0083",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "NUT0084",
+         "NUT0131",
+         "NUT0135"
+      ],
+      "pre_requisitos": [
+         "DSC0044 & DSC0020",
+         "NUT0009"
+      ]
+   },
+   {
+      "codigo": "NUT0084",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "NUT0132"
+      ],
+      "pre_requisitos": [
+         "NUT0083",
+         "NUT0108"
+      ]
+   }
 ]

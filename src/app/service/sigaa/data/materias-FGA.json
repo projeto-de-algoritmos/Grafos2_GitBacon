@@ -1,2800 +1,2963 @@
 [
-  {
-    "cod": "FGA0266",
-    "nome": "AC\u00daSTICA E VIBRA\u00c7\u00d5ES VEICULARES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0527"
-    ],
-    "pre_requirements": [
-      "FGA0179"
-    ]
-  },
-  {
-    "cod": "FGA0038",
-    "nome": "AERODIN\u00c2MICA DE SISTEMAS AEROESPACIAIS",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0043"
-    ],
-    "pre_requirements": [
-      "FGA0204"
-    ]
-  },
-  {
-    "cod": "FGA0035",
-    "nome": "AN\u00c1LISE DE SISTEMAS DE ENERGIA EL\u00c9TRICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0561"
-    ],
-    "pre_requirements": [
-      "FGA0262"
-    ]
-  },
-  {
-    "cod": "FGA0268",
-    "nome": "AN\u00c1LISE DIN\u00c2MICA M\u00c9TODOS DOS ELEMENTOS FINITOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0764"
-    ],
-    "pre_requirements": [
-      "FGA0229"
-    ]
-  },
-  {
-    "cod": "FGA0229",
-    "nome": "AN\u00c1LISE ESTRUTURAL M\u00c9TODO DOS ELEMENTOS FINITOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0268"
-    ],
-    "pre_requirements": [
-      "FGA0179"
-    ]
-  },
-  {
-    "cod": "FGA0177",
-    "nome": "AN\u00c1LISE INSTRUMENTAL DE COMBUST\u00cdVEIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0502"
-    ],
-    "pre_requirements": [
-      "FGA0156"
-    ]
-  },
-  {
-    "cod": "FGA0013",
-    "nome": "ANATOMIA E FISIOLOGIA HUMANA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0543"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0094",
-    "nome": "ANTENAS IMPRESSAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0481"
-    ],
-    "pre_requirements": [
-      "FGA0143 & FGA0217",
-      "FGA0068 & FGA0070"
-    ]
-  },
-  {
-    "cod": "FGA0083",
-    "nome": "APRENDIZADO DE M\u00c1QUINA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0472"
-    ],
-    "pre_requirements": [
-      "MAT0031 & FGA0147 & FGA0157"
-    ]
-  },
-  {
-    "cod": "FGA0194",
-    "nome": "ARQUITETURA DE MOTORES DE COMBUST\u00c3O INTERNA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0507"
-    ],
-    "pre_requirements": [
-      "ENM0080"
-    ]
-  },
-  {
-    "cod": "FGA0208",
-    "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0425"
-    ],
-    "pre_requirements": [
-      "FGA0172"
-    ]
-  },
-  {
-    "cod": "FGA0236",
-    "nome": "BIORREFINARIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0518"
-    ],
-    "pre_requirements": [
-      "ENM0068 & FGA0204 & FGA0156"
-    ]
-  },
-  {
-    "cod": "FGA0123",
-    "nome": "C\u00c1LCULO PARA ENGENHARIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0126"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0126",
-    "nome": "C\u00c1LCULO PARA ENGENHARIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0648"
-    ],
-    "pre_requirements": [
-      "FGA0123",
-      "MAT0025"
-    ]
-  },
-  {
-    "cod": "FGA0128",
-    "nome": "C\u00c1LCULO PARA ENGENHARIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0650"
-    ],
-    "pre_requirements": [
-      "FGA0126 & FGA0125",
-      "FGA0126 & MAT0010",
-      "MAT0026 & FGA0125",
-      "MAT0026 & MAT0010"
-    ]
-  },
-  {
-    "cod": "FGA0251",
-    "nome": "CENTRAIS DE GERA\u00c7\u00c3O TERMOEL\u00c9TRICA",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0747"
-    ],
-    "pre_requirements": [
-      "FGA0091"
-    ]
-  },
-  {
-    "cod": "FGA0254",
-    "nome": "CI\u00caNCIAS AEROESPACIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0431"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0196",
-    "nome": "CIRCUITOS ELETR\u00d4NICOS 1",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0068"
-    ],
-    "pre_requirements": [
-      "MAT0048",
-      "MAT0026"
-    ]
-  },
-  {
-    "cod": "FGA0217",
-    "nome": "CIRCUITOS ELETR\u00d4NICOS 2",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0017"
-    ],
-    "pre_requirements": [
-      "FGA0196"
-    ]
-  },
-  {
-    "cod": "FGA0255",
-    "nome": "CIRCUITOS ELETR\u00d4NICOS 3",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0751"
-    ],
-    "pre_requirements": [
-      "FGA0217",
-      "FGA0070 & FGA0068"
-    ]
-  },
-  {
-    "cod": "FGA0095",
-    "nome": "CODIFICA\u00c7\u00c3O E COMPRESS\u00c3O DE SINAIS, IMAGENS E V\u00cdDEO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0617"
-    ],
-    "pre_requirements": [
-      "FGA0219 & FGA0157",
-      "FGA0015 & FGA0157"
-    ]
-  },
-  {
-    "cod": "FGA0156",
-    "nome": "COMBUST\u00cdVEIS E BIOCOMBUST\u00cdVEIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0177"
-    ],
-    "pre_requirements": [
-      "FGA0104"
-    ]
-  },
-  {
-    "cod": "FGA0003",
-    "nome": "COMPILADORES 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0110"
-    ],
-    "pre_requirements": [
-      "FGA0147"
-    ]
-  },
-  {
-    "cod": "FGA0110",
-    "nome": "COMPILADORES 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0632"
-    ],
-    "pre_requirements": [
-      "FGA0003"
-    ]
-  },
-  {
-    "cod": "FGA0276",
-    "nome": "COMPUTA\u00c7\u00c3O EM NUVEM",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0771"
-    ],
-    "pre_requirements": [
-      "FGA0137"
-    ]
-  },
-  {
-    "cod": "FGA0224",
-    "nome": "COMUNICA\u00c7\u00d5ES DIGITAIS PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0443"
-    ],
-    "pre_requirements": [
-      "FGA0199",
-      "FGA0092"
-    ]
-  },
-  {
-    "cod": "FGA0007",
-    "nome": "CONFIABILIDADE DE COMPONENTES E SISTEMAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0537"
-    ],
-    "pre_requirements": [
-      "FGA0157 & FGA0179"
-    ]
-  },
-  {
-    "cod": "FGA0001",
-    "nome": "CONTRATA\u00c7\u00c3O DE SERVI\u00c7OS DE TECNOLOGIA DA INFORMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0437"
-    ],
-    "pre_requirements": [
-      "FGA0206",
-      "CIC0140",
-      "ADM0092",
-      "EPR0072"
-    ]
-  },
-  {
-    "cod": "FGA0080",
-    "nome": "CONTROLE DE SISTEMAS AEROESPACIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0603"
-    ],
-    "pre_requirements": [
-      "FGA0044"
-    ]
-  },
-  {
-    "cod": "FGA0058",
-    "nome": "CRIPTOGRAFIA E SEGURAN\u00c7A DE REDES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0583"
-    ],
-    "pre_requirements": [
-      "FGA0085",
-      "FGA0159"
-    ]
-  },
-  {
-    "cod": "FGA0168",
-    "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0155"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0249",
-    "nome": "DESENVOLVIMENTO AVAN\u00c7ADO DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0745"
-    ],
-    "pre_requirements": [
-      "FGA0154 & FGA0157",
-      "FGA0160",
-      "FGA0159 & FGA0158 & ENE0277"
-    ]
-  },
-  {
-    "cod": "FGA0084",
-    "nome": "DESENVOLVIMENTO DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0394"
-    ],
-    "pre_requirements": [
-      "CIC0004",
-      "CIC0007"
-    ]
-  },
-  {
-    "cod": "FGA0174",
-    "nome": "DESENVOLVIMENTO SUSTENT\u00c1VEL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0687"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0050",
-    "nome": "DIN\u00c2MICA DE ESTRUTURAS AEROESPACIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0388"
-    ],
-    "pre_requirements": [
-      "FGA0039 & FGA0102"
-    ]
-  },
-  {
-    "cod": "FGA0230",
-    "nome": "DIN\u00c2MICA DE VE\u00cdCULOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0040"
-    ],
-    "pre_requirements": [
-      "FGA0179"
-    ]
-  },
-  {
-    "cod": "FGA0204",
-    "nome": "DIN\u00c2MICA DOS FLU\u00cdDOS",
-    "ch": 75,
-    "post_requirements": [
-      "ENM0003"
-    ],
-    "pre_requirements": [
-      "ENM0080"
-    ]
-  },
-  {
-    "cod": "FGA0043",
-    "nome": "DIN\u00c2MICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0281"
-    ],
-    "pre_requirements": [
-      "FGA0038"
-    ]
-  },
-  {
-    "cod": "FGA0023",
-    "nome": "DIN\u00c2MICA DOS MECANISMOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0272"
-    ],
-    "pre_requirements": [
-      "FGA0154"
-    ]
-  },
-  {
-    "cod": "FGA0272",
-    "nome": "DIN\u00c2MICA MULTICORPOS VEICULAR",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0767"
-    ],
-    "pre_requirements": [
-      "FGA0023"
-    ]
-  },
-  {
-    "cod": "FGA0265",
-    "nome": "ECONOMIA DE ENERGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0203"
-    ],
-    "pre_requirements": [
-      "FGA0133"
-    ]
-  },
-  {
-    "cod": "FGA0122",
-    "nome": "EFICI\u00caNCIA ENERG\u00c9TICA EM INSTALA\u00c7\u00d5ES EL\u00c9TRICAS INDUSTRIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0644"
-    ],
-    "pre_requirements": [
-      "FGA0086 & FGA0087"
-    ]
-  },
-  {
-    "cod": "FGA0166",
-    "nome": "ELEMENTOS E M\u00c9TODOS EM ELETR\u00d4NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0500"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0186",
-    "nome": "ELETRICIDADE APLICADA",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0088"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0116",
-    "nome": "ELETR\u00d4NICA DE ALTA FREQU\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0638"
-    ],
-    "pre_requirements": [
-      "FGA0143 & FGA0217",
-      "FGA0068 & FGA0070"
-    ]
-  },
-  {
-    "cod": "FGA0057",
-    "nome": "ELETR\u00d4NICA DE POT\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0582"
-    ],
-    "pre_requirements": [
-      "FGA0086 & FGA0087 & FGA0068 & FGA0070"
-    ]
-  },
-  {
-    "cod": "FGA0097",
-    "nome": "ELETR\u00d4NICA DE R\u00c1DIO FREQU\u00caNCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0619"
-    ],
-    "pre_requirements": [
-      "FGA0068"
-    ]
-  },
-  {
-    "cod": "FGA0096",
-    "nome": "ELETR\u00d4NICA EMBARCADA",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0103"
-    ],
-    "pre_requirements": [
-      "FGA0074 & FGA0072",
-      "ENE0278",
-      "FGA0142"
-    ]
-  },
-  {
-    "cod": "FGA0226",
-    "nome": "ELETR\u00d4NICA VEICULAR",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0132"
-    ],
-    "pre_requirements": [
-      "FGA0196",
-      "FGA0186",
-      "FGA0067 & FGA0069",
-      "FGA0086 & FGA0087"
-    ]
-  },
-  {
-    "cod": "FGA0284",
-    "nome": "ENGENHARIA DE MANUTEN\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0778"
-    ],
-    "pre_requirements": [
-      "FGA0184 & FGA0157"
-    ]
-  },
-  {
-    "cod": "FGA0175",
-    "nome": "ENGENHARIA DE PETR\u00d3LEO E G\u00c1S",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0422"
-    ],
-    "pre_requirements": [
-      "IQD0125 & IQD0126",
-      "FGA0104"
-    ]
-  },
-  {
-    "cod": "FGA0200",
-    "nome": "ENGENHARIA DE PRODUTO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0707"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0206",
-    "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0001"
-    ],
-    "pre_requirements": [
-      "FGA0242",
-      "FGA0171"
-    ]
-  },
-  {
-    "cod": "FGA0148",
-    "nome": "ENGENHARIA DE SEGURAN\u00c7A DO TRABALHO",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0408"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0082",
-    "nome": "ENGENHARIA DE SISTEMAS AEROESPACIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0604"
-    ],
-    "pre_requirements": [
-      "FGA0049"
-    ]
-  },
-  {
-    "cod": "FGA0131",
-    "nome": "ENGENHARIA DE SOFTWARE AUTOMOTIVO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0493"
-    ],
-    "pre_requirements": [
-      "CIC0004"
-    ]
-  },
-  {
-    "cod": "FGA0275",
-    "nome": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0531"
-    ],
-    "pre_requirements": [
-      "FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0161",
-    "nome": "ENGENHARIA E AMBIENTE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0415"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0133",
-    "nome": "ENGENHARIA ECON\u00d4MICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0184"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0127",
-    "nome": "EQUA\u00c7\u00d5ES DIFERENCIAIS ORDIN\u00c1RIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0649"
-    ],
-    "pre_requirements": [
-      "FGA0126 & MAT0031",
-      "MAT0026 & MAT0031"
-    ]
-  },
-  {
-    "cod": "FGA0076",
-    "nome": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0469"
-    ],
-    "pre_requirements": [
-      "ENM0080"
-    ]
-  },
-  {
-    "cod": "FGA0152",
-    "nome": "ERGONOMIA DO PRODUTO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0498"
-    ],
-    "pre_requirements": [
-      "FGA0155"
-    ]
-  },
-  {
-    "cod": "FGA0021",
-    "nome": "EST\u00c1GIO SUPERVISIONADO",
-    "ch": 210,
-    "post_requirements": [
-      "FGA0550"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0147",
-    "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0003"
-    ],
-    "pre_requirements": [
-      "CIC0004"
-    ]
-  },
-  {
-    "cod": "FGA0030",
-    "nome": "ESTRUTURAS DE DADOS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0452"
-    ],
-    "pre_requirements": [
-      "FGA0147"
-    ]
-  },
-  {
-    "cod": "FGA0159",
-    "nome": "ESTRUTURAS MATEM\u00c1TICAS PARA COMPUTA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0058"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0144",
-    "nome": "F\u00cdSICA MODERNA",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0183"
-    ],
-    "pre_requirements": [
-      "MAT0027 & IFD0171"
-    ]
-  },
-  {
-    "cod": "FGA0113",
-    "nome": "F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0635"
-    ],
-    "pre_requirements": [
-      "MAT0031 & IFD0171 & MAT0025"
-    ]
-  },
-  {
-    "cod": "FGA0061",
-    "nome": "F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0585"
-    ],
-    "pre_requirements": [
-      "MAT0031 & IFD0171 & MAT0025"
-    ]
-  },
-  {
-    "cod": "FGA0114",
-    "nome": "F\u00cdSICA PARA JOGOS ELETR\u00d4NICOS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0636"
-    ],
-    "pre_requirements": [
-      "FGA0113 & FGA0264",
-      "FGA0113 & FGA0263"
-    ]
-  },
-  {
-    "cod": "FGA0169",
-    "nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERS\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0418"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0143",
-    "nome": "FUNDAMENTOS DA TEORIA ELETROMAGN\u00c9TICA",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0100"
-    ],
-    "pre_requirements": [
-      "IFD0171 & MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0142",
-    "nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0096",
-      "FGA0170"
-    ],
-    "pre_requirements": [
-      "ENE0277",
-      "FGA0071 & FGA0073"
-    ]
-  },
-  {
-    "cod": "FGA0026",
-    "nome": "FUNDAMENTOS DE ARQUITETURA DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0554"
-    ],
-    "pre_requirements": [
-      "FGA0172"
-    ]
-  },
-  {
-    "cod": "FGA0117",
-    "nome": "FUNDAMENTOS DE ENERGIA NUCLEAR",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0639"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0006",
-    "nome": "FUNDAMENTOS DE EQUA\u00c7\u00d5ES DIFERENCIAIS PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0440"
-    ],
-    "pre_requirements": [
-      "MAT0031 & MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0293",
-    "nome": "FUNDAMENTOS DE M\u00c9TODOS DE OTIMIZA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [],
-    "pre_requirements": [
-      "FGA0160 & MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0379",
-    "nome": "FUNDAMENTOS DE PROPULS\u00c3O EL\u00c9TRICA VEICULAR",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0787"
-    ],
-    "pre_requirements": [
-      "FGA0086 & FGA0087"
-    ]
-  },
-  {
-    "cod": "FGA0211",
-    "nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0511"
-    ],
-    "pre_requirements": [
-      "FGA0170"
-    ]
-  },
-  {
-    "cod": "FGA0109",
-    "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0399"
-    ],
-    "pre_requirements": [
-      "FGA0170"
-    ]
-  },
-  {
-    "cod": "FGA0170",
-    "nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0103"
-    ],
-    "pre_requirements": [
-      "FGA0182",
-      "FGA0096",
-      "FGA0142"
-    ]
-  },
-  {
-    "cod": "FGA0066",
-    "nome": "FUNDAMENTOS DE VARI\u00c1VEL COMPLEXA PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0590"
-    ],
-    "pre_requirements": [
-      "MAT0027 & MAT0031"
-    ]
-  },
-  {
-    "cod": "FGA0286",
-    "nome": "FUNDAMENTOS DO M\u00c9TODO DOS ELEMENTOS FINITOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0447"
-    ],
-    "pre_requirements": [
-      "FGA0160 & FGA0179 & ENM0080"
-    ]
-  },
-  {
-    "cod": "FGA0282",
-    "nome": "FUNDAMENTOS DO PROJETO DE AERONAVES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0435"
-    ],
-    "pre_requirements": [
-      "FGA0039 & FGA0045"
-    ]
-  },
-  {
-    "cod": "FGA0245",
-    "nome": "GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O DE SOFTWARE",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0741"
-    ],
-    "pre_requirements": [
-      "FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0240",
-    "nome": "GER\u00caNCIA DE CONFIGURA\u00c7\u00c3O E EVOLU\u00c7\u00c3O DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0430"
-    ],
-    "pre_requirements": [
-      "FGA0238"
-    ]
-  },
-  {
-    "cod": "FGA0141",
-    "nome": "GEST\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0130"
-    ],
-    "pre_requirements": [
-      "FGA0161 & FGA0184"
-    ]
-  },
-  {
-    "cod": "FGA0195",
-    "nome": "GEST\u00c3O DA PRODU\u00c7\u00c3O AUTOMOTIVA",
-    "ch": 60,
-    "post_requirements": [
-      "EPR0035"
-    ],
-    "pre_requirements": [
-      "FGA0184"
-    ]
-  },
-  {
-    "cod": "FGA0184",
-    "nome": "GEST\u00c3O DA PRODU\u00c7\u00c3O E QUALIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0195"
-    ],
-    "pre_requirements": [
-      "FGA0133"
-    ]
-  },
-  {
-    "cod": "FGA0223",
-    "nome": "GEST\u00c3O DE PROJETOS EM ENGENHARIA BIOM\u00c9DICA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0727"
-    ],
-    "pre_requirements": [
-      "FGA0184"
-    ]
-  },
-  {
-    "cod": "FGA0164",
-    "nome": "HUMANIDADES E CIDADANIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0115"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0115",
-    "nome": "INFORMA\u00c7\u00c3O, COMUNICA\u00c7\u00c3O E A SOCIEDADE DO CONHECIMENTO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0637"
-    ],
-    "pre_requirements": [
-      "FGA0164"
-    ]
-  },
-  {
-    "cod": "FGA0202",
-    "nome": "INFORM\u00c1TICA EM SA\u00daDE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0709"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0181",
-    "nome": "INOVA\u00c7\u00c3O",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0692"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0222",
-    "nome": "INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0258"
-    ],
-    "pre_requirements": [
-      "FGA0068 & FGA0070"
-    ]
-  },
-  {
-    "cod": "FGA0258",
-    "nome": "INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0444"
-    ],
-    "pre_requirements": [
-      "FGA0222"
-    ]
-  },
-  {
-    "cod": "FGA0218",
-    "nome": "INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0233"
-    ],
-    "pre_requirements": [
-      "FGA0196",
-      "FGA0226",
-      "FGA0067 & FGA0069"
-    ]
-  },
-  {
-    "cod": "FGA0132",
-    "nome": "INSTRUMENTA\u00c7\u00c3O ELETR\u00d4NICA PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0494"
-    ],
-    "pre_requirements": [
-      "FGA0068 & FGA0070",
-      "FGA0217",
-      "FGA0226"
-    ]
-  },
-  {
-    "cod": "FGA0253",
-    "nome": "INSTRUMENTA\u00c7\u00c3O E SISTEMAS DE CONTROLE",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0749"
-    ],
-    "pre_requirements": [
-      "FGA0188 & FGA0196 & MAT0048"
-    ]
-  },
-  {
-    "cod": "FGA0232",
-    "nome": "INTEGRA\u00c7\u00c3O E TESTES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0515"
-    ],
-    "pre_requirements": [
-      "FGA0188"
-    ]
-  },
-  {
-    "cod": "FGA0257",
-    "nome": "INTEGRIDADES DE SINAIS E DESIGN DE CIRCUITOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0753"
-    ],
-    "pre_requirements": [
-      "FGA0196",
-      "FGA0067 & FGA0069"
-    ]
-  },
-  {
-    "cod": "FGA0221",
-    "nome": "INTELIG\u00caNCIA ARTIFICIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0442"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0173",
-    "nome": "INTERA\u00c7\u00c3O HUMANO COMPUTADOR",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0421"
-    ],
-    "pre_requirements": [
-      "FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0264",
-    "nome": "INTRODU\u00c7\u00c3O A COMPUTA\u00c7\u00c3O GR\u00c1FICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0760"
-    ],
-    "pre_requirements": [
-      "FGA0147"
-    ]
-  },
-  {
-    "cod": "FGA0163",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0416"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0292",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 FOT\u00d4NICA E OPTR\u00d4NICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0786"
-    ],
-    "pre_requirements": [
-      "FGA0067 & FGA0069 & FGA0100 & FGA0101"
-    ]
-  },
-  {
-    "cod": "FGA0125",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOMETRIA ANAL\u00cdTICA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0647"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0285",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 MEC\u00c2NICA DA FRATURA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0436"
-    ],
-    "pre_requirements": [
-      "FGA0179  &  FGA0190"
-    ]
-  },
-  {
-    "cod": "FGA0077",
-    "nome": "INTRODU\u00c7\u00c3O AO DESGASTE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0470"
-    ],
-    "pre_requirements": [
-      "FGA0055 & FGA0056"
-    ]
-  },
-  {
-    "cod": "FGA0155",
-    "nome": "INTRODU\u00c7\u00c3O AO DESIGN E CONCEP\u00c7\u00c3O DE VE\u00cdCULOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0152"
-    ],
-    "pre_requirements": [
-      "FGA0168"
-    ]
-  },
-  {
-    "cod": "FGA0263",
-    "nome": "INTRODU\u00c7\u00c3O AOS JOGOS ELETR\u00d4NICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0759"
-    ],
-    "pre_requirements": [
-      "FGA0158 & FGA0147"
-    ]
-  },
-  {
-    "cod": "FGA0111",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 WEB SEM\u00c2NTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0633"
-    ],
-    "pre_requirements": [
-      "FGA0137"
-    ]
-  },
-  {
-    "cod": "FGA0087",
-    "nome": "LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0475"
-    ],
-    "pre_requirements": [
-      "FGA0187",
-      "FGA0067 & FGA0069"
-    ]
-  },
-  {
-    "cod": "FGA0075",
-    "nome": "LABORAT\u00d3RIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O",
-    "ch": 15,
-    "post_requirements": [
-      "FGA0468"
-    ],
-    "pre_requirements": [
-      "IQD0051",
-      "IQD0125 & IQD0126"
-    ]
-  },
-  {
-    "cod": "FGA0107",
-    "nome": "LABORAT\u00d3RIO DE ONDULAT\u00d3RIA E F\u00cdSICA T\u00c9RMICA PARA A ENGENHARIA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0629"
-    ],
-    "pre_requirements": [
-      "IFD0171 & IFD0173"
-    ]
-  },
-  {
-    "cod": "FGA0089",
-    "nome": "LABORAT\u00d3RIO DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0477"
-    ],
-    "pre_requirements": [
-      "FGA0186",
-      "FGA0086 & FGA0087"
-    ]
-  },
-  {
-    "cod": "FGA0091",
-    "nome": "M\u00c1QUINAS DE FLUIDO",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0251"
-    ],
-    "pre_requirements": [
-      "ENM0071"
-    ]
-  },
-  {
-    "cod": "FGA0247",
-    "nome": "M\u00c1QUINAS DE FLUXO",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0521"
-    ],
-    "pre_requirements": [
-      "FGA0204 & ENM0068"
-    ]
-  },
-  {
-    "cod": "FGA0005",
-    "nome": "MATEM\u00c1TICA APLICADA A SISTEMAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0439"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0085",
-    "nome": "MATEM\u00c1TICA DISCRETA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0058"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0108",
-    "nome": "MATEM\u00c1TICA DISCRETA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0137"
-    ],
-    "pre_requirements": [
-      "FGA0085",
-      "FGA0159"
-    ]
-  },
-  {
-    "cod": "FGA0191",
-    "nome": "MATERIAIS COMPOSTOS E PL\u00c1STICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0506"
-    ],
-    "pre_requirements": [
-      "FGA0075 & FGA0078"
-    ]
-  },
-  {
-    "cod": "FGA0139",
-    "nome": "MATERIAIS DE CONSTRU\u00c7\u00c3O DE ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0180"
-    ],
-    "pre_requirements": [
-      "IQD0051"
-    ]
-  },
-  {
-    "cod": "FGA0183",
-    "nome": "MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0694"
-    ],
-    "pre_requirements": [
-      "FGA0144"
-    ]
-  },
-  {
-    "cod": "FGA0039",
-    "nome": "MEC\u00c2NICA DE ESTRUTURAS AEROESPACIAIS",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0385"
-    ],
-    "pre_requirements": [
-      "FGA0179"
-    ]
-  },
-  {
-    "cod": "FGA0291",
-    "nome": "MEC\u00c2NICA DE ESTRUTURAS AERON\u00c1UTICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0785"
-    ],
-    "pre_requirements": [
-      "FGA0039"
-    ]
-  },
-  {
-    "cod": "FGA0283",
-    "nome": "MEC\u00c2NICA DOS MATERIAIS COMP\u00d3SITOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0446"
-    ],
-    "pre_requirements": [
-      "FGA0179",
-      "FGA0178"
-    ]
-  },
-  {
-    "cod": "FGA0154",
-    "nome": "MECANICA DOS S\u00d3LIDOS 1 PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0023"
-    ],
-    "pre_requirements": [
-      "IFD0171"
-    ]
-  },
-  {
-    "cod": "FGA0179",
-    "nome": "MECANICA DOS S\u00d3LIDOS 2 PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0039"
-    ],
-    "pre_requirements": [
-      "FGA0154"
-    ]
-  },
-  {
-    "cod": "FGA0045",
-    "nome": "MEC\u00c2NICA DO V\u00d4O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0048"
-    ],
-    "pre_requirements": [
-      "FGA0008 & FGA0038"
-    ]
-  },
-  {
-    "cod": "FGA0048",
-    "nome": "MEC\u00c2NICA DO VOO ESPACIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0457"
-    ],
-    "pre_requirements": [
-      "FGA0045"
-    ]
-  },
-  {
-    "cod": "FGA0209",
-    "nome": "MEDI\u00c7\u00c3O E AN\u00c1LISE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0714"
-    ],
-    "pre_requirements": [
-      "FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0273",
-    "nome": "MELHORIA DE PROCESSOS DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0433"
-    ],
-    "pre_requirements": [
-      "FGA0237",
-      "FGA0238"
-    ]
-  },
-  {
-    "cod": "FGA0138",
-    "nome": "M\u00c9TODOS DE DESENVOLVIMENTO DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0172"
-    ],
-    "pre_requirements": [
-      "FGA0158"
-    ]
-  },
-  {
-    "cod": "FGA0046",
-    "nome": "M\u00c9TODOS E T\u00c9CNICAS DA ESCRITA CIENT\u00cdFICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0456"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0188",
-    "nome": "M\u00c9TODOS EXPERIMENTAIS PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0232"
-    ],
-    "pre_requirements": [
-      "IFD0173"
-    ]
-  },
-  {
-    "cod": "FGA0246",
-    "nome": "M\u00c9TODOS FORMAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0742"
-    ],
-    "pre_requirements": [
-      "FGA0159 & FGA0171 & FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0187",
-    "nome": "M\u00c9TODOS MATEM\u00c1TICOS PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0086"
-    ],
-    "pre_requirements": [
-      "MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0160",
-    "nome": "M\u00c9TODOS NUM\u00c9RICOS PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0249"
-    ],
-    "pre_requirements": [
-      "MAT0026"
-    ]
-  },
-  {
-    "cod": "FGA0182",
-    "nome": "MICROPROCESSADORES E MICROCONTROLADORES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0103"
-    ],
-    "pre_requirements": [
-      "ENE0278",
-      "FGA0142",
-      "FGA0072 & FGA0074"
-    ]
-  },
-  {
-    "cod": "FGA0212",
-    "nome": "MODELAGEM DE PROCESSOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0717"
-    ],
-    "pre_requirements": [
-      "FGA0184"
-    ]
-  },
-  {
-    "cod": "FGA0259",
-    "nome": "MODELAGEM DE SISTEMAS BIOL\u00d3GICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0524"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0024",
-    "nome": "MODELAGEM E SIMULA\u00c7\u00c3O DE SISTEMAS ENERG\u00c9TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0552"
-    ],
-    "pre_requirements": [
-      "FGA0204 & FGA0186 & FGA0160"
-    ]
-  },
-  {
-    "cod": "FGA0090",
-    "nome": "ONDULAT\u00d3RIA E F\u00cdSICA T\u00c9RMICA PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0478"
-    ],
-    "pre_requirements": [
-      "MAT0025 & IFD0171 & IFD0173"
-    ]
-  },
-  {
-    "cod": "FGA0158",
-    "nome": "ORIENTA\u00c7\u00c3O A OBJETOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0138"
-    ],
-    "pre_requirements": [
-      "CIC0004",
-      "CIC0007"
-    ]
-  },
-  {
-    "cod": "FGA0210",
-    "nome": "PARADIGMAS DE PROGRAMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0426"
-    ],
-    "pre_requirements": [
-      "FGA0158 & FGA0003"
-    ]
-  },
-  {
-    "cod": "FGA0203",
-    "nome": "PLANEJAMENTO E GEST\u00c3O DE ENERGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0710"
-    ],
-    "pre_requirements": [
-      "FGA0265"
-    ]
-  },
-  {
-    "cod": "FGA0069",
-    "nome": "PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0391"
-    ],
-    "pre_requirements": [
-      "MAT0048",
-      "MAT0026"
-    ]
-  },
-  {
-    "cod": "FGA0070",
-    "nome": "PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 2",
-    "ch": 30,
-    "post_requirements": [
-      "ENE0019"
-    ],
-    "pre_requirements": [
-      "FGA0196",
-      "FGA0067 & FGA0069 & FGA0101 & FGA0100"
-    ]
-  },
-  {
-    "cod": "FGA0098",
-    "nome": "PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 3",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0483"
-    ],
-    "pre_requirements": [
-      "FGA0017"
-    ]
-  },
-  {
-    "cod": "FGA0120",
-    "nome": "PR\u00c1TICA DE ELETROMAGNETISMO",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0489"
-    ],
-    "pre_requirements": [
-      "IFD0171 & MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0071",
-    "nome": "PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0392"
-    ],
-    "pre_requirements": [
-      "MAT0031"
-    ]
-  },
-  {
-    "cod": "FGA0072",
-    "nome": "PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0466"
-    ],
-    "pre_requirements": [
-      "ENE0277",
-      "FGA0073 & FGA0071"
-    ]
-  },
-  {
-    "cod": "FGA0100",
-    "nome": "PR\u00c1TICA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0484"
-    ],
-    "pre_requirements": [
-      "FGA0143",
-      "FGA0119 & FGA0120"
-    ]
-  },
-  {
-    "cod": "FGA0036",
-    "nome": "PR\u00c9-C\u00c1LCULO PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0562"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0010",
-    "nome": "PRINC\u00cdPIO DE COMUNICA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0540"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0199",
-    "nome": "PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "ENE0065"
-    ],
-    "pre_requirements": [
-      "FGA0187"
-    ]
-  },
-  {
-    "cod": "FGA0092",
-    "nome": "PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O PARA ENGENHARIA",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0224"
-    ],
-    "pre_requirements": [
-      "FGA0187",
-      "FGA0102 & FGA0067"
-    ]
-  },
-  {
-    "cod": "FGA0093",
-    "nome": "PRINC\u00cdPIOS DE CONTROLE",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0044"
-    ],
-    "pre_requirements": [
-      "FGA0187",
-      "FGA0102"
-    ]
-  },
-  {
-    "cod": "FGA0027",
-    "nome": "PRINC\u00cdPIOS DE ROB\u00d3TICA EDUCACIONAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0555"
-    ],
-    "pre_requirements": [
-      "CIC0007"
-    ]
-  },
-  {
-    "cod": "FGA0157",
-    "nome": "PROBABILIDADE E ESTAT\u00cdSTICA APLICADO A ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0412"
-    ],
-    "pre_requirements": [
-      "MAT0025"
-    ]
-  },
-  {
-    "cod": "FGA0219",
-    "nome": "PROCESSAMENTO DE SINAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0014"
-    ],
-    "pre_requirements": [
-      "FGA0187",
-      "FGA0102"
-    ]
-  },
-  {
-    "cod": "FGA0014",
-    "nome": "PROCESSAMENTO DE SINAIS BIOL\u00d3GICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0544"
-    ],
-    "pre_requirements": [
-      "FGA0219"
-    ]
-  },
-  {
-    "cod": "FGA0015",
-    "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0450"
-    ],
-    "pre_requirements": [
-      "FGA0219",
-      "FGA0102 & FGA0157"
-    ]
-  },
-  {
-    "cod": "FGA0129",
-    "nome": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0491"
-    ],
-    "pre_requirements": [
-      "FGA0102",
-      "MAT0026 & FGA0157"
-    ]
-  },
-  {
-    "cod": "FGA0165",
-    "nome": "PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0678"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0180",
-    "nome": "PROCESSOS DE FABRICA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0691"
-    ],
-    "pre_requirements": [
-      "FGA0139"
-    ]
-  },
-  {
-    "cod": "FGA0380",
-    "nome": "PROCESSOS ESTOC\u00c1STICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0788"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0047",
-    "nome": "PROCESSOS PETROQU\u00cdMICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0387"
-    ],
-    "pre_requirements": [
-      "FGA0156 & FGA0175"
-    ]
-  },
-  {
-    "cod": "FGA0274",
-    "nome": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0530"
-    ],
-    "pre_requirements": [
-      "FGA0164 & FGA0206"
-    ]
-  },
-  {
-    "cod": "FGA0028",
-    "nome": "PROGRAMA\u00c7\u00c3O PARA COMPETI\u00c7\u00d5ES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0556"
-    ],
-    "pre_requirements": [
-      "CIC0004"
-    ]
-  },
-  {
-    "cod": "FGA0244",
-    "nome": "PROGRAMA\u00c7\u00c3O PARA SISTEMAS PARALELOS E DISTRIBU\u00cdDOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0520"
-    ],
-    "pre_requirements": [
-      "FGA0211 & FGA0030"
-    ]
-  },
-  {
-    "cod": "FGA0279",
-    "nome": "PROGRAMA\u00c7\u00c3O WEB",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0773"
-    ],
-    "pre_requirements": [
-      "FGA0137 & FGA0171"
-    ]
-  },
-  {
-    "cod": "FGA0198",
-    "nome": "PROJETO COM CIRCUITOS RECONFIGURAVEIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0705"
-    ],
-    "pre_requirements": [
-      "FGA0182",
-      "FGA0096"
-    ]
-  },
-  {
-    "cod": "FGA0124",
-    "nome": "PROJETO DE ALGORITMOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0401"
-    ],
-    "pre_requirements": [
-      "FGA0147"
-    ]
-  },
-  {
-    "cod": "FGA0215",
-    "nome": "PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0280"
-    ],
-    "pre_requirements": [
-      "FGA0196",
-      "ENE0181",
-      "FGA0067 & FGA0069"
-    ]
-  },
-  {
-    "cod": "FGA0280",
-    "nome": "PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0445"
-    ],
-    "pre_requirements": [
-      "FGA0215",
-      "FGA0017"
-    ]
-  },
-  {
-    "cod": "FGA0201",
-    "nome": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0441"
-    ],
-    "pre_requirements": [
-      "ENE0278",
-      "FGA0074 & FGA0072"
-    ]
-  },
-  {
-    "cod": "FGA0190",
-    "nome": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0228"
-    ],
-    "pre_requirements": [
-      "FGA0179"
-    ]
-  },
-  {
-    "cod": "FGA0267",
-    "nome": "PROJETO DE ESTRUTURAS DE VEICULOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0271"
-    ],
-    "pre_requirements": [
-      "FGA0228"
-    ]
-  },
-  {
-    "cod": "FGA0256",
-    "nome": "PROJETO DE SENSORES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0752"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0049",
-    "nome": "PROJETO DE SISTEMAS AEROESPACIAIS",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0082"
-    ],
-    "pre_requirements": [
-      "FGA0038 & FGA0045"
-    ]
-  },
-  {
-    "cod": "FGA0228",
-    "nome": "PROJETO DE SISTEMAS AUTOMOTIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0250"
-    ],
-    "pre_requirements": [
-      "FGA0190"
-    ]
-  },
-  {
-    "cod": "FGA0044",
-    "nome": "PROJETO DE SISTEMAS DE CONTROLE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0080"
-    ],
-    "pre_requirements": [
-      "FGA0197",
-      "FGA0093"
-    ]
-  },
-  {
-    "cod": "FGA0062",
-    "nome": "PROJETO DE SISTEMAS DE OBSERVA\u00c7\u00c3O DA TERRA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0586"
-    ],
-    "pre_requirements": [
-      "MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0271",
-    "nome": "PROJETO DE VE\u00cdCULOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0766"
-    ],
-    "pre_requirements": [
-      "FGA0267"
-    ]
-  },
-  {
-    "cod": "FGA0020",
-    "nome": "PROJETO E AN\u00c1LISE DE ALGORITMO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0549"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0150",
-    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0250"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0250",
-    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0522"
-    ],
-    "pre_requirements": [
-      "FGA0150",
-      "ENM0071",
-      "ENE0130",
-      "FGA0230",
-      "FGA0228",
-      "FGA0226",
-      "FGA0217",
-      "FGA0218",
-      "FGA0220",
-      "FGA0206",
-      "FGA0088 & FGA0089",
-      "FGA0103"
-    ]
-  },
-  {
-    "cod": "FGA0017",
-    "nome": "PROJETOS DE CIRCUITOS INTEGRADOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0098"
-    ],
-    "pre_requirements": [
-      "ENE0181",
-      "FGA0217",
-      "FGA0068 & FGA0070"
-    ]
-  },
-  {
-    "cod": "FGA0052",
-    "nome": "PROPULS\u00c3O AEROESPACIAL",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0064"
-    ],
-    "pre_requirements": [
-      "FGA0043 & ENM0071"
-    ]
-  },
-  {
-    "cod": "FGA0063",
-    "nome": "PROPULS\u00c3O AERON\u00c1UTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0462"
-    ],
-    "pre_requirements": [
-      "FGA0043 & ENM0071"
-    ]
-  },
-  {
-    "cod": "FGA0065",
-    "nome": "PROPULS\u00c3O EL\u00c9TRICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0463"
-    ],
-    "pre_requirements": [
-      "FGA0052 & FGA0143"
-    ]
-  },
-  {
-    "cod": "FGA0064",
-    "nome": "PROPULS\u00c3O QU\u00cdMICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0588"
-    ],
-    "pre_requirements": [
-      "FGA0052"
-    ]
-  },
-  {
-    "cod": "FGA0278",
-    "nome": "QUALIDADE DE SOFTWARE 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0112"
-    ],
-    "pre_requirements": [
-      "FGA0184 & FGA0173"
-    ]
-  },
-  {
-    "cod": "FGA0112",
-    "nome": "QUALIDADE DE SOFTWARE 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0634"
-    ],
-    "pre_requirements": [
-      "FGA0278"
-    ]
-  },
-  {
-    "cod": "FGA0104",
-    "nome": "QU\u00cdMICA ORG\u00c2NICA APLICADA \u00c0 ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0156"
-    ],
-    "pre_requirements": [
-      "IQD0125 & IQD0126"
-    ]
-  },
-  {
-    "cod": "FGA0130",
-    "nome": "REGULA\u00c7\u00c3O AMBIENTAL NO SETOR ENERG\u00c9TICO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0492"
-    ],
-    "pre_requirements": [
-      "FGA0141"
-    ]
-  },
-  {
-    "cod": "FGA0172",
-    "nome": "REQUISITOS DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0004"
-    ],
-    "pre_requirements": [
-      "FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0031",
-    "nome": "SEMIN\u00c1RIOS EM ENGENHARIA DE SOFTWARE",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0558"
-    ],
-    "pre_requirements": [
-      "CIC0007",
-      "CIC0088"
-    ]
-  },
-  {
-    "cod": "FGA0233",
-    "nome": "SENSORES E TRANSDUTORES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0516"
-    ],
-    "pre_requirements": [
-      "FGA0188",
-      "FGA0218"
-    ]
-  },
-  {
-    "cod": "FGA0102",
-    "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
-    "ch": 90,
-    "post_requirements": [
-      "CIC0196"
-    ],
-    "pre_requirements": [
-      "MAT0027 & CIC0004",
-      "MAT0027 & CIC0088",
-      "MAT0027 & CIC0007"
-    ]
-  },
-  {
-    "cod": "FGA0008",
-    "nome": "SISTEMAS AEROESPACIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0449"
-    ],
-    "pre_requirements": [
-      "IFD0171 & FGA0254"
-    ]
-  },
-  {
-    "cod": "FGA0167",
-    "nome": "SISTEMAS AUTOMOTIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0501"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0213",
-    "nome": "SISTEMAS CR\u00cdTICOS E TOLER\u00c2NCIA A FALHAS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0718"
-    ],
-    "pre_requirements": [
-      "CIC0007 & ENE0277"
-    ]
-  },
-  {
-    "cod": "FGA0137",
-    "nome": "SISTEMAS DE BANCO DE DADOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0060"
-    ],
-    "pre_requirements": [
-      "FGA0159",
-      "FGA0108"
-    ]
-  },
-  {
-    "cod": "FGA0060",
-    "nome": "SISTEMAS DE BANCO DE DADOS 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0389"
-    ],
-    "pre_requirements": [
-      "FGA0137"
-    ]
-  },
-  {
-    "cod": "FGA0197",
-    "nome": "SISTEMAS DE CONTROLE",
-    "ch": 60,
-    "post_requirements": [
-      "ENM0001"
-    ],
-    "pre_requirements": [
-      "FGA0187"
-    ]
-  },
-  {
-    "cod": "FGA0012",
-    "nome": "SISTEMAS DE CONTROLE",
-    "ch": 60,
-    "post_requirements": [
-      "ENE0167"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0040",
-    "nome": "SISTEMAS DE CONTROLE AUTOMOTIVO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0454"
-    ],
-    "pre_requirements": [
-      "FGA0230"
-    ]
-  },
-  {
-    "cod": "FGA0025",
-    "nome": "SISTEMAS DE ENERGIA SOLAR E E\u00d3LICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0451"
-    ],
-    "pre_requirements": [
-      "FGA0086 & FGA0087"
-    ]
-  },
-  {
-    "cod": "FGA0118",
-    "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O GEOGR\u00c1FICA PARA ENGENHARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0488"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0248",
-    "nome": "SISTEMAS DE PROPULS\u00c3O H\u00cdBRIDOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0744"
-    ],
-    "pre_requirements": [
-      "ENM0080"
-    ]
-  },
-  {
-    "cod": "FGA0281",
-    "nome": "SISTEMAS DE PROPULS\u00c3O LIQUIDA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0775"
-    ],
-    "pre_requirements": [
-      "FGA0043"
-    ]
-  },
-  {
-    "cod": "FGA0289",
-    "nome": "SISTEMAS DE PROPULS\u00c3O S\u00d3LIDA E H\u00cdBRIDA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0448"
-    ],
-    "pre_requirements": [
-      "FGA0043"
-    ]
-  },
-  {
-    "cod": "FGA0220",
-    "nome": "SISTEMAS EMBARCADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0250"
-    ],
-    "pre_requirements": [
-      "FGA0182",
-      "FGA0170"
-    ]
-  },
-  {
-    "cod": "FGA0270",
-    "nome": "SISTEMAS HIDR\u00c1ULICOS E PNEUM\u00c1TICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0529"
-    ],
-    "pre_requirements": [
-      "ENM0080"
-    ]
-  },
-  {
-    "cod": "FGA0252",
-    "nome": "SISTEMAS HIDROEL\u00c9TRICOS",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0523"
-    ],
-    "pre_requirements": [
-      "FGA0091"
-    ]
-  },
-  {
-    "cod": "FGA0103",
-    "nome": "SISTEMAS OPERACIONAIS EMBARCADOS",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0250"
-    ],
-    "pre_requirements": [
-      "FGA0096",
-      "FGA0182",
-      "FGA0170"
-    ]
-  },
-  {
-    "cod": "FGA0004",
-    "nome": "T\u00c9CNICAS DE MEDI\u00c7\u00c3O FUNCIONAL E ESTIMATIVAS DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0438"
-    ],
-    "pre_requirements": [
-      "FGA0172"
-    ]
-  },
-  {
-    "cod": "FGA0171",
-    "nome": "T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0206"
-    ],
-    "pre_requirements": [
-      "FGA0158"
-    ]
-  },
-  {
-    "cod": "FGA0242",
-    "nome": "T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O EM PLATAFORMAS EMERGENTES",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0206"
-    ],
-    "pre_requirements": [
-      "FGA0208 & FGA0238"
-    ]
-  },
-  {
-    "cod": "FGA0055",
-    "nome": "TECNOLOGIAS DE FABRICA\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0460"
-    ],
-    "pre_requirements": [
-      "FGA0078 & FGA0075"
-    ]
-  },
-  {
-    "cod": "FGA0056",
-    "nome": "TECNOLOGIAS DE FABRICA\u00c7\u00c3O 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0461"
-    ],
-    "pre_requirements": [
-      "FGA0078 & FGA0075"
-    ]
-  },
-  {
-    "cod": "FGA0067",
-    "nome": "TEORIA DE CIRCUITOS ELETR\u00d4NICOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0390"
-    ],
-    "pre_requirements": [
-      "MAT0048",
-      "MAT0026"
-    ]
-  },
-  {
-    "cod": "FGA0068",
-    "nome": "TEORIA DE CIRCUITOS ELETR\u00d4NICOS 2",
-    "ch": 60,
-    "post_requirements": [
-      "ENE0019"
-    ],
-    "pre_requirements": [
-      "FGA0196",
-      "FGA0067 & FGA0069 & FGA0101 & FGA0100"
-    ]
-  },
-  {
-    "cod": "FGA0099",
-    "nome": "TEORIA DE CIRCUITOS ELETR\u00d4NICOS 3",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0396"
-    ],
-    "pre_requirements": [
-      "FGA0017"
-    ]
-  },
-  {
-    "cod": "FGA0086",
-    "nome": "TEORIA DE ELETRICIDADE APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0474"
-    ],
-    "pre_requirements": [
-      "FGA0187",
-      "FGA0067 & FGA0069"
-    ]
-  },
-  {
-    "cod": "FGA0119",
-    "nome": "TEORIA DE ELETROMAGNETISMO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0400"
-    ],
-    "pre_requirements": [
-      "IFD0171 & MAT0027"
-    ]
-  },
-  {
-    "cod": "FGA0073",
-    "nome": "TEORIA DE ELETR\u00d4NICA DIGITAL 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0393"
-    ],
-    "pre_requirements": [
-      "MAT0031"
-    ]
-  },
-  {
-    "cod": "FGA0074",
-    "nome": "TEORIA DE ELETR\u00d4NICA DIGITAL 2",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0467"
-    ],
-    "pre_requirements": [
-      "ENE0277",
-      "FGA0073 & FGA0071"
-    ]
-  },
-  {
-    "cod": "FGA0101",
-    "nome": "TEORIA DE F\u00cdSICA DOS DISPOSITIVOS ELETR\u00d4NICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0485"
-    ],
-    "pre_requirements": [
-      "FGA0143",
-      "FGA0119 & FGA0120"
-    ]
-  },
-  {
-    "cod": "FGA0078",
-    "nome": "TEORIA DE MATERIAIS DE CONSTRU\u00c7\u00c3O",
-    "ch": 45,
-    "post_requirements": [
-      "FGA0471"
-    ],
-    "pre_requirements": [
-      "IQD0051",
-      "IQD0125 & IQD0126"
-    ]
-  },
-  {
-    "cod": "FGA0088",
-    "nome": "TEORIA DE SISTEMAS DE CONVERS\u00c3O DE ENERGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0476"
-    ],
-    "pre_requirements": [
-      "FGA0186",
-      "FGA0086 & FGA0087"
-    ]
-  },
-  {
-    "cod": "FGA0238",
-    "nome": "TESTES DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0240"
-    ],
-    "pre_requirements": [
-      "FGA0138"
-    ]
-  },
-  {
-    "cod": "FGA0260",
-    "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM ELETROMAGNETISMO APLICADO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0756"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0019",
-    "nome": "T\u00d3PICOS EM SISTEMAS DE COMPUTA\u00c7\u00c3O DE ALTO DESEMPENHO",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0548"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0235",
-    "nome": "T\u00d3PICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0517"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0105",
-    "nome": "T\u00d3PICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0627"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0106",
-    "nome": "T\u00d3PICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0628"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0121",
-    "nome": "T\u00d3PICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0490"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0134",
-    "nome": "T\u00d3PICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0495"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0261",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ELETRONICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0525"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0037",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0453"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0214",
-    "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0719"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0033",
-    "nome": "T\u00d3PICOS ESPECIAIS EM F\u00cdSICA APLICADA",
-    "ch": 30,
-    "post_requirements": [
-      "FGA0559"
-    ],
-    "pre_requirements": [
-      "IFD0171 & MAT0048",
-      "MAT0026"
-    ]
-  },
-  {
-    "cod": "FGA0054",
-    "nome": "T\u00d3PICOS ESPECIAIS EM GOVERNAN\u00c7A DE TECNOLOGIA DA INFORMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0579"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0041",
-    "nome": "T\u00d3PICOS ESPECIAIS EM JOGOS DIGITAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0567"
-    ],
-    "pre_requirements": [
-      "CIC0007",
-      "CIC0088"
-    ]
-  },
-  {
-    "cod": "FGA0034",
-    "nome": "T\u00d3PICOS ESPECIAIS EM MATEM\u00c1TICA APLICADA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0560"
-    ],
-    "pre_requirements": [
-      "MAT0048",
-      "MAT0026"
-    ]
-  },
-  {
-    "cod": "FGA0053",
-    "nome": "T\u00d3PICOS ESPECIAIS EM PROGRAMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0459"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0042",
-    "nome": "T\u00d3PICOS ESPECIAIS EM SISTEMAS CR\u00cdTICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0568"
-    ],
-    "pre_requirements": [
-      "CIC0007",
-      "CIC0088"
-    ]
-  },
-  {
-    "cod": "FGA0016",
-    "nome": "T\u00d3PICOS ESPECIAL EM INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0546"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0009",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FGA0011"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FGA0011",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 2",
-    "ch": 90,
-    "post_requirements": [
-      "FGA0541"
-    ],
-    "pre_requirements": [
-      "FGA0287",
-      "FGA0009"
-    ]
-  },
-  {
-    "cod": "FGA0262",
-    "nome": "TRANSMISS\u00c3O E DISTRIBUI\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA",
-    "ch": 75,
-    "post_requirements": [
-      "FGA0035",
-      "FGA0432"
-    ],
-    "pre_requirements": [
-      "FGA0086 & FGA0087"
-    ]
-  }
+   {
+      "codigo": "FGA0266",
+      "nome": "ACÚSTICA E VIBRAÇÕES VEICULARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0527"
+      ],
+      "pre_requisitos": [
+         "FGA0179"
+      ]
+   },
+   {
+      "codigo": "FGA0038",
+      "nome": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0043",
+         "FGA0384"
+      ],
+      "pre_requisitos": [
+         "FGA0204"
+      ]
+   },
+   {
+      "codigo": "FGA0035",
+      "nome": "ANÁLISE DE SISTEMAS DE ENERGIA ELÉTRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0561"
+      ],
+      "pre_requisitos": [
+         "FGA0262"
+      ]
+   },
+   {
+      "codigo": "FGA0268",
+      "nome": "ANÁLISE DINÂMICA MÉTODOS DOS ELEMENTOS FINITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0764"
+      ],
+      "pre_requisitos": [
+         "FGA0229"
+      ]
+   },
+   {
+      "codigo": "FGA0229",
+      "nome": "ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0268",
+         "FGA0514"
+      ],
+      "pre_requisitos": [
+         "FGA0179"
+      ]
+   },
+   {
+      "codigo": "FGA0177",
+      "nome": "ANÁLISE INSTRUMENTAL DE COMBUSTÍVEIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0502"
+      ],
+      "pre_requisitos": [
+         "FGA0156"
+      ]
+   },
+   {
+      "codigo": "FGA0013",
+      "nome": "ANATOMIA E FISIOLOGIA HUMANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0543"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0094",
+      "nome": "ANTENAS IMPRESSAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0481"
+      ],
+      "pre_requisitos": [
+         "FGA0143 & FGA0217",
+         "FGA0068 & FGA0070"
+      ]
+   },
+   {
+      "codigo": "FGA0083",
+      "nome": "APRENDIZADO DE MÁQUINA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0472"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & FGA0147 & FGA0157"
+      ]
+   },
+   {
+      "codigo": "FGA0194",
+      "nome": "ARQUITETURA DE MOTORES DE COMBUSTÃO INTERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0507"
+      ],
+      "pre_requisitos": [
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "FGA0208",
+      "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0425"
+      ],
+      "pre_requisitos": [
+         "FGA0172"
+      ]
+   },
+   {
+      "codigo": "FGA0236",
+      "nome": "BIORREFINARIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0518"
+      ],
+      "pre_requisitos": [
+         "ENM0068 & FGA0204 & FGA0156"
+      ]
+   },
+   {
+      "codigo": "FGA0123",
+      "nome": "CÁLCULO PARA ENGENHARIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0126",
+         "FGA0645"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0126",
+      "nome": "CÁLCULO PARA ENGENHARIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0648"
+      ],
+      "pre_requisitos": [
+         "FGA0123",
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "FGA0128",
+      "nome": "CÁLCULO PARA ENGENHARIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0650"
+      ],
+      "pre_requisitos": [
+         "FGA0126 & FGA0125",
+         "FGA0126 & MAT0010",
+         "MAT0026 & FGA0125",
+         "MAT0026 & MAT0010"
+      ]
+   },
+   {
+      "codigo": "FGA0251",
+      "nome": "CENTRAIS DE GERAÇÃO TERMOELÉTRICA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0747"
+      ],
+      "pre_requisitos": [
+         "FGA0091"
+      ]
+   },
+   {
+      "codigo": "FGA0254",
+      "nome": "CIÊNCIAS AEROESPACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0431"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0196",
+      "nome": "CIRCUITOS ELETRÔNICOS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0068",
+         "FGA0070",
+         "FGA0215",
+         "FGA0217",
+         "FGA0218",
+         "FGA0226",
+         "FGA0257",
+         "FGA0703"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "FGA0217",
+      "nome": "CIRCUITOS ELETRÔNICOS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0017",
+         "ENE0019",
+         "FGA0132",
+         "ENE0321",
+         "FGA0250",
+         "FGA0255",
+         "FGA0721"
+      ],
+      "pre_requisitos": [
+         "FGA0196"
+      ]
+   },
+   {
+      "codigo": "FGA0255",
+      "nome": "CIRCUITOS ELETRÔNICOS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0751"
+      ],
+      "pre_requisitos": [
+         "FGA0217",
+         "FGA0070 & FGA0068"
+      ]
+   },
+   {
+      "codigo": "FGA0095",
+      "nome": "CODIFICAÇÃO E COMPRESSÃO DE SINAIS, IMAGENS E VÍDEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0617"
+      ],
+      "pre_requisitos": [
+         "FGA0219 & FGA0157",
+         "FGA0015 & FGA0157"
+      ]
+   },
+   {
+      "codigo": "FGA0156",
+      "nome": "COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0177",
+         "FGA0411"
+      ],
+      "pre_requisitos": [
+         "FGA0104"
+      ]
+   },
+   {
+      "codigo": "FGA0003",
+      "nome": "COMPILADORES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0110",
+         "FGA0381"
+      ],
+      "pre_requisitos": [
+         "FGA0147"
+      ]
+   },
+   {
+      "codigo": "FGA0110",
+      "nome": "COMPILADORES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0632"
+      ],
+      "pre_requisitos": [
+         "FGA0003"
+      ]
+   },
+   {
+      "codigo": "FGA0276",
+      "nome": "COMPUTAÇÃO EM NUVEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0771"
+      ],
+      "pre_requisitos": [
+         "FGA0137"
+      ]
+   },
+   {
+      "codigo": "FGA0224",
+      "nome": "COMUNICAÇÕES DIGITAIS PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0443"
+      ],
+      "pre_requisitos": [
+         "FGA0199",
+         "FGA0092"
+      ]
+   },
+   {
+      "codigo": "FGA0007",
+      "nome": "CONFIABILIDADE DE COMPONENTES E SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0537"
+      ],
+      "pre_requisitos": [
+         "FGA0157 & FGA0179"
+      ]
+   },
+   {
+      "codigo": "FGA0001",
+      "nome": "CONTRATAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0437"
+      ],
+      "pre_requisitos": [
+         "FGA0206",
+         "CIC0140",
+         "ADM0092",
+         "EPR0072"
+      ]
+   },
+   {
+      "codigo": "FGA0080",
+      "nome": "CONTROLE DE SISTEMAS AEROESPACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0603"
+      ],
+      "pre_requisitos": [
+         "FGA0044"
+      ]
+   },
+   {
+      "codigo": "FGA0058",
+      "nome": "CRIPTOGRAFIA E SEGURANÇA DE REDES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0583"
+      ],
+      "pre_requisitos": [
+         "FGA0085",
+         "FGA0159"
+      ]
+   },
+   {
+      "codigo": "FGA0168",
+      "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0155",
+         "FGA0417"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0249",
+      "nome": "DESENVOLVIMENTO AVANÇADO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0745"
+      ],
+      "pre_requisitos": [
+         "FGA0154 & FGA0157",
+         "FGA0160",
+         "FGA0159 & FGA0158 & ENE0277"
+      ]
+   },
+   {
+      "codigo": "FGA0084",
+      "nome": "DESENVOLVIMENTO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0394"
+      ],
+      "pre_requisitos": [
+         "CIC0004",
+         "CIC0007"
+      ]
+   },
+   {
+      "codigo": "FGA0174",
+      "nome": "DESENVOLVIMENTO SUSTENTÁVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0687"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0050",
+      "nome": "DINÂMICA DE ESTRUTURAS AEROESPACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0388"
+      ],
+      "pre_requisitos": [
+         "FGA0039 & FGA0102"
+      ]
+   },
+   {
+      "codigo": "FGA0230",
+      "nome": "DINÂMICA DE VEÍCULOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0040",
+         "FGA0250",
+         "FGA0428"
+      ],
+      "pre_requisitos": [
+         "FGA0179"
+      ]
+   },
+   {
+      "codigo": "FGA0204",
+      "nome": "DINÂMICA DOS FLUÍDOS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0003",
+         "FGA0038",
+         "FGA0424"
+      ],
+      "pre_requisitos": [
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "FGA0043",
+      "nome": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0281",
+         "FGA0289",
+         "FGA0386"
+      ],
+      "pre_requisitos": [
+         "FGA0038"
+      ]
+   },
+   {
+      "codigo": "FGA0023",
+      "nome": "DINÂMICA DOS MECANISMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0272",
+         "FGA0383"
+      ],
+      "pre_requisitos": [
+         "FGA0154"
+      ]
+   },
+   {
+      "codigo": "FGA0272",
+      "nome": "DINÂMICA MULTICORPOS VEICULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0767"
+      ],
+      "pre_requisitos": [
+         "FGA0023"
+      ]
+   },
+   {
+      "codigo": "FGA0265",
+      "nome": "ECONOMIA DE ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0203",
+         "FGA0526"
+      ],
+      "pre_requisitos": [
+         "FGA0133"
+      ]
+   },
+   {
+      "codigo": "FGA0122",
+      "nome": "EFICIÊNCIA ENERGÉTICA EM INSTALAÇÕES ELÉTRICAS INDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0644"
+      ],
+      "pre_requisitos": [
+         "FGA0086 & FGA0087"
+      ]
+   },
+   {
+      "codigo": "FGA0166",
+      "nome": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0500"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0186",
+      "nome": "ELETRICIDADE APLICADA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0088",
+         "FGA0089",
+         "FGA0226",
+         "FGA0696"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0116",
+      "nome": "ELETRÔNICA DE ALTA FREQUÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0638"
+      ],
+      "pre_requisitos": [
+         "FGA0143 & FGA0217",
+         "FGA0068 & FGA0070"
+      ]
+   },
+   {
+      "codigo": "FGA0057",
+      "nome": "ELETRÔNICA DE POTÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0582"
+      ],
+      "pre_requisitos": [
+         "FGA0086 & FGA0087 & FGA0068 & FGA0070"
+      ]
+   },
+   {
+      "codigo": "FGA0097",
+      "nome": "ELETRÔNICA DE RÁDIO FREQUÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0619"
+      ],
+      "pre_requisitos": [
+         "FGA0068"
+      ]
+   },
+   {
+      "codigo": "FGA0096",
+      "nome": "ELETRÔNICA EMBARCADA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0103",
+         "FGA0170",
+         "FGA0198",
+         "FGA0482"
+      ],
+      "pre_requisitos": [
+         "FGA0074 & FGA0072",
+         "ENE0278",
+         "FGA0142"
+      ]
+   },
+   {
+      "codigo": "FGA0226",
+      "nome": "ELETRÔNICA VEICULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0132",
+         "FGA0218",
+         "FGA0250",
+         "FGA0513"
+      ],
+      "pre_requisitos": [
+         "FGA0196",
+         "FGA0186",
+         "FGA0067 & FGA0069",
+         "FGA0086 & FGA0087"
+      ]
+   },
+   {
+      "codigo": "FGA0284",
+      "nome": "ENGENHARIA DE MANUTENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0778"
+      ],
+      "pre_requisitos": [
+         "FGA0184 & FGA0157"
+      ]
+   },
+   {
+      "codigo": "FGA0175",
+      "nome": "ENGENHARIA DE PETRÓLEO E GÁS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0422"
+      ],
+      "pre_requisitos": [
+         "IQD0125 & IQD0126",
+         "FGA0104"
+      ]
+   },
+   {
+      "codigo": "FGA0200",
+      "nome": "ENGENHARIA DE PRODUTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0707"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0206",
+      "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0001",
+         "FGA0250",
+         "FGA0510"
+      ],
+      "pre_requisitos": [
+         "FGA0242",
+         "FGA0171"
+      ]
+   },
+   {
+      "codigo": "FGA0148",
+      "nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0408"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0082",
+      "nome": "ENGENHARIA DE SISTEMAS AEROESPACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0604"
+      ],
+      "pre_requisitos": [
+         "FGA0049"
+      ]
+   },
+   {
+      "codigo": "FGA0131",
+      "nome": "ENGENHARIA DE SOFTWARE AUTOMOTIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0493"
+      ],
+      "pre_requisitos": [
+         "CIC0004"
+      ]
+   },
+   {
+      "codigo": "FGA0275",
+      "nome": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0531"
+      ],
+      "pre_requisitos": [
+         "FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0161",
+      "nome": "ENGENHARIA E AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0415"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0133",
+      "nome": "ENGENHARIA ECONÔMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0184",
+         "FGA0265",
+         "FGA0402"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0127",
+      "nome": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0649"
+      ],
+      "pre_requisitos": [
+         "FGA0126 & MAT0031",
+         "MAT0026 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "FGA0076",
+      "nome": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0469"
+      ],
+      "pre_requisitos": [
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "FGA0152",
+      "nome": "ERGONOMIA DO PRODUTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0498"
+      ],
+      "pre_requisitos": [
+         "FGA0155"
+      ]
+   },
+   {
+      "codigo": "FGA0021",
+      "nome": "ESTÁGIO SUPERVISIONADO",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "FGA0550"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0147",
+      "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0003",
+         "FGA0030",
+         "CIC0111",
+         "CIC0193",
+         "CIC0195",
+         "FGA0124",
+         "FGA0264",
+         "CIC0352",
+         "FGA0407",
+         "CIC0269"
+      ],
+      "pre_requisitos": [
+         "CIC0004"
+      ]
+   },
+   {
+      "codigo": "FGA0030",
+      "nome": "ESTRUTURAS DE DADOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0452"
+      ],
+      "pre_requisitos": [
+         "FGA0147"
+      ]
+   },
+   {
+      "codigo": "FGA0159",
+      "nome": "ESTRUTURAS MATEMÁTICAS PARA COMPUTAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0058",
+         "FGA0108",
+         "FGA0137",
+         "FGA0673"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0144",
+      "nome": "FÍSICA MODERNA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0183",
+         "FGA0406"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & IFD0171"
+      ]
+   },
+   {
+      "codigo": "FGA0113",
+      "nome": "FÍSICA PARA JOGOS ELETRÔNICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0635"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & IFD0171 & MAT0025"
+      ]
+   },
+   {
+      "codigo": "FGA0061",
+      "nome": "FÍSICA PARA JOGOS ELETRÔNICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0585"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & IFD0171 & MAT0025"
+      ]
+   },
+   {
+      "codigo": "FGA0114",
+      "nome": "FÍSICA PARA JOGOS ELETRÔNICOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0636"
+      ],
+      "pre_requisitos": [
+         "FGA0113 & FGA0264",
+         "FGA0113 & FGA0263"
+      ]
+   },
+   {
+      "codigo": "FGA0169",
+      "nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0418"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0143",
+      "nome": "FUNDAMENTOS DA TEORIA ELETROMAGNÉTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0100",
+         "FGA0101",
+         "ENE0195",
+         "FGA0662"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0142",
+      "nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0096",
+         "FGA0170",
+         "FGA0182",
+         "FGA0405"
+      ],
+      "pre_requisitos": [
+         "ENE0277",
+         "FGA0071 & FGA0073"
+      ]
+   },
+   {
+      "codigo": "FGA0026",
+      "nome": "FUNDAMENTOS DE ARQUITETURA DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0554"
+      ],
+      "pre_requisitos": [
+         "FGA0172"
+      ]
+   },
+   {
+      "codigo": "FGA0117",
+      "nome": "FUNDAMENTOS DE ENERGIA NUCLEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0639"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0006",
+      "nome": "FUNDAMENTOS DE EQUAÇÕES DIFERENCIAIS PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0440"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0293",
+      "nome": "FUNDAMENTOS DE MÉTODOS DE OTIMIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "FGA0160 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0379",
+      "nome": "FUNDAMENTOS DE PROPULSÃO ELÉTRICA VEICULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0787"
+      ],
+      "pre_requisitos": [
+         "FGA0086 & FGA0087"
+      ]
+   },
+   {
+      "codigo": "FGA0211",
+      "nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0511"
+      ],
+      "pre_requisitos": [
+         "FGA0170"
+      ]
+   },
+   {
+      "codigo": "FGA0109",
+      "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0399"
+      ],
+      "pre_requisitos": [
+         "FGA0170"
+      ]
+   },
+   {
+      "codigo": "FGA0170",
+      "nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0103",
+         "FGA0109",
+         "FGA0211",
+         "FGA0220",
+         "FGA0419"
+      ],
+      "pre_requisitos": [
+         "FGA0182",
+         "FGA0096",
+         "FGA0142"
+      ]
+   },
+   {
+      "codigo": "FGA0066",
+      "nome": "FUNDAMENTOS DE VARIÁVEL COMPLEXA PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0590"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "FGA0286",
+      "nome": "FUNDAMENTOS DO MÉTODO DOS ELEMENTOS FINITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0447"
+      ],
+      "pre_requisitos": [
+         "FGA0160 & FGA0179 & ENM0080"
+      ]
+   },
+   {
+      "codigo": "FGA0282",
+      "nome": "FUNDAMENTOS DO PROJETO DE AERONAVES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0435"
+      ],
+      "pre_requisitos": [
+         "FGA0039 & FGA0045"
+      ]
+   },
+   {
+      "codigo": "FGA0245",
+      "nome": "GERÊNCIA DE CONFIGURAÇÃO DE SOFTWARE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0741"
+      ],
+      "pre_requisitos": [
+         "FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0240",
+      "nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0430"
+      ],
+      "pre_requisitos": [
+         "FGA0238"
+      ]
+   },
+   {
+      "codigo": "FGA0141",
+      "nome": "GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0130",
+         "FGA0496"
+      ],
+      "pre_requisitos": [
+         "FGA0161 & FGA0184"
+      ]
+   },
+   {
+      "codigo": "FGA0195",
+      "nome": "GESTÃO DA PRODUÇÃO AUTOMOTIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0035",
+         "ENM0187",
+         "ENM0192",
+         "FGA0508"
+      ],
+      "pre_requisitos": [
+         "FGA0184"
+      ]
+   },
+   {
+      "codigo": "FGA0184",
+      "nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0195",
+         "FGA0212",
+         "FGA0223",
+         "FGA0423"
+      ],
+      "pre_requisitos": [
+         "FGA0133"
+      ]
+   },
+   {
+      "codigo": "FGA0223",
+      "nome": "GESTÃO DE PROJETOS EM ENGENHARIA BIOMÉDICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0727"
+      ],
+      "pre_requisitos": [
+         "FGA0184"
+      ]
+   },
+   {
+      "codigo": "FGA0164",
+      "nome": "HUMANIDADES E CIDADANIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0115",
+         "FGA0499"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0115",
+      "nome": "INFORMAÇÃO, COMUNICAÇÃO E A SOCIEDADE DO CONHECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0637"
+      ],
+      "pre_requisitos": [
+         "FGA0164"
+      ]
+   },
+   {
+      "codigo": "FGA0202",
+      "nome": "INFORMÁTICA EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0709"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0181",
+      "nome": "INOVAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0692"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0222",
+      "nome": "INSTRUMENTAÇÃO BIOMÉDICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0258",
+         "FGA0726"
+      ],
+      "pre_requisitos": [
+         "FGA0068 & FGA0070"
+      ]
+   },
+   {
+      "codigo": "FGA0258",
+      "nome": "INSTRUMENTAÇÃO BIOMÉDICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0444"
+      ],
+      "pre_requisitos": [
+         "FGA0222"
+      ]
+   },
+   {
+      "codigo": "FGA0218",
+      "nome": "INSTRUMENTAÇÃO ELETRÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0233",
+         "FGA0250",
+         "FGA0722"
+      ],
+      "pre_requisitos": [
+         "FGA0196",
+         "FGA0226",
+         "FGA0067 & FGA0069"
+      ]
+   },
+   {
+      "codigo": "FGA0132",
+      "nome": "INSTRUMENTAÇÃO ELETRÔNICA PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0494"
+      ],
+      "pre_requisitos": [
+         "FGA0068 & FGA0070",
+         "FGA0217",
+         "FGA0226"
+      ]
+   },
+   {
+      "codigo": "FGA0253",
+      "nome": "INSTRUMENTAÇÃO E SISTEMAS DE CONTROLE",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0749"
+      ],
+      "pre_requisitos": [
+         "FGA0188 & FGA0196 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "FGA0232",
+      "nome": "INTEGRAÇÃO E TESTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0515"
+      ],
+      "pre_requisitos": [
+         "FGA0188"
+      ]
+   },
+   {
+      "codigo": "FGA0257",
+      "nome": "INTEGRIDADES DE SINAIS E DESIGN DE CIRCUITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0753"
+      ],
+      "pre_requisitos": [
+         "FGA0196",
+         "FGA0067 & FGA0069"
+      ]
+   },
+   {
+      "codigo": "FGA0221",
+      "nome": "INTELIGÊNCIA ARTIFICIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0442"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0173",
+      "nome": "INTERAÇÃO HUMANO COMPUTADOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0421"
+      ],
+      "pre_requisitos": [
+         "FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0264",
+      "nome": "INTRODUÇÃO A COMPUTAÇÃO GRÁFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0760"
+      ],
+      "pre_requisitos": [
+         "FGA0147"
+      ]
+   },
+   {
+      "codigo": "FGA0163",
+      "nome": "INTRODUÇÃO À ENGENHARIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0416"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0292",
+      "nome": "INTRODUÇÃO À FOTÔNICA E OPTRÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0786"
+      ],
+      "pre_requisitos": [
+         "FGA0067 & FGA0069 & FGA0100 & FGA0101"
+      ]
+   },
+   {
+      "codigo": "FGA0125",
+      "nome": "INTRODUÇÃO À GEOMETRIA ANALÍTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0647"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0285",
+      "nome": "INTRODUÇÃO À MECÂNICA DA FRATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0436"
+      ],
+      "pre_requisitos": [
+         "FGA0179  &  FGA0190"
+      ]
+   },
+   {
+      "codigo": "FGA0077",
+      "nome": "INTRODUÇÃO AO DESGASTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0470"
+      ],
+      "pre_requisitos": [
+         "FGA0055 & FGA0056"
+      ]
+   },
+   {
+      "codigo": "FGA0155",
+      "nome": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0152",
+         "FGA0410"
+      ],
+      "pre_requisitos": [
+         "FGA0168"
+      ]
+   },
+   {
+      "codigo": "FGA0263",
+      "nome": "INTRODUÇÃO AOS JOGOS ELETRÔNICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0759"
+      ],
+      "pre_requisitos": [
+         "FGA0158 & FGA0147"
+      ]
+   },
+   {
+      "codigo": "FGA0111",
+      "nome": "INTRODUÇÃO À WEB SEMÂNTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0633"
+      ],
+      "pre_requisitos": [
+         "FGA0137"
+      ]
+   },
+   {
+      "codigo": "FGA0087",
+      "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0475"
+      ],
+      "pre_requisitos": [
+         "FGA0187",
+         "FGA0067 & FGA0069"
+      ]
+   },
+   {
+      "codigo": "FGA0075",
+      "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FGA0468"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "FGA0107",
+      "nome": "LABORATÓRIO DE ONDULATÓRIA E FÍSICA TÉRMICA PARA A ENGENHARIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0629"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & IFD0173"
+      ]
+   },
+   {
+      "codigo": "FGA0089",
+      "nome": "LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0477"
+      ],
+      "pre_requisitos": [
+         "FGA0186",
+         "FGA0086 & FGA0087"
+      ]
+   },
+   {
+      "codigo": "FGA0091",
+      "nome": "MÁQUINAS DE FLUIDO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0251",
+         "FGA0252",
+         "FGA0479"
+      ],
+      "pre_requisitos": [
+         "ENM0071"
+      ]
+   },
+   {
+      "codigo": "FGA0247",
+      "nome": "MÁQUINAS DE FLUXO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0521"
+      ],
+      "pre_requisitos": [
+         "FGA0204 & ENM0068"
+      ]
+   },
+   {
+      "codigo": "FGA0005",
+      "nome": "MATEMÁTICA APLICADA A SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0439"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0085",
+      "nome": "MATEMÁTICA DISCRETA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0058",
+         "FGA0108",
+         "FGA0473"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0108",
+      "nome": "MATEMÁTICA DISCRETA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0137",
+         "FGA0398"
+      ],
+      "pre_requisitos": [
+         "FGA0085",
+         "FGA0159"
+      ]
+   },
+   {
+      "codigo": "FGA0191",
+      "nome": "MATERIAIS COMPOSTOS E PLÁSTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0506"
+      ],
+      "pre_requisitos": [
+         "FGA0075 & FGA0078"
+      ]
+   },
+   {
+      "codigo": "FGA0139",
+      "nome": "MATERIAIS DE CONSTRUÇÃO DE ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0180",
+         "ENM0189",
+         "FGA0659"
+      ],
+      "pre_requisitos": [
+         "IQD0051"
+      ]
+   },
+   {
+      "codigo": "FGA0183",
+      "nome": "MATERIAIS ELÉTRICOS E MAGNÉTICOS PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0694"
+      ],
+      "pre_requisitos": [
+         "FGA0144"
+      ]
+   },
+   {
+      "codigo": "FGA0039",
+      "nome": "MECÂNICA DE ESTRUTURAS AEROESPACIAIS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0385",
+         "FGA0291"
+      ],
+      "pre_requisitos": [
+         "FGA0179"
+      ]
+   },
+   {
+      "codigo": "FGA0291",
+      "nome": "MECÂNICA DE ESTRUTURAS AERONÁUTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0785"
+      ],
+      "pre_requisitos": [
+         "FGA0039"
+      ]
+   },
+   {
+      "codigo": "FGA0283",
+      "nome": "MECÂNICA DOS MATERIAIS COMPÓSITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0446"
+      ],
+      "pre_requisitos": [
+         "FGA0179",
+         "FGA0178"
+      ]
+   },
+   {
+      "codigo": "FGA0154",
+      "nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0023",
+         "FGA0179",
+         "FGA0409"
+      ],
+      "pre_requisitos": [
+         "IFD0171"
+      ]
+   },
+   {
+      "codigo": "FGA0179",
+      "nome": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0039",
+         "FGA0190",
+         "FGA0229",
+         "FGA0230",
+         "FGA0266",
+         "FGA0283",
+         "FGA0503"
+      ],
+      "pre_requisitos": [
+         "FGA0154"
+      ]
+   },
+   {
+      "codigo": "FGA0045",
+      "nome": "MECÂNICA DO VÔO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0048",
+         "FGA0455"
+      ],
+      "pre_requisitos": [
+         "FGA0008 & FGA0038"
+      ]
+   },
+   {
+      "codigo": "FGA0048",
+      "nome": "MECÂNICA DO VOO ESPACIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0457"
+      ],
+      "pre_requisitos": [
+         "FGA0045"
+      ]
+   },
+   {
+      "codigo": "FGA0209",
+      "nome": "MEDIÇÃO E ANÁLISE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0714"
+      ],
+      "pre_requisitos": [
+         "FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0273",
+      "nome": "MELHORIA DE PROCESSOS DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0433"
+      ],
+      "pre_requisitos": [
+         "FGA0237",
+         "FGA0238"
+      ]
+   },
+   {
+      "codigo": "FGA0138",
+      "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0172",
+         "FGA0173",
+         "FGA0209",
+         "FGA0238",
+         "FGA0245",
+         "FGA0275",
+         "FGA0404"
+      ],
+      "pre_requisitos": [
+         "FGA0158"
+      ]
+   },
+   {
+      "codigo": "FGA0046",
+      "nome": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0456"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0188",
+      "nome": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0232",
+         "FGA0233",
+         "FGA0504"
+      ],
+      "pre_requisitos": [
+         "IFD0173"
+      ]
+   },
+   {
+      "codigo": "FGA0246",
+      "nome": "MÉTODOS FORMAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0742"
+      ],
+      "pre_requisitos": [
+         "FGA0159 & FGA0171 & FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0187",
+      "nome": "MÉTODOS MATEMÁTICOS PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0086",
+         "FGA0087",
+         "FGA0092",
+         "FGA0093",
+         "FGA0197",
+         "FGA0199",
+         "FGA0219",
+         "FGA0697"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0160",
+      "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0249",
+         "FGA0414"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "FGA0182",
+      "nome": "MICROPROCESSADORES E MICROCONTROLADORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0103",
+         "FGA0170",
+         "FGA0198",
+         "FGA0220",
+         "FGA0693"
+      ],
+      "pre_requisitos": [
+         "ENE0278",
+         "FGA0142",
+         "FGA0072 & FGA0074"
+      ]
+   },
+   {
+      "codigo": "FGA0212",
+      "nome": "MODELAGEM DE PROCESSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0717"
+      ],
+      "pre_requisitos": [
+         "FGA0184"
+      ]
+   },
+   {
+      "codigo": "FGA0259",
+      "nome": "MODELAGEM DE SISTEMAS BIOLÓGICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0524"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0024",
+      "nome": "MODELAGEM E SIMULAÇÃO DE SISTEMAS ENERGÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0552"
+      ],
+      "pre_requisitos": [
+         "FGA0204 & FGA0186 & FGA0160"
+      ]
+   },
+   {
+      "codigo": "FGA0090",
+      "nome": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0478"
+      ],
+      "pre_requisitos": [
+         "MAT0025 & IFD0171 & IFD0173"
+      ]
+   },
+   {
+      "codigo": "FGA0158",
+      "nome": "ORIENTAÇÃO A OBJETOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0138",
+         "FGA0171",
+         "FGA0413"
+      ],
+      "pre_requisitos": [
+         "CIC0004",
+         "CIC0007"
+      ]
+   },
+   {
+      "codigo": "FGA0210",
+      "nome": "PARADIGMAS DE PROGRAMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0426"
+      ],
+      "pre_requisitos": [
+         "FGA0158 & FGA0003"
+      ]
+   },
+   {
+      "codigo": "FGA0203",
+      "nome": "PLANEJAMENTO E GESTÃO DE ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0710"
+      ],
+      "pre_requisitos": [
+         "FGA0265"
+      ]
+   },
+   {
+      "codigo": "FGA0069",
+      "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0391"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "FGA0070",
+      "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0019",
+         "ENE0321",
+         "FGA0465"
+      ],
+      "pre_requisitos": [
+         "FGA0196",
+         "FGA0067 & FGA0069 & FGA0101 & FGA0100"
+      ]
+   },
+   {
+      "codigo": "FGA0098",
+      "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0483"
+      ],
+      "pre_requisitos": [
+         "FGA0017"
+      ]
+   },
+   {
+      "codigo": "FGA0120",
+      "nome": "PRÁTICA DE ELETROMAGNETISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0489"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0071",
+      "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0392"
+      ],
+      "pre_requisitos": [
+         "MAT0031"
+      ]
+   },
+   {
+      "codigo": "FGA0072",
+      "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0466"
+      ],
+      "pre_requisitos": [
+         "ENE0277",
+         "FGA0073 & FGA0071"
+      ]
+   },
+   {
+      "codigo": "FGA0100",
+      "nome": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0484"
+      ],
+      "pre_requisitos": [
+         "FGA0143",
+         "FGA0119 & FGA0120"
+      ]
+   },
+   {
+      "codigo": "FGA0036",
+      "nome": "PRÉ-CÁLCULO PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0562"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0010",
+      "nome": "PRINCÍPIO DE COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0540"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0199",
+      "nome": "PRINCÍPIOS DE COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0065",
+         "ENE0223",
+         "FGA0224",
+         "FGA0706"
+      ],
+      "pre_requisitos": [
+         "FGA0187"
+      ]
+   },
+   {
+      "codigo": "FGA0092",
+      "nome": "PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0224",
+         "FGA0480"
+      ],
+      "pre_requisitos": [
+         "FGA0187",
+         "FGA0102 & FGA0067"
+      ]
+   },
+   {
+      "codigo": "FGA0093",
+      "nome": "PRINCÍPIOS DE CONTROLE",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0044",
+         "FGA0395"
+      ],
+      "pre_requisitos": [
+         "FGA0187",
+         "FGA0102"
+      ]
+   },
+   {
+      "codigo": "FGA0027",
+      "nome": "PRINCÍPIOS DE ROBÓTICA EDUCACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0555"
+      ],
+      "pre_requisitos": [
+         "CIC0007"
+      ]
+   },
+   {
+      "codigo": "FGA0157",
+      "nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0412"
+      ],
+      "pre_requisitos": [
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "FGA0219",
+      "nome": "PROCESSAMENTO DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0014",
+         "FGA0015",
+         "ENE0065",
+         "FGA0512"
+      ],
+      "pre_requisitos": [
+         "FGA0187",
+         "FGA0102"
+      ]
+   },
+   {
+      "codigo": "FGA0014",
+      "nome": "PROCESSAMENTO DE SINAIS BIOLÓGICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0544"
+      ],
+      "pre_requisitos": [
+         "FGA0219"
+      ]
+   },
+   {
+      "codigo": "FGA0015",
+      "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0450"
+      ],
+      "pre_requisitos": [
+         "FGA0219",
+         "FGA0102 & FGA0157"
+      ]
+   },
+   {
+      "codigo": "FGA0129",
+      "nome": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0491"
+      ],
+      "pre_requisitos": [
+         "FGA0102",
+         "MAT0026 & FGA0157"
+      ]
+   },
+   {
+      "codigo": "FGA0165",
+      "nome": "PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0678"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0180",
+      "nome": "PROCESSOS DE FABRICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0691"
+      ],
+      "pre_requisitos": [
+         "FGA0139"
+      ]
+   },
+   {
+      "codigo": "FGA0380",
+      "nome": "PROCESSOS ESTOCÁSTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0788"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0047",
+      "nome": "PROCESSOS PETROQUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0387"
+      ],
+      "pre_requisitos": [
+         "FGA0156 & FGA0175"
+      ]
+   },
+   {
+      "codigo": "FGA0274",
+      "nome": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0530"
+      ],
+      "pre_requisitos": [
+         "FGA0164 & FGA0206"
+      ]
+   },
+   {
+      "codigo": "FGA0028",
+      "nome": "PROGRAMAÇÃO PARA COMPETIÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0556"
+      ],
+      "pre_requisitos": [
+         "CIC0004"
+      ]
+   },
+   {
+      "codigo": "FGA0244",
+      "nome": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0520"
+      ],
+      "pre_requisitos": [
+         "FGA0211 & FGA0030"
+      ]
+   },
+   {
+      "codigo": "FGA0279",
+      "nome": "PROGRAMAÇÃO WEB",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0773"
+      ],
+      "pre_requisitos": [
+         "FGA0137 & FGA0171"
+      ]
+   },
+   {
+      "codigo": "FGA0198",
+      "nome": "PROJETO COM CIRCUITOS RECONFIGURAVEIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0705"
+      ],
+      "pre_requisitos": [
+         "FGA0182",
+         "FGA0096"
+      ]
+   },
+   {
+      "codigo": "FGA0124",
+      "nome": "PROJETO DE ALGORITMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0401"
+      ],
+      "pre_requisitos": [
+         "FGA0147"
+      ]
+   },
+   {
+      "codigo": "FGA0215",
+      "nome": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0280",
+         "FGA0720"
+      ],
+      "pre_requisitos": [
+         "FGA0196",
+         "ENE0181",
+         "FGA0067 & FGA0069"
+      ]
+   },
+   {
+      "codigo": "FGA0280",
+      "nome": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0445"
+      ],
+      "pre_requisitos": [
+         "FGA0215",
+         "FGA0017"
+      ]
+   },
+   {
+      "codigo": "FGA0201",
+      "nome": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0441"
+      ],
+      "pre_requisitos": [
+         "ENE0278",
+         "FGA0074 & FGA0072"
+      ]
+   },
+   {
+      "codigo": "FGA0190",
+      "nome": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0228",
+         "FGA0505"
+      ],
+      "pre_requisitos": [
+         "FGA0179"
+      ]
+   },
+   {
+      "codigo": "FGA0267",
+      "nome": "PROJETO DE ESTRUTURAS DE VEICULOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0271",
+         "FGA0528"
+      ],
+      "pre_requisitos": [
+         "FGA0228"
+      ]
+   },
+   {
+      "codigo": "FGA0256",
+      "nome": "PROJETO DE SENSORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0752"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0049",
+      "nome": "PROJETO DE SISTEMAS AEROESPACIAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0082",
+         "FGA0575"
+      ],
+      "pre_requisitos": [
+         "FGA0038 & FGA0045"
+      ]
+   },
+   {
+      "codigo": "FGA0228",
+      "nome": "PROJETO DE SISTEMAS AUTOMOTIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0250",
+         "FGA0267",
+         "FGA0427"
+      ],
+      "pre_requisitos": [
+         "FGA0190"
+      ]
+   },
+   {
+      "codigo": "FGA0044",
+      "nome": "PROJETO DE SISTEMAS DE CONTROLE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0080",
+         "FGA0570"
+      ],
+      "pre_requisitos": [
+         "FGA0197",
+         "FGA0093"
+      ]
+   },
+   {
+      "codigo": "FGA0062",
+      "nome": "PROJETO DE SISTEMAS DE OBSERVAÇÃO DA TERRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0586"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0271",
+      "nome": "PROJETO DE VEÍCULOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0766"
+      ],
+      "pre_requisitos": [
+         "FGA0267"
+      ]
+   },
+   {
+      "codigo": "FGA0020",
+      "nome": "PROJETO E ANÁLISE DE ALGORITMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0549"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0150",
+      "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0250",
+         "FGA0497"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0250",
+      "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0522"
+      ],
+      "pre_requisitos": [
+         "FGA0150",
+         "ENM0071",
+         "ENE0130",
+         "FGA0230",
+         "FGA0228",
+         "FGA0226",
+         "FGA0217",
+         "FGA0218",
+         "FGA0220",
+         "FGA0206",
+         "FGA0088 & FGA0089",
+         "FGA0103"
+      ]
+   },
+   {
+      "codigo": "FGA0017",
+      "nome": "PROJETOS DE CIRCUITOS INTEGRADOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0098",
+         "FGA0099",
+         "FGA0280",
+         "FGA0382"
+      ],
+      "pre_requisitos": [
+         "ENE0181",
+         "FGA0217",
+         "FGA0068 & FGA0070"
+      ]
+   },
+   {
+      "codigo": "FGA0052",
+      "nome": "PROPULSÃO AEROESPACIAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0064",
+         "FGA0458"
+      ],
+      "pre_requisitos": [
+         "FGA0043 & ENM0071"
+      ]
+   },
+   {
+      "codigo": "FGA0063",
+      "nome": "PROPULSÃO AERONÁUTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0462"
+      ],
+      "pre_requisitos": [
+         "FGA0043 & ENM0071"
+      ]
+   },
+   {
+      "codigo": "FGA0065",
+      "nome": "PROPULSÃO ELÉTRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0463"
+      ],
+      "pre_requisitos": [
+         "FGA0052 & FGA0143"
+      ]
+   },
+   {
+      "codigo": "FGA0064",
+      "nome": "PROPULSÃO QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0588"
+      ],
+      "pre_requisitos": [
+         "FGA0052"
+      ]
+   },
+   {
+      "codigo": "FGA0278",
+      "nome": "QUALIDADE DE SOFTWARE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0112",
+         "FGA0434"
+      ],
+      "pre_requisitos": [
+         "FGA0184 & FGA0173"
+      ]
+   },
+   {
+      "codigo": "FGA0112",
+      "nome": "QUALIDADE DE SOFTWARE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0634"
+      ],
+      "pre_requisitos": [
+         "FGA0278"
+      ]
+   },
+   {
+      "codigo": "FGA0104",
+      "nome": "QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0156",
+         "FGA0175",
+         "FGA0397"
+      ],
+      "pre_requisitos": [
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "FGA0130",
+      "nome": "REGULAÇÃO AMBIENTAL NO SETOR ENERGÉTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0492"
+      ],
+      "pre_requisitos": [
+         "FGA0141"
+      ]
+   },
+   {
+      "codigo": "FGA0172",
+      "nome": "REQUISITOS DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0004",
+         "FGA0026",
+         "FGA0208",
+         "FGA0420"
+      ],
+      "pre_requisitos": [
+         "FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0031",
+      "nome": "SEMINÁRIOS EM ENGENHARIA DE SOFTWARE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0558"
+      ],
+      "pre_requisitos": [
+         "CIC0007",
+         "CIC0088"
+      ]
+   },
+   {
+      "codigo": "FGA0233",
+      "nome": "SENSORES E TRANSDUTORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0516"
+      ],
+      "pre_requisitos": [
+         "FGA0188",
+         "FGA0218"
+      ]
+   },
+   {
+      "codigo": "FGA0102",
+      "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "CIC0196",
+         "FGA0093",
+         "FGA0129",
+         "FGA0219",
+         "FGA0486"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & CIC0004",
+         "MAT0027 & CIC0088",
+         "MAT0027 & CIC0007"
+      ]
+   },
+   {
+      "codigo": "FGA0008",
+      "nome": "SISTEMAS AEROESPACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0449"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & FGA0254"
+      ]
+   },
+   {
+      "codigo": "FGA0167",
+      "nome": "SISTEMAS AUTOMOTIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0501"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0213",
+      "nome": "SISTEMAS CRÍTICOS E TOLERÂNCIA A FALHAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0718"
+      ],
+      "pre_requisitos": [
+         "CIC0007 & ENE0277"
+      ]
+   },
+   {
+      "codigo": "FGA0137",
+      "nome": "SISTEMAS DE BANCO DE DADOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0060",
+         "FGA0111",
+         "FGA0276",
+         "FGA0403"
+      ],
+      "pre_requisitos": [
+         "FGA0159",
+         "FGA0108"
+      ]
+   },
+   {
+      "codigo": "FGA0060",
+      "nome": "SISTEMAS DE BANCO DE DADOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0389"
+      ],
+      "pre_requisitos": [
+         "FGA0137"
+      ]
+   },
+   {
+      "codigo": "FGA0197",
+      "nome": "SISTEMAS DE CONTROLE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0001",
+         "FGA0044",
+         "ENE0167",
+         "FGA0509"
+      ],
+      "pre_requisitos": [
+         "FGA0187"
+      ]
+   },
+   {
+      "codigo": "FGA0012",
+      "nome": "SISTEMAS DE CONTROLE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0167",
+         "FGA0542"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0040",
+      "nome": "SISTEMAS DE CONTROLE AUTOMOTIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0454"
+      ],
+      "pre_requisitos": [
+         "FGA0230"
+      ]
+   },
+   {
+      "codigo": "FGA0025",
+      "nome": "SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0451"
+      ],
+      "pre_requisitos": [
+         "FGA0086 & FGA0087"
+      ]
+   },
+   {
+      "codigo": "FGA0118",
+      "nome": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0488"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0248",
+      "nome": "SISTEMAS DE PROPULSÃO HÍBRIDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0744"
+      ],
+      "pre_requisitos": [
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "FGA0281",
+      "nome": "SISTEMAS DE PROPULSÃO LIQUIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0775"
+      ],
+      "pre_requisitos": [
+         "FGA0043"
+      ]
+   },
+   {
+      "codigo": "FGA0289",
+      "nome": "SISTEMAS DE PROPULSÃO SÓLIDA E HÍBRIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0448"
+      ],
+      "pre_requisitos": [
+         "FGA0043"
+      ]
+   },
+   {
+      "codigo": "FGA0220",
+      "nome": "SISTEMAS EMBARCADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0250",
+         "FGA0724"
+      ],
+      "pre_requisitos": [
+         "FGA0182",
+         "FGA0170"
+      ]
+   },
+   {
+      "codigo": "FGA0270",
+      "nome": "SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0529"
+      ],
+      "pre_requisitos": [
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "FGA0252",
+      "nome": "SISTEMAS HIDROELÉTRICOS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0523"
+      ],
+      "pre_requisitos": [
+         "FGA0091"
+      ]
+   },
+   {
+      "codigo": "FGA0103",
+      "nome": "SISTEMAS OPERACIONAIS EMBARCADOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0250",
+         "FGA0487"
+      ],
+      "pre_requisitos": [
+         "FGA0096",
+         "FGA0182",
+         "FGA0170"
+      ]
+   },
+   {
+      "codigo": "FGA0004",
+      "nome": "TÉCNICAS DE MEDIÇÃO FUNCIONAL E ESTIMATIVAS DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0438"
+      ],
+      "pre_requisitos": [
+         "FGA0172"
+      ]
+   },
+   {
+      "codigo": "FGA0171",
+      "nome": "TÉCNICAS DE PROGRAMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0206",
+         "FGA0684"
+      ],
+      "pre_requisitos": [
+         "FGA0158"
+      ]
+   },
+   {
+      "codigo": "FGA0242",
+      "nome": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0206",
+         "FGA0519"
+      ],
+      "pre_requisitos": [
+         "FGA0208 & FGA0238"
+      ]
+   },
+   {
+      "codigo": "FGA0055",
+      "nome": "TECNOLOGIAS DE FABRICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0460"
+      ],
+      "pre_requisitos": [
+         "FGA0078 & FGA0075"
+      ]
+   },
+   {
+      "codigo": "FGA0056",
+      "nome": "TECNOLOGIAS DE FABRICAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0461"
+      ],
+      "pre_requisitos": [
+         "FGA0078 & FGA0075"
+      ]
+   },
+   {
+      "codigo": "FGA0067",
+      "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0390"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "FGA0068",
+      "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0019",
+         "FGA0097",
+         "ENE0321",
+         "FGA0464"
+      ],
+      "pre_requisitos": [
+         "FGA0196",
+         "FGA0067 & FGA0069 & FGA0101 & FGA0100"
+      ]
+   },
+   {
+      "codigo": "FGA0099",
+      "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0396"
+      ],
+      "pre_requisitos": [
+         "FGA0017"
+      ]
+   },
+   {
+      "codigo": "FGA0086",
+      "nome": "TEORIA DE ELETRICIDADE APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0474"
+      ],
+      "pre_requisitos": [
+         "FGA0187",
+         "FGA0067 & FGA0069"
+      ]
+   },
+   {
+      "codigo": "FGA0119",
+      "nome": "TEORIA DE ELETROMAGNETISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0400"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "FGA0073",
+      "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0393"
+      ],
+      "pre_requisitos": [
+         "MAT0031"
+      ]
+   },
+   {
+      "codigo": "FGA0074",
+      "nome": "TEORIA DE ELETRÔNICA DIGITAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0467"
+      ],
+      "pre_requisitos": [
+         "ENE0277",
+         "FGA0073 & FGA0071"
+      ]
+   },
+   {
+      "codigo": "FGA0101",
+      "nome": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0485"
+      ],
+      "pre_requisitos": [
+         "FGA0143",
+         "FGA0119 & FGA0120"
+      ]
+   },
+   {
+      "codigo": "FGA0078",
+      "nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FGA0471"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "FGA0088",
+      "nome": "TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0476"
+      ],
+      "pre_requisitos": [
+         "FGA0186",
+         "FGA0086 & FGA0087"
+      ]
+   },
+   {
+      "codigo": "FGA0238",
+      "nome": "TESTES DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0240",
+         "FGA0273",
+         "FGA0429"
+      ],
+      "pre_requisitos": [
+         "FGA0138"
+      ]
+   },
+   {
+      "codigo": "FGA0260",
+      "nome": "TÓPICOS AVANÇADOS EM ELETROMAGNETISMO APLICADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0756"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0019",
+      "nome": "TÓPICOS EM SISTEMAS DE COMPUTAÇÃO DE ALTO DESEMPENHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0548"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0235",
+      "nome": "TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0517"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0105",
+      "nome": "TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0627"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0106",
+      "nome": "TÓPICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0628"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0121",
+      "nome": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0490"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0134",
+      "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0495"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0261",
+      "nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0525"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0037",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0453"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0214",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0719"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0033",
+      "nome": "TÓPICOS ESPECIAIS EM FÍSICA APLICADA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FGA0559"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "FGA0054",
+      "nome": "TÓPICOS ESPECIAIS EM GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0579"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0041",
+      "nome": "TÓPICOS ESPECIAIS EM JOGOS DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0567"
+      ],
+      "pre_requisitos": [
+         "CIC0007",
+         "CIC0088"
+      ]
+   },
+   {
+      "codigo": "FGA0034",
+      "nome": "TÓPICOS ESPECIAIS EM MATEMÁTICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0560"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "FGA0053",
+      "nome": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0459"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0042",
+      "nome": "TÓPICOS ESPECIAIS EM SISTEMAS CRÍTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0568"
+      ],
+      "pre_requisitos": [
+         "CIC0007",
+         "CIC0088"
+      ]
+   },
+   {
+      "codigo": "FGA0016",
+      "nome": "TÓPICOS ESPECIAL EM INSTRUMENTAÇÃO BIOMÉDICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0546"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0009",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FGA0011",
+         "FGA0290",
+         "FGA0539"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FGA0011",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0541"
+      ],
+      "pre_requisitos": [
+         "FGA0287",
+         "FGA0009"
+      ]
+   },
+   {
+      "codigo": "FGA0262",
+      "nome": "TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FGA0035",
+         "FGA0432"
+      ],
+      "pre_requisitos": [
+         "FGA0086 & FGA0087"
+      ]
+   }
 ]

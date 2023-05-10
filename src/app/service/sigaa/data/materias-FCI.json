@@ -1,1294 +1,1378 @@
 [
-  {
-    "cod": "FCI0106",
-    "nome": "ACERVOS AUDIOVISUAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0298"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0118",
-    "nome": "ACESSO E DIFUS\u00c3O DAS INFORMA\u00c7\u00d5ES ARQUIV\u00cdSTICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0194"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0009",
-    "nome": "AGENTES E AG\u00caNCIAS DO PATRIM\u00d4NIO CULTURAL NO BRASIL",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0158"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0046",
-    "nome": "ANALISE DA INFORMACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0025"
-    ],
-    "pre_requirements": [
-      "FCI0053",
-      "FCI0023",
-      "FCI0014",
-      "FCI0064"
-    ]
-  },
-  {
-    "cod": "FCI0096",
-    "nome": "ANTROPOLOGIA DOS MUSEUS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0288"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0083",
-    "nome": "ARQUIVO, CINEMA, INFORMA\u00c7\u00c3O E MEM\u00d3RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0276"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0063",
-    "nome": "ARQUIVO CORRENTE 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0050"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0064",
-    "nome": "ARQUIVO CORRENTE 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0046"
-    ],
-    "pre_requirements": [
-      "FCI0063"
-    ]
-  },
-  {
-    "cod": "FCI0065",
-    "nome": "ARQUIVO INTERMEDIARIO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0067"
-    ],
-    "pre_requirements": [
-      "FCI0064"
-    ]
-  },
-  {
-    "cod": "FCI0107",
-    "nome": "ARQUIVOLOGIA E EXTENS\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0299"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0108",
-    "nome": "ARQUIVOLOGIA E EXTENS\u00c3O 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0300"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0067",
-    "nome": "ARQUIVO PERMANENTE 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0147"
-    ],
-    "pre_requirements": [
-      "FCI0065"
-    ]
-  },
-  {
-    "cod": "FCI0068",
-    "nome": "ARQUIVO PERMANENTE 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0070"
-    ],
-    "pre_requirements": [
-      "FCI0067 & FCI0066"
-    ]
-  },
-  {
-    "cod": "FCI0109",
-    "nome": "ARQUIVOS DE ORGANIZA\u00c7\u00d5ES DE DIREITO PRIVADO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0301"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0110",
-    "nome": "ARQUIVOS E DIREITOS HUMANOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0302"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0111",
-    "nome": "ARQUIVOS E MEM\u00d3RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0303"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0112",
-    "nome": "ARQUIVOS PESSOAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0304"
-    ],
-    "pre_requirements": [
-      "FCI0120"
-    ]
-  },
-  {
-    "cod": "FCI0119",
-    "nome": "AVALIA\u00c7\u00c3O ARQUIV\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0124"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0025",
-    "nome": "BIBLIOGRAFIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0055"
-    ],
-    "pre_requirements": [
-      "FCI0053",
-      "FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0043",
-    "nome": "BIBLIOGRAFIA BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0237"
-    ],
-    "pre_requirements": [
-      "FCI0053"
-    ]
-  },
-  {
-    "cod": "FCI0057",
-    "nome": "BIBLIOGRAFIA ESPECIALIZADA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0251"
-    ],
-    "pre_requirements": [
-      "FCI0053"
-    ]
-  },
-  {
-    "cod": "FCI0044",
-    "nome": "BIBLIOGRAFIA ESPECIALIZADA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0238"
-    ],
-    "pre_requirements": [
-      "FCI0053"
-    ]
-  },
-  {
-    "cod": "FCI0049",
-    "nome": "BIBLIOTECONOMIA E SOCIEDADE BRASILEIRA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0176"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0029",
-    "nome": "CATALOGACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0030"
-    ],
-    "pre_requirements": [
-      "FCI0053",
-      "FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0031",
-    "nome": "CLASSIFICACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0032"
-    ],
-    "pre_requirements": [
-      "FCI0053",
-      "FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0120",
-    "nome": "CLASSIFICA\u00c7\u00c3O ARQUIV\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0066"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0071",
-    "nome": "CONSERVACAO E RESTAURACAO DE DOCUMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0042"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0053",
-    "nome": "CONTROLE BIBLIOGRAFICO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0025"
-    ],
-    "pre_requirements": [
-      "FCI0023",
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0121",
-    "nome": "DESCRI\u00c7\u00c3O ARQUIV\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0127"
-    ],
-    "pre_requirements": [
-      "FCI0129"
-    ]
-  },
-  {
-    "cod": "FCI0066",
-    "nome": "DIPLOMATICA E TIPOLOGIA DOCUMENTAL",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0185"
-    ],
-    "pre_requirements": [
-      "FCI0063",
-      "FCI0120"
-    ]
-  },
-  {
-    "cod": "FCI0045",
-    "nome": "DOCUMENTACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0239"
-    ],
-    "pre_requirements": [
-      "FCI0025 & FCI0029 & FCI0031 & FCI0053"
-    ]
-  },
-  {
-    "cod": "FCI0011",
-    "nome": "EDITORA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0160"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0103",
-    "nome": "EDITORA\u00c7\u00c3O: ASPECTOS PR\u00c1TICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0152"
-    ],
-    "pre_requirements": [
-      "FCI0100"
-    ]
-  },
-  {
-    "cod": "FCI0100",
-    "nome": "EDITORA\u00c7\u00c3O: ASPECTOS TE\u00d3RICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0103"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0097",
-    "nome": "EDUCA\u00c7\u00c3O MUSEAL",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0289"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0087",
-    "nome": "EDUCA\u00c7\u00c3O PATRIMONIAL",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0279"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0061",
-    "nome": "ELABORACAO E MANUTENCAO DE TESAUROS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0255"
-    ],
-    "pre_requirements": [
-      "FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0076",
-    "nome": "ESTAGIO SUPERVISIONADO 1",
-    "ch": 120,
-    "post_requirements": [
-      "FCI0190"
-    ],
-    "pre_requirements": [
-      "FCI0063"
-    ]
-  },
-  {
-    "cod": "FCI0037",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0038"
-    ],
-    "pre_requirements": [
-      "FCI0016 & FCI0019 & FCI0071 & FCI0035"
-    ]
-  },
-  {
-    "cod": "FCI0077",
-    "nome": "ESTAGIO SUPERVISIONADO 2",
-    "ch": 120,
-    "post_requirements": [
-      "FCI0191"
-    ],
-    "pre_requirements": [
-      "FCI0068"
-    ]
-  },
-  {
-    "cod": "FCI0038",
-    "nome": "EST\u00c1GIO SUPERVISIONADO 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0170"
-    ],
-    "pre_requirements": [
-      "FCI0037"
-    ]
-  },
-  {
-    "cod": "FCI0122",
-    "nome": "EST\u00c1GIO SUPERVISIONADO EM ARQUIVOS",
-    "ch": 120,
-    "post_requirements": [
-      "FCI0314"
-    ],
-    "pre_requirements": [
-      "FCI0121  &  FCI0123"
-    ]
-  },
-  {
-    "cod": "FCI0060",
-    "nome": "ESTAGIO SUPERVISIONADO EM BIBLIOTECONOMIA 1",
-    "ch": 120,
-    "post_requirements": [
-      "FCI0058"
-    ],
-    "pre_requirements": [
-      "FCI0025 & FCI0029 & FCI0031 & FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0058",
-    "nome": "ESTAGIO SUPERVISIONADO EM BIBLIOTECONOMIA 2",
-    "ch": 150,
-    "post_requirements": [
-      "FCI0183"
-    ],
-    "pre_requirements": [
-      "FCI0060",
-      "FCI0200 & FCI0206 & FCI0207",
-      "FCI0200 & FCI0206 & FCI0208 & FCI0209"
-    ]
-  },
-  {
-    "cod": "FCI0052",
-    "nome": "ESTUDO DE USUARIOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0179"
-    ],
-    "pre_requirements": [
-      "EST0019",
-      "EST0033 & EST0068",
-      "ELA0013"
-    ]
-  },
-  {
-    "cod": "FCI0003",
-    "nome": "ESTUDOS E PESQUISAS MUSEOL\u00d3GICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0202"
-    ],
-    "pre_requirements": [
-      "FCI0019"
-    ]
-  },
-  {
-    "cod": "FCI0056",
-    "nome": "FORMACAO E DESENVOLVIMENTO DE ACERVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0182"
-    ],
-    "pre_requirements": [
-      "FCI0053",
-      "FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0034",
-    "nome": "GER\u00caNCIA DE SISTEMAS DE INFORMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0141"
-    ],
-    "pre_requirements": [
-      "FCI0051"
-    ]
-  },
-  {
-    "cod": "FCI0123",
-    "nome": "GEST\u00c3O DE DOCUMENTOS ARQUIV\u00cdSTICOS DIGITAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0197"
-    ],
-    "pre_requirements": [
-      "FCI0125",
-      "FCI0050"
-    ]
-  },
-  {
-    "cod": "FCI0036",
-    "nome": "GEST\u00c3O DE MUSEUS E POL\u00cdTICAS DE ACERVOS MUSEOL\u00d3GICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0168"
-    ],
-    "pre_requirements": [
-      "FCI0016"
-    ]
-  },
-  {
-    "cod": "FCI0124",
-    "nome": "GEST\u00c3O INTEGRADA DE DOCUMENTOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0125"
-    ],
-    "pre_requirements": [
-      "FCI0119"
-    ]
-  },
-  {
-    "cod": "FCI0113",
-    "nome": "HIST\u00d3RIA DA ARQUIVOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0305"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0024",
-    "nome": "HISTORIA DO LIVRO E DAS BIBLIOTECAS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0138"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0114",
-    "nome": "IDENTIDADE PROFISSIONAL DO ARQUIVISTA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0306"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0059",
-    "nome": "INDEXACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0054"
-    ],
-    "pre_requirements": [
-      "FCI0053",
-      "FCI0046"
-    ]
-  },
-  {
-    "cod": "FCI0035",
-    "nome": "INFORMA\u00c7\u00c3O E DOCUMENTA\u00c7\u00c3O MUSEOL\u00d3GICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0142"
-    ],
-    "pre_requirements": [
-      "FCI0046 & FCI0016"
-    ]
-  },
-  {
-    "cod": "FCI0125",
-    "nome": "INFORMA\u00c7\u00c3O, TECNOLOGIAS E DOCUMENTOS ARQUIV\u00cdSTICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0123"
-    ],
-    "pre_requirements": [
-      "FCI0124"
-    ]
-  },
-  {
-    "cod": "FCI0050",
-    "nome": "INFORMATICA DOCUMENTARIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0123"
-    ],
-    "pre_requirements": [
-      "FCI0080",
-      "FCI0063"
-    ]
-  },
-  {
-    "cod": "FCI0062",
-    "nome": "INTRODUCAO A ARQUIVOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0053"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0023",
-    "nome": "INTRODUCAO A BIBLIOTECONOMIA E CIENCIA DA INFORMACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0046"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0013",
-    "nome": "INTRODU\u00c7\u00c3O \u00c0 MUSEOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0014"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0088",
-    "nome": "INTRODU\u00c7\u00c3O AO ENSINO SUPERIOR",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0280"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0127",
-    "nome": "INTRODU\u00c7\u00c3O AO TRABALHO DE CONCLUS\u00c3O DE CURSO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0130"
-    ],
-    "pre_requirements": [
-      "FCI0121"
-    ]
-  },
-  {
-    "cod": "FCI0039",
-    "nome": "INTRODU\u00c7\u00c3O AO TRABALHO DE CONCLUS\u00c3O DE CURSO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0040"
-    ],
-    "pre_requirements": [
-      "FCI0035 & FCI0016"
-    ]
-  },
-  {
-    "cod": "FCI0054",
-    "nome": "LINGUAGENS DOCUMENTARIAS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0180"
-    ],
-    "pre_requirements": [
-      "FCI0059"
-    ]
-  },
-  {
-    "cod": "FCI0081",
-    "nome": "MONOGRAFIA EM BIBLIOTECONOMIA E CIENCIA DA INFORMACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0274"
-    ],
-    "pre_requirements": [
-      "FCI0060 & FCI0055"
-    ]
-  },
-  {
-    "cod": "FCI0014",
-    "nome": "MUSEOLOGIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0007"
-    ],
-    "pre_requirements": [
-      "FCI0013"
-    ]
-  },
-  {
-    "cod": "FCI0015",
-    "nome": "MUSEOLOGIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0016"
-    ],
-    "pre_requirements": [
-      "FCI0014"
-    ]
-  },
-  {
-    "cod": "FCI0016",
-    "nome": "MUSEOLOGIA 3",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0036"
-    ],
-    "pre_requirements": [
-      "FCI0015"
-    ]
-  },
-  {
-    "cod": "FCI0099",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: ARTE",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0193"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0093",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: HER\u00c1LDICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0285"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0092",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: INDUMENT\u00c1RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0284"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0091",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: MOBILI\u00c1RIO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0153"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0090",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: NUMISM\u00c1TICA E FILATELIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0282"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0095",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: ORDENS HONOR\u00cdFICAS E MEDALH\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0287"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0105",
-    "nome": "MUSEOLOGIA APLICADA A ACERVOS: PORCELANA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0297"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0017",
-    "nome": "MUSEOLOGIA E COMUNICA\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0018"
-    ],
-    "pre_requirements": [
-      "FCI0013"
-    ]
-  },
-  {
-    "cod": "FCI0018",
-    "nome": "MUSEOLOGIA E COMUNICA\u00c7\u00c3O 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0019"
-    ],
-    "pre_requirements": [
-      "FCI0017"
-    ]
-  },
-  {
-    "cod": "FCI0019",
-    "nome": "MUSEOLOGIA E COMUNICA\u00c7\u00c3O 3",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0003"
-    ],
-    "pre_requirements": [
-      "FCI0018"
-    ]
-  },
-  {
-    "cod": "FCI0020",
-    "nome": "MUSEOLOGIA E COMUNICA\u00c7\u00c3O 4",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0165"
-    ],
-    "pre_requirements": [
-      "FCI0019"
-    ]
-  },
-  {
-    "cod": "FCI0021",
-    "nome": "MUSEOLOGIA E PRESERVA\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0217"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0042",
-    "nome": "MUSEOLOGIA E PRESERVA\u00c7\u00c3O 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0022"
-    ],
-    "pre_requirements": [
-      "FCI0071"
-    ]
-  },
-  {
-    "cod": "FCI0022",
-    "nome": "MUSEOLOGIA E PRESERVA\u00c7\u00c3O 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0166"
-    ],
-    "pre_requirements": [
-      "FCI0042"
-    ]
-  },
-  {
-    "cod": "FCI0041",
-    "nome": "MUSEOLOGIA PATRIMONIO MEM\u00d3RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0173"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0086",
-    "nome": "MUSEU, MUSEOLOGIA E PESQUISA NA CONTEMPORANEIDADE",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0278"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0072",
-    "nome": "NOTARIADO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0265"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0115",
-    "nome": "ORGANIZA\u00c7\u00c3O ARQUIV\u00cdSTICA DE MATERIAIS FOTOGR\u00c1FICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0154"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0048",
-    "nome": "ORGANIZACAO DO TRABALHO INTELECTUAL",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0175"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0030",
-    "nome": "ORGANIZACAO E TRATAMENTO DE MATERIAIS ESPECIAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0224"
-    ],
-    "pre_requirements": [
-      "FCI0029"
-    ]
-  },
-  {
-    "cod": "FCI0128",
-    "nome": "PATRIM\u00d4NIO, PRESERVA\u00c7\u00c3O E MEM\u00d3RIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0198"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0051",
-    "nome": "PLANEJAMENTO DE SISTEMAS DE INFORMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0034"
-    ],
-    "pre_requirements": [
-      "ADM0023"
-    ]
-  },
-  {
-    "cod": "FCI0080",
-    "nome": "PLANEJAMENTO E ELABORACAO DE BASES DE DADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0050"
-    ],
-    "pre_requirements": [
-      "FCI0029 & CIC0152",
-      "FCI0029 & CIC0007",
-      "FCI0029 & CIC0069"
-    ]
-  },
-  {
-    "cod": "FCI0102",
-    "nome": "PLANEJAMENTO E ELABORA\u00c7\u00c3O DE BASES DE DADOS: ASPECTOS PR\u00c1TICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0151"
-    ],
-    "pre_requirements": [
-      "FCI0094"
-    ]
-  },
-  {
-    "cod": "FCI0094",
-    "nome": "PLANEJAMENTO E ELABORA\u00c7\u00c3O DE BASES DE DADOS: ASPECTOS TE\u00d3RICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0102"
-    ],
-    "pre_requirements": [
-      "FCI0029  &  CIC0152",
-      "FCI0029  &  CIC0007",
-      "FCI0029  &  CIC0069"
-    ]
-  },
-  {
-    "cod": "FCI0075",
-    "nome": "PLANEJAMENTO E GESTAO DE INSTITUICAO ARQUIVISTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0189"
-    ],
-    "pre_requirements": [
-      "FCI0068"
-    ]
-  },
-  {
-    "cod": "FCI0126",
-    "nome": "PLANEJAMENTO E GEST\u00c3O DE INSTITUI\u00c7\u00d5ES ARQUIV\u00cdSTICAS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0318"
-    ],
-    "pre_requirements": [
-      "FCI0124"
-    ]
-  },
-  {
-    "cod": "FCI0084",
-    "nome": "POL\u00cdTICAS E PR\u00c1TICAS DO PATRIMONIO CULTURAL NO BRASIL",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0277"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0078",
-    "nome": "PRATICA DE ARQUIVOS UNIVERSITARIOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0271"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0116",
-    "nome": "PRESERVA\u00c7\u00c3O E CONSERVA\u00c7\u00c3O DE BENS CULTURAIS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0308"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0070",
-    "nome": "PROJETO DE IMPLANTA\u00c7\u00c3O DE SISTEMAS ARQUIVISTICOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0187"
-    ],
-    "pre_requirements": [
-      "FCI0068"
-    ]
-  },
-  {
-    "cod": "FCI0010",
-    "nome": "PROJETO DE MONOGRAFIA EM BIBLIOTECONOMIA E CI\u00caNCIA DA INFORMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0159"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0079",
-    "nome": "REDES DE INFORMACAO E TRANSFERENCIA DE DADOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0150"
-    ],
-    "pre_requirements": [
-      "FCI0080"
-    ]
-  },
-  {
-    "cod": "FCI0033",
-    "nome": "REFERENCIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0227"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0129",
-    "nome": "REPRESENTA\u00c7\u00c3O DA INFORMA\u00c7\u00c3O ARQUIV\u00cdSTICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0121"
-    ],
-    "pre_requirements": [
-      "FCI0120"
-    ]
-  },
-  {
-    "cod": "FCI0047",
-    "nome": "REPROGRAFIA",
-    "ch": 45,
-    "post_requirements": [
-      "FCI0241"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0073",
-    "nome": "SEMINARIO EM ARQUIVISTICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0148"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0074",
-    "nome": "SEMINARIO EM ARQUIVISTICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0149"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  },
-  {
-    "cod": "FCI0028",
-    "nome": "SEMINARIO EM BIBLIOTECONOMIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0222"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0098",
-    "nome": "SEMIN\u00c1RIO EM MUSEOLOGIA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0290"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0007",
-    "nome": "SEMIN\u00c1RIO EM MUSEOLOGIA 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0204"
-    ],
-    "pre_requirements": [
-      "FCI0014"
-    ]
-  },
-  {
-    "cod": "FCI0008",
-    "nome": "SEMIN\u00c1RIO EM MUSEOLOGIA 2",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0205"
-    ],
-    "pre_requirements": [
-      "FCI0014"
-    ]
-  },
-  {
-    "cod": "FCI0055",
-    "nome": "SERVICOS DE INFORMACAO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0181"
-    ],
-    "pre_requirements": [
-      "FCI0025"
-    ]
-  },
-  {
-    "cod": "FCI0002",
-    "nome": "SERVI\u00c7OS DE RECURSOS DE INFORMA\u00c7\u00d5ES PARA INICIA\u00c7\u00c3O CIENT\u00cdFICA",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0201"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0032",
-    "nome": "SISTEMAS DE CLASSIFICACAO BIBLIOGRAFICA",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0226"
-    ],
-    "pre_requirements": [
-      "FCI0031"
-    ]
-  },
-  {
-    "cod": "FCI0001",
-    "nome": "T\u00d3PICOS ESPECIAIS EM BIBLIOTECONOMIA E CI\u00caNCIA DA INFORMA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0157"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0132",
-    "nome": "T\u00d3PICOS ESPECIAIS EM BIBLIOTECONOMIA E CI\u00caNCIA DA INFORMA\u00c7\u00c3O 2",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0199"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0104",
-    "nome": "T\u00d3PICOS ESPECIAIS EM CIENTOMETRIA: ASPECTOS PR\u00c1TICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0296"
-    ],
-    "pre_requirements": [
-      "FCI0101"
-    ]
-  },
-  {
-    "cod": "FCI0101",
-    "nome": "T\u00d3PICOS ESPECIAIS EM CIENTOMETRIA: ASPECTOS TE\u00d3RICOS",
-    "ch": 30,
-    "post_requirements": [
-      "FCI0104"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0131",
-    "nome": "T\u00d3PICOS ESPECIAIS EM MUSEOLOGIA APLICADA A ACERVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0323"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0005",
-    "nome": "T\u00d3PICOS ESPECIAIS EM MUSEOLOGIA APLICADA A ACERVOS 1",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0203"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0040",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0172"
-    ],
-    "pre_requirements": [
-      "FCI0039"
-    ]
-  },
-  {
-    "cod": "FCI0130",
-    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0322"
-    ],
-    "pre_requirements": [
-      "FCI0127"
-    ]
-  },
-  {
-    "cod": "FCI0082",
-    "nome": "USABILIDADE NA INTERA\u00c7\u00c3O HUMANO - COMPUTADOR",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0275"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "FCI0117",
-    "nome": "USOS E USUA\u0301RIOS DE ARQUIVOS",
-    "ch": 60,
-    "post_requirements": [
-      "FCI0309"
-    ],
-    "pre_requirements": [
-      "FCI0062"
-    ]
-  }
+   {
+      "codigo": "FCI0106",
+      "nome": "ACERVOS AUDIOVISUAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0298"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0118",
+      "nome": "ACESSO E DIFUSÃO DAS INFORMAÇÕES ARQUIVÍSTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0194"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0009",
+      "nome": "AGENTES E AGÊNCIAS DO PATRIMÔNIO CULTURAL NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0158"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0046",
+      "nome": "ANALISE DA INFORMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0025",
+         "FCI0029",
+         "FCI0031",
+         "FCI0056",
+         "FCI0059",
+         "FCI0061",
+         "FCI0143"
+      ],
+      "pre_requisitos": [
+         "FCI0053",
+         "FCI0023",
+         "FCI0014",
+         "FCI0064"
+      ]
+   },
+   {
+      "codigo": "FCI0096",
+      "nome": "ANTROPOLOGIA DOS MUSEUS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0288"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0083",
+      "nome": "ARQUIVO, CINEMA, INFORMAÇÃO E MEMÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0276"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0063",
+      "nome": "ARQUIVO CORRENTE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0050",
+         "FCI0064",
+         "FCI0066",
+         "FCI0076",
+         "FCI0257"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0064",
+      "nome": "ARQUIVO CORRENTE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0046",
+         "FCI0065",
+         "FCI0258"
+      ],
+      "pre_requisitos": [
+         "FCI0063"
+      ]
+   },
+   {
+      "codigo": "FCI0065",
+      "nome": "ARQUIVO INTERMEDIARIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0067",
+         "FCI0146"
+      ],
+      "pre_requisitos": [
+         "FCI0064"
+      ]
+   },
+   {
+      "codigo": "FCI0107",
+      "nome": "ARQUIVOLOGIA E EXTENSÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0299"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0108",
+      "nome": "ARQUIVOLOGIA E EXTENSÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0300"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0067",
+      "nome": "ARQUIVO PERMANENTE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0147"
+      ],
+      "pre_requisitos": [
+         "FCI0065"
+      ]
+   },
+   {
+      "codigo": "FCI0068",
+      "nome": "ARQUIVO PERMANENTE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0070",
+         "FCI0075",
+         "FCI0077",
+         "FCI0186"
+      ],
+      "pre_requisitos": [
+         "FCI0067 & FCI0066"
+      ]
+   },
+   {
+      "codigo": "FCI0109",
+      "nome": "ARQUIVOS DE ORGANIZAÇÕES DE DIREITO PRIVADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0301"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0110",
+      "nome": "ARQUIVOS E DIREITOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0302"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0111",
+      "nome": "ARQUIVOS E MEMÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0303"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0112",
+      "nome": "ARQUIVOS PESSOAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0304"
+      ],
+      "pre_requisitos": [
+         "FCI0120"
+      ]
+   },
+   {
+      "codigo": "FCI0119",
+      "nome": "AVALIAÇÃO ARQUIVÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0124",
+         "FCI0195"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0025",
+      "nome": "BIBLIOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0055",
+         "FCI0167"
+      ],
+      "pre_requisitos": [
+         "FCI0053",
+         "FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0043",
+      "nome": "BIBLIOGRAFIA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0237"
+      ],
+      "pre_requisitos": [
+         "FCI0053"
+      ]
+   },
+   {
+      "codigo": "FCI0057",
+      "nome": "BIBLIOGRAFIA ESPECIALIZADA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0251"
+      ],
+      "pre_requisitos": [
+         "FCI0053"
+      ]
+   },
+   {
+      "codigo": "FCI0044",
+      "nome": "BIBLIOGRAFIA ESPECIALIZADA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0238"
+      ],
+      "pre_requisitos": [
+         "FCI0053"
+      ]
+   },
+   {
+      "codigo": "FCI0049",
+      "nome": "BIBLIOTECONOMIA E SOCIEDADE BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0176"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0029",
+      "nome": "CATALOGACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0030",
+         "FCI0139"
+      ],
+      "pre_requisitos": [
+         "FCI0053",
+         "FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0031",
+      "nome": "CLASSIFICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0032",
+         "FCI0140"
+      ],
+      "pre_requisitos": [
+         "FCI0053",
+         "FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0120",
+      "nome": "CLASSIFICAÇÃO ARQUIVÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0066",
+         "FCI0112",
+         "FCI0129",
+         "FCI0196"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0071",
+      "nome": "CONSERVACAO E RESTAURACAO DE DOCUMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0042",
+         "FCI0188"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0053",
+      "nome": "CONTROLE BIBLIOGRAFICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0025",
+         "FCI0029",
+         "FCI0031",
+         "FCI0043",
+         "FCI0044",
+         "FCI0046",
+         "FCI0056",
+         "FCI0057",
+         "FCI0059",
+         "FCI0247"
+      ],
+      "pre_requisitos": [
+         "FCI0023",
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0121",
+      "nome": "DESCRIÇÃO ARQUIVÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0127",
+         "FCI0313"
+      ],
+      "pre_requisitos": [
+         "FCI0129"
+      ]
+   },
+   {
+      "codigo": "FCI0066",
+      "nome": "DIPLOMATICA E TIPOLOGIA DOCUMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0185"
+      ],
+      "pre_requisitos": [
+         "FCI0063",
+         "FCI0120"
+      ]
+   },
+   {
+      "codigo": "FCI0045",
+      "nome": "DOCUMENTACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0239"
+      ],
+      "pre_requisitos": [
+         "FCI0025 & FCI0029 & FCI0031 & FCI0053"
+      ]
+   },
+   {
+      "codigo": "FCI0011",
+      "nome": "EDITORAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0160"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0103",
+      "nome": "EDITORAÇÃO: ASPECTOS PRÁTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0152"
+      ],
+      "pre_requisitos": [
+         "FCI0100"
+      ]
+   },
+   {
+      "codigo": "FCI0100",
+      "nome": "EDITORAÇÃO: ASPECTOS TEÓRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0103",
+         "FCI0292"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0097",
+      "nome": "EDUCAÇÃO MUSEAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0289"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0087",
+      "nome": "EDUCAÇÃO PATRIMONIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0279"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0061",
+      "nome": "ELABORACAO E MANUTENCAO DE TESAUROS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0255"
+      ],
+      "pre_requisitos": [
+         "FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0076",
+      "nome": "ESTAGIO SUPERVISIONADO 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCI0190"
+      ],
+      "pre_requisitos": [
+         "FCI0063"
+      ]
+   },
+   {
+      "codigo": "FCI0037",
+      "nome": "ESTÁGIO SUPERVISIONADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0038",
+         "FCI0169"
+      ],
+      "pre_requisitos": [
+         "FCI0016 & FCI0019 & FCI0071 & FCI0035"
+      ]
+   },
+   {
+      "codigo": "FCI0077",
+      "nome": "ESTAGIO SUPERVISIONADO 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCI0191"
+      ],
+      "pre_requisitos": [
+         "FCI0068"
+      ]
+   },
+   {
+      "codigo": "FCI0038",
+      "nome": "ESTÁGIO SUPERVISIONADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0170"
+      ],
+      "pre_requisitos": [
+         "FCI0037"
+      ]
+   },
+   {
+      "codigo": "FCI0122",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ARQUIVOS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCI0314"
+      ],
+      "pre_requisitos": [
+         "FCI0121  &  FCI0123"
+      ]
+   },
+   {
+      "codigo": "FCI0060",
+      "nome": "ESTAGIO SUPERVISIONADO EM BIBLIOTECONOMIA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCI0058",
+         "FCI0184",
+         "FCI0210",
+         "FCI0211",
+         "FCI0212",
+         "FCI0213",
+         "FCI0214"
+      ],
+      "pre_requisitos": [
+         "FCI0025 & FCI0029 & FCI0031 & FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0058",
+      "nome": "ESTAGIO SUPERVISIONADO EM BIBLIOTECONOMIA 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FCI0183"
+      ],
+      "pre_requisitos": [
+         "FCI0060",
+         "FCI0200 & FCI0206 & FCI0207",
+         "FCI0200 & FCI0206 & FCI0208 & FCI0209"
+      ]
+   },
+   {
+      "codigo": "FCI0052",
+      "nome": "ESTUDO DE USUARIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0179"
+      ],
+      "pre_requisitos": [
+         "EST0019",
+         "EST0033 & EST0068",
+         "ELA0013"
+      ]
+   },
+   {
+      "codigo": "FCI0003",
+      "nome": "ESTUDOS E PESQUISAS MUSEOLÓGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0202"
+      ],
+      "pre_requisitos": [
+         "FCI0019"
+      ]
+   },
+   {
+      "codigo": "FCI0056",
+      "nome": "FORMACAO E DESENVOLVIMENTO DE ACERVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0182"
+      ],
+      "pre_requisitos": [
+         "FCI0053",
+         "FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0034",
+      "nome": "GERÊNCIA DE SISTEMAS DE INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0141"
+      ],
+      "pre_requisitos": [
+         "FCI0051"
+      ]
+   },
+   {
+      "codigo": "FCI0123",
+      "nome": "GESTÃO DE DOCUMENTOS ARQUIVÍSTICOS DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0197"
+      ],
+      "pre_requisitos": [
+         "FCI0125",
+         "FCI0050"
+      ]
+   },
+   {
+      "codigo": "FCI0036",
+      "nome": "GESTÃO DE MUSEUS E POLÍTICAS DE ACERVOS MUSEOLÓGICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0168"
+      ],
+      "pre_requisitos": [
+         "FCI0016"
+      ]
+   },
+   {
+      "codigo": "FCI0124",
+      "nome": "GESTÃO INTEGRADA DE DOCUMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0125",
+         "FCI0126",
+         "FCI0155"
+      ],
+      "pre_requisitos": [
+         "FCI0119"
+      ]
+   },
+   {
+      "codigo": "FCI0113",
+      "nome": "HISTÓRIA DA ARQUIVOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0305"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0024",
+      "nome": "HISTORIA DO LIVRO E DAS BIBLIOTECAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0138"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0114",
+      "nome": "IDENTIDADE PROFISSIONAL DO ARQUIVISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0306"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0059",
+      "nome": "INDEXACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0054",
+         "FCI0144"
+      ],
+      "pre_requisitos": [
+         "FCI0053",
+         "FCI0046"
+      ]
+   },
+   {
+      "codigo": "FCI0035",
+      "nome": "INFORMAÇÃO E DOCUMENTAÇÃO MUSEOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0142"
+      ],
+      "pre_requisitos": [
+         "FCI0046 & FCI0016"
+      ]
+   },
+   {
+      "codigo": "FCI0125",
+      "nome": "INFORMAÇÃO, TECNOLOGIAS E DOCUMENTOS ARQUIVÍSTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0123",
+         "FCI0317"
+      ],
+      "pre_requisitos": [
+         "FCI0124"
+      ]
+   },
+   {
+      "codigo": "FCI0050",
+      "nome": "INFORMATICA DOCUMENTARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0123",
+         "FCI0177"
+      ],
+      "pre_requisitos": [
+         "FCI0080",
+         "FCI0063"
+      ]
+   },
+   {
+      "codigo": "FCI0062",
+      "nome": "INTRODUCAO A ARQUIVOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0053",
+         "FCI0063",
+         "FCI0073",
+         "FCI0074",
+         "FCI0107",
+         "FCI0108",
+         "FCI0109",
+         "FCI0113",
+         "FCI0114",
+         "FCI0115",
+         "FCI0117",
+         "FCI0119",
+         "FCI0120",
+         "FCI0145"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0023",
+      "nome": "INTRODUCAO A BIBLIOTECONOMIA E CIENCIA DA INFORMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0046",
+         "FCI0053",
+         "FCI0137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0013",
+      "nome": "INTRODUÇÃO À MUSEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0014",
+         "FCI0017",
+         "IGD0247",
+         "FCI0134"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0088",
+      "nome": "INTRODUÇÃO AO ENSINO SUPERIOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0280"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0127",
+      "nome": "INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0130",
+         "FCI0319"
+      ],
+      "pre_requisitos": [
+         "FCI0121"
+      ]
+   },
+   {
+      "codigo": "FCI0039",
+      "nome": "INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0040",
+         "FCI0171"
+      ],
+      "pre_requisitos": [
+         "FCI0035 & FCI0016"
+      ]
+   },
+   {
+      "codigo": "FCI0054",
+      "nome": "LINGUAGENS DOCUMENTARIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0180"
+      ],
+      "pre_requisitos": [
+         "FCI0059"
+      ]
+   },
+   {
+      "codigo": "FCI0081",
+      "nome": "MONOGRAFIA EM BIBLIOTECONOMIA E CIENCIA DA INFORMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0274"
+      ],
+      "pre_requisitos": [
+         "FCI0060 & FCI0055"
+      ]
+   },
+   {
+      "codigo": "FCI0014",
+      "nome": "MUSEOLOGIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0007",
+         "FCI0008",
+         "FCI0015",
+         "FCI0046",
+         "FCI0161"
+      ],
+      "pre_requisitos": [
+         "FCI0013"
+      ]
+   },
+   {
+      "codigo": "FCI0015",
+      "nome": "MUSEOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0016",
+         "FCI0135"
+      ],
+      "pre_requisitos": [
+         "FCI0014"
+      ]
+   },
+   {
+      "codigo": "FCI0016",
+      "nome": "MUSEOLOGIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0036",
+         "FCI0136"
+      ],
+      "pre_requisitos": [
+         "FCI0015"
+      ]
+   },
+   {
+      "codigo": "FCI0099",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: ARTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0193"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0093",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: HERÁLDICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0285"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0092",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: INDUMENTÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0284"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0091",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: MOBILIÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0153"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0090",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: NUMISMÁTICA E FILATELIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0282"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0095",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: ORDENS HONORÍFICAS E MEDALHÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0287"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0105",
+      "nome": "MUSEOLOGIA APLICADA A ACERVOS: PORCELANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0297"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0017",
+      "nome": "MUSEOLOGIA E COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0018",
+         "FCI0162"
+      ],
+      "pre_requisitos": [
+         "FCI0013"
+      ]
+   },
+   {
+      "codigo": "FCI0018",
+      "nome": "MUSEOLOGIA E COMUNICAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0019",
+         "FCI0163"
+      ],
+      "pre_requisitos": [
+         "FCI0017"
+      ]
+   },
+   {
+      "codigo": "FCI0019",
+      "nome": "MUSEOLOGIA E COMUNICAÇÃO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0003",
+         "FCI0020",
+         "FCI0164"
+      ],
+      "pre_requisitos": [
+         "FCI0018"
+      ]
+   },
+   {
+      "codigo": "FCI0020",
+      "nome": "MUSEOLOGIA E COMUNICAÇÃO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0165"
+      ],
+      "pre_requisitos": [
+         "FCI0019"
+      ]
+   },
+   {
+      "codigo": "FCI0021",
+      "nome": "MUSEOLOGIA E PRESERVAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0217"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0042",
+      "nome": "MUSEOLOGIA E PRESERVAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0022",
+         "FCI0174"
+      ],
+      "pre_requisitos": [
+         "FCI0071"
+      ]
+   },
+   {
+      "codigo": "FCI0022",
+      "nome": "MUSEOLOGIA E PRESERVAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0166"
+      ],
+      "pre_requisitos": [
+         "FCI0042"
+      ]
+   },
+   {
+      "codigo": "FCI0041",
+      "nome": "MUSEOLOGIA PATRIMONIO MEMÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0173"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0086",
+      "nome": "MUSEU, MUSEOLOGIA E PESQUISA NA CONTEMPORANEIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0278"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0072",
+      "nome": "NOTARIADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0265"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0115",
+      "nome": "ORGANIZAÇÃO ARQUIVÍSTICA DE MATERIAIS FOTOGRÁFICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0154"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0048",
+      "nome": "ORGANIZACAO DO TRABALHO INTELECTUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0175"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0030",
+      "nome": "ORGANIZACAO E TRATAMENTO DE MATERIAIS ESPECIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0224"
+      ],
+      "pre_requisitos": [
+         "FCI0029"
+      ]
+   },
+   {
+      "codigo": "FCI0128",
+      "nome": "PATRIMÔNIO, PRESERVAÇÃO E MEMÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0198"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0051",
+      "nome": "PLANEJAMENTO DE SISTEMAS DE INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0034",
+         "FCI0178"
+      ],
+      "pre_requisitos": [
+         "ADM0023"
+      ]
+   },
+   {
+      "codigo": "FCI0080",
+      "nome": "PLANEJAMENTO E ELABORACAO DE BASES DE DADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0050",
+         "FCI0079",
+         "FCI0192"
+      ],
+      "pre_requisitos": [
+         "FCI0029 & CIC0152",
+         "FCI0029 & CIC0007",
+         "FCI0029 & CIC0069"
+      ]
+   },
+   {
+      "codigo": "FCI0102",
+      "nome": "PLANEJAMENTO E ELABORAÇÃO DE BASES DE DADOS: ASPECTOS PRÁTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0151"
+      ],
+      "pre_requisitos": [
+         "FCI0094"
+      ]
+   },
+   {
+      "codigo": "FCI0094",
+      "nome": "PLANEJAMENTO E ELABORAÇÃO DE BASES DE DADOS: ASPECTOS TEÓRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0102",
+         "FCI0286"
+      ],
+      "pre_requisitos": [
+         "FCI0029  &  CIC0152",
+         "FCI0029  &  CIC0007",
+         "FCI0029  &  CIC0069"
+      ]
+   },
+   {
+      "codigo": "FCI0075",
+      "nome": "PLANEJAMENTO E GESTAO DE INSTITUICAO ARQUIVISTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0189"
+      ],
+      "pre_requisitos": [
+         "FCI0068"
+      ]
+   },
+   {
+      "codigo": "FCI0126",
+      "nome": "PLANEJAMENTO E GESTÃO DE INSTITUIÇÕES ARQUIVÍSTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0318"
+      ],
+      "pre_requisitos": [
+         "FCI0124"
+      ]
+   },
+   {
+      "codigo": "FCI0084",
+      "nome": "POLÍTICAS E PRÁTICAS DO PATRIMONIO CULTURAL NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0277"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0078",
+      "nome": "PRATICA DE ARQUIVOS UNIVERSITARIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0271"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0116",
+      "nome": "PRESERVAÇÃO E CONSERVAÇÃO DE BENS CULTURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0308"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0070",
+      "nome": "PROJETO DE IMPLANTAÇÃO DE SISTEMAS ARQUIVISTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0187"
+      ],
+      "pre_requisitos": [
+         "FCI0068"
+      ]
+   },
+   {
+      "codigo": "FCI0010",
+      "nome": "PROJETO DE MONOGRAFIA EM BIBLIOTECONOMIA E CIÊNCIA DA INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0079",
+      "nome": "REDES DE INFORMACAO E TRANSFERENCIA DE DADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0150"
+      ],
+      "pre_requisitos": [
+         "FCI0080"
+      ]
+   },
+   {
+      "codigo": "FCI0033",
+      "nome": "REFERENCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0227"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0129",
+      "nome": "REPRESENTAÇÃO DA INFORMAÇÃO ARQUIVÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0121",
+         "FCI0156"
+      ],
+      "pre_requisitos": [
+         "FCI0120"
+      ]
+   },
+   {
+      "codigo": "FCI0047",
+      "nome": "REPROGRAFIA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FCI0241"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0073",
+      "nome": "SEMINARIO EM ARQUIVISTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0148"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0074",
+      "nome": "SEMINARIO EM ARQUIVISTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0149"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   },
+   {
+      "codigo": "FCI0028",
+      "nome": "SEMINARIO EM BIBLIOTECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0222"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0098",
+      "nome": "SEMINÁRIO EM MUSEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0290"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0007",
+      "nome": "SEMINÁRIO EM MUSEOLOGIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0204"
+      ],
+      "pre_requisitos": [
+         "FCI0014"
+      ]
+   },
+   {
+      "codigo": "FCI0008",
+      "nome": "SEMINÁRIO EM MUSEOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0205"
+      ],
+      "pre_requisitos": [
+         "FCI0014"
+      ]
+   },
+   {
+      "codigo": "FCI0055",
+      "nome": "SERVICOS DE INFORMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0181"
+      ],
+      "pre_requisitos": [
+         "FCI0025"
+      ]
+   },
+   {
+      "codigo": "FCI0002",
+      "nome": "SERVIÇOS DE RECURSOS DE INFORMAÇÕES PARA INICIAÇÃO CIENTÍFICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0201"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0032",
+      "nome": "SISTEMAS DE CLASSIFICACAO BIBLIOGRAFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0226"
+      ],
+      "pre_requisitos": [
+         "FCI0031"
+      ]
+   },
+   {
+      "codigo": "FCI0001",
+      "nome": "TÓPICOS ESPECIAIS EM BIBLIOTECONOMIA E CIÊNCIA DA INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0157"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0132",
+      "nome": "TÓPICOS ESPECIAIS EM BIBLIOTECONOMIA E CIÊNCIA DA INFORMAÇÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0199"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0104",
+      "nome": "TÓPICOS ESPECIAIS EM CIENTOMETRIA: ASPECTOS PRÁTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0296"
+      ],
+      "pre_requisitos": [
+         "FCI0101"
+      ]
+   },
+   {
+      "codigo": "FCI0101",
+      "nome": "TÓPICOS ESPECIAIS EM CIENTOMETRIA: ASPECTOS TEÓRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCI0104",
+         "FCI0293"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0131",
+      "nome": "TÓPICOS ESPECIAIS EM MUSEOLOGIA APLICADA A ACERVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0323"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0005",
+      "nome": "TÓPICOS ESPECIAIS EM MUSEOLOGIA APLICADA A ACERVOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0203"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0040",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0172"
+      ],
+      "pre_requisitos": [
+         "FCI0039"
+      ]
+   },
+   {
+      "codigo": "FCI0130",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0322"
+      ],
+      "pre_requisitos": [
+         "FCI0127"
+      ]
+   },
+   {
+      "codigo": "FCI0082",
+      "nome": "USABILIDADE NA INTERAÇÃO HUMANO - COMPUTADOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0275"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCI0117",
+      "nome": "USOS E USUÁRIOS DE ARQUIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCI0309"
+      ],
+      "pre_requisitos": [
+         "FCI0062"
+      ]
+   }
 ]

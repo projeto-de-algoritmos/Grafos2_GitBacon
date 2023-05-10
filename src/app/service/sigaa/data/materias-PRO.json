@@ -1,637 +1,677 @@
 [
-  {
-    "cod": "PRO0005",
-    "nome": "ATELI\u00ca DE HIST\u00d3RIAS EM QUADRINHOS EM ARQUITETURA E URBANISMO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0050",
-    "nome": "ATELI\u00ca DE PROJETO DE ARQUITETURA E URBANISMO SUSTENT\u00c1VEL",
-    "ch": 90,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0052",
-    "nome": "AVALIA\u00c7\u00c3O DE P\u00d3S-OCUPA\u00c7\u00c3O DE ESPA\u00c7OS URBANOS",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0013"
-    ]
-  },
-  {
-    "cod": "PRO0004",
-    "nome": "CI\u00caNCIAS DO COMPORTAMENTO APLICADAS \u00c0 ARQUITETURA",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0045",
-    "nome": "COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 1",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0011"
-    ]
-  },
-  {
-    "cod": "PRO0037",
-    "nome": "COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 2",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0045"
-    ]
-  },
-  {
-    "cod": "PRO0064",
-    "nome": "CONFORTO T\u00c9RMICO AMBIENTAL 2",
-    "ch": 30,
-    "post_requirements": [
-      "TEC0028"
-    ],
-    "pre_requirements": [
-      "TEC0042"
-    ]
-  },
-  {
-    "cod": "PRO0023",
-    "nome": "DESENHO ARQUITETONICO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0061",
-    "nome": "DESENHO DE ARQUITETURA",
-    "ch": 30,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0025",
-    "nome": "DESENHO E PLASTICA 1",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0026",
-    "nome": "DESENHO E PLASTICA 2",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0025"
-    ]
-  },
-  {
-    "cod": "PRO0046",
-    "nome": "DESENHO E PLASTICA 3",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0026 & PRO0013"
-    ]
-  },
-  {
-    "cod": "PRO0003",
-    "nome": "ERGONOMIA APLICADA \u00c0 ARQUITETURA DE INTERIORES",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0066",
-    "nome": "ESBO\u00c7OS URBANOS",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0027",
-    "nome": "ESPACO,EXPRESSAO E SIGNIFICADO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0026"
-    ]
-  },
-  {
-    "cod": "PRO0007",
-    "nome": "ESTAGIOS SUPERVISIONADOS DE PROJETOS",
-    "ch": 30,
-    "post_requirements": [
-      "FAU0229"
-    ],
-    "pre_requirements": [
-      "PRO0020",
-      "PRO0016"
-    ]
-  },
-  {
-    "cod": "PRO0028",
-    "nome": "GEOMETRIA CONSTRUTIVA",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0029",
-    "nome": "GEOMETRIA DA FORMA",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0044",
-    "nome": "INICIACAO AO PROJETO PAISAGISTICO",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "FAU0109 & FAU0133"
-    ]
-  },
-  {
-    "cod": "PRO0042",
-    "nome": "INTRODU\u00c7\u00c3O AO PROJETO DE ARQUITETURA 1",
-    "ch": 180,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0039",
-    "nome": "INTRODU\u00c7\u00c3O AO TRABALHO FINAL DE GRADUA\u00c7\u00c3O",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "TEC0023 & PRO0018 & PRO0020 & TAU0011"
-    ]
-  },
-  {
-    "cod": "PRO0062",
-    "nome": "INVEN\u00c7\u00d5ES E PATENTES EM ARQUITETURA E URBANISMO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0053",
-    "nome": "M\u00c9TODOS E T\u00c9CNICAS DE PESQUISA EM ARQUITETURA E URBANISMO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0013"
-    ]
-  },
-  {
-    "cod": "PRO0065",
-    "nome": "MODELAGEM DA INFORMA\u00c7\u00c3O DA CONSTRU\u00c7\u00c3O - BIM",
-    "ch": 30,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0063"
-    ]
-  },
-  {
-    "cod": "PRO0063",
-    "nome": "MODELAGEM TRIDIMENSIONAL DIGITAL EM ARQUITETURA",
-    "ch": 30,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0011"
-    ]
-  },
-  {
-    "cod": "PRO0036",
-    "nome": "OFICINA DE MAQUETE",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0023",
-      "FAU0133"
-    ]
-  },
-  {
-    "cod": "PRO0034",
-    "nome": "PLANEJAMENTO DA PAISAGEM",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0022",
-      "PRO0044"
-    ]
-  },
-  {
-    "cod": "PRO0055",
-    "nome": "PR\u00c1TICA DE ESCRIT\u00d3RIO MODELO DE ARQUITETURA E URBANISMO 1",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0056",
-    "nome": "PR\u00c1TICA DE ESCRIT\u00d3RIO MODELO DE ARQUITETURA E URBANISMO 2",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0057",
-    "nome": "PR\u00c1TICA DE ESCRIT\u00d3RIO MODELO DE ARQUITETURA E URBANISMO 3",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0058",
-    "nome": "PR\u00c1TICA DE ESCRIT\u00d3RIO MODELO DE ARQUITETURA E URBANISMO 4",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0009",
-    "nome": "PRATICA PROFISSIONAL",
-    "ch": 30,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0031",
-    "nome": "PROGRAMACAO VISUAL APLICADA A ARQUITETURA E URBANISMO",
-    "ch": 90,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0015",
-      "FAU0133 & FAU0111"
-    ]
-  },
-  {
-    "cod": "PRO0011",
-    "nome": "PROJETO ARQUITETONICO 1",
-    "ch": 120,
-    "post_requirements": [
-      "TEC0002"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0017",
-    "nome": "PROJETO ARQUITETONICO DE EDIFICACOES EM ALTURA",
-    "ch": 120,
-    "post_requirements": [
-      "FAU0201"
-    ],
-    "pre_requirements": [
-      "PRO0016"
-    ]
-  },
-  {
-    "cod": "PRO0030",
-    "nome": "PROJETO DE ARQUITETURA ASSISTIDO POR COMPUTADOR",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0045 & PRO0016",
-      "PRO0045 & FAU0111"
-    ]
-  },
-  {
-    "cod": "PRO0018",
-    "nome": "PROJETO DE ARQUITETURA DE FUN\u00c7\u00d5ES COMPLEXAS",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0017 & TEC0028 & TEC0029"
-    ]
-  },
-  {
-    "cod": "PRO0016",
-    "nome": "PROJETO DE ARQUITETURA DE GRANDES VAOS",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0015 & TEC0016 & TEC0018",
-      "PRO0015 & TEC0016 & TEC0038 & TEC0039"
-    ]
-  },
-  {
-    "cod": "PRO0054",
-    "nome": "PROJETO DE ARQUITETURA DE INTERESSE COMUNIT\u00c1RIO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0059",
-    "nome": "PROJETO DE ARQUITETURA E URBANISMO 1",
-    "ch": 180,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0042"
-    ]
-  },
-  {
-    "cod": "PRO0047",
-    "nome": "PROJETO DE ARQUITETURA E URBANISMO 8 - T\u00c9CNICAS RETROSPECTIVAS",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0020 & PRO0018 & TEC0013 & TAU0009",
-      "PRO0020 & PRO0018 & TEC0044 & TAU0009"
-    ]
-  },
-  {
-    "cod": "PRO0015",
-    "nome": "PROJETO DE ARQUITETURA - HABITA\u00c7\u00c3O",
-    "ch": 120,
-    "post_requirements": [
-      "TEC0008"
-    ],
-    "pre_requirements": [
-      "TEC0012 & PRO0013",
-      "TEC0026 & PRO0059",
-      "TEC0012 & PRO0059",
-      "TEC0026 & PRO0013"
-    ]
-  },
-  {
-    "cod": "PRO0019",
-    "nome": "PROJETO DE ARQUITETURA INDUSTRIALIZADA",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0015 & TEC0018"
-    ]
-  },
-  {
-    "cod": "PRO0013",
-    "nome": "PROJETO DE ARQUITETURA - LINGUAGEM E EXPRESS\u00c3O",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0011"
-    ]
-  },
-  {
-    "cod": "PRO0008",
-    "nome": "PROJETO DE ARQUITETURA - PROBLEMAS ESPECIAIS",
-    "ch": 90,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0016"
-    ]
-  },
-  {
-    "cod": "PRO0006",
-    "nome": "PROJETO DE DIPLOMACAO",
-    "ch": 180,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0041",
-      "PRO0018 & PRO0021 & TEC0013 & TEC0023 & TAU0011"
-    ]
-  },
-  {
-    "cod": "PRO0040",
-    "nome": "PROJETO DE DIPLOMACAO 2",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "TEC0013 & PRO0021 & PRO0039"
-    ]
-  },
-  {
-    "cod": "PRO0041",
-    "nome": "PROJETO DE EDIFICA\u00c7\u00c3O E URBAN\u00cdSMO 6",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "FAU0218"
-    ]
-  },
-  {
-    "cod": "PRO0060",
-    "nome": "PROJETO DE PAISAGISMO 1",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0015 & TEC0038",
-      "PRO0015 & TEC0018"
-    ]
-  },
-  {
-    "cod": "PRO0002",
-    "nome": "PROJETO DE PAISAGISMO 2",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0060"
-    ]
-  },
-  {
-    "cod": "PRO0020",
-    "nome": "PROJETO DE URBANISMO 1",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0022 & PRO0018",
-      "TEC0018",
-      "TEC0038"
-    ]
-  },
-  {
-    "cod": "PRO0021",
-    "nome": "PROJETO DE URBANISMO 2",
-    "ch": 120,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0020 & TEC0027"
-    ]
-  },
-  {
-    "cod": "PRO0043",
-    "nome": "PROJETO DE URBANISMO - PROBLEMAS ESPECIAIS",
-    "ch": 90,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0020",
-      "FAU0218"
-    ]
-  },
-  {
-    "cod": "PRO0051",
-    "nome": "PROJETO E PLANEJAMENTO  DE HABITA\u00c7\u00c3O POPULAR",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "TEC0007"
-    ]
-  },
-  {
-    "cod": "PRO0022",
-    "nome": "PROJETO PAISAG\u00cdSTICO 1",
-    "ch": 120,
-    "post_requirements": [
-      "FAV0024"
-    ],
-    "pre_requirements": [
-      "PRO0016"
-    ]
-  },
-  {
-    "cod": "PRO0032",
-    "nome": "PROJETO PAISAGISTICO 2",
-    "ch": 90,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0022",
-      "PRO0044"
-    ]
-  },
-  {
-    "cod": "PRO0049",
-    "nome": "SABER LOCAL - COMUNIDADE E ARQUITETURA",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "PRO0048",
-    "nome": "TRABALHO FINAL DE GRADUA\u00c7\u00c3O",
-    "ch": 240,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0026 & PRO0021 & TEC0014 & TAU0012 & PRO0039 & PRO0047 & PRO0045 & IGD0183"
-    ]
-  },
-  {
-    "cod": "PRO0001",
-    "nome": "TRABALHO FINAL DE GRADUA\u00c7\u00c3O EM ARQUITETURA E URBANISMO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": [
-      "PRO0026 & PRO0021 & TAU0012 & PRO0039 & PRO0047 & IGD0183",
-      "PRO0026 & PRO0021 & TAU0001 & PRO0039 & PRO0047 & IGD0183"
-    ]
-  },
-  {
-    "cod": "PRO0035",
-    "nome": "VEGETACAO APLICADA AO PAISAGISMO",
-    "ch": 60,
-    "post_requirements": [
-      "PR"
-    ],
-    "pre_requirements": []
-  }
+   {
+      "codigo": "PRO0005",
+      "nome": "ATELIÊ DE HISTÓRIAS EM QUADRINHOS EM ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0098"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0050",
+      "nome": "ATELIÊ DE PROJETO DE ARQUITETURA E URBANISMO SUSTENTÁVEL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PRO0137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0052",
+      "nome": "AVALIAÇÃO DE PÓS-OCUPAÇÃO DE ESPAÇOS URBANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0139"
+      ],
+      "pre_requisitos": [
+         "PRO0013"
+      ]
+   },
+   {
+      "codigo": "PRO0004",
+      "nome": "CIÊNCIAS DO COMPORTAMENTO APLICADAS À ARQUITETURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0045",
+      "nome": "COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0037",
+         "PRO0132"
+      ],
+      "pre_requisitos": [
+         "PRO0011"
+      ]
+   },
+   {
+      "codigo": "PRO0037",
+      "nome": "COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0125"
+      ],
+      "pre_requisitos": [
+         "PRO0045"
+      ]
+   },
+   {
+      "codigo": "PRO0064",
+      "nome": "CONFORTO TÉRMICO AMBIENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "TEC0028",
+         "TEC0029",
+         "PRO0092"
+      ],
+      "pre_requisitos": [
+         "TEC0042"
+      ]
+   },
+   {
+      "codigo": "PRO0023",
+      "nome": "DESENHO ARQUITETONICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0036",
+         "PRO0075"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0061",
+      "nome": "DESENHO DE ARQUITETURA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "PRO0148"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0025",
+      "nome": "DESENHO E PLASTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0026",
+         "PRO0076"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0026",
+      "nome": "DESENHO E PLASTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0027",
+         "PRO0077"
+      ],
+      "pre_requisitos": [
+         "PRO0025"
+      ]
+   },
+   {
+      "codigo": "PRO0046",
+      "nome": "DESENHO E PLASTICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0133"
+      ],
+      "pre_requisitos": [
+         "PRO0026 & PRO0013"
+      ]
+   },
+   {
+      "codigo": "PRO0003",
+      "nome": "ERGONOMIA APLICADA À ARQUITETURA DE INTERIORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0096"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0066",
+      "nome": "ESBOÇOS URBANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0027",
+      "nome": "ESPACO,EXPRESSAO E SIGNIFICADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0116"
+      ],
+      "pre_requisitos": [
+         "PRO0026"
+      ]
+   },
+   {
+      "codigo": "PRO0007",
+      "nome": "ESTAGIOS SUPERVISIONADOS DE PROJETOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAU0229",
+         "PRO0083"
+      ],
+      "pre_requisitos": [
+         "PRO0020",
+         "PRO0016"
+      ]
+   },
+   {
+      "codigo": "PRO0028",
+      "nome": "GEOMETRIA CONSTRUTIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0078"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0029",
+      "nome": "GEOMETRIA DA FORMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0044",
+      "nome": "INICIACAO AO PROJETO PAISAGISTICO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0032",
+         "PRO0034",
+         "PRO0131"
+      ],
+      "pre_requisitos": [
+         "FAU0109 & FAU0133"
+      ]
+   },
+   {
+      "codigo": "PRO0042",
+      "nome": "INTRODUÇÃO AO PROJETO DE ARQUITETURA 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PRO0059",
+         "PRO0129"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0039",
+      "nome": "INTRODUÇÃO AO TRABALHO FINAL DE GRADUAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0088"
+      ],
+      "pre_requisitos": [
+         "TEC0023 & PRO0018 & PRO0020 & TAU0011"
+      ]
+   },
+   {
+      "codigo": "PRO0062",
+      "nome": "INVENÇÕES E PATENTES EM ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0053",
+      "nome": "MÉTODOS E TÉCNICAS DE PESQUISA EM ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0140"
+      ],
+      "pre_requisitos": [
+         "PRO0013"
+      ]
+   },
+   {
+      "codigo": "PRO0065",
+      "nome": "MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO - BIM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "PRO0081"
+      ],
+      "pre_requisitos": [
+         "PRO0063"
+      ]
+   },
+   {
+      "codigo": "PRO0063",
+      "nome": "MODELAGEM TRIDIMENSIONAL DIGITAL EM ARQUITETURA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "PRO0065",
+         "PRO0080"
+      ],
+      "pre_requisitos": [
+         "PRO0011"
+      ]
+   },
+   {
+      "codigo": "PRO0036",
+      "nome": "OFICINA DE MAQUETE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0124"
+      ],
+      "pre_requisitos": [
+         "PRO0023",
+         "FAU0133"
+      ]
+   },
+   {
+      "codigo": "PRO0034",
+      "nome": "PLANEJAMENTO DA PAISAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0122"
+      ],
+      "pre_requisitos": [
+         "PRO0022",
+         "PRO0044"
+      ]
+   },
+   {
+      "codigo": "PRO0055",
+      "nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0142"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0056",
+      "nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0143"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0057",
+      "nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0144"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0058",
+      "nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0091"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0009",
+      "nome": "PRATICA PROFISSIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "PRO0102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0031",
+      "nome": "PROGRAMACAO VISUAL APLICADA A ARQUITETURA E URBANISMO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PRO0087"
+      ],
+      "pre_requisitos": [
+         "PRO0015",
+         "FAU0133 & FAU0111"
+      ]
+   },
+   {
+      "codigo": "PRO0011",
+      "nome": "PROJETO ARQUITETONICO 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "TEC0002",
+         "TEC0007",
+         "PRO0013",
+         "TEC0016",
+         "TEC0018",
+         "PRO0045",
+         "PRO0063",
+         "PRO0069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0017",
+      "nome": "PROJETO ARQUITETONICO DE EDIFICACOES EM ALTURA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAU0201",
+         "PRO0084"
+      ],
+      "pre_requisitos": [
+         "PRO0016"
+      ]
+   },
+   {
+      "codigo": "PRO0030",
+      "nome": "PROJETO DE ARQUITETURA ASSISTIDO POR COMPUTADOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0119"
+      ],
+      "pre_requisitos": [
+         "PRO0045 & PRO0016",
+         "PRO0045 & FAU0111"
+      ]
+   },
+   {
+      "codigo": "PRO0018",
+      "nome": "PROJETO DE ARQUITETURA DE FUNÇÕES COMPLEXAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0073"
+      ],
+      "pre_requisitos": [
+         "PRO0017 & TEC0028 & TEC0029"
+      ]
+   },
+   {
+      "codigo": "PRO0016",
+      "nome": "PROJETO DE ARQUITETURA DE GRANDES VAOS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0007",
+         "TAU0003",
+         "PRO0008",
+         "PRO0017",
+         "TEC0014",
+         "PRO0022",
+         "PRO0072"
+      ],
+      "pre_requisitos": [
+         "PRO0015 & TEC0016 & TEC0018",
+         "PRO0015 & TEC0016 & TEC0038 & TEC0039"
+      ]
+   },
+   {
+      "codigo": "PRO0054",
+      "nome": "PROJETO DE ARQUITETURA DE INTERESSE COMUNITÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0141"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0059",
+      "nome": "PROJETO DE ARQUITETURA E URBANISMO 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PRO0146"
+      ],
+      "pre_requisitos": [
+         "PRO0042"
+      ]
+   },
+   {
+      "codigo": "PRO0047",
+      "nome": "PROJETO DE ARQUITETURA E URBANISMO 8 - TÉCNICAS RETROSPECTIVAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0089"
+      ],
+      "pre_requisitos": [
+         "PRO0020 & PRO0018 & TEC0013 & TAU0009",
+         "PRO0020 & PRO0018 & TEC0044 & TAU0009"
+      ]
+   },
+   {
+      "codigo": "PRO0015",
+      "nome": "PROJETO DE ARQUITETURA - HABITAÇÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "TEC0008",
+         "PRO0031",
+         "PRO0071"
+      ],
+      "pre_requisitos": [
+         "TEC0012 & PRO0013",
+         "TEC0026 & PRO0059",
+         "TEC0012 & PRO0059",
+         "TEC0026 & PRO0013"
+      ]
+   },
+   {
+      "codigo": "PRO0019",
+      "nome": "PROJETO DE ARQUITETURA INDUSTRIALIZADA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0109"
+      ],
+      "pre_requisitos": [
+         "PRO0015 & TEC0018"
+      ]
+   },
+   {
+      "codigo": "PRO0013",
+      "nome": "PROJETO DE ARQUITETURA - LINGUAGEM E EXPRESSÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0052",
+         "PRO0053",
+         "PRO0070"
+      ],
+      "pre_requisitos": [
+         "PRO0011"
+      ]
+   },
+   {
+      "codigo": "PRO0008",
+      "nome": "PROJETO DE ARQUITETURA - PROBLEMAS ESPECIAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PRO0101"
+      ],
+      "pre_requisitos": [
+         "PRO0016"
+      ]
+   },
+   {
+      "codigo": "PRO0006",
+      "nome": "PROJETO DE DIPLOMACAO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PRO0099"
+      ],
+      "pre_requisitos": [
+         "PRO0041",
+         "PRO0018 & PRO0021 & TEC0013 & TEC0023 & TAU0011"
+      ]
+   },
+   {
+      "codigo": "PRO0040",
+      "nome": "PROJETO DE DIPLOMACAO 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0127"
+      ],
+      "pre_requisitos": [
+         "TEC0013 & PRO0021 & PRO0039"
+      ]
+   },
+   {
+      "codigo": "PRO0041",
+      "nome": "PROJETO DE EDIFICAÇÃO E URBANÍSMO 6",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0006",
+         "PRO0128"
+      ],
+      "pre_requisitos": [
+         "FAU0218"
+      ]
+   },
+   {
+      "codigo": "PRO0060",
+      "nome": "PROJETO DE PAISAGISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0002",
+         "FAV0024",
+         "FAV0064",
+         "PRO0079"
+      ],
+      "pre_requisitos": [
+         "PRO0015 & TEC0038",
+         "PRO0015 & TEC0018"
+      ]
+   },
+   {
+      "codigo": "PRO0002",
+      "nome": "PROJETO DE PAISAGISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0068"
+      ],
+      "pre_requisitos": [
+         "PRO0060"
+      ]
+   },
+   {
+      "codigo": "PRO0020",
+      "nome": "PROJETO DE URBANISMO 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0007",
+         "TEC0014",
+         "PRO0043",
+         "PRO0074"
+      ],
+      "pre_requisitos": [
+         "PRO0022 & PRO0018",
+         "TEC0018",
+         "TEC0038"
+      ]
+   },
+   {
+      "codigo": "PRO0021",
+      "nome": "PROJETO DE URBANISMO 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0085"
+      ],
+      "pre_requisitos": [
+         "PRO0020 & TEC0027"
+      ]
+   },
+   {
+      "codigo": "PRO0043",
+      "nome": "PROJETO DE URBANISMO - PROBLEMAS ESPECIAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PRO0130"
+      ],
+      "pre_requisitos": [
+         "PRO0020",
+         "FAU0218"
+      ]
+   },
+   {
+      "codigo": "PRO0051",
+      "nome": "PROJETO E PLANEJAMENTO  DE HABITAÇÃO POPULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0138"
+      ],
+      "pre_requisitos": [
+         "TEC0007"
+      ]
+   },
+   {
+      "codigo": "PRO0022",
+      "nome": "PROJETO PAISAGÍSTICO 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAV0024",
+         "FAV0064",
+         "PRO0032",
+         "PRO0034",
+         "PRO0086"
+      ],
+      "pre_requisitos": [
+         "PRO0016"
+      ]
+   },
+   {
+      "codigo": "PRO0032",
+      "nome": "PROJETO PAISAGISTICO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PRO0121"
+      ],
+      "pre_requisitos": [
+         "PRO0022",
+         "PRO0044"
+      ]
+   },
+   {
+      "codigo": "PRO0049",
+      "nome": "SABER LOCAL - COMUNIDADE E ARQUITETURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PRO0048",
+      "nome": "TRABALHO FINAL DE GRADUAÇÃO",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "PRO0090"
+      ],
+      "pre_requisitos": [
+         "PRO0026 & PRO0021 & TEC0014 & TAU0012 & PRO0039 & PRO0047 & PRO0045 & IGD0183"
+      ]
+   },
+   {
+      "codigo": "PRO0001",
+      "nome": "TRABALHO FINAL DE GRADUAÇÃO EM ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0067"
+      ],
+      "pre_requisitos": [
+         "PRO0026 & PRO0021 & TAU0012 & PRO0039 & PRO0047 & IGD0183",
+         "PRO0026 & PRO0021 & TAU0001 & PRO0039 & PRO0047 & IGD0183"
+      ]
+   },
+   {
+      "codigo": "PRO0035",
+      "nome": "VEGETACAO APLICADA AO PAISAGISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PRO0123"
+      ],
+      "pre_requisitos": []
+   }
 ]
