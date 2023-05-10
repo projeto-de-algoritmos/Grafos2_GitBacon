@@ -1,5 +1,19 @@
 [
   {
+    "cod": "FIT0037",
+    "nome": "DIAGNOSE DE DOEN\u00c7AS DE PLANTAS (DPP)",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0073"
+    ],
+    "pre_requirements": [
+      "FIT0019",
+      "FIT0003",
+      "CEL0111"
+    ]
+  }
+][
+  {
     "cod": "ICB0235",
     "nome": "A CI\u00caNCIA E SUA FUN\u00c7\u00c3O SOCIAL",
     "ch": 90,
@@ -1718,6 +1732,1324 @@
     "ch": 60,
     "post_requirements": [
       "ICB0501"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0064",
+    "nome": "ADAPATA\u00c7\u00d5ES DAS PLANTAS AO MEIO AMBIENTE",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0019",
+    "nome": "ALGAS CONTINENTAIS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0020",
+      "BOT0078"
+    ]
+  },
+  {
+    "cod": "BOT0054",
+    "nome": "ANATOMIA COMPARADA DA MADEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0006"
+    ]
+  },
+  {
+    "cod": "BOT0006",
+    "nome": "ANATOMIA DAS MADEIRAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0004",
+      "BOT0042"
+    ]
+  },
+  {
+    "cod": "BOT0042",
+    "nome": "ANATOMIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0020 & BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0023",
+    "nome": "ANATOMIA VEGETAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0021"
+    ]
+  },
+  {
+    "cod": "BOT0024",
+    "nome": "ANATOMIA VEGETAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0023"
+    ]
+  },
+  {
+    "cod": "BOT0059",
+    "nome": "BIOLOGIA DAS DIATOM\u00c1CEAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0019"
+    ]
+  },
+  {
+    "cod": "BOT0050",
+    "nome": "BIOLOGIA REPRODUTIVA E POLINIZA\u00c7\u00c3O DE ANGIOSPERMAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0049",
+      "BOT0021",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0063",
+    "nome": "BIOTECNOLOGIA DE PLANTAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0066",
+    "nome": "BOT\u00c2NICA DOS BIOMAS BRASILEIROS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0014",
+    "nome": "BOTANICA ECONOMICA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0021",
+      "BOT0055",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0058",
+    "nome": "BOT\u00c2NICA EM CAMPO",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0015",
+    "nome": "BOTANICA EVOLUTIVA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0020 & BOT0021",
+      "ICB0098",
+      "BOT0020 & BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0016",
+    "nome": "CITOGENETICA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "GEM0014"
+    ]
+  },
+  {
+    "cod": "BOT0062",
+    "nome": "COLETA E INVENT\u00c1RIO DE FITODIVERSIDADE",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0049",
+      "BOT0021",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "BOT0009",
+    "nome": "CRESCIMENTO E DESENVOLVIMENTO VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "CEL0082  &  BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0017",
+    "nome": "CULTURA DE TECIDOS DE PLANTAS",
+    "ch": 45,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0008",
+      "BOT0071"
+    ]
+  },
+  {
+    "cod": "BOT0078",
+    "nome": "DIVERSIDADE VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FAV0024"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0017",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "BOT0013",
+    "nome": "ESTAGIO EM BOTANICA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0026",
+    "nome": "ESTAGIO EM ESTRUTURA MACRO E MICROSCOPICA DA MADEIRA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0006",
+      "BOT0004",
+      "BOT0024"
+    ]
+  },
+  {
+    "cod": "BOT0140",
+    "nome": "ESTAGIO EM INFORMATICA APLICADA A BOTANICA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0040",
+    "nome": "ESTAGIO EM TAXONOMIA DAS ALGAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0035",
+    "nome": "ESTAGIO EM TECNICAS DE HERBARIO",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0030",
+    "nome": "ESTAGIO EM TECNICAS MICROSCOPICAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0052",
+    "nome": "ESTRUTURA E FUNCIONAMENTO DE MERISTEMAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0004 & CEL0054",
+      "BOT0042 & CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0053",
+    "nome": "ESTRUTURA E ULTRAESTRUTURA DA C\u00c9LULA VEGETAL",
+    "ch": 0,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "CEL0089 & CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0056",
+    "nome": "ETNOBOT\u00c2NICA DO CERRADO",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0047",
+    "nome": "FISIOLOGIA DA FLORACAO",
+    "ch": 30,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0048",
+    "nome": "FISIOLOGIA DA GERMINACAO DAS SEMENTES",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0045",
+    "nome": "FISIOLOGIA DE ESTRESSES AMBIENTAIS EM PLANTAS",
+    "ch": 45,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0008"
+    ]
+  },
+  {
+    "cod": "BOT0069",
+    "nome": "FISIOLOGIA DO CRESCIMENTO E DESENVOLVIMENTO VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0008",
+    "nome": "FISIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "CEL0054 & BOT0004",
+      "CEL0054 & BOT0042"
+    ]
+  },
+  {
+    "cod": "BOT0004",
+    "nome": "INTRODUCAO A ANATOMIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0049",
+      "BOT0021",
+      "BOT0044",
+      "ICB0250",
+      "ICB0251"
+    ]
+  },
+  {
+    "cod": "BOT0061",
+    "nome": "MERISTEMAS E DESENVOLVIMENTO VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0071",
+    "nome": "METABOLISMO E DESENVOLVIMENTO VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0078 & CEL0089 & CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0068",
+    "nome": "METABOLISMO VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0005",
+    "nome": "MICROTECNICA VEGETAL",
+    "ch": 45,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0020",
+    "nome": "MORFOLOGIA E TAXONOMIA DAS CRIPTOGAMAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0021",
+    "nome": "MORFOLOGIA E TAXONOMIA DAS FANEROGAMAS",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0049",
+    "nome": "MORFOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0044",
+    "nome": "ORGANOGRAFIA E SISTEM\u00c1TICA FANEROF\u00cdTICA",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0010",
+    "nome": "PALINOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0021"
+    ]
+  },
+  {
+    "cod": "BOT0038",
+    "nome": "PESQUISA EM ANATOMIA DAS PLANTAS DO CERRADO",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0024",
+      "BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0075",
+    "nome": "PESQUISA EM BOT\u00c2NICA",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0032",
+    "nome": "PESQUISA EM FISIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "BOT0033",
+    "nome": "PESQUISA EM MORFOLOGIA E ANATOMIA DOS SISTEMAS SUBTERRANEOS DO CERRADO",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0024",
+      "BOT0004"
+    ]
+  },
+  {
+    "cod": "BOT0028",
+    "nome": "PESQUISA EM VEGETACAO",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0067",
+    "nome": "PR\u00c1TICA DE FISIOLOGIA VEGETAL APLICADAS AO ENSINO M\u00c9DIO",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0003",
+    "nome": "SISTEMATICA DE BRIOFITAS E PTERIDOFITAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0020",
+      "BOT0049 & BOT0055"
+    ]
+  },
+  {
+    "cod": "BOT0060",
+    "nome": "SISTEM\u00c1TICA DE FANER\u00d3GAMAS",
+    "ch": 0,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0049"
+    ]
+  },
+  {
+    "cod": "BOT0065",
+    "nome": "SISTEM\u00c1TICA DE PTERID\u00d3FITAS",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0049"
+    ]
+  },
+  {
+    "cod": "BOT0001",
+    "nome": "SISTEMATICA DOS VEGETAIS SUPERIORES",
+    "ch": 90,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "ICB0098",
+      "BOT0021"
+    ]
+  },
+  {
+    "cod": "BOT0055",
+    "nome": "SISTEM\u00c1TICA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0049"
+    ]
+  },
+  {
+    "cod": "BOT0051",
+    "nome": "TAXONOMIA DE FANEROGAMOS",
+    "ch": 45,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0077",
+    "nome": "T\u00d3PICOS EM BOT\u00c2NICA 1",
+    "ch": 30,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0073",
+    "nome": "T\u00d3PICOS EM BOT\u00c2NICA 2",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "BOT0046",
+    "nome": "VEGETACAO DO CERRADO",
+    "ch": 60,
+    "post_requirements": [
+      "B"
+    ],
+    "pre_requirements": [
+      "BOT0021",
+      "BOT0055",
+      "BOT0044"
+    ]
+  },
+  {
+    "cod": "CFS0021",
+    "nome": "ANATOMIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0056"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0056",
+    "nome": "ANATOMIA ANIMAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0106"
+    ],
+    "pre_requirements": [
+      "CFS0021",
+      "FAV0236 & FAV0066"
+    ]
+  },
+  {
+    "cod": "CFS0052",
+    "nome": "BASES BIOL\u00d3GICAS DA REPRODU\u00c7\u00c3O EM MAM\u00cdFEROS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0065"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0034",
+    "nome": "BIOLOGIA DE ANFIBIOS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0090"
+    ],
+    "pre_requirements": [
+      "ZOO0017"
+    ]
+  },
+  {
+    "cod": "CFS0059",
+    "nome": "CI\u00caNCIA E EXPERIMENTA\u00c7\u00c3O DE ANIMAIS DE LABORAT\u00d3RIO",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0071"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0037",
+    "nome": "ELEMENTOS DE FISIOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0023"
+    ],
+    "pre_requirements": [
+      "GEM0023 & CEL0063 & FMD0510",
+      "CEL0067 & GEM0023 & FMD0510",
+      "GEM0041 & CEL0063 & FMD0510",
+      "CEL0067 & GEM0041 & FMD0510",
+      "GEM0023 & CEL0082 & CEL0083 & FMD0510",
+      "CEL0067 & FMD0510 & CEL0089",
+      "GEM0062 & FMD0510 & CEL0067",
+      "CEL0054 & FMD0510 & GEM0041",
+      "CEL0054 & FMD0510 & GEM0062"
+    ]
+  },
+  {
+    "cod": "CFS0039",
+    "nome": "ELEMENTOS DE FISIOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAR0137"
+    ],
+    "pre_requirements": [
+      "CFS0037",
+      "CFS0007",
+      "CFS0041"
+    ]
+  },
+  {
+    "cod": "CFS0016",
+    "nome": "ESTAGIO EM TERMOBIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0080"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0045",
+    "nome": "EXPERIMENTACAO EM FISIOLOGIA ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0097"
+    ],
+    "pre_requirements": [
+      "CFS0010",
+      "FAV0052",
+      "CFS0048",
+      "CFS0055"
+    ]
+  },
+  {
+    "cod": "CFS0055",
+    "nome": "FISIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0001"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "CFS0053",
+    "nome": "FISIOLOGIA ANIMAL",
+    "ch": 90,
+    "post_requirements": [
+      "FAR0184"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0048",
+    "nome": "FISIOLOGIA ANIMAL 1",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0023"
+    ],
+    "pre_requirements": [
+      "CFS0021 & CEL0054"
+    ]
+  },
+  {
+    "cod": "CFS0049",
+    "nome": "FISIOLOGIA ANIMAL 2",
+    "ch": 60,
+    "post_requirements": [
+      "FAV0245",
+      "CFS0070"
+    ],
+    "pre_requirements": [
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0010",
+    "nome": "FISIOLOGIA DOS SISTEMAS 1",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0011"
+    ],
+    "pre_requirements": [
+      "CEL0023 & GEM0022",
+      "CEL0094",
+      "GEM0022"
+    ]
+  },
+  {
+    "cod": "CFS0011",
+    "nome": "FISIOLOGIA DOS SISTEMAS 2",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0077"
+    ],
+    "pre_requirements": [
+      "CFS0010"
+    ]
+  },
+  {
+    "cod": "CFS0007",
+    "nome": "FISIOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "ICB0158"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0041",
+    "nome": "FUNDAMENTOS DE FISIOLOGIA 1",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0013"
+    ],
+    "pre_requirements": [
+      "FMD0510 & GEM0041",
+      "GEM0062",
+      "CEL0054",
+      "CEL0067"
+    ]
+  },
+  {
+    "cod": "CFS0042",
+    "nome": "FUNDAMENTOS DE FISIOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "ENF0094"
+    ],
+    "pre_requirements": [
+      "CFS0041"
+    ]
+  },
+  {
+    "cod": "CFS0033",
+    "nome": "INTRODUCAO AO PROCESSAMENTO DE SINAIS BIOLOGICOS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0089"
+    ],
+    "pre_requirements": [
+      "CFS0010",
+      "CFS0031 & CFS0032",
+      "FMD0497 & CFS0032",
+      "CFS0037",
+      "CFS0041",
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0012",
+    "nome": "NEUROBIOLOGIA",
+    "ch": 120,
+    "post_requirements": [
+      "CFS0078"
+    ],
+    "pre_requirements": [
+      "GEM0022"
+    ]
+  },
+  {
+    "cod": "CFS0050",
+    "nome": "NEUROETOLOGIA DO ESTRESSE",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0101"
+    ],
+    "pre_requirements": [
+      "CFS0048",
+      "CFS0037",
+      "CFS0041",
+      "CFS0031",
+      "FAV0052",
+      "FEF0143",
+      "PPB0034"
+    ]
+  },
+  {
+    "cod": "CFS0031",
+    "nome": "NEUROFISIOLOGIA MEDICA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0013"
+    ],
+    "pre_requirements": [
+      "FMD0496"
+    ]
+  },
+  {
+    "cod": "CFS0035",
+    "nome": "NEUROPSICOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0091"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0005",
+    "nome": "PESQUISA EM METABOLISMO ENERG\u00c9TICO DE VERTEBRADOS",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0074"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0030",
+    "nome": "PESQUISA EM NEUROBIOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0067"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0003",
+    "nome": "PESQUISA EM REPRODU\u00c7\u00c3O ANIMAL",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0073"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0047",
+    "nome": "PESQUISA EM TOXINOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0068"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0017",
+    "nome": "PESQUISAS EM TERMOBIOLOGIA",
+    "ch": 90,
+    "post_requirements": [
+      "CFS0081"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0018",
+    "nome": "PESQUISAS EM TERMOBIOLOGIA ( ESTAGIO DE BACHARELADO EM BIOLOGIA )",
+    "ch": 120,
+    "post_requirements": [
+      "CFS0082"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0054",
+    "nome": "PRINC\u00cdPIOS DE ELETROFISIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0104"
+    ],
+    "pre_requirements": [
+      "CFS0048",
+      "CFS0037",
+      "CFS0055",
+      "PPB0034",
+      "FAV0052",
+      "FMD0013"
+    ]
+  },
+  {
+    "cod": "CFS0032",
+    "nome": "PRINCIPIOS DE INSTRUMENTACAO ELETROFISIOLOGICA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0088"
+    ],
+    "pre_requirements": [
+      "CFS0010",
+      "CFS0031",
+      "FMD0497",
+      "FMD0509",
+      "CFS0041",
+      "CFS0037",
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0001",
+    "nome": "PRINC\u00cdPIOS EM FARMACOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0060"
+    ],
+    "pre_requirements": [
+      "CFS0055"
+    ]
+  },
+  {
+    "cod": "CFS0023",
+    "nome": "PRINCIPIOS FARMACOLOGICOS EM BIOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0084"
+    ],
+    "pre_requirements": [
+      "CFS0048",
+      "CFS0055",
+      "CFS0037"
+    ]
+  },
+  {
+    "cod": "CFS0044",
+    "nome": "SISTEMAS SENSORIAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0096"
+    ],
+    "pre_requirements": [
+      "CFS0010 & FAV0052",
+      "PPB0034",
+      "CFS0041",
+      "CFS0031",
+      "CFS0037",
+      "CFS0048"
+    ]
+  },
+  {
+    "cod": "CFS0026",
+    "nome": "TOPICOS ESPECIAIS EM FISIOLOGIA ANIMAL COMPARATIVA",
+    "ch": 30,
+    "post_requirements": [
+      "CFS0066"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "CFS0013",
+    "nome": "VENENOS ANIMAIS",
+    "ch": 60,
+    "post_requirements": [
+      "CFS0079"
+    ],
+    "pre_requirements": [
+      "CEL0054",
+      "CEL0063",
+      "CEL0019",
+      "CEL0094",
+      "CEL0077",
+      "CFS0041",
+      "CFS0031"
+    ]
+  },
+  {
+    "cod": "FIT0010",
+    "nome": "BACTERIOLOGIA VEGETAL APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0056"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0001",
+    "nome": "DIVERSIDADE MICROBIANA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0038"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "FIT0035",
+    "nome": "DIVERSIDADE MICROBIANA 1",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0036"
+    ],
+    "pre_requirements": [
+      "ECL0033",
+      "ECL0042"
+    ]
+  },
+  {
+    "cod": "FIT0036",
+    "nome": "DIVERSIDADE MICROBIANA 2",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0072"
+    ],
+    "pre_requirements": [
+      "FIT0035"
+    ]
+  },
+  {
+    "cod": "FIT0013",
+    "nome": "DOEN\u00c7AS DE PLANTAS CULTIVADAS",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0058"
+    ],
+    "pre_requirements": [
+      "FIT0030"
+    ]
+  },
+  {
+    "cod": "FIT0032",
+    "nome": "ELEMENTOS DE MICOLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0069"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0016",
+    "nome": "ESTAGIO SUPERVISIONADO EM FITOPATOLOGIA",
+    "ch": 75,
+    "post_requirements": [
+      "FIT0059"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0005",
+    "nome": "FITOPATOLOGIA 1",
+    "ch": 120,
+    "post_requirements": [
+      "FIT0008"
+    ],
+    "pre_requirements": [
+      "CEL0019",
+      "CEL0054",
+      "CEL0094"
+    ]
+  },
+  {
+    "cod": "FIT0008",
+    "nome": "FITOPATOLOGIA 2",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0054"
+    ],
+    "pre_requirements": [
+      "FIT0005"
+    ]
+  },
+  {
+    "cod": "FIT0018",
+    "nome": "FITOPATOLOGIA APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0042"
+    ],
+    "pre_requirements": [
+      "FIT0030"
+    ]
+  },
+  {
+    "cod": "FIT0030",
+    "nome": "FITOPATOLOGIA GERAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0013"
+    ],
+    "pre_requirements": [
+      "FIT0031",
+      "FIT0019"
+    ]
+  },
+  {
+    "cod": "FIT0004",
+    "nome": "INTRODUCAO A BACTERIOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0050"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0009",
+    "nome": "INTRODUCAO A NEMATOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0041"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0003",
+    "nome": "INTRODU\u00c7\u00c3O A PATOLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "CDS0004"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "FIT0002",
+    "nome": "INTRODUCAO A VIROLOGIA",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0048"
+    ],
+    "pre_requirements": [
+      "CEL0035 & CEL0054 & CEL0050",
+      "CEL0035 & CEL0094 & CEL0050",
+      "CEL0035 & CEL0089 & CEL0050",
+      "CEL0035 & CEL0111 & CEL0054",
+      "CEL0089 & CEL0111 & CEL0054"
+    ]
+  },
+  {
+    "cod": "FIT0017",
+    "nome": "INTRODUCAO A VIROLOGIA VEGETAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0060"
+    ],
+    "pre_requirements": [
+      "CEL0019",
+      "CEL0054",
+      "CEL0094"
+    ]
+  },
+  {
+    "cod": "FIT0006",
+    "nome": "MICOLOGIA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0040"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0019",
+    "nome": "MICROBIOLOGIA E MICRORGANISMOS FITOPATOG\u00caNICOS",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0030"
+    ],
+    "pre_requirements": [
+      "CEL0054"
+    ]
+  },
+  {
+    "cod": "FIT0031",
+    "nome": "MICROORGANISMOS FITOPATOG\u00caNICOS",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0030"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0011",
+    "nome": "NEMATOLOGIA VEGETAL APLICADA",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0057"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0034",
+    "nome": "PATOLOGIA FLORESTAL",
+    "ch": 60,
+    "post_requirements": [
+      "FIT0046"
+    ],
+    "pre_requirements": [
+      "EFL0004 & FAV0163",
+      "EFL0004 & CEL0050",
+      "EFL0004 & FIT0003"
+    ]
+  },
+  {
+    "cod": "FIT0022",
+    "nome": "PESQUISA EM BACTERIOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0063"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0024",
+    "nome": "PESQUISA EM MICOLOGIA : FUNGOS FITOPATOGENICOS",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0064"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0027",
+    "nome": "PESQUISA EM NEMATOLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0065"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0029",
+    "nome": "PESQUISA EM VIROLOGIA VEGETAL",
+    "ch": 90,
+    "post_requirements": [
+      "FIT0044"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FIT0007",
+    "nome": "VECTORES DE FITOPATOGENOS",
+    "ch": 30,
+    "post_requirements": [
+      "FIT0053"
     ],
     "pre_requirements": []
   }

@@ -3,7 +3,10 @@
     "cod": "DIN0012",
     "nome": "ANALISE GRAFICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0013",
+      "DIN0126"
+    ],
     "pre_requirements": []
   },
   {
@@ -12,8 +15,7 @@
     "ch": 60,
     "post_requirements": [
       "DIN0014",
-      "DIN0030",
-      "DIN0127"
+      "DIN0030"
     ],
     "pre_requirements": [
       "DIN0012"
@@ -46,21 +48,27 @@
     "cod": "DIN0035",
     "nome": "COMPUTACAO GRAFICA APLICADA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0173"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0031",
     "nome": "CRIATIVIDADE EM DESIGN",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0170"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0037",
     "nome": "DESENHO APLICADO 1",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0045"
+    ],
     "pre_requirements": []
   },
   {
@@ -78,14 +86,18 @@
     "cod": "DIN0001",
     "nome": "DESIGN DE INTERA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0125"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0002",
     "nome": "DESIGN DE JOGOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0142"
+    ],
     "pre_requirements": []
   },
   {
@@ -126,7 +138,9 @@
     "cod": "DIN0007",
     "nome": "ENCADERNA\u00c7\u00c3O ARTESANAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0115"
+    ],
     "pre_requirements": []
   },
   {
@@ -142,49 +156,63 @@
     "cod": "DIN0036",
     "nome": "ESTAGIO SUPERVISIONADO EM PROGRAMACAO VISUAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0174"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0038",
     "nome": "ESTAGIO SUPERVISIONADO EM PROJETO DO PRODUTO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0176"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0034",
     "nome": "ESTUDO DA FORMA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0119"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0059",
     "nome": "ESTUDOS DIRIGIDOS EM DESIGN 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0137"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0061",
     "nome": "ESTUDOS DIRIGIDOS EM DESIGN 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0138"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0063",
     "nome": "ESTUDOS DIRIGIDOS EM DESIGN 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0139"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0065",
     "nome": "ESTUDOS DIRIGIDOS EM DESIGN 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0140"
+    ],
     "pre_requirements": []
   },
   {
@@ -192,8 +220,7 @@
     "nome": "EXPRESSAO",
     "ch": 60,
     "post_requirements": [
-      "DIN0022",
-      "DIN0116"
+      "DIN0022"
     ],
     "pre_requirements": []
   },
@@ -201,49 +228,63 @@
     "cod": "DIN0004",
     "nome": "FOTOGRAFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0114"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0047",
     "nome": "FOTOGRAFIA E VIDEO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0132"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0003",
     "nome": "FUNDAMENTOS DA L\u00cdNGUAGEM APLICADOS AO DESIGN",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0113"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0020",
     "nome": "HISTORIA DA ARTE E DA TECNOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0117"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0048",
     "nome": "INTRODUCAO A ENGENHARIA COGNITIVA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0186"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0021",
     "nome": "INTRODUCAO AO DESENHO INDUSTRIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0160"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0049",
     "nome": "INTRODUCAO AO DESIGN",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0133"
+    ],
     "pre_requirements": []
   },
   {
@@ -273,42 +314,54 @@
     "cod": "DIN0050",
     "nome": "MATERIAIS E PROCESSOS GRAFICOS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      ""
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0023",
     "nome": "METODOLOGIA DO PROJETO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0064"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0066",
     "nome": "MODELAGEM DIGITAL",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0198"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0046",
     "nome": "OFICINA DE MODELOS E MAQUETE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0124"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0008",
     "nome": "PROCESSOS ARTESANAIS DE REPRODU\u00c7\u00c3O GR\u00c1FICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0147"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0067",
     "nome": "PROCESSOS DE PESQUISA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0199"
+    ],
     "pre_requirements": []
   },
   {
@@ -316,9 +369,7 @@
     "nome": "PROGRAMACAO VISUAL 1",
     "ch": 90,
     "post_requirements": [
-      "DIN0032",
-      "DIN0041",
-      "DIN0129"
+      "DIN0032"
     ],
     "pre_requirements": [
       "DIN0023"
@@ -329,10 +380,7 @@
     "nome": "PROGRAMACAO VISUAL 2",
     "ch": 90,
     "post_requirements": [
-      "DIN0042",
-      "DIN0121",
-      "DIN0084",
-      "DIN0086"
+      "DIN0042"
     ],
     "pre_requirements": [
       "DIN0040"
@@ -343,10 +391,7 @@
     "nome": "PROGRAMACAO VISUAL 3",
     "ch": 90,
     "post_requirements": [
-      "DIN0052",
-      "DIN0068",
-      "DIN0072",
-      "DIN0130"
+      "DIN0052"
     ],
     "pre_requirements": [
       "DIN0041"
@@ -357,9 +402,7 @@
     "nome": "PROGRAMACAO VISUAL 4",
     "ch": 90,
     "post_requirements": [
-      "DIN0010",
-      "DIN0054",
-      "DIN0136"
+      "DIN0010"
     ],
     "pre_requirements": [
       "DIN0042"
@@ -380,7 +423,9 @@
     "cod": "DIN0029",
     "nome": "PROJETO DE DIPLOMACAO EM PROJETO DO PRODUTO",
     "ch": 150,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0168"
+    ],
     "pre_requirements": []
   },
   {
@@ -388,10 +433,7 @@
     "nome": "PROJETO DE PRODUTO 1",
     "ch": 90,
     "post_requirements": [
-      "DIN0070",
-      "DIN0032",
-      "DIN0043",
-      "DIN0128"
+      "DIN0070"
     ],
     "pre_requirements": [
       "DIN0023"
@@ -402,10 +444,7 @@
     "nome": "PROJETO DE PRODUTO 2",
     "ch": 90,
     "post_requirements": [
-      "DIN0044",
-      "DIN0131",
-      "DIN0084",
-      "DIN0086"
+      "DIN0044"
     ],
     "pre_requirements": [
       "DIN0039"
@@ -416,10 +455,7 @@
     "nome": "PROJETO DE PRODUTO 3",
     "ch": 90,
     "post_requirements": [
-      "DIN0069",
-      "DIN0051",
-      "DIN0072",
-      "DIN0122"
+      "DIN0069"
     ],
     "pre_requirements": [
       "DIN0043"
@@ -430,9 +466,7 @@
     "nome": "PROJETO DE PRODUTO 4",
     "ch": 90,
     "post_requirements": [
-      "DIN0056",
-      "DIN0010",
-      "DIN0135"
+      "DIN0056"
     ],
     "pre_requirements": [
       "DIN0044"
@@ -443,8 +477,7 @@
     "nome": "PROJETO DO OBJETO 1",
     "ch": 150,
     "post_requirements": [
-      "DIN0026",
-      "DIN0164"
+      "DIN0026"
     ],
     "pre_requirements": [
       "DIN0021 & DIN0022 & DIN0023"
@@ -455,8 +488,7 @@
     "nome": "PROJETO DO OBJETO 2",
     "ch": 150,
     "post_requirements": [
-      "DIN0027",
-      "DIN0165"
+      "DIN0027"
     ],
     "pre_requirements": [
       "DIN0025"
@@ -467,8 +499,7 @@
     "nome": "PROJETO DO OBJETO 3",
     "ch": 150,
     "post_requirements": [
-      "DIN0028",
-      "DIN0166"
+      "DIN0028"
     ],
     "pre_requirements": [
       "DIN0026"
@@ -490,8 +521,7 @@
     "nome": "PROJETO VISUAL 1",
     "ch": 120,
     "post_requirements": [
-      "DIN0017",
-      "DIN0155"
+      "DIN0017"
     ],
     "pre_requirements": [
       "DIN0022 & DIN0021 & DIN0023"
@@ -502,8 +532,7 @@
     "nome": "PROJETO VISUAL 2",
     "ch": 120,
     "post_requirements": [
-      "DIN0018",
-      "DIN0156"
+      "DIN0018"
     ],
     "pre_requirements": [
       "DIN0016"
@@ -514,8 +543,7 @@
     "nome": "PROJETO VISUAL 3",
     "ch": 120,
     "post_requirements": [
-      "DIN0019",
-      "DIN0157"
+      "DIN0019"
     ],
     "pre_requirements": [
       "DIN0017"
@@ -536,7 +564,9 @@
     "cod": "DIN0057",
     "nome": "SEMIN\u00c1RIOS DE PR\u00c1TICA PROFISSIONAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0193"
+    ],
     "pre_requirements": []
   },
   {
@@ -554,28 +584,36 @@
     "cod": "DIN0006",
     "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0145"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0110",
     "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0206"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0111",
     "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0207"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DIN0112",
     "nome": "T\u00d3PICOS ESPECIAIS EM DESIGN 4",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DIN0208"
+    ],
     "pre_requirements": []
   },
   {

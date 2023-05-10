@@ -38,8 +38,7 @@
     "nome": "ESTRUTURAS ARQUITETONICAS 1",
     "ch": 120,
     "post_requirements": [
-      "FAU0147",
-      "FAU0348"
+      "FAU0147"
     ],
     "pre_requirements": [
       "MAT0025 & FAU0109",
@@ -51,8 +50,7 @@
     "nome": "ESTRUTURAS ARQUITETONICAS 2",
     "ch": 120,
     "post_requirements": [
-      "TEC0010",
-      "FAU0349"
+      "TEC0010"
     ],
     "pre_requirements": [
       "FAU0146"
@@ -62,14 +60,18 @@
     "cod": "FAU0001",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAU0336"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAU0002",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAU0337"
+    ],
     "pre_requirements": []
   },
   {
@@ -94,7 +96,9 @@
     "cod": "FAU0133",
     "nome": "EXPRESSAO E REPRESENTACAO DE PROJETO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAU0134"
+    ],
     "pre_requirements": []
   },
   {
@@ -112,14 +116,18 @@
     "cod": "FAU0173",
     "nome": "INSTALACOES E EQUIPAMENTOS 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAU0350"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAU0174",
     "nome": "INSTALACOES E EQUIPAMENTOS 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAU0351"
+    ],
     "pre_requirements": []
   },
   {
@@ -156,8 +164,7 @@
     "nome": "PLANEJAMENTO URBANO E REGIONAL 1",
     "ch": 60,
     "post_requirements": [
-      "FAU0223",
-      "FAU0357"
+      "FAU0223"
     ],
     "pre_requirements": [
       "TAU0002"
@@ -191,9 +198,7 @@
     "nome": "PROJETO DE EDIFICACAO E URBANISMO 1",
     "ch": 180,
     "post_requirements": [
-      "FAU0110",
-      "FAU0140",
-      "FAU0338"
+      "FAU0110"
     ],
     "pre_requirements": [
       "TAU0002 & VIS0063"
@@ -204,8 +209,7 @@
     "nome": "PROJETO DE EDIFICACAO E URBANISMO 2",
     "ch": 180,
     "post_requirements": [
-      "FAU0111",
-      "FAU0339"
+      "FAU0111"
     ],
     "pre_requirements": [
       "FAU0109"
@@ -216,11 +220,7 @@
     "nome": "PROJETO DE EDIFICACAO E URBANISMO 3",
     "ch": 180,
     "post_requirements": [
-      "TAU0003",
-      "TEC0008",
-      "FAU0201",
-      "FAU0216",
-      "FAU0340"
+      "TAU0003"
     ],
     "pre_requirements": [
       "FAU0110"
@@ -231,8 +231,7 @@
     "nome": "PROJETO DE EDIFICACAO E URBANISMO 4",
     "ch": 120,
     "post_requirements": [
-      "FAU0218",
-      "FAU0355"
+      "FAU0218"
     ],
     "pre_requirements": [
       "FAU0111"
@@ -243,9 +242,7 @@
     "nome": "PROJETO DE EDIFICACAO E URBANISMO 5",
     "ch": 120,
     "post_requirements": [
-      "PRO0041",
-      "PRO0043",
-      "FAU0356"
+      "PR"
     ],
     "pre_requirements": [
       "FAU0216"
@@ -278,8 +275,7 @@
     "nome": "TEORIA E HIST\u00d3RIA DA ARQUITETURA E URBANISMO 2",
     "ch": 60,
     "post_requirements": [
-      "TAU0010",
-      "FAU0359"
+      "TAU0010"
     ],
     "pre_requirements": [
       "TAU0002"
@@ -290,9 +286,7 @@
     "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 3",
     "ch": 60,
     "post_requirements": [
-      "FAU0144",
-      "TAU0015",
-      "FAU0342"
+      "FAU0144"
     ],
     "pre_requirements": [
       "TAU0002"

@@ -26,10 +26,7 @@
     "nome": "AGENTES INFECCIOSOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0139",
-      "FCE0305",
-      "FCE0329",
-      "FCE0556"
+      "FCE0139"
     ],
     "pre_requirements": [
       "FCE0231"
@@ -64,9 +61,7 @@
     "nome": "AN\u00c1LISE INSTRUMENTAL FARMAC\u00caUTICA",
     "ch": 60,
     "post_requirements": [
-      "FAR0120",
-      "FAR0163",
-      "FCE0561"
+      "FAR0120"
     ],
     "pre_requirements": [
       "FCE0238 & FCE0212",
@@ -110,14 +105,18 @@
     "cod": "FCE0021",
     "nome": "APRIMORAMENTO DA PERFORMANCE COMUNICATIVA: ATIVIDADE PR\u00c1TICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0743"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0110",
     "nome": "ARTETERAPIA: CRIATIVIDADE, ARTE E SA\u00daDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0483"
+    ],
     "pre_requirements": []
   },
   {
@@ -125,8 +124,7 @@
     "nome": "ASSIST\u00caNCIA FARMAC\u00caUTICA E SISTEMAS DE SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0063",
-      "FCE0531"
+      "FCE0063"
     ],
     "pre_requirements": []
   },
@@ -134,14 +132,18 @@
     "cod": "FCE0156",
     "nome": "ASSOCIA\u00c7\u00d5ES DOS PROFISSIONAIS DE ENFERMAGEM",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0876"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0050",
     "nome": "ATEN\u00c7\u00c3O AO PREMATURO E A FAM\u00cdLIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0470"
+    ],
     "pre_requirements": []
   },
   {
@@ -260,7 +262,9 @@
     "cod": "FCE0198",
     "nome": "BIOF\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0681"
+    ],
     "pre_requirements": []
   },
   {
@@ -268,8 +272,7 @@
     "nome": "BIOQU\u00cdMICA CL\u00cdNICA",
     "ch": 60,
     "post_requirements": [
-      "FAR0183",
-      "FCE0704"
+      "FAR0183"
     ],
     "pre_requirements": [
       "FCE0307",
@@ -292,8 +295,7 @@
     "nome": "BIOQU\u00cdMICA CL\u00cdNICA TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "FCE0417",
-      "FCE0640"
+      "FCE0417"
     ],
     "pre_requirements": [
       "FCE0307"
@@ -303,7 +305,9 @@
     "cod": "FCE0214",
     "nome": "BIOSSEGURAN\u00c7A E BIOPROTE\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0928"
+    ],
     "pre_requirements": []
   },
   {
@@ -322,8 +326,7 @@
     "nome": "BROMATOLOGIA TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "FCE0419",
-      "FCE0715"
+      "FCE0419"
     ],
     "pre_requirements": [
       "FCE0238"
@@ -334,9 +337,7 @@
     "nome": "CICLOS DE VIDA E FONOAUDIOLOGIA DO NASCIMENTO \u00c0 PRIMEIRA INF\u00c2NCIA",
     "ch": 30,
     "post_requirements": [
-      "FCE0066",
-      "FCE0068",
-      "FCE0780"
+      "FCE0066"
     ],
     "pre_requirements": [
       "FCE0041"
@@ -347,9 +348,7 @@
     "nome": "CICLOS DE VIDA E FONOAUDIOLOGIA: INF\u00c2NCIA A ADOLESC\u00caNCIA",
     "ch": 90,
     "post_requirements": [
-      "FCE0082",
-      "FCE0083",
-      "FCE0798"
+      "FCE0082"
     ],
     "pre_requirements": [
       "FCE0042 & FCE0264 & FCE0033 & FCE0041"
@@ -405,14 +404,18 @@
     "cod": "FCE0216",
     "nome": "CONTEXTO HIST\u00d3RICO E SOCIAL DA ENFERMAGEM",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0235"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0178",
     "nome": "CONTEXTO HIST\u00d3RICO E SOCIAL DA ENFERMAGEM",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0242"
+    ],
     "pre_requirements": []
   },
   {
@@ -454,9 +457,7 @@
     "nome": "CONTROLE F\u00cdSICO-QU\u00cdMICO DA QUALIDADE",
     "ch": 60,
     "post_requirements": [
-      "FCE0081",
-      "FCE0353",
-      "FCE0593"
+      "FCE0081"
     ],
     "pre_requirements": [
       "FCE0238 & FCE0260"
@@ -479,9 +480,7 @@
     "nome": "CUIDADO DE ENFERMAGEM EM SITUA\u00c7\u00d5ES CR\u00cdTICAS E DE RISCO",
     "ch": 60,
     "post_requirements": [
-      "FCE0075",
-      "FCE0101",
-      "FCE0630"
+      "FCE0075"
     ],
     "pre_requirements": [
       "FCE0364 & FCE0363 & FCE0362 & FCE0365"
@@ -492,8 +491,7 @@
     "nome": "CUIDADO DE ENFERMAGEM EM SITUA\u00c7\u00d5ES CR\u00cdTICAS E DE RISCO",
     "ch": 90,
     "post_requirements": [
-      "FCE0075",
-      "FCE0678"
+      "FCE0075"
     ],
     "pre_requirements": [
       "FCE0376 & FCE0174",
@@ -529,13 +527,7 @@
     "nome": "CUIDADO INTEGRAL A SA\u00daDE DA MULHER E CRIAN\u00c7A",
     "ch": 120,
     "post_requirements": [
-      "FCE0026",
-      "FCE0160",
-      "FCE0629",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0174"
+      "FCE0026"
     ],
     "pre_requirements": [
       "FCE0363 & FCE0362 & FCE0364"
@@ -546,8 +538,7 @@
     "nome": "CUIDADO INTEGRAL A SA\u00daDE DO ADULTO E IDOSO",
     "ch": 90,
     "post_requirements": [
-      "FCE0052",
-      "FCE0619"
+      "FCE0052"
     ],
     "pre_requirements": [
       "FCE0170",
@@ -595,7 +586,9 @@
     "cod": "FCE0146",
     "nome": "DA C\u00c9LULA AOS SISTEMAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0508"
+    ],
     "pre_requirements": []
   },
   {
@@ -625,8 +618,7 @@
     "nome": "DEONTOLOGIA E LEGISLA\u00c7\u00c3O FARMAC\u00caUTICA",
     "ch": 30,
     "post_requirements": [
-      "FCE0399",
-      "FCE0557"
+      "FCE0399"
     ],
     "pre_requirements": [
       "FCE0188 & FCE0213",
@@ -648,7 +640,9 @@
     "cod": "FCE0251",
     "nome": "DIN\u00c2MICAS GRUPAIS E ATIVIDADES CORPORAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0962"
+    ],
     "pre_requirements": []
   },
   {
@@ -667,22 +661,7 @@
     "nome": "DO \u00c1TOMO \u00c0 C\u00c9LULA",
     "ch": 60,
     "post_requirements": [
-      "FCE0204",
-      "FCE0209",
-      "FCE0210",
-      "FCE0211",
-      "FCE0215",
-      "FCE0220",
-      "FCE0224",
-      "FCE0225",
-      "FCE0231",
-      "FCE0238",
-      "FCE0257",
-      "FCE0454",
-      "FCE0520",
-      "FAR0249",
-      "FCE0909",
-      "FCE0938"
+      "FCE0204"
     ],
     "pre_requirements": []
   },
@@ -691,11 +670,7 @@
     "nome": "DO GENE \u00c0 VIDA",
     "ch": 30,
     "post_requirements": [
-      "FCE0001",
-      "FCE0073",
-      "FCE0149",
-      "CEL0099",
-      "FCE0524"
+      "FCE0001"
     ],
     "pre_requirements": [
       "FCE0192"
@@ -713,8 +688,7 @@
     "nome": "ECONOMIA DA SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0336",
-      "FCE0600"
+      "FCE0336"
     ],
     "pre_requirements": [
       "FCE0206"
@@ -782,10 +756,7 @@
     "nome": "EPIDEMIOLOGIA ANAL\u00cdTICA",
     "ch": 60,
     "post_requirements": [
-      "FCE0013",
-      "FCE0323",
-      "DSC0096",
-      "FCE0526"
+      "FCE0013"
     ],
     "pre_requirements": [
       "FCE0187"
@@ -796,11 +767,7 @@
     "nome": "EPIDEMIOLOGIA DESCRITIVA",
     "ch": 60,
     "post_requirements": [
-      "FCE0206",
-      "DSC0025",
-      "DSC0068",
-      "DSC0095",
-      "FCE0517"
+      "FCE0206"
     ],
     "pre_requirements": []
   },
@@ -809,9 +776,7 @@
     "nome": "EPIDEMIOLOGIA PARA A GEST\u00c3O EM SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0017",
-      "FCE0045",
-      "FCE0602"
+      "FCE0017"
     ],
     "pre_requirements": [
       "FCE0187 & FCE0234"
@@ -833,8 +798,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 1",
     "ch": 450,
     "post_requirements": [
-      "FCE0184",
-      "FCE0679"
+      "FCE0184"
     ],
     "pre_requirements": [
       "FCE0388  &  FCE0377",
@@ -858,8 +822,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 2",
     "ch": 270,
     "post_requirements": [
-      "FCE0014",
-      "FCE0664"
+      "FCE0014"
     ],
     "pre_requirements": [
       "FCE0388  &  FCE0377",
@@ -883,8 +846,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM FONOAUDIOLOGIA 1",
     "ch": 210,
     "post_requirements": [
-      "FCE0129",
-      "FCE0501"
+      "FCE0129"
     ],
     "pre_requirements": [
       "FCE0126 & FCE0121 & FCE0128 & FCE0123 & FCE0132"
@@ -895,8 +857,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM FONOAUDIOLOGIA 2",
     "ch": 270,
     "post_requirements": [
-      "FCE0131",
-      "FCE0500"
+      "FCE0131"
     ],
     "pre_requirements": [
       "FCE0130"
@@ -918,9 +879,7 @@
     "nome": "EST\u00c1GIO OBRIGAT\u00d3RIO  EM FISIOTERAPIA 1",
     "ch": 300,
     "post_requirements": [
-      "FCE0035",
-      "FCE0447",
-      "FCE0463"
+      "FCE0035"
     ],
     "pre_requirements": [
       "FCE0292 & FCE0293 & FCE0294 & FCE0295 & FCE0300"
@@ -931,9 +890,7 @@
     "nome": "EST\u00c1GIO OBRIGAT\u00d3RIO  EM FISIOTERAPIA 2",
     "ch": 300,
     "post_requirements": [
-      "FCE0036",
-      "FCE0448",
-      "FCE0464"
+      "FCE0036"
     ],
     "pre_requirements": [
       "FCE0034",
@@ -968,9 +925,7 @@
     "nome": "EST\u00c1GIO SUPERVIONADO CURRICULAR EM TERAPIA OCUPACIONAL 1",
     "ch": 300,
     "post_requirements": [
-      "FCE0386",
-      "FCE0451",
-      "FCE0705"
+      "FCE0386"
     ],
     "pre_requirements": [
       "FCE0354 & FCE0356 & FCE0357 & FCE0358 & FCE0359 & FCE0229 & FCE0254 & FCE0208 & FCE0264 & FCE0204"
@@ -993,9 +948,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 1",
     "ch": 435,
     "post_requirements": [
-      "FCE0412",
-      "FCE0710",
-      "FCE0968"
+      "FCE0412"
     ],
     "pre_requirements": [
       "FCE0189 & FCE0206 & FCE0225 & FCE0266 & FCE0259 & FCE0329 & FCE0282 & FCE0277 & FCE0372 & FCE0367 & FCE0373 & FCE0368 & FAR0050 & FCE0399 & FCE0381 & FCE0398 & FCE0402"
@@ -1017,8 +970,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO CURR\u00cdCULAR EM FISIOTERAPIA 1",
     "ch": 450,
     "post_requirements": [
-      "FCE0304",
-      "FCE1006"
+      "FCE0304"
     ],
     "pre_requirements": [
       "FCE0293 & FCE0295 & FCE0294 & FCE0300 & FCE0272 & FCE0298 & FCE0299"
@@ -1040,8 +992,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM SA\u00daDE COLETIVA 1",
     "ch": 150,
     "post_requirements": [
-      "FCE0342",
-      "FCE0696"
+      "FCE0342"
     ],
     "pre_requirements": [
       "FCE0187 & FCE0188 & FCE0189 & FCE0192 & FCE0229 & FCE0204 & FCE0201 & FCE0205 & FCE0206 & FCE0208 & FCE0236 & FCE0231 & FCE0234 & FCE0240 & FCE0241 & FCE0276 & FCE0277 & FCE0254 & FCE0272 & FCE0273 & FCE0278 & FCE0194 & FCE0199 & FCE0280 & FCE0324 & FCE0325 & FCE0326 & FCE0336",
@@ -1053,8 +1004,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM SA\u00daDE COLETIVA 2",
     "ch": 150,
     "post_requirements": [
-      "FCE0348",
-      "FCE0698"
+      "FCE0348"
     ],
     "pre_requirements": [
       "FCE0334"
@@ -1075,14 +1025,18 @@
     "cod": "FCE0153",
     "nome": "ESTAT\u00cdSTICA APLICADA \u00c0S CI\u00caNCIAS FARMAC\u00caUTICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0873"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0195",
     "nome": "ESTRAT\u00c9GIA EM PESQUISA FARMAC\u00caUTICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0912"
+    ],
     "pre_requirements": []
   },
   {
@@ -1090,12 +1044,7 @@
     "nome": "ESTUDOS LINGUISTICOS 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0042",
-      "FCE0049",
-      "FCE0067",
-      "FCE0467",
-      "FCE0735",
-      "FCE0745"
+      "FCE0042"
     ],
     "pre_requirements": []
   },
@@ -1104,10 +1053,7 @@
     "nome": "ESTUDOS LINGUISTICOS 2",
     "ch": 60,
     "post_requirements": [
-      "FCE0048",
-      "FCE0161",
-      "FCE0163",
-      "FCE0468"
+      "FCE0048"
     ],
     "pre_requirements": [
       "FCE0040"
@@ -1139,7 +1085,9 @@
     "cod": "FCE0177",
     "nome": "\u00c9TICA, BIO\u00c9TICA E LEGISLA\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0897"
+    ],
     "pre_requirements": []
   },
   {
@@ -1170,8 +1118,7 @@
     "nome": "EXERC\u00cdCIO PROFISSIONAL E DEONTOLOGIA EM FONOAUDIOLOGIA",
     "ch": 30,
     "post_requirements": [
-      "FCE0142",
-      "FCE0491"
+      "FCE0142"
     ],
     "pre_requirements": [
       "FCE0038 & FCE0069 & FCE0194"
@@ -1206,9 +1153,7 @@
     "post_requirements": [
       "FAV0064",
       "FAR0047",
-      "FCE0258",
-      "FCE0422",
-      "FCE0535"
+      "FCE0258"
     ],
     "pre_requirements": [
       "FCE0192",
@@ -1221,7 +1166,9 @@
     "cod": "FCE0420",
     "nome": "FARMACOBOT\u00c2NICA OU BOT\u00c2NICA APLICADA \u00c1 FARM\u00c1CIA1 (TE\u00d3RICA)",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0421"
+    ],
     "pre_requirements": []
   },
   {
@@ -1251,8 +1198,7 @@
     "nome": "FARMACOGNOSIA",
     "ch": 60,
     "post_requirements": [
-      "FCE0352",
-      "FCE0687"
+      "FCE0352"
     ],
     "pre_requirements": [
       "FCE0220"
@@ -1263,8 +1209,7 @@
     "nome": "FARMACOGNOSIA 1",
     "ch": 45,
     "post_requirements": [
-      "FCE0423",
-      "FCE1120"
+      "FCE0423"
     ],
     "pre_requirements": [
       "FCE0220"
@@ -1297,11 +1242,7 @@
     "nome": "FARMACOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "FCE0016",
-      "FCE0085",
-      "FCE0370",
-      "FCE0372",
-      "FCE0558"
+      "FCE0016"
     ],
     "pre_requirements": [
       "FCE0246"
@@ -1312,14 +1253,7 @@
     "nome": "FARMACOLOGIA B\u00c1SICA",
     "ch": 60,
     "post_requirements": [
-      "FAR0036",
-      "FCE0256",
-      "FCE0310",
-      "FCE0375",
-      "FCE0554",
-      "FCE0904",
-      "FCE0906",
-      "FCE0932"
+      "FAR0036"
     ],
     "pre_requirements": [
       "FCE0264"
@@ -1352,10 +1286,7 @@
     "nome": "FARMACOT\u00c9CNICA 1",
     "ch": 60,
     "post_requirements": [
-      "FCE0369",
-      "FCE0437",
-      "FCE1012",
-      "FCE0929"
+      "FCE0369"
     ],
     "pre_requirements": [
       "FCE0258 & FCE0246"
@@ -1377,9 +1308,7 @@
     "nome": "FARMACOT\u00c9CNICA 1 TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "FCE0425",
-      "FCE0437",
-      "FCE0642"
+      "FCE0425"
     ],
     "pre_requirements": [
       "FCE0258 & FCE0246",
@@ -1391,13 +1320,7 @@
     "nome": "FARMACOT\u00c9CNICA 2",
     "ch": 60,
     "post_requirements": [
-      "FAR0009",
-      "FAR0139",
-      "FCE0402",
-      "FCE0406",
-      "FCE0430",
-      "TE\u00d3RICA",
-      "FCE0623"
+      "FAR0009"
     ],
     "pre_requirements": [
       "FCE0308"
@@ -1431,7 +1354,9 @@
     "cod": "FCE0043",
     "nome": "F\u00cdSICA AC\u00daSTICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0469"
+    ],
     "pre_requirements": []
   },
   {
@@ -1440,8 +1365,7 @@
     "ch": 30,
     "post_requirements": [
       "FAR0140",
-      "FAR0141",
-      "FCE0538"
+      "FAR0141"
     ],
     "pre_requirements": [
       "FCE0192",
@@ -1452,7 +1376,9 @@
     "cod": "FCE0197",
     "nome": "FISIOLOGIA CL\u00cdNICA DO EXERC\u00cdCIO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0914"
+    ],
     "pre_requirements": []
   },
   {
@@ -1482,8 +1408,7 @@
     "nome": "FISIOTERAPIA BASEADA EM EVID\u00caNCIAS 2",
     "ch": 30,
     "post_requirements": [
-      "FCE0292",
-      "FCE0688"
+      "FCE0292"
     ],
     "pre_requirements": [
       "FCE0283 & FCE0206"
@@ -1494,8 +1419,7 @@
     "nome": "FISIOTERAPIA BASEADA EM EVID\u00caNCIAS 3",
     "ch": 30,
     "post_requirements": [
-      "FCE0018",
-      "FCE0583"
+      "FCE0018"
     ],
     "pre_requirements": [
       "FCE0288"
@@ -1517,8 +1441,7 @@
     "nome": "FISIOTERAPIA NA ATEN\u00c7\u00c3O B\u00c1SICA AVALIA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "FCE0289",
-      "FCE0577"
+      "FCE0289"
     ],
     "pre_requirements": [
       "FCE0279 & FCE0207"
@@ -1540,8 +1463,7 @@
     "nome": "FISIOTERAPIA NA ATEN\u00c7\u00c3O B\u00c1SICA RECURSOS TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0293",
-      "FCE0580"
+      "FCE0293"
     ],
     "pre_requirements": [
       "FCE0284"
@@ -1552,9 +1474,7 @@
     "nome": "FISIOTERAPIA NA ATEN\u00c7\u00c3O DE ALTA COMPLEXIDADE: AVALIA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FCE0579",
-      "FCE0605",
-      "FCE0722"
+      "FCE0579"
     ],
     "pre_requirements": [
       "FCE0279 & FCE0207"
@@ -1576,8 +1496,7 @@
     "nome": "FISIOTERAPIA NA ATEN\u00c7\u00c3O DE ALTA COMPLEXIDADE: RECURSOS TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0295",
-      "FCE0582"
+      "FCE0295"
     ],
     "pre_requirements": [
       "FCE0286 & FCE0282"
@@ -1588,8 +1507,7 @@
     "nome": "FISIOTERAPIA NA ATEN\u00c7\u00c3O DE M\u00c9DIA COMPLEXIDADE: AVALIA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FCE0290",
-      "FCE0578"
+      "FCE0290"
     ],
     "pre_requirements": [
       "FCE0279 & FCE0207"
@@ -1611,12 +1529,7 @@
     "nome": "FISIOTERAPIA NA ATEN\u00c7\u00c3O DE M\u00c9DIA COMPLEXIDADE: RECURSOS TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0025",
-      "FCE0060",
-      "FCE0072",
-      "FCE0294",
-      "FCE0383",
-      "FCE0581"
+      "FCE0025"
     ],
     "pre_requirements": [
       "FCE0285"
@@ -1638,8 +1551,7 @@
     "nome": "FISIOTERAPIA NO PROCESSO DE REABILITA\u00c7\u00c3O: AVALIA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "FCE0299",
-      "FCE0587"
+      "FCE0299"
     ],
     "pre_requirements": [
       "FCE0279 & FCE0207"
@@ -1661,8 +1573,7 @@
     "nome": "FISIOTERAPIA NO PROCESSO DE REABILITA\u00c7\u00c3O: RECURSOS TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0300",
-      "FCE0588"
+      "FCE0300"
     ],
     "pre_requirements": [
       "FCE0298"
@@ -1761,8 +1672,7 @@
     "nome": "FONOAUDIOLOGIA NO PRIMEIRO CICLO DE VIDA",
     "ch": 60,
     "post_requirements": [
-      "FCE0113",
-      "FCE0493"
+      "FCE0113"
     ],
     "pre_requirements": [
       "FCE0042 & FCE0116 & FCE0118"
@@ -1773,8 +1683,7 @@
     "nome": "FONOAUDIOLOGIA NO SEGUNDO CICLO DE VIDA",
     "ch": 60,
     "post_requirements": [
-      "FCE0114",
-      "FCE0495"
+      "FCE0114"
     ],
     "pre_requirements": [
       "FCE0042 & FCE0116 & FCE0117 & FCE0118"
@@ -1785,8 +1694,7 @@
     "nome": "FONOAUDIOLOGIA NO TERCEIRO CICLO DE VIDA",
     "ch": 60,
     "post_requirements": [
-      "FCE0115",
-      "FCE0490"
+      "FCE0115"
     ],
     "pre_requirements": [
       "FCE0042 & FCE0117 & FCE0118"
@@ -1808,8 +1716,7 @@
     "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O EM SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0337",
-      "FCE0570"
+      "FCE0337"
     ],
     "pre_requirements": []
   },
@@ -1817,7 +1724,9 @@
     "cod": "FCE0033",
     "nome": "FUNDAMENTOS DA PSICOLOGIA APLICADOS AOS CICLOS DA VIDA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0755"
+    ],
     "pre_requirements": []
   },
   {
@@ -1836,8 +1745,7 @@
     "nome": "FUNDAMENTOS DE AUDIOLOGIA 1",
     "ch": 60,
     "post_requirements": [
-      "FCE0126",
-      "FCE0496"
+      "FCE0126"
     ],
     "pre_requirements": [
       "FCE0043 & FCE0118"
@@ -1848,10 +1756,7 @@
     "nome": "FUNDAMENTOS DE AUDIOLOGIA 2",
     "ch": 30,
     "post_requirements": [
-      "FCE0086",
-      "FCE0102",
-      "FCE0103",
-      "FCE0497"
+      "FCE0086"
     ],
     "pre_requirements": [
       "FCE0125"
@@ -1883,7 +1788,9 @@
     "cod": "FCE0193",
     "nome": "FUNDAMENTOS DE FISIOTERAPIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0218"
+    ],
     "pre_requirements": []
   },
   {
@@ -1891,8 +1798,7 @@
     "nome": "FUNDAMENTOS DE FISIOTERAPIA: AGENTES F\u00cdSICOS",
     "ch": 90,
     "post_requirements": [
-      "FCE0226",
-      "FCE0534"
+      "FCE0226"
     ],
     "pre_requirements": [
       "FCE0193"
@@ -1903,12 +1809,7 @@
     "nome": "FUNDAMENTOS DE FISIOTERAPIA - MOVIMENTO",
     "ch": 90,
     "post_requirements": [
-      "FCE0022",
-      "FCE0026",
-      "FCE0045",
-      "FCE0141",
-      "FCE0457",
-      "FCE0573"
+      "FCE0022"
     ],
     "pre_requirements": [
       "FCE0226 & FCE0224"
@@ -1929,7 +1830,9 @@
     "cod": "FCE0217",
     "nome": "FUNDAMENTOS DE TERAPIA OCUPACIONAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0227"
+    ],
     "pre_requirements": []
   },
   {
@@ -1948,11 +1851,7 @@
     "nome": "FUNDAMENTOS DE TERAPIA OCUPACIONAL: MOVIMENTO",
     "ch": 60,
     "post_requirements": [
-      "FCE0022",
-      "FCE0026",
-      "FCE0045",
-      "FCE0457",
-      "FCE0553"
+      "FCE0022"
     ],
     "pre_requirements": [
       "FCE0227 & FCE0222"
@@ -1962,7 +1861,9 @@
     "cod": "FCE0116",
     "nome": "FUNDAMENTOS EM PSICOLOGIA APLICADOS AO DESENVOLVIMENTO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0031"
+    ],
     "pre_requirements": []
   },
   {
@@ -2004,8 +1905,7 @@
     "nome": "GEST\u00c3O DE SERVI\u00c7OS E RECURSOS HUMANOS EM FISIOTERAPIA",
     "ch": 30,
     "post_requirements": [
-      "FCE0004",
-      "FCE0586"
+      "FCE0004"
     ],
     "pre_requirements": [
       "FCE0207 & FCE0193"
@@ -2050,8 +1950,7 @@
     "nome": "HEMATOLOGIA CL\u00cdNICA TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "FCE0427",
-      "FCE0643"
+      "FCE0427"
     ],
     "pre_requirements": [
       "FCE0307"
@@ -2142,8 +2041,7 @@
     "nome": "INTEGRA\u00c7\u00c3O AO CEN\u00c1RIO DAS PR\u00c1TICAS 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0249",
-      "FCE0940"
+      "FCE0249"
     ],
     "pre_requirements": [
       "ENF0051"
@@ -2154,8 +2052,7 @@
     "nome": "INTEGRA\u00c7\u00c3O AO CEN\u00c1RIO DAS PR\u00c1TICAS 2",
     "ch": 30,
     "post_requirements": [
-      "FCE0250",
-      "FCE0960"
+      "FCE0250"
     ],
     "pre_requirements": [
       "FCE0228"
@@ -2166,11 +2063,7 @@
     "nome": "INTEGRA\u00c7\u00c3O AO CEN\u00c1RIO DAS PR\u00c1TICAS 3",
     "ch": 120,
     "post_requirements": [
-      "FCE0961",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0248"
+      "FCE0961"
     ],
     "pre_requirements": [
       "FCE0249"
@@ -2181,8 +2074,7 @@
     "nome": "INTEGRA\u00c7\u00c3O AO CEN\u00c1RIO DAS PR\u00c1TICAS 4",
     "ch": 120,
     "post_requirements": [
-      "FCE0045",
-      "FCE1064"
+      "FCE0045"
     ],
     "pre_requirements": [
       "FCE0250 & FCE0248"
@@ -2193,13 +2085,7 @@
     "nome": "INTEGRA\u00c7\u00c3O AO CEN\u00c1RIO DAS PR\u00c1TICAS 5",
     "ch": 120,
     "post_requirements": [
-      "FCE0144",
-      "FCE0389",
-      "FCE1077",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0376"
+      "FCE0144"
     ],
     "pre_requirements": [
       "FCE0364 & FCE0363 & FCE0362"
@@ -2210,11 +2096,7 @@
     "nome": "INTEGRA\u00c7\u00c3O DOS PROCESSOS VITAIS",
     "ch": 60,
     "post_requirements": [
-      "FCE0096",
-      "FCE0099",
-      "FCE0264",
-      "FAR0184",
-      "FCE0536"
+      "FCE0096"
     ],
     "pre_requirements": [
       "FCE0201"
@@ -2236,8 +2118,7 @@
     "nome": "INTERA\u00c7\u00c3O PARASITO-HOSPEDEIRO",
     "ch": 30,
     "post_requirements": [
-      "FCE0017",
-      "FCE0575"
+      "FCE0017"
     ],
     "pre_requirements": [
       "FCE0231"
@@ -2271,7 +2152,9 @@
     "cod": "FCE0037",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 AN\u00c1LISE DE DISCURSO CR\u00cdTICA DA SA\u00daDE E DA DOEN\u00c7A",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0759"
+    ],
     "pre_requirements": []
   },
   {
@@ -2293,7 +2176,9 @@
     "cod": "FCE0196",
     "nome": "INTRODU\u00c7\u00c3O A BIOINFORM\u00c1TICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0913"
+    ],
     "pre_requirements": []
   },
   {
@@ -2311,28 +2196,36 @@
     "cod": "FCE0062",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FARM\u00c1CIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0472"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0038",
     "nome": "INTRODU\u00c7\u00c3O A FONOAUDIOLOGIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0466"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0441",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 NEUROPSICOLOGIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0721"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0002",
     "nome": "INTRODU\u00c7\u00c3O AOS CUIDADOS PALIATIVOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0724"
+    ],
     "pre_requirements": []
   },
   {
@@ -2340,13 +2233,7 @@
     "nome": "INTRODU\u00c7\u00c3O A PESQUISA CIENT\u00cdFICA",
     "ch": 30,
     "post_requirements": [
-      "FCE0070",
-      "FCE0168",
-      "FCE0301",
-      "FCE0522",
-      "FCE0734",
-      "FCE0741",
-      "FCE0838"
+      "FCE0070"
     ],
     "pre_requirements": []
   },
@@ -2376,7 +2263,9 @@
     "cod": "FCE0219",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 PSICOLOGIA DA SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0933"
+    ],
     "pre_requirements": []
   },
   {
@@ -2395,21 +2284,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0S AN\u00c1LISES CL\u00cdNICAS",
     "ch": 60,
     "post_requirements": [
-      "FCE0005",
-      "FCE0006",
-      "FCS0003",
-      "FCE0039",
-      "FCE0367",
-      "FCE0371",
-      "FCE0398",
-      "FCE0403",
-      "FCE0416",
-      "FCE0426",
-      "FCE0439",
-      "FCE0440",
-      "FCE0592",
-      "FAR0248",
-      "FAR0251"
+      "FCE0005"
     ],
     "pre_requirements": [
       "FCE0254 & FCE0224"
@@ -2454,7 +2329,9 @@
     "cod": "FCE0317",
     "nome": "LEITURA E AN\u00c1LISE CR\u00cdTICA DE ARTIGOS CIENT\u00cdFICOS EM FISIOTERAPIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0694"
+    ],
     "pre_requirements": []
   },
   {
@@ -2462,8 +2339,7 @@
     "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS ACAD\u00caMICOS",
     "ch": 30,
     "post_requirements": [
-      "FCE0274",
-      "FCE0541"
+      "FCE0274"
     ],
     "pre_requirements": []
   },
@@ -2471,14 +2347,18 @@
     "cod": "FCE0392",
     "nome": "LES\u00c3O RENAL AGUDA NA PR\u00c1TICA CL\u00cdNICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0637"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0528",
     "nome": "LETRAMENTO EM SA\u00daDE: O QUE \u00c9 E QUAL SUA IMPORT\u00c2NCIA PARA AS PR\u00c1TICAS DE CUIDAR?",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE1154"
+    ],
     "pre_requirements": []
   },
   {
@@ -2609,8 +2489,7 @@
     "nome": "MODELOS E PR\u00c1TICAS DE ATEN\u00c7\u00c3O \u00c0 SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0004",
-      "FCE0571"
+      "FCE0004"
     ],
     "pre_requirements": [
       "FCE0188 & FCE0213",
@@ -2632,7 +2511,9 @@
     "cod": "FCE0118",
     "nome": "MORFOFISIOLOGIA DOS ORG\u00c3OS DA FALA E DA AUDI\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0165"
+    ],
     "pre_requirements": []
   },
   {
@@ -2651,9 +2532,7 @@
     "nome": "MORFOSIOLOGIA DE CABE\u00c7A E PESCO\u00c7O",
     "ch": 30,
     "post_requirements": [
-      "FCE0058",
-      "FCE0064",
-      "FCE0763"
+      "FCE0058"
     ],
     "pre_requirements": [
       "FCE0201"
@@ -2663,7 +2542,9 @@
     "cod": "FCE0374",
     "nome": "MORTE NO CONTEXTO HUMANO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE1074"
+    ],
     "pre_requirements": []
   },
   {
@@ -2692,7 +2573,9 @@
     "cod": "FCE0032",
     "nome": "NEUROPSICOLOGIA CL\u00cdNICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0754"
+    ],
     "pre_requirements": []
   },
   {
@@ -2710,7 +2593,9 @@
     "cod": "FCE0185",
     "nome": "NUTRI\u00c7\u00c3O HUMANA EM SA\u00daDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0905"
+    ],
     "pre_requirements": []
   },
   {
@@ -2719,9 +2604,7 @@
     "ch": 30,
     "post_requirements": [
       "FCE0164",
-      "FCE0166",
-      "FCE0544",
-      "FCE0773"
+      "FCE0166"
     ],
     "pre_requirements": [
       "FCE0217"
@@ -2732,14 +2615,7 @@
     "nome": "ORGANIZA\u00c7\u00c3O MORFOFUNCIONAL E DESENVOLVIMENTO HUMANO",
     "ch": 60,
     "post_requirements": [
-      "FCE0041",
-      "FCE0047",
-      "FCE0073",
-      "FCE0077",
-      "FCE0220",
-      "FCE0222",
-      "FCE0523",
-      "FAR0249"
+      "FCE0041"
     ],
     "pre_requirements": []
   },
@@ -2747,7 +2623,9 @@
     "cod": "FCE0316",
     "nome": "PALPA\u00c7\u00c3O OSTEOMIOARTICULAR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0693"
+    ],
     "pre_requirements": []
   },
   {
@@ -2798,7 +2676,9 @@
     "cod": "FCE0428",
     "nome": "PATOLOGIA MOLECULAR - TEORIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0429"
+    ],
     "pre_requirements": []
   },
   {
@@ -2814,7 +2694,9 @@
     "cod": "FCE0330",
     "nome": "PENSAMENTO SOCIAL EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0012"
+    ],
     "pre_requirements": []
   },
   {
@@ -2833,7 +2715,9 @@
     "cod": "FCE0097",
     "nome": "PESQUISA APLICADA EM FISIOTERAPIA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0098"
+    ],
     "pre_requirements": []
   },
   {
@@ -2913,7 +2797,9 @@
     "cod": "FCE0382",
     "nome": "PESQUISA EM GERONTOLOGIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0633"
+    ],
     "pre_requirements": []
   },
   {
@@ -2942,7 +2828,9 @@
     "cod": "FCE0233",
     "nome": "PESQUISA EM MOVIMENTO FUNCIONAL HUMANO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0944"
+    ],
     "pre_requirements": []
   },
   {
@@ -2986,7 +2874,9 @@
     "cod": "FCE0100",
     "nome": "PESQUISA EM PROCESSOS BIOL\u00d3G APLIC A ESTRUTURA FUN\u00c7\u00c3O E REABILITA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0822"
+    ],
     "pre_requirements": []
   },
   {
@@ -3016,8 +2906,7 @@
     "nome": "PESQUISA EM TERAPIA OCUPACIONAL",
     "ch": 30,
     "post_requirements": [
-      "FCE0159",
-      "FCE0671"
+      "FCE0159"
     ],
     "pre_requirements": [
       "FCE0194 & FCE0229"
@@ -3028,8 +2917,7 @@
     "nome": "PESQUISA EM TERAPIA OCUPACIONAL 2",
     "ch": 30,
     "post_requirements": [
-      "FCE0162",
-      "FCE0879"
+      "FCE0162"
     ],
     "pre_requirements": [
       "FCE0152"
@@ -3096,10 +2984,7 @@
     "nome": "POL\u00cdTICAS, SISTEMAS E SERVI\u00c7OS DE SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0278",
-      "FCE0324",
-      "FCE0545",
-      "FCE0836"
+      "FCE0278"
     ],
     "pre_requirements": [
       "FCE0188"
@@ -3109,7 +2994,9 @@
     "cod": "FCE0009",
     "nome": "PR\u00c1TICA DA FISIOTERAPIA BASEADA EM PROBLEMAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0731"
+    ],
     "pre_requirements": []
   },
   {
@@ -3127,7 +3014,9 @@
     "cod": "FCE0243",
     "nome": "PR\u00c1TICAS DE SA\u00daDE BASEADAS EM EVID\u00caNCIAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0686"
+    ],
     "pre_requirements": []
   },
   {
@@ -3135,11 +3024,7 @@
     "nome": "PR\u00c1TICAS EM FONOAUDIOLOGIA DA INF\u00c2NCIA A ADOLESC\u00caNCIA",
     "ch": 120,
     "post_requirements": [
-      "FCE0804",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0083"
+      "FCE0804"
     ],
     "pre_requirements": [
       "FCE0076"
@@ -3161,11 +3046,7 @@
     "nome": "PR\u00c1TICAS EM FONOAUDIOLOGIA: DO NASCIMENTO \u00c0 PRIMEIRA INF\u00c2NCIA",
     "ch": 60,
     "post_requirements": [
-      "FCE0788",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0068"
+      "FCE0788"
     ],
     "pre_requirements": [
       "FCE0058"
@@ -3210,8 +3091,7 @@
     "nome": "PR\u00c1TICAS SUPERVISIONADAS EM ENFERMAGEM 2 - M\u00d3DULO 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0434",
-      "FCE1131"
+      "FCE0434"
     ],
     "pre_requirements": [
       "FCE0247 & FCE0147 & FCE0254"
@@ -3257,11 +3137,7 @@
     "nome": "PR\u00c1TICAS SUPERVISIONADAS EM ENFERMAGEM 5",
     "ch": 60,
     "post_requirements": [
-      "FCE0894",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0376"
+      "FCE0894"
     ],
     "pre_requirements": [
       "FCE0363 & FCE0364 & FCE0362"
@@ -3272,8 +3148,7 @@
     "nome": "PR\u00c1TICAS SUPERVISIONADAS EM ENFERMAGEM 5 - M\u00d3DULO 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0436",
-      "FCE1133"
+      "FCE0436"
     ],
     "pre_requirements": [
       "FCE0363 & FCE0364 & FCE0362"
@@ -3365,7 +3240,9 @@
     "cod": "FCE0138",
     "nome": "PROCESSO DE INOVA\u00c7\u00c3O EM TECNOLOGIA ASSISTIVA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0860"
+    ],
     "pre_requirements": []
   },
   {
@@ -3384,7 +3261,9 @@
     "cod": "FCE0008",
     "nome": "PROCESSOS COGNITIVOS: APLICA\u00c7\u00d5ES EM FISIOTERAPIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0730"
+    ],
     "pre_requirements": []
   },
   {
@@ -3425,7 +3304,9 @@
     "cod": "FCE0108",
     "nome": "PRODU\u00c7\u00c3O AUDIOVISUAL EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0830"
+    ],
     "pre_requirements": []
   },
   {
@@ -3433,9 +3314,7 @@
     "nome": "PROMO\u00c7\u00c3O \u00c0 SA\u00daDE 1",
     "ch": 60,
     "post_requirements": [
-      "FCE0335",
-      "FCE0407",
-      "FCE0547"
+      "FCE0335"
     ],
     "pre_requirements": []
   },
@@ -3465,7 +3344,9 @@
     "cod": "FCE0051",
     "nome": "PRONTU\u00c1RIO ELETR\u00d4NICO DO PACIENTE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0667"
+    ],
     "pre_requirements": []
   },
   {
@@ -3473,11 +3354,7 @@
     "nome": "QU\u00cdMICA ANAL\u00cdTICA FARMAC\u00caUTICA",
     "ch": 60,
     "post_requirements": [
-      "FAR0050",
-      "FAR0120",
-      "FAR0163",
-      "FCE0418",
-      "FCE0548"
+      "FAR0050"
     ],
     "pre_requirements": [
       "FCE0192"
@@ -3519,8 +3396,7 @@
     "nome": "QU\u00cdMICA ORG\u00c2NICA APLICADA A FARM\u00c1CIA 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0239",
-      "FCE0529"
+      "FCE0239"
     ],
     "pre_requirements": [
       "FCE0192"
@@ -3531,9 +3407,7 @@
     "nome": "QU\u00cdMICA ORG\u00c2NICA APLICADA  A FARM\u00c1CIA 2",
     "ch": 60,
     "post_requirements": [
-      "FAR0157",
-      "FCE0259",
-      "FCE0549"
+      "FAR0157"
     ],
     "pre_requirements": [
       "FCE0209"
@@ -3654,12 +3528,7 @@
     "nome": "SA\u00daDE E SOCIEDADE 1: INTRODU\u00c7\u00c3O \u00c0S CI\u00caNCIAS SOCIAIS EM S\u00c1UDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0054",
-      "FCE0208",
-      "FCE0234",
-      "FCE0240",
-      "FCE0518",
-      "FCE0964"
+      "FCE0054"
     ],
     "pre_requirements": []
   },
@@ -3668,11 +3537,7 @@
     "nome": "SA\u00daDE E SOCIEDADE 2: A CONSTRU\u00c7\u00c3O SOCIAL DO PROCESSO SA\u00daDE E DOEN\u00c7A",
     "ch": 60,
     "post_requirements": [
-      "FCE0019",
-      "FCE0164",
-      "FCE0167",
-      "FCE0327",
-      "FCE0527"
+      "FCE0019"
     ],
     "pre_requirements": [
       "FCE0188"
@@ -3683,10 +3548,7 @@
     "nome": "SA\u00daDE E SOCIEDADE 3: DIVERSIDADE SOCIAL E SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0018",
-      "FCE0158",
-      "FCE0199",
-      "FCE0569"
+      "FCE0018"
     ],
     "pre_requirements": [
       "FCE0188 & FCE0208"
@@ -3696,14 +3558,18 @@
     "cod": "FCE0140",
     "nome": "SEGURAN\u00c7A DO PACIENTE NA ATEN\u00c7\u00c3O A SA\u00daDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0505"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0189",
     "nome": "SEMIN\u00c1RIO INTEGRATIVO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0205"
+    ],
     "pre_requirements": []
   },
   {
@@ -3711,8 +3577,7 @@
     "nome": "SEMIN\u00c1RIO INTEGRATIVO 2",
     "ch": 30,
     "post_requirements": [
-      "FCE0241",
-      "FCE0525"
+      "FCE0241"
     ],
     "pre_requirements": [
       "FCE0189"
@@ -3723,8 +3588,7 @@
     "nome": "SEMIN\u00c1RIO INTEGRATIVO 3",
     "ch": 30,
     "post_requirements": [
-      "FCE0272",
-      "FCE0552"
+      "FCE0272"
     ],
     "pre_requirements": [
       "FCE0205"
@@ -3735,8 +3599,7 @@
     "nome": "SEMIN\u00c1RIO INTEGRATIVO 4",
     "ch": 30,
     "post_requirements": [
-      "FCE0280",
-      "FCE0568"
+      "FCE0280"
     ],
     "pre_requirements": [
       "FCE0241"
@@ -3747,8 +3610,7 @@
     "nome": "SEMIN\u00c1RIO INTEGRATIVO 5",
     "ch": 30,
     "post_requirements": [
-      "FCE0331",
-      "FCE0574"
+      "FCE0331"
     ],
     "pre_requirements": [
       "FCE0272"
@@ -3769,7 +3631,9 @@
     "cod": "FCE0339",
     "nome": "SEMIN\u00c1RIO INTEGRATIVO 7",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0401"
+    ],
     "pre_requirements": []
   },
   {
@@ -3799,9 +3663,7 @@
     "nome": "SEMIOLOGIA E SEMIOT\u00c9CNICA 1",
     "ch": 60,
     "post_requirements": [
-      "FCE0151",
-      "FCE0394",
-      "FCE0555"
+      "FCE0151"
     ],
     "pre_requirements": [
       "FCE0224 & FCE0235 & FCE0204"
@@ -3812,9 +3674,7 @@
     "nome": "SEMIOLOGIA E SEMIOT\u00c9CNICA 2",
     "ch": 120,
     "post_requirements": [
-      "FCE0078",
-      "FCE0366",
-      "FCE0673"
+      "FCE0078"
     ],
     "pre_requirements": [
       "FCE0247 & FCE0147 & FCE0254 &  FCE0169",
@@ -3826,13 +3686,7 @@
     "nome": "SEMIOLOGIA E SEMIOT\u00c9CNICA 2",
     "ch": 90,
     "post_requirements": [
-      "FCE0078",
-      "FCE0365",
-      "FCE0959",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0250"
+      "FCE0078"
     ],
     "pre_requirements": [
       "FCE0249 & FCE0254 & FCE0276 & FCE0246 & FCE0247 & FCE0266"
@@ -3853,7 +3707,9 @@
     "cod": "FCE0414",
     "nome": "SINALIZA\u00c7\u00c3O REDOX NO SISTEMA BIOL\u00d3GICO",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE1112"
+    ],
     "pre_requirements": []
   },
   {
@@ -3861,15 +3717,7 @@
     "nome": "SISTEMA IMUNIT\u00c1RIO",
     "ch": 60,
     "post_requirements": [
-      "FCE0010",
-      "FCE0028",
-      "FCE0147",
-      "FCE0150",
-      "FCE0254",
-      "FCE0282",
-      "FCE0313",
-      "ENF0094",
-      "FCE0543"
+      "FCE0010"
     ],
     "pre_requirements": [
       "FCE0192"
@@ -3881,12 +3729,7 @@
     "ch": 60,
     "post_requirements": [
       "FCE0023",
-      "FCE0045",
-      "FCE0046",
-      "FCE0109",
-      "FCE0246",
-      "FCE0266",
-      "FCE0562"
+      "FCE0045"
     ],
     "pre_requirements": [
       "FCE0222"
@@ -3918,7 +3761,9 @@
     "cod": "FCE0145",
     "nome": "SUPORTE E MOVIMENTO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0507"
+    ],
     "pre_requirements": []
   },
   {
@@ -3948,8 +3793,7 @@
     "nome": "TECNOLOGIA APLICADA \u00c0 FARM\u00c1CIA",
     "ch": 60,
     "post_requirements": [
-      "FCE0084",
-      "FCE0709"
+      "FCE0084"
     ],
     "pre_requirements": [
       "FCE0369"
@@ -3994,8 +3838,7 @@
     "nome": "TECNOLOGIA DE COSM\u00c9TICOS APLICADA A FARM\u00c1CIA   PR\u00c1TICA",
     "ch": 15,
     "post_requirements": [
-      "FCE1129",
-      "PR\u00c1TICA"
+      "FCE1129"
     ],
     "pre_requirements": [
       "FCE0430"
@@ -4006,10 +3849,7 @@
     "nome": "TECNOLOGIA DE COSM\u00c9TICOS APLICADA A FARM\u00c1CIA   TE\u00d3RICA",
     "ch": 15,
     "post_requirements": [
-      "FCE0431",
-      "PR\u00c1TICA",
-      "FCE1128",
-      "TE\u00d3RICA"
+      "FCE0431"
     ],
     "pre_requirements": [
       "FCE0369"
@@ -4031,8 +3871,7 @@
     "nome": "TECNOLOGIAS DE GERENCIAMENTO E GEST\u00c3O EM SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "FCE0004",
-      "FCE0610"
+      "FCE0004"
     ],
     "pre_requirements": [
       "FCE0326 & FCE0336"
@@ -4042,7 +3881,9 @@
     "cod": "FCE0458",
     "nome": "TECNOLOGIAS ECOINOVADORAS, GEST\u00c3O AMBIENTAL E SA\u00daDE HUMANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE1153"
+    ],
     "pre_requirements": []
   },
   {
@@ -4063,10 +3904,7 @@
     "nome": "TEORIAS E MODELOS DE ADMINISTRA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FCE0004",
-      "FCE0326",
-      "DSC0092",
-      "FCE0572"
+      "FCE0004"
     ],
     "pre_requirements": [
       "FCE0234"
@@ -4088,8 +3926,7 @@
     "nome": "TERAPIA OCUPACIONAL BASEADA EM EVID\u00caNCIAS 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0318",
-      "FCE0563"
+      "FCE0318"
     ],
     "pre_requirements": [
       "FCE0206 & FCE0194"
@@ -4100,8 +3937,7 @@
     "nome": "TERAPIA OCUPACIONAL BASEADA EM EVID\u00caNCIAS 2",
     "ch": 30,
     "post_requirements": [
-      "FCE0354",
-      "FCE0695"
+      "FCE0354"
     ],
     "pre_requirements": [
       "FCE0267"
@@ -4112,8 +3948,7 @@
     "nome": "TERAPIA OCUPACIONAL BASEADA EM EVID\u00caNCIAS 3",
     "ch": 30,
     "post_requirements": [
-      "FCE0018",
-      "FCE0614"
+      "FCE0018"
     ],
     "pre_requirements": [
       "FCE0318"
@@ -4136,8 +3971,7 @@
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O B\u00c1SICA: AVALIA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "FCE0319",
-      "FCE0564"
+      "FCE0319"
     ],
     "pre_requirements": [
       "FCE0244 & FCE0232"
@@ -4147,7 +3981,9 @@
     "cod": "FCE0355",
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O B\u00c1SICA: INTERA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE1056"
+    ],
     "pre_requirements": []
   },
   {
@@ -4166,8 +4002,7 @@
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O B\u00c1SICA: RECURSOS TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0356",
-      "FCE0596"
+      "FCE0356"
     ],
     "pre_requirements": [
       "FCE0268"
@@ -4178,8 +4013,7 @@
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O DE ALTA COMPLEXIDADE: AVALIA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "FCE0321",
-      "FCE0566"
+      "FCE0321"
     ],
     "pre_requirements": [
       "FCE0244 & FCE0232"
@@ -4201,8 +4035,7 @@
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O DE ALTA COMPLEXIDADE: REC TERAP\u00caUTICOS",
     "ch": 30,
     "post_requirements": [
-      "FCE0358",
-      "FCE0598"
+      "FCE0358"
     ],
     "pre_requirements": [
       "FCE0270"
@@ -4213,8 +4046,7 @@
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O DE M\u00c9DIA  COMPLEXIDADE: AVALIA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FCE0320",
-      "FCE0565"
+      "FCE0320"
     ],
     "pre_requirements": [
       "FCE0244 & FCE0232"
@@ -4236,8 +4068,7 @@
     "nome": "TERAPIA OCUPACIONAL NA ATEN\u00c7\u00c3O DE M\u00c9DIA COMPLEXIDADE: REC TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0357",
-      "FCE0597"
+      "FCE0357"
     ],
     "pre_requirements": [
       "FCE0269"
@@ -4292,8 +4123,7 @@
     "nome": "TERAPIA OCUPACIONAL NO PROCESSO DE REABILITA\u00c7\u00c3O: AVALIA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FCE0322",
-      "FCE0567"
+      "FCE0322"
     ],
     "pre_requirements": [
       "FCE0244 & FCE0232"
@@ -4315,8 +4145,7 @@
     "nome": "TERAP\u00cdA OCUPACIONAL NO PROCESSO DE REABILITA\u00c7\u00c3O: RECURSOS TERAP\u00caUTICOS",
     "ch": 60,
     "post_requirements": [
-      "FCE0359",
-      "FCE0599"
+      "FCE0359"
     ],
     "pre_requirements": [
       "FCE0271"
@@ -4480,7 +4309,9 @@
     "cod": "FCE0245",
     "nome": "T\u00d3PICOS ESPECIAIS DAS C\u00c9LULAS AOS SISTEMAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0956"
+    ],
     "pre_requirements": []
   },
   {
@@ -4533,28 +4364,36 @@
     "cod": "FCE0343",
     "nome": "T\u00d3PICOS ESPECIAIS EM SA\u00daDE COLETIVA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0612"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0344",
     "nome": "T\u00d3PICOS ESPECIAIS EM SA\u00daDE COLETIVA 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0699"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0349",
     "nome": "T\u00d3PICOS ESPECIAIS EM SA\u00daDE COLETIVA 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE1050"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FCE0350",
     "nome": "T\u00d3PICOS ESPECIAIS EM SA\u00daDE COLETIVA 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0613"
+    ],
     "pre_requirements": []
   },
   {
@@ -4629,9 +4468,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENFERMAGEM 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0015",
-      "FCE0708",
-      "FCE0589"
+      "FCE0015"
     ],
     "pre_requirements": [
       "FCE0194 & FCE0376",
@@ -4642,7 +4479,9 @@
     "cod": "FCE0181",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENFERMAGEM 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0015"
+    ],
     "pre_requirements": []
   },
   {
@@ -4662,7 +4501,9 @@
     "cod": "FCE0182",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENFERMAGEM 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0902"
+    ],
     "pre_requirements": []
   },
   {
@@ -4670,9 +4511,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM FARM\u00c1CIA 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0413",
-      "FCE0711",
-      "FCE0542"
+      "FCE0413"
     ],
     "pre_requirements": [
       "FCE0307 & FCE0369 & FCE0381"
@@ -4683,8 +4522,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM FISIOTERAPIA 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0303",
-      "FCE0691"
+      "FCE0303"
     ],
     "pre_requirements": [
       "FCE0194"
@@ -4706,9 +4544,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM FONOAUDIOLOGIA 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0106",
-      "FCE0481",
-      "FCE0725"
+      "FCE0106"
     ],
     "pre_requirements": [
       "FCE0194 & FCE0121 & FCE0120"
@@ -4730,8 +4566,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM SA\u00daDE COLETIVA 1",
     "ch": 90,
     "post_requirements": [
-      "FCE0346",
-      "FCE0611"
+      "FCE0346"
     ],
     "pre_requirements": [
       "FCE0187 & FCE0188 & FCE0189 & FCE0192 & FCE0229 & FCE0204 & FCE0201 & FCE0205 & FCE0206 & FCE0208 & FCE0236 & FCE0231 & FCE0234 & FCE0240 & FCE0241 & FCE0276 & FCE0277 & FCE0254 & FCE0272 & FCE0273 & FCE0278 & FCE0194 & FCE0199 & FCE0280 & FCE0324 & FCE0325 & FCE0326 & FCE0336",
@@ -4754,10 +4589,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM TERAPIA OCUPACIONAL 1",
     "ch": 30,
     "post_requirements": [
-      "FCE0387",
-      "FCE0450",
-      "FCE0456",
-      "FCE0631"
+      "FCE0387"
     ],
     "pre_requirements": [
       "FCE0354 & FCE0229 & FCE0254 & FCE0264 & FCE0204 & FCE0208"
@@ -4778,7 +4610,9 @@
     "cod": "FCE0432",
     "nome": "TUTORIA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0717"
+    ],
     "pre_requirements": []
   },
   {
@@ -4807,7 +4641,9 @@
     "cod": "FCE0306",
     "nome": "VIGIL\u00c2NCIA SANIT\u00c1RIA APLICADA A PROFISSIONAIS DE SA\u00daDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0591"
+    ],
     "pre_requirements": []
   },
   {
@@ -4826,11 +4662,7 @@
     "nome": "VIV\u00caNCIA EM SA\u00daDE FONOAUDIOL\u00d3GICA DA INF\u00c2NCIA A ADOLESC\u00caNCIA",
     "ch": 120,
     "post_requirements": [
-      "FCE0805",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0082"
+      "FCE0805"
     ],
     "pre_requirements": [
       "FCE0076"
@@ -4841,11 +4673,7 @@
     "nome": "VIV\u00caNCIA EM SA\u00daDE FONOAUDIOL\u00d3GICA: DO NASCIMENTO \u00c0 PRIMEIRA INF\u00c2NCIA",
     "ch": 60,
     "post_requirements": [
-      "FCE0790",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "FCE0066"
+      "FCE0790"
     ],
     "pre_requirements": [
       "FCE0058"

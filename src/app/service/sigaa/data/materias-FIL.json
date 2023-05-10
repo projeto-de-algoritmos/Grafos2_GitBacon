@@ -4,8 +4,7 @@
     "nome": "ANTROPOLOGIA FILOS\u00d3FICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0101",
-      "FIL0260"
+      "FIL0101"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -39,8 +38,7 @@
     "nome": "DISSERTACAO FILOSOFICA 1",
     "ch": 60,
     "post_requirements": [
-      "FIL0112",
-      "FIL0317"
+      "FIL0112"
     ],
     "pre_requirements": [
       "FIL0049"
@@ -73,11 +71,7 @@
     "nome": "EPISTEMOLOGIA",
     "ch": 90,
     "post_requirements": [
-      "FIL0007",
-      "FIL0009",
-      "FIL0021",
-      "FIL0096",
-      "FIL0195"
+      "FIL0007"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -90,8 +84,7 @@
     "nome": "EPISTEMOLOGIA DAS CIENCIAS HUMANAS E SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "FIL0008",
-      "FIL0214"
+      "FIL0008"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -104,8 +97,7 @@
     "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 1",
     "ch": 90,
     "post_requirements": [
-      "FIL0168",
-      "FIL0208"
+      "FIL0168"
     ],
     "pre_requirements": [
       "FIL0177 & FIL0181 & FIL0175",
@@ -119,8 +111,7 @@
     "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 2",
     "ch": 90,
     "post_requirements": [
-      "FIL0171",
-      "FIL0219"
+      "FIL0171"
     ],
     "pre_requirements": [
       "FIL0004"
@@ -131,8 +122,7 @@
     "nome": "EST\u00c1GIO PEDAG\u00d3GICO SUPERVISIONADO 3",
     "ch": 120,
     "post_requirements": [
-      "FIL0174",
-      "FIL0220"
+      "FIL0174"
     ],
     "pre_requirements": [
       "FIL0168",
@@ -157,8 +147,7 @@
     "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA 1",
     "ch": 60,
     "post_requirements": [
-      "FIL0174",
-      "FIL0324"
+      "FIL0174"
     ],
     "pre_requirements": [
       "FIL0049 & PED0058"
@@ -191,8 +180,7 @@
     "nome": "EST\u00c9TICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0162",
-      "FIL0263"
+      "FIL0162"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -205,8 +193,7 @@
     "nome": "EST\u00c9TICA E FILOSOFIA DA ARTE",
     "ch": 90,
     "post_requirements": [
-      "FIL0162",
-      "FIL0200"
+      "FIL0162"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -219,8 +206,7 @@
     "nome": "\u00c9TICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0120",
-      "FIL0261"
+      "FIL0120"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -231,7 +217,9 @@
     "cod": "FIL0184",
     "nome": "\u00c9TICA E EDUCA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0340"
+    ],
     "pre_requirements": []
   },
   {
@@ -239,9 +227,7 @@
     "nome": "\u00c9TICA FILOS\u00d3FICA",
     "ch": 90,
     "post_requirements": [
-      "FIL0004",
-      "FIL0120",
-      "FIL0194"
+      "FIL0004"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -312,9 +298,7 @@
     "nome": "FILOSOFIA ANTIGA",
     "ch": 90,
     "post_requirements": [
-      "FIL0089",
-      "FIL0177",
-      "FIL0198"
+      "FIL0089"
     ],
     "pre_requirements": []
   },
@@ -323,8 +307,7 @@
     "nome": "FILOSOFIA CONTEMPOR\u00c2NEA",
     "ch": 90,
     "post_requirements": [
-      "FIL0025",
-      "FIL0187"
+      "FIL0025"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -350,8 +333,7 @@
     "nome": "FILOSOFIA DA CI\u00caNCIA",
     "ch": 90,
     "post_requirements": [
-      "FIL0097",
-      "FIL0201"
+      "FIL0097"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -365,8 +347,7 @@
     "nome": "FILOSOFIA DA HIST\u00d3RIA",
     "ch": 60,
     "post_requirements": [
-      "FIL0160",
-      "FIL0262"
+      "FIL0160"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -378,8 +359,7 @@
     "nome": "FILOSOFIA DA LINGUAGEM",
     "ch": 60,
     "post_requirements": [
-      "FIL0161",
-      "FIL0270"
+      "FIL0161"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -393,10 +373,7 @@
     "nome": "FILOSOFIA DA LOGICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0018",
-      "FIL0019",
-      "FIL0020",
-      "FIL0206"
+      "FIL0018"
     ],
     "pre_requirements": [
       "FIL0056",
@@ -433,7 +410,9 @@
     "cod": "FIL0185",
     "nome": "FILOSOFIA DA M\u00daSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0207"
+    ],
     "pre_requirements": []
   },
   {
@@ -465,8 +444,7 @@
     "nome": "FILOSOFIA DA RELIGI\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FIL0027",
-      "FIL0302"
+      "FIL0027"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -478,21 +456,27 @@
     "cod": "FIL0015",
     "nome": "FILOSOFIA DO ENSINO DE FILOSOFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0236"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0016",
     "nome": "FILOSOFIA E CRIAN\u00c7AS - UMA EDUCA\u00c7\u00c3O FILOS\u00d3FICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0189"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0017",
     "nome": "FILOSOFIA E FEMINISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0210"
+    ],
     "pre_requirements": []
   },
   {
@@ -528,8 +512,7 @@
     "nome": "FILOSOFIA GERAL E PROBLEMAS METAFISICOS",
     "ch": 60,
     "post_requirements": [
-      "FIL0099",
-      "FIL0259"
+      "FIL0099"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -555,8 +538,7 @@
     "nome": "FILOSOFIA MEDIEVAL",
     "ch": 90,
     "post_requirements": [
-      "FIL0090",
-      "FIL0222"
+      "FIL0090"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -570,10 +552,7 @@
     "nome": "FILOSOFIA MODERNA",
     "ch": 90,
     "post_requirements": [
-      "FIL0021",
-      "FIL0091",
-      "FIL0152",
-      "FIL0199"
+      "FIL0021"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -598,8 +577,7 @@
     "nome": "FILOSOFIA ORIENTAL",
     "ch": 60,
     "post_requirements": [
-      "FIL0001",
-      "FIL0212"
+      "FIL0001"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -611,9 +589,7 @@
     "nome": "FILOSOFIA POL\u00cdTICA",
     "ch": 90,
     "post_requirements": [
-      "FIL0004",
-      "FIL0122",
-      "FIL0196"
+      "FIL0004"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -626,8 +602,7 @@
     "nome": "FILOSOFIA SOCIAL E POLITICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0122",
-      "FIL0269"
+      "FIL0122"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -652,8 +627,7 @@
     "nome": "HISTORIA DA CIENCIA 1",
     "ch": 60,
     "post_requirements": [
-      "FIL0156",
-      "FIL0205"
+      "FIL0156"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -676,12 +650,7 @@
     "nome": "HIST\u00d3RIA DA FILOSOFIA ANTIGA",
     "ch": 60,
     "post_requirements": [
-      "FIL0039",
-      "FIL0044",
-      "FIL0049",
-      "FIL0089",
-      "FIL0114",
-      "FIL0251"
+      "FIL0039"
     ],
     "pre_requirements": []
   },
@@ -701,12 +670,7 @@
     "nome": "HIST\u00d3RIA DA FILOSOFIA CONTEMPOR\u00c2NEA",
     "ch": 60,
     "post_requirements": [
-      "FIL0007",
-      "FIL0092",
-      "FIL0117",
-      "FIL0149",
-      "FIL0155",
-      "FIL0254"
+      "FIL0007"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -731,9 +695,7 @@
     "nome": "HIST\u00d3RIA DA FILOSOFIA MEDIEVAL",
     "ch": 60,
     "post_requirements": [
-      "FIL0090",
-      "FIL0115",
-      "FIL0252"
+      "FIL0090"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -758,11 +720,7 @@
     "nome": "HIST\u00d3RIA DA FILOSOFIA MODERNA",
     "ch": 60,
     "post_requirements": [
-      "FIL0003",
-      "FIL0091",
-      "FIL0116",
-      "FIL0152",
-      "FIL0253"
+      "FIL0003"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -787,8 +745,7 @@
     "nome": "HIST\u00d3RIA DA FILOSOFIA NO BRASIL",
     "ch": 60,
     "post_requirements": [
-      "FIL0159",
-      "FIL0203"
+      "FIL0159"
     ],
     "pre_requirements": [
       "FIL0069",
@@ -820,9 +777,7 @@
     "nome": "INICIA\u00c7\u00c3O \u00c0 METODOLOGIA CIENT\u00cdFICA",
     "ch": 60,
     "post_requirements": [
-      "DAN0040",
-      "SER0096",
-      "FIL0267"
+      "DAN0040"
     ],
     "pre_requirements": []
   },
@@ -831,41 +786,7 @@
     "nome": "INICIA\u00c7\u00c3O \u00c0 PR\u00c1TICA FILOS\u00d3FICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0003",
-      "FIL0007",
-      "FIL0025",
-      "FIL0026",
-      "FIL0039",
-      "FIL0044",
-      "FIL0049",
-      "FIL0050",
-      "FIL0053",
-      "FIL0059",
-      "FIL0062",
-      "FIL0063",
-      "FIL0064",
-      "FIL0065",
-      "FIL0068",
-      "FIL0082",
-      "FIL0086",
-      "FIL0087",
-      "FIL0088",
-      "FIL0107",
-      "FIL0124",
-      "FIL0125",
-      "FIL0127",
-      "FIL0129",
-      "FIL0132",
-      "FIL0136",
-      "FIL0141",
-      "FIL0167",
-      "FIL0175",
-      "FIL0176",
-      "FIL0177",
-      "FIL0181",
-      "FIL0182",
-      "FIL0183",
-      "FIL0283"
+      "FIL0003"
     ],
     "pre_requirements": []
   },
@@ -874,45 +795,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA",
     "ch": 60,
     "post_requirements": [
-      "FIL0003",
-      "FIL0005",
-      "FIL0007",
-      "SOL0006",
-      "FIL0013",
-      "FIL0014",
-      "FIL0026",
-      "FIL0039",
-      "FIL0044",
-      "FIL0049",
-      "FIL0050",
-      "FIL0053",
-      "FIL0059",
-      "FIL0062",
-      "FIL0063",
-      "FIL0064",
-      "FIL0065",
-      "FIL0068",
-      "FIL0082",
-      "FIL0086",
-      "FIL0087",
-      "FIL0088",
-      "FIL0107",
-      "FIL0124",
-      "FIL0125",
-      "FIL0127",
-      "FIL0129",
-      "FIL0132",
-      "FIL0136",
-      "FIL0141",
-      "JOR0083",
-      "FIL0167",
-      "FIL0175",
-      "FIL0176",
-      "FIL0177",
-      "FIL0181",
-      "FIL0182",
-      "FIL0183",
-      "FIL0190"
+      "FIL0003"
     ],
     "pre_requirements": []
   },
@@ -920,28 +803,36 @@
     "cod": "FIL0022",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA EM L\u00cdNGUA FRANCESA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0243"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0023",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA EM L\u00cdNGUA FRANCESA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0244"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0024",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FILOSOFIA EM L\u00cdNGUA FRANCESA 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0245"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0165",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 HIST\u00d3RIA DA FILOSOFIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0013"
+    ],
     "pre_requirements": []
   },
   {
@@ -958,26 +849,7 @@
     "nome": "INTRODU\u00c7\u00c3O A PR\u00c1TICA FILOS\u00d3FICA",
     "ch": 90,
     "post_requirements": [
-      "FIL0005",
-      "FIL0013",
-      "FIL0039",
-      "FIL0044",
-      "FIL0049",
-      "FIL0053",
-      "FIL0059",
-      "FIL0062",
-      "FIL0063",
-      "FIL0068",
-      "FIL0082",
-      "FIL0086",
-      "FIL0087",
-      "FIL0125",
-      "FIL0132",
-      "FIL0136",
-      "FIL0167",
-      "FIL0175",
-      "FIL0181",
-      "FIL0193"
+      "FIL0005"
     ],
     "pre_requirements": []
   },
@@ -986,15 +858,7 @@
     "nome": "L\u00d3GICA",
     "ch": 90,
     "post_requirements": [
-      "FIL0018",
-      "FIL0019",
-      "FIL0020",
-      "FIL0079",
-      "FIL0094",
-      "FIL0118",
-      "FIL0122",
-      "FIL0183",
-      "FIL0197"
+      "FIL0018"
     ],
     "pre_requirements": []
   },
@@ -1003,18 +867,7 @@
     "nome": "L\u00d3GICA 1",
     "ch": 60,
     "post_requirements": [
-      "CIC0134",
-      "CIC0183",
-      "FIL0053",
-      "FIL0059",
-      "FIL0062",
-      "FIL0079",
-      "FIL0086",
-      "FIL0093",
-      "FIL0094",
-      "FIL0118",
-      "FIL0130",
-      "FIL0257"
+      "CIC0134"
     ],
     "pre_requirements": []
   },
@@ -1069,7 +922,9 @@
     "cod": "FIL0010",
     "nome": "METODOLOGIA DE ENSINO DE FILOSOFIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0232"
+    ],
     "pre_requirements": []
   },
   {
@@ -1106,8 +961,7 @@
     "nome": "PROJETO DE MONOGRAFIA FILOS\u00d3FICA",
     "ch": 60,
     "post_requirements": [
-      "FIL0028",
-      "FIL0211"
+      "FIL0028"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -1122,14 +976,18 @@
     "cod": "FIL0150",
     "nome": "SEMINARIO ESPECIAL DE FILOSOFIA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0314"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0151",
     "nome": "SEMINARIO ESPECIAL DE FILOSOFIA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0315"
+    ],
     "pre_requirements": []
   },
   {
@@ -1149,9 +1007,7 @@
     "nome": "TEORIA DA CI\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "ICB0080",
-      "FIL0097",
-      "FIL0258"
+      "ICB0080"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -1165,9 +1021,7 @@
     "nome": "TEORIA DO CONHECIMENTO",
     "ch": 60,
     "post_requirements": [
-      "FIL0009",
-      "FIL0096",
-      "FIL0256"
+      "FIL0009"
     ],
     "pre_requirements": [
       "FIL0105",
@@ -1180,7 +1034,9 @@
     "cod": "FIL0006",
     "nome": "TEORIAS DA INTERPRETA\u00c7\u00c3O",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0228"
+    ],
     "pre_requirements": []
   },
   {
@@ -1206,7 +1062,9 @@
     "cod": "FIL0142",
     "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0143"
+    ],
     "pre_requirements": []
   },
   {
@@ -1214,8 +1072,7 @@
     "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 2",
     "ch": 60,
     "post_requirements": [
-      "FIL0144",
-      "FIL0308"
+      "FIL0144"
     ],
     "pre_requirements": [
       "FIL0142"
@@ -1226,8 +1083,7 @@
     "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 3",
     "ch": 60,
     "post_requirements": [
-      "FIL0137",
-      "FIL0309"
+      "FIL0137"
     ],
     "pre_requirements": [
       "FIL0143"
@@ -1238,8 +1094,7 @@
     "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 4",
     "ch": 60,
     "post_requirements": [
-      "FIL0138",
-      "FIL0303"
+      "FIL0138"
     ],
     "pre_requirements": [
       "FIL0144"
@@ -1250,8 +1105,7 @@
     "nome": "TEXTOS FILOS\u00d3FICOS GREGOS 5",
     "ch": 60,
     "post_requirements": [
-      "FIL0139",
-      "FIL0304"
+      "FIL0139"
     ],
     "pre_requirements": [
       "FIL0137"
@@ -1272,21 +1126,27 @@
     "cod": "FIL0145",
     "nome": "TEXTOS FILOSOFICOS LATINOS 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0217"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0146",
     "nome": "TEXTOS FILOSOFICOS LATINOS 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0311"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FIL0147",
     "nome": "TEXTOS FILOSOFICOS LATINOS 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FIL0312"
+    ],
     "pre_requirements": []
   },
   {

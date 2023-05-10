@@ -4,7 +4,7 @@
     "nome": "ADMINISTRA\u00c7\u00c3O INSTITUCIONAL DE CONFLITOS",
     "ch": 60,
     "post_requirements": [
-      "SOL0341"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -15,7 +15,7 @@
     "nome": "ARTE E SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "SOL0406"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -26,7 +26,7 @@
     "nome": "CI\u00caNCIA, TECNOLOGIA E SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "SOL0412"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -38,7 +38,7 @@
     "nome": "DESENHOS DE PESQUISA EM CI\u00caNCIAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0427"
+      "S"
     ],
     "pre_requirements": [
       "SOL0130"
@@ -49,7 +49,7 @@
     "nome": "DESENVOLVIMENTO E EDUCA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0393"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -61,7 +61,7 @@
     "nome": "DIREITOS E CIDADANIA",
     "ch": 60,
     "post_requirements": [
-      "SOL0419"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -72,7 +72,7 @@
     "nome": "DISSERTA\u00c7\u00c3O - SOCIOLOGIA",
     "ch": 240,
     "post_requirements": [
-      "SOL0381"
+      "S"
     ],
     "pre_requirements": []
   },
@@ -81,7 +81,7 @@
     "nome": "ENSINO SUPERIOR E GLOBALIZA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0330"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -92,7 +92,7 @@
     "nome": "EPISTEMOLOGIA DAS CI\u00caNCIAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0347"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -104,10 +104,7 @@
     "nome": "EST\u00c1GIO 1: SOCIOLOGIA DO ENSINO DE SOCIOLOGIA",
     "ch": 135,
     "post_requirements": [
-      "SOL0127",
-      "SOL0132",
-      "SOL0316",
-      "SOL0137"
+      "S"
     ],
     "pre_requirements": [
       "PED0058"
@@ -118,7 +115,7 @@
     "nome": "EST\u00c1GIO 2: PR\u00c1TICA DE ENSINO EM CI\u00caNCIAS SOCIAIS 1",
     "ch": 135,
     "post_requirements": [
-      "SOL0426"
+      "S"
     ],
     "pre_requirements": [
       "SOL0122"
@@ -129,8 +126,7 @@
     "nome": "EST\u00c1GIO 3: PR\u00c1TICA DE ENSINO EM CI\u00caNCIAS SOCIAIS 2",
     "ch": 135,
     "post_requirements": [
-      "SOL0128",
-      "SOL0421"
+      "S"
     ],
     "pre_requirements": [
       "SOL0122"
@@ -150,7 +146,7 @@
     "nome": "ESTRUTURA DE CLASSES E ESTRATIFICA\u00c7\u00c3O SOCIAL",
     "ch": 60,
     "post_requirements": [
-      "SOL0376"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -162,7 +158,7 @@
     "nome": "ESTRUTURA E MUDAN\u00c7AS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0386"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -174,7 +170,7 @@
     "nome": "IDENTIDADES SOCIAIS NA INTERSECCIONALIDADE DE G\u00caNERO E RA\u00c7A",
     "ch": 60,
     "post_requirements": [
-      "SOL0138"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -185,57 +181,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 SOCIOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "ENC0002",
-      "SOL0001",
-      "SOL0005",
-      "SOL0006",
-      "SOL0007",
-      "SOL0008",
-      "SOL0010",
-      "SOL0011",
-      "SOL0012",
-      "SOL0013",
-      "SOL0014",
-      "SOL0015",
-      "SOL0018",
-      "SOL0021",
-      "SOL0022",
-      "SOL0023",
-      "SOL0024",
-      "SOL0029",
-      "SOL0030",
-      "SOL0031",
-      "SOL0034",
-      "SOL0035",
-      "ELA0008",
-      "ELA0009",
-      "ELA0010",
-      "ELA0012",
-      "ELA0013",
-      "SOL0044",
-      "SOL0096",
-      "SOL0097",
-      "SOL0101",
-      "SOL0104",
-      "SOL0106",
-      "SOL0107",
-      "SOL0108",
-      "SOL0109",
-      "SOL0110",
-      "SOL0112",
-      "SOL0115",
-      "SOL0117",
-      "SER0031",
-      "JOR0083",
-      "FDD0167",
-      "SOL0121",
-      "SOL0123",
-      "SOL0124",
-      "SOL0125",
-      "SOL0131",
-      "SOL0304",
-      "SOL0135",
-      "SOL0136"
+      "ENC0002"
     ],
     "pre_requirements": []
   },
@@ -244,7 +190,7 @@
     "nome": "LABORAT\u00d3RIO DOCENTE EM SOCIOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "SOL0422"
+      "S"
     ],
     "pre_requirements": [
       "SOL0062",
@@ -256,7 +202,7 @@
     "nome": "MEIO AMBIENTE E SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "SOL0408"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -268,7 +214,7 @@
     "nome": "METODOLOGIAS QUALITATIVAS EM CI\u00caNCIAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0414"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -280,7 +226,7 @@
     "nome": "METODOLOGIAS QUANTITATIVAS EM CI\u00caNCIAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0413"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -292,7 +238,7 @@
     "nome": "M\u00c9TODOS SOCIOL\u00d3GICOS",
     "ch": 90,
     "post_requirements": [
-      "SOL0307"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -303,7 +249,7 @@
     "nome": "PARADIGMAS DA CATEGORIA G\u00caNERO E RA\u00c7A NO CONTEXTO LATINOAMERICANO",
     "ch": 60,
     "post_requirements": [
-      "SOL0362"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -314,7 +260,7 @@
     "nome": "PENSAMENTO POL\u00cdTICO BRASILEIRO",
     "ch": 60,
     "post_requirements": [
-      "SOL0317"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -326,7 +272,7 @@
     "nome": "PENSAMENTO SOCIAL BRASILEIRO, INSTITUI\u00c7\u00d5ES E CULTURA POL\u00cdTICA NACIONAL",
     "ch": 60,
     "post_requirements": [
-      "SOL0332"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -337,7 +283,7 @@
     "nome": "PENSAMENTO SOCIAL NO BRASIL DO S\u00c9CULO XIX",
     "ch": 60,
     "post_requirements": [
-      "SOL0417"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -348,7 +294,7 @@
     "nome": "PENSAMENTO SOCIAL NO BRASIL DO S\u00c9CULO XX",
     "ch": 60,
     "post_requirements": [
-      "SOL0418"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -359,7 +305,7 @@
     "nome": "PENSAMENTO SOCIOL\u00d3GICO LATINO-AMERICANO",
     "ch": 60,
     "post_requirements": [
-      "SOL0378"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -371,7 +317,7 @@
     "nome": "POL\u00cdTICA ESPECIAL - ELITES POL\u00cdTICAS",
     "ch": 90,
     "post_requirements": [
-      "SOL0377"
+      "S"
     ],
     "pre_requirements": [
       "POL0012"
@@ -382,8 +328,7 @@
     "nome": "PR\u00c1TICA DE ENSINO EM CI\u00caNCIAS SOCIAIS",
     "ch": 120,
     "post_requirements": [
-      "SOL0128",
-      "SOL0306"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -396,7 +341,7 @@
     "nome": "PR\u00c1TICA DE PESQUISA 1",
     "ch": 90,
     "post_requirements": [
-      "SOL0320"
+      "S"
     ],
     "pre_requirements": [
       "ELA0013 & SOL0044 & SOL0097 & SOL0098 & EST0019",
@@ -408,8 +353,7 @@
     "nome": "PR\u00c1TICA DE PESQUISA 1 LICENCIATURA",
     "ch": 120,
     "post_requirements": [
-      "SOL0129",
-      "SOL0420"
+      "S"
     ],
     "pre_requirements": [
       "SOL0098",
@@ -421,7 +365,7 @@
     "nome": "PR\u00c1TICA DE PESQUISA 2 (DISSERTA\u00c7\u00c3O)",
     "ch": 120,
     "post_requirements": [
-      "SOL0319"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044 & SOL0097 & SOL0098 & SOL0041",
@@ -433,7 +377,7 @@
     "nome": "PR\u00c1TICA DE PESQUISA 2 LICENCIATURA",
     "ch": 120,
     "post_requirements": [
-      "SOL0423"
+      "S"
     ],
     "pre_requirements": [
       "SOL0126"
@@ -443,21 +387,27 @@
     "cod": "SOL0032",
     "nome": "SEMIN\u00c1RIO DE SOCIOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "S"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "SOL0025",
     "nome": "SEMIN\u00c1RIOS EM SOCIOLOGIA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "S"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "SOL0026",
     "nome": "SEMIN\u00c1RIOS EM SOCIOLOGIA 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "S"
+    ],
     "pre_requirements": []
   },
   {
@@ -465,7 +415,7 @@
     "nome": "SOCIOLOGIA 1",
     "ch": 90,
     "post_requirements": [
-      "SOL0369"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044"
@@ -476,7 +426,7 @@
     "nome": "SOCIOLOGIA APLICADA \u00c0 ADMINISTRA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0373"
+      "S"
     ],
     "pre_requirements": []
   },
@@ -485,7 +435,7 @@
     "nome": "SOCIOLOGIA BRASILEIRA",
     "ch": 60,
     "post_requirements": [
-      "SOL0303"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -497,7 +447,7 @@
     "nome": "SOCIOLOGIA DA CI\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "SOL0323"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -509,7 +459,7 @@
     "nome": "SOCIOLOGIA DA COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0387"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -521,7 +471,7 @@
     "nome": "SOCIOLOGIA DA CULTURA",
     "ch": 60,
     "post_requirements": [
-      "SOL0384"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -533,7 +483,7 @@
     "nome": "SOCIOLOGIA DA IDEOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "SOL0389"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -545,7 +495,7 @@
     "nome": "SOCIOLOGIA DA JUVENTUDE",
     "ch": 60,
     "post_requirements": [
-      "SOL0312"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -556,7 +506,7 @@
     "nome": "SOCIOLOGIA DA MEM\u00d3RIA",
     "ch": 60,
     "post_requirements": [
-      "SOL0358"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -567,7 +517,7 @@
     "nome": "SOCIOLOGIA DA RELIGI\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0329"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -578,7 +528,7 @@
     "nome": "SOCIOLOGIA DAS DIFEREN\u00c7AS SEXUAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0344"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -588,7 +538,9 @@
     "cod": "SOL0028",
     "nome": "SOCIOLOGIA DAS M\u00cdDIAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "S"
+    ],
     "pre_requirements": []
   },
   {
@@ -596,7 +548,7 @@
     "nome": "SOCIOLOGIA DAS ORGANIZA\u00c7\u00d5ES FORMAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0371"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044"
@@ -607,7 +559,7 @@
     "nome": "SOCIOLOGIA DAS POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
     "post_requirements": [
-      "SOL0356"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -618,7 +570,7 @@
     "nome": "SOCIOLOGIA DAS RELA\u00c7\u00d5ES DE G\u00caNERO",
     "ch": 60,
     "post_requirements": [
-      "SOL0409"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -629,7 +581,7 @@
     "nome": "SOCIOLOGIA DAS RELA\u00c7\u00d5ES RACIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0415"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -640,7 +592,7 @@
     "nome": "SOCIOLOGIA DA TECNOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "SOL0361"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -651,7 +603,7 @@
     "nome": "SOCIOLOGIA DA VIOL\u00caNCIA E DA CONFLITUALIDADE",
     "ch": 60,
     "post_requirements": [
-      "SOL0410"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -663,7 +615,7 @@
     "nome": "SOCIOLOGIA DA VIOL\u00caNCIA NA PERSPECTIVA DAS RELA\u00c7\u00d5ES DE G\u00caNERO",
     "ch": 60,
     "post_requirements": [
-      "SOL0349"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -674,7 +626,7 @@
     "nome": "SOCIOLOGIA DO AUDIO VISUAL",
     "ch": 60,
     "post_requirements": [
-      "SOL0311"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -685,7 +637,7 @@
     "nome": "SOCIOLOGIA DO CONFLITO",
     "ch": 60,
     "post_requirements": [
-      "SOL0348"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -696,7 +648,7 @@
     "nome": "SOCIOLOGIA DO CONHECIMENTO",
     "ch": 60,
     "post_requirements": [
-      "SOL0322"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -708,7 +660,7 @@
     "nome": "SOCIOLOGIA DO DESENVOLVIMENTO",
     "ch": 60,
     "post_requirements": [
-      "SOL0407"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -720,8 +672,7 @@
     "nome": "SOCIOLOGIA DO DESENVOLVIMENTO RURAL",
     "ch": 60,
     "post_requirements": [
-      "FAV0275",
-      "SOL0324"
+      "FAV0275"
     ],
     "pre_requirements": []
   },
@@ -730,7 +681,7 @@
     "nome": "SOCIOLOGIA DO DIREITO",
     "ch": 60,
     "post_requirements": [
-      "SOL0340"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -741,7 +692,7 @@
     "nome": "SOCIOLOGIA DO ESPORTE",
     "ch": 60,
     "post_requirements": [
-      "SOL0382"
+      "S"
     ],
     "pre_requirements": []
   },
@@ -759,7 +710,7 @@
     "nome": "SOCIOLOGIA DO TRABALHO",
     "ch": 60,
     "post_requirements": [
-      "SOL0396"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -771,7 +722,7 @@
     "nome": "SOCIOLOGIA DO TRABALHO E RELA\u00c7\u00d5ES SOCIAIS DE GENERO",
     "ch": 60,
     "post_requirements": [
-      "SOL0342"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -782,7 +733,7 @@
     "nome": "SOCIOLOGIA E IDEOLOGIA",
     "ch": 90,
     "post_requirements": [
-      "SOL0374"
+      "S"
     ],
     "pre_requirements": []
   },
@@ -791,7 +742,7 @@
     "nome": "SOCIOLOGIA POL\u00cdTICA",
     "ch": 60,
     "post_requirements": [
-      "SOL0388"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -803,7 +754,7 @@
     "nome": "SOCIOLOGIA RURAL",
     "ch": 60,
     "post_requirements": [
-      "SOL0394"
+      "S"
     ],
     "pre_requirements": [
       "SOL0044 & SOL0042",
@@ -815,7 +766,7 @@
     "nome": "SOCIOLOGIAS DA EDUCA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0302"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -826,7 +777,7 @@
     "nome": "SOCIOLOGIAS EMERGENTES",
     "ch": 60,
     "post_requirements": [
-      "SOL0346"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -837,7 +788,7 @@
     "nome": "SOCIOLOGIA URBANA",
     "ch": 60,
     "post_requirements": [
-      "SOL0395"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -848,9 +799,7 @@
     "nome": "T\u00c9CNICAS DE PESQUISA",
     "ch": 90,
     "post_requirements": [
-      "SER0096",
-      "SOL0126",
-      "SOL0325"
+      "SER0096"
     ],
     "pre_requirements": [
       "EST0019 & SOL0042 & ELA0013 & SOL0044 & SOL0097",
@@ -862,8 +811,7 @@
     "nome": "T\u00c9CNICAS DE PESQUISA",
     "ch": 60,
     "post_requirements": [
-      "SOL0126",
-      "SOL0331"
+      "S"
     ],
     "pre_requirements": [
       "EST0019  &  SOL0097",
@@ -875,7 +823,7 @@
     "nome": "TEORIA CR\u00cdTICA DA SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "SOL0334"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -887,7 +835,7 @@
     "nome": "TEORIA DOS SISTEMAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "SOL0333"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -899,7 +847,7 @@
     "nome": "TEORIA E PENSAMENTO SOCIAL 1",
     "ch": 60,
     "post_requirements": [
-      "SOL0345"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -911,7 +859,7 @@
     "nome": "TEORIAS DA SOCIALIZA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "SOL0321"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044",
@@ -923,9 +871,7 @@
     "nome": "TEORIA SOCIOL\u00d3GICA 1",
     "ch": 90,
     "post_requirements": [
-      "SOL0047",
-      "SOL0055",
-      "SOL0305"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -936,7 +882,7 @@
     "nome": "TEORIA SOCIOL\u00d3GICA 2",
     "ch": 90,
     "post_requirements": [
-      "SOL0368"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042 & SOL0044"
@@ -947,8 +893,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS CL\u00c1SSICAS",
     "ch": 90,
     "post_requirements": [
-      "SOL0105",
-      "SOL0315"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -959,8 +904,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS CL\u00c1SSICAS I",
     "ch": 60,
     "post_requirements": [
-      "SOL0105",
-      "SOL0310"
+      "S"
     ],
     "pre_requirements": []
   },
@@ -969,8 +913,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS CL\u00c1SSICAS II",
     "ch": 60,
     "post_requirements": [
-      "SOL0133",
-      "SOL0309"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -982,7 +925,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS CONTEMPOR\u00c2NEAS 1",
     "ch": 60,
     "post_requirements": [
-      "SOL0428"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -994,7 +937,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS CONTEMPOR\u00c2NEAS 1",
     "ch": 90,
     "post_requirements": [
-      "SOL0326"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -1006,7 +949,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS CONTEMPOR\u00c2NEAS 2",
     "ch": 60,
     "post_requirements": [
-      "SOL0313"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042  &  SOL0104",
@@ -1018,7 +961,7 @@
     "nome": "TEORIAS SOCIOL\u00d3GICAS MARXISTAS",
     "ch": 90,
     "post_requirements": [
-      "SOL0308"
+      "S"
     ],
     "pre_requirements": [
       "SOL0104",
@@ -1030,7 +973,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM ENSINO DE SOCIOLOGIA 1",
     "ch": 60,
     "post_requirements": [
-      "SOL0351"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1041,7 +984,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 1",
     "ch": 60,
     "post_requirements": [
-      "SOL0314"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1052,7 +995,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 10",
     "ch": 60,
     "post_requirements": [
-      "SOL0337"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1063,7 +1006,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 11",
     "ch": 60,
     "post_requirements": [
-      "SOL0338"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1074,7 +1017,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 12",
     "ch": 60,
     "post_requirements": [
-      "SOL0339"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1084,7 +1027,9 @@
     "cod": "SOL0033",
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 13",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "S"
+    ],
     "pre_requirements": []
   },
   {
@@ -1092,7 +1037,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 2",
     "ch": 60,
     "post_requirements": [
-      "SOL0327"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1103,7 +1048,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 3",
     "ch": 60,
     "post_requirements": [
-      "SOL0328"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1114,7 +1059,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 4",
     "ch": 60,
     "post_requirements": [
-      "SOL0402"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1125,7 +1070,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 5",
     "ch": 60,
     "post_requirements": [
-      "SOL0403"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1136,7 +1081,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 6",
     "ch": 60,
     "post_requirements": [
-      "SOL0404"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1147,7 +1092,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 7",
     "ch": 60,
     "post_requirements": [
-      "SOL0405"
+      "S"
     ],
     "pre_requirements": []
   },
@@ -1156,7 +1101,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 8",
     "ch": 60,
     "post_requirements": [
-      "SOL0335"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -1167,7 +1112,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM SOCIOLOGIA 9",
     "ch": 60,
     "post_requirements": [
-      "SOL0336"
+      "S"
     ],
     "pre_requirements": [
       "SOL0042",
@@ -1180,7 +1125,9 @@
     "cod": "SOL0081",
     "nome": "UTILIZA\u00c7\u00c3O DE COMPUTADORES NAS CI\u00caNCIAS SOCIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "S"
+    ],
     "pre_requirements": []
   }
 ]

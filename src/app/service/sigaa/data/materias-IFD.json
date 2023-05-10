@@ -3,7 +3,9 @@
     "cod": "IFD0356",
     "nome": "APRESENTA\u00c7\u00c3O DO CURSO DE F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0725"
+    ],
     "pre_requirements": []
   },
   {
@@ -32,7 +34,9 @@
     "cod": "IFD0404",
     "nome": "AVALIA\u00c7\u00c3O DO ENSINO DE F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0773"
+    ],
     "pre_requirements": []
   },
   {
@@ -62,8 +66,7 @@
     "nome": "C\u00c1LCULO 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0360",
-      "IFD0728"
+      "IFD0360"
     ],
     "pre_requirements": []
   },
@@ -72,8 +75,7 @@
     "nome": "C\u00c1LCULO 2",
     "ch": 90,
     "post_requirements": [
-      "IFD0361",
-      "IFD0523"
+      "IFD0361"
     ],
     "pre_requirements": [
       "IFD0359"
@@ -84,8 +86,7 @@
     "nome": "C\u00c1LCULO 3",
     "ch": 90,
     "post_requirements": [
-      "IFD0364",
-      "IFD0524"
+      "IFD0364"
     ],
     "pre_requirements": [
       "IFD0360"
@@ -139,7 +140,9 @@
     "cod": "IFD0399",
     "nome": "COMPUTA\u00c7\u00c3O ALG\u00c9BRICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0768"
+    ],
     "pre_requirements": []
   },
   {
@@ -168,14 +171,18 @@
     "cod": "IFD0343",
     "nome": "DIN\u00c2MICA DE FLUIDOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0717"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0406",
     "nome": "EDUCA\u00c7\u00c3O CIENT\u00cdFICA E CI\u00caNCIA TECNOLOGIA SOCIEDADE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0774"
+    ],
     "pre_requirements": []
   },
   {
@@ -227,9 +234,7 @@
     "nome": "ELETRICIDADE MAGNETISMO",
     "ch": 120,
     "post_requirements": [
-      "CIC0084",
-      "ENE0243",
-      "IFD0606"
+      "CIC0084"
     ],
     "pre_requirements": []
   },
@@ -249,12 +254,7 @@
     "nome": "ELETROMAGNETISMO",
     "ch": 90,
     "post_requirements": [
-      "IFD0025",
-      "IFD0504",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0181"
+      "IFD0025"
     ],
     "pre_requirements": [
       "IFD0013",
@@ -267,8 +267,7 @@
     "ch": 90,
     "post_requirements": [
       "IFD0372",
-      "IFD0394",
-      "IFD0733"
+      "IFD0394"
     ],
     "pre_requirements": [
       "IFD0361"
@@ -290,8 +289,7 @@
     "nome": "ELETROMAGNETISMO 2",
     "ch": 60,
     "post_requirements": [
-      "IFD0025",
-      "IFD0531"
+      "IFD0025"
     ],
     "pre_requirements": [
       "MAT0027 & IFD0421 & IFD0423"
@@ -324,9 +322,7 @@
     "nome": "ESTADO SOLIDO",
     "ch": 90,
     "post_requirements": [
-      "IFD0119",
-      "ENE0238",
-      "IFD0624"
+      "IFD0119"
     ],
     "pre_requirements": [
       "IFD0098"
@@ -403,8 +399,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 3",
     "ch": 90,
     "post_requirements": [
-      "IFD0369",
-      "IFD0384"
+      "IFD0369"
     ],
     "pre_requirements": []
   },
@@ -412,7 +407,9 @@
     "cod": "IFD0413",
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 4",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0780"
+    ],
     "pre_requirements": []
   },
   {
@@ -420,8 +417,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 4",
     "ch": 90,
     "post_requirements": [
-      "IFD0370",
-      "IFD0738"
+      "IFD0370"
     ],
     "pre_requirements": [
       "IFD0368"
@@ -444,7 +440,9 @@
     "cod": "IFD0414",
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM F\u00cdSICA 5",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0781"
+    ],
     "pre_requirements": []
   },
   {
@@ -496,7 +494,9 @@
     "cod": "IFD0371",
     "nome": "ESTRAT\u00c9GIAS DE ENSINO E APRENDIZAGEM \u00c0 DIST\u00c2NCIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0740"
+    ],
     "pre_requirements": []
   },
   {
@@ -537,8 +537,7 @@
     "nome": "ESTRUTURA DA MATERIA 3 - FISICA DOS SOLIDOS",
     "ch": 60,
     "post_requirements": [
-      "IFD0119",
-      "IFD0685"
+      "IFD0119"
     ],
     "pre_requirements": [
       "IFD0256"
@@ -549,8 +548,7 @@
     "nome": "ESTRUTURA DA MATERIA 4 - FISICA MOLECULAR",
     "ch": 60,
     "post_requirements": [
-      "IFD0109",
-      "IFD0687"
+      "IFD0109"
     ],
     "pre_requirements": [
       "IFD0256"
@@ -583,11 +581,7 @@
     "nome": "FISICA 1",
     "ch": 60,
     "post_requirements": [
-      "IFD0001",
-      "IFD0002",
-      "IFD0003",
-      "FGA0154",
-      "IFD0465"
+      "IFD0001"
     ],
     "pre_requirements": []
   },
@@ -596,8 +590,7 @@
     "nome": "FISICA 1 EXPERIMENTAL",
     "ch": 30,
     "post_requirements": [
-      "FGA0188",
-      "IFD0466"
+      "FGA0188"
     ],
     "pre_requirements": []
   },
@@ -642,19 +635,7 @@
     "nome": "FISICA 2",
     "ch": 60,
     "post_requirements": [
-      "IQD0001",
-      "IFD0007",
-      "IFD0008",
-      "IFD0009",
-      "CEL0087",
-      "ENM0068",
-      "ENC0266",
-      "IFD0467",
-      "ENM0232",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0177"
+      "IQD0001"
     ],
     "pre_requirements": [
       "IFD0069",
@@ -667,9 +648,7 @@
     "nome": "FISICA 2 EXPERIMENTAL",
     "ch": 60,
     "post_requirements": [
-      "IQD0150",
-      "ENE0141",
-      "IFD0468"
+      "IQD0150"
     ],
     "pre_requirements": [
       "IFD0010 & IFD0069",
@@ -702,17 +681,7 @@
     "nome": "FISICA 3",
     "ch": 60,
     "post_requirements": [
-      "IFD0025",
-      "IFD0091",
-      "IGD0172",
-      "ENE0243",
-      "ENM0174",
-      "ENE0353",
-      "IFD0469",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0181"
+      "IFD0025"
     ],
     "pre_requirements": [
       "IFD0175 & MAT0026",
@@ -774,10 +743,7 @@
     "nome": "FISICA ATOMICA E MOLECULAR 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0109",
-      "IFD0202",
-      "IFD0204",
-      "IFD0621"
+      "IFD0109"
     ],
     "pre_requirements": [
       "IFD0098"
@@ -800,8 +766,7 @@
     "nome": "F\u00cdSICA AT\u00d4MICA E MOLECULAR A",
     "ch": 60,
     "post_requirements": [
-      "IFD0047",
-      "IFD0583"
+      "IFD0047"
     ],
     "pre_requirements": [
       "IFD0024 & IFD0031"
@@ -834,8 +799,7 @@
     "nome": "F\u00cdSICA DO ESTADO S\u00d3LIDO A",
     "ch": 60,
     "post_requirements": [
-      "IFD0042",
-      "IFD0480"
+      "IFD0042"
     ],
     "pre_requirements": [
       "IFD0018"
@@ -943,8 +907,7 @@
     "nome": "FISICA GERAL 3",
     "ch": 90,
     "post_requirements": [
-      "IFD0025",
-      "IFD0665"
+      "IFD0025"
     ],
     "pre_requirements": [
       "IFD0217 & MAT0025",
@@ -968,9 +931,7 @@
     "nome": "FISICA GERAL 4",
     "ch": 90,
     "post_requirements": [
-      "IFD0247",
-      "IFD0258",
-      "IFD0672"
+      "IFD0247"
     ],
     "pre_requirements": [
       "IFD0224 & MAT0026",
@@ -996,8 +957,7 @@
     "ch": 90,
     "post_requirements": [
       "IFD0023",
-      "IFD0254",
-      "IFD0656"
+      "IFD0254"
     ],
     "pre_requirements": [
       "MAT0048",
@@ -1010,12 +970,7 @@
     "ch": 60,
     "post_requirements": [
       "IFD0023",
-      "IFD0254",
-      "IFD0455",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0025"
+      "IFD0254"
     ],
     "pre_requirements": [
       "MAT0028  &  MAT0039",
@@ -1055,16 +1010,7 @@
     "ch": 60,
     "post_requirements": [
       "IFD0105",
-      "IFD0137",
-      "IFD0264",
-      "IFD0266",
-      "IFD0268",
-      "IFD0270",
-      "IFD0272",
-      "IFD0275",
-      "IFD0306",
-      "IFD0339",
-      "IFD0513"
+      "IFD0137"
     ],
     "pre_requirements": [
       "IFD0244  &  IFD0236  &  MAT0031",
@@ -1106,8 +1052,7 @@
     "nome": "FISICA MOLECULAR 1",
     "ch": 60,
     "post_requirements": [
-      "IFD0206",
-      "IFD0659"
+      "IFD0206"
     ],
     "pre_requirements": [
       "IFD0107"
@@ -1161,9 +1106,7 @@
     "nome": "FISICA PARA CIENCIAS AGRARIAS",
     "ch": 90,
     "post_requirements": [
-      "FAV0152",
-      "FAV0266",
-      "IFD0653"
+      "FAV0152"
     ],
     "pre_requirements": []
   },
@@ -1182,8 +1125,7 @@
     "nome": "FISICA PARA DESENHO INDUSTRIAL",
     "ch": 90,
     "post_requirements": [
-      "ENM0173",
-      "IFD0519"
+      "ENM0173"
     ],
     "pre_requirements": []
   },
@@ -1193,13 +1135,7 @@
     "ch": 90,
     "post_requirements": [
       "IFD0105",
-      "IFD0107",
-      "IFD0115",
-      "IFD0137",
-      "IFD0196",
-      "IFD0339",
-      "IFD0347",
-      "IFD0617"
+      "IFD0107"
     ],
     "pre_requirements": [
       "IFD0183 & MAT0027"
@@ -1221,7 +1157,9 @@
     "cod": "IFD0005",
     "nome": "F\u00cdSICA TE\u00d3RICA PARA CI\u00caNCIAS AGR\u00c1RIAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAV0152"
+    ],
     "pre_requirements": []
   },
   {
@@ -1243,35 +1181,45 @@
     "cod": "IFD0373",
     "nome": "F\u00cdSICA ZERO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0742"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0004",
     "nome": "F\u00cdSICA ZERO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0490"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0417",
     "nome": "FRONTEIRAS DA F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0527"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0401",
     "nome": "FRONTEIRAS DA F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0770"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0391",
     "nome": "FRONTEIRAS DA F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0760"
+    ],
     "pre_requirements": []
   },
   {
@@ -1300,14 +1248,18 @@
     "cod": "IFD0011",
     "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA A",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0012"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0396",
     "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA A",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0397"
+    ],
     "pre_requirements": []
   },
   {
@@ -1316,11 +1268,7 @@
     "ch": 60,
     "post_requirements": [
       "IFD0015",
-      "IFD0493",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0055"
+      "IFD0493"
     ],
     "pre_requirements": [
       "IFD0011",
@@ -1342,7 +1290,9 @@
     "cod": "IFD0063",
     "nome": "FUNDAMENTOS MATEM\u00c1TICOS DA F\u00cdSICA PARA CI\u00caNCIAS BIOL\u00d3GICAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0600"
+    ],
     "pre_requirements": []
   },
   {
@@ -1382,21 +1332,27 @@
     "cod": "IFD0426",
     "nome": "HIST\u00d3RIA DA F\u00cdSICA CL\u00c1SSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0429"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0402",
     "nome": "HIST\u00d3RIA DA F\u00cdSICA CL\u00c1SSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0771"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0407",
     "nome": "HIST\u00d3RIA DA F\u00cdSICA MODERNA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0775"
+    ],
     "pre_requirements": []
   },
   {
@@ -1436,7 +1392,9 @@
     "cod": "IFD0443",
     "nome": "INICIA\u00c7\u00c3O \u00c0 DOC\u00caNCIA DAS CI\u00caNCIAS DA NATUREZA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0810"
+    ],
     "pre_requirements": []
   },
   {
@@ -1456,8 +1414,7 @@
     "nome": "INSTRUMENTACAO 1",
     "ch": 60,
     "post_requirements": [
-      "IFD0312",
-      "IFD0701"
+      "IFD0312"
     ],
     "pre_requirements": []
   },
@@ -1477,8 +1434,7 @@
     "nome": "INSTRUMENTACAO CIENTIFICA 1",
     "ch": 120,
     "post_requirements": [
-      "IFD0142",
-      "IFD0632"
+      "IFD0142"
     ],
     "pre_requirements": [
       "IFD0179 & IFD0181",
@@ -1490,8 +1446,7 @@
     "nome": "INSTRUMENTACAO CIENTIFICA 2",
     "ch": 120,
     "post_requirements": [
-      "IFD0156",
-      "IFD0633"
+      "IFD0156"
     ],
     "pre_requirements": [
       "IFD0140",
@@ -1537,9 +1492,7 @@
     "nome": "INTRODUCAO A FISICA",
     "ch": 90,
     "post_requirements": [
-      "FAV0152",
-      "FAV0215",
-      "IFD0603"
+      "FAV0152"
     ],
     "pre_requirements": []
   },
@@ -1594,21 +1547,27 @@
     "cod": "IFD0357",
     "nome": "INTRODU\u00c7\u00c3O AO ENSINO E DIVULGA\u00c7\u00c3O DA F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0358"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0415",
     "nome": "INTRODU\u00c7\u00c3O AO ENSINO E DIVULGA\u00c7\u00c3O DA F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0782"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0430",
     "nome": "INTRODU\u00c7\u00c3O AO ENSINO E DIVULGA\u00c7\u00c3O DA F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0247"
+    ],
     "pre_requirements": []
   },
   {
@@ -1705,8 +1664,7 @@
     "nome": "LABORAT\u00d3RIO DE F\u00cdSICA CL\u00c1SSICA 2",
     "ch": 90,
     "post_requirements": [
-      "IFD0428",
-      "IFD0486"
+      "IFD0428"
     ],
     "pre_requirements": [
       "IFD0014"
@@ -1749,7 +1707,9 @@
     "cod": "IFD0380",
     "nome": "LABORAT\u00d3RIO DE INSTRUMENTA\u00c7\u00c3O CIENT\u00cdFICA A",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0400"
+    ],
     "pre_requirements": []
   },
   {
@@ -1757,13 +1717,7 @@
     "nome": "LABORAT\u00d3RIO DE INSTRUMENTA\u00c7\u00c3O CIENT\u00cdFICA A",
     "ch": 60,
     "post_requirements": [
-      "IFD0033",
-      "IFD0035",
-      "IFD0036",
-      "IFD0037",
-      "IFD0424",
-      "IFD0425",
-      "IFD0495"
+      "IFD0033"
     ],
     "pre_requirements": [
       "IFD0010"
@@ -1910,7 +1864,9 @@
     "cod": "IFD0416",
     "nome": "MATERIAL DID\u00c1TICO PARA O ENSINO F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0783"
+    ],
     "pre_requirements": []
   },
   {
@@ -1926,14 +1882,19 @@
     "cod": "IFD0418",
     "nome": "MEC\u00c2NICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0419",
+      "IFD0528"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0374",
     "nome": "MEC\u00c2NICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0743"
+    ],
     "pre_requirements": []
   },
   {
@@ -2019,8 +1980,7 @@
     "ch": 60,
     "post_requirements": [
       "IFD0019",
-      "IFD0044",
-      "IFD0454"
+      "IFD0044"
     ],
     "pre_requirements": [
       "IFD0013",
@@ -2080,10 +2040,7 @@
     "nome": "MECANICA QUANTICA 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0103",
-      "IFD0308",
-      "IFD0354",
-      "IFD0618"
+      "IFD0103"
     ],
     "pre_requirements": [
       "IFD0098 & MAT0059",
@@ -2126,8 +2083,7 @@
     "nome": "MEC\u00c2NICA QU\u00c2NTICA B",
     "ch": 90,
     "post_requirements": [
-      "IFD0038",
-      "IFD0503"
+      "IFD0038"
     ],
     "pre_requirements": [
       "IFD0024 & IFD0100"
@@ -2170,7 +2126,9 @@
     "cod": "IFD0403",
     "nome": "METODOLOGIA DA PESQUISA EM ENSINO DE CI\u00caNCIAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0772"
+    ],
     "pre_requirements": []
   },
   {
@@ -2178,8 +2136,7 @@
     "nome": "METODOLOGIA DO ENSINO DE F\u00cdSICA",
     "ch": 60,
     "post_requirements": [
-      "IFD0366",
-      "IFD0734"
+      "IFD0366"
     ],
     "pre_requirements": [
       "IFD0357"
@@ -2190,13 +2147,7 @@
     "nome": "METODOLOGIA DO ENSINO DE F\u00cdSICA",
     "ch": 60,
     "post_requirements": [
-      "IFD0282",
-      "IFD0286",
-      "IFD0290",
-      "IFD0333",
-      "IFD0334",
-      "IFD0338",
-      "IFD0510"
+      "IFD0282"
     ],
     "pre_requirements": [
       "IFD0430",
@@ -2208,9 +2159,7 @@
     "nome": "METODOS COMPUTACIONAIS 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0314",
-      "IFD0323",
-      "IFD0706"
+      "IFD0314"
     ],
     "pre_requirements": [
       "IFD0353 & MAT0048"
@@ -2232,8 +2181,7 @@
     "nome": "M\u00c9TODOS COMPUTACIONAIS A",
     "ch": 60,
     "post_requirements": [
-      "IFD0054",
-      "IFD0459"
+      "IFD0054"
     ],
     "pre_requirements": [
       "IFD0353  &  MAT0029",
@@ -2246,8 +2194,7 @@
     "nome": "M\u00c9TODOS COMPUTACIONAIS B",
     "ch": 60,
     "post_requirements": [
-      "IFD0319",
-      "IFD0591"
+      "IFD0319"
     ],
     "pre_requirements": [
       "IFD0020"
@@ -2268,14 +2215,18 @@
     "cod": "IFD0378",
     "nome": "M\u00c9TODOS DA F\u00cdSICA EXPERIMENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0379"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0010",
     "nome": "M\u00c9TODOS DA F\u00cdSICA EXPERIMENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0014"
+    ],
     "pre_requirements": []
   },
   {
@@ -2285,11 +2236,7 @@
     "post_requirements": [
       "IFD0015",
       "IFD0023",
-      "IFD0518",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0025"
+      "IFD0518"
     ],
     "pre_requirements": [
       "IFD0244",
@@ -2304,11 +2251,7 @@
     "nome": "ONDAS E \u00d3PTICA",
     "ch": 60,
     "post_requirements": [
-      "IFD0477",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0027"
+      "IFD0477"
     ],
     "pre_requirements": [
       "MAT0026 & IFD0419"
@@ -2319,8 +2262,7 @@
     "nome": "ONDAS, \u00d3PTICA E TERMODIN\u00c2MICA",
     "ch": 90,
     "post_requirements": [
-      "IFD0395",
-      "IFD0526"
+      "IFD0395"
     ],
     "pre_requirements": [
       "IFD0375 & IFD0360"
@@ -2331,13 +2273,7 @@
     "nome": "ONDAS, \u00d3PTICA E TERMODIN\u00c2MICA",
     "ch": 90,
     "post_requirements": [
-      "IFD0028",
-      "IFD0055",
-      "IFD0494",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0027"
+      "IFD0028"
     ],
     "pre_requirements": [
       "IFD0069",
@@ -2371,7 +2307,9 @@
     "cod": "IFD0385",
     "nome": "O USO DO AMBIENTE VIRTUAL DE APRENDIZAGEM",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0754"
+    ],
     "pre_requirements": []
   },
   {
@@ -2379,8 +2317,7 @@
     "nome": "PART\u00cdCULAS E CAMPOS A",
     "ch": 60,
     "post_requirements": [
-      "IFD0039",
-      "IFD0575"
+      "IFD0039"
     ],
     "pre_requirements": [
       "IFD0030"
@@ -2446,14 +2383,18 @@
     "cod": "IFD0064",
     "nome": "PR\u00c1TICA DE APOIO \u00c0 F\u00cdSICA EXPERIMENTAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0601"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0065",
     "nome": "PR\u00c1TICA DE APOIO \u00c0 F\u00cdSICA EXPERIMENTAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0602"
+    ],
     "pre_requirements": []
   },
   {
@@ -2517,9 +2458,7 @@
     "nome": "PROGRAMA\u00c7\u00c3O PARA SISTEMAS F\u00cdSICOS",
     "ch": 60,
     "post_requirements": [
-      "CIC0175",
-      "IFD0326",
-      "IFD0475"
+      "CIC0175"
     ],
     "pre_requirements": []
   },
@@ -2549,21 +2488,27 @@
     "cod": "IFD0057",
     "nome": "PROJETO DE TRABALHO DE CONCLUS\u00c3O DE CURSO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0058"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0448",
     "nome": "PROJETO FINAL EM F\u00cdSICA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0814"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0449",
     "nome": "PROJETO FINAL EM F\u00cdSICA 2",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0815"
+    ],
     "pre_requirements": []
   },
   {
@@ -2571,8 +2516,7 @@
     "nome": "PROJETO FINAL EM FISICA COMPUTACIONAL 1",
     "ch": 30,
     "post_requirements": [
-      "IFD0316",
-      "IFD0703"
+      "IFD0316"
     ],
     "pre_requirements": [
       "IFD0321"
@@ -2593,14 +2537,18 @@
     "cod": "IFD0446",
     "nome": "PROJETO FINAL EM LICENCIATURA DE F\u00cdSICA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0812"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0447",
     "nome": "PROJETO FINAL EM LICENCIATURA DE F\u00cdSICA 2",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0813"
+    ],
     "pre_requirements": []
   },
   {
@@ -2632,14 +2580,7 @@
     "nome": "RELATIVIDADE E F\u00cdSICA QU\u00c2NTICA",
     "ch": 90,
     "post_requirements": [
-      "IFD0042",
-      "IFD0048",
-      "IFD0122",
-      "IFD0456",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0021"
+      "IFD0042"
     ],
     "pre_requirements": [
       "IFD0055",
@@ -2654,8 +2595,7 @@
     "nome": "RELATIVIDADE GERAL",
     "ch": 60,
     "post_requirements": [
-      "IFD0045",
-      "IFD0593"
+      "IFD0045"
     ],
     "pre_requirements": [
       "IFD0029"
@@ -2683,7 +2623,9 @@
     "cod": "IFD0346",
     "nome": "SEMIN\u00c1RIO DE GRADUA\u00c7\u00c3O 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0483"
+    ],
     "pre_requirements": []
   },
   {
@@ -2793,9 +2735,7 @@
     "nome": "TEORIA ELETROMAGNETICA",
     "ch": 60,
     "post_requirements": [
-      "IFD0029",
-      "IFD0076",
-      "IFD0512"
+      "IFD0029"
     ],
     "pre_requirements": [
       "IFD0179",
@@ -2816,10 +2756,7 @@
     "nome": "TEORIA ELETROMAGNETICA 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0029",
-      "IFD0076",
-      "IFD0128",
-      "IFD0607"
+      "IFD0029"
     ],
     "pre_requirements": [
       "IFD0224 & IFD0227 & IFD0252",
@@ -2845,8 +2782,7 @@
     "nome": "TEORIA ELETROMAGN\u00c9TICA A",
     "ch": 60,
     "post_requirements": [
-      "IFD0029",
-      "IFD0499"
+      "IFD0029"
     ],
     "pre_requirements": [
       "IFD0055",
@@ -2861,8 +2797,7 @@
     "ch": 60,
     "post_requirements": [
       "IFD0056",
-      "IFD0445",
-      "IFD0502"
+      "IFD0445"
     ],
     "pre_requirements": [
       "IFD0025",
@@ -2875,9 +2810,7 @@
     "nome": "TEORIA QUANTICA 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0260",
-      "IFD0262",
-      "IFD0619"
+      "IFD0260"
     ],
     "pre_requirements": [
       "IFD0100"
@@ -2931,7 +2864,9 @@
     "cod": "IFD0408",
     "nome": "TEORIAS DA APRENDIZAGEM E ENSINO DE F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0776"
+    ],
     "pre_requirements": []
   },
   {
@@ -2963,8 +2898,7 @@
     "nome": "TERMODIN\u00c2MICA",
     "ch": 60,
     "post_requirements": [
-      "IFD0055",
-      "IFD0476"
+      "IFD0055"
     ],
     "pre_requirements": [
       "MAT0025"
@@ -3042,28 +2976,36 @@
     "cod": "IFD0059",
     "nome": "T\u00d3PICOS ESPECIAIS A",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0507"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0060",
     "nome": "T\u00d3PICOS ESPECIAIS B",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0597"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0061",
     "nome": "T\u00d3PICOS ESPECIAIS C",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0508"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0062",
     "nome": "T\u00d3PICOS ESPECIAIS D",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0599"
+    ],
     "pre_requirements": []
   },
   {
@@ -3081,14 +3023,18 @@
     "cod": "IFD0389",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0390"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IFD0409",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1 - LICENCIATURA EM F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IFD0777"
+    ],
     "pre_requirements": []
   },
   {

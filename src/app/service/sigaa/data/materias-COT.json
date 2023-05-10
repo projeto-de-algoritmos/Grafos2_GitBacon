@@ -3,7 +3,9 @@
     "cod": "COT0001",
     "nome": "ECONOMIA E GEST\u00c3O DE \u00c1REAS PROTEGIDAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "C"
+    ],
     "pre_requirements": []
   }
 ]

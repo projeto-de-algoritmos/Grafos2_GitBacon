@@ -113,7 +113,7 @@ def main(cod_unidades):
                           headers=header,
                           allow_redirects=False)
                 requirements_soup = BeautifulSoup(r.content, 'html.parser', from_encoding='UTF-8')
-                regex_match = re.compile('pré-requisito(.*?)Histórico').findall(
+                regex_match = re.compile('pré-requisito(.*?)[Histórico|Outro]').findall(
                     requirements_soup.text.replace('\n', ' '))
                 if regex_match:
                     requirements = regex_match[0]

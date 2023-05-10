@@ -36,9 +36,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 METODOLOGIA DAS CI\u00caNCIAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "DAN0040",
-      "FCI0052",
-      "ELA0123"
+      "DAN0040"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -48,7 +46,9 @@
     "cod": "ELA0117",
     "nome": "INTRODU\u00c7\u00c3O \u00c0S CI\u00caNCIAS SOCIAIS LATINO-AMERICANAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ELA0014"
+    ],
     "pre_requirements": []
   },
   {
@@ -100,14 +100,18 @@
     "cod": "ELA0001",
     "nome": "T\u00d3PICOS ESPECIAIS DE METODOLOGIA QUALITATIVA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ELA0119"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ELA0004",
     "nome": "T\u00d3PICOS ESPECIAIS DE METODOLOGIA QUANTITATIVA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ELA0128"
+    ],
     "pre_requirements": []
   }
 ]

@@ -4,7 +4,7 @@
     "nome": "AN\u00c1LISE CUSTO BENEF\u00cdCIO AMBIENTAL DE PROJETOS",
     "ch": 60,
     "post_requirements": [
-      "ECO0331"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0272",
@@ -16,7 +16,7 @@
     "nome": "AN\u00c1LISE CUSTO BENEF\u00cdCIO AMBIENTAL DE PROJETOS",
     "ch": 30,
     "post_requirements": [
-      "ECO0436"
+      "EC"
     ],
     "pre_requirements": []
   },
@@ -25,7 +25,7 @@
     "nome": "AN\u00c1LISE DE INSUMO-PRODUTO",
     "ch": 60,
     "post_requirements": [
-      "ECO0307"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0050",
@@ -37,7 +37,7 @@
     "nome": "ANALISE DE PROJETOS",
     "ch": 60,
     "post_requirements": [
-      "ECO0314"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126"
@@ -48,7 +48,7 @@
     "nome": "AN\u00c1LISE ECON\u00d4MICA DE PROCESSOS POL\u00cdTICOS",
     "ch": 60,
     "post_requirements": [
-      "ECO0447"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126"
@@ -59,7 +59,7 @@
     "nome": "ANALISE ECONOMICA DE SERIES DE TEMPO",
     "ch": 60,
     "post_requirements": [
-      "ECO0323"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0128"
@@ -70,7 +70,7 @@
     "nome": "ANALISE MACROECONOMICA AVANCADA",
     "ch": 60,
     "post_requirements": [
-      "ECO0423"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -81,7 +81,7 @@
     "nome": "ANALISE MICROECONOMICA AVANCADA",
     "ch": 60,
     "post_requirements": [
-      "ECO0422"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185"
@@ -92,7 +92,7 @@
     "nome": "AVALIA\u00c7\u00c3O AMBIENTAL ESTRAT\u00c9GICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0443"
+      "EC"
     ],
     "pre_requirements": [
       "CDS0010",
@@ -104,7 +104,7 @@
     "nome": "CONJUNTURA ECONOMICA BRASILEIRA",
     "ch": 60,
     "post_requirements": [
-      "ECO0390"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126 & ECO0099"
@@ -115,10 +115,7 @@
     "nome": "CONTABILIDADE NACIONAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0010",
-      "CCA0067",
-      "CCA0169",
-      "ECO0291"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -129,7 +126,7 @@
     "nome": "DESENVOLVIMENTO ECONOMICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0365"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0032",
@@ -141,7 +138,7 @@
     "nome": "DESENVOLVIMENTO ECON\u00d4MICO E SOCIAL",
     "ch": 30,
     "post_requirements": [
-      "ECO0344"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0199"
@@ -152,9 +149,7 @@
     "nome": "ECONOMETRIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0006",
-      "ECO0059",
-      "ECO0292"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0128"
@@ -165,7 +160,7 @@
     "nome": "ECONOMETRIA AVANCADA",
     "ch": 60,
     "post_requirements": [
-      "ECO0421"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0128"
@@ -176,7 +171,7 @@
     "nome": "ECONOMETRIA DE S\u00c9RIES DE TEMPO",
     "ch": 60,
     "post_requirements": [
-      "ECO0433"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0128",
@@ -189,7 +184,7 @@
     "nome": "ECONOMIA AGRICOLA",
     "ch": 60,
     "post_requirements": [
-      "ECO0359"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126"
@@ -200,9 +195,7 @@
     "nome": "ECONOMIA AMBIENTAL E ECOL\u00d3GICA",
     "ch": 60,
     "post_requirements": [
-      "FDD0282",
-      "ECO0275",
-      "ECO0329"
+      "FDD0282"
     ],
     "pre_requirements": [
       "ECO0272",
@@ -214,9 +207,7 @@
     "nome": "ECONOMIA BRASILEIRA",
     "ch": 60,
     "post_requirements": [
-      "CCA0067",
-      "CCA0169",
-      "ECO0313"
+      "CCA0067"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -227,7 +218,7 @@
     "nome": "ECONOMIA BRASILEIRA AVANCADA",
     "ch": 60,
     "post_requirements": [
-      "ECO0420"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0159"
@@ -238,7 +229,7 @@
     "nome": "ECONOMIA DA DEFESA DA CONCORR\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0309"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -249,7 +240,7 @@
     "nome": "ECONOMIA DA INFRAESTRUTURA",
     "ch": 60,
     "post_requirements": [
-      "ECO0286"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -260,7 +251,7 @@
     "nome": "ECONOMIA DA POL\u00cdTICA AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0330"
+      "EC"
     ],
     "pre_requirements": [
       "CDS0010",
@@ -272,7 +263,7 @@
     "nome": "ECONOMIA DA REGULA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ECO0343"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185"
@@ -283,7 +274,7 @@
     "nome": "ECONOMIA DA TECNOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0371"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099 & ECO0126"
@@ -294,7 +285,7 @@
     "nome": "ECONOMIA DE COMERCIO INTERNACIONAL",
     "ch": 90,
     "post_requirements": [
-      "ECO0403"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0128 & ECO0189",
@@ -306,7 +297,7 @@
     "nome": "ECONOMIA DE EMPRESAS",
     "ch": 60,
     "post_requirements": [
-      "ECO0418"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126 & ECO0185 & ECO0099 & ECO0189"
@@ -317,8 +308,7 @@
     "nome": "ECONOMIA DO BRASIL CONTEMPORANEO",
     "ch": 60,
     "post_requirements": [
-      "ECO0238",
-      "ECO0318"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0023 & ECO0189"
@@ -329,7 +319,7 @@
     "nome": "ECONOMIA DO CRIME",
     "ch": 60,
     "post_requirements": [
-      "ECO0335"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -340,7 +330,7 @@
     "nome": "ECONOMIA DO MEIO AMBIENTE",
     "ch": 60,
     "post_requirements": [
-      "ECO0427"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185",
@@ -351,7 +341,9 @@
     "cod": "ECO0273",
     "nome": "ECONOMIA DO SETOR EXTERNO E MEIO AMBIENTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "EC"
+    ],
     "pre_requirements": []
   },
   {
@@ -359,8 +351,7 @@
     "nome": "ECONOMIA DO SETOR PUBLICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0179",
-      "ECO0317"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -371,7 +362,7 @@
     "nome": "ECONOMIA DOS RECURSOS HUMANOS",
     "ch": 60,
     "post_requirements": [
-      "ECO0395"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -382,7 +373,7 @@
     "nome": "ECONOMIA DOS RECURSOS NATURAIS",
     "ch": 60,
     "post_requirements": [
-      "ECO0376"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126 & ECO0099",
@@ -394,7 +385,7 @@
     "nome": "ECONOMIA DOS TRANSPORTES",
     "ch": 60,
     "post_requirements": [
-      "ECO0375"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -405,7 +396,7 @@
     "nome": "ECONOMIA DO TRABALHO",
     "ch": 60,
     "post_requirements": [
-      "ECO0293"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099 & ECO0126"
@@ -416,7 +407,7 @@
     "nome": "ECONOMIA E DEMOCRACIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0446"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -427,8 +418,7 @@
     "nome": "ECONOMIA ESTATISTICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0128",
-      "ECO0405"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019 & EST0061"
@@ -439,7 +429,7 @@
     "nome": "ECONOMIA INDUSTRIAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0316"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185"
@@ -450,8 +440,7 @@
     "nome": "ECONOMIA INTERNACIONAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0176",
-      "ECO0311"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -462,7 +451,7 @@
     "nome": "ECONOMIA LATINO-AMERICANA",
     "ch": 60,
     "post_requirements": [
-      "ECO0424"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0218"
@@ -473,8 +462,7 @@
     "nome": "ECONOMIA MONETARIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0183",
-      "ECO0319"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -485,8 +473,7 @@
     "nome": "ECONOMIA POLITICA 1",
     "ch": 60,
     "post_requirements": [
-      "ECO0222",
-      "ECO0295"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0218"
@@ -497,7 +484,7 @@
     "nome": "ECONOMIA POLITICA 2",
     "ch": 60,
     "post_requirements": [
-      "ECO0412"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0124"
@@ -508,9 +495,7 @@
     "nome": "ECONOMIA QUANTITATIVA 1",
     "ch": 60,
     "post_requirements": [
-      "ECO0056",
-      "ECO0236",
-      "ECO0299"
+      "EC"
     ],
     "pre_requirements": [
       "MAT0025 & ECO0019"
@@ -521,8 +506,7 @@
     "nome": "ECONOMIA QUANTITATIVA 2",
     "ch": 60,
     "post_requirements": [
-      "ECO0211",
-      "ECO0312"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0187"
@@ -533,7 +517,7 @@
     "nome": "ECONOMIA REGIONAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0363"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -544,10 +528,7 @@
     "nome": "ECONOMIA RURAL 1",
     "ch": 60,
     "post_requirements": [
-      "FAV0097",
-      "FAV0213",
-      "EFL0013",
-      "ECO0377"
+      "FAV0097"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -558,7 +539,7 @@
     "nome": "ECONOMIA URBANA",
     "ch": 60,
     "post_requirements": [
-      "ECO0386"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -569,7 +550,7 @@
     "nome": "ELEMENTOS DE ECONOMIA INTERNACIONAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0426"
+      "EC"
     ],
     "pre_requirements": [
       "IRI0013"
@@ -580,7 +561,7 @@
     "nome": "EMPRESAS MULTINACIONAIS",
     "ch": 60,
     "post_requirements": [
-      "ECO0389"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -591,7 +572,7 @@
     "nome": "ESPA\u00c7O REGIONAL URBANO E MEIO AMBIENTE",
     "ch": 60,
     "post_requirements": [
-      "ECO0333"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0272",
@@ -603,7 +584,7 @@
     "nome": "ESTAGIO CURRICULAR SUPERVISIONADO",
     "ch": 15,
     "post_requirements": [
-      "ECO0303"
+      "EC"
     ],
     "pre_requirements": []
   },
@@ -612,12 +593,7 @@
     "nome": "EVOLUCAO DAS IDEIAS ECONOMICAS SOCIAIS",
     "ch": 60,
     "post_requirements": [
-      "ECO0070",
-      "ECO0124",
-      "ECO0156",
-      "ECO0220",
-      "ECO0246",
-      "ECO0301"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -628,7 +604,7 @@
     "nome": "EXPERIENCIAS COMPARADAS DE DESENVOLVIMENTO",
     "ch": 60,
     "post_requirements": [
-      "ECO0368"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099 & ECO0126"
@@ -639,7 +615,7 @@
     "nome": "FINANCAS INTERNACIONAIS",
     "ch": 60,
     "post_requirements": [
-      "ECO0392"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -650,7 +626,7 @@
     "nome": "FORMACAO ECONOMICA DA AMERICA LATINA",
     "ch": 60,
     "post_requirements": [
-      "ECO0388"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0023"
@@ -661,10 +637,7 @@
     "nome": "FORMA\u00c7\u00c3O ECON\u00d4MICA DO BRASIL",
     "ch": 60,
     "post_requirements": [
-      "ECO0117",
-      "ECO0143",
-      "ECO0150",
-      "ECO0290"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -674,7 +647,9 @@
     "cod": "ECO0265",
     "nome": "FUNDAMENTOS DE ECONOMIA DO MEIO AMBIENTE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EC"
+    ],
     "pre_requirements": []
   },
   {
@@ -682,7 +657,7 @@
     "nome": "HISTORIA DO PENSAMENTO ECONOMICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0310"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185 & ECO0218 & ECO0189"
@@ -693,8 +668,7 @@
     "nome": "HIST\u00d3RIA ECON\u00d4MICA GERAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0015",
-      "ECO0289"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -705,7 +679,7 @@
     "nome": "HIST\u00d3RIA ECON\u00d4MICA GERAL 2",
     "ch": 60,
     "post_requirements": [
-      "ECO0287"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0021"
@@ -716,8 +690,7 @@
     "nome": "INSTRUMENTO DE POL\u00cdTICA AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "CDS0006",
-      "ECO0334"
+      "CDS0006"
     ],
     "pre_requirements": [
       "ECO0262",
@@ -729,52 +702,7 @@
     "nome": "INTRODUCAO A ECONOMETRIA",
     "ch": 60,
     "post_requirements": [
-      "um bom dom\u00ednio de estat\u00edstica e de \u00e1lgebra linear.",
-      "",
-      "Cargas Hor\u00e1rias  Aula",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "60h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "60h",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "0h",
-      "Total de Carga Hor\u00e1ria de Aula do Componente",
-      "Total do conjunto de cargas",
-      "60h",
-      "Total de Carga Hor\u00e1ria do Componente",
-      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
-      "60h",
-      "",
-      "Outros componentes que t\u00eam esse componente como equivalente",
-      "EST0063",
-      "ECO0127",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como pr\u00e9",
-      "ECO0054",
-      "ECO0130",
-      "ECO0230",
-      "ECO0240",
-      "ECO0264",
-      "ECO0297"
+      ""
     ],
     "pre_requirements": [
       "ECO0197",
@@ -786,37 +714,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ECONOMIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0002",
-      "FAV0025",
-      "FUP0128",
-      "ECO0017",
-      "ECO0021",
-      "ECO0023",
-      "ECO0032",
-      "ECO0048",
-      "ECO0050",
-      "ECO0061",
-      "ECO0064",
-      "ECO0072",
-      "ECO0101",
-      "ECO0108",
-      "ECO0139",
-      "ECO0145",
-      "ECO0161",
-      "ECO0218",
-      "GPP0031",
-      "SER0031",
-      "SER0129",
-      "FAV0275",
-      "FAV0295",
-      "IRI0065",
-      "POL0048",
-      "FUP0344",
-      "FCE0336",
-      "FUP0531",
-      "ECO0277",
-      "ECO0288",
-      "ECO0336"
+      "EC"
     ],
     "pre_requirements": []
   },
@@ -824,14 +722,18 @@
     "cod": "ECO0008",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ECONOMIA POL\u00cdTICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "EC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ECO0004",
     "nome": "INTRODU\u00c7\u00c3O A ECONOMIA QUANTITATIVA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EC"
+    ],
     "pre_requirements": []
   },
   {
@@ -839,7 +741,7 @@
     "nome": "LABORAT\u00d3RIO DE ECONOMETRIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0306"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0054"
@@ -850,13 +752,7 @@
     "nome": "MACROECONOMIA 1",
     "ch": 60,
     "post_requirements": [
-      "ECO0036",
-      "ECO0067",
-      "ECO0199",
-      "ECO0232",
-      "ECO0281",
-      "ECO0284",
-      "ECO0294"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0050 & ECO0126"
@@ -867,18 +763,7 @@
     "nome": "MACROECONOMIA 2",
     "ch": 60,
     "post_requirements": [
-      "ECO0007",
-      "ECO0013",
-      "ECO0016",
-      "ECO0040",
-      "ECO0122",
-      "ECO0141",
-      "ECO0153",
-      "ECO0194",
-      "ECO0228",
-      "ECO0244",
-      "ECO0279",
-      "ECO0300"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099 & ECO0187"
@@ -889,7 +774,7 @@
     "nome": "MACROECONOMIA 3",
     "ch": 60,
     "post_requirements": [
-      "ECO0322"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -900,7 +785,7 @@
     "nome": "MACROECONOMIA ESTRUTURALISTA DO DESENVOLVIMENTO",
     "ch": 60,
     "post_requirements": [
-      "ECO0445"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0218 & ECO0099"
@@ -911,7 +796,7 @@
     "nome": "MATEM\u00c1TICA FINANCEIRA PARA ECONOMIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0326"
+      "EC"
     ],
     "pre_requirements": []
   },
@@ -920,7 +805,7 @@
     "nome": "METODOLOGIA NA CI\u00caNCIA ECON\u00d4MICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0321"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0218"
@@ -931,7 +816,7 @@
     "nome": "METODOS MATEMATICOS EM CIENCIAS SOCIAIS AVANCADOS",
     "ch": 60,
     "post_requirements": [
-      "ECO0419"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0187"
@@ -942,21 +827,7 @@
     "nome": "MICROECONOMIA 1",
     "ch": 60,
     "post_requirements": [
-      "ECO0036",
-      "ECO0052",
-      "ECO0079",
-      "ECO0185",
-      "ECO0261",
-      "ECO0262",
-      "ECO0266",
-      "ECO0268",
-      "ECO0270",
-      "ECO0274",
-      "ECO0275",
-      "ECO0276",
-      "ECO0280",
-      "ECO0282",
-      "ECO0296"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0187 & ECO0218"
@@ -967,13 +838,7 @@
     "nome": "MICROECONOMIA 2",
     "ch": 60,
     "post_requirements": [
-      "ECO0011",
-      "ECO0134",
-      "ECO0216",
-      "ECO0226",
-      "ECO0242",
-      "ECO0252",
-      "ECO0298"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126"
@@ -984,7 +849,7 @@
     "nome": "MICROECONOMIA 3",
     "ch": 60,
     "post_requirements": [
-      "ECO0414"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185"
@@ -995,11 +860,7 @@
     "nome": "MICROECONOMIA AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0261",
-      "ECO0262",
-      "ECO0268",
-      "ECO0274",
-      "ECO0302"
+      "EC"
     ],
     "pre_requirements": [
       "MAT0022",
@@ -1011,7 +872,7 @@
     "nome": "MONITORIA 1 PROFISSIONAL EM ECONOMIA",
     "ch": 0,
     "post_requirements": [
-      "ECO0407"
+      "EC"
     ],
     "pre_requirements": []
   },
@@ -1020,7 +881,7 @@
     "nome": "MONOGRAFIA",
     "ch": 240,
     "post_requirements": [
-      "ECO0325"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0114"
@@ -1031,7 +892,7 @@
     "nome": "O MERCADO DE IDEIAS",
     "ch": 60,
     "post_requirements": [
-      "ECO0453"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -1042,7 +903,7 @@
     "nome": "PENSAMENTO ECON\u00d4MICO BRASILEIRO",
     "ch": 60,
     "post_requirements": [
-      "ECO0345"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -1053,7 +914,7 @@
     "nome": "PLANEJAMENTO DE INVESTIMENTOS AMBIENTAIS",
     "ch": 60,
     "post_requirements": [
-      "ECO0438"
+      "EC"
     ],
     "pre_requirements": [
       "CDS0010",
@@ -1065,9 +926,7 @@
     "nome": "PLANEJAMENTO P\u00daBLICO E MEIO AMBIENTE",
     "ch": 60,
     "post_requirements": [
-      "CDS0006",
-      "FDD0282",
-      "ECO0328"
+      "CDS0006"
     ],
     "pre_requirements": [
       "ECO0272",
@@ -1079,7 +938,7 @@
     "nome": "POLITICA ECONOMICA BRASILEIRA",
     "ch": 60,
     "post_requirements": [
-      "ECO0380"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -1090,7 +949,7 @@
     "nome": "POLITICA E PROGRAMACAO ECONOMICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0372"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019 & ECO0032"
@@ -1101,7 +960,7 @@
     "nome": "SEMINARIO DE DESENVOLVIMENTO ECONOMICO",
     "ch": 30,
     "post_requirements": [
-      "ECO0366"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0218"
@@ -1112,7 +971,7 @@
     "nome": "SEMINARIO DE ECONOMETRIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0362"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0054"
@@ -1123,7 +982,7 @@
     "nome": "SEMINARIO DE ECONOMIA BRASILEIRA",
     "ch": 90,
     "post_requirements": [
-      "ECO0379"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0023"
@@ -1134,7 +993,7 @@
     "nome": "SEMINARIO DE ECONOMIA INDUSTRIAL",
     "ch": 30,
     "post_requirements": [
-      "ECO0385"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126 & ECO0185"
@@ -1145,7 +1004,7 @@
     "nome": "SEMINARIO DE ECONOMIA INTERNACIONAL",
     "ch": 30,
     "post_requirements": [
-      "ECO0356"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126 & ECO0099"
@@ -1156,7 +1015,7 @@
     "nome": "SEMINARIO DE ECONOMIA MONETARIA",
     "ch": 30,
     "post_requirements": [
-      "ECO0357"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -1167,7 +1026,7 @@
     "nome": "SEMINARIO DE ECONOMIA REGIONAL",
     "ch": 30,
     "post_requirements": [
-      "ECO0364"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -1178,7 +1037,7 @@
     "nome": "SEMINARIO DE POLITICA FISCAL",
     "ch": 30,
     "post_requirements": [
-      "ECO0373"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126 & ECO0099"
@@ -1189,7 +1048,7 @@
     "nome": "SEMIN\u00c1RIOS - VIS\u00d5ES EM CI\u00caNCIAS AMBIENTAIS",
     "ch": 30,
     "post_requirements": [
-      "ECO0327"
+      "EC"
     ],
     "pre_requirements": []
   },
@@ -1198,9 +1057,7 @@
     "nome": "TECNICAS DE PESQUISA ECONOMICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0248",
-      "ECO0285",
-      "ECO0315"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0128 & ECO0189"
@@ -1211,46 +1068,7 @@
     "nome": "TEORIA DAS FINAN\u00c7AS",
     "ch": 60,
     "post_requirements": [
-      "s para o curso s\u00e3o microeconomia 1 e econometria. Um conhecimento de leitura em ingl\u00eas \u00e9desej\u00e1vel, mas n\u00e3o requerido. Este programa pode ser modificado no decorrer do curso e podem ser exigidas leiturasextras. Outros livros de finan\u00e7as s\u00e3o recomendados na se\u00e7\u00e3o 4.1 da bibliografia. Livros mais avan\u00e7ados de finan\u00e7asconstam na se\u00e7\u00e3o 4.2 da bibliografia. Finalmente, artigos de finan\u00e7as encontram",
-      "",
-      "Cargas Hor\u00e1rias  Aula",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "60h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "60h",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "0h",
-      "Total de Carga Hor\u00e1ria de Aula do Componente",
-      "Total do conjunto de cargas",
-      "60h",
-      "Total de Carga Hor\u00e1ria do Componente",
-      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
-      "60h",
-      "",
-      "Outros componentes que t\u00eam esse componente como equivalente",
-      "ECO0255",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como pr\u00e9",
-      "ECO0429"
+      ""
     ],
     "pre_requirements": [
       "ECO0128 & ECO0126"
@@ -1261,7 +1079,7 @@
     "nome": "TEORIA DO CRESCIMENTO",
     "ch": 60,
     "post_requirements": [
-      "ECO0354"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126",
@@ -1273,7 +1091,7 @@
     "nome": "TEORIA DO CRESCIMENTO ECONOMICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0324"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099"
@@ -1284,9 +1102,7 @@
     "nome": "TEORIA DO DESENVOLVIMENTO ECONOMICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0012",
-      "ECO0172",
-      "ECO0320"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099"
@@ -1297,7 +1113,7 @@
     "nome": "TOPICO AVANCADO EM ECONOMIA MATEMATICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0408"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0056"
@@ -1308,7 +1124,7 @@
     "nome": "TOPICOS ESPECIAIS EM ANALISE ECONOMICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0409"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0185"
@@ -1319,7 +1135,7 @@
     "nome": "TOPICOS ESPECIAIS EM DESENVOLVIMENTO ECONOMICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0396"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0199"
@@ -1330,7 +1146,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM ECONOMIA DO TRABALHO",
     "ch": 60,
     "post_requirements": [
-      "ECO0450"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019 & EST0023"
@@ -1341,7 +1157,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM ECONOMIA INTERNACIONAL",
     "ch": 60,
     "post_requirements": [
-      "ECO0397"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0040"
@@ -1352,7 +1168,7 @@
     "nome": "TOPICOS ESPECIAIS EM ECONOMIA MONETARIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0399"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0194"
@@ -1363,7 +1179,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM ECONOMIA REGIONAL E URBANA",
     "ch": 60,
     "post_requirements": [
-      "ECO0305"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -1374,7 +1190,7 @@
     "nome": "TOPICOS ESPECIAIS EM EVOLUCAO DO PENSAMENTO ECONOMICO",
     "ch": 30,
     "post_requirements": [
-      "ECO0393"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0218"
@@ -1385,7 +1201,7 @@
     "nome": "TOPICOS ESPECIAIS EM FINANCAS PUBLICAS",
     "ch": 60,
     "post_requirements": [
-      "ECO0398"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0141"
@@ -1396,7 +1212,7 @@
     "nome": "TOPICOS ESPECIAIS EM HISTORIA ECONOMICA DO BRASIL",
     "ch": 30,
     "post_requirements": [
-      "ECO0391"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0023"
@@ -1407,7 +1223,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM MACROECONOMIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0451"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099"
@@ -1418,7 +1234,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM MICROECONOMIA",
     "ch": 60,
     "post_requirements": [
-      "ECO0304"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0126"
@@ -1429,7 +1245,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA MACROECON\u00d4MICA",
     "ch": 60,
     "post_requirements": [
-      "ECO0308"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0189"
@@ -1440,7 +1256,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS SOBRE CRESCIMENTO ECON\u00d4MICO",
     "ch": 60,
     "post_requirements": [
-      "ECO0448"
+      "EC"
     ],
     "pre_requirements": [
       "ECO0099"
@@ -1450,7 +1266,9 @@
     "cod": "ECO0014",
     "nome": "TUTORIAL EM CI\u00caNCIAS ECON\u00d4MICAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EC"
+    ],
     "pre_requirements": []
   }
 ]

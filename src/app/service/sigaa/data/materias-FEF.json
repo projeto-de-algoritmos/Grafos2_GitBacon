@@ -3,7 +3,9 @@
     "cod": "FEF0022",
     "nome": "ADMINISTRA\u00c7\u00c3O EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0532"
+    ],
     "pre_requirements": []
   },
   {
@@ -19,7 +21,9 @@
     "cod": "FEF0025",
     "nome": "ANATOMIA APLICADA A EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0610"
+    ],
     "pre_requirements": []
   },
   {
@@ -27,53 +31,7 @@
     "nome": "ANATOMIA APLICADA \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
     "post_requirements": [
-      "para um conjunto de disciplinas ensinadas no ciclo b\u00e1sico do curso de Educa\u00e7\u00e3o F\u00edsica e para a pr\u00e1tica profissional do Educador F\u00edsico nos diversos campos de atua\u00e7\u00e3o profissional. O estudo da anatomia assume um papel diferente no contexto curricular sendo aplicado aos diversos procedimentos t\u00e9cnicos e \u00e0s rotinas di\u00e1rias do exerc\u00edcio da profiss\u00e3o. A disciplina busca a forma\u00e7\u00e3o de habilidades e compet\u00eancias que possibilitem ao estudante ver al\u00e9m da descri\u00e7\u00e3o dos aspectos morfol\u00f3gicos dos sistemas org\u00e2nicos.",
-      "",
-      "Cargas Hor\u00e1rias  Aula",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "30h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "30h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "60h",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "0h",
-      "Total de Carga Hor\u00e1ria de Aula do Componente",
-      "Total do conjunto de cargas",
-      "60h",
-      "Total de Carga Hor\u00e1ria do Componente",
-      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
-      "60h",
-      "",
-      "Outros componentes que t\u00eam esse componente como equivalente",
-      "FMD0087",
-      "FMD0088",
-      "FMD0089",
-      "FMD0090",
-      "FMD0091",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como pr\u00e9",
-      "FEF0143",
-      "FEF0151",
-      "FEF0204",
-      "FEF0529"
+      "pa"
     ],
     "pre_requirements": []
   },
@@ -81,7 +39,9 @@
     "cod": "FEF0015",
     "nome": "ANATOMIA DOS SISTEMAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0549"
+    ],
     "pre_requirements": []
   },
   {
@@ -106,35 +66,45 @@
     "cod": "FEF0430",
     "nome": "APRENDIZAGEM E DESENVOLVIMENTO MOTOR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0839"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0014",
     "nome": "ASPECTOS PSICOL\u00d3GICOS DA APRENDIZAGEM A EDF",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0508"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0045",
     "nome": "ASPECTOS PSICOL\u00d3GICOS DA APRENDIZAGEM APLICADOS A EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0629"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0446",
     "nome": "ASPECTOS PSICOL\u00d3GICOS DA APRENDIZAGEM APLICADOS \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0855"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0431",
     "nome": "ATIVIDADE F\u00cdSICA PARA GRUPOS ESPECIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0840"
+    ],
     "pre_requirements": []
   },
   {
@@ -151,8 +121,7 @@
     "nome": "ATLETISMO 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0120",
-      "FEF0688"
+      "FEF0120"
     ],
     "pre_requirements": [
       "FEF0297",
@@ -175,8 +144,7 @@
     "nome": "ATLETISMO BASICO 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0369",
-      "FEF0787"
+      "FEF0369"
     ],
     "pre_requirements": [
       "FEF0297"
@@ -206,7 +174,9 @@
     "cod": "FEF0432",
     "nome": "BASES CIENT\u00cdFICAS DO TREINAMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0841"
+    ],
     "pre_requirements": []
   },
   {
@@ -214,8 +184,7 @@
     "nome": "BASQUETEBOL 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0208",
-      "FEF0721"
+      "FEF0208"
     ],
     "pre_requirements": [
       "FEF0321",
@@ -248,7 +217,9 @@
     "cod": "FEF0361",
     "nome": "BASQUETEBOL TREINAMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0784"
+    ],
     "pre_requirements": []
   },
   {
@@ -256,8 +227,7 @@
     "nome": "BIOMECANICA 1",
     "ch": 60,
     "post_requirements": [
-      "FCE0457",
-      "FEF0520"
+      "FCE0457"
     ],
     "pre_requirements": [
       "FEF0151"
@@ -267,7 +237,9 @@
     "cod": "FEF0433",
     "nome": "BIOMEC\u00c2NICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0842"
+    ],
     "pre_requirements": []
   },
   {
@@ -283,28 +255,36 @@
     "cod": "FEF0443",
     "nome": "CI\u00caNCIA E PESQUISA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0852"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0408",
     "nome": "CI\u00caNCIA E PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0528"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0036",
     "nome": "CI\u00caNCIA E PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0621"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0028",
     "nome": "CINESIOLOGIA APLICADA A EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0550"
+    ],
     "pre_requirements": []
   },
   {
@@ -312,8 +292,7 @@
     "nome": "CINESIOLOGIA APLICADA \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
     "post_requirements": [
-      "FEF0275",
-      "FEF0511"
+      "FEF0275"
     ],
     "pre_requirements": [
       "FMD0091",
@@ -333,21 +312,27 @@
     "cod": "FEF0272",
     "nome": "CONTROLE MOTOR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0749"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0016",
     "nome": "CORPO E EDUCA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0531"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0375",
     "nome": "CORPOREIDADE, EXPRESSAO E EDUCACAO FISICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0581"
+    ],
     "pre_requirements": []
   },
   {
@@ -363,21 +348,27 @@
     "cod": "FEF0072",
     "nome": "CRESCIMENTO E DESENVOLVIMENTO MOTOR HUMANO",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0656"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0008",
     "nome": "CRESCIMENTO MATURA\u00c7\u00c3O E DESEMPENHO MOTOR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0594"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0378",
     "nome": "CURRICULOS E PROGRAMAS EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0796"
+    ],
     "pre_requirements": []
   },
   {
@@ -395,7 +386,9 @@
     "cod": "FEF0063",
     "nome": "DAN\u00c7AS E BRINCADEIRAS CANTADAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0647"
+    ],
     "pre_requirements": []
   },
   {
@@ -412,8 +405,7 @@
     "nome": "DIDATICA DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
     "post_requirements": [
-      "FEF0256",
-      "FEF0517"
+      "FEF0256"
     ],
     "pre_requirements": [
       "FEF0411"
@@ -434,7 +426,9 @@
     "cod": "FEF0067",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA ADAPTADA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0651"
+    ],
     "pre_requirements": []
   },
   {
@@ -459,42 +453,54 @@
     "cod": "FEF0058",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E CINEMA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0642"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0332",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E EDUCA\u00c7\u00c3O EST\u00c9TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0535"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0418",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E INCLUS\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0829"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0060",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E LITERATURA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0644"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0046",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E PR\u00c1TICAS CORPORAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0630"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0410",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E PR\u00c1TICAS CORPORAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0530"
+    ],
     "pre_requirements": []
   },
   {
@@ -510,28 +516,36 @@
     "cod": "FEF0059",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA E VIV\u00caNCIAS CORPORAIS ALTERNATIVAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0643"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0003",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA: LEIS, NORMAS E POL\u00cdTICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0541"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0047",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA: LEIS, NORMAS E POL\u00cdTICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0631"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0061",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA, M\u00daSICA E ARTE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0645"
+    ],
     "pre_requirements": []
   },
   {
@@ -571,35 +585,45 @@
     "cod": "FEF0077",
     "nome": "EDUCA\u00c7\u00c3O F\u00cdSICA PARA PORTADORES DE NECESSIDADES ESPECIAIS",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0661"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0064",
     "nome": "EDUCA\u00c7\u00c3O TUTORIAL: A UNIVERSIDADE EM QUEST\u00c3O",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0648"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0066",
     "nome": "EDUCA\u00c7\u00c3O TUTORIAL: MUNDO DO TRABALHO EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0650"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0065",
     "nome": "EDUCA\u00c7\u00c3O TUTORIAL: O CURR\u00cdCULO DE FORMA\u00c7\u00c3O EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0556"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0504",
     "nome": "EDUCA\u00c7\u00c3O TUTORIAL: O CURR\u00cdCULO DE FORMA\u00c7\u00c3O EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0864"
+    ],
     "pre_requirements": []
   },
   {
@@ -607,9 +631,7 @@
     "nome": "ELABORA\u00c7\u00c3O DO PROJETO DE TRABALHO DE CONCLUS\u00c3O DO CURSO - LICENCIATURA",
     "ch": 30,
     "post_requirements": [
-      "FEF0056",
-      "FEF0553",
-      "FEF0456"
+      "FEF0056"
     ],
     "pre_requirements": [
       "FEF0300"
@@ -628,7 +650,9 @@
     "cod": "FEF0434",
     "nome": "EPIDEMIOLOGIA APLICADA \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0843"
+    ],
     "pre_requirements": []
   },
   {
@@ -658,7 +682,9 @@
     "cod": "FEF0421",
     "nome": "EST\u00c1GIO SUPERVISIONADO AVAN\u00c7ADO EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0831"
+    ],
     "pre_requirements": []
   },
   {
@@ -666,8 +692,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO BACHARELADO EM EDF 1",
     "ch": 120,
     "post_requirements": [
-      "FEF0315",
-      "FEF0565"
+      "FEF0315"
     ],
     "pre_requirements": []
   },
@@ -698,8 +723,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO LICENCIATURA EM EDUCA\u00c7\u00c3O F\u00cdSICA 1",
     "ch": 120,
     "post_requirements": [
-      "FEF0356",
-      "FEF0578"
+      "FEF0356"
     ],
     "pre_requirements": [
       "FEF0297 & FEF0321 & FEF0295 & FEF0133 & FEF0167 & FEF0229",
@@ -732,42 +756,54 @@
     "cod": "FEF0420",
     "nome": "EST\u00c1GIO SUPERVISIONADO NA EDUCA\u00c7\u00c3O F\u00cdSICA NO ENSINO FUNDAMENTAL",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0830"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0075",
     "nome": "EST\u00c1GIO SUPERVISIONADO NA EDUCA\u00c7\u00c3O INFANTIL",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0659"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0096",
     "nome": "EST\u00c1GIO SUPERVISIONADO NO ENSINO M\u00c9DIO",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0560"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0071",
     "nome": "EST\u00c1GIO SUPERVISIONADO PRIMEIRO CICLO DO ENSINO FUNDAMENTAL",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0655"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0088",
     "nome": "EST\u00c1GIO SUPERVISIONADO - SEGUNDO CICLO DO ENSINO FUNDAMENTAL",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0670"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0037",
     "nome": "ESTAT\u00cdSTICA APLICADA A EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0622"
+    ],
     "pre_requirements": []
   },
   {
@@ -783,7 +819,9 @@
     "cod": "FEF0424",
     "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0833"
+    ],
     "pre_requirements": []
   },
   {
@@ -799,35 +837,45 @@
     "cod": "FEF0050",
     "nome": "EST SUP EDUCA\u00c7\u00c3O F\u00cdSICA NO ENSINO M\u00c9DIO E NA EDUC JOVENS E ADULTOS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0020"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0423",
     "nome": "EST SUP NA EDUCA\u00c7\u00c3O F\u00cdSICA NO EM E NA EDUCA\u00c7\u00c3O DE JOVENS E ADULTOS",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0832"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0011",
     "nome": "ESTUDOS E PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA ESCOLAR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0546"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0040",
     "nome": "ESTUDOS E PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA ESCOLAR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0624"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0038",
     "nome": "EXECU\u00c7\u00c3O DO PROJETO DE TRABALHO DE CONCLUS\u00c3O DO CURSO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0623"
+    ],
     "pre_requirements": []
   },
   {
@@ -835,10 +883,7 @@
     "nome": "EXECU\u00c7\u00c3O DO PROJETO DE TRABALHO DE CONCLUS\u00c3O DO CURSO LICENCIATURA",
     "ch": 30,
     "post_requirements": [
-      "FEF0057",
-      "FEF0419",
-      "FEF0554",
-      "FEF0447"
+      "FEF0057"
     ],
     "pre_requirements": [
       "FEF0055"
@@ -860,11 +905,7 @@
     "nome": "FISIOLOGIA DO EXERCICIO 1",
     "ch": 60,
     "post_requirements": [
-      "CFS0050",
-      "FEF0070",
-      "FEF0145",
-      "FCE0384",
-      "FEF0509"
+      "CFS0050"
     ],
     "pre_requirements": [
       "FMD0091",
@@ -875,7 +916,9 @@
     "cod": "FEF0024",
     "nome": "FISIOLOGIA DO EXERC\u00cdCIO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0609"
+    ],
     "pre_requirements": []
   },
   {
@@ -883,10 +926,7 @@
     "nome": "FISIOLOGIA DO EXERCICIO 2",
     "ch": 60,
     "post_requirements": [
-      "FEF0263",
-      "FEF0376",
-      "ENF0094",
-      "FEF0510"
+      "FEF0263"
     ],
     "pre_requirements": [
       "FEF0143"
@@ -896,7 +936,9 @@
     "cod": "FEF0026",
     "nome": "FISIOLOGIA DO EXERC\u00cdCIO 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0611"
+    ],
     "pre_requirements": []
   },
   {
@@ -914,7 +956,9 @@
     "cod": "FEF0435",
     "nome": "FISIOLOGIA DO EXERC\u00cdCIO 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0844"
+    ],
     "pre_requirements": []
   },
   {
@@ -930,14 +974,18 @@
     "cod": "FEF0391",
     "nome": "FUNDAMENTOS ANATOMIA HUMANA CINESIOLOGIA APLICADOS A EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0806"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0392",
     "nome": "FUNDAMENTOS BIOL\u00d3GICOS APLICADOS \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0807"
+    ],
     "pre_requirements": []
   },
   {
@@ -962,7 +1010,9 @@
     "cod": "FEF0397",
     "nome": "FUNDAMENTOS DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0811"
+    ],
     "pre_requirements": []
   },
   {
@@ -987,56 +1037,72 @@
     "cod": "FEF0043",
     "nome": "FUNDAMENTOS DO DESENV E APRENDIZ APLICADOS A EDUC F\u00cdS INFANTIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0627"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0044",
     "nome": "FUNDAMENTOS DO DESENV E APRENDIZ APLICADOS A EDUC F\u00cdS NO ENS FUND",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0628"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0010",
     "nome": "FUNDAMENTOS DO DESENVOLVIMENTO  APRENDIZAGEM APLICADOS  A EDF EM E EJA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0545"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0007",
     "nome": "FUNDAMENTOS DO DESENVOLVIMENTO E APRENDIZAGEM APLICADOS A EDF ENS FUND",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0507"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0006",
     "nome": "FUNDAMENTOS DO DESENVOLVIMENTO E APRENDIZAGEM APLICADOS A EDF INFANTIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0543"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0425",
     "nome": "FUNDAMENTOS DO DESENVOLVIMENTO E APRENDIZAGEM APLICADOS \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0834"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0426",
     "nome": "FUNDAMENTOS DO DESENVOLVIMENTO E APRENDIZAGEM APLICADOS \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0538"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0402",
     "nome": "FUNDAMENTOS FISIOL\u00d3GICOS DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0815"
+    ],
     "pre_requirements": []
   },
   {
@@ -1052,14 +1118,18 @@
     "cod": "FEF0018",
     "nome": "FUNDAMENTOS HIST\u00d3RICOS-FILOS\u00d3FICO DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0604"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0019",
     "nome": "FUNDAMENTOS S\u00d3CIO-ANTROPOL\u00d3GICO DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0605"
+    ],
     "pre_requirements": []
   },
   {
@@ -1075,7 +1145,9 @@
     "cod": "FEF0403",
     "nome": "FUNDAMENTOS SOCIOFILOSOFICOS DA EDUCA\u00c7\u00c3O E DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0816"
+    ],
     "pre_requirements": []
   },
   {
@@ -1091,21 +1163,27 @@
     "cod": "FEF0411",
     "nome": "FUNDAMENTOS TE\u00d3RICOS - METODOL\u00d3GICOS DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0004"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0035",
     "nome": "FUNDAMENTOS TE\u00d3RICOS-METODOL\u00d3GICOS DA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0048"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0051",
     "nome": "FUND DO DESENV E APREND APL A EDU F\u00cdS  ENSINO M\u00c9DIO E NA EJA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0635"
+    ],
     "pre_requirements": []
   },
   {
@@ -1113,8 +1191,7 @@
     "nome": "FUTEBOL 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0190",
-      "FEF0713"
+      "FEF0190"
     ],
     "pre_requirements": [
       "FEF0013"
@@ -1135,7 +1212,9 @@
     "cod": "FEF0436",
     "nome": "GEST\u00c3O DE EVENTOS EM ESPORTE, SA\u00daDE E LAZER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0845"
+    ],
     "pre_requirements": []
   },
   {
@@ -1151,7 +1230,9 @@
     "cod": "FEF0416",
     "nome": "GEST\u00c3O ESTRAT\u00c9GICA DE INSTALA\u00c7\u00d5ES ESPORTIVAS E DE LAZER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0537"
+    ],
     "pre_requirements": []
   },
   {
@@ -1160,11 +1241,7 @@
     "ch": 90,
     "post_requirements": [
       "FEF0115",
-      "FEF0118",
-      "FEF0206",
-      "FEF0216",
-      "FEF0222",
-      "FEF0684"
+      "FEF0118"
     ],
     "pre_requirements": []
   },
@@ -1239,8 +1316,7 @@
     "nome": "HANDEBOL 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0214",
-      "FEF0724"
+      "FEF0214"
     ],
     "pre_requirements": [
       "FEF0013"
@@ -1270,7 +1346,9 @@
     "cod": "FEF0390",
     "nome": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O E EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0805"
+    ],
     "pre_requirements": []
   },
   {
@@ -1304,14 +1382,18 @@
     "cod": "FEF0377",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 EQUOTERAPIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0795"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0437",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 PSICOLOGIA DO ESPORTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0846"
+    ],
     "pre_requirements": []
   },
   {
@@ -1327,28 +1409,36 @@
     "cod": "FEF0398",
     "nome": "JOGO E EUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0812"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0009",
     "nome": "JOGO, L\u00daDICO E EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0544"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0062",
     "nome": "JOGOS E BRINCADEIRAS POPULARES",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0646"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0194",
     "nome": "JUDO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0716"
+    ],
     "pre_requirements": []
   },
   {
@@ -1382,14 +1472,18 @@
     "cod": "FEF0445",
     "nome": "MARKETING NA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0854"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0101",
     "nome": "MARKETING NA EDUCA\u00c7\u00c3O F\u00cdSICA - ESPORTE, SA\u00daDE E LAZER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0681"
+    ],
     "pre_requirements": []
   },
   {
@@ -1419,7 +1513,9 @@
     "cod": "FEF0382",
     "nome": "MEDIDAS E AVALIA\u00c7\u00c3O NA EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0799"
+    ],
     "pre_requirements": []
   },
   {
@@ -1435,14 +1531,18 @@
     "cod": "FEF0359",
     "nome": "METODOLOGIA DA CAPOEIRA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0782"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0030",
     "nome": "METODOLOGIA DA DAN\u00c7A E EXPRESS\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0615"
+    ],
     "pre_requirements": []
   },
   {
@@ -1461,8 +1561,7 @@
     "ch": 60,
     "post_requirements": [
       "FEF0235",
-      "FEF0371",
-      "FEF0693"
+      "FEF0371"
     ],
     "pre_requirements": [
       "FEF0306",
@@ -1473,7 +1572,9 @@
     "cod": "FEF0102",
     "nome": "METODOLOGIA DA GIN\u00c1STICA LABORAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0682"
+    ],
     "pre_requirements": []
   },
   {
@@ -1516,14 +1617,18 @@
     "cod": "FEF0428",
     "nome": "METODOLOGIA DAS ATIVIDADES F\u00cdSICAS ALTERNATIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0837"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0029",
     "nome": "METODOLOGIA DAS ATIVIDADES G\u00cdMNICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0614"
+    ],
     "pre_requirements": []
   },
   {
@@ -1531,9 +1636,7 @@
     "nome": "METODOLOGIA DAS ATIVIDADES G\u00cdMNICAS",
     "ch": 60,
     "post_requirements": [
-      "FEF0133",
-      "FEF0186",
-      "FEF0523"
+      "FEF0133"
     ],
     "pre_requirements": []
   },
@@ -1541,35 +1644,45 @@
     "cod": "FEF0042",
     "nome": "METODOLOGIA DAS LUTAS E ARTES MARCIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0626"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0002",
     "nome": "METODOLOGIA DAS LUTAS E ARTES MARCIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0540"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0041",
     "nome": "METODOLOGIA DAS MODALIDADES ESPORTIVAS COLETIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0625"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0013",
     "nome": "METODOLOGIA DAS MODALIDADES ESPORTIVAS COLETIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0100"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0444",
     "nome": "METODOLOGIA DAS MODALIDADES ESPORTIVAS COLETIVAS 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0853"
+    ],
     "pre_requirements": []
   },
   {
@@ -1587,7 +1700,9 @@
     "cod": "FEF0357",
     "nome": "METODOLOGIA DE SALTOS ORNAMENTAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0780"
+    ],
     "pre_requirements": []
   },
   {
@@ -1595,9 +1710,7 @@
     "nome": "METODOLOGIA DO ATLETISMO",
     "ch": 60,
     "post_requirements": [
-      "FEF0118",
-      "FEF0368",
-      "FEF0572"
+      "FEF0118"
     ],
     "pre_requirements": []
   },
@@ -1605,7 +1718,9 @@
     "cod": "FEF0031",
     "nome": "METODOLOGIA DO ATLETISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0616"
+    ],
     "pre_requirements": []
   },
   {
@@ -1613,8 +1728,7 @@
     "nome": "METODOLOGIA DO BASQUETEBOL",
     "ch": 60,
     "post_requirements": [
-      "FEF0206",
-      "FEF0766"
+      "FEF0206"
     ],
     "pre_requirements": []
   },
@@ -1643,7 +1757,9 @@
     "cod": "FEF0381",
     "nome": "METODOLOGIA DO JIU JITSU",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0798"
+    ],
     "pre_requirements": []
   },
   {
@@ -1651,8 +1767,7 @@
     "nome": "METODOLOGIA DO POLO AQUATICO",
     "ch": 60,
     "post_requirements": [
-      "FEF0222",
-      "FEF0736"
+      "FEF0222"
     ],
     "pre_requirements": [
       "FEF0165"
@@ -1689,28 +1804,36 @@
     "cod": "FEF0033",
     "nome": "METODOLOGIA DOS JOGOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0618"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0370",
     "nome": "METODOLOGIA DO TENIS DE CAMPO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0789"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0358",
     "nome": "METODOLOGIA DO TENIS DE MESA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0781"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0097",
     "nome": "METODOLOGIA DO ULTIMATE FRISBEE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0677"
+    ],
     "pre_requirements": []
   },
   {
@@ -1726,7 +1849,9 @@
     "cod": "FEF0023",
     "nome": "M\u00c9TODOS E T\u00c9CNICAS DE PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0533"
+    ],
     "pre_requirements": []
   },
   {
@@ -1734,10 +1859,7 @@
     "nome": "M\u00c9TODOS E T\u00c9CNICAS DE PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
     "post_requirements": [
-      "FEF0053",
-      "FEF0055",
-      "FEF0573",
-      "FEF0455"
+      "FEF0053"
     ],
     "pre_requirements": []
   },
@@ -1756,7 +1878,9 @@
     "cod": "FEF0032",
     "nome": "NATA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0617"
+    ],
     "pre_requirements": []
   },
   {
@@ -1764,9 +1888,7 @@
     "nome": "NATA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "FEF0126",
-      "FEF0239",
-      "FEF0513"
+      "FEF0126"
     ],
     "pre_requirements": []
   },
@@ -1775,8 +1897,7 @@
     "nome": "NATACAO 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0128",
-      "FEF0691"
+      "FEF0128"
     ],
     "pre_requirements": [
       "FEF0165"
@@ -1817,56 +1938,72 @@
     "cod": "FEF0081",
     "nome": "ORGANIZA\u00c7\u00c3O DE EVENTOS DE EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0664"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0086",
     "nome": "PEDAGOGIA DA DAN\u00c7A ESCOLAR",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0668"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0074",
     "nome": "PEDAGOGIA DA EDUCA\u00c7\u00c3O F\u00cdSICA NA EDUCA\u00c7\u00c3O INFANTIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0658"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0082",
     "nome": "PEDAGOGIA DA EDUCA\u00c7\u00c3O F\u00cdSICA NO ENSINO FUNDAMENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0665"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0095",
     "nome": "PEDAGOGIA DA EDUCA\u00c7\u00c3O F\u00cdSICA NO ENSINO M\u00c9DIO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0675"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0393",
     "nome": "PEDAGOGIA DA GIN\u00c1STICA ESCOLAR",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0808"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0083",
     "nome": "PEDAGOGIA DAS LUTAS / ARTES MACIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0666"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0076",
     "nome": "PEDAGOGIA DOS ESPORTES COLETIVOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0660"
+    ],
     "pre_requirements": []
   },
   {
@@ -1882,21 +2019,27 @@
     "cod": "FEF0386",
     "nome": "PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0802"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0073",
     "nome": "POL\u00cdTICAS E FUNDAMENTOS DA EDUCA\u00c7\u00c3O B\u00c1SICA",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0657"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0091",
     "nome": "POL\u00cdTICAS P\u00daBLICAS, EDUCA\u00c7\u00c3O E EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0672"
+    ],
     "pre_requirements": []
   },
   {
@@ -1912,7 +2055,9 @@
     "cod": "FEF0017",
     "nome": "POL\u00cdTICAS P\u00daBLICAS EM EDUCA\u00c7\u00c3O F\u00cdSICA, ESPORTE, SA\u00daDE E LAZER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0603"
+    ],
     "pre_requirements": []
   },
   {
@@ -1976,35 +2121,45 @@
     "cod": "FEF0068",
     "nome": "PR\u00c1TICAS CORPORAIS ALTERNATIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0652"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0399",
     "nome": "PR\u00c1TICAS CURRICULARES 1",
     "ch": 150,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0813"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0404",
     "nome": "PR\u00c1TICAS CURRICULARES 2",
     "ch": 150,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0817"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0387",
     "nome": "PR\u00c1TICAS CURRICULARES 3",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0803"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0027",
     "nome": "PREVEN\u00c7\u00c3O DE ACIDENTES E PRIMEIROS SOCORROS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0612"
+    ],
     "pre_requirements": []
   },
   {
@@ -2020,7 +2175,9 @@
     "cod": "FEF0034",
     "nome": "PRINCIPIO DO TREINAMENTO RESISTIDO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0619"
+    ],
     "pre_requirements": []
   },
   {
@@ -2039,8 +2196,7 @@
     "nome": "PRINC\u00cdPIOS DO TREINAMENTO RESISTIDO",
     "ch": 60,
     "post_requirements": [
-      "FEF0162",
-      "FEF0516"
+      "FEF0162"
     ],
     "pre_requirements": []
   },
@@ -2048,28 +2204,36 @@
     "cod": "FEF0413",
     "nome": "PRINC\u00cdPIOS NUTRICIONAIS APLICADOS \u00c0 ATIVIDADE F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0825"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0405",
     "nome": "PROCESSAMENTO DIGITAL DE SINAIS BIOL\u00d3GICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0818"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0080",
     "nome": "PROGRAMAS DE APTID\u00c3O F\u00cdSICA APLICADOS \u00c0 EDUCA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0663"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0427",
     "nome": "PROGRAMAS PREVENTIVOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0836"
+    ],
     "pre_requirements": []
   },
   {
@@ -2085,14 +2249,18 @@
     "cod": "FEF0438",
     "nome": "PROJETO DE EXTENS\u00c3O 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0847"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0439",
     "nome": "PROJETO DE EXTENS\u00c3O 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0848"
+    ],
     "pre_requirements": []
   },
   {
@@ -2154,9 +2322,7 @@
     "nome": "PROJETO DE TRABALHO DE CONCLUS\u00c3O DE CURSO - BACHARELADO",
     "ch": 60,
     "post_requirements": [
-      "FEF0054",
-      "FEF0551",
-      "FEF0448"
+      "FEF0054"
     ],
     "pre_requirements": [
       "FEF0300"
@@ -2166,7 +2332,9 @@
     "cod": "FEF0069",
     "nome": "PROMO\u00c7\u00c3O DA ATIVIDADE F\u00cdSICA PARA A SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0557"
+    ],
     "pre_requirements": []
   },
   {
@@ -2194,7 +2362,9 @@
     "cod": "FEF0440",
     "nome": "RECREA\u00c7\u00c3O E LAZER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0849"
+    ],
     "pre_requirements": []
   },
   {
@@ -2230,7 +2400,9 @@
     "cod": "FEF0441",
     "nome": "SA\u00daDE COLETIVA E EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0850"
+    ],
     "pre_requirements": []
   },
   {
@@ -2259,14 +2431,18 @@
     "cod": "FEF0412",
     "nome": "SEMIN\u00c1RIO DE PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0584"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0052",
     "nome": "SEMIN\u00c1RIO DE PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0636"
+    ],
     "pre_requirements": []
   },
   {
@@ -2293,7 +2469,9 @@
     "cod": "FEF0417",
     "nome": "TENIS DE MESA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0828"
+    ],
     "pre_requirements": []
   },
   {
@@ -2301,9 +2479,7 @@
     "nome": "TEORIA DO DESPORTO",
     "ch": 60,
     "post_requirements": [
-      "FEF0133",
-      "FEF0186",
-      "FEF0761"
+      "FEF0133"
     ],
     "pre_requirements": []
   },
@@ -2320,7 +2496,9 @@
     "cod": "FEF0442",
     "nome": "TEORIAS DO LAZER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0851"
+    ],
     "pre_requirements": []
   },
   {
@@ -2358,14 +2536,18 @@
     "cod": "FEF0087",
     "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO I",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0669"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEF0094",
     "nome": "TRABALHO DE CONCLUS\u00c3O DO CURSO II",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEF0559"
+    ],
     "pre_requirements": []
   },
   {
@@ -2373,8 +2555,7 @@
     "nome": "VOLIBOL 1",
     "ch": 60,
     "post_requirements": [
-      "FEF0201",
-      "FEF0718"
+      "FEF0201"
     ],
     "pre_requirements": [
       "FEF0013"

@@ -3,21 +3,27 @@
     "cod": "ICS0002",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "ICS0005"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICS0003",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "ICS0006"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICS0001",
     "nome": "ESTUDOS AMERICANOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ICS0004"
+    ],
     "pre_requirements": []
   }
 ]

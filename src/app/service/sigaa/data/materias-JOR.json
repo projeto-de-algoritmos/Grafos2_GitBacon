@@ -4,7 +4,7 @@
     "nome": "AN\u00c1LISE DO JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0270"
+      "J"
     ],
     "pre_requirements": [
       "JOR0070"
@@ -15,7 +15,7 @@
     "nome": "AN\u00c1LISE DO JORNALISMO AUDIOVISUAL",
     "ch": 60,
     "post_requirements": [
-      "JOR0277"
+      "J"
     ],
     "pre_requirements": [
       "DAP0096",
@@ -27,7 +27,7 @@
     "nome": "ANALISE E OPINIAO",
     "ch": 60,
     "post_requirements": [
-      "JOR0218"
+      "J"
     ],
     "pre_requirements": [
       "JOR0070"
@@ -38,27 +38,7 @@
     "nome": "APURA\u00c7\u00c3O E TEXTO JORNALISTICO 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0006",
-      "JOR0007",
-      "JOR0008",
-      "JOR0009",
-      "JOR0013",
-      "JOR0015",
-      "JOR0017",
-      "JOR0018",
-      "JOR0019",
-      "JOR0020",
-      "JOR0021",
-      "JOR0022",
-      "JOR0024",
-      "JOR0098",
-      "JOR0110",
-      "JOR0135",
-      "JOR0136",
-      "JOR0143",
-      "JOR0144",
-      "JOR0145",
-      "JOR0169"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080",
@@ -70,7 +50,7 @@
     "nome": "APURA\u00c7\u00c3O E TEXTO JORNALISTICO 2",
     "ch": 60,
     "post_requirements": [
-      "JOR0196"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005"
@@ -81,22 +61,7 @@
     "nome": "APURA\u00c7\u00c3O JORNAL\u00cdSTICA",
     "ch": 60,
     "post_requirements": [
-      "JOR0006",
-      "JOR0013",
-      "JOR0015",
-      "JOR0017",
-      "JOR0018",
-      "JOR0019",
-      "JOR0020",
-      "JOR0021",
-      "JOR0024",
-      "JOR0098",
-      "JOR0110",
-      "JOR0135",
-      "JOR0143",
-      "JOR0144",
-      "JOR0145",
-      "JOR0308"
+      "J"
     ],
     "pre_requirements": [
       "JOR0141",
@@ -108,7 +73,7 @@
     "nome": "ASSESSORIA DE COMUNICA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "JOR0247"
+      "J"
     ],
     "pre_requirements": [
       "JOR0070",
@@ -120,8 +85,7 @@
     "nome": "ASSESSORIA DE COMUNICA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0025",
-      "JOR0154"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -133,7 +97,7 @@
     "nome": "ASSESSORIA DE COMUNICA\u00c7\u00c3O 2",
     "ch": 120,
     "post_requirements": [
-      "JOR0155"
+      "J"
     ],
     "pre_requirements": [
       "JOR0024"
@@ -144,10 +108,7 @@
     "nome": "CAMPUS 1",
     "ch": 120,
     "post_requirements": [
-      "JOR0103",
-      "JOR0131",
-      "JOR0139",
-      "JOR0259"
+      "J"
     ],
     "pre_requirements": [
       "JOR0070 & JOR0039"
@@ -158,8 +119,7 @@
     "nome": "CAMPUS 2",
     "ch": 240,
     "post_requirements": [
-      "JOR0104",
-      "JOR0249"
+      "J"
     ],
     "pre_requirements": [
       "JOR0049 & JOR0082"
@@ -170,7 +130,7 @@
     "nome": "CAMPUS MULTIM\u00cdDIA",
     "ch": 180,
     "post_requirements": [
-      "JOR0149"
+      "J"
     ],
     "pre_requirements": [
       "JOR0009 & JOR0006 & JOR0015 & JOR0007",
@@ -182,7 +142,7 @@
     "nome": "CAMPUS ON LINE",
     "ch": 60,
     "post_requirements": [
-      "JOR0255"
+      "J"
     ],
     "pre_requirements": [
       "JOR0031 & JOR0049"
@@ -193,8 +153,7 @@
     "nome": "COMUNICA\u00c7\u00c3O COMUNIT\u00c1RIA",
     "ch": 60,
     "post_requirements": [
-      "JOR0128",
-      "JOR0164"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045",
@@ -218,7 +177,7 @@
     "nome": "COMUNICA\u00c7\u00c3O COMUNIT\u00c1RIA 2",
     "ch": 60,
     "post_requirements": [
-      "JOR0295"
+      "J"
     ],
     "pre_requirements": [
       "JOR0083"
@@ -229,8 +188,7 @@
     "nome": "COMUNICA\u00c7\u00c3O E POL\u00cdTICA",
     "ch": 60,
     "post_requirements": [
-      "JOR0127",
-      "JOR0269"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045",
@@ -242,7 +200,7 @@
     "nome": "COMUNICA\u00c7\u00c3O E POL\u00cdTICA 2",
     "ch": 60,
     "post_requirements": [
-      "JOR0294"
+      "J"
     ],
     "pre_requirements": [
       "JOR0095"
@@ -253,7 +211,7 @@
     "nome": "COMUNICA\u00c7\u00c3O E PROCESSOS DE INTERPRETA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0251"
+      "J"
     ],
     "pre_requirements": [
       "JOR0058",
@@ -265,7 +223,7 @@
     "nome": "COMUNICA\u00c7\u00c3O E UNIVERSIDADE",
     "ch": 30,
     "post_requirements": [
-      "JOR0163"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -273,7 +231,9 @@
     "cod": "JOR0001",
     "nome": "COMUNICA\u00c7\u00c3O, INFORMA\u00c7\u00c3O E COMPUTA\u00c7\u00c3O : FUNDAMENTOS E APLICA\u00c7\u00c3O",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -281,7 +241,7 @@
     "nome": "COMUNICA\u00c7\u00c3O INSTITUCIONAL",
     "ch": 60,
     "post_requirements": [
-      "JOR0267"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045"
@@ -292,7 +252,7 @@
     "nome": "CR\u00cdTICA DA M\u00cdDIA EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0297"
+      "J"
     ],
     "pre_requirements": [
       "JOR0082"
@@ -303,7 +263,7 @@
     "nome": "DIREITO DO P\u00daBLICO",
     "ch": 60,
     "post_requirements": [
-      "JOR0268"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045"
@@ -314,7 +274,7 @@
     "nome": "EDI\u00c7\u00c3O DE IMAGEM EM REVISTAS",
     "ch": 60,
     "post_requirements": [
-      "JOR0299"
+      "J"
     ],
     "pre_requirements": [
       "JOR0049",
@@ -328,7 +288,7 @@
     "nome": "EDI\u00c7\u00c3O DE TEXTO EM REVISTAS",
     "ch": 60,
     "post_requirements": [
-      "JOR0293"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080"
@@ -339,7 +299,7 @@
     "nome": "EDICAO JORNALISTICA",
     "ch": 150,
     "post_requirements": [
-      "JOR0229"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -347,7 +307,9 @@
     "cod": "JOR0076",
     "nome": "ELABORACAO DE PROJETOS EM COMUNICACAO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -355,7 +317,7 @@
     "nome": "EMPREENDEDORISMO E GEST\u00c3O EM COMUNICA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "JOR0173"
+      "J"
     ],
     "pre_requirements": [
       "JOR0078"
@@ -366,7 +328,7 @@
     "nome": "EST\u00c1GIO OBRIGAT\u00d3RIO",
     "ch": 210,
     "post_requirements": [
-      "JOR0176"
+      "J"
     ],
     "pre_requirements": [
       "JOR0009 & JOR0006 & JOR0015 & JOR0007"
@@ -377,7 +339,7 @@
     "nome": "ESTAGIO SUPERVISIONADO EM JORNALISMO",
     "ch": 225,
     "post_requirements": [
-      "JOR0236"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -386,7 +348,7 @@
     "nome": "EST\u00c9TICA DA COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0160"
+      "J"
     ],
     "pre_requirements": [
       "JOR0078"
@@ -397,7 +359,7 @@
     "nome": "\u00c9TICA E JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0148"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080",
@@ -409,7 +371,7 @@
     "nome": "ETICA E LEGISLACAO EM COMUNICACAO",
     "ch": 60,
     "post_requirements": [
-      "JOR0237"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -418,8 +380,7 @@
     "nome": "\u00c9TICA NA COMUNICA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "DAP0170",
-      "JOR0159"
+      "DAP0170"
     ],
     "pre_requirements": []
   },
@@ -428,7 +389,7 @@
     "nome": "FOTOGRAFIA 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0226"
+      "J"
     ],
     "pre_requirements": [
       "DAP0079 & JOR0039"
@@ -439,8 +400,7 @@
     "nome": "FOTOJORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0075",
-      "JOR0157"
+      "J"
     ],
     "pre_requirements": [
       "DAP0079",
@@ -453,7 +413,7 @@
     "nome": "HIST\u00d3RIA DA COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0296"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045"
@@ -464,7 +424,7 @@
     "nome": "HISTORIA DA IMPRENSA",
     "ch": 60,
     "post_requirements": [
-      "JOR0232"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -472,7 +432,9 @@
     "cod": "JOR0002",
     "nome": "HIST\u00d3RIA DO JORNALISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -480,7 +442,7 @@
     "nome": "IMPRENSA E SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "JOR0223"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -488,14 +450,18 @@
     "cod": "JOR0060",
     "nome": "IMPRENSA SINDICAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "JOR0078",
     "nome": "INTRODU\u00c7\u00c3O A COMUNICA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -503,17 +469,7 @@
     "nome": "INTRODU\u00c7\u00c3O AO JORNALISMO",
     "ch": 30,
     "post_requirements": [
-      "JOR0003",
-      "JOR0004",
-      "JOR0005",
-      "JOR0007",
-      "JOR0009",
-      "JOR0023",
-      "JOR0049",
-      "JOR0070",
-      "JOR0085",
-      "JOR0126",
-      "JOR0179"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -522,7 +478,7 @@
     "nome": "JORNAL CAMPUS",
     "ch": 120,
     "post_requirements": [
-      "JOR0156"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -534,7 +490,7 @@
     "nome": "JORNALISMO AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "JOR0310"
+      "J"
     ],
     "pre_requirements": [
       "JOR0142",
@@ -546,7 +502,7 @@
     "nome": "JORNALISMO CIENT\u00cdFICO",
     "ch": 60,
     "post_requirements": [
-      "JOR0309"
+      "J"
     ],
     "pre_requirements": [
       "JOR0142",
@@ -558,7 +514,7 @@
     "nome": "JORNALISMO CORPORATIVO",
     "ch": 30,
     "post_requirements": [
-      "JOR0273"
+      "J"
     ],
     "pre_requirements": [
       "JOR0070"
@@ -569,7 +525,7 @@
     "nome": "JORNALISMO CULTURAL",
     "ch": 60,
     "post_requirements": [
-      "JOR0150"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -581,8 +537,7 @@
     "nome": "JORNALISMO DE REVISTA",
     "ch": 60,
     "post_requirements": [
-      "JOR0034",
-      "JOR0221"
+      "J"
     ],
     "pre_requirements": [
       "JOR0046"
@@ -593,7 +548,7 @@
     "nome": "JORNALISMO ECON\u00d4MICO",
     "ch": 60,
     "post_requirements": [
-      "JOR0271"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -605,7 +560,7 @@
     "nome": "JORNALISMO EM R\u00c1DIO",
     "ch": 120,
     "post_requirements": [
-      "JOR0305"
+      "J"
     ],
     "pre_requirements": [
       "JOR0137 & JOR0070",
@@ -618,8 +573,7 @@
     "nome": "JORNALISMO EM R\u00c1DIO 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0014",
-      "JOR0170"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -631,7 +585,7 @@
     "nome": "JORNALISMO EM R\u00c1DIO 2",
     "ch": 120,
     "post_requirements": [
-      "JOR0174"
+      "J"
     ],
     "pre_requirements": [
       "JOR0006"
@@ -642,7 +596,7 @@
     "nome": "JORNALISMO EM TELEVIS\u00c3O",
     "ch": 120,
     "post_requirements": [
-      "JOR0304"
+      "J"
     ],
     "pre_requirements": [
       "JOR0137 & JOR0070",
@@ -655,8 +609,7 @@
     "nome": "JORNALISMO EM TV 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0016",
-      "JOR0151"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -668,7 +621,7 @@
     "nome": "JORNALISMO EM TV 2",
     "ch": 120,
     "post_requirements": [
-      "JOR0152"
+      "J"
     ],
     "pre_requirements": [
       "JOR0015"
@@ -679,7 +632,7 @@
     "nome": "JORNALISMO EM VE\u00cdCULOS P\u00daBLICOS",
     "ch": 60,
     "post_requirements": [
-      "JOR0311"
+      "J"
     ],
     "pre_requirements": [
       "JOR0142",
@@ -691,7 +644,7 @@
     "nome": "JORNALISMO E PODER",
     "ch": 60,
     "post_requirements": [
-      "JOR0272"
+      "J"
     ],
     "pre_requirements": [
       "JOR0070"
@@ -702,7 +655,7 @@
     "nome": "JORNALISMO ESPECIALIZADO",
     "ch": 60,
     "post_requirements": [
-      "JOR0219"
+      "J"
     ],
     "pre_requirements": [
       "JOR0037"
@@ -713,7 +666,7 @@
     "nome": "JORNALISMO ESPORTIVO",
     "ch": 60,
     "post_requirements": [
-      "JOR0204"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -725,7 +678,7 @@
     "nome": "JORNALISMO INTERNACIONAL",
     "ch": 60,
     "post_requirements": [
-      "JOR0166"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -737,7 +690,7 @@
     "nome": "JORNALISMO INVESTIGATIVO",
     "ch": 60,
     "post_requirements": [
-      "JOR0153"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -749,7 +702,7 @@
     "nome": "JORNALISMO LITER\u00c1RIO",
     "ch": 60,
     "post_requirements": [
-      "JOR0187"
+      "J"
     ],
     "pre_requirements": [
       "TEL0014",
@@ -762,7 +715,7 @@
     "nome": "JORNALISMO LOCAL",
     "ch": 60,
     "post_requirements": [
-      "JOR0207"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -774,7 +727,7 @@
     "nome": "JORNALISMO OPINATIVO",
     "ch": 60,
     "post_requirements": [
-      "JOR0208"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -786,7 +739,7 @@
     "nome": "JORNALISMO POL\u00cdTICO",
     "ch": 60,
     "post_requirements": [
-      "JOR0280"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -798,7 +751,7 @@
     "nome": "LABORAT\u00d3RIO CAMPUS REPORTER 1",
     "ch": 90,
     "post_requirements": [
-      "JOR0188"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005"
@@ -809,7 +762,7 @@
     "nome": "LEGISLA\u00c7\u00c3O E DIREITO A COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0181"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045"
@@ -820,7 +773,7 @@
     "nome": "M\u00c9TODOS E T\u00c9CNICAS EM PESQUISA EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0178"
+      "J"
     ],
     "pre_requirements": [
       "JOR0078"
@@ -831,7 +784,7 @@
     "nome": "NOTICIA E MERCADOLOGIA",
     "ch": 30,
     "post_requirements": [
-      "JOR0230"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -840,7 +793,7 @@
     "nome": "OFICINA AVAN\u00c7ADA DE NARRATIVAS",
     "ch": 60,
     "post_requirements": [
-      "JOR0242"
+      "J"
     ],
     "pre_requirements": [
       "JOR0058",
@@ -852,7 +805,7 @@
     "nome": "OFICINA DE DIAGRAMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0186"
+      "J"
     ],
     "pre_requirements": [
       "JOR0003"
@@ -863,8 +816,7 @@
     "nome": "OFICINA DE JORNALISMO 1",
     "ch": 30,
     "post_requirements": [
-      "JOR0103",
-      "JOR0261"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080",
@@ -876,7 +828,7 @@
     "nome": "OFICINA DE JORNALISMO 2",
     "ch": 60,
     "post_requirements": [
-      "JOR0275"
+      "J"
     ],
     "pre_requirements": [
       "JOR0082",
@@ -888,7 +840,7 @@
     "nome": "OFICINA DE JORNALISMO 3",
     "ch": 60,
     "post_requirements": [
-      "JOR0276"
+      "J"
     ],
     "pre_requirements": [
       "JOR0071"
@@ -898,14 +850,18 @@
     "cod": "JOR0121",
     "nome": "OFICINA DE JORNALISMO 4",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "JOR0122",
     "nome": "OFICINA DE JORNALISMO 5",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -913,7 +869,7 @@
     "nome": "OFICINA DE JORNALISMO 6",
     "ch": 30,
     "post_requirements": [
-      "JOR0291"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -921,35 +877,45 @@
     "cod": "JOR0125",
     "nome": "OFICINA DE JORNALISMO 7",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "JOR0117",
     "nome": "OFICINA DE JORNALISMO DIGITAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "JOR0118",
     "nome": "OFICINA DE JORNALISMO DIGITAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "JOR0119",
     "nome": "OFICINA DE JORNALISMO DIGITAL 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "JOR0120",
     "nome": "OFICINA DE JORNALISMO DIGITAL 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -957,7 +923,7 @@
     "nome": "OFICINA DE TELEJORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0300"
+      "J"
     ],
     "pre_requirements": [
       "JOR0030 & JOR0082"
@@ -968,15 +934,7 @@
     "nome": "OFICINA DE TEXTO 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0003",
-      "JOR0005",
-      "JOR0039",
-      "JOR0061",
-      "JOR0072",
-      "JOR0073",
-      "JOR0085",
-      "JOR0142",
-      "JOR0158"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -985,9 +943,7 @@
     "nome": "OFICINA DE TEXTO 2",
     "ch": 60,
     "post_requirements": [
-      "DAP0058",
-      "DAP0059",
-      "JOR0250"
+      "DAP0058"
     ],
     "pre_requirements": [
       "JOR0058",
@@ -999,7 +955,7 @@
     "nome": "OFICINA DE TEXTO-JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0225"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1008,7 +964,7 @@
     "nome": "OPINIAO PUBLICA",
     "ch": 60,
     "post_requirements": [
-      "JOR0233"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1017,9 +973,7 @@
     "nome": "PLANEJAMENTO GRAFICO",
     "ch": 60,
     "post_requirements": [
-      "JOR0102",
-      "JOR0133",
-      "JOR0231"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080",
@@ -1031,7 +985,7 @@
     "nome": "PLANEJAMENTO GR\u00c1FICO 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0274"
+      "J"
     ],
     "pre_requirements": [
       "JOR0049"
@@ -1042,7 +996,7 @@
     "nome": "POLITICAS DE COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0161"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045",
@@ -1054,7 +1008,7 @@
     "nome": "PR\u00c9-PROJETO EXPERIMENTAL EM JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0180"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045 & JOR0082",
@@ -1066,9 +1020,7 @@
     "nome": "PROCESSOS GR\u00c1FICOS EM JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0010",
-      "JOR0132",
-      "JOR0168"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080",
@@ -1081,7 +1033,7 @@
     "nome": "PROJETO FINAL EM JORNALISMO",
     "ch": 90,
     "post_requirements": [
-      "JOR0282"
+      "J"
     ],
     "pre_requirements": [
       "JOR0088 & JOR0071",
@@ -1096,7 +1048,7 @@
     "nome": "PROJETOS EXPERIMENTAIS - JORNALISMO",
     "ch": 270,
     "post_requirements": [
-      "JOR0220"
+      "J"
     ],
     "pre_requirements": [
       "JOR0034 & JOR0041 & JOR0047 & JOR0048"
@@ -1107,11 +1059,7 @@
     "nome": "RADIOJORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "DAP0036",
-      "DAP0072",
-      "JOR0087",
-      "JOR0138",
-      "JOR0235"
+      "DAP0036"
     ],
     "pre_requirements": [
       "JOR0070"
@@ -1122,7 +1070,7 @@
     "nome": "RADIOJORNALISMO 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0263"
+      "J"
     ],
     "pre_requirements": [
       "JOR0054"
@@ -1133,7 +1081,7 @@
     "nome": "REALIDADE BRASILEIRA",
     "ch": 60,
     "post_requirements": [
-      "JOR0238"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1142,7 +1090,7 @@
     "nome": "REALIDADE REGIONAL EM COMUNICACAO",
     "ch": 60,
     "post_requirements": [
-      "JOR0240"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1151,9 +1099,7 @@
     "nome": "REDACAO DE JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0037",
-      "JOR0067",
-      "JOR0228"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1162,7 +1108,7 @@
     "nome": "REDACAO PARA PUBLICIDADE IMPRESSA",
     "ch": 60,
     "post_requirements": [
-      "JOR0234"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1171,7 +1117,7 @@
     "nome": "REPORTAGEM E ENTREVISTA",
     "ch": 120,
     "post_requirements": [
-      "JOR0217"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045"
@@ -1182,7 +1128,7 @@
     "nome": "REPORTAGEM FOTOGRAFICA",
     "ch": 60,
     "post_requirements": [
-      "JOR0253"
+      "J"
     ],
     "pre_requirements": [
       "JOR0039"
@@ -1192,7 +1138,9 @@
     "cod": "JOR0111",
     "nome": "SOCIOLOGIA DO JORNALISMO: ENSAIO DE COMPARA\u00c7\u00c3O INTERNACIONAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -1200,7 +1148,7 @@
     "nome": "TECNICAS DE COMUNICACAO DIRIGIDA 1",
     "ch": 90,
     "post_requirements": [
-      "JOR0224"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045"
@@ -1211,13 +1159,7 @@
     "nome": "T\u00c9CNICAS DE JORNALISMO",
     "ch": 90,
     "post_requirements": [
-      "JOR0033",
-      "JOR0054",
-      "JOR0067",
-      "JOR0097",
-      "JOR0100",
-      "JOR0101",
-      "JOR0248"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080",
@@ -1229,7 +1171,7 @@
     "nome": "T\u00c9CNICAS DE R\u00c1DIO E TV",
     "ch": 30,
     "post_requirements": [
-      "JOR0303"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045 & JOR0080",
@@ -1241,7 +1183,7 @@
     "nome": "TECNOLOGIA DE COMUNICA\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "JOR0165"
+      "J"
     ],
     "pre_requirements": [
       "JOR0045",
@@ -1253,10 +1195,7 @@
     "nome": "TELEJORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0086",
-      "JOR0138",
-      "JOR0139",
-      "JOR0216"
+      "J"
     ],
     "pre_requirements": [
       "JOR0137 & JOR0070"
@@ -1267,7 +1206,7 @@
     "nome": "TELEJORNALISMO 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0262"
+      "J"
     ],
     "pre_requirements": [
       "JOR0030"
@@ -1278,7 +1217,7 @@
     "nome": "TEORIA E PESQUISA DE OPINI\u00c3O P\u00daBLICA",
     "ch": 60,
     "post_requirements": [
-      "JOR0209"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005"
@@ -1289,19 +1228,7 @@
     "nome": "TEORIAS DA COMUNICA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0031",
-      "JOR0042",
-      "DAP0084",
-      "JOR0065",
-      "JOR0083",
-      "JOR0089",
-      "JOR0092",
-      "JOR0093",
-      "JOR0094",
-      "JOR0095",
-      "JOR0130",
-      "COM0136",
-      "JOR0177"
+      "J"
     ],
     "pre_requirements": [
       "JOR0078"
@@ -1312,7 +1239,7 @@
     "nome": "TEORIAS DO JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0175"
+      "J"
     ],
     "pre_requirements": [
       "JOR0080"
@@ -1323,11 +1250,7 @@
     "nome": "TEXTO JORNAL\u00cdSTICO",
     "ch": 60,
     "post_requirements": [
-      "JOR0061",
-      "JOR0072",
-      "JOR0073",
-      "JOR0142",
-      "JOR0167"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1336,7 +1259,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0182"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1345,7 +1268,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 2",
     "ch": 60,
     "post_requirements": [
-      "JOR0183"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1354,7 +1277,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 5",
     "ch": 30,
     "post_requirements": [
-      "JOR0184"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1363,7 +1286,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O 6",
     "ch": 30,
     "post_requirements": [
-      "JOR0185"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -1372,7 +1295,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM EST\u00c9TICA E CULTURA DE MASSA",
     "ch": 60,
     "post_requirements": [
-      "JOR0252"
+      "J"
     ],
     "pre_requirements": [
       "FAC0016"
@@ -1383,7 +1306,7 @@
     "nome": "WEBDESING EM JORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0171"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",
@@ -1395,8 +1318,7 @@
     "nome": "WEBDESING EM JORNALISMO 2",
     "ch": 60,
     "post_requirements": [
-      "JOR0028",
-      "JOR0215"
+      "J"
     ],
     "pre_requirements": [
       "JOR0028"
@@ -1407,7 +1329,7 @@
     "nome": "WEBJORNALISMO",
     "ch": 60,
     "post_requirements": [
-      "JOR0172"
+      "J"
     ],
     "pre_requirements": [
       "JOR0005",

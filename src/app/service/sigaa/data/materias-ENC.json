@@ -72,8 +72,7 @@
     "nome": "ASPECTOS ECON\u00d4MICOS DA ENGENHARIA AMBIENTAL",
     "ch": 30,
     "post_requirements": [
-      "FDD0282",
-      "ENC0685"
+      "FDD0282"
     ],
     "pre_requirements": [
       "SOL0042"
@@ -84,8 +83,7 @@
     "nome": "ASPECTOS GEOT\u00c9CNICOS DE FUNDA\u00c7\u00d5ES",
     "ch": 60,
     "post_requirements": [
-      "ENC0124",
-      "ENC0723"
+      "ENC0124"
     ],
     "pre_requirements": [
       "ENC0197",
@@ -97,11 +95,7 @@
     "nome": "ASPECTOS QU\u00cdMICOS DE QUALIDADE DA \u00c1GUA",
     "ch": 30,
     "post_requirements": [
-      "ENC0742",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0273"
+      "ENC0742"
     ],
     "pre_requirements": [
       "IQD0125"
@@ -112,11 +106,7 @@
     "nome": "ASPECTOS QU\u00cdMICOS DE QUALIDADE DE \u00c1GUA-EXPERIMENTAL",
     "ch": 30,
     "post_requirements": [
-      "ENC0678",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0272"
+      "ENC0678"
     ],
     "pre_requirements": [
       "IQD0125"
@@ -148,7 +138,9 @@
     "cod": "ENC0225",
     "nome": "AVALIACAO ECONOMICA DE PROJETOS EM ENGENHARIA CIVIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0669"
+    ],
     "pre_requirements": []
   },
   {
@@ -156,8 +148,7 @@
     "nome": "AVALIA\u00c7\u00c3O E CONTROLE DE POLUI\u00c7\u00c3O DA \u00c1GUA",
     "ch": 60,
     "post_requirements": [
-      "ENC0012",
-      "ENC0651"
+      "ENC0012"
     ],
     "pre_requirements": [
       "ENC0166 & ENC0001"
@@ -181,8 +172,7 @@
     "nome": "AVALIA\u00c7\u00c3O E CONTROLE DE POLUI\u00c7\u00c3O DO SOLO",
     "ch": 60,
     "post_requirements": [
-      "ENC0021",
-      "ENC0652"
+      "ENC0021"
     ],
     "pre_requirements": [
       "ENC0183 & ENM0080",
@@ -206,7 +196,9 @@
     "cod": "ENC0045",
     "nome": "BIM APLICADO \u00c0 ENGENHARIA I - ARQUITETURA E ESTRUTURAS DE EDIFICA\u00c7\u00d5ES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0700"
+    ],
     "pre_requirements": []
   },
   {
@@ -236,8 +228,7 @@
     "nome": "CARTOGRAFIA E GEOPROCESSAMENTO APLICADO",
     "ch": 60,
     "post_requirements": [
-      "ENC0264",
-      "ENC0677"
+      "ENC0264"
     ],
     "pre_requirements": [
       "IGD0173 & ENC0053",
@@ -272,8 +263,7 @@
     "nome": "CI\u00caNCIA DOS MATERIAIS",
     "ch": 60,
     "post_requirements": [
-      "ENC0271",
-      "ENC0738"
+      "ENC0271"
     ],
     "pre_requirements": [
       "IQD0125"
@@ -317,7 +307,9 @@
     "cod": "ENC0224",
     "nome": "CONTROLE DA POLUICAO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0878"
+    ],
     "pre_requirements": []
   },
   {
@@ -325,11 +317,7 @@
     "nome": "DESENHO TECNICO",
     "ch": 60,
     "post_requirements": [
-      "FAV0021",
-      "VIS0130",
-      "ENC0128",
-      "ENC0232",
-      "ENC0657"
+      "FAV0021"
     ],
     "pre_requirements": []
   },
@@ -337,7 +325,9 @@
     "cod": "ENC0208",
     "nome": "DESENVOLVIMENTO URBANO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0868"
+    ],
     "pre_requirements": []
   },
   {
@@ -400,8 +390,7 @@
     "nome": "ESTAGIO ORIENTADO 1",
     "ch": 30,
     "post_requirements": [
-      "ENC0223",
-      "ENC0876"
+      "ENC0223"
     ],
     "pre_requirements": []
   },
@@ -430,8 +419,7 @@
     "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 ENGENHARIA AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "EPR0068",
-      "ENC0679"
+      "EPR0068"
     ],
     "pre_requirements": [
       "MAT0027"
@@ -453,10 +441,7 @@
     "nome": "ESTRUTURA DE CONCRETO ARMADO 1",
     "ch": 60,
     "post_requirements": [
-      "ENC0147",
-      "ENC0150",
-      "ENC0151",
-      "ENC0662"
+      "ENC0147"
     ],
     "pre_requirements": [
       "ENC0134 & ENC0135 & ENC0143",
@@ -479,8 +464,7 @@
     "nome": "ESTRUTURAS DE CONCRETO ARMADO 2",
     "ch": 60,
     "post_requirements": [
-      "ENC0153",
-      "ENC0663"
+      "ENC0153"
     ],
     "pre_requirements": [
       "ENC0146"
@@ -513,10 +497,7 @@
     "nome": "ESTRUTURAS METALICAS E DE MADEIRA",
     "ch": 60,
     "post_requirements": [
-      "EFL0006",
-      "ENC0149",
-      "ENC0155",
-      "ENC0711"
+      "EFL0006"
     ],
     "pre_requirements": [
       "ENC0134 & ENC0135 & ENC0143",
@@ -551,7 +532,9 @@
     "cod": "ENC0054",
     "nome": "GEOMETRIA DESCRITIVA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0790"
+    ],
     "pre_requirements": []
   },
   {
@@ -581,11 +564,7 @@
     "nome": "GEOTECNIA 1",
     "ch": 60,
     "post_requirements": [
-      "ENC0673",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0240"
+      "ENC0673"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0025 & IGD0173",
@@ -597,14 +576,7 @@
     "nome": "GEOTECNIA 2",
     "ch": 60,
     "post_requirements": [
-      "ENC0017",
-      "ENC0050",
-      "ENC0121",
-      "ENC0183",
-      "ENC0237",
-      "ENC0239",
-      "ENC0278",
-      "ENC0670"
+      "ENC0017"
     ],
     "pre_requirements": [
       "ENC0241 & ENC0240 & MAT0027"
@@ -615,12 +587,7 @@
     "nome": "GEOTECNIA 3",
     "ch": 60,
     "post_requirements": [
-      "ENC0191",
-      "ENC0211",
-      "ENC0214",
-      "ENC0239",
-      "ENC0259",
-      "ENC0706"
+      "ENC0191"
     ],
     "pre_requirements": [
       "ENC0235",
@@ -643,8 +610,7 @@
     "nome": "GEOTECNIA AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "ENC0033",
-      "ENC0717"
+      "ENC0033"
     ],
     "pre_requirements": [
       "ENC0197",
@@ -655,7 +621,9 @@
     "cod": "ENC0122",
     "nome": "GERENCIA DE PROJETOS EM ENGENHARIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0799"
+    ],
     "pre_requirements": []
   },
   {
@@ -703,11 +671,7 @@
     "nome": "HIDRAULICA EXPERIMENTAL",
     "ch": 30,
     "post_requirements": [
-      "ENC0675",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0251"
+      "ENC0675"
     ],
     "pre_requirements": [
       "IGD0043 & ENM0080",
@@ -723,14 +687,7 @@
     "nome": "HIDRAULICA GERAL",
     "ch": 90,
     "post_requirements": [
-      "FAV0218",
-      "ENC0156",
-      "ENC0168",
-      "ENC0176",
-      "ENC0178",
-      "ENC0182",
-      "ENC0185",
-      "ENC0838"
+      "FAV0218"
     ],
     "pre_requirements": [
       "IGD0043 & ENM0080"
@@ -741,12 +698,7 @@
     "nome": "HIDRAULICA - TEORIA",
     "ch": 60,
     "post_requirements": [
-      "ENC0674",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0252",
-      "ENC0291"
+      "ENC0674"
     ],
     "pre_requirements": [
       "IGD0043 & ENM0080",
@@ -762,10 +714,7 @@
     "nome": "HIDROLOGIA APLICADA",
     "ch": 60,
     "post_requirements": [
-      "ENC0032",
-      "GEA0095",
-      "ENC0664",
-      "ENC0282"
+      "ENC0032"
     ],
     "pre_requirements": [
       "ENM0080 & EST0023 & IGD0043",
@@ -806,28 +755,36 @@
     "cod": "ENC0263",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA AMBIENTAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CDS0004"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0246",
     "nome": "INTRODUCAO A ENGENHARIA CIVIL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0261"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0034",
     "nome": "INTRODU\u00c7\u00c3O \u00c1 ENGENHARIA TERRITORIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0653"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0265",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA URBANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0280"
+    ],
     "pre_requirements": []
   },
   {
@@ -835,8 +792,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 MEC\u00c2NICA DOS S\u00d3LIDOS",
     "ch": 60,
     "post_requirements": [
-      "ENC0040",
-      "ENC0696"
+      "ENC0040"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0026 & MAT0031",
@@ -858,7 +814,9 @@
     "cod": "ENC0256",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 REALIDADE VIRTUAL E A T\u00c9CNICAS INTERATIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0733"
+    ],
     "pre_requirements": []
   },
   {
@@ -891,11 +849,7 @@
     "nome": "LABORAT\u00d3RIO DE GEOTECNIA 1",
     "ch": 30,
     "post_requirements": [
-      "ENC0672",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0241"
+      "ENC0672"
     ],
     "pre_requirements": [
       "IGD0173",
@@ -929,14 +883,18 @@
     "cod": "ENC0157",
     "nome": "LEGISLACAO PROFISSIONAL DE ENGENHARIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0830"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0049",
     "nome": "MANUTEN\u00c7\u00c3O DE RODOVIAS COM GER\u00caNCIA DE PAVIMENTOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0703"
+    ],
     "pre_requirements": []
   },
   {
@@ -944,8 +902,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO",
     "ch": 90,
     "post_requirements": [
-      "TEC0013",
-      "ENC0791"
+      "TEC0013"
     ],
     "pre_requirements": [
       "TEC0019",
@@ -957,8 +914,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO CIVIL 1",
     "ch": 90,
     "post_requirements": [
-      "ENC0055",
-      "ENC0816"
+      "ENC0055"
     ],
     "pre_requirements": [
       "IQD0051 & IGD0021"
@@ -969,12 +925,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO CIVIL 1 - EXPERIMENTAL",
     "ch": 30,
     "post_requirements": [
-      "EFL0085",
-      "ENC0676",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0254"
+      "EFL0085"
     ],
     "pre_requirements": [
       "IQD0051 & IGD0021",
@@ -988,11 +939,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO CIVIL 1 - TEORIA",
     "ch": 60,
     "post_requirements": [
-      "ENC0732",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0255"
+      "ENC0732"
     ],
     "pre_requirements": [
       "IQD0051 & IGD0021",
@@ -1018,11 +965,7 @@
     "nome": "MATERIAIS DE CONSTRU\u00c7\u00c3O - EXPERIMENTAL",
     "ch": 30,
     "post_requirements": [
-      "ENC0727",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0229"
+      "ENC0727"
     ],
     "pre_requirements": [
       "TEC0018",
@@ -1034,12 +977,7 @@
     "nome": "MATERIAIS DE CONSTRU\u00c7\u00c3O - TEORIA",
     "ch": 60,
     "post_requirements": [
-      "EFL0085",
-      "ENC0726",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0230"
+      "EFL0085"
     ],
     "pre_requirements": [
       "TEC0018",
@@ -1051,9 +989,7 @@
     "nome": "MATERIAIS PARA CONSTRU\u00c7\u00c3O 1",
     "ch": 30,
     "post_requirements": [
-      "ENC0276",
-      "ENC0277",
-      "ENC0741"
+      "ENC0276"
     ],
     "pre_requirements": [
       "TEC0026",
@@ -1098,8 +1034,7 @@
     "nome": "MECANICA DOS SISTEMAS RIGIDOS",
     "ch": 90,
     "post_requirements": [
-      "ENM0038",
-      "ENC0797"
+      "ENM0038"
     ],
     "pre_requirements": [
       "MAT0025"
@@ -1110,8 +1045,7 @@
     "nome": "MECANICA DOS SOLIDOS 1",
     "ch": 60,
     "post_requirements": [
-      "ENC0137",
-      "ENC0659"
+      "ENC0137"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0026 & MAT0031",
@@ -1123,9 +1057,7 @@
     "nome": "MECANICA DOS SOLIDOS 2",
     "ch": 60,
     "post_requirements": [
-      "ENC0040",
-      "ENC0191",
-      "ENC0660"
+      "ENC0040"
     ],
     "pre_requirements": [
       "ENC0132 & MAT0027"
@@ -1137,9 +1069,7 @@
     "ch": 60,
     "post_requirements": [
       "ENC0138",
-      "ENC0219",
-      "ENM0111",
-      "ENC0707"
+      "ENC0219"
     ],
     "pre_requirements": [
       "ENC0133 & MAT0048"
@@ -1150,10 +1080,7 @@
     "nome": "MECANICA DOS SOLOS 1",
     "ch": 90,
     "post_requirements": [
-      "ENC0188",
-      "ENC0192",
-      "ENC0197",
-      "ENC0860"
+      "ENC0188"
     ],
     "pre_requirements": [
       "IGD0021 & MAT0027"
@@ -1176,8 +1103,7 @@
     "nome": "MECANICA DOS SOLOS 1 - TEORIA",
     "ch": 60,
     "post_requirements": [
-      "ENC0121",
-      "ENC0901"
+      "ENC0121"
     ],
     "pre_requirements": [
       "IGD0021 & MAT0027",
@@ -1189,13 +1115,7 @@
     "nome": "MECANICA DOS SOLOS 2",
     "ch": 60,
     "post_requirements": [
-      "ENC0129",
-      "ENC0183",
-      "ENC0211",
-      "ENC0214",
-      "ENC0239",
-      "ENM0097",
-      "ENC0861"
+      "ENC0129"
     ],
     "pre_requirements": [
       "ENC0195",
@@ -1208,8 +1128,7 @@
     "nome": "M\u00c9TODOS COMPUTACIONAIS EM ENGENHARIA AMBIENTAL",
     "ch": 90,
     "post_requirements": [
-      "ENC0013",
-      "ENC0680"
+      "ENC0013"
     ],
     "pre_requirements": [
       "MAT0027"
@@ -1245,11 +1164,7 @@
     "nome": "MICROBIOLOGIA AMBIENTAL",
     "ch": 30,
     "post_requirements": [
-      "ENC0739",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0270"
+      "ENC0739"
     ],
     "pre_requirements": [
       "CEL0088"
@@ -1260,11 +1175,7 @@
     "nome": "MICROBIOLOGIA AMBIENTAL E EXPERIMENTAL",
     "ch": 30,
     "post_requirements": [
-      "ENC0740",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENC0269"
+      "ENC0740"
     ],
     "pre_requirements": [
       "CEL0088"
@@ -1274,7 +1185,9 @@
     "cod": "ENC0043",
     "nome": "MODELAGEM DA INFORMA\u00c7\u00c3O DA CONSTRU\u00c7\u00c3O APLICADA \u00c0 ENGENHARIA - BIM II",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0779"
+    ],
     "pre_requirements": []
   },
   {
@@ -1304,7 +1217,9 @@
     "cod": "ENC0649",
     "nome": "MONITORIA DE PESQUISA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0931"
+    ],
     "pre_requirements": []
   },
   {
@@ -1385,9 +1300,7 @@
     "nome": "PLANEJAMENTO DE TRANSPORTES",
     "ch": 60,
     "post_requirements": [
-      "ENC0207",
-      "ENC0227",
-      "ENC0668"
+      "ENC0207"
     ],
     "pre_requirements": [
       "CIC0007 & EST0023"
@@ -1397,7 +1310,9 @@
     "cod": "ENC0159",
     "nome": "PLANEJAMENTO DE USO DO SOLO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0832"
+    ],
     "pre_requirements": []
   },
   {
@@ -1405,9 +1320,7 @@
     "nome": "PLANEJAMENTO E CONTROLE DE CONSTRUCOES",
     "ch": 60,
     "post_requirements": [
-      "ENC0142",
-      "ENC0262",
-      "ENC0710"
+      "ENC0142"
     ],
     "pre_requirements": [
       "ENC0140"
@@ -1462,8 +1375,7 @@
     "nome": "PROJETO ARQUITET\u00d4NICO DE EDIFICA\u00c7\u00d5ES",
     "ch": 60,
     "post_requirements": [
-      "ENC0232",
-      "ENC0658"
+      "ENC0232"
     ],
     "pre_requirements": [
       "ENC0053"
@@ -1496,10 +1408,7 @@
     "nome": "PROJETO DE ESTRADAS",
     "ch": 60,
     "post_requirements": [
-      "ENC0123",
-      "ENC0200",
-      "ENC0226",
-      "ENC0667"
+      "ENC0123"
     ],
     "pre_requirements": [
       "IGD0043 & ENC0195 & ENC0203",
@@ -1547,8 +1456,7 @@
     "nome": "PROJETO DE INSTALA\u00c7\u00c3O PREDIAL 1",
     "ch": 60,
     "post_requirements": [
-      "ENC0039",
-      "ENC0655"
+      "ENC0039"
     ],
     "pre_requirements": [
       "ENC0140 & ENC0251 & ENC0252 & ENE0001 & ENE0002"
@@ -1581,8 +1489,7 @@
     "nome": "PROJETO FINAL EM ENGENHARIA AMBIENTAL 1",
     "ch": 15,
     "post_requirements": [
-      "ENC0030",
-      "ENC0692"
+      "ENC0030"
     ],
     "pre_requirements": []
   },
@@ -1601,7 +1508,9 @@
     "cod": "ENC0242",
     "nome": "PROJETO FINAL EM ENGENHARIA CIVIL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0243"
+    ],
     "pre_requirements": []
   },
   {
@@ -1663,7 +1572,9 @@
     "cod": "ENC0125",
     "nome": "REPRESENTACAO GRAFICA PARA ENGENHARIA CIVIL 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0802"
+    ],
     "pre_requirements": []
   },
   {
@@ -1671,8 +1582,7 @@
     "nome": "RES\u00cdDUOS S\u00d3LIDOS URBANOS",
     "ch": 60,
     "post_requirements": [
-      "ENC0656",
-      "ENC0281"
+      "ENC0656"
     ],
     "pre_requirements": [
       "ENC0168 & ENC0121",
@@ -1778,7 +1688,9 @@
     "cod": "ENC0044",
     "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O GEOGR\u00c1FICA APLICADA AOS TRANSPORTES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0699"
+    ],
     "pre_requirements": []
   },
   {
@@ -1809,8 +1721,7 @@
     "nome": "SISTEMAS HIDRAULICOS DE SANEAMENTO",
     "ch": 60,
     "post_requirements": [
-      "ENC0051",
-      "ENC0665"
+      "ENC0051"
     ],
     "pre_requirements": [
       "ENC0166 & ENC0167",
@@ -1867,9 +1778,7 @@
     "nome": "TECNOLOGIA DAS CONSTRUCOES 1",
     "ch": 60,
     "post_requirements": [
-      "ENC0141",
-      "ENC0145",
-      "ENC0709"
+      "ENC0141"
     ],
     "pre_requirements": [
       "IGD0043 & ENC0254 & ENC0255 & ENC0053",
@@ -1905,8 +1814,7 @@
     "nome": "TECNOLOGIA DE TRANSPORTE",
     "ch": 60,
     "post_requirements": [
-      "ENC0264",
-      "ENC0881"
+      "ENC0264"
     ],
     "pre_requirements": [
       "ENC0203"
@@ -1928,12 +1836,7 @@
     "nome": "TEORIA DAS ESTRUTURAS 1",
     "ch": 60,
     "post_requirements": [
-      "ENC0066",
-      "ENC0136",
-      "ENC0139",
-      "ENC0193",
-      "ENC0231",
-      "ENC0661"
+      "ENC0066"
     ],
     "pre_requirements": [
       "MAT0053 & ENC0134"
@@ -1998,14 +1901,18 @@
     "cod": "ENC0046",
     "nome": "T\u00d3PICOS ESPECIAIS EM ENGENHARIA AMBIENTAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0701"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0062",
     "nome": "TOPICOS ESPECIAIS EM ENGENHARIA CIVIL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0704"
+    ],
     "pre_requirements": []
   },
   {
@@ -2105,21 +2012,27 @@
     "cod": "ENC0217",
     "nome": "TOPICOS ESPECIAIS EM TRANSPORTE 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0873"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0216",
     "nome": "TOPICOS ESPECIAIS EM TRANSPORTES 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0872"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENC0218",
     "nome": "TOPICOS ESPECIAIS EM TRANSPOTES 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0725"
+    ],
     "pre_requirements": []
   },
   {
@@ -2127,8 +2040,7 @@
     "nome": "TRANSFER\u00caNCIA DE ENERGIA E MASSA",
     "ch": 75,
     "post_requirements": [
-      "ENC0014",
-      "ENC0654"
+      "ENC0014"
     ],
     "pre_requirements": [
       "MAT0027 & ENC0132",

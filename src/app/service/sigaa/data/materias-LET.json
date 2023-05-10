@@ -4,8 +4,7 @@
     "nome": "ANALISE COMPARATIVA INGLES/PORTUGUES 1",
     "ch": 60,
     "post_requirements": [
-      "LET0040",
-      "LET0871"
+      "LET0040"
     ],
     "pre_requirements": [
       "LET0311 & LET0308"
@@ -71,7 +70,9 @@
     "cod": "LET0060",
     "nome": "CIVILIZACAO DE PAISES FRANCOFONOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0770"
+    ],
     "pre_requirements": []
   },
   {
@@ -135,11 +136,7 @@
     "nome": "CONCEITOS TEORICOS DE TRADUCAO 1",
     "ch": 30,
     "post_requirements": [
-      "LET0153",
-      "LET0168",
-      "LET0169",
-      "LET0170",
-      "LET0839"
+      "LET0153"
     ],
     "pre_requirements": []
   },
@@ -191,21 +188,27 @@
     "cod": "LET0067",
     "nome": "CULTURA ALEMA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0774"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0068",
     "nome": "CULTURA ALEMA 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0775"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0069",
     "nome": "CULTURA DOS PAISES DE LINGUA ALEMA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0776"
+    ],
     "pre_requirements": []
   },
   {
@@ -272,7 +275,9 @@
     "cod": "LET0243",
     "nome": "CULTURA JAPONESA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0332"
+    ],
     "pre_requirements": []
   },
   {
@@ -368,8 +373,7 @@
     "nome": "EST\u00c1GIO EM L\u00cdN FRANCESA 2- DESENV, EXPERIM E AVAL DE MAT DID\u00c1TICO",
     "ch": 90,
     "post_requirements": [
-      "LET0027",
-      "LET0749"
+      "LET0027"
     ],
     "pre_requirements": [
       "LET0028"
@@ -380,9 +384,7 @@
     "nome": "EST\u00c1GIO EM L\u00cdNGUA FRANCESA 1 - PR\u00c1TICAS TE\u00d3RICO-METODOL\u00d3GICAS",
     "ch": 90,
     "post_requirements": [
-      "TEL0002",
-      "LET0029",
-      "LET0748"
+      "TEL0002"
     ],
     "pre_requirements": [
       "LET0323 & MTC0012"
@@ -393,8 +395,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 1 - L\u00cdNGUA ESPANHOLA E LITERATURA",
     "ch": 90,
     "post_requirements": [
-      "LET0025",
-      "LET0922"
+      "LET0025"
     ],
     "pre_requirements": [
       "LET0355"
@@ -417,8 +418,7 @@
     "nome": "ESTAGIO SUPERVISIONADO DE FRANCES 1",
     "ch": 60,
     "post_requirements": [
-      "LET0096",
-      "LET0647"
+      "LET0096"
     ],
     "pre_requirements": [
       "PED0058 & MTC0012 & LET0323",
@@ -450,8 +450,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO DE JAPON\u00caS 1",
     "ch": 210,
     "post_requirements": [
-      "LET0375",
-      "LET0608"
+      "LET0375"
     ],
     "pre_requirements": [
       "LET0368"
@@ -521,8 +520,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM ESPANHOL 1",
     "ch": 210,
     "post_requirements": [
-      "LET0025",
-      "LET0559"
+      "LET0025"
     ],
     "pre_requirements": [
       "LET0355"
@@ -590,7 +588,9 @@
     "cod": "LET0419",
     "nome": "EXPERIENCIA DE ENSINO DE LINGUA INGLESA",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0264"
+    ],
     "pre_requirements": []
   },
   {
@@ -598,9 +598,7 @@
     "nome": "EXPERI\u00caNCIA DE ENSINO EM L\u00cdNGUA ESPANHOLA",
     "ch": 0,
     "post_requirements": [
-      "LET0025",
-      "LET0353",
-      "LET0753"
+      "LET0025"
     ],
     "pre_requirements": [
       "LET0323"
@@ -664,12 +662,7 @@
     "nome": "FONETICA E FONOLOGIA DO INGLES",
     "ch": 60,
     "post_requirements": [
-      "LET0310",
-      "LET0536",
-      "LET0537",
-      "LET0538",
-      "LET0555",
-      "LET0593"
+      "LET0310"
     ],
     "pre_requirements": [
       "LIP0045"
@@ -742,7 +735,9 @@
     "cod": "LET0407",
     "nome": "FUNDAMENTOS DA L\u00cdNGU\u00cdSTICA APLICADA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0700"
+    ],
     "pre_requirements": []
   },
   {
@@ -750,9 +745,7 @@
     "nome": "FUNDAMENTOS DA SOCIEDADE DA INFORMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "LET0034",
-      "LET0434",
-      "LET0611"
+      "LET0034"
     ],
     "pre_requirements": [
       "LET0326 & LET0252",
@@ -774,9 +767,7 @@
     "nome": "GRAMATICA COMPARADA ESPANHOL-PORTUGUES",
     "ch": 60,
     "post_requirements": [
-      "LET0355",
-      "LET0404",
-      "LET0686"
+      "LET0355"
     ],
     "pre_requirements": [
       "LET0356"
@@ -787,9 +778,7 @@
     "nome": "GRAMATICA DA LINGUA ESPANHOLA",
     "ch": 60,
     "post_requirements": [
-      "LET0345",
-      "LET0406",
-      "LET0603"
+      "LET0345"
     ],
     "pre_requirements": [
       "LET0348"
@@ -810,7 +799,9 @@
     "cod": "LET0389",
     "nome": "GREGO MODERNO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0392"
+    ],
     "pre_requirements": []
   },
   {
@@ -829,8 +820,7 @@
     "nome": "GREGO MODERNO 3",
     "ch": 60,
     "post_requirements": [
-      "LET0396",
-      "LET0960"
+      "LET0396"
     ],
     "pre_requirements": [
       "LET0389 & LET0392"
@@ -886,12 +876,7 @@
     "nome": "INGL\u00caS: COMPREENS\u00c3O DA L\u00cdNGUA ORAL 1",
     "ch": 60,
     "post_requirements": [
-      "LET0058",
-      "LET0245",
-      "LET0262",
-      "LET0298",
-      "LET0330",
-      "LET0683"
+      "LET0058"
     ],
     "pre_requirements": []
   },
@@ -911,11 +896,7 @@
     "nome": "INGL\u00caS: COMPREENS\u00c3O DE TEXTOS ESCRITOS 1",
     "ch": 60,
     "post_requirements": [
-      "LET0058",
-      "LET0254",
-      "LET0262",
-      "LET0298",
-      "LET0674"
+      "LET0058"
     ],
     "pre_requirements": []
   },
@@ -980,11 +961,7 @@
     "nome": "INGLES: EXPRESSAO ESCRITA 1",
     "ch": 60,
     "post_requirements": [
-      "LET0174",
-      "LET0194",
-      "LET0260",
-      "LET0425",
-      "LET0587"
+      "LET0174"
     ],
     "pre_requirements": [
       "LET0334",
@@ -997,41 +974,7 @@
     "nome": "INGLES: EXPRESSAO ESCRITA 2",
     "ch": 60,
     "post_requirements": [
-      "TEL0040",
-      "TEL0041",
-      "TEL0042",
-      "TEL0043",
-      "TEL0044",
-      "TEL0045",
-      "TEL0046",
-      "TEL0047",
-      "TEL0071",
-      "TEL0072",
-      "TEL0073",
-      "TEL0078",
-      "TEL0079",
-      "TEL0081",
-      "TEL0082",
-      "TEL0083",
-      "TEL0084",
-      "TEL0085",
-      "TEL0086",
-      "TEL0087",
-      "TEL0088",
-      "LET0256",
-      "LET0442",
-      "TEL0120",
-      "TEL0121",
-      "TEL0122",
-      "TEL0123",
-      "TEL0124",
-      "TEL0125",
-      "TEL0126",
-      "LET0586",
-      "TEL0136",
-      "TEL0177",
-      "TEL0178",
-      "TEL0179"
+      "TEL0040"
     ],
     "pre_requirements": [
       "LET0262",
@@ -1043,11 +986,7 @@
     "nome": "INGLES: EXPRESSAO ESCRITA 3",
     "ch": 60,
     "post_requirements": [
-      "LET0257",
-      "LET0263",
-      "LET0439",
-      "LET0441",
-      "LET0585"
+      "LET0257"
     ],
     "pre_requirements": [
       "LET0260",
@@ -1071,8 +1010,7 @@
     "nome": "INGLES: EXPRESSAO ORAL 1",
     "ch": 60,
     "post_requirements": [
-      "LET0247",
-      "LET0673"
+      "LET0247"
     ],
     "pre_requirements": [
       "LET0334"
@@ -1083,8 +1021,7 @@
     "nome": "INGLES: EXPRESSAO ORAL 2",
     "ch": 60,
     "post_requirements": [
-      "LET0249",
-      "LET0584"
+      "LET0249"
     ],
     "pre_requirements": [
       "LET0245"
@@ -1095,8 +1032,7 @@
     "nome": "INGLES: EXPRESSAO ORAL 3",
     "ch": 60,
     "post_requirements": [
-      "LET0250",
-      "LET0865"
+      "LET0250"
     ],
     "pre_requirements": [
       "LET0247"
@@ -1141,9 +1077,7 @@
     "ch": 90,
     "post_requirements": [
       "MTC0012",
-      "LET0556",
-      "LET0557",
-      "LET0721"
+      "LET0556"
     ],
     "pre_requirements": [
       "LET0041",
@@ -1178,7 +1112,9 @@
     "cod": "LET0312",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 MORFOSSINTAXE DO INGL\u00caS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0041"
+    ],
     "pre_requirements": []
   },
   {
@@ -1194,14 +1130,18 @@
     "cod": "LET0414",
     "nome": "INTRODU\u00c7\u00c3O A TRADU\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0416"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0393",
     "nome": "IRANOLOGIA - CULTURA IRANIANA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0958"
+    ],
     "pre_requirements": []
   },
   {
@@ -1209,11 +1149,7 @@
     "nome": "JAPONES 1",
     "ch": 60,
     "post_requirements": [
-      "LET0568",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0072"
+      "LET0568"
     ],
     "pre_requirements": []
   },
@@ -1222,11 +1158,7 @@
     "nome": "JAPONES 2",
     "ch": 60,
     "post_requirements": [
-      "LET0569",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0075"
+      "LET0569"
     ],
     "pre_requirements": [
       "LET0073 & LET0072"
@@ -1237,11 +1169,7 @@
     "nome": "JAPONES 3",
     "ch": 60,
     "post_requirements": [
-      "LET0604",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0361"
+      "LET0604"
     ],
     "pre_requirements": [
       "LET0074 & LET0075"
@@ -1252,11 +1180,7 @@
     "nome": "JAPONES 4",
     "ch": 60,
     "post_requirements": [
-      "LET0605",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0365"
+      "LET0605"
     ],
     "pre_requirements": [
       "LET0360 & LET0361"
@@ -1267,11 +1191,7 @@
     "nome": "JAPONES 5",
     "ch": 60,
     "post_requirements": [
-      "LET0366",
-      "LET0368",
-      "LET0382",
-      "LET0385",
-      "LET0606"
+      "LET0366"
     ],
     "pre_requirements": [
       "LET0363 & LET0365"
@@ -1282,10 +1202,7 @@
     "nome": "JAPONES 6",
     "ch": 60,
     "post_requirements": [
-      "LET0367",
-      "LET0383",
-      "LET0386",
-      "LET0692"
+      "LET0367"
     ],
     "pre_requirements": [
       "LET0364"
@@ -1296,8 +1213,7 @@
     "nome": "JAPONES 7",
     "ch": 60,
     "post_requirements": [
-      "LET0369",
-      "LET0693"
+      "LET0369"
     ],
     "pre_requirements": [
       "LET0366"
@@ -1374,42 +1290,7 @@
     "nome": "LABORAT\u00d3RIO DE L\u00cdNGUA JAPONESA",
     "ch": 60,
     "post_requirements": [
-      "s na aquisi\u00e7\u00e3o de leitura em lingua japonesa, Compreens\u00e3o da no\u00e7\u00e3o de estrat\u00e9gia.",
-      "",
-      "Cargas Hor\u00e1rias  Aula",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "30h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "30h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade presencial, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "60h",
-      "Carga Hor\u00e1ria de Aula Te\u00f3rica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Pr\u00e1tica",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
-      "0h",
-      "Carga Hor\u00e1ria de Aula Extensionista",
-      "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extens\u00e3o, na modalidade a dist\u00e2ncia, assumindo este \u00faltimo o papel de executor da a\u00e7\u00e3o.",
-      "0h",
-      "Subtotal de Carga Hor\u00e1ria de Aula",
-      "Subtotal do conjunto de cargas",
-      "0h",
-      "Total de Carga Hor\u00e1ria de Aula do Componente",
-      "Total do conjunto de cargas",
-      "60h",
-      "Total de Carga Hor\u00e1ria do Componente",
-      "Total do conjunto de cargas hor\u00e1rias do componente cumpridas nas modalidades presencial e a dist\u00e2ncia.",
-      "60h",
-      "",
-      "Outros componentes que t\u00eam esse componente como pr\u00e9",
-      "LET0695"
+      ""
     ],
     "pre_requirements": [
       "LET0367"
@@ -1443,7 +1324,9 @@
     "cod": "LET0413",
     "nome": "LE - EXPRES\u00c3O ORAL E ESCRITA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0978"
+    ],
     "pre_requirements": []
   },
   {
@@ -1484,7 +1367,11 @@
     "cod": "LET0101",
     "nome": "L\u00cdNGUA ALEM\u00c3 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0074",
+      "LET0102",
+      "LET0143"
+    ],
     "pre_requirements": []
   },
   {
@@ -1538,14 +1425,19 @@
     "cod": "LET0166",
     "nome": "LINGUA ALEMA 6",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0838"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0044",
     "nome": "LINGUA ALEMA INSTRUMENTAL 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0116",
+      "LET0760"
+    ],
     "pre_requirements": []
   },
   {
@@ -1563,7 +1455,10 @@
     "cod": "LET0400",
     "nome": "L\u00cdNGUA \u00c1RABE 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0403",
+      "LET0965"
+    ],
     "pre_requirements": []
   },
   {
@@ -1581,7 +1476,9 @@
     "cod": "LET0376",
     "nome": "LINGUA CHINESA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0377"
+    ],
     "pre_requirements": []
   },
   {
@@ -1600,8 +1497,7 @@
     "nome": "LINGUA CHINESA 3",
     "ch": 60,
     "post_requirements": [
-      "LET0438",
-      "LET0943"
+      "LET0438"
     ],
     "pre_requirements": [
       "LET0376 & LET0377"
@@ -1623,8 +1519,7 @@
     "nome": "L\u00cdNGUA COREANA 03",
     "ch": 60,
     "post_requirements": [
-      "LET0462",
-      "LET1013"
+      "LET0462"
     ],
     "pre_requirements": [
       "LET0036"
@@ -1645,7 +1540,9 @@
     "cod": "LET0035",
     "nome": "L\u00cdNGUA COREANA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0036"
+    ],
     "pre_requirements": []
   },
   {
@@ -1653,8 +1550,7 @@
     "nome": "L\u00cdNGUA COREANA 2",
     "ch": 60,
     "post_requirements": [
-      "LET0453",
-      "LET0756"
+      "LET0453"
     ],
     "pre_requirements": [
       "LET0035"
@@ -1676,9 +1572,7 @@
     "nome": "L\u00cdNGUA ESPANHOLA 1",
     "ch": 60,
     "post_requirements": [
-      "LET0120",
-      "LET0307",
-      "LET0652"
+      "LET0120"
     ],
     "pre_requirements": []
   },
@@ -1698,14 +1592,7 @@
     "nome": "L\u00cdNGUA ESPANHOLA 2",
     "ch": 60,
     "post_requirements": [
-      "TEL0068",
-      "TEL0070",
-      "LET0122",
-      "LET0340",
-      "TEL0100",
-      "TEL0107",
-      "LET0425",
-      "LET0574"
+      "TEL0068"
     ],
     "pre_requirements": [
       "LET0118"
@@ -1716,9 +1603,7 @@
     "nome": "L\u00cdNGUA ESPANHOLA 3",
     "ch": 60,
     "post_requirements": [
-      "LET0124",
-      "LET0442",
-      "LET0575"
+      "LET0124"
     ],
     "pre_requirements": [
       "LET0120"
@@ -1729,9 +1614,7 @@
     "nome": "L\u00cdNGUA ESPANHOLA 4",
     "ch": 60,
     "post_requirements": [
-      "LET0439",
-      "LET0441",
-      "LET0576"
+      "LET0439"
     ],
     "pre_requirements": [
       "LET0122"
@@ -1753,8 +1636,7 @@
     "nome": "L\u00cdNGUA ESPANHOLA 6",
     "ch": 60,
     "post_requirements": [
-      "LET0165",
-      "LET0654"
+      "LET0165"
     ],
     "pre_requirements": [
       "LET0122 & LET0124 & LET0125"
@@ -1765,9 +1647,7 @@
     "nome": "L\u00cdNGUA ESPANHOLA 7",
     "ch": 60,
     "post_requirements": [
-      "LET0447",
-      "LET0448",
-      "LET0578"
+      "LET0447"
     ],
     "pre_requirements": [
       "LET0126"
@@ -1777,7 +1657,9 @@
     "cod": "LET0446",
     "nome": "L\u00cdNGUA ESPANHOLA 8",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0717"
+    ],
     "pre_requirements": []
   },
   {
@@ -1825,9 +1707,7 @@
     "ch": 60,
     "post_requirements": [
       "LET0079",
-      "LET0115",
-      "LET0214",
-      "LET0783"
+      "LET0115"
     ],
     "pre_requirements": [
       "LET0077"
@@ -1899,8 +1779,7 @@
     "post_requirements": [
       "LET0085",
       "LET0162",
-      "LET0254",
-      "LET0571"
+      "LET0254"
     ],
     "pre_requirements": []
   },
@@ -1909,43 +1788,7 @@
     "nome": "L\u00cdNGUA INGLESA 2",
     "ch": 60,
     "post_requirements": [
-      "LET0058",
-      "TEL0040",
-      "TEL0041",
-      "TEL0042",
-      "TEL0043",
-      "TEL0044",
-      "TEL0045",
-      "TEL0046",
-      "TEL0047",
-      "TEL0071",
-      "TEL0072",
-      "TEL0073",
-      "TEL0078",
-      "TEL0079",
-      "TEL0081",
-      "TEL0082",
-      "TEL0083",
-      "TEL0084",
-      "TEL0085",
-      "TEL0086",
-      "TEL0087",
-      "TEL0088",
-      "LET0086",
-      "LET0298",
-      "TEL0120",
-      "TEL0121",
-      "TEL0122",
-      "TEL0123",
-      "TEL0124",
-      "TEL0125",
-      "TEL0126",
-      "LET0572",
-      "TEL0136",
-      "TEL0177",
-      "TEL0178",
-      "TEL0179",
-      "LET0532"
+      "LET0058"
     ],
     "pre_requirements": [
       "LET0084"
@@ -1957,10 +1800,7 @@
     "ch": 60,
     "post_requirements": [
       "LET0087",
-      "LET0174",
-      "LET0194",
-      "LET0260",
-      "LET0646"
+      "LET0174"
     ],
     "pre_requirements": [
       "LET0085"
@@ -1972,8 +1812,7 @@
     "ch": 60,
     "post_requirements": [
       "LET0088",
-      "LET0256",
-      "LET0623"
+      "LET0256"
     ],
     "pre_requirements": [
       "LET0086"
@@ -1985,8 +1824,7 @@
     "ch": 60,
     "post_requirements": [
       "LET0089",
-      "LET0257",
-      "LET0793"
+      "LET0257"
     ],
     "pre_requirements": [
       "LET0087"
@@ -2031,7 +1869,10 @@
     "cod": "LET0337",
     "nome": "LINGUA ITALIANA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0338",
+      "LET0684"
+    ],
     "pre_requirements": []
   },
   {
@@ -2063,8 +1904,7 @@
     "nome": "LINGUA ITALIANA 4",
     "ch": 60,
     "post_requirements": [
-      "LET0006",
-      "LET0945"
+      "LET0006"
     ],
     "pre_requirements": [
       "LET0379"
@@ -2075,8 +1915,7 @@
     "nome": "LINGUA JAPONESA 1",
     "ch": 60,
     "post_requirements": [
-      "LET0107",
-      "LET0573"
+      "LET0107"
     ],
     "pre_requirements": []
   },
@@ -2085,8 +1924,7 @@
     "nome": "L\u00cdNGUA JAPONESA 2",
     "ch": 60,
     "post_requirements": [
-      "LET0108",
-      "LET0804"
+      "LET0108"
     ],
     "pre_requirements": [
       "LET0106"
@@ -2097,8 +1935,7 @@
     "nome": "L\u00cdNGUA JAPONESA 3",
     "ch": 60,
     "post_requirements": [
-      "LET0109",
-      "LET0805"
+      "LET0109"
     ],
     "pre_requirements": [
       "LET0107"
@@ -2109,8 +1946,7 @@
     "nome": "L\u00cdNGUA JAPONESA 4",
     "ch": 60,
     "post_requirements": [
-      "LET0335",
-      "LET0806"
+      "LET0335"
     ],
     "pre_requirements": [
       "LET0108"
@@ -2121,8 +1957,7 @@
     "nome": "L\u00cdNGUA JAPONESA 5",
     "ch": 60,
     "post_requirements": [
-      "LET0336",
-      "LET0908"
+      "LET0336"
     ],
     "pre_requirements": [
       "LET0109"
@@ -2143,7 +1978,9 @@
     "cod": "LET0019",
     "nome": "L\u00cdNGUA NEERLANDESA (HOLAND\u00caS) 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0020"
+    ],
     "pre_requirements": []
   },
   {
@@ -2151,8 +1988,7 @@
     "nome": "L\u00cdNGUA NEERLANDESA (HOLAND\u00caS) 2",
     "ch": 60,
     "post_requirements": [
-      "LET0021",
-      "LET0620"
+      "LET0021"
     ],
     "pre_requirements": [
       "LET0019"
@@ -2174,9 +2010,7 @@
     "nome": "L\u00cdNGUAS, L\u00c9XICO E TERMINOLOGIA 1",
     "ch": 60,
     "post_requirements": [
-      "LET0443",
-      "LET0445",
-      "LET1003"
+      "LET0443"
     ],
     "pre_requirements": [
       "LET0323",
@@ -2199,7 +2033,9 @@
     "cod": "LET0408",
     "nome": "LING\u00dc\u00cdSTICA APLICADA NA FORMA\u00c7\u00c3O DO PROFESSOR DE L\u00cdNGUA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0701"
+    ],
     "pre_requirements": []
   },
   {
@@ -2218,8 +2054,7 @@
     "nome": "METODOLOGIA DE ENSINO DE L\u00cdNGUA JAPONESA",
     "ch": 60,
     "post_requirements": [
-      "LET0371",
-      "LET0694"
+      "LET0371"
     ],
     "pre_requirements": [
       "LET0364"
@@ -2230,12 +2065,7 @@
     "nome": "METODOLOGIA DO ENSINO DE LINGUA ESTRANGEIRA MODERNA",
     "ch": 60,
     "post_requirements": [
-      "LET0012",
-      "LET0013",
-      "LET0264",
-      "LET0556",
-      "LET0557",
-      "LET0588"
+      "LET0012"
     ],
     "pre_requirements": [
       "LET0256"
@@ -2257,9 +2087,7 @@
     "nome": "METODOS DE ENSINO DO ESPANHOL COMO SEGUNDA L\u00cdNGUA",
     "ch": 60,
     "post_requirements": [
-      "LET0023",
-      "LET0350",
-      "LET0689"
+      "LET0023"
     ],
     "pre_requirements": [
       "LET0345"
@@ -2281,8 +2109,7 @@
     "nome": "MODALIDADES DE TRADU\u00c7\u00c3O AUDIOVISUAL",
     "ch": 60,
     "post_requirements": [
-      "LET0445",
-      "LET0626"
+      "LET0445"
     ],
     "pre_requirements": [
       "LIP0045 & LET0324",
@@ -2307,13 +2134,7 @@
     "nome": "MORFOSSINTAXE DO INGLES 1",
     "ch": 60,
     "post_requirements": [
-      "LET0308",
-      "LET0310",
-      "LET0536",
-      "LET0537",
-      "LET0538",
-      "LET0555",
-      "LET0560"
+      "LET0308"
     ],
     "pre_requirements": [
       "LET0312"
@@ -2324,8 +2145,7 @@
     "nome": "MORFOSSINTAXE DO INGLES 2",
     "ch": 60,
     "post_requirements": [
-      "LET0309",
-      "LET0891"
+      "LET0309"
     ],
     "pre_requirements": [
       "LET0041"
@@ -2370,7 +2190,10 @@
     "cod": "LET0388",
     "nome": "PERSA 1 - FARSI  1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0391",
+      "LET0953"
+    ],
     "pre_requirements": []
   },
   {
@@ -2412,7 +2235,9 @@
     "cod": "LET0410",
     "nome": "PESQUISA EM LING\u00dc\u00cdSTICA APLICADA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0702"
+    ],
     "pre_requirements": []
   },
   {
@@ -2444,7 +2269,9 @@
     "cod": "LET0409",
     "nome": "POLON\u00caS 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0411"
+    ],
     "pre_requirements": []
   },
   {
@@ -2452,8 +2279,7 @@
     "nome": "POLONES 2",
     "ch": 60,
     "post_requirements": [
-      "LET0007",
-      "LET0976"
+      "LET0007"
     ],
     "pre_requirements": [
       "LET0409"
@@ -2475,8 +2301,7 @@
     "nome": "PORTUGU\u00caS PARA ESTRANGEIROS 1",
     "ch": 60,
     "post_requirements": [
-      "LET0242",
-      "LET0583"
+      "LET0242"
     ],
     "pre_requirements": []
   },
@@ -2495,28 +2320,36 @@
     "cod": "LET0016",
     "nome": "PORTUGU\u00caS PARA ESTRANGEIROS: COMUNICA\u00c7\u00c3O ORAL E ESCRITA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0635"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0017",
     "nome": "PORTUGU\u00caS PARA ESTRANGEIROS: COMUNICA\u00c7\u00c3O ORAL E ESCRITA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0636"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0014",
     "nome": "PORTUGU\u00caS PARA ESTRANGEIROS: L\u00cdNGUA E CULTURA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0634"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0015",
     "nome": "PORTUGU\u00caS PARA ESTRANGEIROS: L\u00cdNGUA E CULTURA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0619"
+    ],
     "pre_requirements": []
   },
   {
@@ -2524,11 +2357,7 @@
     "nome": "PRATICA DE TRADUCAO ALEMAO-PORTUGUES 1",
     "ch": 60,
     "post_requirements": [
-      "LET0144",
-      "LET0145",
-      "LET0146",
-      "LET0147",
-      "LET0821"
+      "LET0144"
     ],
     "pre_requirements": [
       "LET0101"
@@ -2594,11 +2423,7 @@
     "nome": "PRATICA DE TRADUCAO FRANCES/PORTUGUES : TEXTOS GERAIS",
     "ch": 60,
     "post_requirements": [
-      "LET0218",
-      "LET0222",
-      "LET0226",
-      "LET0230",
-      "LET0665"
+      "LET0218"
     ],
     "pre_requirements": [
       "LET0078",
@@ -2654,11 +2479,7 @@
     "nome": "PR\u00c1TICA DE TRADU\u00c7\u00c3O INGLES/PORTUGUES: TEXTOS GERAIS",
     "ch": 60,
     "post_requirements": [
-      "LET0178",
-      "LET0182",
-      "LET0186",
-      "LET0190",
-      "LET0659"
+      "LET0178"
     ],
     "pre_requirements": [
       "LET0086",
@@ -2703,11 +2524,7 @@
     "nome": "PRATICA DE TRADUCAO PORTUGUES-ALEMAO 1",
     "ch": 60,
     "post_requirements": [
-      "LET0149",
-      "LET0150",
-      "LET0151",
-      "LET0152",
-      "LET0826"
+      "LET0149"
     ],
     "pre_requirements": [
       "LET0101"
@@ -2773,11 +2590,7 @@
     "nome": "PRATICA DE TRADUCAO PORTUGUES/FRANCES | TEXTOS GERAIS",
     "ch": 60,
     "post_requirements": [
-      "LET0130",
-      "LET0134",
-      "LET0138",
-      "LET0142",
-      "LET0651"
+      "LET0130"
     ],
     "pre_requirements": [
       "LET0078",
@@ -2833,11 +2646,7 @@
     "nome": "PRATICA DE TRADUCAO PORTUGUES/INGLES : TEXTOS GERAIS",
     "ch": 60,
     "post_requirements": [
-      "LET0198",
-      "LET0202",
-      "LET0206",
-      "LET0210",
-      "LET0661"
+      "LET0198"
     ],
     "pre_requirements": [
       "LET0086",
@@ -2881,7 +2690,9 @@
     "cod": "LET0326",
     "nome": "PRATICA DO FRANCES ORAL E ESCRITO 1",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0325"
+    ],
     "pre_requirements": []
   },
   {
@@ -2889,10 +2700,7 @@
     "nome": "PR\u00c1TICA DO FRANC\u00caS ORAL E ESCRITO 2",
     "ch": 90,
     "post_requirements": [
-      "LET0055",
-      "LET0056",
-      "LET0324",
-      "LET0682"
+      "LET0055"
     ],
     "pre_requirements": [
       "LET0326"
@@ -2903,12 +2711,7 @@
     "nome": "PR\u00c1TICA DO FRANC\u00caS ORAL E ESCRITO 3",
     "ch": 90,
     "post_requirements": [
-      "LET0055",
-      "LET0056",
-      "LET0115",
-      "LET0214",
-      "LET0323",
-      "LET0596"
+      "LET0055"
     ],
     "pre_requirements": [
       "LET0325"
@@ -2919,27 +2722,7 @@
     "nome": "PRATICA DO FRANCES ORAL E ESCRITO 4",
     "ch": 90,
     "post_requirements": [
-      "LET0026",
-      "LET0030",
-      "LET0033",
-      "LET0043",
-      "TEL0032",
-      "TEL0033",
-      "TEL0034",
-      "TEL0035",
-      "TEL0036",
-      "TEL0037",
-      "TEL0038",
-      "TEL0039",
-      "TEL0080",
-      "LET0315",
-      "LET0317",
-      "LET0320",
-      "LET0322",
-      "LET0412",
-      "LET0439",
-      "LET0441",
-      "LET0595"
+      "LET0026"
     ],
     "pre_requirements": [
       "LET0324"
@@ -2961,11 +2744,7 @@
     "nome": "PRATICA DO JAPONES ORAL E ESCRITO 1",
     "ch": 60,
     "post_requirements": [
-      "LET0567",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0073"
+      "LET0567"
     ],
     "pre_requirements": []
   },
@@ -2974,11 +2753,7 @@
     "nome": "PRATICA DO JAPONES ORAL E ESCRITO 2",
     "ch": 60,
     "post_requirements": [
-      "LET0570",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0074"
+      "LET0570"
     ],
     "pre_requirements": [
       "LET0073 & LET0072"
@@ -2989,11 +2764,7 @@
     "nome": "PRATICA DO JAPONES ORAL E ESCRITO 3",
     "ch": 60,
     "post_requirements": [
-      "LET0690",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0360"
+      "LET0690"
     ],
     "pre_requirements": [
       "LET0074 & LET0075"
@@ -3004,11 +2775,7 @@
     "nome": "PRATICA DO JAPONES ORAL E ESCRITO 4",
     "ch": 60,
     "post_requirements": [
-      "LET0607",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "LET0363"
+      "LET0607"
     ],
     "pre_requirements": [
       "LET0360 & LET0361"
@@ -3018,7 +2785,9 @@
     "cod": "LET0387",
     "nome": "PROJETO DE CURSO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0952"
+    ],
     "pre_requirements": []
   },
   {
@@ -3063,7 +2832,9 @@
     "cod": "LET0390",
     "nome": "ROMENO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0394"
+    ],
     "pre_requirements": []
   },
   {
@@ -3071,9 +2842,7 @@
     "nome": "ROMENO 2",
     "ch": 60,
     "post_requirements": [
-      "LET0397",
-      "LET0399",
-      "LET0959"
+      "LET0397"
     ],
     "pre_requirements": [
       "LET0390"
@@ -3084,8 +2853,7 @@
     "nome": "ROMENO 3",
     "ch": 60,
     "post_requirements": [
-      "LET0398",
-      "LET0962"
+      "LET0398"
     ],
     "pre_requirements": [
       "LET0394"
@@ -3153,9 +2921,7 @@
     "nome": "TEORIA DA TRADUCAO 1",
     "ch": 60,
     "post_requirements": [
-      "LET0054",
-      "LET0428",
-      "LET0562"
+      "LET0054"
     ],
     "pre_requirements": [
       "LIP0045 & LIP0096",
@@ -3167,8 +2933,7 @@
     "nome": "TEORIA DA TRADUCAO 2",
     "ch": 60,
     "post_requirements": [
-      "LET0002",
-      "LET0563"
+      "LET0002"
     ],
     "pre_requirements": [
       "LET0052"
@@ -3179,13 +2944,7 @@
     "nome": "TEORIA E PR\u00c1TICA DO ESPANHOL ORAL E ESCRITO 1",
     "ch": 90,
     "post_requirements": [
-      "LET0306",
-      "LET0307",
-      "LET0340",
-      "LET0341",
-      "LET0342",
-      "LET0420",
-      "LET0590"
+      "LET0306"
     ],
     "pre_requirements": []
   },
@@ -3194,9 +2953,7 @@
     "nome": "TEORIA E PR\u00c1TICA DO ESPANHOL ORAL E ESCRITO 2",
     "ch": 90,
     "post_requirements": [
-      "LET0348",
-      "TEL0107",
-      "LET0591"
+      "LET0348"
     ],
     "pre_requirements": [
       "LET0305"
@@ -3207,15 +2964,7 @@
     "nome": "TEORIA E PR\u00c1TICA DO ESPANHOL ORAL E ESCRITO 3",
     "ch": 90,
     "post_requirements": [
-      "LET0343",
-      "LET0346",
-      "LET0347",
-      "LET0356",
-      "LET0359",
-      "LET0405",
-      "LET0424",
-      "LET0442",
-      "LET0602"
+      "LET0343"
     ],
     "pre_requirements": [
       "LET0306"
@@ -3259,21 +3008,27 @@
     "cod": "LET0008",
     "nome": "T\u00d3PICOS ESPECIAIS EM ESTUDOS DE TRADU\u00c7\u00c3O 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0730"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0009",
     "nome": "T\u00d3PICOS ESPECIAIS EM ESTUDOS DE TRADU\u00c7\u00c3O 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0731"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "LET0010",
     "nome": "T\u00d3PICOS ESPECIAIS EM ESTUDOS DE TRADU\u00c7\u00c3O 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0732"
+    ],
     "pre_requirements": []
   },
   {
@@ -3291,7 +3046,9 @@
     "cod": "LET0018",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0637"
+    ],
     "pre_requirements": []
   },
   {
@@ -3333,7 +3090,9 @@
     "cod": "LET0554",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO: INGL\u00caS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "LET0628"
+    ],
     "pre_requirements": []
   },
   {
@@ -3427,8 +3186,7 @@
     "nome": "TRADU\u00c7\u00c3O DE TEXTOS GERAIS 1",
     "ch": 60,
     "post_requirements": [
-      "LET0421",
-      "LET0704"
+      "LET0421"
     ],
     "pre_requirements": [
       "LET0414"
@@ -3439,11 +3197,7 @@
     "nome": "TRADU\u00c7\u00c3O DE TEXTOS GERAIS 2",
     "ch": 60,
     "post_requirements": [
-      "LET0003",
-      "LET0426",
-      "LET0429",
-      "LET0436",
-      "LET0705"
+      "LET0003"
     ],
     "pre_requirements": [
       "LET0416"
@@ -3505,10 +3259,7 @@
     "nome": "USOS ESPECIALIZADOS DO ESPANHOL",
     "ch": 60,
     "post_requirements": [
-      "LET0031",
-      "LET0351",
-      "LET0687",
-      "LET0465"
+      "LET0031"
     ],
     "pre_requirements": [
       "LET0348"
@@ -3530,11 +3281,7 @@
     "nome": "VERS\u00c3O DE TEXTOS GERAIS",
     "ch": 60,
     "post_requirements": [
-      "LET0004",
-      "LET0427",
-      "LET0430",
-      "LET0437",
-      "LET0706"
+      "LET0004"
     ],
     "pre_requirements": [
       "LET0414"

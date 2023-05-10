@@ -239,7 +239,9 @@
     "cod": "DAN0005",
     "nome": "ANTROPOLOGIA E MERCADO DE TRABALHO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAN0198"
+    ],
     "pre_requirements": []
   },
   {
@@ -318,7 +320,9 @@
     "cod": "DAN0089",
     "nome": "ARTES E OF\u00cdCIOS DOS SABERES TRADICIONAIS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAN0252"
+    ],
     "pre_requirements": []
   },
   {
@@ -423,8 +427,7 @@
     "nome": "EXCURS\u00c3O DID\u00c1TICA DE PESQUISA",
     "ch": 240,
     "post_requirements": [
-      "DAN0031",
-      "DAN0223"
+      "DAN0031"
     ],
     "pre_requirements": [
       "DAN0021"
@@ -434,7 +437,9 @@
     "cod": "DAN0039",
     "nome": "FUNDAMENTOS DE CI\u00caNCIAS SOCIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAN0218"
+    ],
     "pre_requirements": []
   },
   {
@@ -485,7 +490,9 @@
     "cod": "DAN0022",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ANTROPOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CDS0004"
+    ],
     "pre_requirements": []
   },
   {
@@ -493,10 +500,7 @@
     "nome": "M\u00c9TODOS E T\u00c9CNICAS EM ANTROPOLOGIA SOCIAL",
     "ch": 90,
     "post_requirements": [
-      "DAN0021",
-      "SER0096",
-      "DAN0090",
-      "DAN0176"
+      "DAN0021"
     ],
     "pre_requirements": [
       "FIL0077 & DAN0042",
@@ -554,9 +558,7 @@
     "nome": "SEMIN\u00c1RIO DE PESQUISA ANTROPOL\u00d3GICA",
     "ch": 90,
     "post_requirements": [
-      "DAN0045",
-      "DAN0091",
-      "DAN0213"
+      "DAN0045"
     ],
     "pre_requirements": [
       "DAN0040"
@@ -612,56 +614,7 @@
     "nome": "TEORIA ANTROPOL\u00d3GICA 1",
     "ch": 60,
     "post_requirements": [
-      "DAN0001",
-      "DAN0002",
-      "DAN0003",
-      "DAN0004",
-      "DAN0006",
-      "DAN0007",
-      "DAN0008",
-      "DAN0009",
-      "DAN0010",
-      "DAN0011",
-      "DAN0012",
-      "DAN0013",
-      "DAN0014",
-      "DAN0015",
-      "DAN0016",
-      "DAN0017",
-      "DAN0018",
-      "DAN0019",
-      "DAN0024",
-      "DAN0036",
-      "DAN0043",
-      "DAN0046",
-      "DAN0047",
-      "DAN0049",
-      "DAN0050",
-      "DAN0052",
-      "DAN0053",
-      "DAN0054",
-      "DAN0055",
-      "DAN0056",
-      "DAN0058",
-      "DAN0060",
-      "DAN0061",
-      "DAN0062",
-      "DAN0063",
-      "DAN0065",
-      "DAN0066",
-      "DAN0068",
-      "DAN0070",
-      "DAN0072",
-      "DAN0074",
-      "DAN0076",
-      "DAN0077",
-      "DAN0078",
-      "DAN0080",
-      "DAN0082",
-      "DAN0084",
-      "DAN0086",
-      "DAN0088",
-      "DAN0177"
+      "DAN0001"
     ],
     "pre_requirements": [
       "DAN0022"

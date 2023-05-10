@@ -16,23 +16,5 @@
       "GRE1103"
     ],
     "pre_requirements": []
-  },
-  {
-    "cod": "ICE0001",
-    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
-    "ch": 15,
-    "post_requirements": [
-      "ICE0003"
-    ],
-    "pre_requirements": []
-  },
-  {
-    "cod": "ICE0002",
-    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
-    "ch": 15,
-    "post_requirements": [
-      "ICE0004"
-    ],
-    "pre_requirements": []
   }
 ]

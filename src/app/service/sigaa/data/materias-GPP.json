@@ -44,7 +44,9 @@
     "cod": "GPP0015",
     "nome": "AVALIA\u00c7\u00c3O DE PROGRAMAS GOVERNAMENTAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0070"
+    ],
     "pre_requirements": []
   },
   {
@@ -71,7 +73,9 @@
     "cod": "GPP0016",
     "nome": "CONTROV\u00c9RSIAS URBANAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0097"
+    ],
     "pre_requirements": []
   },
   {
@@ -85,14 +89,18 @@
     "cod": "GPP0017",
     "nome": "DEMOCRACIA DIGITAL, GOVERNAN\u00c7A DA INTERNET E POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0098"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0018",
     "nome": "DEMOCRACIA E POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0071"
+    ],
     "pre_requirements": []
   },
   {
@@ -108,8 +116,7 @@
     "ch": 60,
     "post_requirements": [
       "GPP0032",
-      "GPP0039",
-      "GPP0063"
+      "GPP0039"
     ],
     "pre_requirements": [
       "ECO0019"
@@ -140,8 +147,7 @@
     "nome": "FINAN\u00c7AS P\u00daBLICAS",
     "ch": 60,
     "post_requirements": [
-      "GPP0036",
-      "GPP0113"
+      "GPP0036"
     ],
     "pre_requirements": [
       "GPP0031",
@@ -153,16 +159,7 @@
     "nome": "FUNDAMENTOS DA ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
     "ch": 60,
     "post_requirements": [
-      "ADM0015",
-      "ADM0016",
-      "GPP0032",
-      "GPP0033",
-      "GPP0034",
-      "GPP0035",
-      "GPP0036",
-      "ADM0304",
-      "ADM0309",
-      "GPP0067"
+      "ADM0015"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -199,21 +196,27 @@
     "cod": "GPP0019",
     "nome": "GEST\u00c3O E GOVERNAN\u00c7A P\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0079"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0020",
     "nome": "IMPLEMENTA\u00c7\u00c3O DE POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0072"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0040",
     "nome": "INOVA\u00c7\u00c3O NO SETOR P\u00daBLICO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0121"
+    ],
     "pre_requirements": []
   },
   {
@@ -229,7 +232,9 @@
     "cod": "GPP0021",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0060"
+    ],
     "pre_requirements": []
   },
   {
@@ -246,9 +251,7 @@
     "nome": "METODOLOGIA DE PESQUISA APLICADA \u00c0 GPP",
     "ch": 60,
     "post_requirements": [
-      "GPP0003",
-      "GPP0011",
-      "GPP0078"
+      "GPP0003"
     ],
     "pre_requirements": []
   },
@@ -256,14 +259,18 @@
     "cod": "GPP0012",
     "nome": "MONOGRAFIA GPP",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0093"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0022",
     "nome": "NOVAS INSTITUCIONALIDADES NA ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0103"
+    ],
     "pre_requirements": []
   },
   {
@@ -293,8 +300,7 @@
     "nome": "ORGANIZA\u00c7\u00c3O DA ADMINISTRA\u00c7\u00c3O P\u00daBLICA FEDERAL",
     "ch": 60,
     "post_requirements": [
-      "GPP0043",
-      "GPP0083"
+      "GPP0043"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -304,14 +310,18 @@
     "cod": "GPP0049",
     "nome": "ORGANIZA\u00c7\u00c3O, PROCESSOS E TOMADA DE DECIS\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0129"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0023",
     "nome": "PARTICIPA\u00c7\u00c3O SOCIAL E POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0061"
+    ],
     "pre_requirements": []
   },
   {
@@ -319,8 +329,7 @@
     "nome": "PLANEJAMENTO GOVERNAMENTAL",
     "ch": 60,
     "post_requirements": [
-      "GPP0034",
-      "GPP0082"
+      "GPP0034"
     ],
     "pre_requirements": [
       "GPP0037",
@@ -342,35 +351,45 @@
     "cod": "GPP0024",
     "nome": "POL\u00cdTICAS P\u00daBLICAS DE CI\u00caNCIA, TECNOLOGIA E INOVA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0105"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0025",
     "nome": "POL\u00cdTICAS P\u00daBLICAS DE EMPREGO TRABALHO E RENDA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0080"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0026",
     "nome": "POL\u00cdTICAS P\u00daBLICAS E (DES)ENVOLVIMENTO TERRITORIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0107"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0027",
     "nome": "POL\u00cdTICAS URBANAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0081"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0028",
     "nome": "PROCESSO DECIS\u00d3RIO E POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0062"
+    ],
     "pre_requirements": []
   },
   {
@@ -439,56 +458,72 @@
     "cod": "GPP0048",
     "nome": "TEORIA DAS FINAN\u00c7AS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0128"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0029",
     "nome": "TEORIAS MARXISTAS DO ESTADO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0110"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0004",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0074"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0005",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0075"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0006",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0076"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0007",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS 4",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0077"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0013",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS 5",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0094"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "GPP0014",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM GEST\u00c3O DE POL\u00cdTICAS P\u00daBLICAS 6",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "GPP0095"
+    ],
     "pre_requirements": []
   },
   {

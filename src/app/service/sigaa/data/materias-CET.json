@@ -3,14 +3,18 @@
     "cod": "CET0044",
     "nome": "COMUNICA\u00c7\u00c3O NO TURISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0088"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0041",
     "nome": "CONSTRU\u00c7\u00c3O DO CONHECIMENTO CIENT\u00cdFICO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0013"
+    ],
     "pre_requirements": []
   },
   {
@@ -37,35 +41,45 @@
     "cod": "CET0052",
     "nome": "EQUIPAMENTOS E SERVI\u00c7OS TURISTICOS-AGENCIAMENTO OPERA\u00c7\u00c3O E TRANSPORTE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0072"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0054",
     "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - ALIMENTA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0019"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0053",
     "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - EVENTOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0017"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0050",
     "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - HOSPEDAGEM",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0025"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0051",
     "nome": "EQUIPAMENTOS E SERVI\u00c7OS TUR\u00cdSTICOS - LAZER",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0027"
+    ],
     "pre_requirements": []
   },
   {
@@ -80,8 +94,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 1",
     "ch": 60,
     "post_requirements": [
-      "CET0058",
-      "CET0092"
+      "CET0058"
     ],
     "pre_requirements": []
   },
@@ -109,14 +122,18 @@
     "cod": "CET0045",
     "nome": "ESTRUTURAS DE SUPORTE AO TURISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0068"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0038",
     "nome": "ESTUDO DO TURISMO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "J"
+    ],
     "pre_requirements": []
   },
   {
@@ -124,8 +141,7 @@
     "nome": "ESTUDO DO TURISMO 2",
     "ch": 60,
     "post_requirements": [
-      "CET0043",
-      "CET0085"
+      "CET0043"
     ],
     "pre_requirements": [
       "CET0038"
@@ -168,14 +184,18 @@
     "cod": "CET0006",
     "nome": "FUNDAMENTOS DE ESTAT\u00cdSTICA APLICADO AO TURISMO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0031"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0048",
     "nome": "HIST\u00d3RIA DA ARTE E TURISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0134"
+    ],
     "pre_requirements": []
   },
   {
@@ -193,7 +213,9 @@
     "cod": "CET0049",
     "nome": "INOVA\u00c7\u00c3O EM SERVI\u00c7OS TUR\u00cdSTICOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0135"
+    ],
     "pre_requirements": []
   },
   {
@@ -211,21 +233,27 @@
     "cod": "CET0002",
     "nome": "LEGISLA\u00c7\u00c3O TUR\u00cdSTICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0059"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0020",
     "nome": "MEM\u00d3RIAS GASTRON\u00d4MICAS E GUSTATIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0066"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0047",
     "nome": "OFICINA VIVENCIAL: EDUCA\u00c7\u00c3O, GASTRONOMIA, NUTRI\u00c7\u00c3O E SUSTENTABILIDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0133"
+    ],
     "pre_requirements": []
   },
   {
@@ -233,8 +261,7 @@
     "nome": "PESQUISA EM TURISMO",
     "ch": 60,
     "post_requirements": [
-      "CET0007",
-      "CET0078"
+      "CET0007"
     ],
     "pre_requirements": [
       "CET0041"
@@ -244,7 +271,9 @@
     "cod": "CET0001",
     "nome": "PLANEJAMENTO E GEST\u00c3O EM TURISMO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0005"
+    ],
     "pre_requirements": []
   },
   {
@@ -252,8 +281,7 @@
     "nome": "PLANEJAMENTO E GEST\u00c3O EM TURISMO 2",
     "ch": 60,
     "post_requirements": [
-      "CET0022",
-      "CET0060"
+      "CET0022"
     ],
     "pre_requirements": [
       "CET0001"
@@ -263,7 +291,9 @@
     "cod": "CET0029",
     "nome": "PLANEJAMENTO E OPERA\u00c7\u00c3O DE TRILHAS INTERPRETATIVAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0115"
+    ],
     "pre_requirements": []
   },
   {
@@ -281,14 +311,18 @@
     "cod": "CET0016",
     "nome": "PO\u00c9TICAS DA VIAGEM: ARTE CINEMA LITERATURA E TURISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0065"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0042",
     "nome": "PROJETO INTEGRADOR EM TURISMO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0055"
+    ],
     "pre_requirements": []
   },
   {
@@ -339,56 +373,72 @@
     "cod": "CET0046",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0069"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0010",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0076"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0015",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0064"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0032",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0118"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0035",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 5",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0082"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0036",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 6",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0122"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0037",
     "nome": "SEMIN\u00c1RIOS EM TURISMO 7",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0123"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0039",
     "nome": "SUSTENTABILIDADE \u00c9TICA E TURISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0084"
+    ],
     "pre_requirements": []
   },
   {
@@ -457,14 +507,18 @@
     "cod": "CET0030",
     "nome": "TURISMO E INTERPRETA\u00c7\u00c3O DE PATRIM\u00d4NIO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0116"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CET0018",
     "nome": "TURISMO RURAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CET0104"
+    ],
     "pre_requirements": []
   }
 ]

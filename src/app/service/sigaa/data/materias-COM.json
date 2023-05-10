@@ -4,7 +4,7 @@
     "nome": "ASSESSORIA E CONSULTORIA EM COMUNICA\u00c7\u00c3O",
     "ch": 180,
     "post_requirements": [
-      "COM0193"
+      "C" ?????
     ],
     "pre_requirements": [
       "COM0138 & COM0146 & COM0147"
@@ -15,7 +15,7 @@
     "nome": "AVALIA\u00c7\u00c3O EM PROJETOS DE COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "COM0179"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -24,8 +24,7 @@
     "nome": "COMUNICA\u00c7\u00c3O CULTURA E CONSUMO",
     "ch": 60,
     "post_requirements": [
-      "FAC0058",
-      "COM0234"
+      "FAC0058"
     ],
     "pre_requirements": []
   },
@@ -41,7 +40,7 @@
     "nome": "CRIA\u00c7\u00c3O EM COMUNICA\u00c7\u00c3O E PUBLICIDADE",
     "ch": 60,
     "post_requirements": [
-      "COM0175"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -50,7 +49,7 @@
     "nome": "\u00c9TICA, LEGISLA\u00c7\u00c3O E RESPONSABILIDADE SOCIAL",
     "ch": 60,
     "post_requirements": [
-      "COM0161"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -58,14 +57,18 @@
     "cod": "COM0006",
     "nome": "EXTENS\u00c3O EM COMUNICA\u00c7\u00c3O 1",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "C"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "COM0007",
     "nome": "EXTENS\u00c3O EM COMUNICA\u00c7\u00c3O 2",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "C"
+    ],
     "pre_requirements": []
   },
   {
@@ -73,7 +76,7 @@
     "nome": "FORMATA\u00c7\u00c3O E GERENCIAMENTO DE PROJETOS EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "COM0192"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -82,7 +85,7 @@
     "nome": "GEST\u00c3O EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "COM0170"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -91,7 +94,7 @@
     "nome": "GEST\u00c3O ESTRAT\u00c9GICA PARA A SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "COM0178"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -100,7 +103,7 @@
     "nome": "INSTRUMENTO DA COMUNICA\u00c7\u00c3O ORGANIZACIONAL",
     "ch": 60,
     "post_requirements": [
-      "COM0173"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -109,7 +112,7 @@
     "nome": "INTERNET E POL\u00cdTICA",
     "ch": 60,
     "post_requirements": [
-      "COM0197"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -118,7 +121,7 @@
     "nome": "INTRODU\u00c7\u00c3O AO MARKETING",
     "ch": 60,
     "post_requirements": [
-      "COM0162"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -127,8 +130,7 @@
     "nome": "INTRODU\u00c7\u00c3O AO PLANEJAMENTO",
     "ch": 60,
     "post_requirements": [
-      "COM0134",
-      "COM0164"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -137,13 +139,7 @@
     "nome": "INTRODU\u00c7\u00c3O AS TEORIAS DA COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "JOR0065",
-      "JOR0083",
-      "JOR0089",
-      "JOR0095",
-      "COM0133",
-      "COM0136",
-      "COM0187"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -152,7 +148,7 @@
     "nome": "LINGUAGEM E EST\u00c9TICA FOTOGR\u00c1FICA",
     "ch": 60,
     "post_requirements": [
-      "COM0235"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -161,9 +157,7 @@
     "nome": "LINGUAGENS DA COMUNICA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "JOR0105",
-      "COM0135",
-      "COM0163"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -172,7 +166,7 @@
     "nome": "LINGUAGENS DA COMUNICA\u00c7\u00c3O 2",
     "ch": 60,
     "post_requirements": [
-      "COM0165"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -181,7 +175,7 @@
     "nome": "METODOLOGIA DE PESQUISA EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "COM0188"
+      "C"
     ],
     "pre_requirements": [
       "COM0130"
@@ -192,7 +186,7 @@
     "nome": "M\u00cdDIA, CULTURA E SUBJETIVIDADE",
     "ch": 60,
     "post_requirements": [
-      "COM0196"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -201,7 +195,7 @@
     "nome": "PESQUISA EM OPINI\u00c3O E MERCADO",
     "ch": 60,
     "post_requirements": [
-      "COM0191"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -210,8 +204,7 @@
     "nome": "PLANEJAMENTO E GEST\u00c3O EM MARKETING",
     "ch": 60,
     "post_requirements": [
-      "DAP0001",
-      "COM0174"
+      "DAP0001"
     ],
     "pre_requirements": []
   },
@@ -220,8 +213,7 @@
     "nome": "PLANEJAMENTO E GEST\u00c3O EM ORG P\u00daBLICAS, PRIVADAS E DO TERCEIRO SETOR",
     "ch": 120,
     "post_requirements": [
-      "COM0153",
-      "COM0176"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -230,7 +222,7 @@
     "nome": "PLANEJAMENTO E GEST\u00c3O EM WEB",
     "ch": 60,
     "post_requirements": [
-      "COM0177"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -239,7 +231,7 @@
     "nome": "PLANEJAMENTO EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "COM0189"
+      "C"
     ],
     "pre_requirements": [
       "COM0131",
@@ -251,8 +243,7 @@
     "nome": "PLANEJAMENTO GR\u00c1FICO, VISUAL E WEB",
     "ch": 60,
     "post_requirements": [
-      "JOR0133",
-      "COM0169"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -261,7 +252,7 @@
     "nome": "POL\u00cdTICAS DE COMUNICA\u00c7\u00c3O, SOCIEDADE E CIDADANIA",
     "ch": 60,
     "post_requirements": [
-      "COM0171"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -270,11 +261,7 @@
     "nome": "PR\u00c9-PROJETO DE TCC",
     "ch": 60,
     "post_requirements": [
-      "COM0154",
-      "FAC0061",
-      "FAC0154",
-      "FAC0062",
-      "COM0180"
+      "C"
     ],
     "pre_requirements": [
       "COM0147"
@@ -285,7 +272,7 @@
     "nome": "PRODU\u00c7\u00c3O E EDI\u00c7\u00c3O DE IMAGEM E SOM",
     "ch": 60,
     "post_requirements": [
-      "COM0166"
+      "C"
     ],
     "pre_requirements": [
       "COM0129"
@@ -296,7 +283,7 @@
     "nome": "ROTEIRO, PRODU\u00c7\u00c3O E DIRE\u00c7\u00c3O PARA WEB, V\u00cdDEO E CINEMA",
     "ch": 60,
     "post_requirements": [
-      "COM0190"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -305,7 +292,7 @@
     "nome": "T\u00c9CNICAS DE JORNALISMO EM R\u00c1DIO E TV",
     "ch": 60,
     "post_requirements": [
-      "COM0172"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -314,9 +301,7 @@
     "nome": "T\u00c9CNICAS DE JORNALISMO IMPRESSO E ON LINE",
     "ch": 60,
     "post_requirements": [
-      "JOR0070",
-      "JOR0137",
-      "COM0168"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -325,7 +310,7 @@
     "nome": "TEORIAS DA COMUNICA\u00c7\u00c3O ORGANIZACIONAL",
     "ch": 60,
     "post_requirements": [
-      "COM0167"
+      "C"
     ],
     "pre_requirements": [
       "COM0130",
@@ -337,7 +322,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 1",
     "ch": 60,
     "post_requirements": [
-      "COM0181"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -345,7 +330,9 @@
     "cod": "COM0017",
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 10",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "C"
+    ],
     "pre_requirements": []
   },
   {
@@ -353,7 +340,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 3",
     "ch": 60,
     "post_requirements": [
-      "COM0182"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -362,7 +349,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 4",
     "ch": 60,
     "post_requirements": [
-      "COM0194"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -371,7 +358,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 5",
     "ch": 60,
     "post_requirements": [
-      "COM0183"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -380,7 +367,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 6",
     "ch": 60,
     "post_requirements": [
-      "COM0184"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -389,7 +376,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 7",
     "ch": 60,
     "post_requirements": [
-      "COM0185"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -398,7 +385,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 8",
     "ch": 60,
     "post_requirements": [
-      "COM0186"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -407,7 +394,7 @@
     "nome": "T\u00d3PICOS ESPECIAIS EM COMUNICA\u00c7\u00c3O ORGANIZACIONAL 9",
     "ch": 60,
     "post_requirements": [
-      "COM0160"
+      "C"
     ],
     "pre_requirements": []
   },
@@ -416,7 +403,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
     "ch": 150,
     "post_requirements": [
-      "COM0233"
+      "C"
     ],
     "pre_requirements": [
       "COM0153"

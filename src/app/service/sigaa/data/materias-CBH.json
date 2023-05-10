@@ -3,14 +3,18 @@
     "cod": "CBH0001",
     "nome": "BIO\u00c9TICA E BIOTECNOCI\u00caNCIAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CB" ????/
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CBH0002",
     "nome": "BIO\u00c9TICA E BIOTECNOCI\u00caNCIAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CB"
+    ],
     "pre_requirements": []
   },
   {

@@ -3,35 +3,45 @@
     "cod": "ICH0029",
     "nome": "AN\u00c1LISES POL\u00cdTICAS DO ESPA\u00c7O GEOGR\u00c1FICO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0022",
     "nome": "BASES F\u00cdSICAS DO ESPA\u00c7O BRASILEIRO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0060",
     "nome": "BASES F\u00cdSICAS DO ESPA\u00c7O BRASILEIRO",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0051",
     "nome": "CARTOGRAFIA E EDUCA\u00c7\u00c3O 1",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0041",
     "nome": "CARTOGRAFIA E EDUCA\u00c7\u00c3O 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
@@ -39,7 +49,7 @@
     "nome": "CARTOGRAFIA E EDUCA\u00c7\u00c3O 2",
     "ch": 60,
     "post_requirements": [
-      "ICH0113"
+      "IC"
     ],
     "pre_requirements": []
   },
@@ -47,49 +57,63 @@
     "cod": "ICH0052",
     "nome": "CARTOGRAFIA E EDUCA\u00c7\u00c3O 2",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0008",
     "nome": "CULTURA E ESPA\u00c7O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0047",
     "nome": "DID\u00c1TICA PARA O ENSINO DE GEOGRAFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0016",
     "nome": "ELEMENTOS B\u00c1SICOS DE GEOGRAFIA BIOL\u00d3GICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0023",
     "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOGRAFIA NO ENSINO FUNDAMENTAL",
     "ch": 210,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0032",
     "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOGRAFIA NO ENSINO M\u00c9DIO",
     "ch": 210,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0005",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
@@ -97,7 +121,7 @@
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
     "ch": 15,
     "post_requirements": [
-      "ICH0081"
+      "IC"
     ],
     "pre_requirements": []
   },
@@ -106,7 +130,7 @@
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
     "ch": 15,
     "post_requirements": [
-      "ICH0082"
+      "IC"
     ],
     "pre_requirements": []
   },
@@ -114,308 +138,396 @@
     "cod": "ICH0006",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0020",
     "nome": "FUNDAMENTO DE DESENVOLVIMENTO E APRENDIZAGEM",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0055",
     "nome": "FUNDAMENTO E DESENVOLVIMENTO DA APRENDIZAGEM",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0059",
     "nome": "FUNDAMENTOS B\u00c1SICOS DE FITOGEOGRAFIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0009",
     "nome": "FUNDAMENTOS B\u00c1SICOS DE FITOGEOGRAFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0050",
     "nome": "FUNDAMENTOS B\u00c1SICOS DE GEOMORFOLOGIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0039",
     "nome": "FUNDAMENTOS B\u00c1SICOS DE GEOMORFOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0042",
     "nome": "FUNDAMENTOS B\u00c1SICOS EM CLIMATOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0043",
     "nome": "FUNDAMENTOS B\u00c1SICOS EM GEOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0014",
     "nome": "FUNDAMENTOS DE DID\u00c1TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0004",
     "nome": "FUNDAMENTOS DE EDUCACAO MORAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0028",
     "nome": "GEOGRAFIA AFRICANA E AFRO-BRASILEIRA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0038",
     "nome": "GEOGRAFIA DA POPULA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0049",
     "nome": "GEOGRAFIA DA POPULA\u00c7\u00c3O",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0053",
     "nome": "GEOGRAFIA DAS CIDADES",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0018",
     "nome": "GEOGRAFIA DAS CIDADES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0015",
     "nome": "GEOGRAFIA ECON\u00d4MICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0026",
     "nome": "GEOGRAFIA HUMANA E ECON\u00d4MICA DO BRASIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0057",
     "nome": "GEOGRAFIA REGIONAL DO BRASIL",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0012",
     "nome": "GEOGRAFIA REGIONAL DO BRASIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0007",
     "nome": "GEOGRAFIA RURAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0054",
     "nome": "GEOMORFOLOGIA DAS \u00c1REAS INTERTROPICAIS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0019",
     "nome": "GEOMORFOLOGIA DAS \u00c1REAS INTERTROPICAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0044",
     "nome": "INFORM\u00c1TICA B\u00c1SICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0040",
     "nome": "INICIA\u00c7\u00c3O \u00c0 CI\u00caNCIA GEOGRAFICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0048",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOGRAFIA HUMANA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0037",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 GEOGRAFIA HUMANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0011",
     "nome": "INTRODU\u00c7\u00c3O AOS ESTUDOS REGIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0017",
     "nome": "M\u00c9TODOS E T\u00c9CNICAS DE PESQUISA EM GEOGRAFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0058",
     "nome": "M\u00c9TODOS E T\u00c9CNICAS DE PESQUISA EM GEOGRAFIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0030",
     "nome": "POL\u00cdTICAS P\u00daBLICAS E MEIO AMBIENTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0045",
     "nome": "PORTUGU\u00caS B\u00c1SICO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0036",
     "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0010",
     "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0021",
     "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0013",
     "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 4",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0056",
     "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 5",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0024",
     "nome": "PR\u00c1TICA PEDAG\u00d3GICA EM GEOGRAFIA 5",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0001",
     "nome": "PR\u00c1TICAS INOVADORAS NO ENSINO DE GEOGRAFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0031",
     "nome": "REGIONALIZA\u00c7\u00c3O DA AM\u00c9RICA LATINA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0027",
     "nome": "REGIONALIZA\u00c7\u00c3O DO ESPA\u00c7O MUNDIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0046",
     "nome": "REGIONALIZA\u00c7\u00c3O HUMANA E ECON\u00d4MICA DO ESPA\u00c7O MUNDIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0025",
     "nome": "TRABALHO FINAL EM GEOGRAFIA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ICH0033",
     "nome": "TRABALHO FINAL EM GEOGRAFIA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IC"
+    ],
     "pre_requirements": []
   }
 ]

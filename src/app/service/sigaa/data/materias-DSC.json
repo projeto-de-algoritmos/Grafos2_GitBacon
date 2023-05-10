@@ -59,9 +59,7 @@
     "nome": "CI\u00caNCIAS SOCIAIS EM SA\u00daDE",
     "ch": 60,
     "post_requirements": [
-      "DSC0049",
-      "DSC0059",
-      "DSC0110"
+      "DSC0049"
     ],
     "pre_requirements": []
   },
@@ -69,7 +67,9 @@
     "cod": "DSC0056",
     "nome": "COMUNICA\u00c7\u00c3O EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0002"
+    ],
     "pre_requirements": []
   },
   {
@@ -87,14 +87,18 @@
     "cod": "DSC0051",
     "nome": "DEMOGRAFIA E BIOESTAT\u00cdSTICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0108"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0063",
     "nome": "DIREITO SANIT\u00c1RIO E LEGISLA\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0114"
+    ],
     "pre_requirements": []
   },
   {
@@ -141,8 +145,7 @@
     "nome": "EPIDEMIOLOGIA ANAL\u00cdTICA",
     "ch": 60,
     "post_requirements": [
-      "DSC0096",
-      "DSC0127"
+      "DSC0096"
     ],
     "pre_requirements": [
       "DSC0093",
@@ -154,8 +157,7 @@
     "nome": "EPIDEMIOLOGIA DESCRITIVA",
     "ch": 60,
     "post_requirements": [
-      "DSC0095",
-      "DSC0145"
+      "DSC0095"
     ],
     "pre_requirements": []
   },
@@ -164,11 +166,7 @@
     "nome": "EPIDEMIOLOGIA GERAL",
     "ch": 60,
     "post_requirements": [
-      "DSC0025",
-      "DSC0026",
-      "DSC0033",
-      "ENF0056",
-      "DSC0101"
+      "DSC0025"
     ],
     "pre_requirements": [
       "DSC0011",
@@ -204,7 +202,9 @@
     "cod": "DSC0080",
     "nome": "EST\u00c1GIO SUPERVISIONADO 1",
     "ch": 150,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0200"
+    ],
     "pre_requirements": []
   },
   {
@@ -212,8 +212,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 1",
     "ch": 150,
     "post_requirements": [
-      "DSC0083",
-      "DSC0141"
+      "DSC0083"
     ],
     "pre_requirements": [
       "DSC0069 & DSC0067 & DSC0079"
@@ -223,7 +222,9 @@
     "cod": "DSC0081",
     "nome": "EST\u00c1GIO SUPERVISIONADO 2",
     "ch": 150,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0201"
+    ],
     "pre_requirements": []
   },
   {
@@ -231,10 +232,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 2",
     "ch": 150,
     "post_requirements": [
-      "DSC0004",
-      "DSC0142",
-      "DSC0148",
-      "DSC0167"
+      "DSC0004"
     ],
     "pre_requirements": [
       "DSC0078  &  DSC0084",
@@ -268,7 +266,9 @@
     "cod": "DSC0066",
     "nome": "\u00c9TICA, CI\u00caNCIA E TECNOLOGIA EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0187"
+    ],
     "pre_requirements": []
   },
   {
@@ -289,7 +289,9 @@
     "cod": "DSC0090",
     "nome": "EXTENS\u00c3O EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0143"
+    ],
     "pre_requirements": []
   },
   {
@@ -303,7 +305,9 @@
     "cod": "DSC0052",
     "nome": "FUNDAMENTOS BIOL\u00d3GICOS EM SA\u00daDE COLETIVA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0058"
+    ],
     "pre_requirements": []
   },
   {
@@ -322,8 +326,7 @@
     "nome": "FUNDAMENTOS BIOL\u00d3GICOS EM SA\u00daDE COLETIVA 3",
     "ch": 60,
     "post_requirements": [
-      "DSC0069",
-      "DSC0112"
+      "DSC0069"
     ],
     "pre_requirements": [
       "DSC0052 & DSC0058"
@@ -355,7 +358,9 @@
     "cod": "DSC0072",
     "nome": "GEST\u00c3O DO TRABALHO E EDUCA\u00c7\u00c3O PERMANENTE NA SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0119"
+    ],
     "pre_requirements": []
   },
   {
@@ -384,7 +389,9 @@
     "cod": "DSC0010",
     "nome": "INFORMA\u00c7\u00c3O E INFORM\u00c1TICA EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0089"
+    ],
     "pre_requirements": []
   },
   {
@@ -403,11 +410,7 @@
     "nome": "INTRODUCAO A BIOETICA",
     "ch": 30,
     "post_requirements": [
-      "DAN0086",
-      "DSC0008",
-      "DSC0009",
-      "DSC0064",
-      "DSC0130"
+      "DAN0086"
     ],
     "pre_requirements": []
   },
@@ -415,14 +418,18 @@
     "cod": "DSC0006",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 GEST\u00c3O HOSPITALAR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0150"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0040",
     "nome": "INTRODUCAO AO METODOS QUANTITATIVOS EM SAUDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0166"
+    ],
     "pre_requirements": []
   },
   {
@@ -449,14 +456,18 @@
     "cod": "DSC0070",
     "nome": "MONITORAMENTO E AVALIA\u00c7\u00c3O EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0137"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0091",
     "nome": "PESQUISA EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0144"
+    ],
     "pre_requirements": []
   },
   {
@@ -486,14 +497,18 @@
     "cod": "DSC0005",
     "nome": "POL\u00cdTICAS DE SEGURAN\u00c7A ALIMENTAR E NUTRICIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0149"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0050",
     "nome": "POL\u00cdTICAS P\u00daBLICAS EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FCE0326"
+    ],
     "pre_requirements": []
   },
   {
@@ -501,25 +516,7 @@
     "nome": "PRATICAS DE SAUDE",
     "ch": 60,
     "post_requirements": [
-      "DAN0065",
-      "DAN0066",
-      "DAN0068",
-      "DAN0070",
-      "DAN0072",
-      "DAN0074",
-      "DAN0076",
-      "DAN0080",
-      "DAN0082",
-      "DAN0084",
-      "DAN0086",
-      "DAN0088",
-      "JOR0083",
-      "DSC0011",
-      "ENF0025",
-      "ENF0027",
-      "ENF0056",
-      "ODT0155",
-      "DSC0104"
+      "DAN0065"
     ],
     "pre_requirements": []
   },
@@ -528,9 +525,7 @@
     "nome": "PR\u00c1TICAS INTEGRADAS EM SA\u00daDE 2",
     "ch": 60,
     "post_requirements": [
-      "DSC0078",
-      "DSC0117",
-      "DSC0099"
+      "DSC0078"
     ],
     "pre_requirements": [
       "DSC0076"
@@ -540,7 +535,9 @@
     "cod": "DSC0071",
     "nome": "PR\u00c1TICAS INTEGRADAS EM SA\u00daDE 3",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0192"
+    ],
     "pre_requirements": []
   },
   {
@@ -548,8 +545,7 @@
     "nome": "PR\u00c1TICAS INTEGRADAS EM SA\u00daDE COLETIVA 1",
     "ch": 60,
     "post_requirements": [
-      "DSC0076",
-      "DSC0113"
+      "DSC0076"
     ],
     "pre_requirements": [
       "DSC0060"
@@ -598,10 +594,7 @@
     "nome": "SAUDE E SOCIEDADE 1",
     "ch": 60,
     "post_requirements": [
-      "DSC0020",
-      "DSC0049",
-      "ENF0056",
-      "DSC0155"
+      "DSC0020"
     ],
     "pre_requirements": [
       "DSC0037"
@@ -629,14 +622,18 @@
     "cod": "DSC0003",
     "nome": "SA\u00daDE IND\u00cdGENA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0128"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0086",
     "nome": "SA\u00daDE INTERNACIONAL - T\u00d3PICOS ESPECIAIS EM SA\u00daDE COLETIVA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0123"
+    ],
     "pre_requirements": []
   },
   {
@@ -652,21 +649,27 @@
     "cod": "DSC0043",
     "nome": "SAUDE MENTAL EM SAUDE COLETIVA",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0105"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0039",
     "nome": "SAUDE NO BRASIL - SITUACAO ATUAL E PERSPECTIVAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0165"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0074",
     "nome": "SEMIN\u00c1RIO INTEGRADOR EM SA\u00daDE COLETIVA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0195"
+    ],
     "pre_requirements": []
   },
   {
@@ -686,12 +689,7 @@
     "nome": "SEMIN\u00c1RIO INTEGRADOR EM SA\u00daDE COLETIVA 3",
     "ch": 45,
     "post_requirements": [
-      "DSC0139",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "DSC0084",
-      "DSC0146"
+      "DSC0139"
     ],
     "pre_requirements": [
       "DSC0067"
@@ -701,21 +699,27 @@
     "cod": "DSC0060",
     "nome": "SEMIN\u00c1RIOS INTEGRADOS EM SA\u00daDE COLETIVA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0062"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0073",
     "nome": "TECNOLOGIAS PARA INFORMA\u00c7\u00c3O COMUNICA\u00c7\u00c3O EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0120"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DSC0094",
     "nome": "TERAPIAS COMUNIT\u00c1RIAS E PR\u00c1TICAS INTEGRATIVAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0126"
+    ],
     "pre_requirements": []
   },
   {
@@ -784,7 +788,9 @@
     "cod": "DSC0045",
     "nome": "VIGILANCIA SANITARIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0169"
+    ],
     "pre_requirements": []
   }
 ]

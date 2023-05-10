@@ -3,7 +3,9 @@
     "cod": "FDD0274",
     "nome": "ARBITRAGEM, MEDIA\u00c7\u00c3O E NEGOCIA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0481"
+    ],
     "pre_requirements": []
   },
   {
@@ -11,8 +13,7 @@
     "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0269",
-      "FDD0323"
+      "FDD0269"
     ],
     "pre_requirements": []
   },
@@ -21,9 +22,7 @@
     "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0239",
-      "FDD0269",
-      "FDD0324"
+      "FDD0239"
     ],
     "pre_requirements": []
   },
@@ -32,8 +31,7 @@
     "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 3",
     "ch": 60,
     "post_requirements": [
-      "FDD0269",
-      "FDD0319"
+      "FDD0269"
     ],
     "pre_requirements": []
   },
@@ -42,8 +40,7 @@
     "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 4",
     "ch": 60,
     "post_requirements": [
-      "FDD0269",
-      "FDD0325"
+      "FDD0269"
     ],
     "pre_requirements": []
   },
@@ -52,8 +49,7 @@
     "nome": "ATUALIZA\u00c7\u00c3O E PR\u00c1TICA DO DIREITO 5",
     "ch": 60,
     "post_requirements": [
-      "FDD0269",
-      "FDD0326"
+      "FDD0269"
     ],
     "pre_requirements": []
   },
@@ -74,8 +70,7 @@
     "nome": "DIREITO ADMINISTRATIVO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0027",
-      "FDD0290"
+      "FDD0027"
     ],
     "pre_requirements": [
       "FDD0019",
@@ -87,9 +82,7 @@
     "nome": "DIREITO ADMINISTRATIVO 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0029",
-      "FDD0099",
-      "FDD0291"
+      "FDD0029"
     ],
     "pre_requirements": [
       "FDD0025"
@@ -190,10 +183,7 @@
     "nome": "DIREITO COMERCIAL 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0074",
-      "FDD0085",
-      "FDD0174",
-      "FDD0306"
+      "FDD0074"
     ],
     "pre_requirements": [
       "FDD0097",
@@ -227,8 +217,7 @@
     "nome": "DIREITO CONSTITUCIONAL 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0023",
-      "FDD0288"
+      "FDD0023"
     ],
     "pre_requirements": [
       "FDD0019",
@@ -262,9 +251,7 @@
     "nome": "DIREITO DAS COISAS",
     "ch": 60,
     "post_requirements": [
-      "FDD0068",
-      "FDD0176",
-      "FDD0334"
+      "FDD0068"
     ],
     "pre_requirements": [
       "FDD0097 & FDD0167"
@@ -275,8 +262,7 @@
     "nome": "DIREITO DAS OBRIGA\u00c7\u00d5ES",
     "ch": 60,
     "post_requirements": [
-      "FDD0097",
-      "FDD0309"
+      "FDD0097"
     ],
     "pre_requirements": [
       "FDD0062"
@@ -322,10 +308,7 @@
     "nome": "DIREITO DE FAM\u00cdLIA",
     "ch": 60,
     "post_requirements": [
-      "FDD0070",
-      "FDD0079",
-      "FDD0176",
-      "FDD0335"
+      "FDD0070"
     ],
     "pre_requirements": [
       "FDD0065",
@@ -370,9 +353,7 @@
     "nome": "DIREITO DOS CONTRATOS",
     "ch": 60,
     "post_requirements": [
-      "FDD0072",
-      "FDD0267",
-      "FDD0310"
+      "FDD0072"
     ],
     "pre_requirements": [
       "FDD0092"
@@ -383,9 +364,7 @@
     "nome": "DIREITO DO TRABALHO",
     "ch": 60,
     "post_requirements": [
-      "FDD0083",
-      "FDD0268",
-      "FDD0327"
+      "FDD0083"
     ],
     "pre_requirements": [
       "FDD0097"
@@ -396,9 +375,7 @@
     "nome": "DIREITO DO TRABALHO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0058",
-      "FDD0083",
-      "FDD0303"
+      "FDD0058"
     ],
     "pre_requirements": [
       "FDD0019 & FDD0062"
@@ -453,8 +430,7 @@
     "nome": "DIREITO FINANCEIRO",
     "ch": 60,
     "post_requirements": [
-      "FDD0033",
-      "FDD0448"
+      "FDD0033"
     ],
     "pre_requirements": [
       "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
@@ -465,9 +441,7 @@
     "nome": "DIREITO FINANCEIRO",
     "ch": 60,
     "post_requirements": [
-      "FDD0033",
-      "FDD0241",
-      "FDD0293"
+      "FDD0033"
     ],
     "pre_requirements": [
       "FDD0025 & FDD0021"
@@ -507,8 +481,7 @@
     "nome": "DIREITO INTERNACIONAL P\u00daBLICO",
     "ch": 60,
     "post_requirements": [
-      "IRI0146",
-      "FDD0295"
+      "IRI0146"
     ],
     "pre_requirements": [
       "FDD0019"
@@ -530,9 +503,7 @@
     "nome": "DIREITO PENAL 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0041",
-      "FDD0049",
-      "FDD0296"
+      "FDD0041"
     ],
     "pre_requirements": [
       "FDD0165"
@@ -543,8 +514,7 @@
     "nome": "DIREITO PENAL 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0081",
-      "FDD0297"
+      "FDD0081"
     ],
     "pre_requirements": [
       "FDD0039"
@@ -577,9 +547,7 @@
     "nome": "DIREITO PROCESSUAL CIVIL 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0047",
-      "FDD0169",
-      "FDD0298"
+      "FDD0047"
     ],
     "pre_requirements": [
       "FDD0169",
@@ -592,10 +560,7 @@
     "nome": "DIREITO PROCESSUAL CIVIL 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0077",
-      "FDD0145",
-      "FDD0259",
-      "FDD0299"
+      "FDD0077"
     ],
     "pre_requirements": [
       "FDD0045"
@@ -640,8 +605,7 @@
     "nome": "DIREITO PROCESSUAL PENAL 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0051",
-      "FDD0301"
+      "FDD0051"
     ],
     "pre_requirements": [
       "FDD0041 & FDD0047",
@@ -754,9 +718,7 @@
     "nome": "EST\u00c1GIO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0262",
-      "FDD0263",
-      "FDD0343"
+      "FDD0262"
     ],
     "pre_requirements": [
       "FDD0047"
@@ -799,7 +761,9 @@
     "cod": "FDD0264",
     "nome": "EST\u00c1GIO 5",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0347"
+    ],
     "pre_requirements": []
   },
   {
@@ -807,8 +771,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0180",
-      "FDD0423"
+      "FDD0180"
     ],
     "pre_requirements": [
       "FDD0068 & FDD0021"
@@ -819,8 +782,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0183",
-      "FDD0430"
+      "FDD0183"
     ],
     "pre_requirements": [
       "FDD0162"
@@ -831,8 +793,7 @@
     "nome": "EST\u00c1GIO CURRICULAR SUPERVISIONADO 3",
     "ch": 30,
     "post_requirements": [
-      "FDD0186",
-      "FDD0431"
+      "FDD0186"
     ],
     "pre_requirements": [
       "FDD0180"
@@ -873,14 +834,18 @@
     "cod": "FDD0278",
     "nome": "EXAME DE PROFICI\u00caNCIA 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0349"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FDD0279",
     "nome": "EXAME DE PROFICI\u00caNCIA 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0350"
+    ],
     "pre_requirements": []
   },
   {
@@ -921,7 +886,9 @@
     "cod": "FDD0242",
     "nome": "HIST\u00d3RIA DO DIREITO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0318"
+    ],
     "pre_requirements": []
   },
   {
@@ -951,9 +918,7 @@
     "nome": "INSTITUI\u00c7\u00d5ES DE DIREITO P\u00daBLICO E PRIVADO",
     "ch": 60,
     "post_requirements": [
-      "FDD0095",
-      "CCA0076",
-      "FDD0283"
+      "FDD0095"
     ],
     "pre_requirements": []
   },
@@ -971,15 +936,7 @@
     "nome": "INTRODU\u00c7\u00c3O AO DIREITO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0002",
-      "FDD0019",
-      "FDD0062",
-      "FDD0068",
-      "FDD0131",
-      "FDD0165",
-      "IRI0054",
-      "FDD0249",
-      "FDD0284"
+      "FDD0002"
     ],
     "pre_requirements": []
   },
@@ -988,25 +945,7 @@
     "nome": "INTRODU\u00c7\u00c3O AO DIREITO 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0017",
-      "FDD0060",
-      "FDD0088",
-      "FDD0090",
-      "FDD0105",
-      "FDD0107",
-      "FDD0109",
-      "FDD0111",
-      "FDD0113",
-      "FDD0120",
-      "FDD0122",
-      "FDD0124",
-      "FDD0127",
-      "FDD0129",
-      "FDD0136",
-      "FDD0138",
-      "FDD0143",
-      "FDD0277",
-      "FDD0315"
+      "FDD0017"
     ],
     "pre_requirements": [
       "SOL0042",
@@ -1169,7 +1108,9 @@
     "cod": "FDD0248",
     "nome": "MODELOS E PARADIGMAS DA EXPERI\u00caNCIA JUR\u00cdDICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0321"
+    ],
     "pre_requirements": []
   },
   {
@@ -1213,9 +1154,7 @@
     "nome": "PESQUISA JUR\u00cdDICA",
     "ch": 60,
     "post_requirements": [
-      "FDD0239",
-      "FDD0249",
-      "FDD0313"
+      "FDD0239"
     ],
     "pre_requirements": []
   },
@@ -1266,8 +1205,7 @@
     "nome": "PROFICI\u00caNCIA 1",
     "ch": 15,
     "post_requirements": [
-      "FDD0188",
-      "FDD0459"
+      "FDD0188"
     ],
     "pre_requirements": []
   },
@@ -1286,21 +1224,27 @@
     "cod": "FDD0265",
     "nome": "PROFICI\u00caNCIA 3",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0472"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FDD0266",
     "nome": "PROFICI\u00caNCIA 4",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0473"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FDD0240",
     "nome": "PROFICI\u00caNCIA JUR\u00cdDICA",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FDD0454"
+    ],
     "pre_requirements": []
   },
   {
@@ -1376,8 +1320,7 @@
     "nome": "TEORIA GERAL DO DIREITO PENAL",
     "ch": 90,
     "post_requirements": [
-      "FDD0039",
-      "FDD0314"
+      "FDD0039"
     ],
     "pre_requirements": [
       "FDD0006"
@@ -1388,9 +1331,7 @@
     "nome": "TEORIA GERAL DO DIREITO PRIVADO",
     "ch": 60,
     "post_requirements": [
-      "FDD0072",
-      "FDD0092",
-      "FDD0305"
+      "FDD0072"
     ],
     "pre_requirements": [
       "FDD0006"
@@ -1412,9 +1353,7 @@
     "nome": "TEORIA GERAL DO DIREITO P\u00daBLICO",
     "ch": 60,
     "post_requirements": [
-      "FDD0021",
-      "FDD0025",
-      "FDD0446"
+      "FDD0021"
     ],
     "pre_requirements": [
       "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
@@ -1425,12 +1364,7 @@
     "nome": "TEORIA GERAL DO DIREITO P\u00daBLICO",
     "ch": 60,
     "post_requirements": [
-      "FDD0021",
-      "FDD0025",
-      "FDD0029",
-      "FDD0035",
-      "FDD0109",
-      "FDD0287"
+      "FDD0021"
     ],
     "pre_requirements": [
       "FDD0006"
@@ -1471,9 +1405,7 @@
     "nome": "TEORIA GERAL DO PROCESSO",
     "ch": 60,
     "post_requirements": [
-      "FDD0045",
-      "FDD0169",
-      "FDD0449"
+      "FDD0045"
     ],
     "pre_requirements": [
       "FDD0205 & FDD0207 & FDD0210 & FDD0212 & FDD0214 & FDD0216"
@@ -1484,9 +1416,7 @@
     "nome": "TEORIA GERAL DO PROCESSO 1",
     "ch": 60,
     "post_requirements": [
-      "FDD0045",
-      "FDD0169",
-      "FDD0332"
+      "FDD0045"
     ],
     "pre_requirements": [
       "FDD0167"
@@ -1497,10 +1427,7 @@
     "nome": "TEORIA GERAL DO PROCESSO 2",
     "ch": 60,
     "post_requirements": [
-      "FDD0045",
-      "FDD0077",
-      "FDD0151",
-      "FDD0339"
+      "FDD0045"
     ],
     "pre_requirements": [
       "FDD0017",

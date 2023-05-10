@@ -15,13 +15,7 @@
     "nome": "ADMINISTRA\u00c7\u00c3O DA PRODU\u00c7\u00c3O E OPERA\u00c7\u00d5ES",
     "ch": 60,
     "post_requirements": [
-      "FGA0001",
-      "EPR0035",
-      "ADM0303",
-      "ADM0313",
-      "ADM0314",
-      "ADM0317",
-      "ADM0382"
+      "FGA0001"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -54,15 +48,7 @@
     "nome": "ADMINISTRA\u00c7\u00c3O DE MARKETING",
     "ch": 60,
     "post_requirements": [
-      "ADM0006",
-      "ADM0008",
-      "ADM0009",
-      "ADM0010",
-      "ADM0244",
-      "ADM0264",
-      "ADM0300",
-      "ADM0306",
-      "ADM0380"
+      "ADM0006"
     ],
     "pre_requirements": [
       "ADM0023",
@@ -94,8 +80,7 @@
     "nome": "ADMINISTRA\u00c7\u00c3O DE SISTEMAS DE INFORMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ADM0313",
-      "ADM0418"
+      "ADM0313"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -139,10 +124,7 @@
     "nome": "ADMINISTRA\u00c7\u00c3O P\u00daBLICA E GEST\u00c3O SOCIAL",
     "ch": 60,
     "post_requirements": [
-      "ADM0015",
-      "ADM0016",
-      "ADM0017",
-      "ADM0371"
+      "ADM0015"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -197,8 +179,7 @@
     "nome": "AN\u00c1LISE ORGANIZACIONAL, SISTEMAS E M\u00c9TODOS",
     "ch": 60,
     "post_requirements": [
-      "ADM0157",
-      "ADM0403"
+      "ADM0157"
     ],
     "pre_requirements": [
       "ADM0023",
@@ -232,8 +213,7 @@
     "nome": "CALCULO FINANCEIRO",
     "ch": 60,
     "post_requirements": [
-      "ADM0087",
-      "ADM0388"
+      "ADM0087"
     ],
     "pre_requirements": [
       "MAT0025",
@@ -255,7 +235,9 @@
     "cod": "ADM0337",
     "nome": "COM\u00c9RCIO EXTERIOR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0531"
+    ],
     "pre_requirements": []
   },
   {
@@ -293,7 +275,9 @@
     "cod": "ADM0328",
     "nome": "CONTABILIDADE GERAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0526"
+    ],
     "pre_requirements": []
   },
   {
@@ -322,21 +306,27 @@
     "cod": "ADM0365",
     "nome": "DIREITO E LEGISLA\u00c7\u00c3O TRIBUT\u00c1RIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0550"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0362",
     "nome": "DIREITO EMPRESARIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0547"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0333",
     "nome": "ECONOMIA BRASILEIRA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0530"
+    ],
     "pre_requirements": []
   },
   {
@@ -387,9 +377,7 @@
     "nome": "ESTAGIO SUPERVISIONADO 1",
     "ch": 90,
     "post_requirements": [
-      "ADM0099",
-      "ADM0101",
-      "ADM0465"
+      "ADM0099"
     ],
     "pre_requirements": []
   },
@@ -438,9 +426,7 @@
     "nome": "ESTRAT\u00c9GIA ORGANIZACIONAL",
     "ch": 60,
     "post_requirements": [
-      "CET0024",
-      "ADM0018",
-      "ADM0385"
+      "CET0024"
     ],
     "pre_requirements": [
       "ADM0320",
@@ -463,15 +449,7 @@
     "nome": "FINAN\u00c7AS 1",
     "ch": 60,
     "post_requirements": [
-      "ADM0068",
-      "CCA0021",
-      "ADM0107",
-      "CCA0056",
-      "ADM0219",
-      "CCA0121",
-      "ADM0301",
-      "ADM0311",
-      "ADM0411"
+      "ADM0068"
     ],
     "pre_requirements": [
       "CCA0103 & ADM0192"
@@ -493,8 +471,7 @@
     "nome": "FINANCAS DE EMPRESAS",
     "ch": 90,
     "post_requirements": [
-      "CCA0018",
-      "ADM0454"
+      "CCA0018"
     ],
     "pre_requirements": []
   },
@@ -503,8 +480,7 @@
     "nome": "GEST\u00c3O DA INOVA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ADM0005",
-      "ADM0387"
+      "ADM0005"
     ],
     "pre_requirements": [
       "ADM0023 & ECO0019"
@@ -514,7 +490,9 @@
     "cod": "ADM0352",
     "nome": "GEST\u00c3O DA QUALIDADE NO SETOR P\u00daBLICO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0539"
+    ],
     "pre_requirements": []
   },
   {
@@ -577,7 +555,9 @@
     "cod": "ADM0342",
     "nome": "GEST\u00c3O DE OPERA\u00c7\u00d5ES E LOG\u00cdSTICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0534"
+    ],
     "pre_requirements": []
   },
   {
@@ -596,10 +576,7 @@
     "nome": "GEST\u00c3O DE PESSOAS EM ORGANIZA\u00c7\u00d5ES",
     "ch": 60,
     "post_requirements": [
-      "ADM0253",
-      "ADM0258",
-      "ADM0305",
-      "ADM0377"
+      "ADM0253"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -676,8 +653,7 @@
     "nome": "GOVERNO E ADMINISTRACAO NO BRASIL",
     "ch": 60,
     "post_requirements": [
-      "GPP0033",
-      "ADM0460"
+      "GPP0033"
     ],
     "pre_requirements": []
   },
@@ -708,40 +684,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ADMINISTRA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ADM0003",
-      "ADM0004",
-      "CCA0009",
-      "ADM0014",
-      "ADM0019",
-      "ADM0020",
-      "ADM0025",
-      "ADM0041",
-      "ADM0044",
-      "ADM0061",
-      "ADM0064",
-      "ADM0092",
-      "FCI0051",
-      "ADM0150",
-      "ADM0157",
-      "ADM0198",
-      "ADM0214",
-      "ADM0221",
-      "ADM0270",
-      "GPP0037",
-      "GPP0038",
-      "FUP0521",
-      "FUP0522",
-      "ADM0298",
-      "ADM0308",
-      "ADM0310",
-      "ADM0312",
-      "ADM0316",
-      "ADM0320",
-      "ADM0323",
-      "ADM0363",
-      "ADM0366",
-      "ADM0367",
-      "ADM0375"
+      "ADM0003"
     ],
     "pre_requirements": []
   },
@@ -749,7 +692,9 @@
     "cod": "ADM0324",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 EDUCA\u00c7\u00c3O A DIST\u00c2NCIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0522"
+    ],
     "pre_requirements": []
   },
   {
@@ -757,12 +702,7 @@
     "nome": "INTRODU\u00c7\u00c3O A TEORIAS ORGANIZACIONAIS",
     "ch": 60,
     "post_requirements": [
-      "ADM0226",
-      "ADM0302",
-      "ADM0318",
-      "ADM0321",
-      "ADM0322",
-      "ADM0390"
+      "ADM0226"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -783,7 +723,9 @@
     "cod": "ADM0356",
     "nome": "LICITA\u00c7\u00c3O, CONTRATOS E CONV\u00caNIOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0543"
+    ],
     "pre_requirements": []
   },
   {
@@ -802,11 +744,7 @@
     "nome": "LOG\u00cdSTICA ORGANIZACIONAL",
     "ch": 60,
     "post_requirements": [
-      "ADM0007",
-      "ADM0017",
-      "FUP0239",
-      "ADM0313",
-      "ADM0379"
+      "ADM0007"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -816,7 +754,9 @@
     "cod": "ADM0327",
     "nome": "MACROECONOMIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0525"
+    ],
     "pre_requirements": []
   },
   {
@@ -899,14 +839,18 @@
     "cod": "ADM0325",
     "nome": "MATEM\u00c1TICA B\u00c1SICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0523"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0343",
     "nome": "MATEM\u00c1TICA FINANCEIRA E AN\u00c1LISE DE INVESTIMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0535"
+    ],
     "pre_requirements": []
   },
   {
@@ -935,10 +879,7 @@
     "nome": "METODOLOGIA CIENT\u00cdFICA APLICADA",
     "ch": 60,
     "post_requirements": [
-      "GPP0003",
-      "ADM0002",
-      "ADM0273",
-      "ADM0389"
+      "GPP0003"
     ],
     "pre_requirements": [
       "EST0019",
@@ -950,8 +891,7 @@
     "nome": "M\u00c9TODOS E MODELOS QUANTITATIVOS DE DECIS\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "ADM0307",
-      "ADM0378"
+      "ADM0307"
     ],
     "pre_requirements": [
       "ADM0035  &  MAT0024",
@@ -1053,9 +993,7 @@
     "nome": "ORGANIZACAO E SISTEMAS",
     "ch": 60,
     "post_requirements": [
-      "ADM0038",
-      "ADM0072",
-      "ADM0447"
+      "ADM0038"
     ],
     "pre_requirements": [
       "ADM0023"
@@ -1076,14 +1014,18 @@
     "cod": "ADM0340",
     "nome": "PLANEJAMENTO E PROGRAMA\u00c7\u00c3O NA ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0533"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0364",
     "nome": "POLITICAS P\u00daBLICAS DE TURISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0549"
+    ],
     "pre_requirements": []
   },
   {
@@ -1091,8 +1033,7 @@
     "nome": "PROJETO DE PESQUISA EM ADMINISTRA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ADM0297",
-      "ADM0416"
+      "ADM0297"
     ],
     "pre_requirements": [
       "ADM0198"
@@ -1102,70 +1043,90 @@
     "cod": "ADM0330",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0528"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0346",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0537"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0354",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0541"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0360",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0545"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0345",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0536"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0353",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0540"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0359",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0544"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0347",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0538"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0355",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0542"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0361",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0546"
+    ],
     "pre_requirements": []
   },
   {
@@ -1181,7 +1142,9 @@
     "cod": "ADM0338",
     "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O E COMUNICA\u00c7\u00c3O NO SETOR P\u00daBLICO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0532"
+    ],
     "pre_requirements": []
   },
   {
@@ -1197,21 +1160,27 @@
     "cod": "ADM0326",
     "nome": "TEORIAS DA ADMINISTRA\u00c7\u00c3O 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0524"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0331",
     "nome": "TEORIAS DA ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0529"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ADM0315",
     "nome": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM ADMINISTRA\u00c7\u00c3O 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ADM0400"
+    ],
     "pre_requirements": []
   },
   {

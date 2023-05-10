@@ -3,112 +3,144 @@
     "cod": "FEA0019",
     "nome": "ADMINISTRA\u00c7\u00c3O FINANCEIRA E OR\u00c7AMENT\u00c1RIA",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0076"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0002",
     "nome": "ADMINISTRA\u00c7\u00c3O - INTRODU\u00c7\u00c3O E TEORIAS",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0059"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0014",
     "nome": "ADMINISTRA\u00c7\u00c3O P\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0071"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0003",
     "nome": "CI\u00caNCIA POL\u00cdTICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0060"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0010",
     "nome": "CONTABILIDADE (GERAL E GERENCIAL)",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0067"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0009",
     "nome": "DIREITO ADMINISTRATIVO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0066"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0026",
     "nome": "DIREITO TRIBUT\u00c1RIO E COMERCIAL",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0083"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0011",
     "nome": "ECONOMIA (INTRODU\u00c7\u00c3O)",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0068"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0018",
     "nome": "ECONOMIA MICRO E MACRO",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0075"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0001",
     "nome": "EDUCA\u00c7\u00c3O A DIST\u00c2NCIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0058"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0033",
     "nome": "ELABORA\u00c7\u00c3O E ADMINISTRA\u00c7\u00c3O DE PROJETOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0090"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0031",
     "nome": "EMPREENDEDORISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0088"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0053",
     "nome": "EMPREENDEDORISMO GOVERNAMENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0110"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0038",
     "nome": "EST\u00c1GIO SUPERVISIONADO",
     "ch": 300,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0095"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0017",
     "nome": "ESTAT\u00cdSTICA APLICADA A ADMINISTRA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0074"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0043",
     "nome": "FILOSOFIA E \u00c9TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0100"
+    ],
     "pre_requirements": []
   },
   {
@@ -124,56 +156,72 @@
     "cod": "FEA0051",
     "nome": "GEST\u00c3O AMBIENTAL E SUSTENTABILILADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0108"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0022",
     "nome": "GEST\u00c3O DE PESSOAS",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0079"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0049",
     "nome": "GEST\u00c3O DE REDES DE COOPERA\u00c7\u00c3O NA ESFERA P\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0106"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0035",
     "nome": "INFORM\u00c1TICA B\u00c1SICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0092"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0045",
     "nome": "INFORM\u00c1TICA PARA ADMINISTRADORES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0102"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0042",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 ECONOMIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0099"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0023",
     "nome": "MARKETING",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0080"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0007",
     "nome": "MATEM\u00c1TICA",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0064"
+    ],
     "pre_requirements": []
   },
   {
@@ -189,210 +237,270 @@
     "cod": "FEA0040",
     "nome": "METODOLOGIA DE ESTUDO E DE PESQUISA EM ADMINISTRA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0097"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0036",
     "nome": "METODOLOGIA DE PESQUISA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0093"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0047",
     "nome": "NEGOCIA\u00c7\u00c3O E ARBITRAGEM",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0104"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0028",
     "nome": "OPERA\u00c7\u00d5ES E LOG\u00cdSTICA",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0085"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0005",
     "nome": "ORGANIZA\u00c7\u00c3O, SISTEMAS E M\u00c9TODOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0062"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0025",
     "nome": "PESQUISA OPERACIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0082"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0021",
     "nome": "PLANEJAMENTO - TEORIAS E MODELOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0078"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0050",
     "nome": "POL\u00cdTICAS P\u00daBLICAS E SOCIEDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0107"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0006",
     "nome": "PROCESSO DECIS\u00d3RIO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0063"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0041",
     "nome": "PSICOLOGIA ORGANIZACIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0098"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0046",
     "nome": "REDA\u00c7\u00c3O OFICIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0103"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0052",
     "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0109"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0039",
     "nome": "SEMIN\u00c1RIO INTEGRADOR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0096"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0004",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 1 - SOCIOLOGIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0061"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0008",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 2 - FILOSOFIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0065"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0012",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 3 : PSICOLOGIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0069"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0015",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 4: ANTROPOLOGIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0072"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0020",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 5: RESPONSABIL SOC CORPORATIVA E TERCEIRO SETOR",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0077"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0024",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 6 - GEST\u00c3O AMBIENTAL E SUSTENT\u00c1BILIDADE",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0081"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0027",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO - 7 - COM\u00c9RCIO EXTERIOR",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0084"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0030",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 8 - TECNOLOGIA E INOVA\u00c7\u00c3O",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0087"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0034",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO 9 - T\u00d3PICOS EMERGENTES",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0091"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0055",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O MUNICIPAL 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0112"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0054",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GEST\u00c3O P\u00daBLICA DA SA\u00daDE 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0111"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0056",
     "nome": "SEMIN\u00c1RIO TEM\u00c1TICO NA LFE GOVERNAMENTAL 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0113"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0013",
     "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0070"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0048",
     "nome": "TECNOLOGIA E INOVA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0105"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0032",
     "nome": "TEORIA DOS JOGOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0089"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0044",
     "nome": "TEORIAS DA ADMINISTRA\u00c7\u00c3O 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0101"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FEA0037",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FEA0094"
+    ],
     "pre_requirements": []
   }
 ]

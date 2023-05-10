@@ -4,7 +4,7 @@
     "nome": "CULTURA BRASILEIRA",
     "ch": 60,
     "post_requirements": [
-      "HIS0287"
+      ""
     ],
     "pre_requirements": []
   },
@@ -36,7 +36,7 @@
     "nome": "HIST\u00d3RIA ANTIGA 1",
     "ch": 60,
     "post_requirements": [
-      "HIS0268"
+      ""
     ],
     "pre_requirements": []
   },
@@ -45,8 +45,7 @@
     "nome": "HIST\u00d3RIA ANTIGA 2",
     "ch": 60,
     "post_requirements": [
-      "HIS0055",
-      "HIS0280"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -57,7 +56,7 @@
     "nome": "HIST\u00d3RIA CONTEMPOR\u00c2NEA 1",
     "ch": 60,
     "post_requirements": [
-      "HIS0284"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -68,7 +67,7 @@
     "nome": "HIST\u00d3RIA CONTEMPOR\u00c2NEA 2",
     "ch": 60,
     "post_requirements": [
-      "HIS0260"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -86,7 +85,7 @@
     "nome": "HIST\u00d3RIA DA \u00c1FRICA",
     "ch": 60,
     "post_requirements": [
-      "HIS0270"
+      ""
     ],
     "pre_requirements": []
   },
@@ -118,7 +117,7 @@
     "nome": "HIST\u00d3RIA DA AM\u00c9RICA 1",
     "ch": 60,
     "post_requirements": [
-      "HIS0283"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -129,7 +128,7 @@
     "nome": "HIST\u00d3RIA DA AM\u00c9RICA 2",
     "ch": 60,
     "post_requirements": [
-      "HIS0256"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -140,7 +139,7 @@
     "nome": "HIST\u00d3RIA DA AM\u00c9RICA 3",
     "ch": 60,
     "post_requirements": [
-      "HIS0286"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -167,7 +166,7 @@
     "nome": "HIST\u00d3RIA DO BRASIL 1",
     "ch": 60,
     "post_requirements": [
-      "HIS0257"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -178,43 +177,7 @@
     "nome": "HIST\u00d3RIA DO BRASIL 2",
     "ch": 60,
     "post_requirements": [
-      "DAN0001",
-      "DAN0002",
-      "DAN0003",
-      "DAN0004",
-      "DAN0006",
-      "DAN0007",
-      "DAN0008",
-      "DAN0009",
-      "DAN0010",
-      "DAN0011",
-      "DAN0012",
-      "DAN0013",
-      "DAN0014",
-      "DAN0015",
-      "DAN0016",
-      "DAN0017",
-      "DAN0018",
-      "DAN0019",
-      "DAN0036",
-      "DAN0043",
-      "DAN0046",
-      "DAN0047",
-      "DAN0049",
-      "DAN0050",
-      "DAN0052",
-      "DAN0053",
-      "DAN0054",
-      "DAN0055",
-      "DAN0056",
-      "DAN0058",
-      "DAN0060",
-      "DAN0061",
-      "DAN0062",
-      "DAN0063",
-      "DAN0077",
-      "DAN0078",
-      "HIS0258"
+      "DAN0001"
     ],
     "pre_requirements": [
       "HIS0084"
@@ -225,7 +188,7 @@
     "nome": "HIST\u00d3RIA DO BRASIL 3",
     "ch": 60,
     "post_requirements": [
-      "HIS0259"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -236,7 +199,7 @@
     "nome": "HIST\u00d3RIA DO BRASIL 4",
     "ch": 60,
     "post_requirements": [
-      "HIS0263"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -268,7 +231,7 @@
     "nome": "HIST\u00d3RIA MEDIEVAL 1",
     "ch": 60,
     "post_requirements": [
-      "HIS0255"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -279,7 +242,7 @@
     "nome": "HIST\u00d3RIA MEDIEVAL 2",
     "ch": 60,
     "post_requirements": [
-      "HIS0264"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -290,7 +253,7 @@
     "nome": "HIST\u00d3RIA MODERNA 1",
     "ch": 60,
     "post_requirements": [
-      "HIS0281"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -301,7 +264,7 @@
     "nome": "HIST\u00d3RIA MODERNA 2",
     "ch": 60,
     "post_requirements": [
-      "HIS0282"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -311,7 +274,9 @@
     "cod": "HIS0197",
     "nome": "HIST\u00d3RIA: NATUREZA E CULTURA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      ""
+    ],
     "pre_requirements": []
   },
   {
@@ -342,7 +307,7 @@
     "nome": "HIST\u00d3RIA SOCIAL E POL\u00cdTICA DO BRASIL",
     "ch": 60,
     "post_requirements": [
-      "HIS0285"
+      ""
     ],
     "pre_requirements": []
   },
@@ -351,7 +316,7 @@
     "nome": "HIST\u00d3RIA SOCIAL E POL\u00cdTICA GERAL",
     "ch": 60,
     "post_requirements": [
-      "HIS0261"
+      ""
     ],
     "pre_requirements": []
   },
@@ -360,7 +325,7 @@
     "nome": "HISTORIOGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "HIS0291"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -370,7 +335,9 @@
     "cod": "HIS0084",
     "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DA HIST\u00d3RIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      ""
+    ],
     "pre_requirements": []
   },
   {
@@ -419,11 +386,7 @@
     "nome": "METODOLOGIA DA HIST\u00d3RIA",
     "ch": 60,
     "post_requirements": [
-      "HIS0003",
-      "HIS0033",
-      "HIS0214",
-      "HIS0262",
-      "HIS0217"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"
@@ -433,7 +396,9 @@
     "cod": "HIS0028",
     "nome": "PR\u00c1TICA DE PESQUISA HIST\u00d3RICA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      ""
+    ],
     "pre_requirements": []
   },
   {
@@ -441,7 +406,7 @@
     "nome": "TEORIA DA HIST\u00d3RIA",
     "ch": 60,
     "post_requirements": [
-      "HIS0269"
+      ""
     ],
     "pre_requirements": [
       "HIS0084"

@@ -37,7 +37,9 @@
     "cod": "CDS0003",
     "nome": "COMIDA, CULTURA E SISTEMAS DE PRODU\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CDS0034"
+    ],
     "pre_requirements": []
   },
   {
@@ -62,7 +64,9 @@
     "cod": "CDS0005",
     "nome": "EPISTEMOLOGIA, TECNOLOGIA E SUSTENTABILIDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CDS0036"
+    ],
     "pre_requirements": []
   },
   {
@@ -76,7 +80,9 @@
     "cod": "CDS0009",
     "nome": "FUNDAMENTOS DO DESENVOLVIMENTO SUSTENT\u00c1VEL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CDS0040"
+    ],
     "pre_requirements": []
   },
   {
@@ -121,7 +127,9 @@
     "cod": "CDS0007",
     "nome": "INTRODU\u00c7\u00c3O AO DESENVOLVIMENTO SUSTENT\u00c1VEL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CDS0004"
+    ],
     "pre_requirements": []
   },
   {
@@ -129,14 +137,7 @@
     "nome": "MEIO AMBIENTE, CULTURA E SOCIEDADE",
     "ch": 60,
     "post_requirements": [
-      "CDS0002",
-      "CDS0006",
-      "CDS0011",
-      "CDS0013",
-      "CDS0014",
-      "CDS0020",
-      "CDS0021",
-      "CDS0026"
+      "CDS0002"
     ],
     "pre_requirements": [
       "CDS0007"
@@ -147,8 +148,7 @@
     "nome": "PLANEJAMENTO E AVALIA\u00c7\u00c3O SOCIOAMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "CDS0006",
-      "CDS0023"
+      "CDS0006"
     ],
     "pre_requirements": [
       "CDS0010"
@@ -216,8 +216,7 @@
     "nome": "TEORIAS DO DESENVOLVIMENTO",
     "ch": 60,
     "post_requirements": [
-      "CDS0006",
-      "CDS0028"
+      "CDS0006"
     ],
     "pre_requirements": [
       "CDS0008"
@@ -228,16 +227,7 @@
     "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 1",
     "ch": 30,
     "post_requirements": [
-      "CDS0001",
-      "IGD0159",
-      "ZOO0048",
-      "CDS0012",
-      "CDS0015",
-      "ECO0266",
-      "ECO0270",
-      "ECO0276",
-      "CDS0019",
-      "CDS0027"
+      "CDS0001"
     ],
     "pre_requirements": [
       "ECO0261 & CDS0007"

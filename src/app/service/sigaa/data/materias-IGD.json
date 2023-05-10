@@ -38,9 +38,7 @@
     "nome": "CARTOGRAFIA E GEOD\u00c9SIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0143",
-      "IGD0264",
-      "IGD0602"
+      "IGD0143"
     ],
     "pre_requirements": [
       "IGD0021"
@@ -74,12 +72,7 @@
     "nome": "CRISTALOGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0026",
-      "IGD0103",
-      "IGD0144",
-      "IGD0194",
-      "IGD0274",
-      "IGD0630"
+      "IGD0026"
     ],
     "pre_requirements": [
       "IQD0058",
@@ -117,8 +110,7 @@
     "nome": "DESENHO GEOL\u00d3GICO",
     "ch": 60,
     "post_requirements": [
-      "IGD0045",
-      "IGD0708"
+      "IGD0045"
     ],
     "pre_requirements": [
       "IGD0021"
@@ -129,8 +121,7 @@
     "nome": "DESENHO TECNICO GEOLOGICO",
     "ch": 90,
     "post_requirements": [
-      "IGD0203",
-      "IGD0638"
+      "IGD0203"
     ],
     "pre_requirements": [
       "IGD0198",
@@ -153,9 +144,7 @@
     "nome": "DESENHO TECNICO GEOLOGICO TEORICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0203",
-      "IGD0265",
-      "IGD0610"
+      "IGD0203"
     ],
     "pre_requirements": [
       "IGD0198",
@@ -198,8 +187,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM GEOCI\u00caNCIAS",
     "ch": 90,
     "post_requirements": [
-      "IGD0166",
-      "IGD0637"
+      "IGD0166"
     ],
     "pre_requirements": []
   },
@@ -208,8 +196,7 @@
     "nome": "ESTRATIGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0057",
-      "IGD0633"
+      "IGD0057"
     ],
     "pre_requirements": [
       "IGD0203 & IGD0049",
@@ -221,14 +208,18 @@
     "cod": "IGD0001",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0666"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0002",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0667"
+    ],
     "pre_requirements": []
   },
   {
@@ -249,10 +240,7 @@
     "nome": "FOTOGEOLOGIA E SENSOR REMOTO",
     "ch": 90,
     "post_requirements": [
-      "IGD0133",
-      "IGD0159",
-      "IGD0175",
-      "IGD0588"
+      "IGD0133"
     ],
     "pre_requirements": [
       "IGD0143 & GEA0038"
@@ -263,10 +251,7 @@
     "nome": "FUNDAMENTOS DA HIST\u00d3RIA DA TERRA",
     "ch": 60,
     "post_requirements": [
-      "IGD0174",
-      "FUP0256",
-      "IGD0247",
-      "IGD0640"
+      "IGD0174"
     ],
     "pre_requirements": []
   },
@@ -283,7 +268,9 @@
     "cod": "IGD0207",
     "nome": "FUNDAMENTOS DE SENSORIAMENTO REMOTO E INTERPRETA\u00c7\u00c3O DE IMAGENS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0605"
+    ],
     "pre_requirements": []
   },
   {
@@ -371,10 +358,7 @@
     "nome": "GEOF\u00cdSICA GERAL",
     "ch": 90,
     "post_requirements": [
-      "IGD0163",
-      "IGD0164",
-      "IGD0184",
-      "IGD0713"
+      "IGD0163"
     ],
     "pre_requirements": [
       "IFD0177 & IGD0110 & IGD0138",
@@ -435,10 +419,7 @@
     "nome": "GEOLOGIA B\u00c1SICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0174",
-      "CDS0004",
-      "ENC0240",
-      "IGD0643"
+      "IGD0174"
     ],
     "pre_requirements": []
   },
@@ -457,7 +438,9 @@
     "cod": "IGD0585",
     "nome": "GEOLOGIA DE ENGENHARIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0615"
+    ],
     "pre_requirements": []
   },
   {
@@ -500,8 +483,7 @@
     "nome": "GEOLOGIA DO BRASIL TEORICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0267",
-      "IGD0839"
+      "IGD0267"
     ],
     "pre_requirements": [
       "IGD0085  &  IGD0033  &  IGD0150  &  ICB0192"
@@ -524,15 +506,7 @@
     "nome": "GEOLOGIA ECON\u00d4MICA",
     "ch": 135,
     "post_requirements": [
-      "IGD0077",
-      "IGD0079",
-      "IGD0090",
-      "IGD0116",
-      "IGD0130",
-      "IGD0151",
-      "IGD0155",
-      "IGD0180",
-      "IGD0632"
+      "IGD0077"
     ],
     "pre_requirements": [
       "IGD0276 & IGD0268 & IGD0162",
@@ -566,8 +540,7 @@
     "nome": "GEOLOGIA ESTRUTURAL",
     "ch": 150,
     "post_requirements": [
-      "IGD0059",
-      "IGD0694"
+      "IGD0059"
     ],
     "pre_requirements": [
       "IGD0081"
@@ -578,8 +551,7 @@
     "nome": "GEOLOGIA ESTRUTURAL 1",
     "ch": 60,
     "post_requirements": [
-      "IGD0059",
-      "IGD0594"
+      "IGD0059"
     ],
     "pre_requirements": [
       "IGD0143 & GEA0038",
@@ -615,8 +587,7 @@
     "nome": "GEOLOGIA ESTRUTURAL 2 TEORICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0269",
-      "IGD0611"
+      "IGD0269"
     ],
     "pre_requirements": [
       "IGD0147  &  IGD0036",
@@ -628,26 +599,7 @@
     "nome": "GEOLOGIA GERAL",
     "ch": 90,
     "post_requirements": [
-      "FUP0010",
-      "IGD0028",
-      "IGD0049",
-      "IGD0081",
-      "IGD0100",
-      "IGD0174",
-      "IGD0185",
-      "IGD0198",
-      "IGD0206",
-      "GEA0038",
-      "ENC0240",
-      "FUP0219",
-      "FUP0249",
-      "FUP0256",
-      "FUP0261",
-      "FUP0350",
-      "IGD0247",
-      "IGD0253",
-      "IGD0260",
-      "IGD0587"
+      "FUP0010"
     ],
     "pre_requirements": []
   },
@@ -656,8 +608,7 @@
     "nome": "GEOLOGIA HIST\u00d3RICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0176",
-      "IGD0636"
+      "IGD0176"
     ],
     "pre_requirements": [
       "IGD0033 & IGD0150 & IGD0162",
@@ -671,8 +622,7 @@
     "nome": "GEOLOGIA SEDIMENTAR",
     "ch": 60,
     "post_requirements": [
-      "IGD0208",
-      "IGD0604"
+      "IGD0208"
     ],
     "pre_requirements": [
       "IGD0021 & ECL0030",
@@ -706,8 +656,7 @@
     "nome": "GEOQU\u00cdMICA",
     "ch": 120,
     "post_requirements": [
-      "IGD0156",
-      "IGD0691"
+      "IGD0156"
     ],
     "pre_requirements": [
       "IQD0063"
@@ -740,9 +689,7 @@
     "nome": "GEOQU\u00cdMICA GERAL",
     "ch": 60,
     "post_requirements": [
-      "IGD0156",
-      "IGD0189",
-      "IGD0597"
+      "IGD0156"
     ],
     "pre_requirements": [
       "IGD0142 & IGD0036",
@@ -754,10 +701,7 @@
     "nome": "HIDROGEOLOGIA",
     "ch": 90,
     "post_requirements": [
-      "IGD0118",
-      "IGD0199",
-      "IGD0257",
-      "IGD0634"
+      "IGD0118"
     ],
     "pre_requirements": [
       "IGD0147"
@@ -779,8 +723,7 @@
     "nome": "HIDROGEOLOGIA TEORICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0283",
-      "IGD0855"
+      "IGD0283"
     ],
     "pre_requirements": [
       "IGD0147"
@@ -847,7 +790,9 @@
     "cod": "IGD0192",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 F\u00cdSICA DA TERRA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0645"
+    ],
     "pre_requirements": []
   },
   {
@@ -855,12 +800,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FOTOGEOLOGIA E AO SENSORIAMENTO REMOTO",
     "ch": 75,
     "post_requirements": [
-      "IGD0159",
-      "IGD0608",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IGD0224"
+      "IGD0159"
     ],
     "pre_requirements": [
       "IGD0021 & IGD0183 & IGD0192",
@@ -907,11 +847,7 @@
     "nome": "INTRODU\u00c7\u00c3O A GEOLOGIA ESTRUTURAL",
     "ch": 75,
     "post_requirements": [
-      "IGD0607",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IGD0226"
+      "IGD0607"
     ],
     "pre_requirements": [
       "IGD0021 & IGD0183 & IGD0192",
@@ -946,8 +882,7 @@
     "nome": "INTRODU\u00c7\u00c3O A MINERALOGIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0210",
-      "IGD0772"
+      "IGD0210"
     ],
     "pre_requirements": [
       "IGD0021"
@@ -1003,8 +938,7 @@
     "nome": "INTRODU\u00c7\u00c3O AO SISTEMA DE INFORMA\u00c7\u00d5ES GEOGR\u00c1FICAS",
     "ch": 60,
     "post_requirements": [
-      "IGD0226",
-      "IGD0596"
+      "IGD0226"
     ],
     "pre_requirements": [
       "IGD0021 & MAT0022 & ECL0033",
@@ -1078,7 +1012,9 @@
     "cod": "IGD0168",
     "nome": "INTRODU\u00c7\u00c3O \u00c0S CI\u00caNCIAS DA TERRA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0641"
+    ],
     "pre_requirements": []
   },
   {
@@ -1109,9 +1045,7 @@
     "nome": "MAPEAMENTO GEOL\u00d3GICO 1",
     "ch": 75,
     "post_requirements": [
-      "IGD0054",
-      "IGD0282",
-      "IGD0617"
+      "IGD0054"
     ],
     "pre_requirements": [
       "IGD0047 & IGD0148 & IGD0051 & IGD0278",
@@ -1135,11 +1069,7 @@
     "nome": "MAPEAMENTO GEOL\u00d3GICO FINAL",
     "ch": 150,
     "post_requirements": [
-      "IGD0704",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IGD0073"
+      "IGD0704"
     ],
     "pre_requirements": [
       "IGD0088 & IGD0041 & IGD0114"
@@ -1183,9 +1113,7 @@
     "nome": "M\u00c9TODOS EL\u00c9TRICOS",
     "ch": 75,
     "post_requirements": [
-      "IGD0235",
-      "IGD0242",
-      "IGD0800"
+      "IGD0235"
     ],
     "pre_requirements": [
       "MAT0059 & IGD0213 & IGD0214 & IGD0192",
@@ -1208,8 +1136,7 @@
     "nome": "M\u00c9TODOS EL\u00c9TRICOS - TE\u00d3RICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0287",
-      "IGD0859"
+      "IGD0287"
     ],
     "pre_requirements": [
       "MAT0059  &  IGD0213  &  IGD0214",
@@ -1221,8 +1148,7 @@
     "nome": "M\u00c9TODOS ELETROMAGN\u00c9TICOS",
     "ch": 90,
     "post_requirements": [
-      "IGD0006",
-      "IGD0657"
+      "IGD0006"
     ],
     "pre_requirements": [
       "MAT0059 & IGD0213 & IGD0214 & IGD0192",
@@ -1245,8 +1171,7 @@
     "nome": "M\u00c9TODOS ELETROMAGN\u00c9TICOS TE\u00d3RICO",
     "ch": 75,
     "post_requirements": [
-      "IGD0292",
-      "IGD0863"
+      "IGD0292"
     ],
     "pre_requirements": [
       "MAT0059 & IGD0213 & IGD0214 & IGD0192",
@@ -1338,9 +1263,7 @@
     "nome": "M\u00c9TODOS S\u00cdSMICOS E EL\u00c9TRICOS",
     "ch": 60,
     "post_requirements": [
-      "IGD0005",
-      "IGD0184",
-      "IGD0647"
+      "IGD0005"
     ],
     "pre_requirements": [
       "IGD0138 & IGD0182",
@@ -1421,11 +1344,7 @@
     "nome": "MINERALOGIA",
     "ch": 120,
     "post_requirements": [
-      "IGD0030",
-      "IGD0158",
-      "IGD0195",
-      "IGD0270",
-      "IGD0646"
+      "IGD0030"
     ],
     "pre_requirements": [
       "IGD0024"
@@ -1436,8 +1355,7 @@
     "nome": "MINERALOGIA 1",
     "ch": 90,
     "post_requirements": [
-      "IGD0145",
-      "IGD0736"
+      "IGD0145"
     ],
     "pre_requirements": [
       "IGD0024"
@@ -1448,8 +1366,7 @@
     "nome": "MINERALOGIA 1",
     "ch": 120,
     "post_requirements": [
-      "IGD0106",
-      "IGD0686"
+      "IGD0106"
     ],
     "pre_requirements": [
       "IGD0024"
@@ -1471,9 +1388,7 @@
     "nome": "MINERALOGIA 2",
     "ch": 90,
     "post_requirements": [
-      "IGD0030",
-      "IGD0128",
-      "IGD0737"
+      "IGD0030"
     ],
     "pre_requirements": [
       "IGD0144"
@@ -1495,8 +1410,7 @@
     "nome": "MINERALOGIA DE N\u00c3O SILICATOS",
     "ch": 60,
     "post_requirements": [
-      "IGD0128",
-      "IGD0780"
+      "IGD0128"
     ],
     "pre_requirements": [
       "IGD0194",
@@ -1519,8 +1433,7 @@
     "nome": "MINERALOGIA DE N\u00c3O SILICATOS TEORICA",
     "ch": 45,
     "post_requirements": [
-      "IGD0271",
-      "IGD0612"
+      "IGD0271"
     ],
     "pre_requirements": [
       "IGD0194"
@@ -1542,8 +1455,7 @@
     "nome": "MINERALOGIA TEORICA",
     "ch": 45,
     "post_requirements": [
-      "IGD0275",
-      "IGD0847"
+      "IGD0275"
     ],
     "pre_requirements": [
       "IGD0024"
@@ -1565,8 +1477,7 @@
     "nome": "PALEOBIOLOGIA",
     "ch": 90,
     "post_requirements": [
-      "IGD0246",
-      "IGD0763"
+      "IGD0246"
     ],
     "pre_requirements": [
       "IGD0167",
@@ -1592,10 +1503,7 @@
     "nome": "PALEONTOLOGIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0098",
-      "IGD0132",
-      "IGD0246",
-      "IGD0589"
+      "IGD0098"
     ],
     "pre_requirements": [
       "IGD0021"
@@ -1606,8 +1514,7 @@
     "nome": "PEDOLOGIA",
     "ch": 90,
     "post_requirements": [
-      "FAV0022",
-      "IGD0616"
+      "FAV0022"
     ],
     "pre_requirements": [
       "IGD0021"
@@ -1629,8 +1536,7 @@
     "nome": "PETROLOGIA \u00cdGNEA",
     "ch": 135,
     "post_requirements": [
-      "IGD0003",
-      "IGD0631"
+      "IGD0003"
     ],
     "pre_requirements": [
       "IGD0194 & IQD0296",
@@ -1642,9 +1548,7 @@
     "nome": "PETROLOGIA \u00cdGNEA E METAM\u00d3RFICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0003",
-      "IGD0085",
-      "IGD0656"
+      "IGD0003"
     ],
     "pre_requirements": [
       "IGD0185 & IGD0210",
@@ -1679,8 +1583,7 @@
     "nome": "PETROLOGIA METAM\u00d3RFICA",
     "ch": 135,
     "post_requirements": [
-      "IGD0009",
-      "IGD0689"
+      "IGD0009"
     ],
     "pre_requirements": [
       "IGD0147 & IGD0036",
@@ -1762,8 +1665,7 @@
     "nome": "PREPARACAO DO MAPEAMENTO GEOLOGICO FINAL",
     "ch": 30,
     "post_requirements": [
-      "IGD0073",
-      "IGD0721"
+      "IGD0073"
     ],
     "pre_requirements": [
       "IGD0191 & IGD0041",
@@ -1786,7 +1688,9 @@
     "cod": "IGD0251",
     "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0252"
+    ],
     "pre_requirements": []
   },
   {
@@ -1794,8 +1698,7 @@
     "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 2",
     "ch": 60,
     "post_requirements": [
-      "IGD0187",
-      "IGD0659"
+      "IGD0187"
     ],
     "pre_requirements": [
       "IGD0251"
@@ -1817,8 +1720,7 @@
     "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA 2 - TE\u00d3RICA",
     "ch": 45,
     "post_requirements": [
-      "IGD0285",
-      "IGD0857"
+      "IGD0285"
     ],
     "pre_requirements": [
       "IGD0251"
@@ -1828,7 +1730,9 @@
     "cod": "IGD0193",
     "nome": "PRINC\u00cdPIOS DE GEOF\u00cdSICA DE EXPLORA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0778"
+    ],
     "pre_requirements": []
   },
   {
@@ -1895,9 +1799,7 @@
     "nome": "PROSPECCAO",
     "ch": 90,
     "post_requirements": [
-      "IGD0063",
-      "IGD0065",
-      "IGD0701"
+      "IGD0063"
     ],
     "pre_requirements": []
   },
@@ -1941,8 +1843,7 @@
     "nome": "PROSPEC\u00c7\u00c3O GERAL TEORICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0281",
-      "IGD0853"
+      "IGD0281"
     ],
     "pre_requirements": [
       "IGD0093  &  IGD0162",
@@ -2002,9 +1903,7 @@
     "nome": "RECURSOS H\u00cdDRICOS PARA CI\u00caNCIAS AMBIENTAIS",
     "ch": 90,
     "post_requirements": [
-      "IGD0257",
-      "GEA0095",
-      "IGD0586"
+      "IGD0257"
     ],
     "pre_requirements": [
       "IGD0021 & IQD0257",
@@ -2016,9 +1915,7 @@
     "nome": "RECURSOS H\u00cdDRICOS SUBTERR\u00c2NEOS",
     "ch": 30,
     "post_requirements": [
-      "IGD0257",
-      "GEA0095",
-      "IGD0828"
+      "IGD0257"
     ],
     "pre_requirements": [
       "IGD0021 & GEA0011",
@@ -2030,9 +1927,7 @@
     "nome": "RECURSOS H\u00cdDRICOS SUPERFICIAIS",
     "ch": 60,
     "post_requirements": [
-      "IGD0257",
-      "GEA0095",
-      "IGD0827"
+      "IGD0257"
     ],
     "pre_requirements": [
       "IQD0282 & CDS0010"
@@ -2056,11 +1951,7 @@
     "nome": "RELATORIO DO MAPEAMENTO GEOLOGIC0 FINAL",
     "ch": 60,
     "post_requirements": [
-      "IGD0705",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IGD0069"
+      "IGD0705"
     ],
     "pre_requirements": [
       "IGD0114"
@@ -2096,7 +1987,9 @@
     "cod": "IGD0211",
     "nome": "SEDIMENTOLOGIA 1 - PRODUTOS E PROCESSOS SEDIMENTARES",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0208"
+    ],
     "pre_requirements": []
   },
   {
@@ -2115,9 +2008,7 @@
     "nome": "SEDIMENTOLOGIA E ESTRATIGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0057",
-      "IGD0208",
-      "IGD0794"
+      "IGD0057"
     ],
     "pre_requirements": [
       "IGD0185"
@@ -2140,9 +2031,7 @@
     "nome": "SISMICA DE REFRA\u00c7\u00c3O",
     "ch": 75,
     "post_requirements": [
-      "IGD0005",
-      "IGD0007",
-      "IGD0801"
+      "IGD0005"
     ],
     "pre_requirements": [
       "MAT0059 & IGD0213 & IGD0214 & IGD0192",
@@ -2167,9 +2056,7 @@
     "nome": "SISMOLOGIA B\u00c1SICA",
     "ch": 60,
     "post_requirements": [
-      "IGD0005",
-      "IGD0007",
-      "IGD0771"
+      "IGD0005"
     ],
     "pre_requirements": [
       "IGD0093",
@@ -2213,56 +2100,72 @@
     "cod": "IGD0014",
     "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 4",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0679"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0015",
     "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 5",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0680"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0016",
     "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 6",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0681"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0017",
     "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 7",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0682"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0018",
     "nome": "T\u00d3PICOA ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 8",
     "ch": 120,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0683"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0011",
     "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0676"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0012",
     "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0677"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IGD0013",
     "nome": "T\u00d3PICOS ESPECIAIS EM CI\u00caNCIAS AMBIENTAIS 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IGD0678"
+    ],
     "pre_requirements": []
   },
   {
@@ -2270,11 +2173,7 @@
     "nome": "TOPOGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "IGD0143",
-      "ENC0244",
-      "FAV0277",
-      "IGD0264",
-      "IGD0600"
+      "IGD0143"
     ],
     "pre_requirements": []
   },
@@ -2283,11 +2182,7 @@
     "nome": "TOPOGRAFIA FOTOGRAMETRIA",
     "ch": 90,
     "post_requirements": [
-      "EFL0100",
-      "ENC0244",
-      "FAV0277",
-      "FAV0312",
-      "IGD0693"
+      "EFL0100"
     ],
     "pre_requirements": []
   },
@@ -2329,8 +2224,7 @@
     "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 2",
     "ch": 60,
     "post_requirements": [
-      "CDS0018",
-      "IGD0609"
+      "CDS0018"
     ],
     "pre_requirements": [
       "CDS0010 & EST0019"

@@ -1390,5 +1390,130 @@
       "FAR0172",
       "FAR0128"
     ]
+  },
+  {
+    "cod": "FCS0054",
+    "nome": "ESTAGIO EM IMUNOLOGIA MOLECULAR",
+    "ch": 90,
+    "post_requirements": [
+      "FCS0080"
+    ],
+    "pre_requirements": []
+  }
+][
+  {
+    "cod": "FCS0022",
+    "nome": "EST\u00c1GIO EM CONTROLE DE QUALIDADE DE IMUNOBIOL\u00d3GICOS",
+    "ch": 450,
+    "post_requirements": [
+      "FCS0089"
+    ],
+    "pre_requirements": [
+      "FAR0132 & FAR0133 & CEL0050 & FAR0139 & FAR0145 & EST0027",
+      "FAR0004 & FAR0169 & CEL0050 & FAR0009 & EST0027"
+    ]
+  },
+  {
+    "cod": "FCS0021",
+    "nome": "EST\u00c1GIO EM FARM\u00c1CIA CL\u00cdNICA",
+    "ch": 450,
+    "post_requirements": [
+      "FCS0088"
+    ],
+    "pre_requirements": [
+      "FAR0128",
+      "FAR0177"
+    ]
+  },
+  {
+    "cod": "FCS0013",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+    "ch": 15,
+    "post_requirements": [
+      "FCS0084"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FCS0014",
+    "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+    "ch": 15,
+    "post_requirements": [
+      "FCS0085"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FCS0076",
+    "nome": "FARMACODEPEND\u00caNCIA EXPERIMENTAL",
+    "ch": 90,
+    "post_requirements": [
+      "FCS0091"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FCS0020",
+    "nome": "INTRODU\u00c7\u00c3O A AN\u00c1LISES ESPECTROM\u00c9TRICAS DE COMPOSTOS ORG\u00c2NICOS",
+    "ch": 60,
+    "post_requirements": [
+      "FCS0087"
+    ],
+    "pre_requirements": [
+      "IQD0051"
+    ]
+  },
+  {
+    "cod": "FCS0003",
+    "nome": "PATOLOGIA MOLECULAR CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FCS0082"
+    ],
+    "pre_requirements": [
+      "FCE0307"
+    ]
+  },
+  {
+    "cod": "FCS0017",
+    "nome": "SA\u00daDE P\u00daBLICA",
+    "ch": 60,
+    "post_requirements": [
+      "FCS0086"
+    ],
+    "pre_requirements": []
+  },
+  {
+    "cod": "FCS0004",
+    "nome": "T\u00c9CNICAS INTRUMENTAIS DE AN\u00c1LISE",
+    "ch": 30,
+    "post_requirements": [
+      "FCS0083"
+    ],
+    "pre_requirements": [
+      "FAR0167"
+    ]
+  },
+  {
+    "cod": "FCS0079",
+    "nome": "T\u00d3PICOS EM PATOLOGIA MOLECULAR CL\u00cdNICA",
+    "ch": 60,
+    "post_requirements": [
+      "FCS0092"
+    ],
+    "pre_requirements": [
+      "CFS0041",
+      "CFS0037 & FAR0124",
+      "FAR0142"
+    ]
+  },
+  {
+    "cod": "FCS0002",
+    "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO - TCC",
+    "ch": 0,
+    "post_requirements": [
+      "FCS0081"
+    ],
+    "pre_requirements": []
   }
 ]

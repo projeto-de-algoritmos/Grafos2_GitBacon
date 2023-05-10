@@ -39,10 +39,7 @@
     "nome": "CONFORTO TERMICO AMBIENTAL",
     "ch": 60,
     "post_requirements": [
-      "FAU0177",
-      "TEC0028",
-      "TEC0029",
-      "TEC0047"
+      "FAU0177"
     ],
     "pre_requirements": [
       "TEC0016"
@@ -53,8 +50,7 @@
     "nome": "CONFORTO T\u00c9RMICO AMBIENTAL 1",
     "ch": 30,
     "post_requirements": [
-      "PRO0064",
-      "TEC0064"
+      "PR"
     ],
     "pre_requirements": [
       "TEC0016"
@@ -90,8 +86,7 @@
     "post_requirements": [
       "TEC0023",
       "TEC0024",
-      "ENM0097",
-      "TEC0075"
+      "ENM0097"
     ],
     "pre_requirements": [
       "FAU0147"
@@ -101,7 +96,9 @@
     "cod": "TEC0036",
     "nome": "ESTRUTURAS ARQUITET\u00d4NICAS E O AMBIENTE CONSTRU\u00cdDO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEC0096"
+    ],
     "pre_requirements": []
   },
   {
@@ -121,9 +118,7 @@
     "nome": "ESTUDOS AMBIENTAIS-BIOCLIMATISMO",
     "ch": 30,
     "post_requirements": [
-      "TEC0017",
-      "TEC0042",
-      "TEC0046"
+      "TEC0017"
     ],
     "pre_requirements": [
       "TAU0002",
@@ -170,8 +165,7 @@
     "nome": "INFRA-ESTRUTURA URBANA",
     "ch": 30,
     "post_requirements": [
-      "TEC0032",
-      "TEC0053"
+      "TEC0032"
     ],
     "pre_requirements": []
   },
@@ -180,8 +174,7 @@
     "nome": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS 1",
     "ch": 30,
     "post_requirements": [
-      "TEC0003",
-      "TEC0057"
+      "TEC0003"
     ],
     "pre_requirements": [
       "PRO0011"
@@ -192,8 +185,7 @@
     "nome": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS 1",
     "ch": 60,
     "post_requirements": [
-      "PRO0051",
-      "TEC0045"
+      "PR"
     ],
     "pre_requirements": [
       "PRO0011"
@@ -215,11 +207,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 TECNOLOGIA EM ARQUITETURA E URBANISMO",
     "ch": 60,
     "post_requirements": [
-      "TEC0004",
-      "TEC0030",
-      "TEC0038",
-      "ENC0271",
-      "TEC0052"
+      "TEC0004"
     ],
     "pre_requirements": []
   },
@@ -282,9 +270,7 @@
     "nome": "SISTEMAS CONSTRUTIVOS 1",
     "ch": 60,
     "post_requirements": [
-      "TEC0030",
-      "TEC0038",
-      "TEC0076"
+      "TEC0030"
     ],
     "pre_requirements": []
   },
@@ -305,9 +291,7 @@
     "nome": "SISTEMAS ESTRUTURAIS 1",
     "ch": 60,
     "post_requirements": [
-      "PRO0020",
-      "TEC0039",
-      "TEC0062"
+      "PR"
     ],
     "pre_requirements": [
       "TEC0026",
@@ -319,8 +303,7 @@
     "nome": "SISTEMAS ESTRUTURAIS 2",
     "ch": 60,
     "post_requirements": [
-      "TEC0041",
-      "TEC0063"
+      "TEC0041"
     ],
     "pre_requirements": [
       "TEC0038"
@@ -332,8 +315,7 @@
     "ch": 60,
     "post_requirements": [
       "TEC0023",
-      "ENM0097",
-      "TEC0050"
+      "ENM0097"
     ],
     "pre_requirements": [
       "TEC0019",
@@ -345,9 +327,7 @@
     "nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO",
     "ch": 120,
     "post_requirements": [
-      "TEC0022",
-      "ENC0055",
-      "TEC0049"
+      "TEC0022"
     ],
     "pre_requirements": [
       "TEC0018",
@@ -359,8 +339,7 @@
     "nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO 1",
     "ch": 60,
     "post_requirements": [
-      "TEC0001",
-      "TEC0055"
+      "TEC0001"
     ],
     "pre_requirements": [
       "TEC0039",
@@ -372,8 +351,7 @@
     "nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO 2",
     "ch": 60,
     "post_requirements": [
-      "TEC0022",
-      "TEC0056"
+      "TEC0022"
     ],
     "pre_requirements": [
       "TEC0041"
@@ -384,9 +362,7 @@
     "nome": "SISTEMAS ESTRUTURAIS EM MADEIRA",
     "ch": 60,
     "post_requirements": [
-      "EFL0006",
-      "TEC0024",
-      "TEC0051"
+      "EFL0006"
     ],
     "pre_requirements": [
       "TEC0022",
@@ -398,12 +374,7 @@
     "nome": "SISTEMAS ESTRUTURAIS NA ARQUITETURA",
     "ch": 120,
     "post_requirements": [
-      "PRO0020",
-      "TEC0019",
-      "ENC0229",
-      "ENC0230",
-      "TEC0041",
-      "TEC0048"
+      "PR"
     ],
     "pre_requirements": [
       "PRO0011"
@@ -427,8 +398,7 @@
     "nome": "T\u00c9CNICAS DE CONSTRU\u00c7\u00c3O 1",
     "ch": 30,
     "post_requirements": [
-      "TEC0044",
-      "TEC0065"
+      "TEC0044"
     ],
     "pre_requirements": []
   },

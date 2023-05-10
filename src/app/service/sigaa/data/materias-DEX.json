@@ -136,14 +136,18 @@
     "cod": "DEX1108",
     "nome": "CONSTRU\u00c7\u00c3O DE PROJETOS SOCIAIS MULTIDISCIPLINARES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DEX1106"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DEX1104",
     "nome": "CRIATIVIDADE E INTUI\u00c7\u00c3O NA PRODU\u00c7\u00c3O DO CONHECIMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DEX1116"
+    ],
     "pre_requirements": []
   },
   {
@@ -171,7 +175,9 @@
     "cod": "DEX1102",
     "nome": "PENSAMENTO NEGRO CONTEMPOR\u00c2NEO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DEX1115"
+    ],
     "pre_requirements": []
   },
   {

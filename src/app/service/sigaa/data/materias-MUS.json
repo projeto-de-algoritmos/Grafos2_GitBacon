@@ -47,7 +47,9 @@
     "cod": "MUS0714",
     "nome": "APRECIACAO MUSICAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0991"
+    ],
     "pre_requirements": []
   },
   {
@@ -65,14 +67,18 @@
     "cod": "MUS0832",
     "nome": "ARRANJO E CRIA\u00c7\u00c3O PARA O ENSINO E APRENDIZAGEM DA M\u00daSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1502"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0842",
     "nome": "ARTE E CULTURA POPULAR",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1512"
+    ],
     "pre_requirements": []
   },
   {
@@ -80,9 +86,7 @@
     "nome": "CANTO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0220",
-      "MUS0223",
-      "MUS0925"
+      "MUS0220"
     ],
     "pre_requirements": []
   },
@@ -102,9 +106,7 @@
     "nome": "CANTO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0226",
-      "MUS0229",
-      "MUS0926"
+      "MUS0226"
     ],
     "pre_requirements": [
       "MUS0218"
@@ -126,9 +128,7 @@
     "nome": "CANTO 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0231",
-      "MUS0233",
-      "MUS1189"
+      "MUS0231"
     ],
     "pre_requirements": [
       "MUS0223"
@@ -150,10 +150,7 @@
     "nome": "CANTO 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0235",
-      "MUS0492",
-      "MUS1032",
-      "MUS1191"
+      "MUS0235"
     ],
     "pre_requirements": [
       "MUS0229"
@@ -175,8 +172,7 @@
     "nome": "CANTO CORAL 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0142",
-      "MUS1149"
+      "MUS0142"
     ],
     "pre_requirements": []
   },
@@ -185,8 +181,7 @@
     "nome": "CANTO CORAL 2",
     "ch": 60,
     "post_requirements": [
-      "MUS0145",
-      "MUS1150"
+      "MUS0145"
     ],
     "pre_requirements": [
       "MUS0139"
@@ -197,8 +192,7 @@
     "nome": "CANTO CORAL 3",
     "ch": 60,
     "post_requirements": [
-      "MUS0776",
-      "MUS1151"
+      "MUS0776"
     ],
     "pre_requirements": [
       "MUS0142"
@@ -209,8 +203,7 @@
     "nome": "CANTO CORAL 4",
     "ch": 60,
     "post_requirements": [
-      "MUS0777",
-      "MUS1447"
+      "MUS0777"
     ],
     "pre_requirements": [
       "MUS0145"
@@ -221,8 +214,7 @@
     "nome": "CANTO CORAL 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0778",
-      "MUS1448"
+      "MUS0778"
     ],
     "pre_requirements": [
       "MUS0776"
@@ -315,9 +307,7 @@
     "ch": 60,
     "post_requirements": [
       "MUS0367",
-      "MUS0682",
-      "MUS1033",
-      "MUS1247"
+      "MUS0682"
     ],
     "pre_requirements": [
       "MUS0360"
@@ -339,9 +329,7 @@
     "nome": "COMPOSICAO MUSICAL 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0161",
-      "MUS0164",
-      "MUS0917"
+      "MUS0161"
     ],
     "pre_requirements": []
   },
@@ -361,9 +349,7 @@
     "nome": "COMPOSICAO MUSICAL 3",
     "ch": 60,
     "post_requirements": [
-      "MUS0166",
-      "MUS0169",
-      "MUS0919"
+      "MUS0166"
     ],
     "pre_requirements": [
       "MUS0158"
@@ -385,9 +371,7 @@
     "nome": "COMPOSICAO MUSICAL 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0172",
-      "MUS0175",
-      "MUS0921"
+      "MUS0172"
     ],
     "pre_requirements": [
       "MUS0164"
@@ -409,10 +393,7 @@
     "nome": "COMPOSICAO MUSICAL 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0178",
-      "MUS0664",
-      "MUS0923",
-      "MUS1034"
+      "MUS0178"
     ],
     "pre_requirements": [
       "MUS0169"
@@ -434,9 +415,7 @@
     "nome": "CONTRABAIXO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0547",
-      "MUS0549",
-      "MUS0964"
+      "MUS0547"
     ],
     "pre_requirements": []
   },
@@ -456,9 +435,7 @@
     "nome": "CONTRABAIXO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0551",
-      "MUS0553",
-      "MUS1321"
+      "MUS0551"
     ],
     "pre_requirements": [
       "MUS0545"
@@ -480,9 +457,7 @@
     "nome": "CONTRABAIXO 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0555",
-      "MUS0557",
-      "MUS1323"
+      "MUS0555"
     ],
     "pre_requirements": [
       "MUS0549"
@@ -504,10 +479,7 @@
     "nome": "CONTRABAIXO 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0559",
-      "MUS0672",
-      "MUS1035",
-      "MUS1325"
+      "MUS0559"
     ],
     "pre_requirements": [
       "MUS0553"
@@ -529,8 +501,7 @@
     "nome": "CONTRAPONTO E FUGA 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0108",
-      "MUS0907"
+      "MUS0108"
     ],
     "pre_requirements": [
       "MUS0093 & MUS0096 & MUS0250"
@@ -541,8 +512,7 @@
     "nome": "CONTRAPONTO E FUGA 2",
     "ch": 60,
     "post_requirements": [
-      "MUS0662",
-      "MUS0908"
+      "MUS0662"
     ],
     "pre_requirements": [
       "MUS0106"
@@ -563,14 +533,18 @@
     "cod": "MUS0808",
     "nome": "EDUCA\u00c7\u00c3O AUDITIVA MUSICAL 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0882"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0809",
     "nome": "EDUCA\u00c7\u00c3O AUDITIVA MUSICAL 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1479"
+    ],
     "pre_requirements": []
   },
   {
@@ -680,9 +654,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM M\u00daSICA 1",
     "ch": 120,
     "post_requirements": [
-      "MUS0737",
-      "MUS0738",
-      "MUS0931"
+      "MUS0737"
     ],
     "pre_requirements": [
       "MUS0788"
@@ -693,13 +665,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM M\u00daSICA 2",
     "ch": 120,
     "post_requirements": [
-      "VIS0135",
-      "CEN0034",
-      "VIS0136",
-      "VIS0226",
-      "MUS0787",
-      "MUS0995",
-      "VIS0364"
+      "VIS0135"
     ],
     "pre_requirements": [
       "MUS0262"
@@ -841,7 +807,9 @@
     "cod": "MUS0741",
     "nome": "ESTRUTURACAO MUSICAL 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1416"
+    ],
     "pre_requirements": []
   },
   {
@@ -849,8 +817,7 @@
     "nome": "EVOLU\u00c7\u00c3O DA M\u00daSICA 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0246",
-      "MUS1198"
+      "MUS0246"
     ],
     "pre_requirements": []
   },
@@ -870,9 +837,7 @@
     "nome": "FAGOTE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0422",
-      "MUS0424",
-      "MUS1271"
+      "MUS0422"
     ],
     "pre_requirements": []
   },
@@ -892,9 +857,7 @@
     "nome": "FAGOTE 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0426",
-      "MUS0429",
-      "MUS1273"
+      "MUS0426"
     ],
     "pre_requirements": [
       "MUS0420"
@@ -916,9 +879,7 @@
     "nome": "FAGOTE 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0432",
-      "MUS0435",
-      "MUS1275"
+      "MUS0432"
     ],
     "pre_requirements": [
       "MUS0424"
@@ -940,10 +901,7 @@
     "nome": "FAGOTE 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0438",
-      "MUS0688",
-      "MUS1036",
-      "MUS1277"
+      "MUS0438"
     ],
     "pre_requirements": [
       "MUS0429"
@@ -1045,9 +1003,7 @@
     "ch": 60,
     "post_requirements": [
       "MUS0463",
-      "MUS0690",
-      "MUS1037",
-      "MUS1287"
+      "MUS0690"
     ],
     "pre_requirements": [
       "MUS0455"
@@ -1068,7 +1024,9 @@
     "cod": "MUS0849",
     "nome": "FUNDAMENTOS DA ARTE MUSICAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1516"
+    ],
     "pre_requirements": []
   },
   {
@@ -1086,28 +1044,36 @@
     "cod": "MUS0745",
     "nome": "FUNDAMENTOS DA T\u00c9CNICA VOCAL/INSTRUMENTAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "nem ex"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0746",
     "nome": "FUNDAMENTOS DA T\u00c9CNICAVOCAL/INSTRUMENTAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "nem ex"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0747",
     "nome": "FUNDAMENTOS DA T\u00c9CNICA VOCAL/INSTRUMENTAL 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "nem ex"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0748",
     "nome": "FUNDAMENTOS DA T\u00c9CNICA VOCAL/INSTRUMENTAL 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "nem ex"
+    ],
     "pre_requirements": []
   },
   {
@@ -1125,14 +1091,18 @@
     "cod": "MUS0024",
     "nome": "HARMONIA E IMPROVISA\u00c7\u00c3O NA M\u00daSICA POPULAR 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1072"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0025",
     "nome": "HARMONIA E IMPROVISA\u00c7\u00c3O NA M\u00daSICA POPULAR 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1073"
+    ],
     "pre_requirements": []
   },
   {
@@ -1140,9 +1110,7 @@
     "nome": "HARMONIA NA M\u00daSICA POPULAR 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0018",
-      "MUS0019",
-      "MUS0895"
+      "MUS0018"
     ],
     "pre_requirements": [
       "MUS0099"
@@ -1164,10 +1132,7 @@
     "nome": "HARMONIA SUPERIOR 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0104",
-      "MUS0110",
-      "MUS0722",
-      "MUS0905"
+      "MUS0104"
     ],
     "pre_requirements": [
       "MUS0093 & MUS0096 & MUS0250"
@@ -1178,8 +1143,7 @@
     "nome": "HARMONIA SUPERIOR 2",
     "ch": 60,
     "post_requirements": [
-      "MUS0643",
-      "MUS0906"
+      "MUS0643"
     ],
     "pre_requirements": [
       "MUS0102"
@@ -1210,9 +1174,7 @@
     "nome": "HIST\u00d3RIA DA M\u00daSICA 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0020",
-      "MUS0804",
-      "MUS0858"
+      "MUS0020"
     ],
     "pre_requirements": []
   },
@@ -1260,14 +1222,18 @@
     "cod": "MUS0021",
     "nome": "HIST\u00d3RIA DA M\u00daSICA POPULAR DO BRASIL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1069"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0022",
     "nome": "HIST\u00d3RIA DA M\u00daSICA POPULAR DO BRASIL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1070"
+    ],
     "pre_requirements": []
   },
   {
@@ -1316,63 +1282,81 @@
     "cod": "MUS0828",
     "nome": "INSTRUMENTO PRINCIPAL 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1030"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0831",
     "nome": "INSTRUMENTO PRINCIPAL 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0887"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0833",
     "nome": "INSTRUMENTO PRINCIPAL 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1503"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0835",
     "nome": "INSTRUMENTO PRINCIPAL 4",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1505"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0058",
     "nome": "INSTRUMENTO PRINCIPAL CANTO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0899"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0059",
     "nome": "INSTRUMENTO PRINCIPAL CANTO 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0900"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0060",
     "nome": "INSTRUMENTO PRINCIPAL CANTO 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0901"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0061",
     "nome": "INSTRUMENTO PRINCIPAL CANTO 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1103"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0733",
     "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0773"
+    ],
     "pre_requirements": []
   },
   {
@@ -1380,8 +1364,7 @@
     "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0783",
-      "MUS1444"
+      "MUS0783"
     ],
     "pre_requirements": [
       "MUS0733"
@@ -1392,8 +1375,7 @@
     "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0802",
-      "MUS1454"
+      "MUS0802"
     ],
     "pre_requirements": [
       "MUS0773"
@@ -1414,56 +1396,72 @@
     "cod": "MUS0822",
     "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 5",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1492"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0823",
     "nome": "INSTRUMENTO PRINCIPAL CANTO POPULAR 6",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1493"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0042",
     "nome": "INSTRUMENTO PRINCIPAL CLARINETA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1084"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0043",
     "nome": "INSTRUMENTO PRINCIPAL CLARINETA 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1085"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0044",
     "nome": "INSTRUMENTO PRINCIPAL CLARINETA 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1086"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0045",
     "nome": "INSTRUMENTO PRINCIPAL CLARINETA 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1087"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0036",
     "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1078"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0037",
     "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1079"
+    ],
     "pre_requirements": []
   },
   {
@@ -1471,8 +1469,7 @@
     "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0799",
-      "MUS1468"
+      "MUS0799"
     ],
     "pre_requirements": [
       "MUS0790"
@@ -1494,8 +1491,7 @@
     "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0790",
-      "MUS1005"
+      "MUS0790"
     ],
     "pre_requirements": []
   },
@@ -1504,9 +1500,7 @@
     "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0005",
-      "MUS0798",
-      "MUS1014"
+      "MUS0005"
     ],
     "pre_requirements": [
       "MUS0768"
@@ -1517,8 +1511,7 @@
     "nome": "INSTRUMENTO PRINCIPAL CONTRABAIXO EL\u00c9TRICO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0007",
-      "MUS0891"
+      "MUS0007"
     ],
     "pre_requirements": [
       "MUS0790"
@@ -1539,63 +1532,81 @@
     "cod": "MUS0046",
     "nome": "INSTRUMENTO PRINCIPAL FAGOTE 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1088"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0047",
     "nome": "INSTRUMENTO PRINCIPAL FAGOTE 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1089"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0048",
     "nome": "INSTRUMENTO PRINCIPAL FAGOTE 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1090"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0049",
     "nome": "INSTRUMENTO PRINCIPAL FAGOTE 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1091"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0038",
     "nome": "INSTRUMENTO PRINCIPAL FLAUTA 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1080"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0039",
     "nome": "INSTRUMENTO PRINCIPAL FLAUTA 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1081"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0040",
     "nome": "INSTRUMENTO PRINCIPAL FLAUTA 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1082"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0041",
     "nome": "INSTRUMENTO PRINCIPAL FLAUTA 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1083"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0769",
     "nome": "INSTRUMENTO PRINCIPAL GUITARRA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0791"
+    ],
     "pre_requirements": []
   },
   {
@@ -1603,8 +1614,7 @@
     "nome": "INSTRUMENTO PRINCIPAL GUITARRA 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0792",
-      "MUS1015"
+      "MUS0792"
     ],
     "pre_requirements": [
       "MUS0769"
@@ -1615,8 +1625,7 @@
     "nome": "INSTRUMENTO PRINCIPAL GUITARRA 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0793",
-      "MUS1016"
+      "MUS0793"
     ],
     "pre_requirements": [
       "MUS0791"
@@ -1627,8 +1636,7 @@
     "nome": "INSTRUMENTO PRINCIPAL GUITARRA 4",
     "ch": 30,
     "post_requirements": [
-      "MUS0081",
-      "MUS1017"
+      "MUS0081"
     ],
     "pre_requirements": [
       "MUS0792"
@@ -1639,8 +1647,7 @@
     "nome": "INSTRUMENTO PRINCIPAL GUITARRA 5",
     "ch": 30,
     "post_requirements": [
-      "MUS0083",
-      "MUS0902"
+      "MUS0083"
     ],
     "pre_requirements": [
       "MUS0793"
@@ -1661,7 +1668,9 @@
     "cod": "MUS0008",
     "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0009"
+    ],
     "pre_requirements": []
   },
   {
@@ -1669,8 +1678,7 @@
     "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0010",
-      "MUS1057"
+      "MUS0010"
     ],
     "pre_requirements": [
       "MUS0008"
@@ -1681,8 +1689,7 @@
     "nome": "INSTRUMENTO PRINCIPAL OBO\u00c9 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0011",
-      "MUS1058"
+      "MUS0011"
     ],
     "pre_requirements": [
       "MUS0009"
@@ -1721,7 +1728,9 @@
     "cod": "MUS0775",
     "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0785"
+    ],
     "pre_requirements": []
   },
   {
@@ -1729,8 +1738,7 @@
     "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0800",
-      "MUS1456"
+      "MUS0800"
     ],
     "pre_requirements": [
       "MUS0775"
@@ -1751,21 +1759,27 @@
     "cod": "MUS0818",
     "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 5",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1488"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0819",
     "nome": "INSTRUMENTO PRINCIPAL PERCUSS\u00c3O 6",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1489"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0062",
     "nome": "INSTRUMENTO PRINCIPAL PIANO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0063"
+    ],
     "pre_requirements": []
   },
   {
@@ -1773,8 +1787,7 @@
     "nome": "INSTRUMENTO PRINCIPAL PIANO 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0064",
-      "MUS1105"
+      "MUS0064"
     ],
     "pre_requirements": [
       "MUS0062"
@@ -1785,8 +1798,7 @@
     "nome": "INSTRUMENTO PRINCIPAL PIANO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0065",
-      "MUS1106"
+      "MUS0065"
     ],
     "pre_requirements": [
       "MUS0063"
@@ -1808,8 +1820,7 @@
     "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0030",
-      "MUS0897"
+      "MUS0030"
     ],
     "pre_requirements": []
   },
@@ -1832,8 +1843,7 @@
     "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0033",
-      "MUS1075"
+      "MUS0033"
     ],
     "pre_requirements": [
       "MUS0027"
@@ -1851,8 +1861,7 @@
     "nome": "INSTRUMENTO PRINCIPAL PIANO POPULAR 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0035",
-      "MUS1076"
+      "MUS0035"
     ],
     "pre_requirements": [
       "MUS0030"
@@ -1880,35 +1889,45 @@
     "cod": "MUS0074",
     "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1116"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0075",
     "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1117"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0076",
     "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1118"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0077",
     "nome": "INSTRUMENTO PRINCIPAL SAXOFONE 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1119"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0794",
     "nome": "INSTRUMENTO PRINCIPAL TROMBONE 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0795"
+    ],
     "pre_requirements": []
   },
   {
@@ -1916,8 +1935,7 @@
     "nome": "INSTRUMENTO PRINCIPAL TROMBONE 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0796",
-      "MUS1465"
+      "MUS0796"
     ],
     "pre_requirements": [
       "MUS0794"
@@ -1928,8 +1946,7 @@
     "nome": "INSTRUMENTO PRINCIPAL TROMBONE 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0797",
-      "MUS1466"
+      "MUS0797"
     ],
     "pre_requirements": [
       "MUS0795"
@@ -1950,28 +1967,36 @@
     "cod": "MUS0050",
     "nome": "INSTRUMENTO PRINCIPAL TROMPA 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1092"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0051",
     "nome": "INSTRUMENTO PRINCIPAL TROMPA 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1093"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0052",
     "nome": "INSTRUMENTO PRINCIPAL TROMPA 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1094"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0053",
     "nome": "INSTRUMENTO PRINCIPAL TROMPA 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1095"
+    ],
     "pre_requirements": []
   },
   {
@@ -1987,63 +2012,81 @@
     "cod": "MUS0067",
     "nome": "INSTRUMENTO PRINCIPAL TROMPETE 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1109"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0068",
     "nome": "INSTRUMENTO PRINCIPAL TROMPETE 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1110"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0069",
     "nome": "INSTRUMENTO PRINCIPAL TROMPETE 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1111"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0054",
     "nome": "INSTRUMENTO PRINCIPAL VIOLA 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1096"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0055",
     "nome": "INSTRUMENTO PRINCIPAL VIOLA 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1097"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0056",
     "nome": "INSTRUMENTO PRINCIPAL VIOLA 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1098"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0057",
     "nome": "INSTRUMENTO PRINCIPAL VIOLA 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1099"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0766",
     "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1004"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0774",
     "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0784"
+    ],
     "pre_requirements": []
   },
   {
@@ -2051,8 +2094,7 @@
     "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0801",
-      "MUS1011"
+      "MUS0801"
     ],
     "pre_requirements": [
       "MUS0774"
@@ -2063,8 +2105,7 @@
     "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 4",
     "ch": 30,
     "post_requirements": [
-      "MUS0820",
-      "MUS1019"
+      "MUS0820"
     ],
     "pre_requirements": [
       "MUS0784"
@@ -2075,8 +2116,7 @@
     "nome": "INSTRUMENTO PRINCIPAL VIOL\u00c3O 5",
     "ch": 30,
     "post_requirements": [
-      "MUS0821",
-      "MUS1027"
+      "MUS0821"
     ],
     "pre_requirements": [
       "MUS0801"
@@ -2097,7 +2137,9 @@
     "cod": "MUS0012",
     "nome": "INSTRUMENTO PRINCIPAL VIOLINO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0013"
+    ],
     "pre_requirements": []
   },
   {
@@ -2105,8 +2147,7 @@
     "nome": "INSTRUMENTO PRINCIPAL VIOLINO 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0014",
-      "MUS1061"
+      "MUS0014"
     ],
     "pre_requirements": [
       "MUS0012"
@@ -2117,8 +2158,7 @@
     "nome": "INSTRUMENTO PRINCIPAL VIOLINO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0015",
-      "MUS1062"
+      "MUS0015"
     ],
     "pre_requirements": [
       "MUS0013"
@@ -2139,28 +2179,36 @@
     "cod": "MUS0070",
     "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 1",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1112"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0071",
     "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 2",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1113"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0072",
     "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 3",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1114"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0073",
     "nome": "INSTRUMENTO PRINCIPAL VIOLONCELO 4",
     "ch": 0,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1115"
+    ],
     "pre_requirements": []
   },
   {
@@ -2168,8 +2216,7 @@
     "nome": "INSTRUMENTO SUPLEMENTAR 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0151",
-      "MUS1184"
+      "MUS0151"
     ],
     "pre_requirements": []
   },
@@ -2186,28 +2233,36 @@
     "cod": "MUS0779",
     "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1010"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0803",
     "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1020"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0734",
     "nome": "INSTRUMENTO SUPLEMENTAR CANTO POPULAR 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1412"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0770",
     "nome": "INSTRUMENTO SUPLEMENTAR PERCUSS\u00c3O 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0786"
+    ],
     "pre_requirements": []
   },
   {
@@ -2225,14 +2280,18 @@
     "cod": "MUS0732",
     "nome": "INSTRUMENTO SUPLEMENTAR PERCUSS\u00c3O 3",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1410"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0765",
     "nome": "INSTRUMENTO SUPLEMENTAR VIOL\u00c3O 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0772"
+    ],
     "pre_requirements": []
   },
   {
@@ -2251,8 +2310,7 @@
     "nome": "INTRODUCAO A CLARINETA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0350",
-      "MUS1239"
+      "MUS0350"
     ],
     "pre_requirements": []
   },
@@ -2271,7 +2329,9 @@
     "cod": "MUS0715",
     "nome": "INTRODUCAO A ESTILOS E PRATICAS MUSICAIS DOS SECULOS XVII E XVIII",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1395"
+    ],
     "pre_requirements": []
   },
   {
@@ -2279,8 +2339,7 @@
     "nome": "INTRODUCAO A FLAUTA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0442",
-      "MUS1279"
+      "MUS0442"
     ],
     "pre_requirements": []
   },
@@ -2299,7 +2358,9 @@
     "cod": "MUS0716",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 FLAUTA DOCE 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0718"
+    ],
     "pre_requirements": []
   },
   {
@@ -2318,10 +2379,7 @@
     "nome": "INTRODUCAO A MUSICA 1",
     "ch": 90,
     "post_requirements": [
-      "MUS0096",
-      "MUS0122",
-      "MUS0250",
-      "MUS1128"
+      "MUS0096"
     ],
     "pre_requirements": []
   },
@@ -2330,9 +2388,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 M\u00daSICA 2",
     "ch": 90,
     "post_requirements": [
-      "MUS0112",
-      "MUS0184",
-      "MUS1129"
+      "MUS0112"
     ],
     "pre_requirements": [
       "MUS0093"
@@ -2343,8 +2399,7 @@
     "nome": "INTRODUCAO A MUSICOLOGIA",
     "ch": 30,
     "post_requirements": [
-      "MUS0207",
-      "MUS0866"
+      "MUS0207"
     ],
     "pre_requirements": []
   },
@@ -2353,8 +2408,7 @@
     "nome": "INTRODUCAO AO CANTO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0650",
-      "MUS1361"
+      "MUS0650"
     ],
     "pre_requirements": []
   },
@@ -2374,8 +2428,7 @@
     "nome": "INTRODUCAO AO CONTRABAIXO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0542",
-      "MUS0963"
+      "MUS0542"
     ],
     "pre_requirements": []
   },
@@ -2395,8 +2448,7 @@
     "nome": "INTRODUCAO AO FAGOTE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0416",
-      "MUS1269"
+      "MUS0416"
     ],
     "pre_requirements": []
   },
@@ -2416,8 +2468,7 @@
     "nome": "INTRODUCAO AO OBOE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0371",
-      "MUS0943"
+      "MUS0371"
     ],
     "pre_requirements": []
   },
@@ -2437,8 +2488,7 @@
     "nome": "INTRODUCAO AO PIANO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0471",
-      "MUS1289"
+      "MUS0471"
     ],
     "pre_requirements": []
   },
@@ -2457,7 +2507,9 @@
     "cod": "MUS0759",
     "nome": "INTRODU\u00c7\u00c3O AO PIANO POPULAR 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0760"
+    ],
     "pre_requirements": []
   },
   {
@@ -2476,8 +2528,7 @@
     "nome": "INTRODUCAO AO SAXOFONE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0564",
-      "MUS0965"
+      "MUS0564"
     ],
     "pre_requirements": []
   },
@@ -2496,7 +2547,9 @@
     "cod": "MUS0724",
     "nome": "INTRODU\u00c7\u00c3O AO TROMBONE 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0725"
+    ],
     "pre_requirements": []
   },
   {
@@ -2515,8 +2568,7 @@
     "nome": "INTRODUCAO AO TROMPETE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0519",
-      "MUS1307"
+      "MUS0519"
     ],
     "pre_requirements": []
   },
@@ -2554,8 +2606,7 @@
     "nome": "INTRODUCAO AO VIOLINO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0273",
-      "MUS0932"
+      "MUS0273"
     ],
     "pre_requirements": []
   },
@@ -2575,8 +2626,7 @@
     "nome": "INTRODUCAO AO VIOLONCELO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0326",
-      "MUS1229"
+      "MUS0326"
     ],
     "pre_requirements": []
   },
@@ -2595,7 +2645,9 @@
     "cod": "MUS0003",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 PESQUISA EM M\u00daSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0806"
+    ],
     "pre_requirements": []
   },
   {
@@ -2603,8 +2655,7 @@
     "nome": "INTRODUCAO A TROMPA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0394",
-      "MUS1259"
+      "MUS0394"
     ],
     "pre_requirements": []
   },
@@ -2624,8 +2675,7 @@
     "nome": "INTRODUCAO A VIOLA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0302",
-      "MUS0936"
+      "MUS0302"
     ],
     "pre_requirements": []
   },
@@ -2644,35 +2694,45 @@
     "cod": "MUS0087",
     "nome": "LABORAT\u00d3RIO DE M\u00daSICA E TECNOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0851"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0086",
     "nome": "LABORAT\u00d3RIO DE PERFORMANCE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0850"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0763",
     "nome": "LABORAT\u00d3RIO ORQUESTRAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0879"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0764",
     "nome": "LABORAT\u00d3RIO ORQUESTRAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1436"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0837",
     "nome": "LEITURA E PRODU\u00c7\u00c3O DE TEXTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1507"
+    ],
     "pre_requirements": []
   },
   {
@@ -2680,10 +2740,7 @@
     "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0098",
-      "MUS0204",
-      "MUS0213",
-      "MUS0852"
+      "MUS0098"
     ],
     "pre_requirements": []
   },
@@ -2692,8 +2749,7 @@
     "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 2",
     "ch": 60,
     "post_requirements": [
-      "MUS0099",
-      "MUS0853"
+      "MUS0099"
     ],
     "pre_requirements": [
       "MUS0097"
@@ -2704,11 +2760,7 @@
     "nome": "LINGUAGEM E ESTRUTURACAO MUSICAL 3",
     "ch": 60,
     "post_requirements": [
-      "MUS0016",
-      "MUS0017",
-      "MUS0100",
-      "CEN0200",
-      "MUS0854"
+      "MUS0016"
     ],
     "pre_requirements": [
       "MUS0098"
@@ -2769,14 +2821,18 @@
     "cod": "MUS0780",
     "nome": "LITERATURA CORAL 3: CLASSICISMO E ROMANTISMO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1451"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0781",
     "nome": "LITERATURA CORAL 4: ERA MODERNA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1452"
+    ],
     "pre_requirements": []
   },
   {
@@ -2792,7 +2848,9 @@
     "cod": "MUS0723",
     "nome": "M\u00c9TODOS DE EDUCA\u00c7\u00c3O MUSICAL 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1401"
+    ],
     "pre_requirements": []
   },
   {
@@ -2859,7 +2917,9 @@
     "cod": "MUS0023",
     "nome": "M\u00daSICA DE TRADI\u00c7\u00c3O ORAL PERFORM\u00c1TICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0896"
+    ],
     "pre_requirements": []
   },
   {
@@ -2876,8 +2936,7 @@
     "nome": "MUSICA ELETRONICA 1",
     "ch": 120,
     "post_requirements": [
-      "MUS0182",
-      "MUS1164"
+      "MUS0182"
     ],
     "pre_requirements": [
       "MUS0153"
@@ -2926,8 +2985,7 @@
     "nome": "MUSICOLOGIA 2",
     "ch": 90,
     "post_requirements": [
-      "MUS0208",
-      "MUS1176"
+      "MUS0208"
     ],
     "pre_requirements": [
       "MUS0206"
@@ -2938,8 +2996,7 @@
     "nome": "MUSICOLOGIA 3",
     "ch": 90,
     "post_requirements": [
-      "MUS0209",
-      "MUS1177"
+      "MUS0209"
     ],
     "pre_requirements": [
       "MUS0207"
@@ -2961,8 +3018,7 @@
     "nome": "MUSICOLOGIA 6",
     "ch": 90,
     "post_requirements": [
-      "MUS0211",
-      "MUS1179"
+      "MUS0211"
     ],
     "pre_requirements": []
   },
@@ -2971,8 +3027,7 @@
     "nome": "MUSICOLOGIA 7",
     "ch": 90,
     "post_requirements": [
-      "MUS0212",
-      "MUS1180"
+      "MUS0212"
     ],
     "pre_requirements": [
       "MUS0210"
@@ -2994,9 +3049,7 @@
     "nome": "OBOE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0375",
-      "MUS0377",
-      "MUS0944"
+      "MUS0375"
     ],
     "pre_requirements": []
   },
@@ -3016,9 +3069,7 @@
     "nome": "OBOE 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0379",
-      "MUS0382",
-      "MUS0946"
+      "MUS0379"
     ],
     "pre_requirements": [
       "MUS0373"
@@ -3040,9 +3091,7 @@
     "nome": "OBOE 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0385",
-      "MUS0387",
-      "MUS0948"
+      "MUS0385"
     ],
     "pre_requirements": [
       "MUS0377"
@@ -3064,10 +3113,7 @@
     "nome": "OBOE 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0390",
-      "MUS0684",
-      "MUS1038",
-      "MUS1257"
+      "MUS0390"
     ],
     "pre_requirements": [
       "MUS0382"
@@ -3089,9 +3135,7 @@
     "nome": "OFICINA B\u00c1SICA DE M\u00daSICA 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0091",
-      "JOR0083",
-      "MUS1126"
+      "MUS0091"
     ],
     "pre_requirements": []
   },
@@ -3110,28 +3154,36 @@
     "cod": "MUS0807",
     "nome": "OFICINA INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1023"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0812",
     "nome": "OFICINA INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1024"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0743",
     "nome": "\u00d3PERA - EST\u00daDIO 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1418"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0744",
     "nome": "\u00d3PERA - EST\u00daDIO 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0726"
+    ],
     "pre_requirements": []
   },
   {
@@ -3139,8 +3191,7 @@
     "nome": "\u00d3PERA - ESTUDIO 3",
     "ch": 60,
     "post_requirements": [
-      "MUS0727",
-      "MUS1404"
+      "MUS0727"
     ],
     "pre_requirements": [
       "MUS0744"
@@ -3151,8 +3202,7 @@
     "nome": "\u00d3PERA - ESTUDIO 4",
     "ch": 60,
     "post_requirements": [
-      "MUS0728",
-      "MUS1405"
+      "MUS0728"
     ],
     "pre_requirements": [
       "MUS0726"
@@ -3174,8 +3224,7 @@
     "nome": "PERCEPCAO MUSICAL 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0252",
-      "MUS1201"
+      "MUS0252"
     ],
     "pre_requirements": [
       "MUS0093"
@@ -3186,8 +3235,7 @@
     "nome": "PERCEPCAO MUSICAL 2",
     "ch": 60,
     "post_requirements": [
-      "MUS0668",
-      "MUS1202"
+      "MUS0668"
     ],
     "pre_requirements": [
       "MUS0250"
@@ -3209,10 +3257,7 @@
     "nome": "PIANO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0477",
-      "MUS0479",
-      "MUS0658",
-      "MUS1291"
+      "MUS0477"
     ],
     "pre_requirements": []
   },
@@ -3232,9 +3277,7 @@
     "nome": "PIANO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0481",
-      "MUS0484",
-      "MUS1293"
+      "MUS0481"
     ],
     "pre_requirements": [
       "MUS0475"
@@ -3256,9 +3299,7 @@
     "nome": "PIANO 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0486",
-      "MUS0488",
-      "MUS0874"
+      "MUS0486"
     ],
     "pre_requirements": [
       "MUS0479"
@@ -3280,10 +3321,7 @@
     "nome": "PIANO 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0490",
-      "MUS0692",
-      "MUS1049",
-      "MUS1297"
+      "MUS0490"
     ],
     "pre_requirements": [
       "MUS0484"
@@ -3305,8 +3343,7 @@
     "nome": "PIANO PARA CANTO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0631",
-      "MUS1353"
+      "MUS0631"
     ],
     "pre_requirements": [
       "MUS0151 & MUS0148"
@@ -3328,8 +3365,7 @@
     "nome": "PIANO SUPLEMENTAR 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0151",
-      "MUS0915"
+      "MUS0151"
     ],
     "pre_requirements": []
   },
@@ -3338,9 +3374,7 @@
     "nome": "PIANO SUPLEMENTAR 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0653",
-      "MUS0656",
-      "MUS0916"
+      "MUS0653"
     ],
     "pre_requirements": [
       "MUS0148",
@@ -3374,8 +3408,7 @@
     "nome": "PRATICA DE ACOMPANHAMENTO 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0660",
-      "MUS1365"
+      "MUS0660"
     ],
     "pre_requirements": [
       "MUS0475"
@@ -3450,14 +3483,18 @@
     "cod": "MUS0827",
     "nome": "PRATICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 2",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1029"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0843",
     "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM DA ARTE MUSICAL 3",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1513"
+    ],
     "pre_requirements": []
   },
   {
@@ -3465,9 +3502,7 @@
     "nome": "PR\u00c1TICA DE ENSINO E APRENDIZAGEM MUSICAL 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0751",
-      "MUS0758",
-      "MUS1000"
+      "MUS0751"
     ],
     "pre_requirements": []
   },
@@ -3498,9 +3533,7 @@
     "nome": "PRATICA DE ORQUESTRA 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0615",
-      "MUS0618",
-      "MUS0972"
+      "MUS0615"
     ],
     "pre_requirements": []
   },
@@ -3520,9 +3553,7 @@
     "nome": "PRATICA DE ORQUESTRA 3",
     "ch": 60,
     "post_requirements": [
-      "MUS0621",
-      "MUS0624",
-      "MUS0973"
+      "MUS0621"
     ],
     "pre_requirements": [
       "MUS0612"
@@ -3544,8 +3575,7 @@
     "nome": "PRATICA DE ORQUESTRA 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0627",
-      "MUS0975"
+      "MUS0627"
     ],
     "pre_requirements": [
       "MUS0618"
@@ -3566,14 +3596,18 @@
     "cod": "MUS0824",
     "nome": "PR\u00c1TICAS MUSICAIS COLETIVAS 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1494"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0825",
     "nome": "PR\u00c1TICAS MUSICAIS COLETIVAS 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1495"
+    ],
     "pre_requirements": []
   },
   {
@@ -3590,8 +3624,7 @@
     "nome": "PROJETO DE EST\u00c1GIO E PR\u00c1TICA DOCENTE",
     "ch": 60,
     "post_requirements": [
-      "MUS0262",
-      "MUS1013"
+      "MUS0262"
     ],
     "pre_requirements": [
       "MUS0753 & MUS0751 & MUS0758"
@@ -3610,7 +3643,9 @@
     "cod": "MUS0838",
     "nome": "PROJETO EM M\u00daSICA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1508"
+    ],
     "pre_requirements": []
   },
   {
@@ -3702,9 +3737,7 @@
     "ch": 60,
     "post_requirements": [
       "MUS0203",
-      "MUS0666",
-      "MUS1039",
-      "MUS1172"
+      "MUS0666"
     ],
     "pre_requirements": [
       "MUS0197"
@@ -3725,14 +3758,18 @@
     "cod": "MUS0771",
     "nome": "RITMOS BRASILEIROS 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1008"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0782",
     "nome": "RITMOS BRASILEIROS 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1453"
+    ],
     "pre_requirements": []
   },
   {
@@ -3740,9 +3777,7 @@
     "nome": "SAXOFONE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0570",
-      "MUS0572",
-      "MUS0966"
+      "MUS0570"
     ],
     "pre_requirements": []
   },
@@ -3762,9 +3797,7 @@
     "nome": "SAXOFONE 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0574",
-      "MUS0577",
-      "MUS1331"
+      "MUS0574"
     ],
     "pre_requirements": [
       "MUS0568"
@@ -3786,9 +3819,7 @@
     "nome": "SAXOFONE 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0580",
-      "MUS0583",
-      "MUS1333"
+      "MUS0580"
     ],
     "pre_requirements": [
       "MUS0572"
@@ -3810,10 +3841,7 @@
     "nome": "SAXOFONE 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0585",
-      "MUS0674",
-      "MUS0968",
-      "MUS1040"
+      "MUS0585"
     ],
     "pre_requirements": [
       "MUS0577"
@@ -3834,7 +3862,9 @@
     "cod": "MUS0750",
     "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0749"
+    ],
     "pre_requirements": []
   },
   {
@@ -3842,8 +3872,7 @@
     "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0813",
-      "MUS0997"
+      "MUS0813"
     ],
     "pre_requirements": [
       "MUS0750"
@@ -3854,8 +3883,7 @@
     "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0814",
-      "MUS1025"
+      "MUS0814"
     ],
     "pre_requirements": [
       "MUS0749"
@@ -3876,28 +3904,36 @@
     "cod": "MUS0815",
     "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 5",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0885"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0816",
     "nome": "SEMIN\u00c1RIO EM EDUCA\u00c7\u00c3O MUSICAL 6",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1486"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0810",
     "nome": "SEMIN\u00c1RIO INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0883"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0811",
     "nome": "SEMIN\u00c1RIO INTERDISCIPLINAR EM EDUCA\u00c7\u00c3O MUSICAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0884"
+    ],
     "pre_requirements": []
   },
   {
@@ -3914,9 +3950,7 @@
     "nome": "TECNICA DE EXPRESSAO VOCAL 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0241",
-      "MUS0242",
-      "MUS0868"
+      "MUS0241"
     ],
     "pre_requirements": []
   },
@@ -3957,21 +3991,27 @@
     "cod": "MUS0698",
     "nome": "TECNICAS DE EXCURCAO PARA INSTRUMENTOS DE METAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1385"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0719",
     "nome": "TECNOLOGIA MUSICAL B\u00c1SICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1398"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MUS0841",
     "nome": "TEORIA DA ARTE",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1511"
+    ],
     "pre_requirements": []
   },
   {
@@ -3979,9 +4019,7 @@
     "nome": "TEORIA E PR\u00c1TICA DE GRAVA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "MUS0155",
-      "MUS0180",
-      "MUS0862"
+      "MUS0155"
     ],
     "pre_requirements": []
   },
@@ -3989,7 +4027,9 @@
     "cod": "MUS0846",
     "nome": "TEORIA E PR\u00c1TICA DE GRAVA\u00c7\u00c3O 1",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS0888"
+    ],
     "pre_requirements": []
   },
   {
@@ -4008,8 +4048,7 @@
     "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0114",
-      "MUS0909"
+      "MUS0114"
     ],
     "pre_requirements": [
       "MUS0096"
@@ -4020,8 +4059,7 @@
     "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0116",
-      "MUS0910"
+      "MUS0116"
     ],
     "pre_requirements": [
       "MUS0112"
@@ -4032,8 +4070,7 @@
     "nome": "TEORIAS CONTEMPORANEAS DA MUSICA 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0118",
-      "MUS0911"
+      "MUS0118"
     ],
     "pre_requirements": [
       "MUS0114"
@@ -4054,7 +4091,9 @@
     "cod": "MUS0840",
     "nome": "TEORIAS DA EDUCA\u00c7\u00c3O MUSICAL",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1510"
+    ],
     "pre_requirements": []
   },
   {
@@ -4081,7 +4120,9 @@
     "cod": "MUS0079",
     "nome": "TRILHA SONORA PARA JOGOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MUS1120"
+    ],
     "pre_requirements": []
   },
   {
@@ -4089,8 +4130,7 @@
     "nome": "TROMBONE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0700",
-      "MUS1384"
+      "MUS0700"
     ],
     "pre_requirements": []
   },
@@ -4099,8 +4139,7 @@
     "nome": "TROMBONE 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0702",
-      "MUS1386"
+      "MUS0702"
     ],
     "pre_requirements": [
       "MUS0697"
@@ -4111,8 +4150,7 @@
     "nome": "TROMBONE 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0704",
-      "MUS1387"
+      "MUS0704"
     ],
     "pre_requirements": [
       "MUS0700"
@@ -4123,8 +4161,7 @@
     "nome": "TROMBONE 4",
     "ch": 30,
     "post_requirements": [
-      "MUS0706",
-      "MUS0990"
+      "MUS0706"
     ],
     "pre_requirements": [
       "MUS0702"
@@ -4135,8 +4172,7 @@
     "nome": "TROMBONE 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0708",
-      "MUS1389"
+      "MUS0708"
     ],
     "pre_requirements": [
       "MUS0704"
@@ -4147,8 +4183,7 @@
     "nome": "TROMBONE 6",
     "ch": 60,
     "post_requirements": [
-      "MUS0710",
-      "MUS1390"
+      "MUS0710"
     ],
     "pre_requirements": [
       "MUS0706"
@@ -4159,10 +4194,7 @@
     "nome": "TROMBONE 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0712",
-      "MUS0713",
-      "MUS1041",
-      "MUS1391"
+      "MUS0712"
     ],
     "pre_requirements": [
       "MUS0708"
@@ -4184,9 +4216,7 @@
     "nome": "TROMPA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0399",
-      "MUS0401",
-      "MUS1261"
+      "MUS0399"
     ],
     "pre_requirements": []
   },
@@ -4206,9 +4236,7 @@
     "nome": "TROMPA 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0403",
-      "MUS0406",
-      "MUS1263"
+      "MUS0403"
     ],
     "pre_requirements": [
       "MUS0397"
@@ -4230,9 +4258,7 @@
     "nome": "TROMPA 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0408",
-      "MUS0410",
-      "MUS1265"
+      "MUS0408"
     ],
     "pre_requirements": [
       "MUS0401"
@@ -4254,9 +4280,7 @@
     "nome": "TROMPA 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0412",
-      "MUS0686",
-      "MUS1267"
+      "MUS0412"
     ],
     "pre_requirements": [
       "MUS0406"
@@ -4278,9 +4302,7 @@
     "nome": "TROMPETE 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0523",
-      "MUS0525",
-      "MUS0960"
+      "MUS0523"
     ],
     "pre_requirements": []
   },
@@ -4300,9 +4322,7 @@
     "nome": "TROMPETE 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0527",
-      "MUS0529",
-      "MUS1311"
+      "MUS0527"
     ],
     "pre_requirements": [
       "MUS0521"
@@ -4324,9 +4344,7 @@
     "nome": "TROMPETE 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0531",
-      "MUS0533",
-      "MUS1313"
+      "MUS0531"
     ],
     "pre_requirements": [
       "MUS0525"
@@ -4348,10 +4366,7 @@
     "nome": "TROMPETE 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0536",
-      "MUS0670",
-      "MUS0962",
-      "MUS1042"
+      "MUS0536"
     ],
     "pre_requirements": [
       "MUS0529"
@@ -4373,9 +4388,7 @@
     "nome": "VIOLA 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0308",
-      "MUS0310",
-      "MUS1221"
+      "MUS0308"
     ],
     "pre_requirements": []
   },
@@ -4395,9 +4408,7 @@
     "nome": "VIOLA 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0312",
-      "MUS0315",
-      "MUS0937"
+      "MUS0312"
     ],
     "pre_requirements": [
       "MUS0306"
@@ -4419,9 +4430,7 @@
     "nome": "VIOLA 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0317",
-      "MUS0319",
-      "MUS1225"
+      "MUS0317"
     ],
     "pre_requirements": [
       "MUS0310"
@@ -4443,10 +4452,7 @@
     "nome": "VIOLA 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0321",
-      "MUS0678",
-      "MUS0939",
-      "MUS1043"
+      "MUS0321"
     ],
     "pre_requirements": [
       "MUS0315"
@@ -4468,9 +4474,7 @@
     "nome": "VIOLAO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0594",
-      "MUS0596",
-      "MUS1339"
+      "MUS0594"
     ],
     "pre_requirements": []
   },
@@ -4479,8 +4483,7 @@
     "nome": "VIOLAO 2",
     "ch": 30,
     "post_requirements": [
-      "MUS0598",
-      "MUS0969"
+      "MUS0598"
     ],
     "pre_requirements": [
       "MUS0592"
@@ -4491,8 +4494,7 @@
     "nome": "VIOLAO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0601",
-      "MUS0970"
+      "MUS0601"
     ],
     "pre_requirements": [
       "MUS0592"
@@ -4503,8 +4505,7 @@
     "nome": "VIOLAO 4",
     "ch": 30,
     "post_requirements": [
-      "MUS0603",
-      "MUS1342"
+      "MUS0603"
     ],
     "pre_requirements": [
       "MUS0594"
@@ -4515,8 +4516,7 @@
     "nome": "VIOLAO 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0606",
-      "MUS1343"
+      "MUS0606"
     ],
     "pre_requirements": [
       "MUS0596"
@@ -4538,10 +4538,7 @@
     "nome": "VIOLAO 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0609",
-      "MUS0694",
-      "MUS0971",
-      "MUS1044"
+      "MUS0609"
     ],
     "pre_requirements": [
       "MUS0601"
@@ -4563,9 +4560,7 @@
     "nome": "VIOLINO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0279",
-      "MUS0281",
-      "MUS0934"
+      "MUS0279"
     ],
     "pre_requirements": []
   },
@@ -4585,9 +4580,7 @@
     "nome": "VIOLINO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0283",
-      "MUS0286",
-      "MUS1213"
+      "MUS0283"
     ],
     "pre_requirements": [
       "MUS0277"
@@ -4609,9 +4602,7 @@
     "nome": "VIOLINO 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0288",
-      "MUS0291",
-      "MUS1215"
+      "MUS0288"
     ],
     "pre_requirements": [
       "MUS0281"
@@ -4633,10 +4624,7 @@
     "nome": "VIOLINO 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0294",
-      "MUS0676",
-      "MUS1050",
-      "MUS1217"
+      "MUS0294"
     ],
     "pre_requirements": [
       "MUS0286"
@@ -4658,9 +4646,7 @@
     "nome": "VIOLONCELO 1",
     "ch": 30,
     "post_requirements": [
-      "MUS0330",
-      "MUS0332",
-      "MUS0940"
+      "MUS0330"
     ],
     "pre_requirements": []
   },
@@ -4680,9 +4666,7 @@
     "nome": "VIOLONCELO 3",
     "ch": 30,
     "post_requirements": [
-      "MUS0334",
-      "MUS0337",
-      "MUS1233"
+      "MUS0334"
     ],
     "pre_requirements": [
       "MUS0328"
@@ -4704,9 +4688,7 @@
     "nome": "VIOLONCELO 5",
     "ch": 60,
     "post_requirements": [
-      "MUS0340",
-      "MUS0343",
-      "MUS0941"
+      "MUS0340"
     ],
     "pre_requirements": [
       "MUS0332"
@@ -4728,10 +4710,7 @@
     "nome": "VIOLONCELO 7",
     "ch": 60,
     "post_requirements": [
-      "MUS0346",
-      "MUS0680",
-      "MUS1045",
-      "MUS1237"
+      "MUS0346"
     ],
     "pre_requirements": [
       "MUS0337"

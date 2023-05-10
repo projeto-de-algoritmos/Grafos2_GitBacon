@@ -4,8 +4,7 @@
     "nome": "AN\u00c1LISE DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
     "ch": 60,
     "post_requirements": [
-      "IRI0164",
-      "IRI1115"
+      "IRI0164"
     ],
     "pre_requirements": [
       "IRI0018 & IRI0052"
@@ -26,7 +25,9 @@
     "cod": "IRI0167",
     "nome": "A POL\u00cdTICA EXTERIOR DO BRASIL NA PRIMEIRA REP\u00daBLICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1213"
+    ],
     "pre_requirements": []
   },
   {
@@ -44,14 +45,18 @@
     "cod": "IRI0165",
     "nome": "A POL\u00cdTICA EXTERIOR DO BRASIL SOB O NACIONAL-DESENVOLVIMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1211"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0005",
     "nome": "BRASIL: POL\u00cdTICA, ECONOMIA E RELA\u00c7\u00d5ES EXTERIORES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1136"
+    ],
     "pre_requirements": []
   },
   {
@@ -69,7 +74,9 @@
     "cod": "IRI0174",
     "nome": "CINEMA, LITERATURA E POL\u00cdTICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1220"
+    ],
     "pre_requirements": []
   },
   {
@@ -120,7 +127,9 @@
     "cod": "IRI1101",
     "nome": "DESIGUALDADES, CAPITALISMO HIST\u00d3RICO E ALTERNATIVAS AO DESENVOLVIMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1130"
+    ],
     "pre_requirements": []
   },
   {
@@ -271,9 +280,7 @@
     "nome": "ECONOMIA POL\u00cdTICA INTERNACIONAL 1",
     "ch": 60,
     "post_requirements": [
-      "IRI0169",
-      "IRI0172",
-      "IRI1125"
+      "IRI0169"
     ],
     "pre_requirements": [
       "ECO0019 & IRI0015"
@@ -284,9 +291,7 @@
     "nome": "ECONOMIA POL\u00cdTICA INTERNACIONAL 2",
     "ch": 60,
     "post_requirements": [
-      "IRI0053",
-      "IRI0066",
-      "IRI1126"
+      "IRI0053"
     ],
     "pre_requirements": [
       "IRI0168"
@@ -308,8 +313,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO EM RELA\u00c7\u00d5ES INTERNACIONAIS 1",
     "ch": 60,
     "post_requirements": [
-      "IRI0152",
-      "IRI1121"
+      "IRI0152"
     ],
     "pre_requirements": [
       "IRI0052"
@@ -330,14 +334,18 @@
     "cod": "IRI0175",
     "nome": "ESTUDOS DE \u00c1REA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1221"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0176",
     "nome": "ESTUDOS DE \u00c1REA 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1222"
+    ],
     "pre_requirements": []
   },
   {
@@ -355,7 +363,9 @@
     "cod": "IRI0004",
     "nome": "G\u00caNERO E RELA\u00c7\u00d5ES INTERNACIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1135"
+    ],
     "pre_requirements": []
   },
   {
@@ -384,14 +394,18 @@
     "cod": "IRI0092",
     "nome": "GLOBALIZA\u00c7\u00c3O E RELA\u00c7\u00d5ES INTERCULTURAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1167"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0185",
     "nome": "GRANDES PENSADORES E AS RELA\u00c7\u00d5ES INTERNACIONAIS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1230"
+    ],
     "pre_requirements": []
   },
   {
@@ -419,9 +433,7 @@
     "nome": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS CONTEMPOR\u00c2NEAS",
     "ch": 60,
     "post_requirements": [
-      "IRI0008",
-      "IRI0154",
-      "IRI1113"
+      "IRI0008"
     ],
     "pre_requirements": [
       "HIS0084 & IRI0013"
@@ -432,8 +444,7 @@
     "nome": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS DO BRASIL",
     "ch": 60,
     "post_requirements": [
-      "IRI0170",
-      "IRI1108"
+      "IRI0170"
     ],
     "pre_requirements": [
       "IRI0012"
@@ -454,14 +465,18 @@
     "cod": "IRI0178",
     "nome": "HIST\u00d3RIA E POL\u00cdTICA DO ORIENTE M\u00c9DIO CONTEMPOR\u00c2NEO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1224"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0093",
     "nome": "INDIV\u00cdDUO E GLOBALIZA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1168"
+    ],
     "pre_requirements": []
   },
   {
@@ -534,14 +549,18 @@
     "cod": "IRI0002",
     "nome": "INTERC\u00c2MBIO INTERNACIONAL",
     "ch": 240,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1133"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0013",
     "nome": "INTRODU\u00c7\u00c3O AO ESTUDO DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI0007"
+    ],
     "pre_requirements": []
   },
   {
@@ -636,7 +655,9 @@
     "cod": "IRI0010",
     "nome": "POL\u00cdTICA AMBIENTAL GLOBAL NA AMAZ\u00d4NIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1141"
+    ],
     "pre_requirements": []
   },
   {
@@ -644,8 +665,7 @@
     "nome": "POL\u00cdTICA COMPARADA",
     "ch": 60,
     "post_requirements": [
-      "IRI0155",
-      "IRI1109"
+      "IRI0155"
     ],
     "pre_requirements": [
       "POL0013 & IRI0052 & IRI0156"
@@ -655,7 +675,9 @@
     "cod": "IRI0159",
     "nome": "POL\u00cdTICA, ECONOMIA E SOCIEDADE EM PERSPECTIVA COMPARADA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1206"
+    ],
     "pre_requirements": []
   },
   {
@@ -695,7 +717,9 @@
     "cod": "IRI0186",
     "nome": "POPULA\u00c7\u00d5ES E DESENVOLVIMENTO GLOBAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1129"
+    ],
     "pre_requirements": []
   },
   {
@@ -735,14 +759,18 @@
     "cod": "IRI0009",
     "nome": "PROCESSOS DECIS\u00d3RIOS E POL\u00cdTICA EXTERNA DOS EUA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1140"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0102",
     "nome": "PROTE\u00c7\u00c3O INTERNACIONAL DO MEIO AMBIENTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1174"
+    ],
     "pre_requirements": []
   },
   {
@@ -750,8 +778,7 @@
     "nome": "PROTE\u00c7\u00c3O INTERNACIONAL DOS DIREITOS HUMANOS",
     "ch": 60,
     "post_requirements": [
-      "IRI0142",
-      "IRI1179"
+      "IRI0142"
     ],
     "pre_requirements": [
       "IRI0015"
@@ -816,7 +843,9 @@
     "cod": "IRI0183",
     "nome": "RELA\u00c7\u00d5ES INTERNACIONAIS DO ORIENTE M\u00c9DIO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1228"
+    ],
     "pre_requirements": []
   },
   {
@@ -900,7 +929,9 @@
     "cod": "IRI0171",
     "nome": "TEMAS DAS RELA\u00c7\u00d5ES INTERNACIONAIS DO BRASIL CONTEMPOR\u00c2NEO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1127"
+    ],
     "pre_requirements": []
   },
   {
@@ -908,24 +939,7 @@
     "nome": "TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 1",
     "ch": 60,
     "post_requirements": [
-      "IRI0001",
-      "IRI0096",
-      "IRI0099",
-      "IRI0100",
-      "IRI0101",
-      "IRI0124",
-      "IRI0126",
-      "IRI0127",
-      "IRI0128",
-      "IRI0130",
-      "IRI0132",
-      "IRI0133",
-      "IRI0141",
-      "IRI0153",
-      "IRI0157",
-      "IRI0160",
-      "IRI0180",
-      "IRI1104"
+      "IRI0001"
     ],
     "pre_requirements": [
       "IRI0013 & POL0012"
@@ -936,10 +950,7 @@
     "nome": "TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 2",
     "ch": 60,
     "post_requirements": [
-      "IRI0018",
-      "IRI0151",
-      "IRI1106",
-      "IRI0187"
+      "IRI0018"
     ],
     "pre_requirements": [
       "IRI0015 & POL0013"
@@ -960,7 +971,9 @@
     "cod": "IRI0003",
     "nome": "T\u00d3PICOS ESPECIAIS EM INTRODU\u00c7\u00c3O AO ESTUDO DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1134"
+    ],
     "pre_requirements": []
   },
   {
@@ -1000,14 +1013,18 @@
     "cod": "IRI0134",
     "nome": "T\u00d3PICOS ESPECIAIS EM POL\u00cdTICA INTERNACIONAL 4",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1187"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "IRI0125",
     "nome": "T\u00d3PICOS ESPECIAIS EM TEORIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "IRI1180"
+    ],
     "pre_requirements": []
   },
   {

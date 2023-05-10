@@ -38,11 +38,7 @@
     "nome": "AVALIACAO ALIMENTAR E NUTRICIONAL",
     "ch": 60,
     "post_requirements": [
-      "SER0096",
-      "NUT0028",
-      "NUT0044",
-      "NUT0080",
-      "NUT0104"
+      "SER0096"
     ],
     "pre_requirements": [
       "NUT0017",
@@ -54,12 +50,7 @@
     "nome": "AVALIA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL PR\u00c1TICA",
     "ch": 30,
     "post_requirements": [
-      "NUT0145",
-      "NUT0221",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0137"
+      "NUT0145"
     ],
     "pre_requirements": [
       "NUT0017",
@@ -71,11 +62,7 @@
     "nome": "AVALIA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "NUT0222",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0136"
+      "NUT0222"
     ],
     "pre_requirements": [
       "NUT0017",
@@ -136,8 +123,7 @@
     "nome": "EDUCA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL",
     "ch": 60,
     "post_requirements": [
-      "NUT0011",
-      "NUT0122"
+      "NUT0011"
     ],
     "pre_requirements": [
       "NUT0034",
@@ -149,10 +135,7 @@
     "nome": "EPIDEMIOLOGIA NUTRICIONAL",
     "ch": 45,
     "post_requirements": [
-      "NUT0072",
-      "NUT0083",
-      "NUT0121",
-      "NUT0108"
+      "NUT0072"
     ],
     "pre_requirements": [
       "DSC0020 & NUT0034"
@@ -248,7 +231,9 @@
     "cod": "NUT0079",
     "nome": "ETICA E FORMA\u00c7\u00c3O PROFISSIONAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "NUT0111"
+    ],
     "pre_requirements": []
   },
   {
@@ -256,8 +241,7 @@
     "nome": "FUNDAMENTOS DE ANALISE DE ALIMENTOS",
     "ch": 60,
     "post_requirements": [
-      "FAR0041",
-      "NUT0177"
+      "FAR0041"
     ],
     "pre_requirements": [
       "FAR0050",
@@ -279,7 +263,9 @@
     "cod": "NUT0001",
     "nome": "FUNDAMENTOS EM ALIMENTA\u00c7\u00c3O E NUTRI\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "NUT0002"
+    ],
     "pre_requirements": []
   },
   {
@@ -307,10 +293,7 @@
     "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1",
     "ch": 75,
     "post_requirements": [
-      "NUT0078",
-      "NUT0140",
-      "NUT0141",
-      "NUT0196"
+      "NUT0078"
     ],
     "pre_requirements": [
       "NUT0070 & NUT0041"
@@ -332,11 +315,7 @@
     "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1 - PR\u00c1TICA",
     "ch": 45,
     "post_requirements": [
-      "NUT0224",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0138"
+      "NUT0224"
     ],
     "pre_requirements": [
       "NUT0070 & NUT0041"
@@ -347,11 +326,7 @@
     "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 1 - TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "NUT0223",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0139"
+      "NUT0223"
     ],
     "pre_requirements": [
       "NUT0070 & NUT0041"
@@ -394,11 +369,7 @@
     "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2 - PR\u00c1TICA",
     "ch": 45,
     "post_requirements": [
-      "NUT0226",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0140"
+      "NUT0226"
     ],
     "pre_requirements": [
       "NUT0075",
@@ -410,11 +381,7 @@
     "nome": "GEST\u00c3O DE PRODU\u00c7\u00c3O DE REFEI\u00c7\u00d5ES 2 - TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "NUT0225",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0141"
+      "NUT0225"
     ],
     "pre_requirements": [
       "NUT0075",
@@ -480,7 +447,9 @@
     "cod": "NUT0053",
     "nome": "INTRODUCAO A NUTRICAO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "NUT0180"
+    ],
     "pre_requirements": []
   },
   {
@@ -488,8 +457,7 @@
     "nome": "MARCADORES CL\u00cdNICOS E BIOQU\u00cdMICOS DO ESTADO NUTRICIONAL",
     "ch": 30,
     "post_requirements": [
-      "NUT0082",
-      "NUT0100"
+      "NUT0082"
     ],
     "pre_requirements": [
       "NUT0002 & NUT0034"
@@ -500,8 +468,7 @@
     "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS",
     "ch": 60,
     "post_requirements": [
-      "NUT0063",
-      "NUT0102"
+      "NUT0063"
     ],
     "pre_requirements": [
       "CEL0050"
@@ -512,11 +479,7 @@
     "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS PR\u00c1TICA",
     "ch": 30,
     "post_requirements": [
-      "NUT0228",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0142"
+      "NUT0228"
     ],
     "pre_requirements": [
       "CEL0050"
@@ -527,11 +490,7 @@
     "nome": "MICROBIOLOGIA E HIGIENE DOS ALIMENTOS TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "NUT0227",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "NUT0143"
+      "NUT0227"
     ],
     "pre_requirements": [
       "CEL0050"
@@ -573,8 +532,7 @@
     "nome": "NUTRI\u00c7\u00c3O CL\u00cdNICA E DIETOTERAPIA 1",
     "ch": 60,
     "post_requirements": [
-      "NUT0043",
-      "NUT0115"
+      "NUT0043"
     ],
     "pre_requirements": [
       "FMD0095 & NUT0068"
@@ -585,8 +543,7 @@
     "nome": "NUTRI\u00c7\u00c3O CL\u00cdNICA E DIETOTERAPIA 2",
     "ch": 60,
     "post_requirements": [
-      "NUT0082",
-      "NUT0106"
+      "NUT0082"
     ],
     "pre_requirements": [
       "NUT0033",
@@ -620,8 +577,7 @@
     "nome": "NUTRI\u00c7\u00c3O E CICLOS DA VIDA 1",
     "ch": 60,
     "post_requirements": [
-      "NUT0086",
-      "NUT0206"
+      "NUT0086"
     ],
     "pre_requirements": [
       "NUT0055 & NUT0034"
@@ -643,9 +599,7 @@
     "nome": "NUTRI\u00c7\u00c3O E DIET\u00c9TICA 1",
     "ch": 30,
     "post_requirements": [
-      "NUT0069",
-      "NUT0074",
-      "NUT0107"
+      "NUT0069"
     ],
     "pre_requirements": [
       "NUT0055 & NUT0034"
@@ -656,8 +610,7 @@
     "nome": "NUTRI\u00c7\u00c3O E DIET\u00c9TICA 2",
     "ch": 45,
     "post_requirements": [
-      "NUT0095",
-      "NUT0130"
+      "NUT0095"
     ],
     "pre_requirements": [
       "NUT0068 & NUT0089"
@@ -691,7 +644,9 @@
     "cod": "NUT0054",
     "nome": "NUTRICAO HUMANA 1",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0020"
+    ],
     "pre_requirements": []
   },
   {
@@ -699,8 +654,7 @@
     "nome": "NUTRICAO HUMANA 2",
     "ch": 45,
     "post_requirements": [
-      "NUT0098",
-      "NUT0124"
+      "NUT0098"
     ],
     "pre_requirements": [
       "NUT0054 & CEL0082"
@@ -711,8 +665,7 @@
     "nome": "NUTRICAO MATERNO-INFANTIL",
     "ch": 90,
     "post_requirements": [
-      "NUT0028",
-      "NUT0164"
+      "NUT0028"
     ],
     "pre_requirements": [
       "NUT0017",
@@ -735,16 +688,7 @@
     "nome": "NUTRICAO NORMAL",
     "ch": 90,
     "post_requirements": [
-      "DSC0020",
-      "NUT0022",
-      "NUT0024",
-      "NUT0034",
-      "NUT0047",
-      "NUT0052",
-      "ENF0034",
-      "NUT0136",
-      "NUT0137",
-      "NUT0160"
+      "DSC0020"
     ],
     "pre_requirements": [
       "CEL0019 & FMD0165 & FMD0167",
@@ -770,8 +714,7 @@
     "nome": "PATOLOGIA NUTRICIONAL E DIETOTERAPIA 1",
     "ch": 120,
     "post_requirements": [
-      "NUT0043",
-      "NUT0168"
+      "NUT0043"
     ],
     "pre_requirements": [
       "NUT0025 & FMD0095",
@@ -872,8 +815,7 @@
     "nome": "TECNICA DIETETICA 1",
     "ch": 120,
     "post_requirements": [
-      "NUT0037",
-      "NUT0165"
+      "NUT0037"
     ],
     "pre_requirements": [
       "NUT0017 & NUT0018",
@@ -899,8 +841,7 @@
     "nome": "TECNICA DIETETICA 2",
     "ch": 60,
     "post_requirements": [
-      "NUT0067",
-      "NUT0105"
+      "NUT0067"
     ],
     "pre_requirements": [
       "NUT0089"
@@ -911,9 +852,7 @@
     "nome": "TERAPIA NUTRICIONAL",
     "ch": 30,
     "post_requirements": [
-      "NUT0081",
-      "NUT0097",
-      "NUT0117"
+      "NUT0081"
     ],
     "pre_requirements": [
       "NUT0008  &  NUT0069",
@@ -947,9 +886,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
     "ch": 15,
     "post_requirements": [
-      "NUT0084",
-      "NUT0131",
-      "NUT0135"
+      "NUT0084"
     ],
     "pre_requirements": [
       "DSC0044 & DSC0020",

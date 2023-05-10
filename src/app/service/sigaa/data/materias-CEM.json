@@ -3,63 +3,81 @@
     "cod": "CEM0120",
     "nome": "A CIDADE E A TERCEIRA IDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1232"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0128",
     "nome": "A CRISE SIST\u00caMICA DA POL\u00cdTICA DE CI\u00caNCIA, TECNOLOGIA, INOVA\u00c7\u00c3O E SOCIEDADE NO BRASIL: RESIST\u00caNCIAS E OPORTUNIDADES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1240"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0010",
     "nome": "ADMINISTRA\u00c7\u00c3O P\u00daBLICA E \u00c9TICAS OBJETOS DE ESTUDO E DE CONHECIMENTO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1142"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0118",
     "nome": "ADVOCACIA URBANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1230"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM1106",
     "nome": "ADVOCACIA URBANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1253"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0110",
     "nome": "AGRICULTURA ALTERNATIVA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1132"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0070",
     "nome": "AGRICULTURA E POLITICA DE CIENCIA E TECNOLOGIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1189"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0061",
     "nome": "A HIST\u00d3RIA NO CINEMA E NO VIDEO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1182"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0127",
     "nome": "A INTERFER\u00caNCIA DA LINGUAGEM NA SA\u00daDE MENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1121"
+    ],
     "pre_requirements": []
   },
   {
@@ -73,70 +91,90 @@
     "cod": "CEM0023",
     "nome": "APRENDIZAGEM E DESENVOLVIMENTO MOTOR HUMANO 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1125"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0073",
     "nome": "A SAUDE MENTAL NO LIMIAR DO SECULO XXI",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1192"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0065",
     "nome": "ASIA-PAC\u00cdFICO NA ATUALIDADE E NO FUTURO RELA\u00c7\u00d5ES COM O BRASIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1185"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0004",
     "nome": "AS ORIGENS DO PENSAMENTO OCIDENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1136"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0001",
     "nome": "A UNI\u00c3O EUROP\u00c9IA E A COOPERA\u00c7\u00c3O INTERNACIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1133"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0115",
     "nome": "AVALIA\u00c7\u00c3O DE P\u00d3S-OCUPA\u00c7\u00c3O DE INSTITUI\u00c7\u00d5ES DE ENSINO SUPERIOR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1227"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0002",
     "nome": "BUDISMO HINAYANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1134"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0081",
     "nome": "CIDADANIA, CORRUPCAO E DEMOCRACIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1200"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0087",
     "nome": "CIDADANIA MUNDIAL E GOVERNAN\u00c7A GLOBAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1205"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0088",
     "nome": "CI\u00caNCIA E TECNOLOGIA PARA O DESENVOLVIMENTO SUSTENT\u00c1VEL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM0060"
+    ],
     "pre_requirements": []
   },
   {
@@ -154,161 +192,207 @@
     "cod": "CEM0016",
     "nome": "CORPO, CONHECIMENTO E SOCIEDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1148"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0041",
     "nome": "CR\u00cdTICA DA M\u00cdDIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1167"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0084",
     "nome": "CULTURA E PAZ",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1202"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0085",
     "nome": "CULTURA LATINO-AMERICANA SECULO XX",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1203"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0043",
     "nome": "CULTURA PODER E RELA\u00c7\u00d5ES RACIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1111"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0123",
     "nome": "DECOLONIALIDADE E A MATRIZ PUNITIVA IBERO-AMERICANA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1118"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0005",
     "nome": "DECRESCIMENTO: CONSUMIR MENOS PARA QUE TODOS VIVAM MELHOR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1107"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0078",
     "nome": "DESPERTANDO A MENTE GLOBAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1197"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0014",
     "nome": "DIREITO HUMANIT\u00c1RIO E ASSIST\u00caNCIA HUMANIT\u00c1RIA P\u00d3S CONFLITOS  DESASTRES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1146"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0058",
     "nome": "DIREITOS DA CRIANCA E DO ADOLESCENTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1179"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0130",
     "nome": "DIREITOS E POL\u00cdTICAS P\u00daBLICAS DAS JUVENTUDES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1242"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0126",
     "nome": "DIREITOS HUMANOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1238"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0097",
     "nome": "DIREITOS HUMANOS E CIDADANIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1113"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0008",
     "nome": "DIREITOS HUMANOS LGBT",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1140"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0121",
     "nome": "DIREITOS HUMANOS, PLURALISMO JUR\u00cdDICO E PLURALISMO BIO\u00c9TICO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1233"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0103",
     "nome": "DISCURSO E MULHER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1215"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0077",
     "nome": "DISCURSO, GENERO, SOCIAL E LETRAMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1196"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0021",
     "nome": "DIVERSIDADE SEXUAL E DE G\u00caNERO E POL\u00cdTICAS P\u00daBLICAS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1109"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0039",
     "nome": "ECOLOGIAS URBANAS E ECOLOGIAS NATURAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1166"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0034",
     "nome": "EDUCA\u00c7\u00c3O AMBIENTAL FUNDAMENTOS E PR\u00c1TICAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1162"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0069",
     "nome": "EDUCACAO E CULTURA AFRO-BRASILEIRA OS QUILOMBOS CONTEMPORANEO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1188"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0134",
     "nome": "EDUCA\u00c7\u00c3O E DESIGUALDADES SOCIAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1246"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0033",
     "nome": "EMPREENDEDORISMO: TEORIA E PR\u00c1TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1161"
+    ],
     "pre_requirements": []
   },
   {
@@ -326,98 +410,126 @@
     "cod": "CEM0129",
     "nome": "ESTUDOS DISCURSIVOS CR\u00cdTICOS, CORPOS E INTERSECCIONALIDADES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1241"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0111",
     "nome": "ESTUDOS E PESQUISAS PARA A PAZ",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1223"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0059",
     "nome": "EXCLUSAO SOCIAL DE CRIANCAS E JOVENS NO BRASIL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1180"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0132",
     "nome": "EXPERI\u00caNCIAS HIST\u00d3RICAS DE REFORMA AGR\u00c1RIA NO MUNDO",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1244"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0062",
     "nome": "FEDERALISMO E DESIGUALDADE SOCIAL NA AM\u00c9RICA LATINA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1183"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0027",
     "nome": "FEMINISMOS E TEORIA QUEER",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1157"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0012",
     "nome": "FILOSOFIA CL\u00c1SSICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1144"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0013",
     "nome": "FILOSOFIA E MEDICINA NA ANTIGUIDADE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1145"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0241",
     "nome": "FUNDAMENTOS DO BUDISMO ORIGINAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1249"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM1102",
     "nome": "FUNDAMENTOS DO BUDISMO ORIGINAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1251"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0122",
     "nome": "G\u00caNERO E SEXUALIDADE NO MUNDO CL\u00c1SSICO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1234"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0006",
     "nome": "GEST\u00c3O E AVALIA\u00c7\u00c3O DE POL\u00cdTICAS DE SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1115"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0009",
     "nome": "GEST\u00c3O E INOVA\u00c7\u00c3O DE PROCESSOS CR\u00cdTICOS EM ORGANIZA\u00c7\u00c3O DE SERVI\u00c7O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1122"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0011",
     "nome": "HABITA\u00c7\u00c3O DE INTERESSE SOCIAL: FORMAS ALTERNATIVAS DE PRODU\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1143"
+    ],
     "pre_requirements": []
   },
   {
@@ -431,84 +543,108 @@
     "cod": "CEM0017",
     "nome": "HIST\u00d3RIA DA DITADURA MILITAR E DA LUTA ARMADA NO BRASIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1117"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0125",
     "nome": "HIST\u00d3RIA E CINEMA: PERSPECTIVAS DOS FEMINISMOS NEGROS, DECOLONIAIS E INTERSECCIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1120"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM1104",
     "nome": "HIST\u00d3RIA ORAL: PRESSUPOSTOS TE\u00d3RICOS E METODOL\u00d3GICOS B\u00c1SICOS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1252"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0240",
     "nome": "HIST\u00d3RIA ORAL: PRESSUPOSTOS TE\u00d3RICOS E METODOL\u00d3GICOS B\u00c1SICOS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1248"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0102",
     "nome": "IDENTIDADE DE G\u00caNERO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1214"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0025",
     "nome": "IMAGEM E PESQUISA HIST\u00d3RICA-HIST\u00d3RIA ORAL E FOTOGRAFIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1155"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0092",
     "nome": "IMAGEM E PESQUISA HIST\u00d3RICO-OFICINA V\u00cdDEO E HIST\u00d3RIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1209"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0096",
     "nome": "IMAGEM, ORALIDADE E PATRIM\u00d4NIO HIST\u00d3RICO-CULTURAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1211"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0094",
     "nome": "IMAGEM PESQUISA HIST\u00d3RICA-V\u00cdDEO E HIST\u00d3RIA ORAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1210"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0037",
     "nome": "INF\u00c2NCIA E JUVENTUDE NA CONTEMPORANEIDADE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1164"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0030",
     "nome": "INSTITUI\u00c7\u00d5ES GOVERNAMENTAIS E POL\u00cdTICAS REGIONAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1159"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0083",
     "nome": "INTEGRA\u00c7\u00c3O NO MERCOSUL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1201"
+    ],
     "pre_requirements": []
   },
   {
@@ -522,70 +658,90 @@
     "cod": "CEM0090",
     "nome": "INTRODUCAO A CIVILIZACAO E MEDICINA TRADICIONAL CHINESA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1208"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0068",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 GERONTOLOGIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1131"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0054",
     "nome": "INTRODU\u00c7\u00c3O A GEST\u00c3O AMBIENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1176"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0239",
     "nome": "INTRODU\u00c7\u00c3O \u00c0 HIST\u00d3RIA DO PENSAMENTO ITALIANO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1247"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0089",
     "nome": "INTRODUCAO A METODOLOGIA NA PRODUCAO DE CONHECIMENTOS NA AREA DA SAUDE",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1207"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0086",
     "nome": "INTRODUCAO AO ESTUDO DA AMERICA LATINA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1204"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0079",
     "nome": "INTRODUCAO AO ESTUDO DA QUALIDADE DEE VIDA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1198"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0119",
     "nome": "INTRODU\u00c7\u00c3O AOS ESTUDOS CL\u00c1SSICOA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1231"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0038",
     "nome": "INTRODU\u00c7\u00c3O AOS ESTUDOS DA MOBILIDADE ESPACIAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1165"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0052",
     "nome": "INTRODU\u00c7\u00c3O AOS ESTUDOS DE POPULA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1174"
+    ],
     "pre_requirements": []
   },
   {
@@ -601,210 +757,270 @@
     "cod": "CEM0113",
     "nome": "INTRODUCAO A POLITICA CIENTIFICA E TECNOLOGICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1225"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0124",
     "nome": "LAYA YOGA \u2013 MEDITA\u00c7\u00c3O TERAP\u00caUTICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1119"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0018",
     "nome": "LAYA YOGA - MEDITA\u00c7\u00c3O TERAP\u00caUTICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1108"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0108",
     "nome": "LINGUA CHINESA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1220"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0104",
     "nome": "LINGUA CHINESA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1216"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0035",
     "nome": "LINGUAGEM E GLOBALIZA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1127"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0107",
     "nome": "LITERATURA CHINESA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1219"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0112",
     "nome": "LITERATURA HISPANO-AMERICANA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1224"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0114",
     "nome": "MEIO AMBIENTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1226"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0242",
     "nome": "METODOLOGIA QUALITATIVA EM PROMO\u00c7\u00c3O DA SA\u00daDE 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1114"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0080",
     "nome": "MIDIA E POLITICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1199"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0133",
     "nome": "MULHERES INSPIRADORAS: PERSPECTIVAS CR\u00cdTICAS PARA A EDUCA\u00c7\u00c3O EM DIREITOS HUMANOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1245"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0105",
     "nome": "MULHER E TEATRO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1217"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0071",
     "nome": "MULTICULTURALISMO BUDISMO E MODERNIDADE OCIDENTAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1190"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0067",
     "nome": "MULTICULTURALISMO E BUDISMO NA CONTEMPORANEIDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1130"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0106",
     "nome": "ORGANIZACAO DO ESPACO E CIDADANIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1218"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0098",
     "nome": "PARAPSICOLOGIA GERAL E EXPERIMENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1213"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0117",
     "nome": "PENSAMENTO LGBT BRASILEIRO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1229"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0020",
     "nome": "PENSAMENTO SOCIAL, YOGA E N\u00c3O-VIOL\u00caNCIA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1124"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0053",
     "nome": "POL\u00cdCIA E SOCIEDADE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1175"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0057",
     "nome": "POLITICA SOCIAL ESPECIAL - 3 - MENOR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1178"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0042",
     "nome": "POL\u00cdTICA SOCIAL FAMILIA E ENVELHECIMENTO POPULACIONAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1168"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0076",
     "nome": "POLITICAS PUBLICAS PARA HABITACAO DE INTERESSE SOCIAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1195"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0032",
     "nome": "POL\u00cdTICAS P\u00daBLICAS VOLTADAS AO PLANEJAMENTO E GEST\u00c3O AMBIENTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1160"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0109",
     "nome": "PROBLEMAS ENERGETICOS BRASILEIROS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1221"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0056",
     "nome": "PROCESSOS S\u00d3CIO-HIST\u00d3RICO CUBANO E CONTEXTO ATUAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1129"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0050",
     "nome": "PROMO\u00c7\u00c3O DA SA\u00daDE 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1172"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0051",
     "nome": "PROMO\u00c7\u00c3O DA SA\u00daDE 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1112"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0131",
     "nome": "RA\u00c7A, CI\u00caNCIA E SA\u00daDE DA POPULA\u00c7\u00c3O NEGRA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1243"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0074",
     "nome": "RACIONALIDADES MEDICAS COMPARADAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1193"
+    ],
     "pre_requirements": []
   },
   {
@@ -818,42 +1034,54 @@
     "cod": "CEM0044",
     "nome": "REVITALIZA\u00c7\u00c3O URBANA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1170"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0007",
     "nome": "SA\u00daDE DIREITOS HUMANOS E ANTROPOLOGIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1116"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0116",
     "nome": "SA\u00daDE INTERNACIONAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1228"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0072",
     "nome": "SEMINARIO MULTIDISCIPLINAR SOBRE CIVILIZACOES ASIATICAS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1191"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0075",
     "nome": "TECNOLOGIA PARA HABITACAO DE INTERESSE SOCIAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1194"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0026",
     "nome": "TEORIA E AN\u00c1LISE CR\u00cdTICA DA PR\u00c1TICA DA CORRUP\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1126"
+    ],
     "pre_requirements": []
   },
   {
@@ -867,14 +1095,18 @@
     "cod": "CEM0003",
     "nome": "TIMOR-LESTE: NATUREZA, CULTURA, LINGUAGEM E IDENTIDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1135"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "CEM0047",
     "nome": "T\u00d3PICOS ESPECIAIS SOBRE A AMAZ\u00d4NIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM0022"
+    ],
     "pre_requirements": []
   },
   {
@@ -890,7 +1122,9 @@
     "cod": "CEM0063",
     "nome": "VIOL\u00caNCIA, SEGURAN\u00c7A E CIDADANIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CEM1184"
+    ],
     "pre_requirements": []
   }
 ]

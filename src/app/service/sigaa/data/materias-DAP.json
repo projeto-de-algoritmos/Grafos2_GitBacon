@@ -4,9 +4,7 @@
     "nome": "ADMINISTRACAO E ASSESSORIA DE RELACOES PUBLICAS 1",
     "ch": 90,
     "post_requirements": [
-      "DAP0028",
-      "FAC0013",
-      "DAP0264"
+      "DAP0028"
     ],
     "pre_requirements": [
       "JOR0042 & FAC0018"
@@ -67,9 +65,7 @@
     "nome": "ARGUMENTO E ROTEIRO",
     "ch": 60,
     "post_requirements": [
-      "DAP0087",
-      "DAP0105",
-      "DAP0204"
+      "DAP0087"
     ],
     "pre_requirements": [
       "DAP0096 & DAP0067",
@@ -130,14 +126,18 @@
     "cod": "DAP0100",
     "nome": "COMUNICA\u00c7\u00c3O E G\u00caNERO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0185"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DAP0099",
     "nome": "COMUNICA\u00c7\u00c3O E M\u00daSICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0305"
+    ],
     "pre_requirements": []
   },
   {
@@ -176,8 +176,7 @@
     "nome": "DIRE\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "DAP0175",
-      "DAP0190"
+      "DAP0175"
     ],
     "pre_requirements": [
       "DAP0008 & DAP0118",
@@ -200,8 +199,7 @@
     "nome": "DIRE\u00c7\u00c3O DE ARTE EM ARTES GR\u00c1FICAS",
     "ch": 60,
     "post_requirements": [
-      "JOR0133",
-      "DAP0197"
+      "J"
     ],
     "pre_requirements": [
       "DAP0098",
@@ -244,12 +242,7 @@
     "nome": "DIRE\u00c7\u00c3O DO FILME 1",
     "ch": 60,
     "post_requirements": [
-      "DAP0016",
-      "DAP0288",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "DAP0053"
+      "DAP0016"
     ],
     "pre_requirements": []
   },
@@ -297,7 +290,9 @@
     "cod": "DAP0140",
     "nome": "ECONOMIA DO CINEMA E AUDIOVISUAL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0338"
+    ],
     "pre_requirements": []
   },
   {
@@ -305,11 +300,7 @@
     "nome": "EDI\u00c7\u00c3O DO FILME 1",
     "ch": 60,
     "post_requirements": [
-      "DAP0270",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "DAP0078"
+      "DAP0270"
     ],
     "pre_requirements": []
   },
@@ -327,8 +318,7 @@
     "nome": "EDI\u00c7\u00c3O E MONTAGEM",
     "ch": 30,
     "post_requirements": [
-      "DAP0176",
-      "DAP0193"
+      "DAP0176"
     ],
     "pre_requirements": [
       "DAP0008 & DAP0118",
@@ -395,7 +385,9 @@
     "cod": "DAP0141",
     "nome": "FORMATA\u00c7\u00c3O PROJETO  AUDIOVISUAL E CAPTA\u00c7\u00c3O DE RECURSOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0339"
+    ],
     "pre_requirements": []
   },
   {
@@ -403,8 +395,7 @@
     "nome": "FOTOGRAFIA E ILUMINA\u00c7\u00c3O 1",
     "ch": 30,
     "post_requirements": [
-      "DAP0055",
-      "DAP0209"
+      "DAP0055"
     ],
     "pre_requirements": [
       "DAP0118",
@@ -449,11 +440,7 @@
     "nome": "GERENCIAMENTO DE CONTAS",
     "ch": 30,
     "post_requirements": [
-      "DAP0329",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "DAP0064"
+      "DAP0329"
     ],
     "pre_requirements": [
       "DAP0098"
@@ -473,8 +460,7 @@
     "nome": "HISTORIA DO CINEMA",
     "ch": 60,
     "post_requirements": [
-      "DAP0104",
-      "DAP0181"
+      "DAP0104"
     ],
     "pre_requirements": []
   },
@@ -491,7 +477,9 @@
     "cod": "DAP0089",
     "nome": "INFORMATICA E CINEMA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0298"
+    ],
     "pre_requirements": []
   },
   {
@@ -508,9 +496,7 @@
     "nome": "INTRODU\u00c7\u00c3O A FOTOGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "JOR0039",
-      "DAP0120",
-      "DAP0182"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -519,9 +505,7 @@
     "nome": "INTRODU\u00c7\u00c3O A LINGUAGEM SONORA",
     "ch": 60,
     "post_requirements": [
-      "DAP0105",
-      "DAP0118",
-      "DAP0194"
+      "DAP0105"
     ],
     "pre_requirements": []
   },
@@ -531,16 +515,7 @@
     "ch": 30,
     "post_requirements": [
       "DAP0011",
-      "DAP0030",
-      "DAP0044",
-      "DAP0060",
-      "DAP0064",
-      "DAP0123",
-      "DAP0124",
-      "DAP0125",
-      "DAP0127",
-      "DAP0132",
-      "DAP0211"
+      "DAP0030"
     ],
     "pre_requirements": []
   },
@@ -548,7 +523,9 @@
     "cod": "DAP0085",
     "nome": "INTRODUCAO AS COMUNICACOES MEDIADAS POR COMPUTADOR",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0295"
+    ],
     "pre_requirements": []
   },
   {
@@ -564,7 +541,9 @@
     "cod": "DAP0177",
     "nome": "INTRODU\u00c7\u00c3O AS REDES SOCIAIS VIRTUAIS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0366"
+    ],
     "pre_requirements": []
   },
   {
@@ -616,8 +595,7 @@
     "nome": "LABORAT\u00d3RIO DE ROTEIRIZA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "DAP0088",
-      "DAP0296"
+      "DAP0088"
     ],
     "pre_requirements": [
       "DAP0008"
@@ -628,8 +606,7 @@
     "nome": "LABORAT\u00d3RIO EM PUBLICIDADE E PROPAGANDA",
     "ch": 240,
     "post_requirements": [
-      "DAP0134",
-      "DAP0198"
+      "DAP0134"
     ],
     "pre_requirements": [
       "DAP0124 & DAP0125 & DAP0126 & DAP0127 & DAP0064"
@@ -661,7 +638,9 @@
     "cod": "DAP0097",
     "nome": "LEITURA DOS MEIOS DE COMUNICA\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0303"
+    ],
     "pre_requirements": []
   },
   {
@@ -698,8 +677,7 @@
     "nome": "MARKETING EM PUBLICIDADE E PROPAGANDA",
     "ch": 90,
     "post_requirements": [
-      "DAP0001",
-      "DAP0196"
+      "DAP0001"
     ],
     "pre_requirements": [
       "DAP0098"
@@ -728,11 +706,7 @@
     "nome": "MIDIA",
     "ch": 30,
     "post_requirements": [
-      "DAP0279",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "DAP0127"
+      "DAP0279"
     ],
     "pre_requirements": [
       "DAP0098"
@@ -765,7 +739,9 @@
     "cod": "DAP0157",
     "nome": "NOVAS MIDIAS AUDIOVISUAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0349"
+    ],
     "pre_requirements": []
   },
   {
@@ -773,10 +749,7 @@
     "nome": "OFICINA B\u00c1SICA DE AUDIOVISUAL",
     "ch": 30,
     "post_requirements": [
-      "DAP0104",
-      "JOR0105",
-      "DAP0149",
-      "DAP0184"
+      "DAP0104"
     ],
     "pre_requirements": []
   },
@@ -784,7 +757,9 @@
     "cod": "DAP0150",
     "nome": "OFICINA DE ANIMA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0223"
+    ],
     "pre_requirements": []
   },
   {
@@ -803,28 +778,36 @@
     "cod": "DAP0169",
     "nome": "OFICINA DE HIST\u00d3RIA EM QUADRINHOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0358"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DAP0131",
     "nome": "OFICINA DE INTERPRETA\u00c7\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0333"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DAP0167",
     "nome": "OFICINA DE PUBLICIDADE 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0356"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DAP0168",
     "nome": "OFICINA DE PUBLICIDADE 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0357"
+    ],
     "pre_requirements": []
   },
   {
@@ -947,9 +930,7 @@
     "nome": "PLANEJAMENTO PUBLICIT\u00c1RIO",
     "ch": 60,
     "post_requirements": [
-      "DAP0001",
-      "COM0134",
-      "DAP0217"
+      "DAP0001"
     ],
     "pre_requirements": [
       "DAP0098 & DAP0123",
@@ -972,8 +953,7 @@
     "nome": "PR\u00c9-PROJETO EM PUBLICIDADE E PROPAGANDA",
     "ch": 60,
     "post_requirements": [
-      "DAP0173",
-      "DAP0218"
+      "DAP0173"
     ],
     "pre_requirements": [
       "DAP0124 & DAP0125 & DAP0126 & DAP0064 & DAP0127"
@@ -984,8 +964,7 @@
     "nome": "PRODU\u00c7\u00c3O",
     "ch": 30,
     "post_requirements": [
-      "DAP0093",
-      "DAP0191"
+      "DAP0093"
     ],
     "pre_requirements": [
       "DAP0008 & DAP0118",
@@ -1186,9 +1165,7 @@
     "nome": "REDACAO PARA RADIO 1",
     "ch": 60,
     "post_requirements": [
-      "DAP0036",
-      "DAP0072",
-      "DAP0283"
+      "DAP0036"
     ],
     "pre_requirements": []
   },
@@ -1251,8 +1228,7 @@
     "nome": "RELACOES PUBLICAS 1",
     "ch": 60,
     "post_requirements": [
-      "DAP0066",
-      "DAP0280"
+      "DAP0066"
     ],
     "pre_requirements": [
       "FAC0018"
@@ -1274,9 +1250,7 @@
     "nome": "ROTEIRO, PRODU\u00c7\u00c3O E REALIZA\u00c7\u00c3O EM \u00c1UDIO",
     "ch": 60,
     "post_requirements": [
-      "DAP0076",
-      "DAP0110",
-      "DAP0195"
+      "DAP0076"
     ],
     "pre_requirements": [
       "DAP0117",
@@ -1287,14 +1261,18 @@
     "cod": "DAP0129",
     "nome": "SEMIN\u00c1RIOS AVAN\u00c7ADOS EM \u00c1UDIOVISUAL 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0331"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "DAP0119",
     "nome": "SEMIN\u00c1RIOS AVAN\u00c7ADOS EM AUDIOVISUAL 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "DAP0323"
+    ],
     "pre_requirements": []
   },
   {
@@ -1302,8 +1280,7 @@
     "nome": "SOM 1",
     "ch": 60,
     "post_requirements": [
-      "DAP0174",
-      "DAP0192"
+      "DAP0174"
     ],
     "pre_requirements": [
       "DAP0118",

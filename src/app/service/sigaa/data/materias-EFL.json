@@ -36,7 +36,9 @@
     "cod": "EFL0076",
     "nome": "BIOLOGIA DA CONSERVACAO",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EFL0184"
+    ],
     "pre_requirements": []
   },
   {
@@ -114,10 +116,7 @@
     "nome": "DENDROLOGIA",
     "ch": 60,
     "post_requirements": [
-      "FAV0024",
-      "EFL0019",
-      "EFL0067",
-      "EFL0111"
+      "FAV0024"
     ],
     "pre_requirements": [
       "BOT0021 & EFL0010",
@@ -152,8 +151,7 @@
     "nome": "DENDROMETRIA",
     "ch": 60,
     "post_requirements": [
-      "EFL0038",
-      "EFL0109"
+      "EFL0038"
     ],
     "pre_requirements": [
       "IGD0043 & EST0027",
@@ -166,7 +164,9 @@
     "cod": "EFL0073",
     "nome": "DIREITO FLORESTAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "EFL0181"
+    ],
     "pre_requirements": []
   },
   {
@@ -185,12 +185,7 @@
     "nome": "ECOLOGIA FLORESTAL",
     "ch": 60,
     "post_requirements": [
-      "ECL0005",
-      "ECL0013",
-      "ECL0041",
-      "EFL0047",
-      "EFL0092",
-      "EFL0102"
+      "ECL0005"
     ],
     "pre_requirements": [
       "ICB0098 & ECL0039",
@@ -203,10 +198,7 @@
     "nome": "ECONOMIA FLORESTAL",
     "ch": 60,
     "post_requirements": [
-      "EFL0043",
-      "EFL0096",
-      "EFL0110",
-      "EFL0140"
+      "EFL0043"
     ],
     "pre_requirements": [
       "ECO0019 & EFL0010 & EFL0033"
@@ -216,7 +208,9 @@
     "cod": "EFL0005",
     "nome": "EST\u00c1GIO EM CI\u00caNCIAS FLORESTAIS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "EFL0141"
+    ],
     "pre_requirements": []
   },
   {
@@ -236,9 +230,7 @@
     "nome": "ESTRUTURAS DE MADEIRAS",
     "ch": 60,
     "post_requirements": [
-      "EFL0006",
-      "ENM0097",
-      "EFL0105"
+      "EFL0006"
     ],
     "pre_requirements": [
       "EFL0026"
@@ -249,8 +241,7 @@
     "nome": "FERTILIDADE DO SOLO E NUTRI\u00c7\u00c3O DE PLANTAS",
     "ch": 60,
     "post_requirements": [
-      "FAV0022",
-      "EFL0119"
+      "FAV0022"
     ],
     "pre_requirements": [
       "EFL0083",
@@ -262,8 +253,7 @@
     "nome": "GENETICA E MELHORAMENTO FLORESTAL",
     "ch": 90,
     "post_requirements": [
-      "EFL0099",
-      "EFL0126"
+      "EFL0099"
     ],
     "pre_requirements": [
       "BOT0008 & EFL0051"
@@ -285,9 +275,7 @@
     "nome": "INICIACAO A ENGENHARIA FLORESTAL",
     "ch": 15,
     "post_requirements": [
-      "CDS0004",
-      "ENC0261",
-      "EFL0103"
+      "CDS0004"
     ],
     "pre_requirements": []
   },
@@ -307,8 +295,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 CI\u00caNCIA DO SOLO",
     "ch": 60,
     "post_requirements": [
-      "EFL0089",
-      "EFL0118"
+      "EFL0089"
     ],
     "pre_requirements": [
       "IGD0021 & IQD0118"
@@ -318,7 +305,9 @@
     "cod": "EFL0091",
     "nome": "INTRODU\u00c7\u00c3O A PERMACULTURA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "EFL0192"
+    ],
     "pre_requirements": []
   },
   {
@@ -326,10 +315,7 @@
     "nome": "INVENTARIO FLORESTAL",
     "ch": 60,
     "post_requirements": [
-      "EFL0001",
-      "EFL0003",
-      "EFL0036",
-      "EFL0115"
+      "EFL0001"
     ],
     "pre_requirements": [
       "EFL0033 & EFL0040 & GEA0030"
@@ -351,10 +337,7 @@
     "nome": "MANEJO DE FAUNA",
     "ch": 60,
     "post_requirements": [
-      "EFL0009",
-      "EFL0101",
-      "EFL0107",
-      "EFL0117"
+      "EFL0009"
     ],
     "pre_requirements": [
       "EFL0010 & EFL0004",
@@ -388,8 +371,7 @@
     "nome": "MANEJO FLORESTAL",
     "ch": 60,
     "post_requirements": [
-      "EFL0059",
-      "EFL0116"
+      "EFL0059"
     ],
     "pre_requirements": [
       "EFL0050 & EFL0034"
@@ -411,9 +393,7 @@
     "nome": "METODOLOGIA DE PESQUISAS FLORESTAIS",
     "ch": 60,
     "post_requirements": [
-      "EFL0075",
-      "EFL0132",
-      "EFL0144"
+      "EFL0075"
     ],
     "pre_requirements": [
       "EST0027 & EFL0010"
@@ -503,8 +483,7 @@
     "ch": 60,
     "post_requirements": [
       "EFL0022",
-      "EFL0056",
-      "EFL0148"
+      "EFL0056"
     ],
     "pre_requirements": [
       "EFL0021 & EFL0011 & EFL0004"
@@ -586,8 +565,7 @@
     "nome": "SEMENTES E VIVEIROS FLORESTAIS",
     "ch": 60,
     "post_requirements": [
-      "EFL0042",
-      "EFL0128"
+      "EFL0042"
     ],
     "pre_requirements": [
       "BOT0008"
@@ -654,13 +632,7 @@
     "nome": "SISTEMAS E PR\u00c1TICAS SILVICULTURAIS",
     "ch": 60,
     "post_requirements": [
-      "EFL0002",
-      "EFL0009",
-      "EFL0097",
-      "EFL0101",
-      "EFL0120",
-      "EFL0117",
-      "EFL0143"
+      "EFL0002"
     ],
     "pre_requirements": [
       "EFL0011 & EFL0021"
@@ -688,7 +660,9 @@
     "cod": "EFL0074",
     "nome": "TECNICAS ALTERNATIVAS PARA APROVEITAMENTO DE MADEIRA-PEQUENOS OBJETOS",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EFL0182"
+    ],
     "pre_requirements": []
   },
   {
@@ -696,16 +670,7 @@
     "nome": "TECNOLOGIA DA MADEIRA",
     "ch": 60,
     "post_requirements": [
-      "EFL0009",
-      "EFL0026",
-      "EFL0030",
-      "EFL0044",
-      "EFL0085",
-      "EFL0090",
-      "EFL0098",
-      "EFL0101",
-      "EFL0114",
-      "EFL0117"
+      "EFL0009"
     ],
     "pre_requirements": [
       "BOT0006 & EST0027 & EFL0010"
@@ -716,11 +681,7 @@
     "nome": "TECNOLOGIA DE PRODUTOS FLORESTAIS",
     "ch": 60,
     "post_requirements": [
-      "EFL0068",
-      "EFL0070",
-      "EFL0093",
-      "EFL0131",
-      "EFL0142"
+      "EFL0068"
     ],
     "pre_requirements": [
       "EFL0049"

@@ -14,7 +14,9 @@
     "cod": "ENF0076",
     "nome": "ADMINISTRA\u00c7\u00c3O DE MEDICAMENTOS EM SERVI\u00c7OS DE SA\u00daDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0199"
+    ],
     "pre_requirements": []
   },
   {
@@ -74,9 +76,7 @@
     "nome": "CONTEXTUALIZA\u00c7\u00c3O DA ENFERMAGEM NA SA\u00daDE",
     "ch": 30,
     "post_requirements": [
-      "ENF0058",
-      "ENF0106",
-      "ENF0146"
+      "ENF0058"
     ],
     "pre_requirements": []
   },
@@ -85,8 +85,7 @@
     "nome": "CUIDADO DA MULHER, DA CRIAN\u00c7A E DO ADOLESCENTE",
     "ch": 120,
     "post_requirements": [
-      "FCE0160",
-      "ENF0191"
+      "FCE0160"
     ],
     "pre_requirements": [
       "ENF0082 & ENF0064"
@@ -152,7 +151,9 @@
     "cod": "ENF0103",
     "nome": "DEM\u00caNCIAS: UM OLHAR NECESS\u00c1RIO",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0224"
+    ],
     "pre_requirements": []
   },
   {
@@ -275,7 +276,9 @@
     "cod": "ENF0019",
     "nome": "ENFERMAGEM EM SAUDE OCUPACIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0153"
+    ],
     "pre_requirements": []
   },
   {
@@ -294,13 +297,7 @@
     "nome": "ENFERMAGEM MEDICO-CIRURGICA 1 E ESTAGIO",
     "ch": 210,
     "post_requirements": [
-      "ENF0017",
-      "ENF0018",
-      "ENF0020",
-      "ENF0022",
-      "ENF0023",
-      "ENF0039",
-      "ENF0170"
+      "ENF0017"
     ],
     "pre_requirements": [
       "ENF0043"
@@ -312,10 +309,7 @@
     "ch": 180,
     "post_requirements": [
       "ENF0021",
-      "ENF0029",
-      "ENF0031",
-      "ENF0037",
-      "ENF0169"
+      "ENF0029"
     ],
     "pre_requirements": [
       "ENF0040"
@@ -389,14 +383,18 @@
     "cod": "ENF0070",
     "nome": "EST\u00c1GIO CURRICULAR OBRIGAT\u00d3RIO 1",
     "ch": 270,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0195"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENF0071",
     "nome": "EST\u00c1GIO CURRICULAR OBRIGAT\u00d3RIO 2",
     "ch": 240,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0196"
+    ],
     "pre_requirements": []
   },
   {
@@ -404,8 +402,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 1",
     "ch": 420,
     "post_requirements": [
-      "ENF0006",
-      "ENF0121"
+      "ENF0006"
     ],
     "pre_requirements": [
       "ENF0084 & ENF0068 & ENF0069 & PPB0014 & ENF0066 & ENF0001"
@@ -416,8 +413,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 1 - M\u00d3DULO I",
     "ch": 300,
     "post_requirements": [
-      "ENF0101",
-      "ENF0221"
+      "ENF0101"
     ],
     "pre_requirements": [
       "ENF0084 & ENF0068 & ENF0069 & PPB0014 & ENF0066 & ENF0001"
@@ -439,11 +435,7 @@
     "nome": "EST\u00c1GIO SUPERVISIONADO 2",
     "ch": 390,
     "post_requirements": [
-      "ENF0122",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENF0101"
+      "ENF0122"
     ],
     "pre_requirements": [
       "ENF0005"
@@ -486,7 +478,9 @@
     "cod": "ENF0078",
     "nome": "\u00c9TICA EM PESQUISA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0201"
+    ],
     "pre_requirements": []
   },
   {
@@ -528,8 +522,7 @@
     "nome": "FUNDAMENTOS DE ENFERMAGEM - TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "ENF0097",
-      "ENF0116"
+      "ENF0097"
     ],
     "pre_requirements": [
       "ENF0086 & ENF0059 & CEL0025 & CFS0037 & CEL0050 & FAR0031",
@@ -551,14 +544,18 @@
     "cod": "ENF0057",
     "nome": "GEST\u00c3O EM POLITICAS DE SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "DSC0020"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENF0102",
     "nome": "HIST\u00d3RIA DA ENFERMAGEM",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0223"
+    ],
     "pre_requirements": []
   },
   {
@@ -592,11 +589,7 @@
     "nome": "INTRODUCAO ENFERMAGEM E ESTAGIO",
     "ch": 225,
     "post_requirements": [
-      "ENF0038",
-      "ENF0040",
-      "ENF0042",
-      "ENF0052",
-      "ENF0172"
+      "ENF0038"
     ],
     "pre_requirements": [
       "ENF0047 & FAR0031 & CEL0050 & FMD0071 & FMD0095 & CFS0039"
@@ -607,12 +600,7 @@
     "nome": "METODOLOGIA DA PESQUISA EM SA\u00daDE",
     "ch": 30,
     "post_requirements": [
-      "ENF0126",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENF0058",
-      "ENF0146"
+      "ENF0126"
     ],
     "pre_requirements": []
   },
@@ -620,7 +608,9 @@
     "cod": "ENF0050",
     "nome": "PLANEJAMENTO FAMILIAR",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0118"
+    ],
     "pre_requirements": []
   },
   {
@@ -659,7 +649,9 @@
     "cod": "ENF0075",
     "nome": "PROCESSAMENTO DE ARTIGOS EM SERVI\u00c7OS DE SA\u00daDE",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0198"
+    ],
     "pre_requirements": []
   },
   {
@@ -667,8 +659,7 @@
     "nome": "PROCESSO DE TRABALHO",
     "ch": 30,
     "post_requirements": [
-      "ENF0017",
-      "ENF0112"
+      "ENF0017"
     ],
     "pre_requirements": [
       "ENF0057"
@@ -678,7 +669,9 @@
     "cod": "ENF0099",
     "nome": "PROJETO DE VIDA E CARREIRA PROFISSIONAL EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0138"
+    ],
     "pre_requirements": []
   },
   {
@@ -696,7 +689,9 @@
     "cod": "ENF0091",
     "nome": "RELA\u00c7\u00c3O DE AJUDA A PACIENTES CR\u00d4NICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0212"
+    ],
     "pre_requirements": []
   },
   {
@@ -726,14 +721,18 @@
     "cod": "ENF0012",
     "nome": "SA\u00daDE E ESPIRITUALIDADE NO CUIDADO INTEGRAL",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0149"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENF0002",
     "nome": "SA\u00daDE E TRABALHO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0140"
+    ],
     "pre_requirements": []
   },
   {
@@ -774,8 +773,7 @@
     "nome": "SEMIOLOGIA E SEMIOT\u00c9CNICA APLICADAS \u00c0 ENFERMAGEM - TE\u00d3RICA",
     "ch": 30,
     "post_requirements": [
-      "ENF0098",
-      "ENF0115"
+      "ENF0098"
     ],
     "pre_requirements": [
       "CEL0067"
@@ -786,8 +784,7 @@
     "nome": "SISTEMATIZACAO DA ASSISTENCIA EM ENFERMAGEM",
     "ch": 30,
     "post_requirements": [
-      "FCE0228",
-      "ENF0107"
+      "FCE0228"
     ],
     "pre_requirements": [
       "ENF0086 & ENF0059 & CEL0025 & CFS0037 & CEL0050 & FAR0031",
@@ -798,7 +795,9 @@
     "cod": "ENF0092",
     "nome": "TANATOLOGIA: EDUCA\u00c7\u00c3O PARA LIDAR E CUIDAR NA MORTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0213"
+    ],
     "pre_requirements": []
   },
   {
@@ -823,7 +822,9 @@
     "cod": "ENF0055",
     "nome": "T\u00d3PICOS AVAN\u00c7ADOS EM PROMO\u00c7\u00c3O DA SA\u00daDE 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0127"
+    ],
     "pre_requirements": []
   },
   {
@@ -831,8 +832,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
     "ch": 30,
     "post_requirements": [
-      "ENF0073",
-      "ENF0134"
+      "ENF0073"
     ],
     "pre_requirements": [
       "ENF0054 & ENF0066 & ENF0060"
@@ -878,7 +878,9 @@
     "cod": "ENF0077",
     "nome": "VIOL\u00caNCIAS EM SA\u00daDE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENF0200"
+    ],
     "pre_requirements": []
   },
   {
@@ -886,12 +888,7 @@
     "nome": "VIV\u00caNCIAS INTEGRADORAS 1",
     "ch": 30,
     "post_requirements": [
-      "ENF0059",
-      "ENF0128",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENF0054"
+      "ENF0059"
     ],
     "pre_requirements": [
       "ENF0047"
@@ -902,12 +899,7 @@
     "nome": "VIV\u00caNCIAS INTEGRADORAS 2",
     "ch": 30,
     "post_requirements": [
-      "ENF0061",
-      "ENF0129",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENF0086"
+      "ENF0061"
     ],
     "pre_requirements": [
       "ENF0058"
@@ -918,12 +910,7 @@
     "nome": "VIV\u00caNCIAS INTEGRADORAS 3",
     "ch": 30,
     "post_requirements": [
-      "ENF0063",
-      "ENF0131",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENF0087"
+      "ENF0063"
     ],
     "pre_requirements": [
       "ENF0059"
@@ -945,8 +932,7 @@
     "nome": "VIV\u00caNCIAS INTEGRADORAS 5",
     "ch": 120,
     "post_requirements": [
-      "ENF0067",
-      "ENF0133"
+      "ENF0067"
     ],
     "pre_requirements": [
       "ENF0063 & ENF0062 & NUT0054"
@@ -957,9 +943,7 @@
     "nome": "VIV\u00caNCIAS INTEGRADORAS 6",
     "ch": 150,
     "post_requirements": [
-      "FMD0065",
-      "ENF0068",
-      "ENF0110"
+      "FMD0065"
     ],
     "pre_requirements": [
       "ENF0065"

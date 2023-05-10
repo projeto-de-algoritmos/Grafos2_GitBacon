@@ -3,7 +3,9 @@
     "cod": "FAC0007",
     "nome": "AN\u00c1LISE AUDIOVISUAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0157"
+    ],
     "pre_requirements": []
   },
   {
@@ -19,7 +21,9 @@
     "cod": "FAC0010",
     "nome": "COMUNICA\u00c7\u00c3O INTERNA E CULTURA ORGANIZACIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0159"
+    ],
     "pre_requirements": []
   },
   {
@@ -27,8 +31,7 @@
     "nome": "EST\u00c9TICA E CULTURA DE MASSA",
     "ch": 60,
     "post_requirements": [
-      "JOR0074",
-      "FAC0164"
+      "J"
     ],
     "pre_requirements": []
   },
@@ -36,42 +39,54 @@
     "cod": "FAC0022",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0170"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAC0023",
     "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0171"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAC0027",
     "nome": "ESTUDOS AVANCADOS EM ELABORACAO DE PROJETOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0174"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAC0026",
     "nome": "ESTUDOS AVANCADOS EM METODOS DE PESQUISA EM COMUNICACAO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0173"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAC0025",
     "nome": "ESTUDOS AVANCADOS EM TEORIA DA COMINICACAO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0172"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "FAC0014",
     "nome": "EVOLUCAO DA CULTURA E DA COMUNICACAO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0162"
+    ],
     "pre_requirements": []
   },
   {
@@ -89,7 +104,9 @@
     "cod": "FAC0056",
     "nome": "OFICINA DE PRODU\u00c7\u00c3O DE ARTIGOS CIENT\u00cdFICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0175"
+    ],
     "pre_requirements": []
   },
   {
@@ -97,8 +114,7 @@
     "nome": "PESQUISA EM COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "DAP0046",
-      "FAC0165"
+      "DAP0046"
     ],
     "pre_requirements": []
   },
@@ -126,7 +142,9 @@
     "cod": "FAC0008",
     "nome": "SEMI\u00d3TICA E COMUNICA\u00c7\u00c3O",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "FAC0155"
+    ],
     "pre_requirements": []
   },
   {
@@ -154,8 +172,7 @@
     "nome": "TECNICAS DE RELACOES PUBLICAS",
     "ch": 60,
     "post_requirements": [
-      "DAP0065",
-      "FAC0166"
+      "DAP0065"
     ],
     "pre_requirements": []
   },

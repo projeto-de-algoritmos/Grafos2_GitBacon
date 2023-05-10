@@ -16,12 +16,7 @@
     "ch": 90,
     "post_requirements": [
       "EST0007",
-      "EST0014",
-      "EST0051",
-      "EST0064",
-      "ECO0264",
-      "EST0086",
-      "EST0118"
+      "EST0014"
     ],
     "pre_requirements": [
       "EST0035"
@@ -32,8 +27,7 @@
     "nome": "AN\u00c1LISE DE S\u00c9RIES TEMPORAIS",
     "ch": 60,
     "post_requirements": [
-      "EST0012",
-      "EST0102"
+      "EST0012"
     ],
     "pre_requirements": [
       "EST0038"
@@ -111,12 +105,7 @@
     "ch": 60,
     "post_requirements": [
       "FAV0038",
-      "FAV0192",
-      "FAV0302",
-      "FAV0343",
-      "EST0099",
-      "CFS0085",
-      "EFL0150"
+      "FAV0192"
     ],
     "pre_requirements": [
       "MAT0022",
@@ -127,7 +116,9 @@
     "cod": "EST0001",
     "nome": "COMPUTA\u00c7\u00c3O EM ESTAT\u00cdSTICA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EST0003"
+    ],
     "pre_requirements": []
   },
   {
@@ -213,8 +204,7 @@
     "nome": "DELINEAMENTO E AN\u00c1LISE DE EXPERIMENTOS",
     "ch": 90,
     "post_requirements": [
-      "EST0044",
-      "EST0119"
+      "EST0044"
     ],
     "pre_requirements": [
       "EST0035"
@@ -236,8 +226,7 @@
     "nome": "DEMOGRAFIA",
     "ch": 60,
     "post_requirements": [
-      "EST0013",
-      "EST0101"
+      "EST0013"
     ],
     "pre_requirements": [
       "EST0070",
@@ -273,8 +262,7 @@
     "ch": 90,
     "post_requirements": [
       "EST0025",
-      "ENF0056",
-      "EST0144"
+      "ENF0056"
     ],
     "pre_requirements": [
       "MAT0026 & EST0023"
@@ -296,18 +284,7 @@
     "nome": "ESTAT\u00cdSTICA APLICADA",
     "ch": 90,
     "post_requirements": [
-      "EST0046",
-      "PST0037",
-      "PST0039",
-      "GEA0036",
-      "ADM0035",
-      "FCI0052",
-      "ADM0198",
-      "FUP0282",
-      "FAV0345",
-      "CCA0183",
-      "EST0097",
-      "FAV0528"
+      "EST0046"
     ],
     "pre_requirements": []
   },
@@ -316,8 +293,7 @@
     "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 EDUCA\u00c7\u00c3O 1",
     "ch": 60,
     "post_requirements": [
-      "EST0021",
-      "EST0141"
+      "EST0021"
     ],
     "pre_requirements": []
   },
@@ -337,9 +313,7 @@
     "nome": "ESTAT\u00cdSTICA APLICADA \u00c0 PSICOLOGIA 1",
     "ch": 90,
     "post_requirements": [
-      "EST0029",
-      "PST0039",
-      "EST0147"
+      "EST0029"
     ],
     "pre_requirements": []
   },
@@ -384,8 +358,7 @@
     "nome": "ESTATISTICA ECONOMICA AVANCADA",
     "ch": 60,
     "post_requirements": [
-      "ECO0130",
-      "EST0172"
+      "EC"
     ],
     "pre_requirements": [
       "EST0062"
@@ -396,8 +369,7 @@
     "nome": "ESTATISTICA ECONOMICA INTERMEDIARIA",
     "ch": 60,
     "post_requirements": [
-      "EST0063",
-      "EST0171"
+      "EST0063"
     ],
     "pre_requirements": [
       "EST0061"
@@ -419,8 +391,7 @@
     "nome": "ESTAT\u00cdSTICA EXPLORAT\u00d3RIA",
     "ch": 60,
     "post_requirements": [
-      "EST0068",
-      "EST0100"
+      "EST0068"
     ],
     "pre_requirements": []
   },
@@ -474,11 +445,7 @@
     "ch": 90,
     "post_requirements": [
       "EST0005",
-      "EST0038",
-      "EST0040",
-      "EST0042",
-      "EST0052",
-      "EST0116"
+      "EST0038"
     ],
     "pre_requirements": [
       "MAT0031 & MAT0075 & MAT0027 & EST0070"
@@ -489,8 +456,7 @@
     "nome": "INTRODUCAO A ESTATISTICA ECONOMICA",
     "ch": 60,
     "post_requirements": [
-      "EST0062",
-      "EST0170"
+      "EST0062"
     ],
     "pre_requirements": [
       "MAT0025"
@@ -566,15 +532,7 @@
     "nome": "METODOS ESTATISTICOS 1",
     "ch": 60,
     "post_requirements": [
-      "EST0008",
-      "EST0015",
-      "EST0017",
-      "EST0045",
-      "EST0046",
-      "EST0057",
-      "EST0073",
-      "EST0074",
-      "EST0104"
+      "EST0008"
     ],
     "pre_requirements": [
       "EST0033 & EST0069",
@@ -620,8 +578,7 @@
     "nome": "PESQUISA OPERACIONAL 1",
     "ch": 60,
     "post_requirements": [
-      "ADM0307",
-      "EST0164"
+      "ADM0307"
     ],
     "pre_requirements": [
       "MAT0031 & MAT0026 & EST0069"
@@ -642,14 +599,18 @@
     "cod": "EST0087",
     "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM ESTAT\u00cdSTICA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "EST0187"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "EST0088",
     "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM ESTAT\u00cdSTICA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "EST0188"
+    ],
     "pre_requirements": []
   },
   {
@@ -657,23 +618,7 @@
     "nome": "PROBABILIDADE E ESTAT\u00cdSTICA",
     "ch": 60,
     "post_requirements": [
-      "EPR0014",
-      "EPR0030",
-      "EST0030",
-      "EST0045",
-      "EST0046",
-      "EST0059",
-      "EST0074",
-      "ENC0042",
-      "EST0083",
-      "ECO0128",
-      "ENM0145",
-      "EPR0064",
-      "EPR0066",
-      "ADM0035",
-      "EPR0068",
-      "CCA0183",
-      "EST0098"
+      "EPR0014"
     ],
     "pre_requirements": [
       "MAT0025",

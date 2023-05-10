@@ -5,8 +5,7 @@
     "ch": 60,
     "post_requirements": [
       "MAT0040",
-      "CIC0161",
-      "MAT0378"
+      "CIC0161"
     ],
     "pre_requirements": []
   },
@@ -39,8 +38,7 @@
     "ch": 90,
     "post_requirements": [
       "IFD0023",
-      "MAT0054",
-      "MAT0390"
+      "MAT0054"
     ],
     "pre_requirements": [
       "MAT0025"
@@ -118,14 +116,18 @@
     "cod": "MAT0082",
     "nome": "ANALISE COMBINATORIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0463"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0006",
     "nome": "AN\u00c1LISE COMBINAT\u00d3RIA PARA C\u00c1LCULO DE PROBASBILIDADES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0412"
+    ],
     "pre_requirements": []
   },
   {
@@ -156,26 +158,7 @@
     "nome": "C\u00c1LCULO 1",
     "ch": 90,
     "post_requirements": [
-      "IFD0012",
-      "IGD0108",
-      "MAT0026",
-      "MAT0039",
-      "EST0023",
-      "EST0027",
-      "EST0061",
-      "IQD0184",
-      "IFD0340",
-      "IFD0420",
-      "FGA0126",
-      "JOR0083",
-      "ENC0113",
-      "ADM0192",
-      "FGA0157",
-      "MAT0138",
-      "ECO0272",
-      "IQD0295",
-      "FAV0349",
-      "MAT0373"
+      "IFD0012"
     ],
     "pre_requirements": []
   },
@@ -184,9 +167,7 @@
     "nome": "C\u00c1LCULO 1 - SEMIPRESENCIAL",
     "ch": 90,
     "post_requirements": [
-      "IFD0340",
-      "MAT0138",
-      "MAT0497"
+      "IFD0340"
     ],
     "pre_requirements": []
   },
@@ -195,24 +176,7 @@
     "nome": "C\u00c1LCULO 2",
     "ch": 90,
     "post_requirements": [
-      "ENM0002",
-      "FGA0033",
-      "FGA0034",
-      "IGD0138",
-      "MAT0027",
-      "MAT0045",
-      "MAT0048",
-      "MAT0053",
-      "IQD0161",
-      "MAT0111",
-      "FGA0067",
-      "FGA0069",
-      "IQD0214",
-      "IQD0266",
-      "ENM0088",
-      "FGA0160",
-      "FGA0196",
-      "MAT0374"
+      "ENM0002"
     ],
     "pre_requirements": [
       "MAT0025",
@@ -236,28 +200,7 @@
     "nome": "C\u00c1LCULO 3",
     "ch": 90,
     "post_requirements": [
-      "IQD0005",
-      "MAT0028",
-      "MAT0047",
-      "MAT0059",
-      "MAT0072",
-      "MAT0120",
-      "FGA0062",
-      "IFD0198",
-      "IFD0252",
-      "ENM0017",
-      "ENE0177",
-      "ENM0089",
-      "ENM0184",
-      "FGA0187",
-      "ENC0274",
-      "ENC0275",
-      "MAT0375",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "IFD0055",
-      "MAT0075"
+      "IQD0005"
     ],
     "pre_requirements": [
       "MAT0026"
@@ -268,8 +211,7 @@
     "nome": "CALCULO DE PROBABILIDADE 1",
     "ch": 90,
     "post_requirements": [
-      "EST0084",
-      "MAT0382"
+      "EST0084"
     ],
     "pre_requirements": []
   },
@@ -278,8 +220,7 @@
     "nome": "CALCULO DE PROBABILIDADE 2",
     "ch": 60,
     "post_requirements": [
-      "EST0048",
-      "MAT0383"
+      "EST0048"
     ],
     "pre_requirements": [
       "MAT0075 & MAT0027"
@@ -289,21 +230,27 @@
     "cod": "MAT0012",
     "nome": "C\u00c1LCULO DE VARIAS VARI\u00c1VEIS",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0418"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0001",
     "nome": "CALCULO DIFERENCIAL DE UMA VARI\u00c1VEL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0407"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0007",
     "nome": "C\u00c1LCULO INTEGRAL DE UMA VARI\u00c1VEL",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0413"
+    ],
     "pre_requirements": []
   },
   {
@@ -312,8 +259,7 @@
     "ch": 60,
     "post_requirements": [
       "MAT0057",
-      "ENM0005",
-      "MAT0393"
+      "ENM0005"
     ],
     "pre_requirements": [
       "MAT0026"
@@ -324,15 +270,7 @@
     "nome": "EQUACOES DIFERENCIAIS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0002",
-      "FGA0034",
-      "IFD0198",
-      "FGA0067",
-      "FGA0069",
-      "ENM0088",
-      "ENM0089",
-      "FGA0196",
-      "MAT0442"
+      "ENM0002"
     ],
     "pre_requirements": [
       "MAT0026"
@@ -342,14 +280,18 @@
     "cod": "MAT0005",
     "nome": "EST\u00c1GIO DE DOC\u00caNCIA 1",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0411"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0013",
     "nome": "EST\u00c1GIO DE DOC\u00caNCIA 2",
     "ch": 105,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0419"
+    ],
     "pre_requirements": []
   },
   {
@@ -433,14 +375,18 @@
     "cod": "MAT0015",
     "nome": "FUNDAMENTOS DE \u00c1LGEBRA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0421"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0008",
     "nome": "FUNDAMENTOS DE \u00c1LGEBRA 2",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0414"
+    ],
     "pre_requirements": []
   },
   {
@@ -470,7 +416,9 @@
     "cod": "MAT0085",
     "nome": "GEOMETRIA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0114"
+    ],
     "pre_requirements": []
   },
   {
@@ -478,10 +426,7 @@
     "nome": "GEOMETRIA 1",
     "ch": 60,
     "post_requirements": [
-      "MAT0108",
-      "MAT0114",
-      "MAT0129",
-      "MAT0399"
+      "MAT0108"
     ],
     "pre_requirements": [
       "MAT0026 & MAT0031",
@@ -494,8 +439,7 @@
     "nome": "GEOMETRIA 2",
     "ch": 60,
     "post_requirements": [
-      "MAT0131",
-      "MAT0385"
+      "MAT0131"
     ],
     "pre_requirements": [
       "MAT0085",
@@ -506,14 +450,18 @@
     "cod": "MAT0003",
     "nome": "GEOMETRIA ANAL\u00cdTICA E VETORES",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0409"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0010",
     "nome": "GEOMETRIA ANAL\u00cdTICA PARA MATEM\u00c1TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0371"
+    ],
     "pre_requirements": []
   },
   {
@@ -531,14 +479,18 @@
     "cod": "MAT0014",
     "nome": "GEOMETRIA ESPACIAL",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0420"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0062",
     "nome": "GEOMETRIA PARA ENSINO DO 1 E 2 GRAUS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0450"
+    ],
     "pre_requirements": []
   },
   {
@@ -567,14 +519,18 @@
     "cod": "MAT0004",
     "nome": "GEOMETRIA PLANA 1",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0410"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0016",
     "nome": "GEOMETRIA PLANA 2",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0422"
+    ],
     "pre_requirements": []
   },
   {
@@ -594,21 +550,27 @@
     "cod": "MAT0142",
     "nome": "INICIA\u00c7\u00c3O CIENT\u00cdFICA EM MATEM\u00c1TICA 1",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0502"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0143",
     "nome": "INICIA\u00c7\u00c3O CIENT\u00cdFICA EM MATEM\u00c1TICA 2",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0503"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0144",
     "nome": "INICIA\u00c7\u00c3O CIENT\u00cdFICA EM MATEM\u00c1TICA 3",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0504"
+    ],
     "pre_requirements": []
   },
   {
@@ -616,11 +578,7 @@
     "nome": "INTRODUCAO A ALGEBRA LINEAR",
     "ch": 60,
     "post_requirements": [
-      "IGD0138",
-      "MAT0054",
-      "FGA0071",
-      "FGA0073",
-      "MAT0377"
+      "IGD0138"
     ],
     "pre_requirements": []
   },
@@ -628,7 +586,9 @@
     "cod": "MAT0077",
     "nome": "INTRODUCAO A AUTOMATOS PROBABILISTICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0459"
+    ],
     "pre_requirements": []
   },
   {
@@ -648,8 +608,7 @@
     "nome": "INTRODUCAO A MATEMATICA SUPERIOR",
     "ch": 90,
     "post_requirements": [
-      "FAV0349",
-      "MAT0455"
+      "FAV0349"
     ],
     "pre_requirements": []
   },
@@ -670,9 +629,7 @@
     "nome": "INTRODUCAO A PROGRAMACAO LINEAR",
     "ch": 60,
     "post_requirements": [
-      "MAT0098",
-      "MAT0100",
-      "MAT0445"
+      "MAT0098"
     ],
     "pre_requirements": [
       "MAT0031",
@@ -694,7 +651,9 @@
     "cod": "MAT0017",
     "nome": "INTRODU\u00c7\u00c3O \u00c0S PROBABILIDADES DISCRETAS",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0423"
+    ],
     "pre_requirements": []
   },
   {
@@ -721,21 +680,27 @@
     "cod": "MAT0011",
     "nome": "LABORAT\u00d3RIO DE ENSINO DE MATEM\u00c1TICA",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0417"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0081",
     "nome": "LINGUAGENS FORMAIS E AUTOMATOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "CIC0010"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0119",
     "nome": "L\u00d3GICA MATEM\u00c1TICA E COMPUTACIONAL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0486"
+    ],
     "pre_requirements": []
   },
   {
@@ -744,16 +709,7 @@
     "ch": 60,
     "post_requirements": [
       "MAT0023",
-      "EST0023",
-      "EST0027",
-      "IFD0340",
-      "FAU0183",
-      "ADM0192",
-      "ECO0272",
-      "IQD0295",
-      "FUP0546",
-      "FAV0349",
-      "MAT0372"
+      "EST0023"
     ],
     "pre_requirements": []
   },
@@ -762,8 +718,7 @@
     "nome": "MATEMATICA 2",
     "ch": 60,
     "post_requirements": [
-      "IQD0214",
-      "MAT0389"
+      "IQD0214"
     ],
     "pre_requirements": [
       "MAT0022"
@@ -775,10 +730,7 @@
     "ch": 90,
     "post_requirements": [
       "IFD0023",
-      "CIC0114",
-      "MAT0099",
-      "IFD0254",
-      "MAT0394"
+      "CIC0114"
     ],
     "pre_requirements": [
       "MAT0027"
@@ -821,21 +773,27 @@
     "cod": "MAT0139",
     "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM MATEM\u00c1TICA 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0499"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0140",
     "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM MATEM\u00c1TICA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0500"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0141",
     "nome": "PR\u00c1TICAS DE EXTENS\u00c3O EM MATEM\u00c1TICA 3",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0501"
+    ],
     "pre_requirements": []
   },
   {
@@ -853,7 +811,9 @@
     "cod": "MAT0132",
     "nome": "PROGRAMA\u00c7\u00c3O MATEM\u00c1TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0494"
+    ],
     "pre_requirements": []
   },
   {
@@ -861,8 +821,7 @@
     "nome": "PROGRAMACAO NAO LINEAR",
     "ch": 60,
     "post_requirements": [
-      "MAT0101",
-      "MAT0473"
+      "MAT0101"
     ],
     "pre_requirements": [
       "MAT0054"
@@ -941,8 +900,7 @@
     "nome": "TEORIA DOS N\u00daMEROS 1",
     "ch": 60,
     "post_requirements": [
-      "CIC0161",
-      "MAT0379"
+      "CIC0161"
     ],
     "pre_requirements": []
   },
@@ -961,28 +919,36 @@
     "cod": "MAT0019",
     "nome": "T\u00d3PICOS DE \u00c1LGEBRA LINEAR",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0425"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0002",
     "nome": "T\u00d3PICOS DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0388"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0018",
     "nome": "T\u00d3PICOS DE GEOMETRIA ANAL\u00cdTICA",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0424"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "MAT0009",
     "nome": "T\u00d3PICOS EM GEOMETRIA ANAL\u00cdTICA",
     "ch": 15,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0415"
+    ],
     "pre_requirements": []
   },
   {
@@ -1000,7 +966,9 @@
     "cod": "MAT0020",
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "MAT0426"
+    ],
     "pre_requirements": []
   },
   {
@@ -1008,8 +976,7 @@
     "nome": "TRABALHO FINAL 1",
     "ch": 15,
     "post_requirements": [
-      "MAT0126",
-      "MAT0490"
+      "MAT0126"
     ],
     "pre_requirements": [
       "MAT0129 & MAT0122"

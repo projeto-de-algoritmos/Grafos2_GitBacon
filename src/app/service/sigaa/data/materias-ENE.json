@@ -16,8 +16,7 @@
     "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0276",
-      "ENE0366"
+      "ENE0276"
     ],
     "pre_requirements": [
       "ENE0334"
@@ -39,12 +38,7 @@
     "nome": "AN\u00c1LISE DIN\u00c2MICA  LINEAR",
     "ch": 90,
     "post_requirements": [
-      "ENE0004",
-      "ENE0051",
-      "ENE0052",
-      "ENE0084",
-      "ENE0258",
-      "ENE0511"
+      "ENE0004"
     ],
     "pre_requirements": [
       "ENE0174",
@@ -57,11 +51,7 @@
     "nome": "AN\u00c1LISE DIN\u00c2MICA LINEAR",
     "ch": 60,
     "post_requirements": [
-      "ENE0466",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0036"
+      "ENE0466"
     ],
     "pre_requirements": [
       "ENE0037 & ENE0038",
@@ -120,8 +110,7 @@
     "nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
     "ch": 90,
     "post_requirements": [
-      "CIC0130",
-      "ENE0568"
+      "CIC0130"
     ],
     "pre_requirements": [
       "ENE0291",
@@ -154,12 +143,7 @@
     "nome": "ARQUITETURA E PROTOCOLOS DE REDES",
     "ch": 90,
     "post_requirements": [
-      "ENE0064",
-      "ENE0087",
-      "ENE0333",
-      "ENE0349",
-      "ENE0352",
-      "ENE0564"
+      "ENE0064"
     ],
     "pre_requirements": [
       "ENE0274 & ENE0335"
@@ -240,8 +224,7 @@
     "nome": "CIRCUITOS DE RADIOFREQU\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "ENE0200",
-      "ENE0427"
+      "ENE0200"
     ],
     "pre_requirements": [
       "ENE0310",
@@ -254,14 +237,7 @@
     "nome": "CIRCUITOS EL\u00c9TRICOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0248",
-      "ENE0289",
-      "ENE0313",
-      "ENE0435",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0282"
+      "ENE0248"
     ],
     "pre_requirements": [
       "ENE0066 & ENE0067",
@@ -273,13 +249,7 @@
     "nome": "CIRCUITOS ELETRICOS 1",
     "ch": 90,
     "post_requirements": [
-      "ENE0037",
-      "ENE0038",
-      "ENE0248",
-      "ENE0289",
-      "ENE0313",
-      "ENM0174",
-      "ENE0531"
+      "ENE0037"
     ],
     "pre_requirements": [
       "MAT0031 & MAT0048"
@@ -290,12 +260,7 @@
     "nome": "CIRCUITOS EL\u00c9TRICOS 1",
     "ch": 60,
     "post_requirements": [
-      "ENE0289",
-      "ENE0402",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0044"
+      "ENE0289"
     ],
     "pre_requirements": [
       "MAT0031 & MAT0026"
@@ -307,13 +272,7 @@
     "ch": 90,
     "post_requirements": [
       "ENE0035",
-      "ENE0036",
-      "ENE0065",
-      "ENE0085",
-      "ENE0166",
-      "ENM0118",
-      "ENE0301",
-      "ENE0532"
+      "ENE0036"
     ],
     "pre_requirements": [
       "ENE0172 & MAT0028"
@@ -324,15 +283,7 @@
     "nome": "CIRCUITOS EL\u00c9TRICOS 2",
     "ch": 60,
     "post_requirements": [
-      "ENE0068",
-      "CIC0196",
-      "ENE0209",
-      "ENE0339",
-      "ENE0400",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0038"
+      "ENE0068"
     ],
     "pre_requirements": [
       "ENE0042 & ENE0044",
@@ -345,10 +296,7 @@
     "nome": "CIRCUITOS ELETRICOS APLICADOS",
     "ch": 90,
     "post_requirements": [
-      "ENE0065",
-      "ENE0085",
-      "ENE0301",
-      "ENE0605"
+      "ENE0065"
     ],
     "pre_requirements": [
       "ENE0172",
@@ -361,13 +309,7 @@
     "ch": 60,
     "post_requirements": [
       "ENE0071",
-      "ENE0228",
-      "ENE0229",
-      "ENE0231",
-      "ENE0235",
-      "ENE0251",
-      "ENE0267",
-      "ENE0433"
+      "ENE0228"
     ],
     "pre_requirements": [
       "ENE0304",
@@ -380,7 +322,9 @@
     "cod": "ENE0334",
     "nome": "COMPUTACAO PARA ENGENHARIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENE0013"
+    ],
     "pre_requirements": []
   },
   {
@@ -445,10 +389,7 @@
     "nome": "CONTROLE DE PROCESSOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0005",
-      "ENE0079",
-      "ENE0167",
-      "ENE0362"
+      "ENE0005"
     ],
     "pre_requirements": [
       "IQD0005 & IQD0048",
@@ -460,12 +401,7 @@
     "nome": "CONTROLE DE SISTEMAS DIN\u00c2MICOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0005",
-      "ENE0078",
-      "ENE0079",
-      "ENE0328",
-      "ENE0345",
-      "ENE0379"
+      "ENE0005"
     ],
     "pre_requirements": [
       "ENE0304 & ENE0282",
@@ -477,8 +413,7 @@
     "nome": "CONTROLE DIGITAL",
     "ch": 60,
     "post_requirements": [
-      "ENE0163",
-      "ENE0424"
+      "ENE0163"
     ],
     "pre_requirements": [
       "ENE0084",
@@ -495,14 +430,7 @@
     "nome": "CONTROLE DIN\u00c2MICO",
     "ch": 60,
     "post_requirements": [
-      "ENE0078",
-      "ENE0079",
-      "ENE0167",
-      "ENE0480",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0052"
+      "ENE0078"
     ],
     "pre_requirements": [
       "ENE0035 & ENE0036",
@@ -514,17 +442,7 @@
     "nome": "CONTROLE DIN\u00c2MICO",
     "ch": 90,
     "post_requirements": [
-      "ENM0001",
-      "ENE0003",
-      "ENE0005",
-      "ENE0167",
-      "ENE0168",
-      "ENE0240",
-      "ENE0260",
-      "ENE0323",
-      "ENE0328",
-      "ENE0345",
-      "ENE0510"
+      "ENM0001"
     ],
     "pre_requirements": [
       "ENE0085",
@@ -536,14 +454,7 @@
     "nome": "CONTROLE LINEAR",
     "ch": 60,
     "post_requirements": [
-      "ENE0165",
-      "ENE0168",
-      "ENE0323",
-      "ENE0608",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0290"
+      "ENE0165"
     ],
     "pre_requirements": [
       "ENE0301"
@@ -565,8 +476,7 @@
     "nome": "CONTROLE NO ESPA\u00c7O DE ESTADOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0260",
-      "ENE0419"
+      "ENE0260"
     ],
     "pre_requirements": [
       "ENE0077",
@@ -591,11 +501,7 @@
     "nome": "CONVERS\u00c3O DE ENERGIA E M\u00c1QUINAS EL\u00c9TRICAS",
     "ch": 60,
     "post_requirements": [
-      "ENE0225",
-      "ENE0288",
-      "ENE0317",
-      "ENE0341",
-      "ENE0425"
+      "ENE0225"
     ],
     "pre_requirements": [
       "ENE0304 & ENE0177",
@@ -608,8 +514,7 @@
     "nome": "CONVERS\u00c3O ELETROMEC\u00c2NICA DE ENERGIA",
     "ch": 60,
     "post_requirements": [
-      "ENE0048",
-      "ENE0406"
+      "ENE0048"
     ],
     "pre_requirements": [
       "ENE0042 & ENE0044 & IFD0179",
@@ -624,11 +529,7 @@
     "nome": "CONVERS\u00c3O ELETROMEC\u00c2NICA DE ENERGIA",
     "ch": 90,
     "post_requirements": [
-      "ENE0134",
-      "ENE0317",
-      "ENE0341",
-      "FGA0250",
-      "ENE0518"
+      "ENE0134"
     ],
     "pre_requirements": [
       "ENE0172 & IFD0179 & ENM0121",
@@ -642,15 +543,7 @@
     "nome": "DISPOSITIVOS E CIRCUITOS ELETR\u00d4NICOS",
     "ch": 90,
     "post_requirements": [
-      "ENE0019",
-      "ENE0075",
-      "ENE0170",
-      "ENE0183",
-      "ENE0238",
-      "ENE0321",
-      "ENM0180",
-      "ENE0355",
-      "ENE0622"
+      "ENE0019"
     ],
     "pre_requirements": [
       "ENE0174 & IFD0179",
@@ -663,13 +556,7 @@
     "nome": "DISPOSITIVOS E CIRCUITOS ELETR\u00d4NICOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0223",
-      "ENE0355",
-      "ENE0461",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0028"
+      "ENE0223"
     ],
     "pre_requirements": [
       "ENE0037 & ENE0038 & ENE0177",
@@ -708,9 +595,7 @@
     "nome": "ELETRICIDADE",
     "ch": 90,
     "post_requirements": [
-      "ENM0174",
-      "ENM0180",
-      "ENE0567"
+      "ENM0174"
     ],
     "pre_requirements": [
       "IFD0072",
@@ -722,8 +607,7 @@
     "nome": "ELETRICIDADE B\u00c1SICA",
     "ch": 60,
     "post_requirements": [
-      "ENM0174",
-      "ENE0392"
+      "ENM0174"
     ],
     "pre_requirements": [
       "MAT0027 & MAT0031"
@@ -734,11 +618,7 @@
     "nome": "ELETROMAGNETISMO",
     "ch": 60,
     "post_requirements": [
-      "ENE0199",
-      "ENE0283",
-      "ENE0284",
-      "ENE0331",
-      "ENE0604"
+      "ENE0199"
     ],
     "pre_requirements": [
       "ENE0303 & MAT0028",
@@ -750,18 +630,7 @@
     "nome": "ELETROMAGNETISMO 1",
     "ch": 60,
     "post_requirements": [
-      "ENE0049",
-      "ENE0050",
-      "ENE0053",
-      "ENE0054",
-      "IFD0183",
-      "IFD0185",
-      "IFD0236",
-      "IFD0244",
-      "ENE0195",
-      "ENE0283",
-      "ENE0353",
-      "ENE0380"
+      "ENE0049"
     ],
     "pre_requirements": [
       "MAT0027"
@@ -772,10 +641,7 @@
     "nome": "ELETROMAGNETISMO 2",
     "ch": 90,
     "post_requirements": [
-      "ENE0199",
-      "ENE0284",
-      "ENE0331",
-      "ENE0534"
+      "ENE0199"
     ],
     "pre_requirements": [
       "ENE0177 & MAT0028",
@@ -788,12 +654,7 @@
     "ch": 60,
     "post_requirements": [
       "ENE0194",
-      "ENE0199",
-      "ENE0408",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0054"
+      "ENE0199"
     ],
     "pre_requirements": [
       "ENE0177"
@@ -827,13 +688,7 @@
     "nome": "ELETR\u00d4NICA",
     "ch": 60,
     "post_requirements": [
-      "ENE0355",
-      "ENE0404",
-      "ENE0438",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0046"
+      "ENE0355"
     ],
     "pre_requirements": [
       "ENE0304 & ENE0282 & ENE0177",
@@ -847,10 +702,7 @@
     "nome": "ELETRONICA 1",
     "ch": 60,
     "post_requirements": [
-      "ENE0212",
-      "ENE0215",
-      "ENE0355",
-      "ENE0598"
+      "ENE0212"
     ],
     "pre_requirements": [
       "ENE0184 & ENE0304",
@@ -862,16 +714,7 @@
     "nome": "ELETRONICA 1",
     "ch": 90,
     "post_requirements": [
-      "FGA0017",
-      "ENE0019",
-      "IFD0142",
-      "ENE0170",
-      "ENE0212",
-      "ENE0215",
-      "ENE0247",
-      "ENE0321",
-      "FGA0215",
-      "ENE0535"
+      "FGA0017"
     ],
     "pre_requirements": [
       "ENE0172 & ENE0184"
@@ -882,12 +725,7 @@
     "nome": "ELETRONICA 2",
     "ch": 60,
     "post_requirements": [
-      "ENE0233",
-      "ENE0606",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0287"
+      "ENE0233"
     ],
     "pre_requirements": [
       "ENE0302 & ENE0313",
@@ -899,9 +737,7 @@
     "nome": "ELETRONICA 2",
     "ch": 90,
     "post_requirements": [
-      "ENE0162",
-      "ENE0233",
-      "ENE0536"
+      "ENE0162"
     ],
     "pre_requirements": [
       "ENE0181 & ENE0174",
@@ -915,11 +751,7 @@
     "nome": "ELETR\u00d4NICA 2",
     "ch": 60,
     "post_requirements": [
-      "ENE0411",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0060"
+      "ENE0411"
     ],
     "pre_requirements": [
       "ENE0045 & ENE0046",
@@ -931,8 +763,7 @@
     "nome": "ELETR\u00d4NICA DE POT\u00caNCIA",
     "ch": 60,
     "post_requirements": [
-      "ENE0080",
-      "ENE0612"
+      "ENE0080"
     ],
     "pre_requirements": [
       "ENE0045 & ENE0046  &  ENE0186",
@@ -1042,10 +873,7 @@
     "nome": "FUNDAMENTOS DE REDES",
     "ch": 60,
     "post_requirements": [
-      "ENE0015",
-      "ENE0089",
-      "ENC0261",
-      "ENE0383"
+      "ENE0015"
     ],
     "pre_requirements": [
       "EST0023 & ENE0013"
@@ -1056,9 +884,7 @@
     "nome": "FUNDAMENTOS DE REDES 2",
     "ch": 60,
     "post_requirements": [
-      "ENE0021",
-      "ENE0025",
-      "ENE0394"
+      "ENE0021"
     ],
     "pre_requirements": [
       "ENE0274"
@@ -1130,9 +956,7 @@
     "nome": "INSTALA\u00c7\u00d5ES ELETRICAS",
     "ch": 90,
     "post_requirements": [
-      "ENE0336",
-      "ENC0262",
-      "ENE0559"
+      "ENE0336"
     ],
     "pre_requirements": [
       "ENE0289"
@@ -1143,8 +967,7 @@
     "nome": "INSTALA\u00c7\u00d5ES EL\u00c9TRICAS",
     "ch": 60,
     "post_requirements": [
-      "ENE0072",
-      "ENE0377"
+      "ENE0072"
     ],
     "pre_requirements": [
       "ENE0289"
@@ -1220,14 +1043,18 @@
     "cod": "ENE0026",
     "nome": "INTRODU\u00c7\u00c3O A ENGENHARIA DE REDES DE COMUNICAC\u00c3O",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENE0369"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENE0155",
     "nome": "INTRODUCAO A ENGENHARIA ELETRICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0261"
+    ],
     "pre_requirements": []
   },
   {
@@ -1310,11 +1137,7 @@
     "nome": "LABORAT\u00d3RIO DE AN\u00c1LISE DIN\u00c2MICA LINEAR",
     "ch": 30,
     "post_requirements": [
-      "ENE0467",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0035"
+      "ENE0467"
     ],
     "pre_requirements": [
       "ENE0037 & ENE0038",
@@ -1344,8 +1167,7 @@
     "nome": "LABORAT\u00d3RIO DE CIRCUITOS EL\u00c9TRICOS",
     "ch": 30,
     "post_requirements": [
-      "ENM0118",
-      "ENE0384"
+      "ENM0118"
     ],
     "pre_requirements": [
       "ENE0066 & ENE0067",
@@ -1357,11 +1179,7 @@
     "nome": "LABORAT\u00d3RIO DE CIRCUITOS EL\u00c9TRICOS 1",
     "ch": 30,
     "post_requirements": [
-      "ENE0403",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0042"
+      "ENE0403"
     ],
     "pre_requirements": [
       "MAT0031 & MAT0026"
@@ -1372,12 +1190,7 @@
     "nome": "LABORAT\u00d3RIO DE CIRCUITOS EL\u00c9TRICOS 2",
     "ch": 30,
     "post_requirements": [
-      "ENM0118",
-      "ENE0401",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0037"
+      "ENM0118"
     ],
     "pre_requirements": [
       "ENE0042 & ENE0044",
@@ -1390,11 +1203,7 @@
     "nome": "LABORATORIO DE CONTROLE",
     "ch": 60,
     "post_requirements": [
-      "ENE0592",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0319"
+      "ENE0592"
     ],
     "pre_requirements": [
       "ENE0301"
@@ -1417,8 +1226,7 @@
     "nome": "LABORAT\u00d3RIO DE CONTROLE DE SISTEMAS DIN\u00c2MICOS",
     "ch": 30,
     "post_requirements": [
-      "ENE0240",
-      "ENE0418"
+      "ENE0240"
     ],
     "pre_requirements": [
       "ENE0077",
@@ -1430,11 +1238,7 @@
     "nome": "LABORAT\u00d3RIO DE CONTROLE DIN\u00c2MICO",
     "ch": 30,
     "post_requirements": [
-      "ENE0481",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0051"
+      "ENE0481"
     ],
     "pre_requirements": [
       "ENE0035 & ENE0036",
@@ -1479,11 +1283,7 @@
     "nome": "LABORAT\u00d3RIO DE DISPOSITIVOS E CIRCUITOS ELETR\u00d4NICOS",
     "ch": 30,
     "post_requirements": [
-      "ENE0462",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0027"
+      "ENE0462"
     ],
     "pre_requirements": [
       "ENE0037 & ENE0038 & ENE0177",
@@ -1531,11 +1331,7 @@
     "nome": "LABORATORIO DE ELETRONICA",
     "ch": 60,
     "post_requirements": [
-      "ENE0589",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0314"
+      "ENE0589"
     ],
     "pre_requirements": [
       "ENE0302 & ENE0313 & ENE0282",
@@ -1644,12 +1440,7 @@
     "nome": "LABORATORIO DE SISTEMAS DIGITAIS",
     "ch": 30,
     "post_requirements": [
-      "ENE0245",
-      "ENE0593",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0320"
+      "ENE0245"
     ],
     "pre_requirements": [
       "ENE0302 & ENE0181"
@@ -1673,11 +1464,7 @@
     "nome": "LABORAT\u00d3RIO DE SISTEMAS DIGITAIS 2",
     "ch": 30,
     "post_requirements": [
-      "ENE0465",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0031"
+      "ENE0465"
     ],
     "pre_requirements": [
       "ENE0039 & ENE0040",
@@ -1689,8 +1476,7 @@
     "nome": "LABORAT\u00d3RIO DE SISTEMAS EL\u00c9TRICOS DE POT\u00caNCIA",
     "ch": 30,
     "post_requirements": [
-      "ENE0074",
-      "ENE0416"
+      "ENE0074"
     ],
     "pre_requirements": [
       "ENE0186 & ENE0289"
@@ -1734,8 +1520,7 @@
     "nome": "MATERIAIS ELETRICOS E MAGNETICOS",
     "ch": 90,
     "post_requirements": [
-      "ENE0238",
-      "ENE0537"
+      "ENE0238"
     ],
     "pre_requirements": [
       "ENE0177 & MAT0059",
@@ -1747,12 +1532,7 @@
     "nome": "MATERIAIS EL\u00c9TRICOS E MAGN\u00c9TICOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0075",
-      "ENE0407",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0050"
+      "ENE0075"
     ],
     "pre_requirements": [
       "ENE0177"
@@ -1831,16 +1611,7 @@
     "nome": "PRINC\u00cdPIOS DE COMUNICA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ENE0014",
-      "ENE0202",
-      "ENE0204",
-      "ENE0206",
-      "ENE0211",
-      "ENE0223",
-      "ENE0262",
-      "ENE0265",
-      "ENE0329",
-      "ENE0386"
+      "ENE0014"
     ],
     "pre_requirements": [
       "EST0023 & ENE0174",
@@ -1878,9 +1649,7 @@
     "nome": "PROJETO FINAL DE GRADUA\u00c7\u00c3O 1",
     "ch": 30,
     "post_requirements": [
-      "ENE0343",
-      "ENE0360",
-      "ENE0632"
+      "ENE0343"
     ],
     "pre_requirements": []
   },
@@ -1889,9 +1658,7 @@
     "nome": "PROJETO FINAL DE GRADUA\u00c7\u00c3O 1",
     "ch": 30,
     "post_requirements": [
-      "ENE0343",
-      "ENE0360",
-      "ENE0624"
+      "ENE0343"
     ],
     "pre_requirements": [
       "ENE0024"
@@ -1937,10 +1704,7 @@
     "nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICA\u00c7\u00c3O 2",
     "ch": 60,
     "post_requirements": [
-      "CIC0191",
-      "ENE0342",
-      "ENE0358",
-      "ENE0398"
+      "CIC0191"
     ],
     "pre_requirements": [
       "ENE0022 & ENE0091 & ENE0274"
@@ -1974,8 +1738,7 @@
     "nome": "PROTOCOLOS DE TRANSPORTE E ROTEAMENTO",
     "ch": 60,
     "post_requirements": [
-      "ENE0088",
-      "ENE0399"
+      "ENE0088"
     ],
     "pre_requirements": [
       "ENE0015"
@@ -2010,8 +1773,7 @@
     "nome": "REDES DE COMUNICACAO DE DADOS",
     "ch": 60,
     "post_requirements": [
-      "ENC0262",
-      "ENE0617"
+      "ENC0262"
     ],
     "pre_requirements": [
       "ENE0237",
@@ -2034,8 +1796,7 @@
     "nome": "REDES DE TELECOMUNICA\u00c7\u00d5ES 1",
     "ch": 90,
     "post_requirements": [
-      "ENE0086",
-      "ENE0509"
+      "ENE0086"
     ],
     "pre_requirements": [
       "ENE0306 & ENE0237",
@@ -2108,11 +1869,7 @@
     "nome": "SINAIS E SISTEMAS EM TEMPO CONT\u00cdNUO",
     "ch": 60,
     "post_requirements": [
-      "ENE0068",
-      "CIC0196",
-      "ENE0209",
-      "ENE0414",
-      "ENE0494"
+      "ENE0068"
     ],
     "pre_requirements": [
       "MAT0026 & MAT0031"
@@ -2123,8 +1880,7 @@
     "nome": "SINAIS E SISTEMAS EM TEMPO DISCRETO",
     "ch": 60,
     "post_requirements": [
-      "ENE0339",
-      "ENE0376"
+      "ENE0339"
     ],
     "pre_requirements": [
       "ENE0067",
@@ -2196,8 +1952,7 @@
     "nome": "SISTEMAS DE PROGRAMACAO",
     "ch": 60,
     "post_requirements": [
-      "ENE0276",
-      "ENE0619"
+      "ENE0276"
     ],
     "pre_requirements": [
       "ENE0334",
@@ -2209,11 +1964,7 @@
     "nome": "SISTEMAS DIGITAIS",
     "ch": 60,
     "post_requirements": [
-      "ENE0370",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0040"
+      "ENE0370"
     ],
     "pre_requirements": [
       "CIC0007",
@@ -2226,12 +1977,7 @@
     "nome": "SISTEMAS DIGITAIS",
     "ch": 60,
     "post_requirements": [
-      "ENE0245",
-      "ENE0609",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0291"
+      "ENE0245"
     ],
     "pre_requirements": [
       "ENE0302 & ENE0181"
@@ -2243,14 +1989,7 @@
     "ch": 90,
     "post_requirements": [
       "ENE0031",
-      "ENE0034",
-      "CIC0099",
-      "FGA0072",
-      "FGA0074",
-      "ENE0278",
-      "ENM0178",
-      "FGA0142",
-      "ENE0584"
+      "ENE0034"
     ],
     "pre_requirements": []
   },
@@ -2259,11 +1998,7 @@
     "nome": "SISTEMAS DIGITAIS 2",
     "ch": 60,
     "post_requirements": [
-      "ENE0464",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0034"
+      "ENE0464"
     ],
     "pre_requirements": [
       "ENE0039 & ENE0040",
@@ -2284,12 +2019,7 @@
     "nome": "SISTEMAS DIGITAIS 2",
     "ch": 90,
     "post_requirements": [
-      "CIC0186",
-      "FGA0096",
-      "ENE0245",
-      "FGA0182",
-      "FGA0201",
-      "ENE0585"
+      "CIC0186"
     ],
     "pre_requirements": [
       "ENE0277",
@@ -2301,11 +2031,7 @@
     "nome": "SISTEMAS LINEARES",
     "ch": 60,
     "post_requirements": [
-      "ENE0084",
-      "ENE0258",
-      "ENE0290",
-      "ENE0319",
-      "ENE0597"
+      "ENE0084"
     ],
     "pre_requirements": [
       "ENE0313",
@@ -2317,12 +2043,7 @@
     "nome": "SISTEMAS MICROPROCESSADOS",
     "ch": 60,
     "post_requirements": [
-      "ENE0374",
-      "",
-      "",
-      "Outros componentes que t\u00eam esse componente como co",
-      "ENE0058",
-      "ENE0440"
+      "ENE0374"
     ],
     "pre_requirements": [
       "ENE0039 & ENE0040"
@@ -2427,16 +2148,7 @@
     "nome": "TEORIA DE COMUNICACOES",
     "ch": 90,
     "post_requirements": [
-      "ENE0163",
-      "ENE0202",
-      "ENE0204",
-      "ENE0206",
-      "ENE0207",
-      "ENE0211",
-      "ENE0262",
-      "ENE0265",
-      "ENE0329",
-      "ENE0539"
+      "ENE0163"
     ],
     "pre_requirements": [
       "ENE0174 & EST0023",
@@ -2468,7 +2180,9 @@
     "cod": "ENE0332",
     "nome": "TOPICOS EM ENGENHARIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENE0387"
+    ],
     "pre_requirements": []
   },
   {
@@ -2585,10 +2299,7 @@
     "nome": "TRABALHO DE CONCLUS\u00c3O DE CURSO 1",
     "ch": 30,
     "post_requirements": [
-      "ENE0298",
-      "ENE0299",
-      "ENE0391",
-      "ENE0436"
+      "ENE0298"
     ],
     "pre_requirements": []
   },

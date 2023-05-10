@@ -140,9 +140,7 @@
     "nome": "CONSTRUCAO DE MAQUINAS",
     "ch": 60,
     "post_requirements": [
-      "ENM0050",
-      "ENM0054",
-      "ENM0313"
+      "ENM0050"
     ],
     "pre_requirements": [
       "ENM0042"
@@ -177,8 +175,7 @@
     "nome": "DESENHO MECANICO ASSISTIDO POR COMPUTADOR 1",
     "ch": 90,
     "post_requirements": [
-      "ENM0132",
-      "ENM0212"
+      "ENM0132"
     ],
     "pre_requirements": []
   },
@@ -207,7 +204,9 @@
     "cod": "ENM0190",
     "nome": "DESENHO MEC\u00c2NICO PARA ENGENHARIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0222"
+    ],
     "pre_requirements": []
   },
   {
@@ -215,9 +214,7 @@
     "nome": "DIN\u00c2MICA APLICADA",
     "ch": 60,
     "post_requirements": [
-      "ENM0168",
-      "ENM0229",
-      "ENM0439"
+      "ENM0168"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0031"
@@ -254,10 +251,7 @@
     "nome": "ELEMENTOS DE MAQUINAS 1",
     "ch": 90,
     "post_requirements": [
-      "ENM0024",
-      "ENM0043",
-      "ENM0046",
-      "ENM0311"
+      "ENM0024"
     ],
     "pre_requirements": [
       "ENC0053 & ENC0054 & ENC0075"
@@ -268,8 +262,7 @@
     "nome": "ELEMENTOS DE MAQUINAS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0139",
-      "ENM0350"
+      "ENM0139"
     ],
     "pre_requirements": [
       "ENM0112 & ENC0134",
@@ -281,8 +274,7 @@
     "nome": "ELEMENTOS DE MAQUINAS 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0106",
-      "ENM0351"
+      "ENM0106"
     ],
     "pre_requirements": [
       "ENM0112 & ENM0165",
@@ -346,8 +338,7 @@
     "nome": "EST\u00c1TICA APLICADA",
     "ch": 60,
     "post_requirements": [
-      "ENM0164",
-      "ENM0438"
+      "ENM0164"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0031 & MAT0025"
@@ -357,7 +348,9 @@
     "cod": "ENM0288",
     "nome": "EXTENS\u00c3O EM ENGENHARIA MEC\u00c2NICA",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0464"
+    ],
     "pre_requirements": []
   },
   {
@@ -365,15 +358,7 @@
     "nome": "FENOMENOS DE TRANSPORTE",
     "ch": 75,
     "post_requirements": [
-      "ENM0003",
-      "FGA0076",
-      "ENM0068",
-      "FGA0194",
-      "FGA0204",
-      "FGA0248",
-      "FGA0270",
-      "ENM0201",
-      "ENM0232"
+      "ENM0003"
     ],
     "pre_requirements": [
       "MAT0027 & ENC0132",
@@ -459,8 +444,7 @@
     "nome": "INSTALACOES TERMOMECANICAS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0175",
-      "ENM0241"
+      "ENM0175"
     ],
     "pre_requirements": [
       "ENM0071"
@@ -493,11 +477,7 @@
     "nome": "INTRODU\u00c7\u00c3O \u00c0 CI\u00caNCIA DOS MATERIAIS",
     "ch": 45,
     "post_requirements": [
-      "ENM0041",
-      "ENM0116",
-      "ENM0171",
-      "ENM0189",
-      "ENM0256"
+      "ENM0041"
     ],
     "pre_requirements": [
       "IQD0051",
@@ -518,7 +498,9 @@
     "cod": "ENM0143",
     "nome": "INTRODUCAO A ENGENHARIA MECANICA",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENC0261"
+    ],
     "pre_requirements": []
   },
   {
@@ -657,7 +639,9 @@
     "cod": "ENM0032",
     "nome": "MAQUINAS OPERATRIZES E DE TRANSPORTE 1",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0307"
+    ],
     "pre_requirements": []
   },
   {
@@ -665,10 +649,7 @@
     "nome": "MAQUINAS TERMICAS",
     "ch": 75,
     "post_requirements": [
-      "ENM0074",
-      "ENM0075",
-      "ENM0078",
-      "ENM0240"
+      "ENM0074"
     ],
     "pre_requirements": [
       "ENM0068",
@@ -691,10 +672,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO MECANICA 1",
     "ch": 90,
     "post_requirements": [
-      "ENM0029",
-      "ENM0030",
-      "ENM0036",
-      "ENM0303"
+      "ENM0029"
     ],
     "pre_requirements": [
       "IQD0051"
@@ -705,9 +683,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO MECANICA 1",
     "ch": 90,
     "post_requirements": [
-      "ENM0091",
-      "ENM0189",
-      "ENM0244"
+      "ENM0091"
     ],
     "pre_requirements": [
       "IQD0051",
@@ -742,11 +718,7 @@
     "nome": "MATERIAIS DE CONSTRUCAO MECANICA 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0093",
-      "ENM0099",
-      "ENM0234",
-      "ENM0235",
-      "ENM0245"
+      "ENM0093"
     ],
     "pre_requirements": [
       "ENM0090"
@@ -756,7 +728,9 @@
     "cod": "ENM0172",
     "nome": "MATERIAIS INDUSTRIAIS",
     "ch": 90,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0041"
+    ],
     "pre_requirements": []
   },
   {
@@ -765,8 +739,7 @@
     "ch": 90,
     "post_requirements": [
       "ENM0148",
-      "ENM0149",
-      "ENM0387"
+      "ENM0149"
     ],
     "pre_requirements": [
       "IQD0051"
@@ -788,8 +761,7 @@
     "nome": "MECANICA 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0164",
-      "ENM0210"
+      "ENM0164"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0026 & MAT0031"
@@ -800,10 +772,7 @@
     "nome": "MECANICA 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0097",
-      "ENM0109",
-      "ENM0168",
-      "ENM0252"
+      "ENM0097"
     ],
     "pre_requirements": [
       "IFD0171 & MAT0027 & MAT0031"
@@ -814,8 +783,7 @@
     "nome": "MECANICA DOS FLUIDOS",
     "ch": 90,
     "post_requirements": [
-      "ENM0019",
-      "ENM0299"
+      "ENM0019"
     ],
     "pre_requirements": [
       "MAT0027"
@@ -826,12 +794,7 @@
     "nome": "MECANICA DOS FLUIDOS 1",
     "ch": 75,
     "post_requirements": [
-      "ENM0003",
-      "ENC0014",
-      "ENM0082",
-      "ENM0084",
-      "ENM0261",
-      "ENM0281"
+      "ENM0003"
     ],
     "pre_requirements": [
       "MAT0027 & ENC0132",
@@ -844,8 +807,7 @@
     "nome": "MEC\u00c2NICA DOS FLUIDOS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0233",
-      "ENM0444"
+      "ENM0233"
     ],
     "pre_requirements": [
       "MAT0027 & ENM0203"
@@ -856,17 +818,7 @@
     "nome": "MECANICA DOS FLUIDOS 2",
     "ch": 75,
     "post_requirements": [
-      "ENM0065",
-      "ENM0083",
-      "ENM0085",
-      "ENM0087",
-      "ENM0156",
-      "ENM0158",
-      "ENM0159",
-      "ENM0179",
-      "ENM0193",
-      "ENM0202",
-      "ENM0280"
+      "ENM0065"
     ],
     "pre_requirements": [
       "ENM0140"
@@ -877,8 +829,7 @@
     "nome": "MEC\u00c2NICA DOS FLUIDOS 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0238",
-      "ENM0446"
+      "ENM0238"
     ],
     "pre_requirements": [
       "ENM0231"
@@ -924,12 +875,7 @@
     "nome": "MECANICA DOS MATERIAIS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0113",
-      "ENM0127",
-      "ENM0165",
-      "ENM0221",
-      "ENM0276",
-      "ENM0277"
+      "ENM0113"
     ],
     "pre_requirements": [
       "ENM0163",
@@ -943,8 +889,7 @@
     "ch": 60,
     "post_requirements": [
       "ENC0138",
-      "ENM0111",
-      "ENM0265"
+      "ENM0111"
     ],
     "pre_requirements": [
       "ENM0164"
@@ -955,8 +900,7 @@
     "nome": "MECANICA GERAL",
     "ch": 90,
     "post_requirements": [
-      "ENM0164",
-      "ENM0403"
+      "ENM0164"
     ],
     "pre_requirements": [
       "MAT0026 & MAT0031 & IFD0173",
@@ -968,8 +912,7 @@
     "nome": "MECANISMOS",
     "ch": 60,
     "post_requirements": [
-      "ENC0066",
-      "ENM0358"
+      "ENC0066"
     ],
     "pre_requirements": [
       "ENC0132 & ENC0054",
@@ -1003,7 +946,9 @@
     "cod": "ENM0160",
     "nome": "METODOS NUMERICOS EM TERMOFLUIDOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0220"
+    ],
     "pre_requirements": []
   },
   {
@@ -1022,8 +967,7 @@
     "nome": "MICROCONTROLADORE APLICADOS \u00c0 AUTOMA\u00c7\u00c3O",
     "ch": 60,
     "post_requirements": [
-      "ENM0178",
-      "ENM0417"
+      "ENM0178"
     ],
     "pre_requirements": [
       "CIC0007 & IFD0179 & IFD0181"
@@ -1045,8 +989,7 @@
     "nome": "MODELAGEM E IMPLEMENTA\u00c7\u00c3O DE SISTEMAS A EVENTOS DISCRETOS",
     "ch": 90,
     "post_requirements": [
-      "ENM0066",
-      "ENM0435"
+      "ENM0066"
     ],
     "pre_requirements": [
       "CIC0103 & ENE0078",
@@ -1092,8 +1035,7 @@
     "nome": "PROCESSO DE DESENVOLVIMENTO DE PRODUTO",
     "ch": 60,
     "post_requirements": [
-      "EPR0044",
-      "ENM0225"
+      "EPR0044"
     ],
     "pre_requirements": [
       "ENM0027",
@@ -1140,10 +1082,7 @@
     "nome": "PROCESSOS DE FABRICACAO",
     "ch": 60,
     "post_requirements": [
-      "ENM0134",
-      "ENM0187",
-      "ENM0192",
-      "ENM0267"
+      "ENM0134"
     ],
     "pre_requirements": [
       "ENM0172",
@@ -1166,8 +1105,7 @@
     "nome": "PROJETO DE ELEMENTOS DE M\u00c1QUINAS",
     "ch": 60,
     "post_requirements": [
-      "ENM0237",
-      "ENM0449"
+      "ENM0237"
     ],
     "pre_requirements": [
       "ENM0132 & ENM0165 & ENM0217"
@@ -1177,7 +1115,9 @@
     "cod": "ENM0129",
     "nome": "PROJETO DE GRADUACAO 1",
     "ch": 30,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0130"
+    ],
     "pre_requirements": []
   },
   {
@@ -1218,10 +1158,7 @@
     "nome": "PROJETO DE MAQUINAS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0139",
-      "ENM0187",
-      "ENM0192",
-      "ENM0253"
+      "ENM0139"
     ],
     "pre_requirements": [
       "ENM0121 & ENM0165 & ENM0132"
@@ -1232,8 +1169,7 @@
     "nome": "PROJETO DE MAQUINAS 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0106",
-      "ENM0254"
+      "ENM0106"
     ],
     "pre_requirements": [
       "ENM0165 & ENM0132"
@@ -1289,10 +1225,7 @@
     "nome": "PROJETO DE SISTEMAS MECANICOS",
     "ch": 60,
     "post_requirements": [
-      "EPR0008",
-      "EPR0013",
-      "ENC0262",
-      "ENM0255"
+      "EPR0008"
     ],
     "pre_requirements": [
       "ENM0122 & ENM0123"
@@ -1333,7 +1266,9 @@
     "cod": "ENM0186",
     "nome": "PROJETO INTEGRADOR 2",
     "ch": 45,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0275"
+    ],
     "pre_requirements": []
   },
   {
@@ -1390,8 +1325,7 @@
     "nome": "SISTEMAS DE CONTROLE",
     "ch": 60,
     "post_requirements": [
-      "ENM0001",
-      "ENM0243"
+      "ENM0001"
     ],
     "pre_requirements": [
       "MAT0048",
@@ -1403,8 +1337,7 @@
     "nome": "SISTEMAS DE MEDI\u00c7\u00c3O",
     "ch": 45,
     "post_requirements": [
-      "ENM0066",
-      "ENM0250"
+      "ENM0066"
     ],
     "pre_requirements": [
       "ENE0038",
@@ -1455,11 +1388,7 @@
     "nome": "SISTEMAS INTEGRADOS DE MANUFATURA",
     "ch": 60,
     "post_requirements": [
-      "EPR0008",
-      "EPR0013",
-      "EPR0034",
-      "EPR0035",
-      "ENM0260"
+      "EPR0008"
     ],
     "pre_requirements": [
       "ENM0027",
@@ -1482,8 +1411,7 @@
     "nome": "SISTEMAS MECANICOS 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0152",
-      "ENM0391"
+      "ENM0152"
     ],
     "pre_requirements": [
       "MAT0023 & IFD0171 & IFD0173"
@@ -1505,8 +1433,7 @@
     "nome": "SISTEMAS MECANICOS 3",
     "ch": 60,
     "post_requirements": [
-      "ENM0154",
-      "ENM0393"
+      "ENM0154"
     ],
     "pre_requirements": [
       "ENC0054 & ENM0152"
@@ -1566,7 +1493,9 @@
     "cod": "ENM0278",
     "nome": "TECNOLOGIA DE CONVERS\u00c3O DE ENERGIA SOLAR",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0454"
+    ],
     "pre_requirements": []
   },
   {
@@ -1574,11 +1503,7 @@
     "nome": "TECNOLOGIA DE FABRICACAO 1",
     "ch": 45,
     "post_requirements": [
-      "ENM0027",
-      "ENM0100",
-      "ENM0167",
-      "ENM0182",
-      "ENM0257"
+      "ENM0027"
     ],
     "pre_requirements": [
       "ENM0164"
@@ -1589,11 +1514,7 @@
     "nome": "TECNOLOGIA DE FABRICACAO 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0095",
-      "ENM0098",
-      "ENM0142",
-      "ENM0155",
-      "ENM0361"
+      "ENM0095"
     ],
     "pre_requirements": [
       "ENM0126"
@@ -1604,14 +1525,7 @@
     "nome": "TECNOLOGIA MECANICA 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0027",
-      "ENM0094",
-      "ENM0100",
-      "ENM0167",
-      "ENM0182",
-      "ENM0218",
-      "ENM0282",
-      "ENM0285"
+      "ENM0027"
     ],
     "pre_requirements": [
       "ENM0090 & ENM0145"
@@ -1622,9 +1536,7 @@
     "nome": "TECNOLOGIA MECANICA 1",
     "ch": 105,
     "post_requirements": [
-      "ENM0031",
-      "ENM0055",
-      "ENM0305"
+      "ENM0031"
     ],
     "pre_requirements": [
       "ENM0028"
@@ -1635,12 +1547,7 @@
     "nome": "TECNOLOGIA MECANICA 2",
     "ch": 60,
     "post_requirements": [
-      "ENM0095",
-      "ENM0098",
-      "ENM0142",
-      "ENM0155",
-      "ENM0246",
-      "ENM0284"
+      "ENM0095"
     ],
     "pre_requirements": [
       "ENM0091"
@@ -1662,10 +1569,7 @@
     "nome": "TECNOLOGIAS DE COMANDO NUMERICO",
     "ch": 60,
     "post_requirements": [
-      "ENM0134",
-      "ENM0187",
-      "ENM0192",
-      "ENM0239"
+      "ENM0134"
     ],
     "pre_requirements": [
       "ENM0146",
@@ -1676,7 +1580,9 @@
     "cod": "ENM0279",
     "nome": "TECNOLOGIAS DE CONVERS\u00c3O DE BIOMASSA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0455"
+    ],
     "pre_requirements": []
   },
   {
@@ -1698,9 +1604,7 @@
     "nome": "TERMODINAMICA 1",
     "ch": 60,
     "post_requirements": [
-      "ENM0069",
-      "ENM0070",
-      "ENM0198"
+      "ENM0069"
     ],
     "pre_requirements": [
       "IFD0175",
@@ -1713,8 +1617,7 @@
     "ch": 75,
     "post_requirements": [
       "ENM0007",
-      "ENM0016",
-      "ENM0295"
+      "ENM0016"
     ],
     "pre_requirements": [
       "MAT0053"
@@ -1854,21 +1757,27 @@
     "cod": "ENM0114",
     "nome": "TOPICOS ESPECIAIS EM SISTEMAS MECANICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0360"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENM0056",
     "nome": "TOPICOS ESPECIAIS EM SISTEMAS MECANICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0317"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "ENM0076",
     "nome": "TOPICOS ESPECIAIS EM SISTEMAS TERMICOS",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "ENM0200"
+    ],
     "pre_requirements": []
   },
   {
@@ -1898,14 +1807,7 @@
     "nome": "TRANSFERENCIA DE CALOR",
     "ch": 90,
     "post_requirements": [
-      "FGA0091",
-      "ENM0072",
-      "ENM0073",
-      "ENM0079",
-      "ENM0161",
-      "ENM0162",
-      "FGA0250",
-      "ENM0199"
+      "FGA0091"
     ],
     "pre_requirements": [
       "ENM0068 & ENM0082",
@@ -1942,11 +1844,7 @@
     "nome": "TRANSPORTE DE CALOR E MASSA",
     "ch": 60,
     "post_requirements": [
-      "ENM0003",
-      "ENM0070",
-      "ENM0084",
-      "ENM0161",
-      "ENM0211"
+      "ENM0003"
     ],
     "pre_requirements": [
       "IFD0175 & IFD0177 & MAT0027"
@@ -2024,12 +1922,7 @@
     "nome": "VIBRACOES 1",
     "ch": 90,
     "post_requirements": [
-      "ENM0110",
-      "ENM0118",
-      "ENM0183",
-      "ENM0188",
-      "ENM0208",
-      "ENM0286"
+      "ENM0110"
     ],
     "pre_requirements": [
       "MAT0048 & ENM0112",

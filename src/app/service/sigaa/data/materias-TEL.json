@@ -3,7 +3,9 @@
     "cod": "TEL0099",
     "nome": "CERVANTES E O QUIXOTE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0143"
+    ],
     "pre_requirements": []
   },
   {
@@ -42,21 +44,27 @@
     "cod": "TEL0110",
     "nome": "CULTURA CLASSICA 1 - GRECIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0276"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0111",
     "nome": "CULTURA CLASSICA 2 - ROMA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0277"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0113",
     "nome": "CULTURA MEDIEVAL 1 : GRECO - LATINA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0279"
+    ],
     "pre_requirements": []
   },
   {
@@ -104,35 +112,45 @@
     "cod": "TEL0109",
     "nome": "FUNDAMENTOS DA LITERATURA BRASILEIRA CONTEMPORANEA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0175"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0029",
     "nome": "FUNDAMENTOS DE HISTORIA LITERARIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0162"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0103",
     "nome": "GENEROS LITERARIOS NA LINGUA ESPANHOLA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0173"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0104",
     "nome": "GERACAO DO 27",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0270"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0028",
     "nome": "HISTORIOGRAFIA DA LITERATURA BRASILEIRA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0203"
+    ],
     "pre_requirements": []
   },
   {
@@ -140,11 +158,7 @@
     "nome": "INTRODUCAO A TEORIA DA LITERATURA",
     "ch": 60,
     "post_requirements": [
-      "TEL0098",
-      "TEL0100",
-      "JOR0135",
-      "CEN0089",
-      "TEL0131"
+      "TEL0098"
     ],
     "pre_requirements": []
   },
@@ -152,7 +166,9 @@
     "cod": "TEL0001",
     "nome": "LABORAT\u00d3RIO DE ESTUDOS DE LITERATURA ARTES E HUMANIDADES",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0152"
+    ],
     "pre_requirements": []
   },
   {
@@ -170,7 +186,9 @@
     "cod": "TEL0056",
     "nome": "LITERATURA AFRICANA EM LINGUA PORTUGUESA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0229"
+    ],
     "pre_requirements": []
   },
   {
@@ -188,56 +206,72 @@
     "cod": "TEL0024",
     "nome": "LITERATURA BRASILEIRA - BARROCO E ARCADISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0135"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0026",
     "nome": "LITERATURA BRASILEIRA CONTEMPOR\u00c2NEA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0161"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0023",
     "nome": "LITERATURA BRASILEIRA - MODERNISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0134"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0025",
     "nome": "LITERATURA BRASILEIRA - PARNASIANISMO E SIMBOLISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0200"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0091",
     "nome": "LITERATURA BRASILEIRA - PRE-MODERNISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0261"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0022",
     "nome": "LITERATURA BRASILEIRA - REALISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0133"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0021",
     "nome": "LITERATURA BRASILEIRA - ROMANTISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0132"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0027",
     "nome": "LITERATURA BRASILEIRA - TEATRO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0154"
+    ],
     "pre_requirements": []
   },
   {
@@ -295,35 +329,45 @@
     "cod": "TEL0061",
     "nome": "LITERATURA ESPANHOLA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0232"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0108",
     "nome": "LITERATURA ESPANHOLA 1 - IDADE MEDIA E SIGLO DE ORO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0107"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0062",
     "nome": "LITERATURA ESPANHOLA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0233"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0106",
     "nome": "LITERATURA ESPANHOLA 2 - S\u00c9CULOS 18 E 19",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0145"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0063",
     "nome": "LITERATURA ESPANHOLA 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0234"
+    ],
     "pre_requirements": []
   },
   {
@@ -331,9 +375,7 @@
     "nome": "LITERATURA ESPANHOLA 3 - S\u00c9CULO 20",
     "ch": 60,
     "post_requirements": [
-      "LET0031",
-      "TEL0172",
-      "LET0465"
+      "LET0031"
     ],
     "pre_requirements": []
   },
@@ -341,28 +383,36 @@
     "cod": "TEL0064",
     "nome": "LITERATURA ESPANHOLA 4",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0235"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0065",
     "nome": "LITERATURA ESPANHOLA 5",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0236"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0066",
     "nome": "LITERATURA ESPANHOLA 6",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0237"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0077",
     "nome": "LITERATURA ESTRANGEIRA EM LINGUA VERNACULA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0247"
+    ],
     "pre_requirements": []
   },
   {
@@ -424,28 +474,36 @@
     "cod": "TEL0051",
     "nome": "LITERATURA GREGA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0225"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0052",
     "nome": "LITERATURA GREGA 2",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0226"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0053",
     "nome": "LITERATURA GREGA 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0227"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0067",
     "nome": "LITERATURA HISPANO-AMERICANA 1",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0238"
+    ],
     "pre_requirements": []
   },
   {
@@ -453,9 +511,7 @@
     "nome": "LITERATURA HISPANO - AMERICANA 1 - S\u00c9CULOS 16,17 E 18",
     "ch": 60,
     "post_requirements": [
-      "TEL0070",
-      "TEL0100",
-      "TEL0146"
+      "TEL0070"
     ],
     "pre_requirements": [
       "TEL0108",
@@ -491,14 +547,18 @@
     "cod": "TEL0069",
     "nome": "LITERATURA HISPANO-AMERICANA 3",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0240"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0105",
     "nome": "LITERATURA HISPANO-AMERICANA 3 - P\u00d3S MODERN\u00cdSMO AT\u00c9 A ATUALIDADE",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0174"
+    ],
     "pre_requirements": []
   },
   {
@@ -674,8 +734,7 @@
     "nome": "LITERATURA INGLESA V - TRAG\u00c9DIA SHAKESPEARIANA",
     "ch": 60,
     "post_requirements": [
-      "TEL0140",
-      "TEL0218"
+      "TEL0140"
     ],
     "pre_requirements": [
       "LET0260",
@@ -759,8 +818,7 @@
     "nome": "LITERATURA JAPONESA 1",
     "ch": 60,
     "post_requirements": [
-      "TEL0115",
-      "TEL0149"
+      "TEL0115"
     ],
     "pre_requirements": [
       "LET0074 & LET0075",
@@ -944,49 +1002,63 @@
     "cod": "TEL0010",
     "nome": "LITERATURA PORTUGUESA - BARROCO E ARCADISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0189"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0009",
     "nome": "LITERATURA PORTUGUESA - MEDIEVALISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0188"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0006",
     "nome": "LITERATURA PORTUGUESA - MODERNISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0127"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0012",
     "nome": "LITERATURA PORTUGUESA - PARNASIANISMO E SIMBOLISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0130"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0007",
     "nome": "LITERATURA PORTUGUESA - REALISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0128"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0008",
     "nome": "LITERATURA PORTUGUESA - RENASCIMENTO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0129"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0011",
     "nome": "LITERATURA PORTUGUESA - ROMANTISMO",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0160"
+    ],
     "pre_requirements": []
   },
   {
@@ -1017,21 +1089,27 @@
     "cod": "TEL0118",
     "nome": "MONOGRAFIA EM LITERATURA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0176"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0005",
     "nome": "OFICINA LITER\u00c1RIA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0184"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0112",
     "nome": "PANORAMA DA LITERATURA BRASILEIRA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0148"
+    ],
     "pre_requirements": []
   },
   {
@@ -1101,21 +1179,27 @@
     "cod": "TEL0003",
     "nome": "T\u00d3PICOS ESPECIAIS EM LITERATURA INFANTIL E JUVENIL",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0182"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0119",
     "nome": "TOPICOS ESPECIAIS EM LITERATURA JAPONESA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0285"
+    ],
     "pre_requirements": []
   },
   {
     "cod": "TEL0004",
     "nome": "TRAG\u00c9DIA GREGA",
     "ch": 60,
-    "post_requirements": [],
+    "post_requirements": [
+      "TEL0183"
+    ],
     "pre_requirements": []
   }
 ]
