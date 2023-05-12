@@ -1,1 +1,7 @@
-rm data/* && rm debug/* && ../../../../venv/bin/python3 get_components_list.py
+rm -r data 
+rm -r debug
+
+mkdir data
+mkdir debug
+
+../../../../venv/bin/python3 get_components_list.py
