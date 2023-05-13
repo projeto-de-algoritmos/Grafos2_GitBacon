@@ -1,7 +1,7 @@
-# GitBacon
+# SIGAARush
 
 **Número da Lista**: Dupla 06 (T01)<br>
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 
@@ -12,37 +12,37 @@
 
 ## Sobre
 
-Esse projeto visa buscar a ligação mais curta entre dois usuários da plataforma GitHub, utilizando uma busca em largura (BFS) no grafo de usuários. A rede de usuários pode ser encarada como um grafo direcionado, onde cada usuário é um nó e as arestas são as ligações de "seguir". 
+[//]: # (Esse projeto visa buscar a ligação mais curta entre dois usuários da plataforma GitHub, utilizando uma busca em largura &#40;BFS&#41; no grafo de usuários. A rede de usuários pode ser encarada como um grafo direcionado, onde cada usuário é um nó e as arestas são as ligações de "seguir". )
 
-Os dados utilizados no projeto são disponibilizados pela API do GitHub. 
+[//]: # (Os dados utilizados no projeto são disponibilizados pela API do GitHub. )
 
 
 ## Screenshots
 
 
 
-![Figura 1 - Tela inicial.](./assets/tela-inicial.png)
+[//]: # (![Figura 1 - Tela inicial.]&#40;./assets/tela-inicial.png&#41;)
 
-<center> Figura 1 - Tela Inicial.</center>
-
-
-![Figura 2 - Busca em andamento.](./assets/busca1.png)
-
-<center> Figura 2 - Exemplo de Busca.</center>
+[//]: # (<center> Figura 1 - Tela Inicial.</center>)
 
 
-![Figura 3 - Busca em andamento.](./assets/busca2.png)
+[//]: # (![Figura 2 - Busca em andamento.]&#40;./assets/busca1.png&#41;)
 
-<center> Figura 3 - Exemplo de Busca.</center>
+[//]: # (<center> Figura 2 - Exemplo de Busca.</center>)
 
 
-![](./assets/configuracoes-busca.png)
+[//]: # (![Figura 3 - Busca em andamento.]&#40;./assets/busca2.png&#41;)
 
-<center> Figura 4 - Configurações de Busca.</center>
+[//]: # (<center> Figura 3 - Exemplo de Busca.</center>)
 
-![](./assets/informacoes.png)
 
-<center> Figura 5 - Aba de informações.</center>
+[//]: # (![]&#40;./assets/configuracoes-busca.png&#41;)
+
+[//]: # (<center> Figura 4 - Configurações de Busca.</center>)
+
+[//]: # (![]&#40;./assets/informacoes.png&#41;)
+
+[//]: # (<center> Figura 5 - Aba de informações.</center>)
 
 ## Instalação
 
@@ -78,7 +78,7 @@ npm run start
 
 ## Uso
 
-Para usar o projeto, acesse a página ([local](http://localhost:4200) ou no [github](https://projeto-de-algoritmos.github.io/Grafos1_GitBacon/)), preencha os usuários do GitHub desejados e após a validação a busca será iniciada. 
+Para usar o projeto, acesse a página ([local](http://localhost:4200) ou no [github](https://projeto-de-algoritmos.github.io/Grafos2_SIGAARush/)), preencha os usuários do GitHub desejados e após a validação a busca será iniciada. 
 
 ## Outros
 
@@ -87,14 +87,15 @@ As consultas à API do GitHub possuem um limite para usuários não autenticados
 
 ## Apresentação 
 
-<video src='./assets/gravacao.mp4'></video>
+[//]: # (<video src='./assets/gravacao.mp4'></video>)
 
-[Arquivo de apresentação](./assets/gravacao.mp4)
+[//]: # ([Arquivo de apresentação]&#40;./assets/gravacao.mp4&#41;)
 
 
 ## Referências
 
 [1] Hotpot.ai - Ferramenta para geração de imagens com uso de inteligência artificial. Disponível no [link](https://hotpot.ai/), acesso em 29/04/2023. <br/>
-[2] Breadth First Search or BFS for a Graph - GeeksForGeeks. Disponível no [link](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/), acesso em 29/04/2023. <br/>
-[3] Tracing the Path in DFS, BFS, and Dijkstra’s Algorithm - Baeldung. Disponível no [link](https://www.baeldung.com/cs/dfs-vs-bfs-vs-dijkstra), acesso em 20/04/2023.<br/>
+
+[//]: # ([2] Breadth First Search or BFS for a Graph - GeeksForGeeks. Disponível no [link]&#40;https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/&#41;, acesso em 29/04/2023. <br/>)
+[//]: # ([3] Tracing the Path in DFS, BFS, and Dijkstra’s Algorithm - Baeldung. Disponível no [link]&#40;https://www.baeldung.com/cs/dfs-vs-bfs-vs-dijkstra&#41;, acesso em 20/04/2023.<br/>)
 
