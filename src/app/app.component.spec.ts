@@ -16,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'Grafos1_GitBacon'`, () => {
+  it(`should have as title 'Grafos2_SIGAARush'`, () => {
     // const fixture = TestBed.createComponent(AppComponent);
     // const app = fixture.componentInstance;
-    // expect(app.title).toEqual('Grafos1_GitBacon');
+    // expect(app.title).toEqual('Grafos2_SIGAARush');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('Grafos1_GitBacon app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('Grafos2_SIGAARush app is running!');
   });
 });

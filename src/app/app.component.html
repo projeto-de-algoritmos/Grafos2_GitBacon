@@ -5,19 +5,19 @@
                 <img src="./assets/icon_sm.png" class="rounded-circle" alt="Logo do site">
             </div>
             <div class="ml-3">
-                GitBacon
+                SIGAARush
             </div>
             <span class="spacer">
             </span>
             <div class="col-2 d-flex justify-content-end">
                 <button mat-mini-fab matTooltip="Configurações de busca" class="mr-2"
-                    (click)="showSettings = !showSettings">
+                        (click)="showSettings = !showSettings">
                     <mat-icon>settings</mat-icon>
                 </button>
                 <button mat-mini-fab matTooltip="Visualizar informações" class="mr-2" (click)="drawer.toggle()">
                     <mat-icon>info</mat-icon>
                 </button>
-                <a href="https://github.com/projeto-de-algoritmos/Grafos1_GitBacon">
+                <a href="https://github.com/projeto-de-algoritmos/Grafos2_SIGAARush">
                     <button mat-mini-fab matTooltip="Código fonte no Github">
                         <mat-icon>code</mat-icon>
                     </button>
@@ -27,13 +27,13 @@
     </mat-toolbar>
 
     <mat-drawer #drawer mode="side" class="col-3 p-0 m-0">
-        <app-info-component />
+        <app-info-component/>
     </mat-drawer>
 
     <mat-card class="d-flex">
         <mat-card-title>
             <div class="col-12 text-center py-1">
-                Busque a menor ligação entre dois usuários do GitHub
+                Busque a ligação com menor carga horária entre duas matérias da UnB
             </div>
         </mat-card-title>
         <div>
@@ -60,9 +60,9 @@
                             <mat-form-field appearance="outline" class="w-100" [hideRequiredMarker]="true">
                                 <mat-label> Usuário do GitHub</mat-label>
                                 <input #userA matInput [formControlName]="lblUserA" autocomplete="username"
-                                    (focusout)="onInputFocusOut(lblUserA)" [readonly]="showSearch">
+                                       (focusout)="onInputFocusOut(lblUserA)" [readonly]="showSearch">
                                 <button *ngIf="userA.value && !showSearch" matSuffix mat-icon-button aria-label="Clear"
-                                    (click)="userA.value=''">
+                                        (click)="userA.value=''">
                                     <mat-icon>clear</mat-icon>
                                 </button>
                             </mat-form-field>
@@ -86,10 +86,10 @@
                             <mat-form-field appearance="outline" class="w-100" [hideRequiredMarker]="true">
                                 <mat-label> Usuário do GitHub</mat-label>
                                 <input #userB matInput type="text" [formControlName]="lblUserB"
-                                    (focusout)="onInputFocusOut(lblUserB)" autocomplete="username"
-                                    [readonly]="showSearch">
+                                       (focusout)="onInputFocusOut(lblUserB)" autocomplete="username"
+                                       [readonly]="showSearch">
                                 <button *ngIf="userB.value && !showSearch" matSuffix mat-icon-button aria-label="Clear"
-                                    (click)="userB.value=''">
+                                        (click)="userB.value=''">
                                     <mat-icon>clear</mat-icon>
                                 </button>
                             </mat-form-field>
@@ -110,9 +110,9 @@
                         <div class="col-2 d-flex justify-content-center">
                             <mat-form-field appearance="outline" class="w-100">
                                 <mat-label> Nº Máximo de Camadas</mat-label>
-                                <input type="number" matInput formControlName="maxLevel" [max]="10" />
+                                <input type="number" matInput formControlName="maxLevel" [max]="10"/>
                                 <button matSuffix mat-icon-button aria-label="Help"
-                                    (click)="maxLevelHint.hidden=!maxLevelHint.hidden">
+                                        (click)="maxLevelHint.hidden=!maxLevelHint.hidden">
                                     <mat-icon>help</mat-icon>
                                 </button>
                                 <mat-hint #maxLevelHint hidden="hidden"> Máx. 10</mat-hint>
@@ -122,9 +122,9 @@
                         <div class="col-4 d-flex justify-content-center">
                             <mat-form-field appearance="outline" class="w-100">
                                 <mat-label> Token do GitHub</mat-label>
-                                <input matInput formControlName="token" />
+                                <input matInput formControlName="token"/>
                                 <button matSuffix mat-icon-button aria-label="Help"
-                                    (click)="tokenHint.hidden=!tokenHint.hidden">
+                                        (click)="tokenHint.hidden=!tokenHint.hidden">
                                     <mat-icon>help</mat-icon>
                                 </button>
                                 <mat-hint #tokenHint>
@@ -144,8 +144,10 @@
         <div class="d-flex col-12 m-0 p-0">
             <mat-card-content *ngIf="showSearch" class="m-0 p-0 w-100">
                 <app-bfs-search [userOrigin]="userOrigin" [userTarget]="userTarget" [providedToken]="token"
-                    [maxLevel]="maxLevel" />
+                                [maxLevel]="maxLevel"/>
             </mat-card-content>
+
+
         </div>
     </mat-card>
 </mat-drawer-container>

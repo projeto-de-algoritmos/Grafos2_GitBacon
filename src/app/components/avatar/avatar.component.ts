@@ -1,7 +1,6 @@
-import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
-import { ApiService } from "../../service/api.service";
-import { HttpErrorResponse } from "@angular/common/http";
-import { MatSnackBar } from "@angular/material/snack-bar";
+import {Component, Input, OnChanges, SimpleChanges} from '@angular/core';
+import {HttpErrorResponse} from "@angular/common/http";
+import {MatSnackBar} from "@angular/material/snack-bar";
 
 @Component({
     selector: 'app-avatar',
@@ -19,7 +18,7 @@ export class AvatarComponent implements OnChanges {
     public githubUser: string = '';
     public login: string = '';
 
-    constructor(private service: ApiService,
+    constructor(
         private snackBar: MatSnackBar) {
     }
 
@@ -37,21 +36,6 @@ export class AvatarComponent implements OnChanges {
             this.loading = false;
         } else if (changes['user'] && changes['user'].currentValue != null) {
             const user = changes['user'].currentValue;
-            this.service.getGithubUser(user, this.providedToken).subscribe(
-                gitUser => {
-                    this.avatarSrc = gitUser.avatar_url;
-                    this.githubUser = `https://github.com/${gitUser.login}`;
-                    this.loading = false;
-                    this.showAvatar = true;
-                },
-                error => {
-                    const e = error as HttpErrorResponse;
-                    if (e.status == 404)
-                        this.notify(`Usuário ${user} não encontrado no GitHub.`, true)
-                    else
-                        this.notify(`Erro ao buscar usuário ${user}. Descrição: ${e.message}`, true)
-                }
-            )
         } else {
             this.loading = false;
         }
@@ -61,7 +45,7 @@ export class AvatarComponent implements OnChanges {
     public notify(msg: string, isError = false) {
         const emoji = isError ? '⚠️' : '✅';
         const message = `${emoji} ${msg}`
-        this.snackBar.open(message, 'Fechar', { duration: 2000 });
+        this.snackBar.open(message, 'Fechar', {duration: 2000});
     }
 
 

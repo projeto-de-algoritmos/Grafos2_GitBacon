@@ -1,10 +1,11 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from "@angular/forms";
-import { ApiService } from "./service/api.service";
-import { HttpErrorResponse } from "@angular/common/http";
-import { MatSnackBar } from "@angular/material/snack-bar";
-import { BfsSearchComponent } from './components/bfs-search/bfs-search.component';
-import { Subject } from 'rxjs';
+import {Component, OnInit, ViewChild} from '@angular/core';
+import {FormBuilder, FormGroup, Validators} from "@angular/forms";
+import {HttpErrorResponse} from "@angular/common/http";
+import {MatSnackBar} from "@angular/material/snack-bar";
+import {BfsSearchComponent} from './components/bfs-search/bfs-search.component';
+import {Subject} from 'rxjs';
+import {SigaaService} from "./service/sigaa.service";
+import {SigaaComponent} from "./model/sigaaComponent";
 
 @Component({
     selector: 'app-root',
@@ -14,7 +15,7 @@ import { Subject } from 'rxjs';
 export class AppComponent implements OnInit {
     @ViewChild(BfsSearchComponent) bfsSearchComponent!: BfsSearchComponent;
 
-
+    public components: SigaaComponent[] = [];
     public githubTokenInfo = 'https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token';
 
     public usuarioA?: string;
@@ -28,7 +29,6 @@ export class AppComponent implements OnInit {
     public lblUserB = 'usuarioB'
 
     public showSettings = false;
-    public showInfo = false;
     public showSearch = false;
 
     public formBusca: FormGroup = this.formBuilder.group(
@@ -41,19 +41,23 @@ export class AppComponent implements OnInit {
     );
 
     constructor(private formBuilder: FormBuilder,
-        private apiService: ApiService,
-        private snackBar: MatSnackBar
+                private snackBar: MatSnackBar,
+                private sigaaService: SigaaService
     ) {
         this.usersValid.next(false);
+
     }
 
 
     ngOnInit(): void {
         this.usersValid.subscribe(
             next => {
-                if (next == true)
+                if (next === true)
                     this.showSearch = true;
             }
+        )
+        this.sigaaService.getComponents().subscribe(
+            components => this.components = components
         )
     }
 
@@ -74,23 +78,7 @@ export class AppComponent implements OnInit {
         const inputValue = this.formBusca.get(formControlName)?.value
         if (inputValue) {
             if (formControlName == this.lblUserA) {
-                this.apiService.getGithubUser(inputValue, this.providedToken).subscribe(
-                    user => {
-                        this.usuarioA = user.avatar_url;
-                        this.validyStatus['userA'] = true;
-                        this.usersValid.next(!!this.validyStatus['userA'] && !!this.validyStatus['userB']);
-                    },
-                    error => this.handleError(error as HttpErrorResponse, inputValue)
-                );
-            } else {
-                this.apiService.getGithubUser(inputValue, this.providedToken).subscribe(
-                    user => {
-                        this.usuarioB = user.avatar_url;
-                        this.validyStatus['userB'] = true;
-                        this.usersValid.next(!!this.validyStatus['userA'] && !!this.validyStatus['userB']);
-                    },
-                    error => this.handleError(error as HttpErrorResponse, inputValue)
-                );
+
             }
         }
     }
@@ -145,7 +133,7 @@ export class AppComponent implements OnInit {
     public notify(msg: string, isError = false) {
         const emoji = isError ? '⚠️' : '✅';
         const message = `${emoji} ${msg}`
-        this.snackBar.open(message, 'Fechar', { duration: 2000 });
+        this.snackBar.open(message, 'Fechar', {duration: 2000});
     }
 }
 
