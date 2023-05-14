@@ -1,6 +1,5 @@
 import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
-import {AvatarComponent} from "./avatar/avatar.component";
 import {MatTooltipModule} from "@angular/material/tooltip";
 import {InfoComponentComponent} from './info-component/info-component.component';
 import {MatExpansionModule} from "@angular/material/expansion";
@@ -11,14 +10,18 @@ import {MatProgressSpinnerModule} from "@angular/material/progress-spinner";
 import {BfsSearchComponent} from "./bfs-search/bfs-search.component";
 import {MatChipsModule} from "@angular/material/chips";
 import {MatButtonModule} from "@angular/material/button";
+import {MateriaComponent} from './materia/materia.component';
+import {AvatarComponent} from "./avatar/avatar.component";
+import {MatTableModule} from "@angular/material/table";
 
 
 @NgModule({
-    declarations: [AvatarComponent, InfoComponentComponent, BfsSearchComponent],
+    declarations: [InfoComponentComponent, BfsSearchComponent, MateriaComponent, AvatarComponent],
     exports: [
-        AvatarComponent,
         InfoComponentComponent,
-        BfsSearchComponent
+        BfsSearchComponent,
+        MateriaComponent,
+        AvatarComponent
     ],
     imports: [
         CommonModule,
@@ -30,6 +33,7 @@ import {MatButtonModule} from "@angular/material/button";
         MatProgressSpinnerModule,
         MatChipsModule,
         MatButtonModule,
+        MatTableModule,
 
     ]
 })

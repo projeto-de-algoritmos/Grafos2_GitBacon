@@ -15,6 +15,8 @@ import { NgOptimizedImage } from "@angular/common";
 import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatSidenavModule } from "@angular/material/sidenav";
 import { MatSelectModule } from "@angular/material/select";
+import {MatAutocompleteModule} from "@angular/material/autocomplete";
+import {MatProgressSpinnerModule} from "@angular/material/progress-spinner";
 
 @NgModule({
     declarations: [
@@ -36,7 +38,9 @@ import { MatSelectModule } from "@angular/material/select";
         MatToolbarModule,
         MatSidenavModule,
         MatSelectModule,
-        MatSidenavModule
+        MatSidenavModule,
+        MatAutocompleteModule,
+        MatProgressSpinnerModule
 
     ],
     providers: [HttpClient],

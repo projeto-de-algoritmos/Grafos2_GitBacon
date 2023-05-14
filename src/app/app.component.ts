@@ -1,140 +1,126 @@
-import {Component, OnInit, ViewChild} from '@angular/core';
-import {FormBuilder, FormGroup, Validators} from "@angular/forms";
-import {HttpErrorResponse} from "@angular/common/http";
-import {MatSnackBar} from "@angular/material/snack-bar";
-import {BfsSearchComponent} from './components/bfs-search/bfs-search.component';
-import {Subject} from 'rxjs';
-import {SigaaService} from "./service/sigaa.service";
-import {SigaaComponent} from "./model/sigaaComponent";
+import { Component, OnInit, ViewChild } from "@angular/core";
+import { FormBuilder, FormGroup, Validators } from "@angular/forms";
+import { MatSnackBar } from "@angular/material/snack-bar";
+import { BfsSearchComponent } from "./components/bfs-search/bfs-search.component";
+import { Observable, of, Subject } from "rxjs";
+import { SigaaService } from "./service/sigaa.service";
+import { SigaaComponent } from "./model/sigaaComponent";
+import { TitleCasePipe } from "@angular/common";
 
 @Component({
-    selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.scss'],
+  selector: "app-root",
+  templateUrl: "./app.component.html",
+  styleUrls: ["./app.component.scss"],
 })
 export class AppComponent implements OnInit {
-    @ViewChild(BfsSearchComponent) bfsSearchComponent!: BfsSearchComponent;
+  @ViewChild(BfsSearchComponent) bfsSearchComponent!: BfsSearchComponent;
 
-    public components: SigaaComponent[] = [];
-    public githubTokenInfo = 'https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token';
+  public loadingDpt = true;
 
-    public usuarioA?: string;
-    public usuarioB?: string;
+  public components: SigaaComponent[] = [];
+  public departments: string[] = [];
 
-    public usersValid: Subject<boolean> = new Subject<boolean>();
+  public lblComponentA = "componentSource";
+  public lblComponentB = "componentTarget";
 
-    private validyStatus: { userA?: boolean, userB?: boolean } = {}
+  public departmentA?: string;
+  public departmentB?: string;
 
-    public lblUserA = 'usuarioA'
-    public lblUserB = 'usuarioB'
+  public componentsListSource: SigaaComponent[] = [];
+  public componentsListTarget: SigaaComponent[] = [];
 
-    public showSettings = false;
-    public showSearch = false;
+  public showSearch = false;
 
-    public formBusca: FormGroup = this.formBuilder.group(
-        {
-            usuarioA: [null],
-            usuarioB: [null],
-            maxLevel: [4],
-            token: ['']
-        }
-    );
+  public form: FormGroup;
 
-    constructor(private formBuilder: FormBuilder,
-                private snackBar: MatSnackBar,
-                private sigaaService: SigaaService
-    ) {
-        this.usersValid.next(false);
+  constructor(
+    private formBuilder: FormBuilder,
+    private snackBar: MatSnackBar,
+    private sigaaService: SigaaService
+  ) {
+    this.form = this.formBuilder.group({
+      componentSource: [
+        null,
+        { disabled: true, validators: [Validators.required] },
+      ],
+      componentTarget: [
+        null,
+        { disabled: true, validators: [Validators.required] },
+      ],
+    });
+  }
 
+  ngOnInit(): void {
+    this.sigaaService.getDepartments().then((data: { files: string[] }) => {
+      this.departments = data.files.map((file) => file.replace(".json", ""));
+      this.loadingDpt = false;
+    });
+  }
+
+  public getComponents(
+    department?: string
+  ): Promise<SigaaComponent[] | undefined> | undefined {
+    if (department)
+      return this.sigaaService
+        .getComponentsFromDepartment(department!)
+        .toPromise();
+    else return undefined;
+  }
+
+  public displayFunction(component: any) {
+    if (component && component.nome)
+      return new TitleCasePipe().transform(component.nome);
+    return "";
+  }
+
+  public handleSelection(formControlName: string) {
+    if (formControlName == this.lblComponentA) {
+      if (this.departmentA) {
+        this.sigaaService
+          .getComponentsFromDepartment(this.departmentA)
+          .subscribe((data) => {
+            this.componentsListSource = data;
+            this.form.get(this.lblComponentA)?.enable;
+          });
+      }
+    } else if (formControlName == this.lblComponentB) {
+      if (this.departmentB) {
+        this.sigaaService
+          .getComponentsFromDepartment(this.departmentB)
+          .subscribe((data) => {
+            this.componentsListTarget = data;
+            this.form.get(this.lblComponentB)?.enable;
+          });
+      }
     }
+  }
 
+  get componentSource() {
+    return this.form?.get(this.lblComponentA)?.value;
+  }
 
-    ngOnInit(): void {
-        this.usersValid.subscribe(
-            next => {
-                if (next === true)
-                    this.showSearch = true;
-            }
-        )
-        this.sigaaService.getComponents().subscribe(
-            components => this.components = components
-        )
-    }
+  public validate(variableName: string) {
+    if (variableName == this.lblComponentA) {
+      return (
+        this.departmentA != undefined && this.componentsListSource.length > 0
+      );
+    } else
+      return (
+        this.departmentB != undefined && this.componentsListTarget.length > 0
+      );
+  }
 
-    get providedToken() {
-        return this.formBusca.get('token')?.value;
-    }
+  public stop() {
+    this.notify("Encerrando a busca, aguarde.", true);
+    this.bfsSearchComponent.stop = true;
+    this.bfsSearchComponent.messages.push("Stopping search...");
+  }
 
-    private handleError(e: HttpErrorResponse, inputValue: string) {
-        if (e.status == 404)
-            this.notify(`Usuário ${inputValue} não encontrado no GitHub.`, true)
-        else if (e.status == 403)
-            this.notify('Limite de acessos à API Rest atingido. Aguarde uma hora para tentar novamente ou forneça um token, clicando no ícone ⚙️.', true)
-        else
-            this.notify(`Erro ao buscar usuário ${inputValue}. Descrição: ${e.message}`, true)
-    }
+  public notify(msg: string, isError = false) {
+    const emoji = isError ? "⚠️" : "✅";
+    const message = `${emoji} ${msg}`;
+    this.snackBar.open(message, "Fechar", { duration: 2000 });
+  }
 
-    public onInputFocusOut(formControlName: string) {
-        const inputValue = this.formBusca.get(formControlName)?.value
-        if (inputValue) {
-            if (formControlName == this.lblUserA) {
-
-            }
-        }
-    }
-
-    public stop() {
-        this.notify('Encerrando a busca, aguarde.', true)
-        this.bfsSearchComponent.stop = true;
-        this.bfsSearchComponent.messages.push('Stopping search...')
-    }
-
-    public reset() {
-        this.stop();
-
-        this.formBusca.get(this.lblUserA)?.setValue('');
-        this.formBusca.get(this.lblUserB)?.setValue('');
-        this.formBusca.get('maxLevel')?.setValue(4);
-
-        this.usuarioA = undefined;
-        this.usuarioB = undefined;
-        this.showSearch = false;
-
-        this.validyStatus = {};
-        this.usersValid.next(false);
-    }
-
-
-    get token() {
-        return this.formBusca.get('token')?.value ? this.formBusca.get('token')!.value! : null;
-    }
-
-    get userOrigin() {
-        return this.formBusca.get(this.lblUserA)!.value!
-    }
-
-    get userTarget() {
-        return this.formBusca.get(this.lblUserB)!.value!
-    }
-
-    get maxLevel() {
-        return this.formBusca.get('maxLevel')!.value!
-    }
-
-    public swap() {
-        let temp = this.formBusca.get(this.lblUserA)?.value
-        this.formBusca.get(this.lblUserA)?.setValue(this.formBusca.get(this.lblUserB)?.value)
-        this.formBusca.get(this.lblUserB)?.setValue(temp)
-        this.onInputFocusOut(this.lblUserA)
-        this.onInputFocusOut(this.lblUserB)
-    }
-
-
-    public notify(msg: string, isError = false) {
-        const emoji = isError ? '⚠️' : '✅';
-        const message = `${emoji} ${msg}`
-        this.snackBar.open(message, 'Fechar', {duration: 2000});
-    }
+  protected readonly localStorage = localStorage;
 }
-
-

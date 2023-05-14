@@ -1,153 +1,208 @@
 <mat-drawer-container autosize class="h-100">
-    <mat-toolbar>
-        <mat-toolbar-row class="d-flex row">
-            <div class="ml-3" (click)="drawer.toggle()" style="cursor: pointer;">
-                <img src="./assets/icon_sm.png" class="rounded-circle" alt="Logo do site">
-            </div>
-            <div class="ml-3">
-                SIGAARush
-            </div>
-            <span class="spacer">
-            </span>
-            <div class="col-2 d-flex justify-content-end">
-                <button mat-mini-fab matTooltip="Configurações de busca" class="mr-2"
-                        (click)="showSettings = !showSettings">
-                    <mat-icon>settings</mat-icon>
-                </button>
-                <button mat-mini-fab matTooltip="Visualizar informações" class="mr-2" (click)="drawer.toggle()">
-                    <mat-icon>info</mat-icon>
-                </button>
-                <a href="https://github.com/projeto-de-algoritmos/Grafos2_SIGAARush">
-                    <button mat-mini-fab matTooltip="Código fonte no Github">
-                        <mat-icon>code</mat-icon>
-                    </button>
-                </a>
-            </div>
-        </mat-toolbar-row>
-    </mat-toolbar>
+  <mat-toolbar>
+    <mat-toolbar-row class="d-flex row">
+      <div class="ml-3" (click)="drawer.toggle()" style="cursor: pointer">
+        <img
+          src="https://sigaa.unb.br/sigaa/img/sigaa.ico"
+          class="rounded-circle"
+          alt="Logo do site"
+        />
+      </div>
+      <div class="ml-3">SIGAARush</div>
+      <span class="spacer"> </span>
+      <div class="col-2 d-flex justify-content-end">
+        <button
+          mat-mini-fab
+          matTooltip="Visualizar informações"
+          class="mr-2"
+          (click)="drawer.toggle()"
+        >
+          <mat-icon>info</mat-icon>
+        </button>
+        <a href="https://github.com/projeto-de-algoritmos/Grafos2_SIGAARush">
+          <button mat-mini-fab matTooltip="Código fonte no Github">
+            <mat-icon>code</mat-icon>
+          </button>
+        </a>
+      </div>
+    </mat-toolbar-row>
+  </mat-toolbar>
 
-    <mat-drawer #drawer mode="side" class="col-3 p-0 m-0">
-        <app-info-component/>
-    </mat-drawer>
+  <mat-drawer #drawer mode="side" class="col-3 p-0 m-0">
+    <app-info-component />
+  </mat-drawer>
 
-    <mat-card class="d-flex">
-        <mat-card-title>
-            <div class="col-12 text-center py-1">
-                Busque a ligação com menor carga horária entre duas matérias da UnB
-            </div>
-        </mat-card-title>
-        <div>
-            <mat-card-content class="d-flex row col-12 m-0 p-0">
-                <div class="row col-12 m-0 p-0 pb-2">
-                    <div class="col-1"></div>
-                    <div class="col-4 d-flex justify-content-center">
-                        <app-avatar [avatarSrc]="usuarioA" [providedToken]="providedToken"></app-avatar>
-                    </div>
-                    <div class="col-2 d-flex justify-content-center">
-                        <button mat-fab disabled class="align-self-center">
-                            <mat-icon class="text-size-lg "> arrow_right_alt</mat-icon>
-                        </button>
-                    </div>
-                    <div class="col-4 d-flex justify-content-center">
-                        <app-avatar [avatarSrc]="usuarioB" [providedToken]="providedToken"></app-avatar>
-                    </div>
-                    <div class="col-1"></div>
-                </div>
-                <form class="col-12 m-0 p-0" [formGroup]="formBusca" *ngIf="formBusca">
-                    <div class="row p-0 m-0">
-                        <div class="col-1"></div>
-                        <div class="col-4 d-flex justify-content-center">
-                            <mat-form-field appearance="outline" class="w-100" [hideRequiredMarker]="true">
-                                <mat-label> Usuário do GitHub</mat-label>
-                                <input #userA matInput [formControlName]="lblUserA" autocomplete="username"
-                                       (focusout)="onInputFocusOut(lblUserA)" [readonly]="showSearch">
-                                <button *ngIf="userA.value && !showSearch" matSuffix mat-icon-button aria-label="Clear"
-                                        (click)="userA.value=''">
-                                    <mat-icon>clear</mat-icon>
-                                </button>
-                            </mat-form-field>
-                        </div>
-                        <div class="col-2 d-flex justify-content-center align-content-start pt-2">
-                            <div *ngIf="!showSearch">
-                                <button mat-mini-fab color="primary" (click)="swap()">
-                                    <mat-icon>swap_horiz</mat-icon>
-                                </button>
-                            </div>
-                            <div *ngIf="showSearch">
-                                <button mat-mini-fab color="warn" (click)="stop()">
-                                    <mat-icon>stop</mat-icon>
-                                </button>
-                            </div>
-                            <button mat-mini-fab color="primary" class="ml-2" (click)="reset()">
-                                <mat-icon>refresh</mat-icon>
-                            </button>
-                        </div>
-                        <div class="col-4 d-flex justify-content-center ">
-                            <mat-form-field appearance="outline" class="w-100" [hideRequiredMarker]="true">
-                                <mat-label> Usuário do GitHub</mat-label>
-                                <input #userB matInput type="text" [formControlName]="lblUserB"
-                                       (focusout)="onInputFocusOut(lblUserB)" autocomplete="username"
-                                       [readonly]="showSearch">
-                                <button *ngIf="userB.value && !showSearch" matSuffix mat-icon-button aria-label="Clear"
-                                        (click)="userB.value=''">
-                                    <mat-icon>clear</mat-icon>
-                                </button>
-                            </mat-form-field>
-                        </div>
-                        <div class="col-1"></div>
-                    </div>
-                    <div class="row p-0 m-0" *ngIf="showSettings">
-                        <div class="col-1"></div>
-                        <div class="col-2 d-flex justify-content-center ">
-                            <mat-form-field appearance="outline">
-                                <mat-label> Algoritmo</mat-label>
-                                <mat-select disabled value="BFS">
-                                    <mat-option [value]="'BFS'">BFS</mat-option>
-                                </mat-select>
-
-                            </mat-form-field>
-                        </div>
-                        <div class="col-2 d-flex justify-content-center">
-                            <mat-form-field appearance="outline" class="w-100">
-                                <mat-label> Nº Máximo de Camadas</mat-label>
-                                <input type="number" matInput formControlName="maxLevel" [max]="10"/>
-                                <button matSuffix mat-icon-button aria-label="Help"
-                                        (click)="maxLevelHint.hidden=!maxLevelHint.hidden">
-                                    <mat-icon>help</mat-icon>
-                                </button>
-                                <mat-hint #maxLevelHint hidden="hidden"> Máx. 10</mat-hint>
-                            </mat-form-field>
-                        </div>
-                        <div class="col-2"></div>
-                        <div class="col-4 d-flex justify-content-center">
-                            <mat-form-field appearance="outline" class="w-100">
-                                <mat-label> Token do GitHub</mat-label>
-                                <input matInput formControlName="token"/>
-                                <button matSuffix mat-icon-button aria-label="Help"
-                                        (click)="tokenHint.hidden=!tokenHint.hidden">
-                                    <mat-icon>help</mat-icon>
-                                </button>
-                                <mat-hint #tokenHint>
-                                    <a [href]="githubTokenInfo">
-                                        <mat-icon color="primary">info</mat-icon>
-                                    </a>
-                                    <span class="pl-1">GitHub's Personal Access Token</span>
-                                </mat-hint>
-                            </mat-form-field>
-                        </div>
-                        <div class="col-1"></div>
-                    </div>
-                </form>
-
-            </mat-card-content>
+  <mat-card class="d-flex">
+    <mat-card-title>
+      <div class="col-12 py-2 text-center py-1">
+        Busque a ligação com menor carga horária entre duas matérias da UnB
+      </div>
+    </mat-card-title>
+    <div>
+      <mat-card-content class="d-flex row col-12 m-0 p-0">
+        <div class="row col-12 m-0 p-0 pb-2">
+          <div class="col-5 d-flex">
+            <app-materia
+              [component]="componentSource"
+              class="w-100"
+            ></app-materia>
+          </div>
+          <div class="col-2 d-flex justify-content-center">
+            <button mat-fab disabled class="align-self-center">
+              <mat-icon class="text-size-lg"> arrow_right_alt</mat-icon>
+            </button>
+          </div>
+          <div class="col-5 d-flex justify-content-center">
+            <app-materia
+              [component]="form.get(lblComponentB)?.value"
+              class="w-100"
+            ></app-materia>
+          </div>
         </div>
-        <div class="d-flex col-12 m-0 p-0">
-            <mat-card-content *ngIf="showSearch" class="m-0 p-0 w-100">
-                <app-bfs-search [userOrigin]="userOrigin" [userTarget]="userTarget" [providedToken]="token"
-                                [maxLevel]="maxLevel"/>
-            </mat-card-content>
+        <form class="row col-12 m-0 p-0" [formGroup]="form" *ngIf="form">
+          <div class="row p-0 m-0">
+            <div
+              class="col-2 pt-2 d-flex justify-content-center align-content-baseline"
+              *ngIf="loadingDpt"
+            >
+              <mat-spinner style="max-width: 5vw; max-height: 5vh" />
+            </div>
+            <div
+              class="col-2 d-flex justify-content-center"
+              *ngIf="!loadingDpt"
+            >
+              <mat-form-field
+                appearance="outline"
+                class="w-100"
+                [hideRequiredMarker]="false"
+              >
+                <mat-label> Departamento</mat-label>
+                <mat-select
+                  required
+                  (selectionChange)="handleSelection(lblComponentA)"
+                  [(value)]="departmentA"
+                >
+                  <mat-option *ngFor="let d of departments" [value]="d">{{
+                    d
+                  }}</mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+            <div class="col-4 d-flex justify-content-center">
+              <mat-form-field appearance="outline" class="w-100">
+                <mat-label> Matéria de origem (nome ou código)</mat-label>
+                <input
+                  type="text"
+                  matInput
+                  required
+                  [formControlName]="lblComponentA"
+                  [readonly]="!validate(lblComponentA)"
+                  required
+                  [matAutocomplete]="autocompleteComponentSource"
+                />
+                <mat-autocomplete
+                  #autocompleteComponentSource
+                  [displayWith]="displayFunction"
+                >
+                  <mat-option
+                    *ngFor="let c of componentsListSource"
+                    [value]="c"
+                  >
+                    {{ c.codigo }} - {{ c.nome | titlecase }}
+                  </mat-option>
+                </mat-autocomplete>
+              </mat-form-field>
+            </div>
+            <div
+              class="col-1 d-flex justify-content-center align-content-start pt-2"
+            >
+              <div>
+                <button
+                  mat-mini-fab
+                  color="warn"
+                  (click)="stop()"
+                  *ngIf="showSearch"
+                >
+                  <mat-icon>stop</mat-icon>
+                </button>
+                <button
+                  mat-mini-fab
+                  color="primary"
+                  [disabled]="!form.valid"
+                  (click)="showSearch = !showSearch"
+                  *ngIf="!showSearch"
+                >
+                  <mat-icon>search</mat-icon>
+                </button>
+              </div>
+            </div>
+            <div
+              class="col-2 pt-2 d-flex justify-content-center align-content-baseline"
+              *ngIf="loadingDpt"
+            >
+              <mat-spinner style="max-width: 5vw; max-height: 5vh" />
+            </div>
+            <div
+              class="col-2 d-flex justify-content-center"
+              *ngIf="!loadingDpt"
+            >
+              <mat-form-field
+                appearance="outline"
+                class="w-100"
+                [hideRequiredMarker]="false"
+              >
+                <mat-label> Departamento</mat-label>
+                <mat-select
+                  required
+                  (selectionChange)="handleSelection(lblComponentB)"
+                  [(value)]="departmentB"
+                >
+                  <mat-option *ngFor="let d of departments" [value]="d">
+                    {{ d }}
+                  </mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+            <div class="col-3 d-flex justify-content-center">
+              <mat-form-field
+                appearance="outline"
+                class="w-100"
+                [hideRequiredMarker]="false"
+              >
+                <mat-label> Matéria de destino (nome ou código)</mat-label>
 
-
-        </div>
-    </mat-card>
+                <input
+                  type="text"
+                  [readonly]="!validate(lblComponentB)"
+                  matInput
+                  required
+                  [matAutocomplete]="autocompletComponentTarget"
+                  [formControlName]="lblComponentB"
+                />
+                <mat-autocomplete
+                  #autocompletComponentTarget
+                  [displayWith]="displayFunction"
+                >
+                  <mat-option
+                    *ngFor="let c of componentsListTarget"
+                    [value]="c"
+                  >
+                    {{ c.codigo }} - {{ c.nome | titlecase }}
+                  </mat-option>
+                </mat-autocomplete>
+              </mat-form-field>
+            </div>
+          </div>
+        </form>
+      </mat-card-content>
+    </div>
+    <div class="d-flex col-12 m-0 p-0">
+      <mat-card-content *ngIf="showSearch" class="m-0 p-0 w-100">
+        <app-bfs-search
+          [componentA]="componentSource"
+          [componentB]="form.get(lblComponentB)?.value"
+        ></app-bfs-search>
+      </mat-card-content>
+    </div>
+  </mat-card>
 </mat-drawer-container>

@@ -1,0 +1,22 @@
+<div class="p-0 m-0 w-100">
+  <table *ngIf="component" class="w-100">
+    <tr *ngIf="component.nome && component.codigo">
+      <td colspan="2">{{ component.codigo }} - {{ component.nome }}</td>
+    </tr>
+    <tr *ngIf="component.carga_horaria">
+      <td>Carga Horária</td>
+      <td>
+        {{ component.carga_horaria }}h (00{{ component.carga_horaria / 15 }})
+      </td>
+    </tr>
+    <tr *ngIf="component.pre_requisitos">
+      <td>Pré-requisitos</td>
+      <td [innerHTML]="parseArray(component.pre_requisitos!)"></td>
+    </tr>
+    <tr *ngIf="component.eh_requisito_de">
+      <td>É requisito de</td>
+      <td [innerHTML]="parseArray(component.eh_requisito_de!)"></td>
+    </tr>
+  </table>
+  <div *ngIf="!component"></div>
+</div>
