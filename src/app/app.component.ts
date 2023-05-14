@@ -1,11 +1,11 @@
 import { Component, OnInit, ViewChild } from "@angular/core";
 import { FormBuilder, FormGroup, Validators } from "@angular/forms";
 import { MatSnackBar } from "@angular/material/snack-bar";
-import { BfsSearchComponent } from "./components/bfs-search/bfs-search.component";
 import { Observable, of, Subject } from "rxjs";
 import { SigaaService } from "./service/sigaa.service";
 import { SigaaComponent } from "./model/sigaaComponent";
 import { TitleCasePipe } from "@angular/common";
+import { SearchComponent } from "./components/search/search.component";
 
 @Component({
   selector: "app-root",
@@ -13,7 +13,7 @@ import { TitleCasePipe } from "@angular/common";
   styleUrls: ["./app.component.scss"],
 })
 export class AppComponent implements OnInit {
-  @ViewChild(BfsSearchComponent) bfsSearchComponent!: BfsSearchComponent;
+  @ViewChild(SearchComponent) searchComponent!: SearchComponent;
 
   public loadingDpt = true;
 
@@ -29,7 +29,16 @@ export class AppComponent implements OnInit {
   public componentsListSource: SigaaComponent[] = [];
   public componentsListTarget: SigaaComponent[] = [];
 
-  public showSearch = false;
+  // @TODO:!!!!!!!!!!!! MUDAR PARA FALSE!!!!!!!!!!!!!!!
+  public showSearch = true;
+
+  public compTeste = {
+    codigo: "FGA0158",
+    nome: "ORIENTAÇÃO A OBJETOS",
+    carga_horaria: 60,
+    eh_requisito_de: ["FGA0138", "FGA0171", "FGA0413"],
+    pre_requisitos: ["CIC0004", "CIC0007"],
+  } as SigaaComponent;
 
   public form: FormGroup;
 
@@ -40,31 +49,21 @@ export class AppComponent implements OnInit {
   ) {
     this.form = this.formBuilder.group({
       componentSource: [
-        null,
+        this.compTeste,
         { disabled: true, validators: [Validators.required] },
       ],
       componentTarget: [
-        null,
+        this.compTeste,
         { disabled: true, validators: [Validators.required] },
       ],
     });
   }
 
-  ngOnInit(): void {
-    this.sigaaService.getDepartments().then((data: { files: string[] }) => {
-      this.departments = data.files.map((file) => file.replace(".json", ""));
-      this.loadingDpt = false;
-    });
-  }
-
-  public getComponents(
-    department?: string
-  ): Promise<SigaaComponent[] | undefined> | undefined {
-    if (department)
-      return this.sigaaService
-        .getComponentsFromDepartment(department!)
-        .toPromise();
-    else return undefined;
+  async ngOnInit() {
+    this.departments = (await this.sigaaService.getDepartments()).map((el) =>
+      el.replace(".json", "")
+    );
+    this.loadingDpt = false;
   }
 
   public displayFunction(component: any) {
@@ -73,24 +72,12 @@ export class AppComponent implements OnInit {
     return "";
   }
 
-  public handleSelection(formControlName: string) {
+  public async handleSelection(formControlName: string) {
     if (formControlName == this.lblComponentA) {
       if (this.departmentA) {
-        this.sigaaService
-          .getComponentsFromDepartment(this.departmentA)
-          .subscribe((data) => {
-            this.componentsListSource = data;
-            this.form.get(this.lblComponentA)?.enable;
-          });
-      }
-    } else if (formControlName == this.lblComponentB) {
-      if (this.departmentB) {
-        this.sigaaService
-          .getComponentsFromDepartment(this.departmentB)
-          .subscribe((data) => {
-            this.componentsListTarget = data;
-            this.form.get(this.lblComponentB)?.enable;
-          });
+        this.componentsListSource =
+          await this.sigaaService.getPromiseFromDepartment(this.departmentA);
+        this.form.get(this.lblComponentA)?.enable;
       }
     }
   }
@@ -112,8 +99,8 @@ export class AppComponent implements OnInit {
 
   public stop() {
     this.notify("Encerrando a busca, aguarde.", true);
-    this.bfsSearchComponent.stop = true;
-    this.bfsSearchComponent.messages.push("Stopping search...");
+    // this.searchComponent.stop = true;
+    // this.searchComponent.messages.push("Stopping search...");
   }
 
   public notify(msg: string, isError = false) {

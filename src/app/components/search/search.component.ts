@@ -1,6 +1,5 @@
-import { HttpErrorResponse } from "@angular/common/http";
+import { TitleCasePipe } from "@angular/common";
 import { Component, Input, OnChanges, SimpleChanges } from "@angular/core";
-import { MatSnackBar } from "@angular/material/snack-bar";
 import { SigaaComponent } from "src/app/model/sigaaComponent";
 import { SigaaService } from "src/app/service/sigaa.service";
 
@@ -10,354 +9,218 @@ import { SigaaService } from "src/app/service/sigaa.service";
   styleUrls: ["./search.component.scss"],
 })
 export class SearchComponent implements OnChanges {
-  @Input() public componentA!: SigaaComponent | undefined;
-  @Input() public componentB!: SigaaComponent | undefined;
+  @Input() public componentSource!: SigaaComponent | undefined;
 
-  @Input() maxLevel: number = 6;
-
-  // @TODO: MUDAR PARA FALSE
-  public showResults: boolean = true;
-
-  public path?: SigaaComponent[];
   public messages: string[] = [];
-  public stop: boolean = false;
+  private departments = new Map<string, Map<string, SigaaComponent>>();
 
-  public distance?: number = undefined;
-
-  private visitedDepartments = new Set();
-
-  private graph = new Map<string, SigaaComponent>();
-
-  constructor(private snackBar: MatSnackBar, private service: SigaaService) {}
-
-  public getLastMessages(qtd?: number): string[] {
-    if (qtd) return this.formatArray(this.messages, qtd);
-    return this.messages;
-  }
-
-  private formatArray(array: any[], qtd = 7): any[] {
-    if (array.length > qtd) {
-      const start = array.length - qtd + 1;
-      return [array[0], array[1], "...", ...array.slice(start)];
-    }
-    return array;
-  }
+  public constructor(private service: SigaaService) {}
 
   msg(...data: any[]) {
     this.messages.push(`<p>${data.toString()}</p>`);
   }
+  public getLastMessages(qtd: number) {
+    return this.messages;
+  }
 
-  ngOnChanges(changes: SimpleChanges) {
+  private async loadDepartmentsFromRequirements(requirements: string[]) {
+    let deps = new Set<string>();
+
+    for (let r of requirements) deps.add(this.getDepartamentFromCodigo(r));
+
+    for (let dep of deps) {
+      if (!this.departments.has(dep)) {
+        this.msg(`Loading components from department: ${dep}...`);
+
+        let componentsSet = new Map<string, SigaaComponent>();
+        for (let d of await this.service.getPromiseFromDepartment(dep))
+          componentsSet.set(d.codigo, d);
+
+        this.departments.set(dep, componentsSet);
+      }
+    }
+  }
+
+  public ngOnChanges(): void {
     this.start();
   }
 
-  private getComponentDepartment(component: SigaaComponent) {
+  public async start() {
+    try {
+      if (!this.componentSource) return;
+      let currNode: SigaaComponent = this.componentSource;
+
+      let mancha = new Map<string, Candidato>();
+      let candidatos = new Heap();
+
+      let requirements = currNode.pre_requisitos;
+
+      this.msg(
+        `Starting search for component: (${currNode.codigo}) ${currNode.nome}<br/>Requirements: ${requirements}`
+      );
+
+      await this.loadDepartmentsFromRequirements(requirements);
+
+      let currCandidate: Candidato = {
+        node: currNode,
+        distance: 0,
+        source: currNode,
+      };
+
+      mancha.set(currNode.codigo, currCandidate);
+
+      for (let r of requirements) {
+        if (r.indexOf("&") != -1) return;
+        let c = this.getComponent(r)!;
+        let dest: Candidato = {
+          node: c,
+          distance: currCandidate.distance + c.carga_horaria,
+          source: currCandidate.node,
+        };
+        this.msg(
+          `Visiting component ${this.formatName(dest.node)} (d=${
+            dest.distance
+          })`
+        );
+      }
+      //   if (
+      //     !mancha.has(c.codigo) ||
+      //     dest.distance < mancha.get(c.codigo)!.distance
+      //   )
+      //     mancha.set(c.codigo, dest);
+
+      //   console.log(dest);
+      //   candidatos.insert(dest);
+      // }
+      console.log(candidatos);
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
+  // PRIVATE AUXILIARY FUNCTIONS
+
+  private formatName(component: SigaaComponent) {
+    return `(${component.codigo}) ${new TitleCasePipe().transform(
+      component.nome
+    )}`;
+  }
+
+  private getDepartmentFromComponent(component: SigaaComponent) {
     return component.codigo.substring(0, 3);
   }
 
-  private getComponentCodigo(codigo: string) {
+  private getDepartamentFromCodigo(codigo: string) {
     return codigo.substring(0, 3);
   }
 
-  private loadDpt(component: SigaaComponent) {
-    let codA = this.getComponentDepartment(component);
-    if (codA in this.visitedDepartments) {
-      this.service.getComponentsFromDepartment(codA).subscribe((data) => {
-        for (let c of data) {
-          this.graph.set(c.codigo!, c);
-        }
-        this.visitedDepartments.add(codA);
-        console.log(this.visitedDepartments);
-      });
-    }
+  private getComponent(codigo: string) {
+    let dep = this.getDepartamentFromCodigo(codigo);
+    return this.departments.get(dep)!.get(codigo);
   }
 
-  start() {
-    if (this.componentA) this.loadDpt(this.componentA);
-    if (this.componentB) this.loadDpt(this.componentB);
-
-    this.getPreRequisitos(this.componentA!);
-    // this.dijkstra().then((path) => {
-    //   this.path = path;
-    // });
+  private getPrerequisitos(codigo: string) {
+    this.getComponent(codigo)?.pre_requisitos;
   }
 
-  public notify(msg: string, isError = false) {
-    const emoji = isError ? "⚠️" : "✅";
-    const message = `${emoji} ${msg}`;
-    this.snackBar.open(message, "Fechar", { duration: 2000 });
-  }
+  private getComponentsFromDepartment(dep: string) {}
 
-  private handleError(e: HttpErrorResponse, inputValue: string) {
-    if (e.status == 404)
-      this.notify(`Component ${inputValue} não encontrado.`, true);
-    else
-      this.notify(
-        `Erro ao buscar a matéria ${inputValue}. Descrição: ${e.message}`,
-        true
-      );
-  }
+  // ALGORITHM
+}
 
-  private getPreRequisitos(component: SigaaComponent): SigaaComponent[] {
-    for (let m of component.pre_requisitos!) {
-      let dpt = this.getComponentCodigo(m);
-      console.log(this.graph);
-      console.log(this.graph.get(m));
-
-      console.log(dpt);
-    }
-    return [];
-  }
-
-  async old_alg(): Promise<SigaaComponent[]> {
-    if (!this.componentA || !this.componentB) return [];
-    try {
-      // Variables used in messages formatting
-      let qtdVisitedComponents: number = 0;
-      let visitedComponents: SigaaComponent[] = [];
-
-      type no = { component: SigaaComponent; path: SigaaComponent[] };
-
-      // Variables
-      let startNode: no = {
-        component: this.componentA,
-        path: [this.componentA],
-      };
-      let queue = [startNode];
-      let visited = new Set();
-      let level = 0;
-      let targetUser = null;
-      let currentNeighbor = undefined;
-
-      // Functions
-      const isTarget = (currentNode?: no) => {
-        return currentNode ? currentNode.component == this.componentB : false;
-      };
-
-      const visit = (user?: no) => {
-        if (!visited.has(user)) visitedComponents.push(user!.component);
-        qtdVisitedComponents++;
-        this.msg(`Visiting component: ${
-          user?.component.codigo
-        } | Current level: L${level < 0 ? 0 : level} <br/>
-                            Visited SIGAA ${qtdVisitedComponents} component(s) until now: 
-                            [${this.formatArray(visitedComponents, 3)}]`);
-        visited.add(user);
-      };
-
-      // Algorithm
-      if (isTarget(startNode)) {
-        this.msg(`Found path between 
-                                    ${this.componentA.codigo} and ${this.componentB.codigo}<br/>
-                                    [${startNode}]`);
-        this.msg("Rendering results...");
-        return [startNode.component];
-      }
-
-      while (queue.length > 0 && level <= this.maxLevel && !this.stop) {
-        let currentUser = queue.shift()!;
-        visit(currentUser);
-        if (this.stop) {
-          this.messages.push("Stopped search!");
-          return [];
-        }
-        let neighbors: any[] = [];
-        let page = 1;
-        let response;
-        // while (page <= this.maxFollowersToVisitPerl) {
-        //   response = await this.service
-        //     .getFollowing(currentUser.component, page++, this.providedToken)
-        //     .toPromise()
-        //     .catch((error) => this.handleError(error, currentUser.component));
-        //   console.log(response);
-        //   neighbors.push(...response!);
-        //   if (response!.length < 100) break;
-        //   if (response!.length == 0) break;
-        // }
-
-        for (currentNeighbor of neighbors!.map((viz: any) => ({
-          component: viz.component,
-          path: [viz.component],
-        }))!) {
-          if (this.stop) {
-            this.messages.push("Stopped search!");
-            return [];
-          }
-          currentNeighbor.path = [
-            ...currentUser!.path,
-            ...currentNeighbor.path,
-          ];
-          level = currentNeighbor.path.length - 1;
-          if (
-            !visited.has(currentNeighbor) &&
-            !(queue.indexOf(currentNeighbor) != -1)
-          ) {
-            if (isTarget(currentNeighbor)) {
-              targetUser = currentNeighbor;
-              break;
-            }
-            queue.push(currentNeighbor);
-          }
-        }
-        if (isTarget(currentNeighbor)) break;
-      }
-      if (this.stop) {
-        this.messages.push("Stopped search!");
-        return [];
-      }
-      if (level >= this.maxLevel || targetUser == null) {
-        this.msg(`No path was found between 
-                                    ${this.componentA} and ${this.componentB} 
-                                   within ${this.maxLevel} degrees. :( `);
-        return [];
-      } else {
-        this.msg(`Found path between 
-                                    ${this.componentA} and ${
-          this.componentB
-        }<br/>
-                                    ${targetUser.path.join(" ➜ ")}`);
-        this.msg("Rendering results...");
-        this.distance = level;
-        this.showResults = true;
-        return targetUser.path;
-      }
-    } catch (e) {
-      this.notify("Ocorreu um erro ao realizar a busca.", true);
-      return [];
-    }
-  }
-
-  async dijkstra(origin: SigaaComponent, target: SigaaComponent) {
-    let candidatos = new MinHeap<SigaaComponent>(
-      (a: SigaaComponent, b: SigaaComponent) => {
-        return a.carga_horaria! > b.carga_horaria! ? 1 : -1;
-      }
-    );
-
-    let mancha = new Map<string, SigaaComponent>();
-    mancha.set(origin.codigo, origin);
-    console.log(mancha);
+class Edge {
+  public nextNode: SigaaComponent;
+  public weight: number;
+  constructor(nextNode: SigaaComponent, weight: number) {
+    this.nextNode = nextNode;
+    this.weight = weight;
   }
 }
 
-class MinHeap<T> {
-  private heap: T[];
-  private compareFn: (a: T, b: T) => number;
+class Graph {
+  public adjacencyList = new Map<SigaaComponent, Edge[]>();
 
-  constructor(compareFn: (a: T, b: T) => number) {
-    this.heap = [];
-    this.compareFn = compareFn;
+  constructor() {}
+
+  addNode(n: SigaaComponent) {
+    this.adjacencyList.set(n, []);
   }
 
-  private getLeftChildIndex(parentIndex: number): number {
-    return 2 * parentIndex + 1;
+  addEdge(startNode: SigaaComponent, nextNode: SigaaComponent, weight: number) {
+    let newEdge = new Edge(nextNode, weight);
+    if (!this.adjacencyList.has(startNode)) this.addNode(startNode);
+    if (!this.adjacencyList.has(nextNode)) this.addNode(nextNode);
+    this.adjacencyList.get(startNode)!.push(newEdge);
   }
 
-  private getRightChildIndex(parentIndex: number): number {
-    return 2 * parentIndex + 2;
+  getNodes() {
+    return this.adjacencyList.keys();
+  }
+}
+
+type Candidato = {
+  node: SigaaComponent;
+  distance: number;
+  source: SigaaComponent;
+};
+
+class Heap {
+  heap: Candidato[] = [];
+
+  lastposition = 1;
+
+  constructor() {
+    this.heap.push();
   }
 
-  private getParentIndex(childIndex: number): number {
-    return Math.floor((childIndex - 1) / 2);
+  insert(s: Candidato) {
+    this.heap[this.lastposition] = s;
+    this.shiftUp(this.lastposition++);
   }
 
-  private hasLeftChild(index: number): boolean {
-    return this.getLeftChildIndex(index) < this.heap.length;
+  private swap(indexA: number, indexB: number) {
+    const temp = this.heap[indexA];
+    this.heap[indexA] = this.heap[indexB];
+    this.heap[indexB] = temp;
   }
 
-  private hasRightChild(index: number): boolean {
-    return this.getRightChildIndex(index) < this.heap.length;
+  private shiftUp(index: number) {
+    const pai = this.getPai(index);
+    while (pai > 0) {
+      if (this.heap[index].distance < this.heap[pai].distance)
+        this.swap(index, pai);
+      index = pai;
+    }
   }
 
-  private hasParent(index: number): boolean {
-    return this.getParentIndex(index) >= 0;
-  }
-
-  private leftChild(index: number): T {
-    return this.heap[this.getLeftChildIndex(index)];
-  }
-
-  private rightChild(index: number): T {
-    return this.heap[this.getRightChildIndex(index)];
-  }
-
-  private parent(index: number): T {
-    return this.heap[this.getParentIndex(index)];
-  }
-
-  private swap(index1: number, index2: number): void {
-    [this.heap[index1], this.heap[index2]] = [
-      this.heap[index2],
-      this.heap[index1],
-    ];
-  }
-
-  private heapifyUp(): void {
-    let index = this.heap.length - 1;
+  private heapify(index: number) {
+    const left = this.heap[this.getLeftChild(index)];
+    const right = this.heap[this.getRightChild(index)];
+    const value = this.heap[index];
     while (
-      this.hasParent(index) &&
-      this.compareFn(this.heap[index], this.parent(index)) < 0
+      this.getLeftChild(index) <= this.lastposition &&
+      this.getRightChild(index) <= this.lastposition
     ) {
-      const parentIndex = this.getParentIndex(index);
-      this.swap(index, parentIndex);
-      index = parentIndex;
+      if (left < value && left <= right)
+        this.swap(this.getLeftChild(index), index);
+      if (right < value && right <= left)
+        this.swap(this.getRightChild(index), index);
     }
   }
 
-  private heapifyDown(): void {
-    let index = 0;
-    while (this.hasLeftChild(index)) {
-      let smallerChildIndex = this.getLeftChildIndex(index);
-      if (
-        this.hasRightChild(index) &&
-        this.compareFn(this.rightChild(index), this.leftChild(index)) < 0
-      ) {
-        smallerChildIndex = this.getRightChildIndex(index);
-      }
-
-      if (this.compareFn(this.heap[index], this.heap[smallerChildIndex]) < 0) {
-        break;
-      } else {
-        this.swap(index, smallerChildIndex);
-      }
-
-      index = smallerChildIndex;
-    }
+  public getMin() {
+    this.swap(1, this.lastposition);
   }
 
-  public size(): number {
-    return this.heap.length;
+  private getPai(index: number) {
+    return Math.floor(index / 2);
   }
 
-  public isEmpty(): boolean {
-    return this.heap.length === 0;
+  private getLeftChild(index: number) {
+    return 2 * index;
   }
 
-  public peek(): T | null {
-    if (this.isEmpty()) {
-      return null;
-    }
-    return this.heap[0];
-  }
-
-  public add(item: T): void {
-    this.heap.push(item);
-    this.heapifyUp();
-  }
-
-  public poll(): T | null {
-    if (this.isEmpty()) {
-      return null;
-    }
-
-    const item = this.heap[0];
-    this.heap[0] = this.heap.pop()!;
-
-    this.heapifyDown();
-    return item;
-  }
-
-  public toArray(): T[] {
-    return [...this.heap];
+  private getRightChild(index: number) {
+    return 2 * index + 1;
   }
 }

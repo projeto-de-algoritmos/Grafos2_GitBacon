@@ -35,26 +35,15 @@
   <mat-card class="d-flex">
     <mat-card-title>
       <div class="col-12 py-2 text-center py-1">
-        Busque a ligação com menor carga horária entre duas matérias da UnB
+        Busque a ligação com menor carga horária até uma matéria da UnB
       </div>
     </mat-card-title>
     <div>
       <mat-card-content class="d-flex row col-12 m-0 p-0">
-        <div class="row col-12 m-0 p-0 pb-2">
+        <div class="row col-12 d-flex justify-content-center m-0 p-0 pb-2">
           <div class="col-5 d-flex">
             <app-materia
               [component]="componentSource"
-              class="w-100"
-            ></app-materia>
-          </div>
-          <div class="col-2 d-flex justify-content-center">
-            <button mat-fab disabled class="align-self-center">
-              <mat-icon class="text-size-lg"> arrow_right_alt</mat-icon>
-            </button>
-          </div>
-          <div class="col-5 d-flex justify-content-center">
-            <app-materia
-              [component]="form.get(lblComponentB)?.value"
               class="w-100"
             ></app-materia>
           </div>
@@ -62,13 +51,13 @@
         <form class="row col-12 m-0 p-0" [formGroup]="form" *ngIf="form">
           <div class="row p-0 m-0">
             <div
-              class="col-2 pt-2 d-flex justify-content-center align-content-baseline"
+              class="col-5 pt-2 d-flex justify-content-center align-content-baseline"
               *ngIf="loadingDpt"
             >
               <mat-spinner style="max-width: 5vw; max-height: 5vh" />
             </div>
             <div
-              class="col-2 d-flex justify-content-center"
+              class="col-5 d-flex justify-content-center"
               *ngIf="!loadingDpt"
             >
               <mat-form-field
@@ -88,7 +77,7 @@
                 </mat-select>
               </mat-form-field>
             </div>
-            <div class="col-4 d-flex justify-content-center">
+            <div class="col-7 d-flex justify-content-center">
               <mat-form-field appearance="outline" class="w-100">
                 <mat-label> Matéria de origem (nome ou código)</mat-label>
                 <input
@@ -136,72 +125,13 @@
                 </button>
               </div>
             </div>
-            <div
-              class="col-2 pt-2 d-flex justify-content-center align-content-baseline"
-              *ngIf="loadingDpt"
-            >
-              <mat-spinner style="max-width: 5vw; max-height: 5vh" />
-            </div>
-            <div
-              class="col-2 d-flex justify-content-center"
-              *ngIf="!loadingDpt"
-            >
-              <mat-form-field
-                appearance="outline"
-                class="w-100"
-                [hideRequiredMarker]="false"
-              >
-                <mat-label> Departamento</mat-label>
-                <mat-select
-                  required
-                  (selectionChange)="handleSelection(lblComponentB)"
-                  [(value)]="departmentB"
-                >
-                  <mat-option *ngFor="let d of departments" [value]="d">
-                    {{ d }}
-                  </mat-option>
-                </mat-select>
-              </mat-form-field>
-            </div>
-            <div class="col-3 d-flex justify-content-center">
-              <mat-form-field
-                appearance="outline"
-                class="w-100"
-                [hideRequiredMarker]="false"
-              >
-                <mat-label> Matéria de destino (nome ou código)</mat-label>
-
-                <input
-                  type="text"
-                  [readonly]="!validate(lblComponentB)"
-                  matInput
-                  required
-                  [matAutocomplete]="autocompletComponentTarget"
-                  [formControlName]="lblComponentB"
-                />
-                <mat-autocomplete
-                  #autocompletComponentTarget
-                  [displayWith]="displayFunction"
-                >
-                  <mat-option
-                    *ngFor="let c of componentsListTarget"
-                    [value]="c"
-                  >
-                    {{ c.codigo }} - {{ c.nome | titlecase }}
-                  </mat-option>
-                </mat-autocomplete>
-              </mat-form-field>
-            </div>
           </div>
         </form>
       </mat-card-content>
     </div>
     <div class="d-flex col-12 m-0 p-0">
       <mat-card-content *ngIf="showSearch" class="m-0 p-0 w-100">
-        <app-bfs-search
-          [componentA]="componentSource"
-          [componentB]="form.get(lblComponentB)?.value"
-        ></app-bfs-search>
+        <app-search [componentSource]="componentSource"></app-search>
       </mat-card-content>
     </div>
   </mat-card>
