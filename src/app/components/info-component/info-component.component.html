@@ -1,101 +1,99 @@
 <div class="d-flex flex-column pt-2">
-    <div class="d-flex col-12 justify-content-center align-content-center pb-2 px-1">
-        <mat-expansion-panel>
-            <mat-expansion-panel-header>
-                <mat-panel-title>
-                    Número de Kevin Bacon
-                </mat-panel-title>
-            </mat-expansion-panel-header>
+  <div
+    class="d-flex col-12 justify-content-center align-content-center pb-2 px-1"
+  >
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title> Número de Kevin Bacon </mat-panel-title>
+      </mat-expansion-panel-header>
 
-            O Número de Bacon surgiu de uma brincadeira de alguns estudantes que tentaram conectar várias
-            pessoas da indústria cinematográfica ao ator Kevin Bacon com o menor número de conexões possíveis e logo
-            perceberam
-            que sempre existia alguém que conheciam alguém que conheciam outras pessoas que em algum ponto nesse rede
-            conheciam
-            o ator, ganhando assim um número de Bacon com base nessa distância, por exemplo o ator Tom Cruise atuou com
-            o
-            Kevin
-            Bacon no filme “Questão de Honra”, logo seu número de Bacon é 1. Esse jogo partiu da hipótese dos seis graus
-            de
-            separação, a qual diz que uma pessoa está a seis(6) conexões de qualquer outra pessoa no mundo. <button
-                mat-mini-fab (click)="showRef=!showRef">1</button>
+      O Número de Bacon surgiu de uma brincadeira de alguns estudantes que
+      tentaram conectar várias pessoas da indústria cinematográfica ao ator
+      Kevin Bacon com o menor número de conexões possíveis e logo perceberam que
+      sempre existia alguém que conheciam alguém que conheciam outras pessoas
+      que em algum ponto nesse rede conheciam o ator, ganhando assim um número
+      de Bacon com base nessa distância, por exemplo o ator Tom Cruise atuou com
+      o Kevin Bacon no filme “Questão de Honra”, logo seu número de Bacon é 1.
+      Esse jogo partiu da hipótese dos seis graus de separação, a qual diz que
+      uma pessoa está a seis(6) conexões de qualquer outra pessoa no mundo.
+      <button mat-mini-fab (click)="showRef = !showRef">1</button>
 
-            <br />
+      <br />
+    </mat-expansion-panel>
+  </div>
+  <div
+    class="d-flex col-12 justify-content-center align-content-center pb-2 px-1"
+  >
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title> Grafos </mat-panel-title>
+      </mat-expansion-panel-header>
+      Grafos são estruturas matemáticas criadas representar relacionamentos
+      entre objetos, assim, podendo relacionar uma informação a outra. Para
+      isso, são utilizados nós que representam os objetos e arestas que
+      representam uma ligação entre os objetos, essas ligações podem ser
+      assimétricas, representadas por grafos não direcionados, como é o caso de
+      uma ligação entre dois usuários do GitHub.
+      <button mat-mini-fab (click)="showRef = !showRef">2</button>
+    </mat-expansion-panel>
+  </div>
+  <div
+    class="d-flex col-12 justify-content-center align-content-center pb-2 px-1"
+  >
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title> API Rest do GitHub </mat-panel-title>
+      </mat-expansion-panel-header>
+      GitHub é uma plataforma de hospedagem de código para controle de versão,
+      que permite que as pessoas colaborem em projetos a qualquer momento
+      <button mat-mini-fab (click)="showRef = !showRef">3</button>. Para
+      elaboração deste projeto foi utilizado a API REST do GitHub, para
+      requisição de informações de usuários da plataforma.
+    </mat-expansion-panel>
+  </div>
+  <div
+    class="d-flex col-12 justify-content-center align-content-center pb-2 px-1"
+  >
+    <mat-expansion-panel [expanded]="showRef">
+      <mat-expansion-panel-header>
+        <mat-panel-title> Mais informações </mat-panel-title>
+      </mat-expansion-panel-header>
 
+      <div class="col-12 d-flex justify-content-center">
+        <h3>Referências</h3>
+      </div>
+      <div class="col-12 d-flex p-0 m-0">
+        [1] HOPKINS, Brian. KEVIN BACON AND GRAPH THEORY. PRIMUS, v. 14, n. 1,
+        p. 5-11, 2004. <br />
+        [2] KLEINBERG, Jon; TARDOS, Eva. Algorithm design. Pearson Education
+        India, 2006.<br />
+        [3] Olá, Mundo - GitHub Docs. GitHub Docs. Disponível em: . Acesso em: 1
+        maio 2023.<br />
+      </div>
 
-        </mat-expansion-panel>
-    </div>
-    <div class="d-flex col-12 justify-content-center align-content-center pb-2 px-1">
-        <mat-expansion-panel>
-            <mat-expansion-panel-header>
-                <mat-panel-title>
-                    Grafos
-                </mat-panel-title>
-
-            </mat-expansion-panel-header>
-            Grafos são estruturas matemáticas criadas representar relacionamentos entre objetos,
-            assim, podendo relacionar uma informação a outra. Para isso, são utilizados nós que
-            representam os objetos e arestas que representam uma ligação entre os objetos, essas
-            ligações podem ser assimétricas, representadas por grafos não direcionados, como é o
-            caso de uma ligação entre dois usuários do GitHub.
-            <button mat-mini-fab (click)="showRef=!showRef">2</button>
-
-        </mat-expansion-panel>
-    </div>
-    <div class="d-flex col-12 justify-content-center align-content-center pb-2 px-1">
-        <mat-expansion-panel>
-            <mat-expansion-panel-header>
-                <mat-panel-title>
-                    API Rest do GitHub
-                </mat-panel-title>
-
-            </mat-expansion-panel-header>
-            GitHub é uma plataforma de hospedagem de código para controle de versão, que permite
-            que as pessoas colaborem em projetos a qualquer momento <button mat-mini-fab
-                (click)="showRef=!showRef">3</button>. Para elaboração deste projeto
-            foi utilizado a API REST do GitHub, para requisição de informações de usuários da plataforma.
-
-        </mat-expansion-panel>
-    </div>
-    <div class="d-flex col-12 justify-content-center align-content-center pb-2 px-1">
-        <mat-expansion-panel [expanded]="showRef">
-            <mat-expansion-panel-header>
-                <mat-panel-title>
-                    Mais informações
-                </mat-panel-title>
-
-            </mat-expansion-panel-header>
-
-            <div class="col-12 d-flex justify-content-center">
-                <h3>Referências</h3>
-            </div>
-            <div class="col-12 d-flex p-0 m-0">
-                [1] HOPKINS, Brian. KEVIN BACON AND GRAPH THEORY. PRIMUS, v. 14, n. 1, p. 5-11, 2004. <br />
-                [2] KLEINBERG, Jon; TARDOS, Eva. Algorithm design. Pearson Education India, 2006.<br />
-                [3] Olá, Mundo - GitHub Docs. GitHub Docs. Disponível em: . Acesso em: 1 maio 2023.<br />
-            </div>
-
-            <div class="d-flex col-12 justify-content-center">
-                <h3>Criado por</h3>
-
-            </div>
-            <div class="d-flex col-12 justify-content-center">
-                <div class="px-2">
-
-                    <a href="https://github.com/lucasgabriel-2">
-                        <app-avatar avatarSrc="https://avatars.githubusercontent.com/u/87864450?v=4"
-                            user="lucasgabriel-2" [isSmall]="true" />
-                    </a>
-                </div>
-                <div>
-
-                    <a href="https://github.com/nszchagas">
-                        <app-avatar avatarSrc="https://avatars.githubusercontent.com/u/68018675?v=4" user="nszchagas"
-                            [isSmall]="true" />
-
-                    </a>
-                </div>
-            </div>
-
-        </mat-expansion-panel>
-    </div>
+      <div class="d-flex col-12 justify-content-center">
+        <h3>Criado por</h3>
+      </div>
+      <div class="d-flex col-12 justify-content-center">
+        <div class="px-2">
+          <a href="https://github.com/lucasgabriel-2">
+            <img
+              src="https://avatars.githubusercontent.com/u/87864450?v=4"
+              alt="Imagem do usuário lucasgabriel-2 no Github."
+              class="rounded-circle small"
+            />
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/nszchagas">
+            <img
+              src="https://avatars.githubusercontent.com/u/68018675?v=4"
+              alt="Imagem do usuário nszchagas no Github."
+              class="rounded-circle small"
+            />
+          </a>
+        </div>
+      </div>
+    </mat-expansion-panel>
+  </div>
+</div>
