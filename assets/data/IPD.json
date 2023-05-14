@@ -1,0 +1,96 @@
+[
+   {
+      "codigo": "IPD0008",
+      "nome": "ANÁLISE COMPORTAMENTAL APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0086"
+      ],
+      "pre_requisitos": [
+         "PPB0002"
+      ]
+   },
+   {
+      "codigo": "IPD0016",
+      "nome": "ESTÁGIO SUPERVISIONADO BÁSICO EM PSICOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IPD0017"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PED0071"
+      ]
+   },
+   {
+      "codigo": "IPD0009",
+      "nome": "ESTÁGIO SUPERVISIONADO LICENCIATURA - ÁREA CIÊNCIAS DO COMPORTAMENTO 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "IPD0018"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IPD0178",
+      "nome": "PROJETOS MULTIDISCIPLINARES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "IPD0175 & PCL0020"
+      ]
+   },
+   {
+      "codigo": "IPD0005",
+      "nome": "TÓPICOS EM ANÁLISE CONCEITUAL EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0084"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IPD0003",
+      "nome": "TÓPICOS EM APLICAÇÕES DAS CIÊNCIAS DO COMPORTAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IPD0002",
+      "nome": "TÓPICOS EM ERGONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0081"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IPD0001",
+      "nome": "TÓPICOS EM MÉTODOS DE PESQUISA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0080"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IPD0007",
+      "nome": "TÓPICOS EM PSICOLOGIA SOCIAL APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0085"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IPD0004",
+      "nome": "TÓPICOS EM TERAPIA ANALÍTICO - COMPORTAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IPD0083"
+      ],
+      "pre_requisitos": []
+   }
+]

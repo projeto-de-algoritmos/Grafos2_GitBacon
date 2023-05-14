@@ -1,0 +1,299 @@
+[
+   {
+      "codigo": "FIT0010",
+      "nome": "BACTERIOLOGIA VEGETAL APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0056"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0001",
+      "nome": "DIVERSIDADE MICROBIANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0038"
+      ],
+      "pre_requisitos": [
+         "ECL0033",
+         "ECL0042"
+      ]
+   },
+   {
+      "codigo": "FIT0035",
+      "nome": "DIVERSIDADE MICROBIANA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FIT0036",
+         "FIT0071"
+      ],
+      "pre_requisitos": [
+         "ECL0033",
+         "ECL0042"
+      ]
+   },
+   {
+      "codigo": "FIT0036",
+      "nome": "DIVERSIDADE MICROBIANA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FIT0072"
+      ],
+      "pre_requisitos": [
+         "FIT0035"
+      ]
+   },
+   {
+      "codigo": "FIT0013",
+      "nome": "DOENÇAS DE PLANTAS CULTIVADAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIT0058"
+      ],
+      "pre_requisitos": [
+         "FIT0030"
+      ]
+   },
+   {
+      "codigo": "FIT0032",
+      "nome": "ELEMENTOS DE MICOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FIT0069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0016",
+      "nome": "ESTAGIO SUPERVISIONADO EM FITOPATOLOGIA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FIT0059"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0005",
+      "nome": "FITOPATOLOGIA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FIT0008",
+         "FIT0051"
+      ],
+      "pre_requisitos": [
+         "CEL0019",
+         "CEL0054",
+         "CEL0094"
+      ]
+   },
+   {
+      "codigo": "FIT0008",
+      "nome": "FITOPATOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0054"
+      ],
+      "pre_requisitos": [
+         "FIT0005"
+      ]
+   },
+   {
+      "codigo": "FIT0018",
+      "nome": "FITOPATOLOGIA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0042"
+      ],
+      "pre_requisitos": [
+         "FIT0030"
+      ]
+   },
+   {
+      "codigo": "FIT0030",
+      "nome": "FITOPATOLOGIA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0013",
+         "FIT0018",
+         "FIT0045"
+      ],
+      "pre_requisitos": [
+         "FIT0031",
+         "FIT0019"
+      ]
+   },
+   {
+      "codigo": "FIT0004",
+      "nome": "INTRODUCAO A BACTERIOLOGIA VEGETAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0050"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0009",
+      "nome": "INTRODUCAO A NEMATOLOGIA VEGETAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0041"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0003",
+      "nome": "INTRODUÇÃO A PATOLOGIA VEGETAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0004",
+         "ICB0310",
+         "FIT0037",
+         "FIT0039"
+      ],
+      "pre_requisitos": [
+         "CEL0054"
+      ]
+   },
+   {
+      "codigo": "FIT0002",
+      "nome": "INTRODUCAO A VIROLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FIT0048"
+      ],
+      "pre_requisitos": [
+         "CEL0035 & CEL0054 & CEL0050",
+         "CEL0035 & CEL0094 & CEL0050",
+         "CEL0035 & CEL0089 & CEL0050",
+         "CEL0035 & CEL0111 & CEL0054",
+         "CEL0089 & CEL0111 & CEL0054"
+      ]
+   },
+   {
+      "codigo": "FIT0017",
+      "nome": "INTRODUCAO A VIROLOGIA VEGETAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0060"
+      ],
+      "pre_requisitos": [
+         "CEL0019",
+         "CEL0054",
+         "CEL0094"
+      ]
+   },
+   {
+      "codigo": "FIT0006",
+      "nome": "MICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0040"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0019",
+      "nome": "MICROBIOLOGIA E MICRORGANISMOS FITOPATOGÊNICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0030",
+         "ICB0310",
+         "FIT0037",
+         "FIT0043"
+      ],
+      "pre_requisitos": [
+         "CEL0054"
+      ]
+   },
+   {
+      "codigo": "FIT0031",
+      "nome": "MICROORGANISMOS FITOPATOGÊNICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIT0030",
+         "FIT0068"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0011",
+      "nome": "NEMATOLOGIA VEGETAL APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0057"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0034",
+      "nome": "PATOLOGIA FLORESTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0046"
+      ],
+      "pre_requisitos": [
+         "EFL0004 & FAV0163",
+         "EFL0004 & CEL0050",
+         "EFL0004 & FIT0003"
+      ]
+   },
+   {
+      "codigo": "FIT0022",
+      "nome": "PESQUISA EM BACTERIOLOGIA VEGETAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIT0063"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0024",
+      "nome": "PESQUISA EM MICOLOGIA : FUNGOS FITOPATOGENICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIT0064"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0027",
+      "nome": "PESQUISA EM NEMATOLOGIA VEGETAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIT0065"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0029",
+      "nome": "PESQUISA EM VIROLOGIA VEGETAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIT0044"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0007",
+      "nome": "VECTORES DE FITOPATOGENOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FIT0053"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIT0037",
+      "nome": "DIAGNOSE DE DOENÇAS DE PLANTAS (DPP)",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIT0073"
+      ],
+      "pre_requisitos": [
+         "FIT0019",
+         "FIT0003",
+         "CEL0111"
+      ]
+   }
+]

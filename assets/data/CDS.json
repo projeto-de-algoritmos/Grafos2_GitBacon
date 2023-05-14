@@ -1,0 +1,268 @@
+[
+   {
+      "codigo": "CDS0004",
+      "nome": "AGRICULTURA E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0024"
+      ],
+      "pre_requisitos": [
+         "CDS0007",
+         "IGD0173",
+         "FAV0280",
+         "DAN0022",
+         "BOT0008",
+         "ECL0033",
+         "ENC0263",
+         "EFL0010",
+         "FIT0003",
+         "GEM0014",
+         "GEA0051",
+         "ICB0077"
+      ]
+   },
+   {
+      "codigo": "CDS0021",
+      "nome": "ANÁLISE DA PAISAGEM APLICADA À SUSTENTABILIDADE URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0051"
+      ],
+      "pre_requisitos": [
+         "CDS0008",
+         "CDS0007 & IGD0160"
+      ]
+   },
+   {
+      "codigo": "CDS0003",
+      "nome": "COMIDA, CULTURA E SISTEMAS DE PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0034"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CDS0035",
+      "nome": "COMUNICAÇÃO SOCIOAMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CDS0016",
+      "nome": "EDUCAÇÃO E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0030"
+      ],
+      "pre_requisitos": [
+         "CDS0007"
+      ]
+   },
+   {
+      "codigo": "CDS0005",
+      "nome": "EPISTEMOLOGIA, TECNOLOGIA E SUSTENTABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0036"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CDS0032",
+      "nome": "ESTUDOS DOS SISTEMAS AGRÁRIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CDS0009",
+      "nome": "FUNDAMENTOS DO DESENVOLVIMENTO SUSTENTÁVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0040"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CDS0006",
+      "nome": "GOVERNANÇA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0037"
+      ],
+      "pre_requisitos": [
+         "CDS0007 & ECO0262",
+         "CDS0008",
+         "ECO0261",
+         "ECO0275",
+         "CDS0014",
+         "CDS0001"
+      ]
+   },
+   {
+      "codigo": "CDS0002",
+      "nome": "HISTÓRIA AMBIENTAL DO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0033"
+      ],
+      "pre_requisitos": [
+         "CDS0008"
+      ]
+   },
+   {
+      "codigo": "CDS0015",
+      "nome": "INDICADORES DE DESENVOLVIMENTO SUSTENTÁVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0029"
+      ],
+      "pre_requisitos": [
+         "CDS0010"
+      ]
+   },
+   {
+      "codigo": "CDS0007",
+      "nome": "INTRODUÇÃO AO DESENVOLVIMENTO SUSTENTÁVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0004",
+         "CDS0008",
+         "CDS0016",
+         "CDS0025"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "CDS0008",
+      "nome": "MEIO AMBIENTE, CULTURA E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0002",
+         "CDS0006",
+         "CDS0011",
+         "CDS0013",
+         "CDS0014",
+         "CDS0020",
+         "CDS0021",
+         "CDS0026"
+      ],
+      "pre_requisitos": [
+         "CDS0007"
+      ]
+   },
+   {
+      "codigo": "CDS0001",
+      "nome": "PLANEJAMENTO E AVALIAÇÃO SOCIOAMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0006",
+         "CDS0023"
+      ],
+      "pre_requisitos": [
+         "CDS0010"
+      ]
+   },
+   {
+      "codigo": "CDS0012",
+      "nome": "POLÍTICAS PÚBLICAS E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0043"
+      ],
+      "pre_requisitos": [
+         "CDS0010",
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "CDS0013",
+      "nome": "POPULAÇÃO E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0044"
+      ],
+      "pre_requisitos": [
+         "CDS0008"
+      ]
+   },
+   {
+      "codigo": "CDS0019",
+      "nome": "PRÁTICA DE PESQUISA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0031"
+      ],
+      "pre_requisitos": [
+         "CDS0010"
+      ]
+   },
+   {
+      "codigo": "CDS0020",
+      "nome": "PRÁTICAS EM DESENVOLVIMENTO SUSTENTÁVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0050"
+      ],
+      "pre_requisitos": [
+         "CDS0008",
+         "CDS0007 & ECL0033"
+      ]
+   },
+   {
+      "codigo": "CDS0011",
+      "nome": "SISTEMAS SOCIOAMBIENTAIS E COMPLEXIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0022"
+      ],
+      "pre_requisitos": [
+         "CDS0008"
+      ]
+   },
+   {
+      "codigo": "CDS0014",
+      "nome": "TEORIAS DO DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0006",
+         "CDS0028"
+      ],
+      "pre_requisitos": [
+         "CDS0008"
+      ]
+   },
+   {
+      "codigo": "CDS0010",
+      "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CDS0001",
+         "IGD0159",
+         "ZOO0048",
+         "CDS0012",
+         "CDS0015",
+         "ECO0266",
+         "ECO0270",
+         "ECO0276",
+         "CDS0019",
+         "CDS0027"
+      ],
+      "pre_requisitos": [
+         "ECO0261 & CDS0007"
+      ]
+   },
+   {
+      "codigo": "CDS0018",
+      "nome": "TRABALHO INTERDISCIPLINAR INTEGRADO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDS0048"
+      ],
+      "pre_requisitos": [
+         "IGD0259"
+      ]
+   }
+]

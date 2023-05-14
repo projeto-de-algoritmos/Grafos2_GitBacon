@@ -1,0 +1,977 @@
+[
+   {
+      "codigo": "MTC0056",
+      "nome": "ARTE, PEDAGOGIA E CULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0218"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0146",
+      "nome": "ATIVIDADES LÚDICAS EM INÍCIO DE ESCOLARIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0269"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0035",
+      "nome": "AVALIAÇÃO ESCOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0180"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0021",
+      "nome": "CURRÍCULO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0022",
+         "MTC0183"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0022",
+      "nome": "CURRICULOS E PROGRAMAS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0204"
+      ],
+      "pre_requisitos": [
+         "MTC0021"
+      ]
+   },
+   {
+      "codigo": "MTC0141",
+      "nome": "DESAFIOS NA FORMACAO DO EDUCADOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0264"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0013",
+      "nome": "DIDÁTICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0199"
+      ],
+      "pre_requisitos": [
+         "MTC0012",
+         "MTC0143"
+      ]
+   },
+   {
+      "codigo": "MTC0012",
+      "nome": "DIDÁTICA FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0045",
+         "GEA0062",
+         "HIS0117",
+         "LIP0054",
+         "LET0098",
+         "FEF0139",
+         "MTC0013",
+         "MTC0017",
+         "MTC0018",
+         "MTC0029",
+         "MTC0102",
+         "GEA0085",
+         "MTC0169"
+      ],
+      "pre_requisitos": [
+         "PED0058",
+         "PPB0017",
+         "PPB0067",
+         "PED0060",
+         "TEF0065",
+         "TEF0118",
+         "FED0039",
+         "LET0555"
+      ]
+   },
+   {
+      "codigo": "MTC0143",
+      "nome": "DIDÁTICA FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CIC0160",
+         "MTC0013",
+         "MTC0017",
+         "MTC0018",
+         "MTC0029",
+         "MTC0266"
+      ],
+      "pre_requisitos": [
+         "PED0060",
+         "PED0058"
+      ]
+   },
+   {
+      "codigo": "MTC0103",
+      "nome": "DIDÁTICA GERAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0102",
+         "MTC0248"
+      ],
+      "pre_requisitos": [
+         "PED0058"
+      ]
+   },
+   {
+      "codigo": "MTC0045",
+      "nome": "EDUCAÇÃO ABERTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0212"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0076",
+      "nome": "EDUCACAO A DISTANCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0229"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0077",
+      "nome": "EDUCACAO COMUNITARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0230"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0009",
+      "nome": "EDUCAÇÃO DE ADULTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0168"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0004",
+      "nome": "EDUCAÇÃO DE JOVENS, ADULTOS E IDOSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0182"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0072",
+      "nome": "EDUCAÇÃO E LINGUAGENS TECNOLÓGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0225"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0165",
+      "nome": "EDUCAÇÃO EM ARTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0181"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0061",
+      "nome": "EDUCAÇÃO EM GEOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0046",
+         "MTC0176"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0138",
+      "nome": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0263"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0099",
+      "nome": "EDUCAÇÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0245"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0157",
+      "nome": "EDUCAÇÃO ESTÉTICA E CULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0278"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0096",
+      "nome": "EDUCAÇÃO HIPERTEXTUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0244"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0039",
+      "nome": "EDUCAÇÃO INFANTIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0171"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0055",
+      "nome": "EDUCAÇÃO MATEMÁTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0105",
+         "MTC0153",
+         "MTC0174"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0105",
+      "nome": "EDUCAÇÃO MATEMÁTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0249"
+      ],
+      "pre_requisitos": [
+         "MTC0055"
+      ]
+   },
+   {
+      "codigo": "MTC0153",
+      "nome": "EDUCAÇÃO MATEMÁTICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0154",
+         "MTC0179"
+      ],
+      "pre_requisitos": [
+         "MTC0055"
+      ]
+   },
+   {
+      "codigo": "MTC0154",
+      "nome": "EDUCAÇÃO MATEMÁTICA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0275"
+      ],
+      "pre_requisitos": [
+         "MTC0153"
+      ]
+   },
+   {
+      "codigo": "MTC0087",
+      "nome": "EDUCAÇÃO, MÍDIA E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0074",
+         "MTC0185"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0161",
+      "nome": "EDUCAÇÃO NÃO-FORMAL EM CIÊNCIAS E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0282"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0002",
+      "nome": "EDUCAÇÃO, TECNOLOGIA E COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0166"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0078",
+      "nome": "ELEMENTOS DE LINGUAGEM CINEMATOGRAFICA PARA A EDUCACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0067",
+      "nome": "ENSINO DE CIÊNCIA E TECNOLOGIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0155",
+         "MTC0177"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0155",
+      "nome": "ENSINO DE CIÊNCIAS E TECNOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0276"
+      ],
+      "pre_requisitos": [
+         "MTC0067"
+      ]
+   },
+   {
+      "codigo": "MTC0059",
+      "nome": "ENSINO DE HISTÓRIA, IDENTIDADE E CIDADANIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0175"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0053",
+      "nome": "ENSINO E APRENDIZAGEM DA LÍNGUA MATERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0173"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0029",
+      "nome": "ENSINO SUPLETIVO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0030",
+         "MTC0207"
+      ],
+      "pre_requisitos": [
+         "MTC0012",
+         "MTC0143"
+      ]
+   },
+   {
+      "codigo": "MTC0030",
+      "nome": "ENSINO SUPLETIVO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0208"
+      ],
+      "pre_requisitos": [
+         "MTC0029"
+      ]
+   },
+   {
+      "codigo": "MTC0080",
+      "nome": "ESTUDO INDIVIDUAL ORIENTADO EM TECNOLOGIA EDUCACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MTC0233"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0162",
+      "nome": "ETNOGRAFIA DE SALA DE AULA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0283"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0158",
+      "nome": "FORMAS DE EXPRESSÃO DA CRIANÇA DE 0 A 6 ANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0279"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0006",
+      "nome": "FUNDAMENTOS DA ARTE NA EDUCACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0194"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0149",
+      "nome": "FUNDAMENTOS DA LINGUAGEM MUSICAL NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0187"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0160",
+      "nome": "FUNDAMENTOS DA LINGUAGEM MUSICAL NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0281"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0145",
+      "nome": "INTRODUCAO AO PROCESSO EDUCATIVO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MTC0268"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0102",
+      "nome": "LABORATORIO E PRATICA DE INPLEMENTACAO DO ENSINO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0247"
+      ],
+      "pre_requisitos": [
+         "MTC0103",
+         "MTC0012"
+      ]
+   },
+   {
+      "codigo": "MTC0118",
+      "nome": "LINGUAGEM 1 - MANIFESTACOES HUMANAS:LUDICO,ESTETICO E UTILITARIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0252"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0119",
+      "nome": "LINGUAGEM 2 - EDUCAÇÃO E CIÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0253"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0120",
+      "nome": "LINGUAGEM 3 - HISTORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0254"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0121",
+      "nome": "LINGUAGEM 4 - GEOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0007",
+         "MTC0255"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0123",
+      "nome": "LINGUAGEM 5 - LÍNGUA MATERNA TEXTO E CONTEXTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0256"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0129",
+      "nome": "LINGUAGEM 6 - EDUCAÇÃO MATEMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0258"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0101",
+      "nome": "LITERATURA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0246"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0016",
+      "nome": "MEDIDAS EDUCACIONAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0200"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0017",
+      "nome": "METODOLOGIA DO ENSINO DE 1 GRAU 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0201"
+      ],
+      "pre_requisitos": [
+         "MTC0012",
+         "MTC0143"
+      ]
+   },
+   {
+      "codigo": "MTC0018",
+      "nome": "METODOLOGIA DO ENSINO DE 1 GRAU 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0202"
+      ],
+      "pre_requisitos": [
+         "MTC0012",
+         "MTC0143"
+      ]
+   },
+   {
+      "codigo": "MTC0089",
+      "nome": "OFICINA DE AUDIOVISUAIS NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0074",
+         "MTC0239"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0151",
+      "nome": "OFICINA DE FORMAÇÃO DO PROFESSOR-LEITOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0272"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0163",
+      "nome": "OFICINA DE FORMAÇÃO DO PROFESSOR-LEITOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0284"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0090",
+      "nome": "OFICINA DE TECNOLOGIA EDUCACIONAL 3:RADIO E MEIOS SONOROS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0074",
+         "MTC0240"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0107",
+      "nome": "OFICINA DE TEXTOS ACADÊMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0250"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0156",
+      "nome": "OFICINAS DE ENSINO DE HISTÓRIA - LUGARES DE MEMÓRIA DO DF",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0188"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0144",
+      "nome": "OFICINAS DE LINGUAGENS",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "MTC0267"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0093",
+      "nome": "OFICINAS DE TEXTOS DIDÁTICOS ESCRITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0074",
+         "MTC0242"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0136",
+      "nome": "PESQUISA EM EDUCAÇÃO À DISTÂNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0262"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0049",
+      "nome": "PRATICA DE ENSINO DE DISCIPLINA PROFISSIONALIZANTE DO 2 GRAU 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0213"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0159",
+      "nome": "PRÁTICA DOCENTE E LÍNGUAGEM CORPORAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0280"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0147",
+      "nome": "PRÁTICA DOCENTE E LINGUAGENS CORPORAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0164",
+         "MTC0270"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0164",
+      "nome": "PRÁTICA DOCENTE: LINGUAGENS CORPORAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0285"
+      ],
+      "pre_requisitos": [
+         "MTC0147"
+      ]
+   },
+   {
+      "codigo": "MTC0091",
+      "nome": "PRÁTICAS MEDIÁTICAS NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0074",
+         "MTC0186"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0050",
+      "nome": "PRINCIPIOS DA PSICOGENESE APLICADOS A EDUCACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0214"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0051",
+      "nome": "PROCESSO DE ALFABETIZACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0172"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0003",
+      "nome": "PROCESSOS DE ALFABETIZAÇÃO E LETRAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0167"
+      ],
+      "pre_requisitos": [
+         "TEF0002"
+      ]
+   },
+   {
+      "codigo": "MTC0073",
+      "nome": "PRODUCAO E LEITURA DA IMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0226"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0074",
+      "nome": "PROJETO EM TECNOLOGIA EDUCACIONAL 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0075",
+         "MTC0227"
+      ],
+      "pre_requisitos": [
+         "MTC0087",
+         "MTC0089",
+         "MTC0090",
+         "MTC0091",
+         "MTC0093"
+      ]
+   },
+   {
+      "codigo": "MTC0075",
+      "nome": "PROJETO EM TECNOLOGIA EDUCACIONAL 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "MTC0228"
+      ],
+      "pre_requisitos": [
+         "MTC0074"
+      ]
+   },
+   {
+      "codigo": "MTC0007",
+      "nome": "PROJETO FINAL 1-ESTAGIO SUP EM MAGISTERIO PARA INICIO DE ESCOLARIZACAO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MTC0195"
+      ],
+      "pre_requisitos": [
+         "MTC0121"
+      ]
+   },
+   {
+      "codigo": "MTC0008",
+      "nome": "PROJETO FINAL 2-ESTAGIO SUP EM MAGISTERIO PARA INICIO DE ESCOLARIZACAO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MTC0196"
+      ],
+      "pre_requisitos": [
+         "MTC0119 & MTC0120 & MTC0123"
+      ]
+   },
+   {
+      "codigo": "MTC0142",
+      "nome": "PSICOMOTRICIDADE : O ESPACO DO CORPO NA EDUCACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0265"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0028",
+      "nome": "RADIO E TELEVISAO EM EDUCACAO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0206"
+      ],
+      "pre_requisitos": [
+         "MTC0027"
+      ]
+   },
+   {
+      "codigo": "MTC0094",
+      "nome": "SEMINÁRIO INTERDISCIPLINAR EM INÍCIO DE ESCOLARIZAÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MTC0243"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0057",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM INICIO DE ESCOLARIZACAO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MTC0219"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0064",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM INICIO DE ESCOLARIZACAO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MTC0222"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0068",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM INICIO DE ESCOLARIZACAO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MTC0224"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0081",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM TECNOLOGIA EDUCACIONAL 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MTC0234"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0082",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM TECNOLOGIA EDUCACIONAL 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MTC0235"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0083",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM TECNOLOGIA EDUCACIONAL 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MTC0236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0084",
+      "nome": "SEMINARIO INTERDISCIPLINAR EM TECNOLOGIA EDUCACIONAL 4",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MTC0237"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0027",
+      "nome": "TECNICAS AUDIOVISUAIS DE EDUCACAO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MTC0028",
+         "MTC0205"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0033",
+      "nome": "TECNOLOGIA EDUCACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0209"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0152",
+      "nome": "TEORIA E PRÁTICA DO LÉXICO PORTUGUÊS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MTC0273"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0131",
+      "nome": "TEORIA E PRATICA PEDAGOGICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0259"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0133",
+      "nome": "TEORIA E PRATICA PEDAGOGICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0260"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0134",
+      "nome": "TEORIA E PRATICA PEDAGOGICA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0178"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0005",
+      "nome": "TÓPICOS ESPECIAIS DE LINGUAGEM E LITERATUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0193"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0127",
+      "nome": "TÓPICOS ESPECIAIS EM PRÁTICA PEDAGÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0257"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0001",
+      "nome": "TÓPICOS ESPECIAIS EM PRÁTICAS PEDAGÓGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0189"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0079",
+      "nome": "TOPICOS ESPECIAIS EM TECNOLOGIA EDUCACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MTC0115",
+      "nome": "TOPICOS ESPECIAIS EM TECNOLOGIA EDUCACIONAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0251"
+      ],
+      "pre_requisitos": []
+   }
+]

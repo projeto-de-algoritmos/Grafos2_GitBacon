@@ -1,0 +1,1100 @@
+[
+   {
+      "codigo": "IRI0049",
+      "nome": "ANÁLISE DAS RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0164",
+         "IRI1115"
+      ],
+      "pre_requisitos": [
+         "IRI0018 & IRI0052"
+      ]
+   },
+   {
+      "codigo": "IRI0144",
+      "nome": "ANÁLISE DAS RELAÇÕES INTERNACIONAIS DO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1119"
+      ],
+      "pre_requisitos": [
+         "IRI0052 & IRI0154"
+      ]
+   },
+   {
+      "codigo": "IRI0167",
+      "nome": "A POLÍTICA EXTERIOR DO BRASIL NA PRIMEIRA REPÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1213"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0166",
+      "nome": "A POLÍTICA EXTERIOR DO BRASIL SOB O IMPÉRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1212"
+      ],
+      "pre_requisitos": [
+         "HIS0084"
+      ]
+   },
+   {
+      "codigo": "IRI0165",
+      "nome": "A POLÍTICA EXTERIOR DO BRASIL SOB O NACIONAL-DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1211"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0005",
+      "nome": "BRASIL: POLÍTICA, ECONOMIA E RELAÇÕES EXTERIORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0111",
+      "nome": "CIÊNCIA, TECNOLOGIA E GOVERNO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1177"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "IRI0174",
+      "nome": "CINEMA, LITERATURA E POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1220"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0053",
+      "nome": "COMÉRCIO INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1116"
+      ],
+      "pre_requisitos": [
+         "IRI0169"
+      ]
+   },
+   {
+      "codigo": "IRI0122",
+      "nome": "COOPERAÇÃO INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1118"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & IRI0018"
+      ]
+   },
+   {
+      "codigo": "IRI0143",
+      "nome": "CORPORAÇÕES TRANSNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1191"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0001",
+      "nome": "DEMOCRACIA E RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1132"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI1101",
+      "nome": "DESIGUALDADES, CAPITALISMO HISTÓRICO E ALTERNATIVAS AO DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1130"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0060",
+      "nome": "DIREITO BANCÁRIO E DO MERCADO DE CAPITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1161"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & FDD0006"
+      ]
+   },
+   {
+      "codigo": "IRI0058",
+      "nome": "DIREITO COMERCIAL COMPARADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1159"
+      ],
+      "pre_requisitos": [
+         "FDD0006 & FDD0062 & FDD0072"
+      ]
+   },
+   {
+      "codigo": "IRI0145",
+      "nome": "DIREITO DA INTEGRAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1193"
+      ],
+      "pre_requisitos": [
+         "FDD0035 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0054",
+      "nome": "DIREITO DAS SOCIEDADES COMERCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1156"
+      ],
+      "pre_requisitos": [
+         "FDD0006"
+      ]
+   },
+   {
+      "codigo": "IRI0057",
+      "nome": "DIREITO DIPLOMÁTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1158"
+      ],
+      "pre_requisitos": [
+         "FDD0006 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0147",
+      "nome": "DIREITO DOS TRATADOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1195"
+      ],
+      "pre_requisitos": [
+         "FDD0035 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0146",
+      "nome": "DIREITO EM RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1120"
+      ],
+      "pre_requisitos": [
+         "FDD0035"
+      ]
+   },
+   {
+      "codigo": "IRI0110",
+      "nome": "DIREITO INTERNACIONAL DOS NEGÓCIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1176"
+      ],
+      "pre_requisitos": [
+         "FDD0006 & IRI0013 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "IRI0148",
+      "nome": "DIREITO INTERNACIONAL ECONÔMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1196"
+      ],
+      "pre_requisitos": [
+         "FDD0035 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0150",
+      "nome": "DIREITO INTERNACIONAL HUMANITÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1197"
+      ],
+      "pre_requisitos": [
+         "FDD0035 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0062",
+      "nome": "DIREITO PÚBLICO COMPARADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1162"
+      ],
+      "pre_requisitos": [
+         "FDD0006 & FDD0035"
+      ]
+   },
+   {
+      "codigo": "IRI0043",
+      "nome": "DISSERTAÇÃO EM RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1114"
+      ],
+      "pre_requisitos": [
+         "POL0011 & IRI0013 & POL0012 & POL0013 & IRI0015 & EST0019"
+      ]
+   },
+   {
+      "codigo": "IRI0059",
+      "nome": "DIVISÃO INTERNACIONAL DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1160"
+      ],
+      "pre_requisitos": [
+         "POL0011 & IRI0013 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "IRI0168",
+      "nome": "ECONOMIA POLÍTICA INTERNACIONAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0169",
+         "IRI0172",
+         "IRI1125"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0169",
+      "nome": "ECONOMIA POLÍTICA INTERNACIONAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0053",
+         "IRI0066",
+         "IRI1126"
+      ],
+      "pre_requisitos": [
+         "IRI0168"
+      ]
+   },
+   {
+      "codigo": "IRI0139",
+      "nome": "EMPRESAS INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1188"
+      ],
+      "pre_requisitos": [
+         "ECO0019 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0151",
+      "nome": "ESTÁGIO SUPERVISIONADO EM RELAÇÕES INTERNACIONAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0152",
+         "IRI1121"
+      ],
+      "pre_requisitos": [
+         "IRI0052"
+      ]
+   },
+   {
+      "codigo": "IRI0152",
+      "nome": "ESTÁGIO SUPERVISIONADO EM RELAÇÕES INTERNACIONAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1199"
+      ],
+      "pre_requisitos": [
+         "IRI0151"
+      ]
+   },
+   {
+      "codigo": "IRI0175",
+      "nome": "ESTUDOS DE ÁREA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1221"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0176",
+      "nome": "ESTUDOS DE ÁREA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1222"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0095",
+      "nome": "FILOSOFIA POLÍTICA MODERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1169"
+      ],
+      "pre_requisitos": [
+         "POL0011 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0004",
+      "nome": "GÊNERO E RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1135"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0047",
+      "nome": "GEOPOLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1150"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0153",
+      "nome": "GLOBALIZAÇÃO E GOVERNANÇA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1200"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0092",
+      "nome": "GLOBALIZAÇÃO E RELAÇÕES INTERCULTURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1167"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0185",
+      "nome": "GRANDES PENSADORES E AS RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1230"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0011",
+      "nome": "HISTÓRIA DA POLÍTICA EXTERIOR DO BRASIL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IRI1142"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0181",
+      "nome": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1226"
+      ],
+      "pre_requisitos": [
+         "IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0012",
+      "nome": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS CONTEMPORÂNEAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0008",
+         "IRI0154",
+         "IRI1113"
+      ],
+      "pre_requisitos": [
+         "HIS0084 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0154",
+      "nome": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS DO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0170",
+         "IRI1108"
+      ],
+      "pre_requisitos": [
+         "IRI0012"
+      ]
+   },
+   {
+      "codigo": "IRI0177",
+      "nome": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS PRÉ-CONTEMPORÂNEAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1223"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & HIS0084"
+      ]
+   },
+   {
+      "codigo": "IRI0178",
+      "nome": "HISTÓRIA E POLÍTICA DO ORIENTE MÉDIO CONTEMPORÂNEO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1224"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0093",
+      "nome": "INDIVÍDUO E GLOBALIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1168"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0067",
+      "nome": "INOVAÇÃO E DIFUSÃO TECNOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1165"
+      ],
+      "pre_requisitos": [
+         "POL0011 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0155",
+      "nome": "INSTITUIÇÕES POL. E INTERMEDIAÇÃO DE INTERESSES EM PERSP. COMPARADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1202"
+      ],
+      "pre_requisitos": [
+         "IRI0158"
+      ]
+   },
+   {
+      "codigo": "IRI0101",
+      "nome": "INTEGRAÇÃO EUROPEIA: A POLÍTICA EXTERNA E DE SEGURANÇA COMUM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1173"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0099",
+      "nome": "INTEGRAÇÃO EUROPEIA: HISTÓRIA, PROCESSOS E DINÂMICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1171"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0100",
+      "nome": "INTEGRAÇÃO EUROPEIA: INSTITUIÇÕES E FUNCIONAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1172"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0048",
+      "nome": "INTEGRAÇÃO REGIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1151"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0002",
+      "nome": "INTERCÂMBIO INTERNACIONAL",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "IRI1133"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0013",
+      "nome": "INTRODUÇÃO AO ESTUDO DAS RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0007",
+         "ECO0250",
+         "IRI0162",
+         "IRI0181",
+         "IRI0182",
+         "IRI0184",
+         "IRI1102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0142",
+      "nome": "JURISPRUDÊNCIA DE DIREITO INTERNACIONAL E DIREITOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1190"
+      ],
+      "pre_requisitos": [
+         "IRI0124"
+      ]
+   },
+   {
+      "codigo": "IRI0156",
+      "nome": "MÉTODOS E TÉCNICAS DE PESQUISA EM RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1122"
+      ],
+      "pre_requisitos": [
+         "IRI0052 & EST0019"
+      ]
+   },
+   {
+      "codigo": "IRI0006",
+      "nome": "MIGRAÇÃO E REFÚGIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1112"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & FDD0006"
+      ]
+   },
+   {
+      "codigo": "IRI0182",
+      "nome": "NEGOCIAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1128"
+      ],
+      "pre_requisitos": [
+         "IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0170",
+      "nome": "O BRASIL E O MULTILATERALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1216"
+      ],
+      "pre_requisitos": [
+         "IRI0154"
+      ]
+   },
+   {
+      "codigo": "IRI0018",
+      "nome": "ORGANIZAÇÕES INTERNACIONAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1105"
+      ],
+      "pre_requisitos": [
+         "IRI0052"
+      ]
+   },
+   {
+      "codigo": "IRI0050",
+      "nome": "ORGANIZAÇÕES INTERNACIONAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1153"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & IRI0018"
+      ]
+   },
+   {
+      "codigo": "IRI0157",
+      "nome": "POLÍTICA AMBIENTAL GLOBAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1204"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0010",
+      "nome": "POLÍTICA AMBIENTAL GLOBAL NA AMAZÔNIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1141"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0158",
+      "nome": "POLÍTICA COMPARADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0155",
+         "IRI1109"
+      ],
+      "pre_requisitos": [
+         "POL0013 & IRI0052 & IRI0156"
+      ]
+   },
+   {
+      "codigo": "IRI0159",
+      "nome": "POLÍTICA, ECONOMIA E SOCIEDADE EM PERSPECTIVA COMPARADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1206"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0023",
+      "nome": "POLÍTICA EXTERNA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1147"
+      ],
+      "pre_requisitos": [
+         "POL0011 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0045",
+      "nome": "POLÍTICA EXTERNA DAS GRANDES POTÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1149"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0164",
+      "nome": "POLÍTICA INTERNACIONAL CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1124"
+      ],
+      "pre_requisitos": [
+         "IRI0049"
+      ]
+   },
+   {
+      "codigo": "IRI0186",
+      "nome": "POPULAÇÕES E DESENVOLVIMENTO GLOBAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1129"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0106",
+      "nome": "PRÁTICA DO DIREITO INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1175"
+      ],
+      "pre_requisitos": [
+         "FDD0006 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0068",
+      "nome": "PROBLEMAS ESTRATÉGICOS CONTEMPORÂNEOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1166"
+      ],
+      "pre_requisitos": [
+         "POL0011 & POL0012"
+      ]
+   },
+   {
+      "codigo": "IRI0096",
+      "nome": "PROCESSOS DECISÓRIOS EM RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1170"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0009",
+      "nome": "PROCESSOS DECISÓRIOS E POLÍTICA EXTERNA DOS EUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1140"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0102",
+      "nome": "PROTEÇÃO INTERNACIONAL DO MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1174"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0124",
+      "nome": "PROTEÇÃO INTERNACIONAL DOS DIREITOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0142",
+         "IRI1179"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0065",
+      "nome": "RELAÇÕES ECONÔMICAS INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1163"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "IRI0184",
+      "nome": "RELAÇÕES INTERNACIONAIS DA ÁFRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1229"
+      ],
+      "pre_requisitos": [
+         "IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0160",
+      "nome": "RELAÇÕES INTERNACIONAIS DA AMÉRICA LATINA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1123"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0007",
+      "nome": "RELAÇÕES INTERNACIONAIS DA CHINA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1138"
+      ],
+      "pre_requisitos": [
+         "IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0008",
+      "nome": "RELAÇÕES INTERNACIONAIS DO ATLÂNTICO SUL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1139"
+      ],
+      "pre_requisitos": [
+         "IRI0012"
+      ]
+   },
+   {
+      "codigo": "IRI0183",
+      "nome": "RELAÇÕES INTERNACIONAIS DO ORIENTE MÉDIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1228"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0162",
+      "nome": "SEGURANÇA INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1111"
+      ],
+      "pre_requisitos": [
+         "IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0173",
+      "nome": "SIMULAÇÕES EM RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1219"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & POL0012"
+      ]
+   },
+   {
+      "codigo": "IRI0066",
+      "nome": "SISTEMA FINANCEIRO INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1117"
+      ],
+      "pre_requisitos": [
+         "IRI0169"
+      ]
+   },
+   {
+      "codigo": "IRI0172",
+      "nome": "SISTEMA MULTILATERAL DE COMÉRCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1218"
+      ],
+      "pre_requisitos": [
+         "IRI0168"
+      ]
+   },
+   {
+      "codigo": "IRI0055",
+      "nome": "SISTEMAS DE DIREITO CONTEMPORÂNEOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1157"
+      ],
+      "pre_requisitos": [
+         "FDD0006 & FDD0019"
+      ]
+   },
+   {
+      "codigo": "IRI0141",
+      "nome": "SOCIEDADE CIVIL E POLÍTICA MUNDIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1189"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0163",
+      "nome": "SOLUÇÃO JURISDICIONAL DE CONTROVÉRSIAS INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1209"
+      ],
+      "pre_requisitos": [
+         "FDD0035 & IRI0013"
+      ]
+   },
+   {
+      "codigo": "IRI0171",
+      "nome": "TEMAS DAS RELAÇÕES INTERNACIONAIS DO BRASIL CONTEMPORÂNEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1127"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0015",
+      "nome": "TEORIA DAS RELAÇÕES INTERNACIONAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0001",
+         "IRI0096",
+         "IRI0099",
+         "IRI0100",
+         "IRI0101",
+         "IRI0124",
+         "IRI0126",
+         "IRI0127",
+         "IRI0128",
+         "IRI0130",
+         "IRI0132",
+         "IRI0133",
+         "IRI0141",
+         "IRI0153",
+         "IRI0157",
+         "IRI0160",
+         "IRI0180",
+         "IRI1104"
+      ],
+      "pre_requisitos": [
+         "IRI0013 & POL0012"
+      ]
+   },
+   {
+      "codigo": "IRI0052",
+      "nome": "TEORIA DAS RELAÇÕES INTERNACIONAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI0018",
+         "IRI0151",
+         "IRI1106",
+         "IRI0187"
+      ],
+      "pre_requisitos": [
+         "IRI0015 & POL0013"
+      ]
+   },
+   {
+      "codigo": "IRI0180",
+      "nome": "TEORIA E PRÁTICA DA NEGOCIAÇÃO INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1225"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0003",
+      "nome": "TÓPICOS ESPECIAIS EM INTRODUÇÃO AO ESTUDO DAS RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1134"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0130",
+      "nome": "TÓPICOS ESPECIAIS EM POLÍTICA INTERNACIONAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1107"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0132",
+      "nome": "TÓPICOS ESPECIAIS EM POLÍTICA INTERNACIONAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IRI1185"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0133",
+      "nome": "TÓPICOS ESPECIAIS EM POLÍTICA INTERNACIONAL 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1186"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0134",
+      "nome": "TÓPICOS ESPECIAIS EM POLÍTICA INTERNACIONAL 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1187"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0125",
+      "nome": "TÓPICOS ESPECIAIS EM TEORIA DAS RELAÇÕES INTERNACIONAIS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1180"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IRI0126",
+      "nome": "TÓPICOS ESPECIAIS EM TEORIA DAS RELAÇÕES INTERNACIONAIS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1181"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0127",
+      "nome": "TÓPICOS ESPECIAIS EM TEORIA DAS RELAÇÕES INTERNACIONAIS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1110"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   },
+   {
+      "codigo": "IRI0128",
+      "nome": "TÓPICOS ESPECIAIS EM TEORIA DAS RELAÇÕES INTERNACIONAIS 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IRI1183"
+      ],
+      "pre_requisitos": [
+         "IRI0015"
+      ]
+   }
+]

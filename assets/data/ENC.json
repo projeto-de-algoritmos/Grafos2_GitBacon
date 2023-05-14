@@ -1,0 +1,2226 @@
+[
+   {
+      "codigo": "ENC0172",
+      "nome": "AGUAS SUBTERRANEAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0843"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0281",
+      "nome": "ANÁLISE DE CICLO DE VIDA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "ENC0052"
+      ]
+   },
+   {
+      "codigo": "ENC0040",
+      "nome": "ANÁLISE DE CONFIABILIDADE E RISCO ESTRUTURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0776"
+      ],
+      "pre_requisitos": [
+         "ENC0133",
+         "ENC0035"
+      ]
+   },
+   {
+      "codigo": "ENC0184",
+      "nome": "ANALISE DE SISTEMAS HIDRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0852"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0231",
+      "nome": "ANALISE ESTRUTURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0885"
+      ],
+      "pre_requisitos": [
+         "ENC0135"
+      ]
+   },
+   {
+      "codigo": "ENC0173",
+      "nome": "APROVEITAMENTO HIDROELETRICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0844"
+      ],
+      "pre_requisitos": [
+         "ENC0167 & ENC0166",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0002",
+      "nome": "ASPECTOS ECONÔMICOS DA ENGENHARIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FDD0282",
+         "ENC0685"
+      ],
+      "pre_requisitos": [
+         "SOL0042"
+      ]
+   },
+   {
+      "codigo": "ENC0211",
+      "nome": "ASPECTOS GEOTÉCNICOS DE FUNDAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0124",
+         "ENC0723"
+      ],
+      "pre_requisitos": [
+         "ENC0197",
+         "ENC0121"
+      ]
+   },
+   {
+      "codigo": "ENC0272",
+      "nome": "ASPECTOS QUÍMICOS DE QUALIDADE DA ÁGUA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0742"
+      ],
+      "pre_requisitos": [
+         "IQD0125"
+      ]
+   },
+   {
+      "codigo": "ENC0273",
+      "nome": "ASPECTOS QUÍMICOS DE QUALIDADE DE ÁGUA-EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0678"
+      ],
+      "pre_requisitos": [
+         "IQD0125"
+      ]
+   },
+   {
+      "codigo": "ENC0023",
+      "nome": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0763"
+      ],
+      "pre_requisitos": [
+         "ENC0026 & ENC0267"
+      ]
+   },
+   {
+      "codigo": "ENC0026",
+      "nome": "AVALIAÇÃO DE IMPACTOS E RISCOS AMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0691"
+      ],
+      "pre_requisitos": [
+         "FDD0282 & EPR0059"
+      ]
+   },
+   {
+      "codigo": "ENC0225",
+      "nome": "AVALIACAO ECONOMICA DE PROJETOS EM ENGENHARIA CIVIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0669"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0015",
+      "nome": "AVALIAÇÃO E CONTROLE DE POLUIÇÃO DA ÁGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0012",
+         "ENC0651"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0001"
+      ]
+   },
+   {
+      "codigo": "ENC0014",
+      "nome": "AVALIAÇÃO E CONTROLE DE POLUIÇÃO DO AR E SONORA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0754"
+      ],
+      "pre_requisitos": [
+         "ENC0266 & ENM0080",
+         "ENM0140",
+         "ENC0037"
+      ]
+   },
+   {
+      "codigo": "ENC0016",
+      "nome": "AVALIAÇÃO E CONTROLE DE POLUIÇÃO DO SOLO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0021",
+         "ENC0652"
+      ],
+      "pre_requisitos": [
+         "ENC0183 & ENM0080",
+         "ENC0183 & ENC0037",
+         "ENC0121 & ENC0037"
+      ]
+   },
+   {
+      "codigo": "ENC0214",
+      "nome": "BARRAGENS DE TERRA E ENROCAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0724"
+      ],
+      "pre_requisitos": [
+         "ENC0197",
+         "ENC0121"
+      ]
+   },
+   {
+      "codigo": "ENC0045",
+      "nome": "BIM APLICADO À ENGENHARIA I - ARQUITETURA E ESTRUTURAS DE EDIFICAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0700"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0018",
+      "nome": "BIOQUÍMICA APLICADA  AOS PROCESSOS DA ENGENHARIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0758"
+      ],
+      "pre_requisitos": [
+         "ENC0269 & IQD0125"
+      ]
+   },
+   {
+      "codigo": "ENC0139",
+      "nome": "CALCULO PLASTICO DAS ESTRUTURAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0812"
+      ],
+      "pre_requisitos": [
+         "ENC0135"
+      ]
+   },
+   {
+      "codigo": "ENC0267",
+      "nome": "CARTOGRAFIA E GEOPROCESSAMENTO APLICADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0264",
+         "ENC0677"
+      ],
+      "pre_requisitos": [
+         "IGD0173 & ENC0053",
+         "IGD0021 & ENC0053"
+      ]
+   },
+   {
+      "codigo": "ENC0124",
+      "nome": "CARTOGRAFIA GEOTECNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0801"
+      ],
+      "pre_requisitos": [
+         "ENC0211"
+      ]
+   },
+   {
+      "codigo": "ENC0174",
+      "nome": "CARTOGRAFIA GEOTECNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0845"
+      ],
+      "pre_requisitos": [
+         "ENC0128 & IGD0043",
+         "ENC0128 & IGD0183"
+      ]
+   },
+   {
+      "codigo": "ENC0268",
+      "nome": "CIÊNCIA DOS MATERIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0271",
+         "ENC0738"
+      ],
+      "pre_requisitos": [
+         "IQD0125"
+      ]
+   },
+   {
+      "codigo": "ENC0001",
+      "nome": "CINÉTICA, PROCESSOS E OPERAÇÕES UNITÁRIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0684"
+      ],
+      "pre_requisitos": [
+         "ENM0080 & IQD0125",
+         "ENC0037 & IQD0125"
+      ]
+   },
+   {
+      "codigo": "ENC0266",
+      "nome": "CLIMATOLOGIA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0737"
+      ],
+      "pre_requisitos": [
+         "IFD0175"
+      ]
+   },
+   {
+      "codigo": "ENC0260",
+      "nome": "CONCRETOS ESPECIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0911"
+      ],
+      "pre_requisitos": [
+         "ENC0254 & ENC0255"
+      ]
+   },
+   {
+      "codigo": "ENC0224",
+      "nome": "CONTROLE DA POLUICAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0878"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0053",
+      "nome": "DESENHO TECNICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0021",
+         "VIS0130",
+         "ENC0128",
+         "ENC0232",
+         "ENC0657"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0208",
+      "nome": "DESENVOLVIMENTO URBANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0868"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0138",
+      "nome": "ELASTICIDADE E PLASTICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0811"
+      ],
+      "pre_requisitos": [
+         "ENC0134",
+         "ENM0165"
+      ]
+   },
+   {
+      "codigo": "ENC0123",
+      "nome": "ENGENHARIA DE SEGURANCA VIARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0800"
+      ],
+      "pre_requisitos": [
+         "ENC0199"
+      ]
+   },
+   {
+      "codigo": "ENC0202",
+      "nome": "ENGENHARIA DE TRAFEGO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0720"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0279",
+      "nome": "ESTACAS TROCADORAS DE CALOR PARA CLIMATIZAÇÃO SUSTENTÁVEL DE ESTRUTURAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0683"
+      ],
+      "pre_requisitos": [
+         "ENM0080 & ENC0235",
+         "ENC0037 & ENC0235"
+      ]
+   },
+   {
+      "codigo": "ENC0025",
+      "nome": "ESTÁGIO CURRICULAR EM ENGENHARIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0690"
+      ],
+      "pre_requisitos": [
+         "EPR0059"
+      ]
+   },
+   {
+      "codigo": "ENC0221",
+      "nome": "ESTAGIO ORIENTADO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0223",
+         "ENC0876"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0223",
+      "nome": "ESTAGIO ORIENTADO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0877"
+      ],
+      "pre_requisitos": [
+         "ENC0221"
+      ]
+   },
+   {
+      "codigo": "ENC0234",
+      "nome": "ESTAGIO SUPERVISIONADO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "ENC0887"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0274",
+      "nome": "ESTATÍSTICA APLICADA À ENGENHARIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0068",
+         "ENC0679"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0149",
+      "nome": "ESTRUTURA DE ACO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0822"
+      ],
+      "pre_requisitos": [
+         "ENC0148"
+      ]
+   },
+   {
+      "codigo": "ENC0146",
+      "nome": "ESTRUTURA DE CONCRETO ARMADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0147",
+         "ENC0150",
+         "ENC0151",
+         "ENC0662"
+      ],
+      "pre_requisitos": [
+         "ENC0134 & ENC0135 & ENC0143",
+         "ENC0134 & ENC0135 & ENC0254 & ENC0255"
+      ]
+   },
+   {
+      "codigo": "ENC0150",
+      "nome": "ESTRUTURA DE CONCRETO PROTENDIDO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0823"
+      ],
+      "pre_requisitos": [
+         "ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0147",
+      "nome": "ESTRUTURAS DE CONCRETO ARMADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0153",
+         "ENC0663"
+      ],
+      "pre_requisitos": [
+         "ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0151",
+      "nome": "ESTRUTURAS DE FUNDACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0712"
+      ],
+      "pre_requisitos": [
+         "ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0095",
+      "nome": "ESTRUTURAS HIDRAULICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0796"
+      ],
+      "pre_requisitos": [
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0148",
+      "nome": "ESTRUTURAS METALICAS E DE MADEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EFL0006",
+         "ENC0149",
+         "ENC0155",
+         "ENC0711"
+      ],
+      "pre_requisitos": [
+         "ENC0134 & ENC0135 & ENC0143",
+         "ENC0134 & ENC0135 & ENC0254 & ENC0255"
+      ]
+   },
+   {
+      "codigo": "ENC0012",
+      "nome": "ESTUDOS DOS ECOSSISTEMAS AQUÁTICOS CONTINENTAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0752"
+      ],
+      "pre_requisitos": [
+         "ENC0015"
+      ]
+   },
+   {
+      "codigo": "ENC0253",
+      "nome": "FUNDAMENTOS DA GESTAO DA AGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0905"
+      ],
+      "pre_requisitos": [
+         "ECL0014",
+         "ECL0033",
+         "ECL0030"
+      ]
+   },
+   {
+      "codigo": "ENC0054",
+      "nome": "GEOMETRIA DESCRITIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0790"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0050",
+      "nome": "GEOSSINTÉTICOS EM ENGENHARIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0786"
+      ],
+      "pre_requisitos": [
+         "ENC0235"
+      ]
+   },
+   {
+      "codigo": "ENC0259",
+      "nome": "GEOSSINTÉTICOS EM GEOTECNIA E MEIO AMBIENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0734"
+      ],
+      "pre_requisitos": [
+         "ENC0121"
+      ]
+   },
+   {
+      "codigo": "ENC0241",
+      "nome": "GEOTECNIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0673"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0025 & IGD0173",
+         "IFD0171 & MAT0025 & IGD0021"
+      ]
+   },
+   {
+      "codigo": "ENC0235",
+      "nome": "GEOTECNIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0017",
+         "ENC0050",
+         "ENC0121",
+         "ENC0183",
+         "ENC0237",
+         "ENC0239",
+         "ENC0278",
+         "ENC0670"
+      ],
+      "pre_requisitos": [
+         "ENC0241 & ENC0240 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0121",
+      "nome": "GEOTECNIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0191",
+         "ENC0211",
+         "ENC0214",
+         "ENC0239",
+         "ENC0259",
+         "ENC0706"
+      ],
+      "pre_requisitos": [
+         "ENC0235",
+         "ENC0249"
+      ]
+   },
+   {
+      "codigo": "ENC0129",
+      "nome": "GEOTECNIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0804"
+      ],
+      "pre_requisitos": [
+         "ENC0197"
+      ]
+   },
+   {
+      "codigo": "ENC0183",
+      "nome": "GEOTECNIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0033",
+         "ENC0717"
+      ],
+      "pre_requisitos": [
+         "ENC0197",
+         "ENC0235"
+      ]
+   },
+   {
+      "codigo": "ENC0122",
+      "nome": "GERENCIA DE PROJETOS EM ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0799"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0247",
+      "nome": "GESTAO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0899"
+      ],
+      "pre_requisitos": [
+         "ECL0014 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0261",
+      "nome": "GESTÃO DE PROJETOS E EQUIPES MULTIDISCIPLINARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0912"
+      ],
+      "pre_requisitos": [
+         "ENC0246",
+         "ENM0143",
+         "ENE0155",
+         "EFL0010",
+         "ENE0274",
+         "ENM0133",
+         "ENC0263"
+      ]
+   },
+   {
+      "codigo": "ENC0185",
+      "nome": "HIDRAULICA DE CANAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0853"
+      ],
+      "pre_requisitos": [
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0252",
+      "nome": "HIDRAULICA EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0675"
+      ],
+      "pre_requisitos": [
+         "IGD0043 & ENM0080",
+         "IGD0183 & ENM0080",
+         "ENC0267 & ENM0080",
+         "IGD0043 & ENC0037",
+         "IGD0183 & ENC0037",
+         "ENC0267 & ENC0037"
+      ]
+   },
+   {
+      "codigo": "ENC0167",
+      "nome": "HIDRAULICA GERAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0218",
+         "ENC0156",
+         "ENC0168",
+         "ENC0176",
+         "ENC0178",
+         "ENC0182",
+         "ENC0185",
+         "ENC0838"
+      ],
+      "pre_requisitos": [
+         "IGD0043 & ENM0080"
+      ]
+   },
+   {
+      "codigo": "ENC0251",
+      "nome": "HIDRAULICA - TEORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0674"
+      ],
+      "pre_requisitos": [
+         "IGD0043 & ENM0080",
+         "IGD0183 & ENM0080",
+         "ENC0267 & ENM0080",
+         "IGD0043 & ENC0037",
+         "IGD0183 & ENC0037",
+         "ENC0267 & ENC0037"
+      ]
+   },
+   {
+      "codigo": "ENC0166",
+      "nome": "HIDROLOGIA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0032",
+         "GEA0095",
+         "ENC0664",
+         "ENC0282"
+      ],
+      "pre_requisitos": [
+         "ENM0080 & EST0023 & IGD0043",
+         "ENM0080 & EST0023 & IGD0183",
+         "ENM0080 & ENC0267 & ENC0274",
+         "ENM0080 & ENC0267 & EST0023",
+         "ENC0037 & EST0023 & IGD0043",
+         "ENC0037 & EST0023 & IGD0183",
+         "ENC0037 & ENC0267 & ENC0274",
+         "ENC0037 & ENC0267 & EST0023"
+      ]
+   },
+   {
+      "codigo": "ENC0013",
+      "nome": "INTRODUÇÃO À ANÁLISE DE SISTEMAS AMBIENTAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0689"
+      ],
+      "pre_requisitos": [
+         "ENC0275",
+         "MAT0053 & CIC0007"
+      ]
+   },
+   {
+      "codigo": "ENC0193",
+      "nome": "INTRODUCAO A DINAMICA DE ESTRUTURAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0718"
+      ],
+      "pre_requisitos": [
+         "ENC0135",
+         "ENM0112 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "ENC0263",
+      "nome": "INTRODUÇÃO À ENGENHARIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CDS0004",
+         "ENC0261",
+         "ENC0735"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0246",
+      "nome": "INTRODUCAO A ENGENHARIA CIVIL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0261",
+         "ENC0731"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0034",
+      "nome": "INTRODUÇÃO Á ENGENHARIA TERRITORIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0653"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0265",
+      "nome": "INTRODUÇÃO À ENGENHARIA URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0280",
+         "ENC0916"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0035",
+      "nome": "INTRODUÇÃO À MECÂNICA DOS SÓLIDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0040",
+         "ENC0696"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0026 & MAT0031",
+         "IFD0171 & MAT0025 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "ENC0219",
+      "nome": "INTRODUCAO AO METODO DOS ELEMENTOS FINITOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0875"
+      ],
+      "pre_requisitos": [
+         "ENC0134"
+      ]
+   },
+   {
+      "codigo": "ENC0256",
+      "nome": "INTRODUÇÃO À REALIDADE VIRTUAL E A TÉCNICAS INTERATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0733"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0188",
+      "nome": "INVESTIGACOES GEOTECNICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0856"
+      ],
+      "pre_requisitos": [
+         "ENC0195",
+         "ENC0249 & ENC0250",
+         "ENC0241 & ENC0240",
+         "ENC0249 & ENC0240"
+      ]
+   },
+   {
+      "codigo": "ENC0137",
+      "nome": "ISOSTATICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0708"
+      ],
+      "pre_requisitos": [
+         "ENC0132"
+      ]
+   },
+   {
+      "codigo": "ENC0240",
+      "nome": "LABORATÓRIO DE GEOTECNIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0672"
+      ],
+      "pre_requisitos": [
+         "IGD0173",
+         "IGD0021"
+      ]
+   },
+   {
+      "codigo": "ENC0238",
+      "nome": "LABORATÓRIO DE GEOTECNIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0671"
+      ],
+      "pre_requisitos": [
+         "ENC0240 & ENC0241"
+      ]
+   },
+   {
+      "codigo": "ENC0192",
+      "nome": "LABORATORIO EM MECANICA DOS SOLOS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENC0858"
+      ],
+      "pre_requisitos": [
+         "ENC0195",
+         "ENC0249 & ENC0250"
+      ]
+   },
+   {
+      "codigo": "ENC0157",
+      "nome": "LEGISLACAO PROFISSIONAL DE ENGENHARIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0830"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0049",
+      "nome": "MANUTENÇÃO DE RODOVIAS COM GERÊNCIA DE PAVIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0703"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0055",
+      "nome": "MATERIAIS DE CONSTRUCAO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "TEC0013",
+         "ENC0791"
+      ],
+      "pre_requisitos": [
+         "TEC0019",
+         "ENC0143"
+      ]
+   },
+   {
+      "codigo": "ENC0143",
+      "nome": "MATERIAIS DE CONSTRUCAO CIVIL 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENC0055",
+         "ENC0816"
+      ],
+      "pre_requisitos": [
+         "IQD0051 & IGD0021"
+      ]
+   },
+   {
+      "codigo": "ENC0255",
+      "nome": "MATERIAIS DE CONSTRUCAO CIVIL 1 - EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EFL0085",
+         "ENC0676"
+      ],
+      "pre_requisitos": [
+         "IQD0051 & IGD0021",
+         "IQD0051 & IGD0173",
+         "IQD0125 & IQD0126 & IGD0021",
+         "IQD0125 & IQD0126 & IGD0173"
+      ]
+   },
+   {
+      "codigo": "ENC0254",
+      "nome": "MATERIAIS DE CONSTRUCAO CIVIL 1 - TEORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0732"
+      ],
+      "pre_requisitos": [
+         "IQD0051 & IGD0021",
+         "IQD0051 & IGD0173",
+         "IQD0125 & IQD0126 & IGD0021",
+         "IQD0125 & IQD0126 & IGD0173"
+      ]
+   },
+   {
+      "codigo": "ENC0144",
+      "nome": "MATERIAIS DE CONSTRUCAO CIVIL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0817"
+      ],
+      "pre_requisitos": [
+         "ENC0143 & ENC0140 & EST0023",
+         "ENC0254 & ENC0255 & ENC0140 & EST0023"
+      ]
+   },
+   {
+      "codigo": "ENC0230",
+      "nome": "MATERIAIS DE CONSTRUÇÃO - EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0727"
+      ],
+      "pre_requisitos": [
+         "TEC0018",
+         "TEC0038 & TEC0039"
+      ]
+   },
+   {
+      "codigo": "ENC0229",
+      "nome": "MATERIAIS DE CONSTRUÇÃO - TEORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EFL0085",
+         "ENC0726"
+      ],
+      "pre_requisitos": [
+         "TEC0018",
+         "TEC0038 & TEC0039"
+      ]
+   },
+   {
+      "codigo": "ENC0271",
+      "nome": "MATERIAIS PARA CONSTRUÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0276",
+         "ENC0277",
+         "ENC0741"
+      ],
+      "pre_requisitos": [
+         "TEC0026",
+         "ENC0268"
+      ]
+   },
+   {
+      "codigo": "ENC0277",
+      "nome": "MATERIAIS PARA CONSTRUÇÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0744"
+      ],
+      "pre_requisitos": [
+         "ENC0271"
+      ]
+   },
+   {
+      "codigo": "ENC0276",
+      "nome": "MATERIAIS PARA CONSTRUÇÃO EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0743"
+      ],
+      "pre_requisitos": [
+         "ENC0271"
+      ]
+   },
+   {
+      "codigo": "ENC0248",
+      "nome": "MECANICA DAS ROCHAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0900"
+      ],
+      "pre_requisitos": [
+         "ENC0197 & ENC0121"
+      ]
+   },
+   {
+      "codigo": "ENC0113",
+      "nome": "MECANICA DOS SISTEMAS RIGIDOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0038",
+         "ENC0797"
+      ],
+      "pre_requisitos": [
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "ENC0132",
+      "nome": "MECANICA DOS SOLIDOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0137",
+         "ENC0659"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0026 & MAT0031",
+         "IFD0171 & MAT0026 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "ENC0133",
+      "nome": "MECANICA DOS SOLIDOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0040",
+         "ENC0191",
+         "ENC0660"
+      ],
+      "pre_requisitos": [
+         "ENC0132 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0134",
+      "nome": "MECANICA DOS SOLIDOS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0138",
+         "ENC0219",
+         "ENM0111",
+         "ENC0707"
+      ],
+      "pre_requisitos": [
+         "ENC0133 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "ENC0195",
+      "nome": "MECANICA DOS SOLOS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENC0188",
+         "ENC0192",
+         "ENC0197",
+         "ENC0860"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0250",
+      "nome": "MECANICA DOS SOLOS 1 - LABORATORIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0902"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & MAT0027",
+         "IGD0173 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0249",
+      "nome": "MECANICA DOS SOLOS 1 - TEORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0121",
+         "ENC0901"
+      ],
+      "pre_requisitos": [
+         "IGD0021 & MAT0027",
+         "IGD0173 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0197",
+      "nome": "MECANICA DOS SOLOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0129",
+         "ENC0183",
+         "ENC0211",
+         "ENC0214",
+         "ENC0239",
+         "ENM0097",
+         "ENC0861"
+      ],
+      "pre_requisitos": [
+         "ENC0195",
+         "ENC0249 & ENC0250",
+         "ENC0249 & ENC0240"
+      ]
+   },
+   {
+      "codigo": "ENC0275",
+      "nome": "MÉTODOS COMPUTACIONAIS EM ENGENHARIA AMBIENTAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENC0013",
+         "ENC0680"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENC0239",
+      "nome": "MÉTODOS COMPUTACIONAIS EM GEOTECNIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0891"
+      ],
+      "pre_requisitos": [
+         "ENC0197",
+         "ENC0235",
+         "ENC0121"
+      ]
+   },
+   {
+      "codigo": "ENC0245",
+      "nome": "METODOS NUMERICOS EM HIDROLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0897"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0269",
+      "nome": "MICROBIOLOGIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0739"
+      ],
+      "pre_requisitos": [
+         "CEL0088"
+      ]
+   },
+   {
+      "codigo": "ENC0270",
+      "nome": "MICROBIOLOGIA AMBIENTAL E EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0740"
+      ],
+      "pre_requisitos": [
+         "CEL0088"
+      ]
+   },
+   {
+      "codigo": "ENC0043",
+      "nome": "MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO APLICADA À ENGENHARIA - BIM II",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0779"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0022",
+      "nome": "MODELOS DE POLUIÇÃO DIFUSA EM SISTEMAS HÍDRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0762"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0016",
+         "ENC0166 & ENC0015"
+      ]
+   },
+   {
+      "codigo": "ENC0011",
+      "nome": "MODELOS E SIMULAÇÃO DE SISTEMAS AMBIENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0751"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0275"
+      ]
+   },
+   {
+      "codigo": "ENC0649",
+      "nome": "MONITORIA DE PESQUISA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0931"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0278",
+      "nome": "OBRAS SUBTERRÂNEAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0929"
+      ],
+      "pre_requisitos": [
+         "ENC0235"
+      ]
+   },
+   {
+      "codigo": "ENC0262",
+      "nome": "ORGANIZAÇÃO DO PROCESSO DE PROJETO DE EDIFÍCIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0913"
+      ],
+      "pre_requisitos": [
+         "ENC0145",
+         "ENM0124",
+         "ENE0333",
+         "ENE0229",
+         "EPR0057"
+      ]
+   },
+   {
+      "codigo": "ENC0226",
+      "nome": "ORGANIZACAO E OPERACAO DE TRANSPORTES PUBLICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0880"
+      ],
+      "pre_requisitos": [
+         "ENC0199"
+      ]
+   },
+   {
+      "codigo": "ENC0228",
+      "nome": "PATOLOGIA DAS CONSTRUCOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0882"
+      ],
+      "pre_requisitos": [
+         "ENC0140 & ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0206",
+      "nome": "PAVIMENTACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0721"
+      ],
+      "pre_requisitos": [
+         "ENC0195 & ENC0199",
+         "ENC0249 & ENC0250 & ENC0199",
+         "ENC0235 & ENC0199",
+         "ENC0249 & ENC0240 & ENC0199"
+      ]
+   },
+   {
+      "codigo": "ENC0042",
+      "nome": "PLANEJAMENTO DE REDES LOGÍSTICAS NA CONSTRUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0698"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "ENC0203",
+      "nome": "PLANEJAMENTO DE TRANSPORTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0207",
+         "ENC0227",
+         "ENC0668"
+      ],
+      "pre_requisitos": [
+         "CIC0007 & EST0023"
+      ]
+   },
+   {
+      "codigo": "ENC0159",
+      "nome": "PLANEJAMENTO DE USO DO SOLO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0832"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0145",
+      "nome": "PLANEJAMENTO E CONTROLE DE CONSTRUCOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0142",
+         "ENC0262",
+         "ENC0710"
+      ],
+      "pre_requisitos": [
+         "ENC0140"
+      ]
+   },
+   {
+      "codigo": "ENC0031",
+      "nome": "PLANEJAMENTO E GESTÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0694"
+      ],
+      "pre_requisitos": [
+         "FDD0282 & ENC0014 & ENC0016",
+         "FDD0282 & ENC0014 & ENC0015",
+         "FDD0282 & ENC0016 & ENC0015"
+      ]
+   },
+   {
+      "codigo": "ENC0282",
+      "nome": "PLANEJAMENTO E GESTÃO DE SISTEMAS HÍDRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0158",
+      "nome": "PLANEJAMENTO REGIONAL INTEGRADO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENC0831"
+      ],
+      "pre_requisitos": [
+         "ENC0168 & ENC0169"
+      ]
+   },
+   {
+      "codigo": "ENC0186",
+      "nome": "PROGRAMAS DE SISTEMAS HABITACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0854"
+      ],
+      "pre_requisitos": [
+         "ENC0140 & EPR0068"
+      ]
+   },
+   {
+      "codigo": "ENC0128",
+      "nome": "PROJETO ARQUITETÔNICO DE EDIFICAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0232",
+         "ENC0658"
+      ],
+      "pre_requisitos": [
+         "ENC0053"
+      ]
+   },
+   {
+      "codigo": "ENC0207",
+      "nome": "PROJETO DE AEROPORTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0722"
+      ],
+      "pre_requisitos": [
+         "ENC0203"
+      ]
+   },
+   {
+      "codigo": "ENC0152",
+      "nome": "PROJETO DE EDIFICIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0713"
+      ],
+      "pre_requisitos": [
+         "ENC0148 & ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0199",
+      "nome": "PROJETO DE ESTRADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0123",
+         "ENC0200",
+         "ENC0226",
+         "ENC0667"
+      ],
+      "pre_requisitos": [
+         "IGD0043 & ENC0195 & ENC0203",
+         "IGD0043 & ENC0249 & ENC0250 & ENC0203",
+         "IGD0043 & ENC0249 & ENC0240 & ENC0203",
+         "IGD0183 & ENC0241 & ENC0240 & ENC0203"
+      ]
+   },
+   {
+      "codigo": "ENC0200",
+      "nome": "PROJETO DE ESTRADAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0719"
+      ],
+      "pre_requisitos": [
+         "ENC0199"
+      ]
+   },
+   {
+      "codigo": "ENC0155",
+      "nome": "PROJETO DE ESTRUTURAS DE ACO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0714"
+      ],
+      "pre_requisitos": [
+         "ENC0148"
+      ]
+   },
+   {
+      "codigo": "ENC0156",
+      "nome": "PROJETO DE ESTRUTURAS HIDRAULICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0829"
+      ],
+      "pre_requisitos": [
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0038",
+      "nome": "PROJETO DE INSTALAÇÃO PREDIAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0039",
+         "ENC0655"
+      ],
+      "pre_requisitos": [
+         "ENC0140 & ENC0251 & ENC0252 & ENE0001 & ENE0002"
+      ]
+   },
+   {
+      "codigo": "ENC0039",
+      "nome": "PROJETO DE INSTALAÇÃO PREDIAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0775"
+      ],
+      "pre_requisitos": [
+         "ENC0038"
+      ]
+   },
+   {
+      "codigo": "ENC0154",
+      "nome": "PROJETO DE PONTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0827"
+      ],
+      "pre_requisitos": [
+         "ENC0148 & ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0028",
+      "nome": "PROJETO FINAL EM ENGENHARIA AMBIENTAL 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ENC0030",
+         "ENC0692"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0030",
+      "nome": "PROJETO FINAL EM ENGENHARIA AMBIENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0693"
+      ],
+      "pre_requisitos": [
+         "ENC0028"
+      ]
+   },
+   {
+      "codigo": "ENC0242",
+      "nome": "PROJETO FINAL EM ENGENHARIA CIVIL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0243",
+         "ENC0728"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0243",
+      "nome": "PROJETO FINAL EM ENGENHARIA CIVIL 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENC0729"
+      ],
+      "pre_requisitos": [
+         "ENC0242"
+      ]
+   },
+   {
+      "codigo": "ENC0153",
+      "nome": "PROJETOS DE ESTRUTURAS ESPECIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0826"
+      ],
+      "pre_requisitos": [
+         "ENC0147"
+      ]
+   },
+   {
+      "codigo": "ENC0171",
+      "nome": "QUALIDADE DA AGUA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0842"
+      ],
+      "pre_requisitos": [
+         "IQD0051"
+      ]
+   },
+   {
+      "codigo": "ENC0257",
+      "nome": "QUALIDADE E SUSTENTABILIDADE NA CONSTRUÇÃO CIVIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0909"
+      ],
+      "pre_requisitos": [
+         "ECL0014"
+      ]
+   },
+   {
+      "codigo": "ENC0033",
+      "nome": "RECUPERAÇÃO E REABILITAÇÃO DE ÁREAS DEGRADADAS POR MINERAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0695"
+      ],
+      "pre_requisitos": [
+         "ENC0183"
+      ]
+   },
+   {
+      "codigo": "ENC0125",
+      "nome": "REPRESENTACAO GRAFICA PARA ENGENHARIA CIVIL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0802"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0052",
+      "nome": "RESÍDUOS SÓLIDOS URBANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0656",
+         "ENC0281"
+      ],
+      "pre_requisitos": [
+         "ENC0168 & ENC0121",
+         "ENC0183 & ENC0001"
+      ]
+   },
+   {
+      "codigo": "ENC0075",
+      "nome": "RESISTENCIA DOS MATERIAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0795"
+      ],
+      "pre_requisitos": [
+         "ENC0113 & MAT0026"
+      ]
+   },
+   {
+      "codigo": "ENC0168",
+      "nome": "SANEAMENTO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0715"
+      ],
+      "pre_requisitos": [
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0004",
+      "nome": "SANEAMENTO, MEIO AMBIENTE E PLANEJAMENTO URBANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0650"
+      ],
+      "pre_requisitos": [
+         "ECL0030 & ENC0251 & ENC0166",
+         "ECL0033 & ENC0251 & ENC0166",
+         "ECL0014 & ENC0251 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0003",
+      "nome": "SAÚDE, SANEAMENTO E MEIO AMBIENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0686"
+      ],
+      "pre_requisitos": [
+         "ENC0269 & SOL0042"
+      ]
+   },
+   {
+      "codigo": "ENC0244",
+      "nome": "SENSORIAMENTO REMOTO APLICADO A ENGENHARIA CIVIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0730"
+      ],
+      "pre_requisitos": [
+         "IGD0043",
+         "IGD0183"
+      ]
+   },
+   {
+      "codigo": "ENC0187",
+      "nome": "SISTEMA DE ABASTECIMENTO DE AGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0855"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0181",
+      "nome": "SISTEMAS DE DRENAGEM URBANA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0716"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0051",
+      "nome": "SISTEMAS DE ESGOTO SANITÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0787"
+      ],
+      "pre_requisitos": [
+         "ENC0169",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0044",
+      "nome": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA APLICADA AOS TRANSPORTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0699"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0165",
+      "nome": "SISTEMAS DE IRRIGACAO E DRENAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0836"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0047",
+      "nome": "SISTEMAS DE REVESTIMENTO E IMPERMEABILIZAÇÃO DE EDIFÍCIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0702"
+      ],
+      "pre_requisitos": [
+         "ENC0254 & ENC0255"
+      ]
+   },
+   {
+      "codigo": "ENC0169",
+      "nome": "SISTEMAS HIDRAULICOS DE SANEAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0051",
+         "ENC0665"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0170",
+      "nome": "SISTEMAS HIDRAULICOS PREDIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0841"
+      ],
+      "pre_requisitos": [
+         "ENC0140 & ENC0167"
+      ]
+   },
+   {
+      "codigo": "ENC0182",
+      "nome": "SISTEMAS HIDROVIARIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0666"
+      ],
+      "pre_requisitos": [
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0017",
+      "nome": "SOLOS TROPICAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0757"
+      ],
+      "pre_requisitos": [
+         "ENC0235"
+      ]
+   },
+   {
+      "codigo": "ENC0215",
+      "nome": "TECNOLOGIA DAS CONSTRUCAO CIVIL - INSTALACOES PREDIAIS ELETRICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0871"
+      ],
+      "pre_requisitos": [
+         "ENC0140 & ENE0243"
+      ]
+   },
+   {
+      "codigo": "ENC0140",
+      "nome": "TECNOLOGIA DAS CONSTRUCOES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0141",
+         "ENC0145",
+         "ENC0709"
+      ],
+      "pre_requisitos": [
+         "IGD0043 & ENC0254 & ENC0255 & ENC0053",
+         "IGD0043 & ENC0254 & ENC0255 & ENC0053",
+         "IGD0043 & ENC0254 & ENC0255 & ENC0128",
+         "IGD0183 & ENC0254 & ENC0255 & ENC0128"
+      ]
+   },
+   {
+      "codigo": "ENC0141",
+      "nome": "TECNOLOGIA DAS CONSTRUCOES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0814"
+      ],
+      "pre_requisitos": [
+         "ENC0140"
+      ]
+   },
+   {
+      "codigo": "ENC0142",
+      "nome": "TECNOLOGIA DAS CONSTRUCOES 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0815"
+      ],
+      "pre_requisitos": [
+         "ENC0145"
+      ]
+   },
+   {
+      "codigo": "ENC0227",
+      "nome": "TECNOLOGIA DE TRANSPORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0264",
+         "ENC0881"
+      ],
+      "pre_requisitos": [
+         "ENC0203"
+      ]
+   },
+   {
+      "codigo": "ENC0048",
+      "nome": "TECNOLOGIA DO CONCRETO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0784"
+      ],
+      "pre_requisitos": [
+         "ENC0254 & ENC0255"
+      ]
+   },
+   {
+      "codigo": "ENC0135",
+      "nome": "TEORIA DAS ESTRUTURAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0066",
+         "ENC0136",
+         "ENC0139",
+         "ENC0193",
+         "ENC0231",
+         "ENC0661"
+      ],
+      "pre_requisitos": [
+         "MAT0053 & ENC0134"
+      ]
+   },
+   {
+      "codigo": "ENC0136",
+      "nome": "TEORIA DAS ESTRUTURAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0682"
+      ],
+      "pre_requisitos": [
+         "ENC0135"
+      ]
+   },
+   {
+      "codigo": "ENC0179",
+      "nome": "TEORIA DOS MODELOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0848"
+      ],
+      "pre_requisitos": [
+         "ENC0169 & ENC0146"
+      ]
+   },
+   {
+      "codigo": "ENC0021",
+      "nome": "TÓPICOS AVANÇADOS EM TRANSPORTE DE CONTAMINANTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0761"
+      ],
+      "pre_requisitos": [
+         "ENC0016"
+      ]
+   },
+   {
+      "codigo": "ENC0064",
+      "nome": "TOPICOS ESPECIAIS DE ENGENHARIA HIDRAULICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0793"
+      ],
+      "pre_requisitos": [
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0041",
+      "nome": "TÓPICOS ESPECIAIS EM CONSTRUÇÃO CIVIL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0697"
+      ],
+      "pre_requisitos": [
+         "ENC0254 & ENC0255"
+      ]
+   },
+   {
+      "codigo": "ENC0046",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0701"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0062",
+      "nome": "TOPICOS ESPECIAIS EM ENGENHARIA CIVIL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0704"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0066",
+      "nome": "TOPICOS ESPECIAIS EM ESTRUTURAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0705"
+      ],
+      "pre_requisitos": [
+         "ENC0135",
+         "ENM0112"
+      ]
+   },
+   {
+      "codigo": "ENC0191",
+      "nome": "TOPICOS ESPECIAIS EM GEOTECNIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0857"
+      ],
+      "pre_requisitos": [
+         "ENC0133",
+         "ENC0121"
+      ]
+   },
+   {
+      "codigo": "ENC0237",
+      "nome": "TÓPICOS ESPECIAIS EM GEOTECNIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0889"
+      ],
+      "pre_requisitos": [
+         "ENC0235"
+      ]
+   },
+   {
+      "codigo": "ENC0032",
+      "nome": "TOPICOS ESPECIAIS EM GESTÃO DE RECURSOS HÍDRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0681"
+      ],
+      "pre_requisitos": [
+         "ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0162",
+      "nome": "TOPICOS ESPECIAIS EM HIDRAULICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0834"
+      ],
+      "pre_requisitos": [
+         "ENC0166 & ENC0167",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0232",
+      "nome": "TOPICOS ESPECIAIS EM INSTALACOES 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0886"
+      ],
+      "pre_requisitos": [
+         "ENC0053",
+         "ENC0128"
+      ]
+   },
+   {
+      "codigo": "ENC0164",
+      "nome": "TOPICOS ESPECIAIS EM RECURSOS HIDRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0835"
+      ],
+      "pre_requisitos": [
+         "ENC0167 & ENC0166",
+         "ENC0251 & ENC0252 & ENC0166"
+      ]
+   },
+   {
+      "codigo": "ENC0160",
+      "nome": "TOPICOS ESPECIAIS EM SANEAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0833"
+      ],
+      "pre_requisitos": [
+         "ENC0168 & ENC0169"
+      ]
+   },
+   {
+      "codigo": "ENC0217",
+      "nome": "TOPICOS ESPECIAIS EM TRANSPORTE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0873"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0216",
+      "nome": "TOPICOS ESPECIAIS EM TRANSPORTES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0872"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0218",
+      "nome": "TOPICOS ESPECIAIS EM TRANSPOTES 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0725"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENC0037",
+      "nome": "TRANSFERÊNCIA DE ENERGIA E MASSA",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENC0014",
+         "ENC0654"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & ENC0132",
+         "MAT0027 & ENC0035"
+      ]
+   },
+   {
+      "codigo": "ENC0264",
+      "nome": "TRANSPORTE E MEIO AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0736"
+      ],
+      "pre_requisitos": [
+         "ENC0227",
+         "ENC0267"
+      ]
+   },
+   {
+      "codigo": "ENC0019",
+      "nome": "TRATAMENTO AVANÇADO DE ÁGUAS PARA CONSUMO HUMANO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0759"
+      ],
+      "pre_requisitos": [
+         "ENC0251 & ENC0001",
+         "ENC0251 & ENC0168"
+      ]
+   },
+   {
+      "codigo": "ENC0020",
+      "nome": "TRATAMENTO AVANÇADO DE ÁGUAS RESIDUÁRIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0760"
+      ],
+      "pre_requisitos": [
+         "ENC0251 & ENC0001",
+         "ENC0251 & ENC0168"
+      ]
+   },
+   {
+      "codigo": "ENC0010",
+      "nome": "TRATAMENTO DE ÁGUA PARA CONSUMO HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0688"
+      ],
+      "pre_requisitos": [
+         "ENC0251 & ENC0001",
+         "ENC0251 & ENC0168"
+      ]
+   },
+   {
+      "codigo": "ENC0176",
+      "nome": "TRATAMENTO DE AGUAS DE ABASTECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0846"
+      ],
+      "pre_requisitos": [
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0178",
+      "nome": "TRATAMENTO DE AGUAS RESIDUARIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0847"
+      ],
+      "pre_requisitos": [
+         "ENC0167",
+         "ENC0251 & ENC0252"
+      ]
+   },
+   {
+      "codigo": "ENC0007",
+      "nome": "TRATAMENTO DE ÁGUAS RESIDUÁRIAS URBANAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0687"
+      ],
+      "pre_requisitos": [
+         "ENC0251 & ENC0001",
+         "ENC0251 & ENC0168"
+      ]
+   }
+]

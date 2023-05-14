@@ -1,0 +1,712 @@
+[
+   {
+      "codigo": "PPB0077",
+      "nome": "ANALISE CONCEITUAL EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0118"
+      ],
+      "pre_requisitos": [
+         "PPB0021"
+      ]
+   },
+   {
+      "codigo": "PPB0024",
+      "nome": "ANÁLISE DO COMPORTAMENTO HUMANO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0026",
+         "PPB0028",
+         "PPB0144"
+      ],
+      "pre_requisitos": [
+         "PPB0002"
+      ]
+   },
+   {
+      "codigo": "PPB0067",
+      "nome": "APRENDIZAGEM NO ENSINO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CIC0160",
+         "MTC0012",
+         "PPB0104"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0036",
+      "nome": "AVALIAÇÃO E REABILITAÇÃO NEUROPSICOLÓGICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0037",
+         "PPB0099"
+      ],
+      "pre_requisitos": [
+         "PPB0034 & PCL0020"
+      ]
+   },
+   {
+      "codigo": "PPB0052",
+      "nome": "COMPORTAMENTO ANIMAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0162"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0051",
+      "nome": "COMPORTAMENTO ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0161"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0092",
+      "nome": "COMPORTAMENTO E COGNIÇÃO ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0108"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0012",
+      "nome": "ESTÁGIO BACHAREL 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PPB0133"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0087",
+      "nome": "ESTÁGIO SUPERVISIONADO BACHAREL - ÁREA CIÊNCIAS DO COMPORTAMENTO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PPB0089",
+         "PPB0120"
+      ],
+      "pre_requisitos": [
+         "PCL0020"
+      ]
+   },
+   {
+      "codigo": "PPB0089",
+      "nome": "ESTÁGIO SUPERVISIONADO BACHAREL - ÁREA CIÊNCIAS DO COMPORTAMENTO 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PPB0121"
+      ],
+      "pre_requisitos": [
+         "PPB0086",
+         "PPB0087",
+         "IPD0020"
+      ]
+   },
+   {
+      "codigo": "PPB0011",
+      "nome": "ESTÁGIO SUPERVISIONADO LICENCIATURA - ÁREA CIÊNCIAS DO COMPORTAMENTO 1",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PPB0111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0080",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA ANÁLISE DO COMPORTAMENTO APLICADA 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PPB0119",
+         "PPB0180"
+      ],
+      "pre_requisitos": [
+         "PCL0020"
+      ]
+   },
+   {
+      "codigo": "PPB0081",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA ANÁLISE DO COMPORTAMENTO APLICADA 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PPB0181"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PPB0080",
+         "IPD0053"
+      ]
+   },
+   {
+      "codigo": "PPB0083",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA NEUROPSICOLOGIA E COGNIÇÃO 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PPB0183"
+      ],
+      "pre_requisitos": [
+         "PCL0020"
+      ]
+   },
+   {
+      "codigo": "PPB0084",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA NEUROPSICOLOGIA E COGNIÇÃO 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PPB0184"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PPB0083",
+         "IPD0038"
+      ]
+   },
+   {
+      "codigo": "PPB0085",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA NEUROPSICOLOGIA E COGNIÇÃO 3",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PPB0185"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PPB0084",
+         "IPD0039"
+      ]
+   },
+   {
+      "codigo": "PPB0056",
+      "nome": "ESTAGIO SUPERVISIONADO PSICOLOGO-BACHAREL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PPB0165"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0082",
+      "nome": "ESTÁGIO SUP PSICÓLOGO - ÁREA ANÁLISE DO COMPORTAMENTO APLICADA 3",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PPB0182"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PPB0081",
+         "IPD0054"
+      ]
+   },
+   {
+      "codigo": "PPB0041",
+      "nome": "FILOSOFIA DA PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0113"
+      ],
+      "pre_requisitos": [
+         "PPB0021  &  PED0071"
+      ]
+   },
+   {
+      "codigo": "PPB0001",
+      "nome": "FUNDAMENTOS DE ANÁLISE DO COMPORTAMENTO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0124"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0002",
+      "nome": "FUNDAMENTOS DE ANÁLISE DO COMPORTAMENTO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0024",
+         "IPD0008",
+         "PPB0093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0034",
+      "nome": "FUNDAMENTOS DE NEUROCIÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0048",
+         "CFS0044",
+         "CFS0050",
+         "CFS0054",
+         "PPB0091",
+         "PPB0098",
+         "CFS0086"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0043",
+      "nome": "GENETICA DO COMPORTAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0156"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0079",
+      "nome": "GENÉTICA E INTERVENÇÃO PSICOLÓGICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0179"
+      ],
+      "pre_requisitos": [
+         "PPB0034 & PCL0071"
+      ]
+   },
+   {
+      "codigo": "PPB0021",
+      "nome": "HISTORIA  DA PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0022",
+         "PCL0061",
+         "PPB0077",
+         "PPB0097"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0020",
+      "nome": "HISTORIA E SISTEMAS DA PSICOLOGIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0141"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0022",
+      "nome": "HISTORIA E SISTEMAS DA PSICOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0143"
+      ],
+      "pre_requisitos": [
+         "PPB0021"
+      ]
+   },
+   {
+      "codigo": "PPB0014",
+      "nome": "INTRODUÇÃO À PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0095",
+         "ODT0098",
+         "PPB0095"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0091",
+      "nome": "NEUROCIÊNCIAS DO COMPORTAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0123"
+      ],
+      "pre_requisitos": [
+         "PPB0034"
+      ]
+   },
+   {
+      "codigo": "PPB0054",
+      "nome": "PERCEPCAO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0039",
+         "PPB0102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0009",
+      "nome": "PERCEPÇÃO E COGNIÇÃO: CIÊNCIA E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0131"
+      ],
+      "pre_requisitos": [
+         "PPB0046 & PPB0054"
+      ]
+   },
+   {
+      "codigo": "PPB0072",
+      "nome": "PESQUISA EM ANÁLISE COMPORTAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0116"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0073",
+      "nome": "PESQUISA EM ANALISE COMPORTAMENTAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0175"
+      ],
+      "pre_requisitos": [
+         "PPB0017",
+         "PPB0018"
+      ]
+   },
+   {
+      "codigo": "PPB0069",
+      "nome": "PESQUISA EM PROCESSOS COGNITIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0075",
+      "nome": "PESQUISA EM PSICOBIOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0117"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0008",
+      "nome": "PESQUISA EM PSICOLOGIA EVOLUCIONISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0110"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0048",
+      "nome": "PSICOFARMACOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0049",
+         "PPB0101"
+      ],
+      "pre_requisitos": [
+         "PPB0034"
+      ]
+   },
+   {
+      "codigo": "PPB0049",
+      "nome": "PSICOFARMACOLOGIA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0159"
+      ],
+      "pre_requisitos": [
+         "PPB0048"
+      ]
+   },
+   {
+      "codigo": "PPB0039",
+      "nome": "PSICOFÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0040",
+         "PPB0153"
+      ],
+      "pre_requisitos": [
+         "PPB0054",
+         "PPB0046"
+      ]
+   },
+   {
+      "codigo": "PPB0040",
+      "nome": "PSICOFISICA 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PPB0154"
+      ],
+      "pre_requisitos": [
+         "PPB0039"
+      ]
+   },
+   {
+      "codigo": "PPB0033",
+      "nome": "PSICOFISIOLOGIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0037",
+      "nome": "PSICOFISIOLOGIA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0152"
+      ],
+      "pre_requisitos": [
+         "PPB0036"
+      ]
+   },
+   {
+      "codigo": "PPB0046",
+      "nome": "PSICOLOGIA COGNITIVA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0039",
+         "PPB0050",
+         "FIL0152",
+         "PPB0100"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0050",
+      "nome": "PSICOLOGIA COGNITIVA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0114"
+      ],
+      "pre_requisitos": [
+         "PPB0046"
+      ]
+   },
+   {
+      "codigo": "PPB0017",
+      "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0073",
+         "LET0154",
+         "VIS0115",
+         "MTC0012",
+         "PPB0096",
+         "IPD0057"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0015",
+      "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0016",
+      "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0019",
+      "nome": "PSICOLOGIA DA APRENDIZAGEM 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0140"
+      ],
+      "pre_requisitos": [
+         "PPB0018"
+      ]
+   },
+   {
+      "codigo": "PPB0057",
+      "nome": "PSICOLOGIA DA MOTIVACAO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0060",
+         "PPB0166"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0060",
+      "nome": "PSICOLOGIA DA MOTIVACAO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0168"
+      ],
+      "pre_requisitos": [
+         "PPB0057"
+      ]
+   },
+   {
+      "codigo": "PPB0006",
+      "nome": "PSICOLOGIA EVOLUCIONISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0094"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0026",
+      "nome": "PSICOLOGIA EXPERIMENTAL 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0145"
+      ],
+      "pre_requisitos": [
+         "PPB0024"
+      ]
+   },
+   {
+      "codigo": "PPB0028",
+      "nome": "PSICOLOGIA EXPERIMENTAL 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0146"
+      ],
+      "pre_requisitos": [
+         "PPB0024"
+      ]
+   },
+   {
+      "codigo": "PPB0018",
+      "nome": "PSICOLOGIA GERAL E EXPERIMENTAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PPB0019",
+         "PPB0073",
+         "IPD0057",
+         "PPB0139"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0053",
+      "nome": "TECNICAS DE LABORATORIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0163"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0005",
+      "nome": "TERAPIA ANALÍTICA - COMPORTAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0106"
+      ],
+      "pre_requisitos": [
+         "PPB0002  &  PCL0020"
+      ]
+   },
+   {
+      "codigo": "PPB0078",
+      "nome": "TERAPIA ANALÍTICO COMPORTAMENTAL INFANTIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0105"
+      ],
+      "pre_requisitos": [
+         "PPB0002  &  PCL0020"
+      ]
+   },
+   {
+      "codigo": "PPB0003",
+      "nome": "TERAPIA COGNITIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PCL0014",
+         "PPB0013",
+         "PPB0126"
+      ],
+      "pre_requisitos": [
+         "PCL0021 & PPB0046"
+      ]
+   },
+   {
+      "codigo": "PPB0032",
+      "nome": "TOPICOS EM ANALISE COMPORTAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0062",
+      "nome": "TOPICOS EM APRENDIZAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0107"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0007",
+      "nome": "TÓPICOS EM COGNIÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0109"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0030",
+      "nome": "TOPICOS EM HISTORIA E SISTEMAS DA PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0147"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0059",
+      "nome": "TOPICOS EM MOTIVACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0167"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0064",
+      "nome": "TOPICOS EM PERCEPCAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0170"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0066",
+      "nome": "TOPICOS EM PSICOBIOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0103"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0090",
+      "nome": "TÓPICOS EM PSICOLOGIA EVOLUCIONISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0122"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PPB0013",
+      "nome": "TÓPICOS EM TERAPIA COGNITIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PPB0134"
+      ],
+      "pre_requisitos": [
+         "PPB0003"
+      ]
+   }
+]

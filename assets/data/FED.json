@@ -1,0 +1,2067 @@
+[
+   {
+      "codigo": "FED0131",
+      "nome": "ADMINISTRAÇÃO DAS ORGANIZAÇÕES EDUCATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0526"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0158",
+      "nome": "ANTROPOLOGIA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0402"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0003",
+      "nome": "APRENDIZAGEM E DESENVOLVIMENTO DO PNEE",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "FED0406"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0124",
+      "nome": "APRENDIZAGEM E DESENVOLVIMENTO DO PNEE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0520"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0077",
+      "nome": "APRENDIZAGEM, TECNOLOGIA E EAD",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0477"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0192",
+      "nome": "ARTE, PEDAGOGIA E CULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0580"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0195",
+      "nome": "ATIVIDADES LÚDICAS EM INÍCIO ESCOLARIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0583"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0196",
+      "nome": "AVALIAÇÃO EDUCACIONAL DO PNEE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0584"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0197",
+      "nome": "AVALIAÇÃO ESCOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0585"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0020",
+      "nome": "AVALIAÇÃO NA ESCOLA PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0423"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0174",
+      "nome": "AVALIAÇÃO NAS ORGANIZAÇÕES EDUCATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0562"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0038",
+      "nome": "AVALIAÇÃO NAS ORGANIZAÇÕES EDUCATIVAS PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0441"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0074",
+      "nome": "BASES PEDAGÓGICAS DO TRABALHO ESCOLAR 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0474"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0005",
+      "nome": "BASES PEDAGÓGICAS DO TRABALHO ESCOLAR 1 PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0006",
+         "FED0408"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0075",
+      "nome": "BASES PEDAGÓGICAS DO TRABALHO ESCOLAR 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0475"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0006",
+      "nome": "BASES PEDAGÓGICAS DO TRABALHO ESCOLAR 2 PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0409"
+      ],
+      "pre_requisitos": [
+         "FED0005"
+      ]
+   },
+   {
+      "codigo": "FED0076",
+      "nome": "BASES PEDAGÓGICAS DO TRABALHO ESCOLAR 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0476"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0094",
+      "nome": "CONSTRUÇÃO DO PROCESSO EDUCATIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0494"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0087",
+      "nome": "CONTRIBUIÇÕES DA PSICOLOGIA PARA EDUCAÇÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0487"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0198",
+      "nome": "CRIATIVIDADE E INOVAÇÃO NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0586"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0126",
+      "nome": "CULTURA ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0522"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0199",
+      "nome": "CURRÍCULO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0386"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0081",
+      "nome": "CURRÍCULO E DIVERSIDADE CULTURAL",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0481"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0017",
+      "nome": "CURRÍCULO E DIVERSIDADE CULTURAL PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0420"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0080",
+      "nome": "DESENVOLVIMENTO E APRENDIZAGEM",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0480"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0008",
+      "nome": "DESENVOLVIMENTO E APRENDIZAGEM PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0411"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0200",
+      "nome": "DESENVOLVIMENTO HUMANO E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0588"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0163",
+      "nome": "DIDÁTICA FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0551"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0104",
+      "nome": "DIDÁTICA - ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0504"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0181",
+      "nome": "EDUCAÇÃO À DISTÂNCIA - PEDAGOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0569"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0064",
+      "nome": "EDUCAÇÃO ARTE E MOVIMENTO 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0464"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0031",
+      "nome": "EDUCAÇÃO ARTE E MOVIMENTO 1 PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0032",
+         "FED0434"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0065",
+      "nome": "EDUCAÇÃO ARTE E MOVIMENTO 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0465"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0032",
+      "nome": "EDUCAÇÃO ARTE E MOVIMENTO 2 PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0435"
+      ],
+      "pre_requisitos": [
+         "FED0031"
+      ]
+   },
+   {
+      "codigo": "FED0066",
+      "nome": "EDUCAÇÃO ARTE E MOVIMENTO 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0466"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0089",
+      "nome": "EDUCAÇÃO BRASILEIRA: ORGANIZAÇÃO E PROCESSOS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0489"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0183",
+      "nome": "EDUCAÇÃO DAS RELAÇÕES ÉTNICOS-RACIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0571"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0153",
+      "nome": "EDUCAÇÃO DE ADULTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0541"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0231",
+      "nome": "EDUCAÇÃO DE JOVENS, ADULTOS E IDOSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0389"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0036",
+      "nome": "EDUCAÇÃO DE JOVENS E ADULTOS PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0439"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0071",
+      "nome": "EDUCAÇÃO E CIÊNCIAIS SOCIAIS 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0471"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0024",
+      "nome": "EDUCAÇÃO E CIÊNCIAIS SOCIAIS 1 PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0025",
+         "FED0427"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0072",
+      "nome": "EDUCAÇÃO E CIÊNCIAIS SOCIAIS 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0472"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0025",
+      "nome": "EDUCAÇÃO E CIÊNCIAIS SOCIAIS 2 PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0428"
+      ],
+      "pre_requisitos": [
+         "FED0024"
+      ]
+   },
+   {
+      "codigo": "FED0073",
+      "nome": "EDUCAÇÃO E CIÊNCIAIS SOCIAIS 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0473"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0067",
+      "nome": "EDUCAÇÃO E CIÊNCIAS FÍSICAS E BIOLÓGICAS 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0467"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0021",
+      "nome": "EDUCAÇÃO E CIÊNCIAS FÍSICAS E BIOLÓGICAS 1 PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0022",
+         "FED0424"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0068",
+      "nome": "EDUCAÇÃO E CIÊNCIAS FÍSICAS E BIOLÓGICAS 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0468"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0022",
+      "nome": "EDUCAÇÃO E CIÊNCIAS FÍSICAS E BIOLÓGICAS 2 PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0425"
+      ],
+      "pre_requisitos": [
+         "FED0021"
+      ]
+   },
+   {
+      "codigo": "FED0069",
+      "nome": "EDUCAÇÃO E CIÊNCIAS FÍSICAS E BIOLÓGICAS 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0469"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0070",
+      "nome": "EDUCAÇÃO E CIÊNCIAS FÍSICAS E BIOLÓGICAS 4",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0470"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0086",
+      "nome": "EDUCAÇÃO E DESENVOLVIMENTO SUSTENTÁVEIS (SAÚDE E MEIO AMBIENTE)",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0486"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0060",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0460"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0011",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 1 PARFOR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0012",
+         "FED0414"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0061",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0461"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0012",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 2 PARFOR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0016",
+         "FED0415"
+      ],
+      "pre_requisitos": [
+         "FED0011"
+      ]
+   },
+   {
+      "codigo": "FED0062",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0462"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0016",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 3 PARFOR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0419"
+      ],
+      "pre_requisitos": [
+         "FED0012"
+      ]
+   },
+   {
+      "codigo": "FED0063",
+      "nome": "EDUCAÇÃO E LINGUAGEM MATEMÁTICA 4",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0463"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0201",
+      "nome": "EDUCAÇÃO E LINGUAGENS TECNOLÓGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0589"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0056",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0456"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0009",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 1 PARFOR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0010",
+         "FED0412"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0057",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0457"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0010",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 2 PARFOR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0015",
+         "FED0413"
+      ],
+      "pre_requisitos": [
+         "FED0009"
+      ]
+   },
+   {
+      "codigo": "FED0058",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 3",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0458"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0015",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 3 PARFOR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0418"
+      ],
+      "pre_requisitos": [
+         "FED0010"
+      ]
+   },
+   {
+      "codigo": "FED0059",
+      "nome": "EDUCAÇÃO E LÍNGUA MATERNA 4",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0459"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0202",
+      "nome": "EDUCAÇÃO EM ARTES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0590"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0175",
+      "nome": "EDUCAÇÃO EM GEOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0563"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0046",
+      "nome": "EDUCAÇÃO EM GEOGRAFIA II",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0392"
+      ],
+      "pre_requisitos": [
+         "MTC0061"
+      ]
+   },
+   {
+      "codigo": "FED0232",
+      "nome": "EDUCAÇÃO EM GEOGRAFIA II",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0620"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0203",
+      "nome": "EDUCAÇÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0591"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0098",
+      "nome": "EDUCAÇÃO E PESQUISA 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0498"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0099",
+      "nome": "EDUCAÇÃO E PESQUISA 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0499"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0100",
+      "nome": "EDUCAÇÃO E PESQUISA 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0500"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0083",
+      "nome": "EDUCAÇÃO E SOCIEDADE NUMA PERSPECTIVA SOCIOLÓGICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0483"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0007",
+      "nome": "EDUCAÇÃO E SOCIEDADE NUMA PERSPECTIVA SOCIOLÓGICA  PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0410"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0123",
+      "nome": "EDUCAÇÃO E TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0519"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0193",
+      "nome": "EDUCAÇÃO INCLUSIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0581"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0030",
+      "nome": "EDUCAÇÃO INCLUSIVA PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0433"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0132",
+      "nome": "EDUCAÇÃO INFANTIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0527"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0155",
+      "nome": "EDUCAÇÃO MATEMÁTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0401"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0127",
+      "nome": "EDUCAÇÃO MATEMÁTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0523"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0204",
+      "nome": "EDUCAÇÃO MULTICULTURAL NA CONTEMPORANEIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0592"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0205",
+      "nome": "EDUCAÇÃO NÃO-FORMAL CIÊNCIA E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0593"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0233",
+      "nome": "EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0621"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0052",
+      "nome": "EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0383"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0211",
+      "nome": "EDUCAÇÃO, TECNOLOGIA E  COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0387"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0165",
+      "nome": "EDUCANDO COM NECESSIDADES EDUCACIONAIS ESPECIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0553"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0230",
+      "nome": "ENFOQUES PSICOPEDAGÓGICOS DAS DIFICULDADES DE APRENDIZAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0618"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0130",
+      "nome": "ENSINO DE CIÊNCIA E TECNOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0525"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0213",
+      "nome": "ENSINO DE CIÊNCIAS E TECNOLOGIA II",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0601"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0172",
+      "nome": "ENSINO DE HISTÓRIA, IDENTIDADE E CIDADANIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0560"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0125",
+      "nome": "ENSINO E APRENDIZAGEM DA LÍNGUA MATERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0521"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0002",
+      "nome": "ENSINO E APRENDIZAGEM DA LÍNGUA MODERNA",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "FED0405"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0184",
+      "nome": "ESCOLARIZAÇÃO DE SURDOS E LIBRAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0572"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0037",
+      "nome": "ESCOLARIZAÇÃO DE SURDOS E LIBRAS PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0440"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0027",
+      "nome": "ESTÁGIO 1 PARFOR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0028",
+         "FED0430"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0028",
+      "nome": "ESTÁGIO 2 PARFOR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0029",
+         "FED0431"
+      ],
+      "pre_requisitos": [
+         "FED0027"
+      ]
+   },
+   {
+      "codigo": "FED0029",
+      "nome": "ESTÁGIO 3 PARFOR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0432"
+      ],
+      "pre_requisitos": [
+         "FED0028"
+      ]
+   },
+   {
+      "codigo": "FED0043",
+      "nome": "ESTÁGIO SUPERVISIONADO I: EDUCAÇÃO INFANTIL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0390"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & MTC0039"
+      ]
+   },
+   {
+      "codigo": "FED0250",
+      "nome": "ESTÁGIO SUPERVISIONADO I: EDUCAÇÃO INFANTIL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "FED0163 & FED0132"
+      ]
+   },
+   {
+      "codigo": "FED0045",
+      "nome": "ESTÁGIO SUPERVISIONADO II: ANOS INICIAIS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0391"
+      ],
+      "pre_requisitos": [
+         "MTC0012"
+      ]
+   },
+   {
+      "codigo": "FED0047",
+      "nome": "ESTÁGIO SUPERVISIONADO III: GESTÃO ESCOLAR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0393"
+      ],
+      "pre_requisitos": [
+         "PAD0080",
+         "PAD0038"
+      ]
+   },
+   {
+      "codigo": "FED0050",
+      "nome": "ESTÁGIO SUPERVISIONADO IV: ESPAÇOS EDUCATIVOS NÃO-ESCOLARES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0395"
+      ],
+      "pre_requisitos": [
+         "FED0043 & FED0045 & FED0047"
+      ]
+   },
+   {
+      "codigo": "FED0054",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0454"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0055",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0455"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0191",
+      "nome": "FILOSOFIA COM CRIANÇAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0579"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0157",
+      "nome": "FILOSOFIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0545"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0206",
+      "nome": "FILOSOFIA DA EDUCAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0594"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0110",
+      "nome": "FILOSOFIA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0510"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0019",
+      "nome": "FILOSOFIA E PRÁXIS PEDAGÓGICO PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0422"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0088",
+      "nome": "FILOSOFIA E PRÁXIS PEDAGÓGICOS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0488"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0235",
+      "nome": "FINANCIAMENTO DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0623"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0207",
+      "nome": "FORMAS DE EXPRESSÃO DA CRIANÇA DE 0 A 6 ANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0595"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0156",
+      "nome": "FUNDAMENTOS DA ARTE NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0544"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0164",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0552"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0078",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO BÁSICA PARA CRIANÇA JOVEM E ADULTO",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0478"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0013",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO DA CRIANÇA PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0416"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0079",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO ESPECIAL",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0479"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0179",
+      "nome": "FUNDAMENTOS DA LINGUAGEM MUSICAL NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0567"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0176",
+      "nome": "FUNDAMENTOS DA LINGUAGEM NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0564"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0105",
+      "nome": "FUNDAMENTOS PSICOLÓGICOS NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0505"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0109",
+      "nome": "FUNDAMENTOS SOCIAIS APLICADOS À EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0509"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0001",
+      "nome": "GÊNERO E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0404"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0212",
+      "nome": "GESTÃO DAS ORGANIZAÇÕES EDUCATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0600"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0048",
+      "nome": "GESTÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0448"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0229",
+      "nome": "GESTÃO DE PROGRAMAS E PROJETOS EDUCACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0617"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0166",
+      "nome": "HISTÓRIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0554"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0208",
+      "nome": "HISTÓRIA DA EDUCAÇÃO BRASILEIRA II",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0596"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0182",
+      "nome": "HISTÓRIA DA EDUCAÇÃO BRASILEIRA - PEDAGOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0570"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0108",
+      "nome": "HISTÓRIA E ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0508"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0014",
+      "nome": "IDENTIDADE, SUJEITO E FATOS HISTÓRICOS PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0417"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0085",
+      "nome": "IDENTIDADE, SUJEITOS E FATOS HISTÓRICOS NA EDUCAÇÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0485"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0194",
+      "nome": "INFÂNCIA, CRIANÇA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0582"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0053",
+      "nome": "INTRODUÇÃO À ANÁLISE DE DADOS E INDICADORES EDUCACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0453"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0152",
+      "nome": "INTRODUÇÃO A CLASSE HOSPITALAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0540"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0377",
+      "nome": "INTRODUÇÃO À PEDAGOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0403"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0039",
+      "nome": "INTRODUÇÃO À PEDAGOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0012",
+         "FED0378"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0161",
+      "nome": "INVESTIGAÇÃO FILOSÓFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0549"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0111",
+      "nome": "INVESTIGAÇÃO SOCIAL: FUNDAMENTOS E METODOLOGIA - TRABALHO CONCL CURSO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0511"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0188",
+      "nome": "LITERATURA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0576"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0117",
+      "nome": "MÓDULO 1 - A REALIDADE BRASILEIRA",
+      "carga_horaria": 525,
+      "eh_requisito_de": [
+         "FED0513"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0118",
+      "nome": "MÓDULO 2 - A CULTURA E O TRABALHO NO BRASIL",
+      "carga_horaria": 525,
+      "eh_requisito_de": [
+         "FED0514"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0119",
+      "nome": "MÓDULO 3 - A EDUCAÇÃO E O CONTEXTO SOCIAL",
+      "carga_horaria": 540,
+      "eh_requisito_de": [
+         "FED0515"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0120",
+      "nome": "MÓDULO 4 - A ESCOLA COMO INSTITUIÇÃO SOCIAL",
+      "carga_horaria": 555,
+      "eh_requisito_de": [
+         "FED0516"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0121",
+      "nome": "MÓDULO 5 - O CURRÍCULO E A DIVERSIDADE CULTURAL",
+      "carga_horaria": 540,
+      "eh_requisito_de": [
+         "FED0517"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0122",
+      "nome": "MÓDULO 6 - O TRABALHO DOCENTE E DISCENTE - UMA RELAÇÃO DE CONSTRUÇÃO",
+      "carga_horaria": 540,
+      "eh_requisito_de": [
+         "FED0518"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0209",
+      "nome": "MULTICULTURALISMO E ENSINO RELIGIOSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0597"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0084",
+      "nome": "MULTICULTURISMO E EDUCAÇÃO",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "FED0484"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0091",
+      "nome": "NOVAS TECNOLOGIAS DE COMUNICAÇÃO E INFORMAÇÃO NA EDUCAÇÃO  DISTÂNCIA 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0491"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0092",
+      "nome": "NOVAS TECNOLOGIAS DE COMUNICAÇÃO E INFORMAÇÃO NA EDUCAÇÃO DISTÂNCIA 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0492"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0093",
+      "nome": "NOVAS TECNOLOGIAS DE COMUNICAÇÃO E INFORMAÇÃO NA EDUCAÇÃO DISTÂNCIA 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0493"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0095",
+      "nome": "OFICINA BÁSICA DE VIVÊNCIA AS SUBJETIVIDADE E CONSTRUÇÃO DE REDES 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0495"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0096",
+      "nome": "OFICINA BÁSICA DE VIVÊNCIA AS SUBJETIVIDADE E CONSTRUÇÃO DE REDES 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0496"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0097",
+      "nome": "OFICINA BÁSICA DE VIVÊNCIA AS SUBJETIVIDADES E CONSTRUÇÃO DE REDES 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0497"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0225",
+      "nome": "OFICINA DE AUDIOVISUAIS NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0613"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0177",
+      "nome": "OFICINA DE FORMAÇÃO DE PROFESSOR LEITOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0565"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0090",
+      "nome": "OFICINA DE TEXTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0490"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0210",
+      "nome": "OFICINAS DE TEXTOS ACADÊMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0598"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0168",
+      "nome": "ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0385"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0018",
+      "nome": "ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0421"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0215",
+      "nome": "ORIENTAÇÃO EDUCACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0603"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0185",
+      "nome": "ORIENTAÇÃO VOCACIONAL PROFISSIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0573"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0216",
+      "nome": "PENSAMENTO EDUCACIONAL BRASILEIRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0604"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0159",
+      "nome": "PERSPECTIVAS DO DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0547"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0150",
+      "nome": "PESQUISA EM EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0538"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0026",
+      "nome": "PESQUISA EM EDUCAÇÃO 1 PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0034",
+         "FED0429"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0004",
+      "nome": "PLANEJAMENTO EDUCACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0407"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0082",
+      "nome": "PLANEJAMENTO E GESTÃO ESCOLAR",
+      "carga_horaria": 135,
+      "eh_requisito_de": [
+         "FED0482"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0023",
+      "nome": "PLANEJAMENTO E GESTÃO ESCOLAR PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0426"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0173",
+      "nome": "POLÍTICAS PÚBLICAS DE EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0561"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0033",
+      "nome": "POLITICAS PÚBLICAS DE EDUCAÇÃO PARFOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "FED0436"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0106",
+      "nome": "PRÁTICA EDUCATIVA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0506"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0107",
+      "nome": "PRÁTICA EDUCATIVA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0507"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0218",
+      "nome": "PRÁTICAS MIDIÁTICAS EM EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0606"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0171",
+      "nome": "PROCESSO DE ALFABETIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0559"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0234",
+      "nome": "PROCESSOS DE ALFABETIZAÇÃO E LETRAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0622"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0220",
+      "nome": "PRODUÇÃO E LEITURA DA IMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0608"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0162",
+      "nome": "PROJETO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0169",
+         "FED0550"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0134",
+      "nome": "PROJETO 1 - ORIENTAÇÃO ACADÊMICA INTEGRAL (OAI)",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0397"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0169",
+      "nome": "PROJETO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0557"
+      ],
+      "pre_requisitos": [
+         "FED0162"
+      ]
+   },
+   {
+      "codigo": "FED0135",
+      "nome": "PROJETO 2 - PROJETOS DE ENSINO, PESQUISA E EXTENSÃO (GEPE)",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0384"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0154",
+      "nome": "PROJETO 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0542"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0129",
+      "nome": "PROJETO 3 FASE 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0524"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0178",
+      "nome": "PROJETO 3 FASE 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0180",
+         "FED0566"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0137",
+      "nome": "PROJETO 3 - PROJETOS INDIVIDUALIZADOS 1 (PESPE)",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0380"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0139",
+      "nome": "PROJETO 3 - PROJETOS INDIVIDUALIZADOS 2 (PESPE)",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0381"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0141",
+      "nome": "PROJETO 3 - PROJETOS INDIVIDUALIZADOS 3 (PESPE)",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0398"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0180",
+      "nome": "PROJETO 4 FASE 1",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FED0186",
+         "FED0568"
+      ],
+      "pre_requisitos": [
+         "FED0178"
+      ]
+   },
+   {
+      "codigo": "FED0186",
+      "nome": "PROJETO 4 FASE 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FED0187",
+         "FED0574"
+      ],
+      "pre_requisitos": [
+         "FED0180"
+      ]
+   },
+   {
+      "codigo": "FED0143",
+      "nome": "PROJETO 4 - PROJETOS INDIVIDUALIZADOS DE PRÁTICA DOCENTE 1(SEPD)",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0382"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0145",
+      "nome": "PROJETO 4 - PROJETOS INDIVIDUALIZADOS DE PRÁTICA DOCENTE 2 (SEPD)",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0399"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0187",
+      "nome": "PROJETO 5 FASE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0190",
+         "FED0575"
+      ],
+      "pre_requisitos": [
+         "FED0186"
+      ]
+   },
+   {
+      "codigo": "FED0190",
+      "nome": "PROJETO 5 FASE 2 - TFC",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0578"
+      ],
+      "pre_requisitos": [
+         "FED0187"
+      ]
+   },
+   {
+      "codigo": "FED0146",
+      "nome": "PROJETO 5 - TRABALHO FINAL DE CURSO (TFC)",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0400"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0044",
+      "nome": "PROJETOS DE ENSINO, PESQUISA E EXTENSÃO - PEPEX",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0379"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0222",
+      "nome": "PSICANÁLISE E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0610"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0224",
+      "nome": "PSICODRAMA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0612"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0226",
+      "nome": "PSICOLOGIA, CULTURA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0614"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0170",
+      "nome": "PSICOLOGIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0558"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0189",
+      "nome": "PSICOLOGIA SOCIAL NA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0577"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0133",
+      "nome": "SEMINÁRIO INTERDISCIPLINAR EM EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0528"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0101",
+      "nome": "SEMINÁRIOS INTERDISCIPLINARES 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0501"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0102",
+      "nome": "SEMINÁRIOS INTERDISCIPLINARES 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0502"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0103",
+      "nome": "SEMINÁRIOS INTERDISCIPLINARES 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FED0503"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0149",
+      "nome": "SEMINÁRIO SOBRE TRABALHO FINAL DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0537"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0151",
+      "nome": "SOCIOLOGIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0539"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0167",
+      "nome": "SOCIONOMIA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0555"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0227",
+      "nome": "TECNOLOGIAS NA EDUCAÇÃO ESPECIAL E INCLUSIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0615"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0160",
+      "nome": "TEORIAS DA EDUCAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0548"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0228",
+      "nome": "TÓPICOS ESPECIAIS DA HISTÓRIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0388"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0223",
+      "nome": "TÓPICOS ESPECIAIS DE PESQUISA EM EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0611"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0221",
+      "nome": "TÓPICOS ESPECIAIS EM EDUCAÇÃO ESPECIAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FED0609"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0219",
+      "nome": "TÓPICOS ESPECIAIS EM FILOSOFIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0607"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0114",
+      "nome": "TÓPICOS ESPECIAIS EM PESQUISA EM EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0512"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0214",
+      "nome": "TÓPICOS ESPECIAIS EM PSICOLOGIA  DA EDUCAÇÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0602"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0217",
+      "nome": "TÓPICOS ESPECIAIS EM SOCIOLOGIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0605"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0034",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1 PARFOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FED0437"
+      ],
+      "pre_requisitos": [
+         "FED0026"
+      ]
+   },
+   {
+      "codigo": "FED0035",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2 PARFOR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FED0438"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FED0049",
+      "nome": "TRABALHO FINAL DE CURSO I",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0051",
+         "FED0394",
+         "FED0244"
+      ],
+      "pre_requisitos": [
+         "TEF0103"
+      ]
+   },
+   {
+      "codigo": "FED0051",
+      "nome": "TRABALHO FINAL DE CURSO II",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FED0396"
+      ],
+      "pre_requisitos": [
+         "FED0049",
+         "FED0243"
+      ]
+   }
+]

@@ -1,0 +1,324 @@
+[
+   {
+      "codigo": "TAU0010",
+      "nome": "ARQUITERURA E URBANISMO DA AMERICA LATINA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0053"
+      ],
+      "pre_requisitos": [
+         "TAU0009",
+         "FAU0225"
+      ]
+   },
+   {
+      "codigo": "TAU0007",
+      "nome": "ARQUITERURA E URBANISMO DA SOCIEDADE INDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0008",
+         "TAU0009",
+         "TAU0035"
+      ],
+      "pre_requisitos": [
+         "TAU0006"
+      ]
+   },
+   {
+      "codigo": "TAU0009",
+      "nome": "ARQUITERURA E URBANISMO NO BRASIL COLONIA E IMPERIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0001",
+         "TAU0010",
+         "TAU0011",
+         "TAU0042",
+         "TAU0044"
+      ],
+      "pre_requisitos": [
+         "TAU0007"
+      ]
+   },
+   {
+      "codigo": "TAU0008",
+      "nome": "ARQUITERURA E URBANISMO NO BRASIL CONTEMPORANEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0015",
+         "TAU0036"
+      ],
+      "pre_requisitos": [
+         "TAU0007"
+      ]
+   },
+   {
+      "codigo": "TAU0014",
+      "nome": "ARQUITETURA E ESTETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0057"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0011",
+      "nome": "ARQUITETURA E URBANISMO DA ATUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAN0076",
+         "TAU0012",
+         "TAU0037",
+         "TAU0045"
+      ],
+      "pre_requisitos": [
+         "TAU0009"
+      ]
+   },
+   {
+      "codigo": "TAU0027",
+      "nome": "ARTE COMPARADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0068"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0028",
+      "nome": "ARTE E FILOSOFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0026",
+      "nome": "BRASÍLIA, EXPERIÊNCIA URBANISTICA - PRÁTICA E TEORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0067"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0015",
+      "nome": "CONFIGURACAO URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0058"
+      ],
+      "pre_requisitos": [
+         "TAU0008",
+         "FAU0114"
+      ]
+   },
+   {
+      "codigo": "TAU0012",
+      "nome": "ENSAIO DE TEORIA E HISTORIA DE ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0038"
+      ],
+      "pre_requisitos": [
+         "TAU0011"
+      ]
+   },
+   {
+      "codigo": "TAU0023",
+      "nome": "ESTÉTICA DO ESPAÇO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0065"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0025",
+      "nome": "ESTÉTICA E HISTÓRIA DA ARTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0043"
+      ],
+      "pre_requisitos": [
+         "TAU0006"
+      ]
+   },
+   {
+      "codigo": "TAU0020",
+      "nome": "ESTRUTURAS URBANAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0062"
+      ],
+      "pre_requisitos": [
+         "TAU0008 & PRO0020",
+         "TAU0006"
+      ]
+   },
+   {
+      "codigo": "TAU0005",
+      "nome": "HISTORIA DA ARQUITETURA E DA ARTE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0006",
+         "TAU0033"
+      ],
+      "pre_requisitos": [
+         "TAU0002"
+      ]
+   },
+   {
+      "codigo": "TAU0006",
+      "nome": "HISTORIA DA ARQUITETURA E DA ARTE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0007",
+         "TAU0020",
+         "TAU0025",
+         "TAU0034"
+      ],
+      "pre_requisitos": [
+         "TAU0005",
+         "VIS0060"
+      ]
+   },
+   {
+      "codigo": "TAU0001",
+      "nome": "INICIAÇÃO CIENTÍFICA EM ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0041"
+      ],
+      "pre_requisitos": [
+         "TAU0009"
+      ]
+   },
+   {
+      "codigo": "TAU0002",
+      "nome": "INTRODUCAO A ARQUITETURA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0083",
+         "FAU0113",
+         "FAU0114",
+         "TEC0016",
+         "TAU0005",
+         "FAU0221",
+         "FAU0225",
+         "TAU0031",
+         "TAU0032"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0017",
+      "nome": "INTRODUÇÃO A PESQUISA E A EXTENSÃO EM ARQUITETURA E URBANISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "TAU0059"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0003",
+      "nome": "METODOS E TECNICAS NA PROJETACAO ARQUITETONICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0046"
+      ],
+      "pre_requisitos": [
+         "FAU0111",
+         "PRO0016"
+      ]
+   },
+   {
+      "codigo": "TAU0004",
+      "nome": "MORFOLOGIA ARQUITETONICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0047"
+      ],
+      "pre_requisitos": [
+         "TAU0006 & TAU0002"
+      ]
+   },
+   {
+      "codigo": "TAU0018",
+      "nome": "MORFOLOGIA URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0060"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0021",
+      "nome": "PLANEJAMENTO HABITACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0040"
+      ],
+      "pre_requisitos": [
+         "TAU0008 & FAU0114"
+      ]
+   },
+   {
+      "codigo": "TAU0013",
+      "nome": "PLANEJAMENTO URBANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0039"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0029",
+      "nome": "SEMIÓTICA DA  CULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0070"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0022",
+      "nome": "SINTAXE URBANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0064"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0030",
+      "nome": "TEORIAS ESTÉTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0071"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "TAU0019",
+      "nome": "TEORIA URBANO-REGIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0061"
+      ],
+      "pre_requisitos": [
+         "TAU0008 & PRO0020"
+      ]
+   },
+   {
+      "codigo": "TAU0031",
+      "nome": "URBANISMO E URBANIZAÇÃO NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0072"
+      ],
+      "pre_requisitos": [
+         "TAU0002"
+      ]
+   }
+]

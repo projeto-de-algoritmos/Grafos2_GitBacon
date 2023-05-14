@@ -1,0 +1,1537 @@
+[
+   {
+      "codigo": "FIL0063",
+      "nome": "ANTROPOLOGIA FILOSÓFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0101",
+         "FIL0260"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0129",
+      "nome": "DIALETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0298"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0073",
+      "nome": "DISSERTACAO FILOSOFICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0265"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0155",
+      "nome": "DISSERTACAO FILOSOFICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0112",
+         "FIL0317"
+      ],
+      "pre_requisitos": [
+         "FIL0049"
+      ]
+   },
+   {
+      "codigo": "FIL0112",
+      "nome": "DISSERTACAO FILOSOFICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0286"
+      ],
+      "pre_requisitos": [
+         "FIL0155"
+      ]
+   },
+   {
+      "codigo": "FIL0113",
+      "nome": "DISSERTACAO FILOSOFICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0287"
+      ],
+      "pre_requisitos": [
+         "FIL0112 & FIL0064 & FIL0063 & FIL0082"
+      ]
+   },
+   {
+      "codigo": "FIL0175",
+      "nome": "EPISTEMOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0007",
+         "FIL0009",
+         "FIL0021",
+         "FIL0096",
+         "FIL0195"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0087",
+      "nome": "EPISTEMOLOGIA DAS CIENCIAS HUMANAS E SOCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0008",
+         "FIL0214"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0004",
+      "nome": "ESTÁGIO PEDAGÓGICO SUPERVISIONADO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0168",
+         "FIL0208"
+      ],
+      "pre_requisitos": [
+         "FIL0177 & FIL0181 & FIL0175",
+         "FIL0179 & FIL0182",
+         "FIL0176",
+         "FIL0167"
+      ]
+   },
+   {
+      "codigo": "FIL0168",
+      "nome": "ESTÁGIO PEDAGÓGICO SUPERVISIONADO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0171",
+         "FIL0219"
+      ],
+      "pre_requisitos": [
+         "FIL0004"
+      ]
+   },
+   {
+      "codigo": "FIL0171",
+      "nome": "ESTÁGIO PEDAGÓGICO SUPERVISIONADO 3",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FIL0174",
+         "FIL0220"
+      ],
+      "pre_requisitos": [
+         "FIL0168",
+         "PAD0028",
+         "PED0058"
+      ]
+   },
+   {
+      "codigo": "FIL0174",
+      "nome": "ESTÁGIO PEDAGÓGICO SUPERVISIONADO 4",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FIL0221"
+      ],
+      "pre_requisitos": [
+         "FIL0171",
+         "FIL0163"
+      ]
+   },
+   {
+      "codigo": "FIL0163",
+      "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0174",
+         "FIL0324"
+      ],
+      "pre_requisitos": [
+         "FIL0049 & PED0058"
+      ]
+   },
+   {
+      "codigo": "FIL0164",
+      "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0325"
+      ],
+      "pre_requisitos": [
+         "FIL0163 & MTC0012 & TEF0011"
+      ]
+   },
+   {
+      "codigo": "FIL0075",
+      "nome": "ESTAGIO SUPERVISIONADO EM FILOSOFIA - DP",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FIL0266"
+      ],
+      "pre_requisitos": [
+         "FIL0049 & FIL0086"
+      ]
+   },
+   {
+      "codigo": "FIL0068",
+      "nome": "ESTÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0162",
+         "FIL0263"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0182",
+      "nome": "ESTÉTICA E FILOSOFIA DA ARTE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0162",
+         "FIL0200"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166 & FIL0165"
+      ]
+   },
+   {
+      "codigo": "FIL0064",
+      "nome": "ÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0120",
+         "FIL0261"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0184",
+      "nome": "ÉTICA E EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0340"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0167",
+      "nome": "ÉTICA FILOSÓFICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0004",
+         "FIL0120",
+         "FIL0194"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0029",
+      "nome": "EVOLUÇÃO DO PENSAMENTO FILOSÓFICO E CIENTÍFICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0250"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0132",
+      "nome": "EXISTENCIALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0215"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0125",
+      "nome": "FENOMENOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0296"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0014",
+      "nome": "FILOSOFIA AFRICANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0202"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0165"
+      ]
+   },
+   {
+      "codigo": "FIL0130",
+      "nome": "FILOSOFIA ANALITICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0299"
+      ],
+      "pre_requisitos": [
+         "FIL0056"
+      ]
+   },
+   {
+      "codigo": "FIL0180",
+      "nome": "FILOSOFIA ANTIGA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0089",
+         "FIL0177",
+         "FIL0198"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0003",
+      "nome": "FILOSOFIA CONTEMPORÂNEA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0025",
+         "FIL0187"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166 & FIL0181",
+         "FIL0044"
+      ]
+   },
+   {
+      "codigo": "FIL0124",
+      "nome": "FILOSOFIA DA ARTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0295"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0183",
+      "nome": "FILOSOFIA DA CIÊNCIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0097",
+         "FIL0201"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166 & FIL0175",
+         "FIL0179"
+      ]
+   },
+   {
+      "codigo": "FIL0065",
+      "nome": "FILOSOFIA DA HISTÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0160",
+         "FIL0262"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0086",
+      "nome": "FILOSOFIA DA LINGUAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0161",
+         "FIL0270"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0056"
+      ]
+   },
+   {
+      "codigo": "FIL0118",
+      "nome": "FILOSOFIA DA LOGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0018",
+         "FIL0019",
+         "FIL0020",
+         "FIL0206"
+      ],
+      "pre_requisitos": [
+         "FIL0056",
+         "FIL0179"
+      ]
+   },
+   {
+      "codigo": "FIL0020",
+      "nome": "FILOSOFIA DA MATEMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0241"
+      ],
+      "pre_requisitos": [
+         "FIL0179",
+         "FIL0118"
+      ]
+   },
+   {
+      "codigo": "FIL0152",
+      "nome": "FILOSOFIA DA MENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0191"
+      ],
+      "pre_requisitos": [
+         "FIL0044",
+         "CIC0182",
+         "PPB0046",
+         "FIL0181"
+      ]
+   },
+   {
+      "codigo": "FIL0185",
+      "nome": "FILOSOFIA DA MÚSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0207"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0141",
+      "nome": "FILOSOFIA DA NATUREZA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0306"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0009",
+      "nome": "FILOSOFIA DA PSICANÁLISE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0231"
+      ],
+      "pre_requisitos": [
+         "FIL0053",
+         "FIL0175"
+      ]
+   },
+   {
+      "codigo": "FIL0136",
+      "nome": "FILOSOFIA DA RELIGIÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0027",
+         "FIL0302"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0015",
+      "nome": "FILOSOFIA DO ENSINO DE FILOSOFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0016",
+      "nome": "FILOSOFIA E CRIANÇAS - UMA EDUCAÇÃO FILOSÓFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0189"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0017",
+      "nome": "FILOSOFIA E FEMINISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0210"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0013",
+      "nome": "FILOSOFIA FRANCESA CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0234"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0165",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0007",
+      "nome": "FILOSOFIA GERAL E METAFÍSICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0188"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166 & FIL0003",
+         "FIL0175",
+         "FIL0049"
+      ]
+   },
+   {
+      "codigo": "FIL0062",
+      "nome": "FILOSOFIA GERAL E PROBLEMAS METAFISICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0099",
+         "FIL0259"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0056"
+      ]
+   },
+   {
+      "codigo": "FIL0127",
+      "nome": "FILOSOFIA MARXISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0297"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0177",
+      "nome": "FILOSOFIA MEDIEVAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0090",
+         "FIL0222"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166 & FIL0034",
+         "FIL0180"
+      ]
+   },
+   {
+      "codigo": "FIL0181",
+      "nome": "FILOSOFIA MODERNA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0021",
+         "FIL0091",
+         "FIL0152",
+         "FIL0199"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0005",
+      "nome": "FILOSOFIA NA AMÉRICA LATINA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0209"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0026",
+      "nome": "FILOSOFIA ORIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0001",
+         "FIL0212"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069"
+      ]
+   },
+   {
+      "codigo": "FIL0176",
+      "nome": "FILOSOFIA POLÍTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0004",
+         "FIL0122",
+         "FIL0196"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105",
+         "FIL0166 & FIL0165"
+      ]
+   },
+   {
+      "codigo": "FIL0082",
+      "nome": "FILOSOFIA SOCIAL E POLITICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0122",
+         "FIL0269"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166"
+      ]
+   },
+   {
+      "codigo": "FIL0088",
+      "nome": "HERMENEUTICA FILOSOFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0272"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0107",
+      "nome": "HISTORIA DA CIENCIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0156",
+         "FIL0205"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0156",
+      "nome": "HISTORIA DA CIENCIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0318"
+      ],
+      "pre_requisitos": [
+         "FIL0107"
+      ]
+   },
+   {
+      "codigo": "FIL0034",
+      "nome": "HISTÓRIA DA FILOSOFIA ANTIGA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0039",
+         "FIL0044",
+         "FIL0049",
+         "FIL0089",
+         "FIL0114",
+         "FIL0251"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0114",
+      "nome": "HISTORIA DA FILOSOFIA ANTIGA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0288"
+      ],
+      "pre_requisitos": [
+         "FIL0034"
+      ]
+   },
+   {
+      "codigo": "FIL0049",
+      "nome": "HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0007",
+         "FIL0092",
+         "FIL0117",
+         "FIL0149",
+         "FIL0155",
+         "FIL0254"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0034"
+      ]
+   },
+   {
+      "codigo": "FIL0117",
+      "nome": "HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0291"
+      ],
+      "pre_requisitos": [
+         "FIL0049"
+      ]
+   },
+   {
+      "codigo": "FIL0039",
+      "nome": "HISTÓRIA DA FILOSOFIA MEDIEVAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0090",
+         "FIL0115",
+         "FIL0252"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0034"
+      ]
+   },
+   {
+      "codigo": "FIL0115",
+      "nome": "HISTORIA DA FILOSOFIA MEDIEVAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0289"
+      ],
+      "pre_requisitos": [
+         "FIL0039"
+      ]
+   },
+   {
+      "codigo": "FIL0044",
+      "nome": "HISTÓRIA DA FILOSOFIA MODERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0003",
+         "FIL0091",
+         "FIL0116",
+         "FIL0152",
+         "FIL0253"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0034"
+      ]
+   },
+   {
+      "codigo": "FIL0116",
+      "nome": "HISTORIA DA FILOSOFIA MODERNA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0290"
+      ],
+      "pre_requisitos": [
+         "FIL0044"
+      ]
+   },
+   {
+      "codigo": "FIL0050",
+      "nome": "HISTÓRIA DA FILOSOFIA NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0159",
+         "FIL0203"
+      ],
+      "pre_requisitos": [
+         "FIL0069",
+         "FIL0105"
+      ]
+   },
+   {
+      "codigo": "FIL0093",
+      "nome": "HISTÓRIA DA LÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0277"
+      ],
+      "pre_requisitos": [
+         "FIL0056"
+      ]
+   },
+   {
+      "codigo": "FIL0158",
+      "nome": "IDEIAS FILOSOFICAS EM FORMA LITERARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0319"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0077",
+      "nome": "INICIAÇÃO À METODOLOGIA CIENTÍFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAN0040",
+         "SER0096",
+         "FIL0267"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0105",
+      "nome": "INICIAÇÃO À PRÁTICA FILOSÓFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0003",
+         "FIL0007",
+         "FIL0025",
+         "FIL0026",
+         "FIL0039",
+         "FIL0044",
+         "FIL0049",
+         "FIL0050",
+         "FIL0053",
+         "FIL0059",
+         "FIL0062",
+         "FIL0063",
+         "FIL0064",
+         "FIL0065",
+         "FIL0068",
+         "FIL0082",
+         "FIL0086",
+         "FIL0087",
+         "FIL0088",
+         "FIL0107",
+         "FIL0124",
+         "FIL0125",
+         "FIL0127",
+         "FIL0129",
+         "FIL0132",
+         "FIL0136",
+         "FIL0141",
+         "FIL0167",
+         "FIL0175",
+         "FIL0176",
+         "FIL0177",
+         "FIL0181",
+         "FIL0182",
+         "FIL0183",
+         "FIL0283"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0069",
+      "nome": "INTRODUÇÃO À FILOSOFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0003",
+         "FIL0005",
+         "FIL0007",
+         "SOL0006",
+         "FIL0013",
+         "FIL0014",
+         "FIL0026",
+         "FIL0039",
+         "FIL0044",
+         "FIL0049",
+         "FIL0050",
+         "FIL0053",
+         "FIL0059",
+         "FIL0062",
+         "FIL0063",
+         "FIL0064",
+         "FIL0065",
+         "FIL0068",
+         "FIL0082",
+         "FIL0086",
+         "FIL0087",
+         "FIL0088",
+         "FIL0107",
+         "FIL0124",
+         "FIL0125",
+         "FIL0127",
+         "FIL0129",
+         "FIL0132",
+         "FIL0136",
+         "FIL0141",
+         "JOR0083",
+         "FIL0167",
+         "FIL0175",
+         "FIL0176",
+         "FIL0177",
+         "FIL0181",
+         "FIL0182",
+         "FIL0183",
+         "FIL0190"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0022",
+      "nome": "INTRODUÇÃO À FILOSOFIA EM LÍNGUA FRANCESA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0243"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0023",
+      "nome": "INTRODUÇÃO À FILOSOFIA EM LÍNGUA FRANCESA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0244"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0024",
+      "nome": "INTRODUÇÃO À FILOSOFIA EM LÍNGUA FRANCESA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0245"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0165",
+      "nome": "INTRODUÇÃO À HISTÓRIA DA FILOSOFIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0013",
+         "FIL0014",
+         "FIL0192"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0109",
+      "nome": "INTRODUCAO A LOGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0285"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0166",
+      "nome": "INTRODUÇÃO A PRÁTICA FILOSÓFICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0005",
+         "FIL0013",
+         "FIL0039",
+         "FIL0044",
+         "FIL0049",
+         "FIL0053",
+         "FIL0059",
+         "FIL0062",
+         "FIL0063",
+         "FIL0068",
+         "FIL0082",
+         "FIL0086",
+         "FIL0087",
+         "FIL0125",
+         "FIL0132",
+         "FIL0136",
+         "FIL0167",
+         "FIL0175",
+         "FIL0181",
+         "FIL0193"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0179",
+      "nome": "LÓGICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0018",
+         "FIL0019",
+         "FIL0020",
+         "FIL0079",
+         "FIL0094",
+         "FIL0118",
+         "FIL0122",
+         "FIL0183",
+         "FIL0197"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0056",
+      "nome": "LÓGICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CIC0134",
+         "CIC0183",
+         "FIL0053",
+         "FIL0059",
+         "FIL0062",
+         "FIL0079",
+         "FIL0086",
+         "FIL0093",
+         "FIL0094",
+         "FIL0118",
+         "FIL0130",
+         "FIL0257"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0079",
+      "nome": "LOGICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0268"
+      ],
+      "pre_requisitos": [
+         "FIL0056",
+         "FIL0179"
+      ]
+   },
+   {
+      "codigo": "FIL0018",
+      "nome": "LÓGICA MODAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0239"
+      ],
+      "pre_requisitos": [
+         "FIL0179",
+         "FIL0118"
+      ]
+   },
+   {
+      "codigo": "FIL0019",
+      "nome": "LÓGICAS NÃO-CLÁSSICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0240"
+      ],
+      "pre_requisitos": [
+         "FIL0179",
+         "FIL0118"
+      ]
+   },
+   {
+      "codigo": "FIL0149",
+      "nome": "METAFILOSOFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0313"
+      ],
+      "pre_requisitos": [
+         "FIL0049"
+      ]
+   },
+   {
+      "codigo": "FIL0010",
+      "nome": "METODOLOGIA DE ENSINO DE FILOSOFIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0134",
+      "nome": "MITO E FILOSOFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0216"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0028",
+      "nome": "MONOGRAFIA FILOSÓFICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FIL0213"
+      ],
+      "pre_requisitos": [
+         "FIL0025"
+      ]
+   },
+   {
+      "codigo": "FIL0012",
+      "nome": "PRÁTICAS PEDAGÓGICAS EM FILOSOFIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FIL0233"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0025",
+      "nome": "PROJETO DE MONOGRAFIA FILOSÓFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0028",
+         "FIL0211"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0166 & FIL0034",
+         "FIL0180 & FIL0039",
+         "FIL0177 & FIL0044",
+         "FIL0181 & FIL0049",
+         "FIL0003"
+      ]
+   },
+   {
+      "codigo": "FIL0150",
+      "nome": "SEMINARIO ESPECIAL DE FILOSOFIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0314"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0151",
+      "nome": "SEMINARIO ESPECIAL DE FILOSOFIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0315"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0021",
+      "nome": "TEORIA CRÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0242"
+      ],
+      "pre_requisitos": [
+         "FIL0175",
+         "FIL0181"
+      ]
+   },
+   {
+      "codigo": "FIL0059",
+      "nome": "TEORIA DA CIÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ICB0080",
+         "FIL0097",
+         "FIL0258"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0056"
+      ]
+   },
+   {
+      "codigo": "FIL0053",
+      "nome": "TEORIA DO CONHECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0009",
+         "FIL0096",
+         "FIL0256"
+      ],
+      "pre_requisitos": [
+         "FIL0105",
+         "FIL0069",
+         "FIL0166",
+         "FIL0056"
+      ]
+   },
+   {
+      "codigo": "FIL0006",
+      "nome": "TEORIAS DA INTERPRETAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0228"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0002",
+      "nome": "TEORIAS FILOSÓFICAS DA LINGUAGEM",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FIL0186"
+      ],
+      "pre_requisitos": [
+         "FIL0069 & FIL0175",
+         "FIL0105 & FIL0181",
+         "FIL0166 & FIL0044",
+         "FIL0069 & FIL0181",
+         "FIL0069 & FIL0044",
+         "FIL0105 & FIL0175",
+         "FIL0105 & FIL0044",
+         "FIL0166 & FIL0175",
+         "FIL0166 & FIL0181"
+      ]
+   },
+   {
+      "codigo": "FIL0142",
+      "nome": "TEXTOS FILOSÓFICOS GREGOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0143",
+         "FIL0307"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0143",
+      "nome": "TEXTOS FILOSÓFICOS GREGOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0144",
+         "FIL0308"
+      ],
+      "pre_requisitos": [
+         "FIL0142"
+      ]
+   },
+   {
+      "codigo": "FIL0144",
+      "nome": "TEXTOS FILOSÓFICOS GREGOS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0137",
+         "FIL0309"
+      ],
+      "pre_requisitos": [
+         "FIL0143"
+      ]
+   },
+   {
+      "codigo": "FIL0137",
+      "nome": "TEXTOS FILOSÓFICOS GREGOS 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0138",
+         "FIL0303"
+      ],
+      "pre_requisitos": [
+         "FIL0144"
+      ]
+   },
+   {
+      "codigo": "FIL0138",
+      "nome": "TEXTOS FILOSÓFICOS GREGOS 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0139",
+         "FIL0304"
+      ],
+      "pre_requisitos": [
+         "FIL0137"
+      ]
+   },
+   {
+      "codigo": "FIL0139",
+      "nome": "TEXTOS FILOSÓFICOS GREGOS 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0305"
+      ],
+      "pre_requisitos": [
+         "FIL0138"
+      ]
+   },
+   {
+      "codigo": "FIL0145",
+      "nome": "TEXTOS FILOSOFICOS LATINOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0217"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0146",
+      "nome": "TEXTOS FILOSOFICOS LATINOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0311"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0147",
+      "nome": "TEXTOS FILOSOFICOS LATINOS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0312"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FIL0101",
+      "nome": "TOPICOS ESPECIAIS DE ANTROPOLOGIA FILOSOFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0282"
+      ],
+      "pre_requisitos": [
+         "FIL0063"
+      ]
+   },
+   {
+      "codigo": "FIL0008",
+      "nome": "TÓPICOS ESPECIAIS DE EPISTEMOLOGIA DAS CIÊNCIAS HUMANAS E SOCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0230"
+      ],
+      "pre_requisitos": [
+         "FIL0087"
+      ]
+   },
+   {
+      "codigo": "FIL0162",
+      "nome": "TOPICOS ESPECIAIS DE ESTETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0323"
+      ],
+      "pre_requisitos": [
+         "FIL0068",
+         "FIL0182"
+      ]
+   },
+   {
+      "codigo": "FIL0120",
+      "nome": "TOPICOS ESPECIAIS DE ETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0293"
+      ],
+      "pre_requisitos": [
+         "FIL0167",
+         "FIL0064"
+      ]
+   },
+   {
+      "codigo": "FIL0160",
+      "nome": "TOPICOS ESPECIAIS DE FILOSOFIA DA HISTORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0321"
+      ],
+      "pre_requisitos": [
+         "FIL0065"
+      ]
+   },
+   {
+      "codigo": "FIL0161",
+      "nome": "TOPICOS ESPECIAIS DE FILOSOFIA DA LINGUAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0218"
+      ],
+      "pre_requisitos": [
+         "FIL0086"
+      ]
+   },
+   {
+      "codigo": "FIL0027",
+      "nome": "TÓPICOS ESPECIAIS DE FILOSOFIA DA RELIGIÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0248"
+      ],
+      "pre_requisitos": [
+         "FIL0136"
+      ]
+   },
+   {
+      "codigo": "FIL0099",
+      "nome": "TOPICOS ESPECIAIS DE FILOSOFIA GERAL E PROBLEMAS METAFISICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0281"
+      ],
+      "pre_requisitos": [
+         "FIL0062"
+      ]
+   },
+   {
+      "codigo": "FIL0122",
+      "nome": "TOPICOS ESPECIAIS DE FILOSOFIA SOCIAL E POLITICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0294"
+      ],
+      "pre_requisitos": [
+         "FIL0082",
+         "FIL0179",
+         "FIL0176"
+      ]
+   },
+   {
+      "codigo": "FIL0089",
+      "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA ANTIGA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0273"
+      ],
+      "pre_requisitos": [
+         "FIL0034",
+         "FIL0180"
+      ]
+   },
+   {
+      "codigo": "FIL0092",
+      "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA CONTEMPORANEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0204"
+      ],
+      "pre_requisitos": [
+         "FIL0049"
+      ]
+   },
+   {
+      "codigo": "FIL0090",
+      "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA MEDIEVAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0274"
+      ],
+      "pre_requisitos": [
+         "FIL0039",
+         "FIL0177"
+      ]
+   },
+   {
+      "codigo": "FIL0091",
+      "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA MODERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0275"
+      ],
+      "pre_requisitos": [
+         "FIL0044",
+         "FIL0181"
+      ]
+   },
+   {
+      "codigo": "FIL0159",
+      "nome": "TOPICOS ESPECIAIS DE HISTORIA DA FILOSOFIA NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0320"
+      ],
+      "pre_requisitos": [
+         "FIL0050"
+      ]
+   },
+   {
+      "codigo": "FIL0094",
+      "nome": "TÓPICOS ESPECIAIS DE LÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0278"
+      ],
+      "pre_requisitos": [
+         "FIL0056",
+         "FIL0179"
+      ]
+   },
+   {
+      "codigo": "FIL0097",
+      "nome": "TOPICOS ESPECIAIS DE TEORIA DA CIENCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0280"
+      ],
+      "pre_requisitos": [
+         "FIL0059",
+         "FIL0183"
+      ]
+   },
+   {
+      "codigo": "FIL0096",
+      "nome": "TOPICOS ESPECIAIS DE TEORIA DO CONHECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0279"
+      ],
+      "pre_requisitos": [
+         "FIL0053",
+         "FIL0175"
+      ]
+   },
+   {
+      "codigo": "FIL0001",
+      "nome": "TÓPICOS ESPECIAIS EM FILOSOFIA ORIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FIL0223"
+      ],
+      "pre_requisitos": [
+         "FIL0026"
+      ]
+   }
+]

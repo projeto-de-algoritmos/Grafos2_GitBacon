@@ -1,0 +1,1103 @@
+[
+   {
+      "codigo": "MAT0034",
+      "nome": "ALGEBRA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0040",
+         "CIC0161",
+         "MAT0378"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0040",
+      "nome": "ALGEBRA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0107",
+         "MAT0437"
+      ],
+      "pre_requisitos": [
+         "MAT0034"
+      ]
+   },
+   {
+      "codigo": "MAT0107",
+      "nome": "ALGEBRA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0398"
+      ],
+      "pre_requisitos": [
+         "MAT0040"
+      ]
+   },
+   {
+      "codigo": "MAT0039",
+      "nome": "ALGEBRA LINEAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IFD0023",
+         "MAT0054",
+         "MAT0390"
+      ],
+      "pre_requisitos": [
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "MAT0061",
+      "nome": "ALGEBRA PARA ENSINO  1 E 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0449"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & MAT0031",
+         "MAT0026 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "MAT0122",
+      "nome": "ÁLGEBRA PARA O ENSINO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0401"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & MAT0031",
+         "MAT0026 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "MAT0134",
+      "nome": "ÁLGEBRA PARA O ENSINO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0405"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0045",
+      "nome": "ANALISE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0046",
+         "MAT0391"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "MAT0046",
+      "nome": "ANALISE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0106",
+         "MAT0392"
+      ],
+      "pre_requisitos": [
+         "MAT0045"
+      ]
+   },
+   {
+      "codigo": "MAT0106",
+      "nome": "ANALISE 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0397"
+      ],
+      "pre_requisitos": [
+         "MAT0046"
+      ]
+   },
+   {
+      "codigo": "MAT0082",
+      "nome": "ANALISE COMBINATORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0463"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0006",
+      "nome": "ANÁLISE COMBINATÓRIA PARA CÁLCULO DE PROBASBILIDADES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0412"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0078",
+      "nome": "ANALISE DE ALGORITMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0460"
+      ],
+      "pre_requisitos": [
+         "MAT0025 & CIC0007",
+         "MAT0025 & CIC0088"
+      ]
+   },
+   {
+      "codigo": "MAT0057",
+      "nome": "ANALISE NUMERICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0446"
+      ],
+      "pre_requisitos": [
+         "MAT0053"
+      ]
+   },
+   {
+      "codigo": "MAT0025",
+      "nome": "CÁLCULO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IFD0012",
+         "IGD0108",
+         "MAT0026",
+         "MAT0039",
+         "EST0023",
+         "EST0027",
+         "EST0061",
+         "IQD0184",
+         "IFD0340",
+         "IFD0420",
+         "FGA0126",
+         "JOR0083",
+         "ENC0113",
+         "ADM0192",
+         "FGA0157",
+         "MAT0138",
+         "ECO0272",
+         "IQD0295",
+         "FAV0349",
+         "MAT0373"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0137",
+      "nome": "CÁLCULO 1 - SEMIPRESENCIAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IFD0340",
+         "MAT0138",
+         "MAT0497"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0026",
+      "nome": "CÁLCULO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0002",
+         "FGA0033",
+         "FGA0034",
+         "IGD0138",
+         "MAT0027",
+         "MAT0045",
+         "MAT0048",
+         "MAT0053",
+         "IQD0161",
+         "MAT0111",
+         "FGA0067",
+         "FGA0069",
+         "IQD0214",
+         "IQD0266",
+         "ENM0088",
+         "FGA0160",
+         "FGA0196",
+         "MAT0374"
+      ],
+      "pre_requisitos": [
+         "MAT0025",
+         "MAT0024"
+      ]
+   },
+   {
+      "codigo": "MAT0138",
+      "nome": "CÁLCULO 2 - SEMIPRESENCIAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0498"
+      ],
+      "pre_requisitos": [
+         "MAT0025",
+         "MAT0137"
+      ]
+   },
+   {
+      "codigo": "MAT0027",
+      "nome": "CÁLCULO 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0005",
+         "MAT0028",
+         "MAT0047",
+         "MAT0059",
+         "MAT0072",
+         "MAT0120",
+         "FGA0062",
+         "IFD0198",
+         "IFD0252",
+         "ENM0017",
+         "ENE0177",
+         "ENM0089",
+         "ENM0184",
+         "FGA0187",
+         "ENC0274",
+         "ENC0275",
+         "MAT0375"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "MAT0075",
+      "nome": "CALCULO DE PROBABILIDADE 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0084",
+         "MAT0382"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0076",
+      "nome": "CALCULO DE PROBABILIDADE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0048",
+         "MAT0383"
+      ],
+      "pre_requisitos": [
+         "MAT0075 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "MAT0012",
+      "nome": "CÁLCULO DE VARIAS VARIÁVEIS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0418"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0001",
+      "nome": "CALCULO DIFERENCIAL DE UMA VARIÁVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0407"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0007",
+      "nome": "CÁLCULO INTEGRAL DE UMA VARIÁVEL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0413"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0053",
+      "nome": "CALCULO NUMERICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0057",
+         "ENM0005",
+         "MAT0393"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "MAT0048",
+      "nome": "EQUACOES DIFERENCIAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0002",
+         "FGA0034",
+         "IFD0198",
+         "FGA0067",
+         "FGA0069",
+         "ENM0088",
+         "ENM0089",
+         "FGA0196",
+         "MAT0442"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "MAT0005",
+      "nome": "ESTÁGIO DE DOCÊNCIA 1",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "MAT0411"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0013",
+      "nome": "ESTÁGIO DE DOCÊNCIA 2",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "MAT0419"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0091",
+      "nome": "ESTAGIO DE PESQUISA BIBLIOGRAFICA SOBRE ENSINO DE MATEMATICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0468"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0094",
+      "nome": "ESTAGIO DE REDACAO SOBRE ENSINO DE MATEMATICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0469"
+      ],
+      "pre_requisitos": [
+         "MAT0089 & MAT0091"
+      ]
+   },
+   {
+      "codigo": "MAT0089",
+      "nome": "ESTAGIO EM LABORATORIO DE ENSINO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0467"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0108",
+      "nome": "ESTAGIO EM LABORATORIO DE ENSINO DE MATEMATICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0480"
+      ],
+      "pre_requisitos": [
+         "MAT0111"
+      ]
+   },
+   {
+      "codigo": "MAT0115",
+      "nome": "ESTAGIO ESPECIAL DE ENSINO E REGENCIA EM MATEMATICA",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "MAT0483"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & MAT0061 & MAT0114",
+         "MTC0143 & MAT0061 & MAT0114"
+      ]
+   },
+   {
+      "codigo": "MAT0097",
+      "nome": "ESTAGIO SUPERVISIONADO DE REGENCIA EM MATEMATICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0470"
+      ],
+      "pre_requisitos": [
+         "MAT0108 & MAT0061 & MAT0114 & MTC0012",
+         "MAT0091 & MAT0089 & MAT0094 & MAT0061 & MAT0114 & MTC0012",
+         "MAT0108 & MAT0061 & MAT0114 & MTC0143",
+         "MAT0108 & MAT0122 & MAT0134 & MAT0114 & MTC0012"
+      ]
+   },
+   {
+      "codigo": "MAT0063",
+      "nome": "ESTAGIO SUPERVISIONADO MATEMATICA - DP",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MAT0451"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & MAT0061 & MAT0062"
+      ]
+   },
+   {
+      "codigo": "MAT0015",
+      "nome": "FUNDAMENTOS DE ÁLGEBRA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0421"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0008",
+      "nome": "FUNDAMENTOS DE ÁLGEBRA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0414"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0103",
+      "nome": "FUNDAMENTOS GEOMETRICOS DA RELATIVIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0476"
+      ],
+      "pre_requisitos": [
+         "MAT0048 & MAT0031",
+         "MAT0048 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "MAT0072",
+      "nome": "FUNDAMENTOS MATEMATICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0456"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "MAT0085",
+      "nome": "GEOMETRIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0114",
+         "MAT0465"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0111",
+      "nome": "GEOMETRIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0108",
+         "MAT0114",
+         "MAT0129",
+         "MAT0399"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & MAT0031",
+         "MAT0026 & MAT0039",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "MAT0114",
+      "nome": "GEOMETRIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0131",
+         "MAT0385"
+      ],
+      "pre_requisitos": [
+         "MAT0085",
+         "MAT0111"
+      ]
+   },
+   {
+      "codigo": "MAT0003",
+      "nome": "GEOMETRIA ANALÍTICA E VETORES",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0409"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0010",
+      "nome": "GEOMETRIA ANALÍTICA PARA MATEMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0371"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0050",
+      "nome": "GEOMETRIA DIFERENCIAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0381"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "MAT0014",
+      "nome": "GEOMETRIA ESPACIAL",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0420"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0062",
+      "nome": "GEOMETRIA PARA ENSINO DO 1 E 2 GRAUS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0450"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0129",
+      "nome": "GEOMETRIA PARA O ENSINO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0403"
+      ],
+      "pre_requisitos": [
+         "MAT0111"
+      ]
+   },
+   {
+      "codigo": "MAT0131",
+      "nome": "GEOMETRIA PARA O ENSINO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0404"
+      ],
+      "pre_requisitos": [
+         "MAT0114"
+      ]
+   },
+   {
+      "codigo": "MAT0004",
+      "nome": "GEOMETRIA PLANA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0410"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0016",
+      "nome": "GEOMETRIA PLANA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0422"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0060",
+      "nome": "HISTORIA DA MATEMATICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0448"
+      ],
+      "pre_requisitos": [
+         "MAT0027",
+         "MAT0045  &  MAT0038",
+         "MAT0034"
+      ]
+   },
+   {
+      "codigo": "MAT0142",
+      "nome": "INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0502"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0143",
+      "nome": "INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0503"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0144",
+      "nome": "INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 3",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0504"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0031",
+      "nome": "INTRODUCAO A ALGEBRA LINEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0138",
+         "MAT0054",
+         "FGA0071",
+         "FGA0073",
+         "MAT0377"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0077",
+      "nome": "INTRODUCAO A AUTOMATOS PROBABILISTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0459"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0105",
+      "nome": "INTRODUCAO A COMPUTACAO ALGEBRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0477"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0031",
+         "MAT0027 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "MAT0071",
+      "nome": "INTRODUCAO A MATEMATICA SUPERIOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAV0349",
+         "MAT0455"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0041",
+      "nome": "INTRODUCAO A OTIMIZACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0438"
+      ],
+      "pre_requisitos": [
+         "MAT0039 & MAT0027",
+         "MAT0027 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "MAT0054",
+      "nome": "INTRODUCAO A PROGRAMACAO LINEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0098",
+         "MAT0100",
+         "MAT0445"
+      ],
+      "pre_requisitos": [
+         "MAT0031",
+         "MAT0039"
+      ]
+   },
+   {
+      "codigo": "MAT0099",
+      "nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS PARCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0472"
+      ],
+      "pre_requisitos": [
+         "MAT0059"
+      ]
+   },
+   {
+      "codigo": "MAT0017",
+      "nome": "INTRODUÇÃO ÀS PROBABILIDADES DISCRETAS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0423"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0120",
+      "nome": "INTRODUÇÃO À TEORIA DE MEDIDA E INTEGRAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0487"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "MAT0080",
+      "nome": "INTRODUCAO A TEORIA DOS GRAFOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0384"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0011",
+      "nome": "LABORATÓRIO DE ENSINO DE MATEMÁTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0417"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0081",
+      "nome": "LINGUAGENS FORMAIS E AUTOMATOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CIC0010",
+         "MAT0462"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0119",
+      "nome": "LÓGICA MATEMÁTICA E COMPUTACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0486"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0022",
+      "nome": "MATEMATICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0023",
+         "EST0023",
+         "EST0027",
+         "IFD0340",
+         "FAU0183",
+         "ADM0192",
+         "ECO0272",
+         "IQD0295",
+         "FUP0546",
+         "FAV0349",
+         "MAT0372"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0023",
+      "nome": "MATEMATICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0214",
+         "MAT0389"
+      ],
+      "pre_requisitos": [
+         "MAT0022"
+      ]
+   },
+   {
+      "codigo": "MAT0059",
+      "nome": "METODOS MATEMÁTICOS DA FÍSICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IFD0023",
+         "CIC0114",
+         "MAT0099",
+         "IFD0254",
+         "MAT0394"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "MAT0102",
+      "nome": "METODOS MATEMATICOS DA FISICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0387"
+      ],
+      "pre_requisitos": [
+         "MAT0059 & MAT0028"
+      ]
+   },
+   {
+      "codigo": "MAT0083",
+      "nome": "METODOS PROBABILISTICOS OPERACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0464"
+      ],
+      "pre_requisitos": [
+         "MAT0039 & MAT0075"
+      ]
+   },
+   {
+      "codigo": "MAT0101",
+      "nome": "OTIMIZACAO DE SISTEMAS DE GRANDE PORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0474"
+      ],
+      "pre_requisitos": [
+         "MAT0100"
+      ]
+   },
+   {
+      "codigo": "MAT0139",
+      "nome": "PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0499"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0140",
+      "nome": "PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0500"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0141",
+      "nome": "PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0501"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0098",
+      "nome": "PROGRAMACAO INTEIRA E DINAMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0471"
+      ],
+      "pre_requisitos": [
+         "MAT0054"
+      ]
+   },
+   {
+      "codigo": "MAT0132",
+      "nome": "PROGRAMAÇÃO MATEMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0494"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0100",
+      "nome": "PROGRAMACAO NAO LINEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0101",
+         "MAT0473"
+      ],
+      "pre_requisitos": [
+         "MAT0054"
+      ]
+   },
+   {
+      "codigo": "MAT0136",
+      "nome": "REGÊNCIA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MAT0406"
+      ],
+      "pre_requisitos": [
+         "MAT0122 & MAT0129",
+         "MAT0062 & MAT0108"
+      ]
+   },
+   {
+      "codigo": "MAT0124",
+      "nome": "REGÊNCIA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "MAT0402"
+      ],
+      "pre_requisitos": [
+         "MAT0134 & MAT0131"
+      ]
+   },
+   {
+      "codigo": "MAT0068",
+      "nome": "SEMINÁRIO DE TÓPICOS EM ÁLGEBRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0453"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0066",
+      "nome": "SEMINÁRIO DE TÓPICOS EM ANÁLISE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0395"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0069",
+      "nome": "SEMINARIO DE TOPICOS EM GEOMETRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0454"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0117",
+      "nome": "SEMINÁRIO DE TÓPICOS EM MATEMÁTICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0400"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0087",
+      "nome": "SEMINARIO TOPICOS ESPECIAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "MAT0396"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0038",
+      "nome": "TEORIA DOS NÚMEROS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CIC0161",
+         "MAT0379"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0118",
+      "nome": "TEORIA DOS NÚMEROS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0485"
+      ],
+      "pre_requisitos": [
+         "MAT0038 & MAT0026"
+      ]
+   },
+   {
+      "codigo": "MAT0019",
+      "nome": "TÓPICOS DE ÁLGEBRA LINEAR",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "MAT0425"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0002",
+      "nome": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0388"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0018",
+      "nome": "TÓPICOS DE GEOMETRIA ANALÍTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0424"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0009",
+      "nome": "TÓPICOS EM GEOMETRIA ANALÍTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0415"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0047",
+      "nome": "TOPOLOGIA DOS ESPACOS METRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0380"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "MAT0020",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MAT0426"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "MAT0125",
+      "nome": "TRABALHO FINAL 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0126",
+         "MAT0490"
+      ],
+      "pre_requisitos": [
+         "MAT0129 & MAT0122"
+      ]
+   },
+   {
+      "codigo": "MAT0126",
+      "nome": "TRABALHO FINAL 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "MAT0491"
+      ],
+      "pre_requisitos": [
+         "MAT0125"
+      ]
+   },
+   {
+      "codigo": "MAT0028",
+      "nome": "VARIAVEL COMPLEXA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "MAT0376"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   }
+]

@@ -1,0 +1,803 @@
+[
+   {
+      "codigo": "POL0030",
+      "nome": "ANÁLISE POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0129"
+      ],
+      "pre_requisitos": [
+         "POL0032 & POL0013"
+      ]
+   },
+   {
+      "codigo": "POL0082",
+      "nome": "ATIVIDADE DE EXTENSÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0083",
+         "POL0151"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0083",
+      "nome": "ATIVIDADE DE EXTENSÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0219"
+      ],
+      "pre_requisitos": [
+         "POL0082"
+      ]
+   },
+   {
+      "codigo": "POL0040",
+      "nome": "AVALIAÇÃO DE POLÍTICAS GOVERNAMENTAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0189"
+      ],
+      "pre_requisitos": [
+         "POL0011 & POL0055"
+      ]
+   },
+   {
+      "codigo": "POL0022",
+      "nome": "COMPORTAMENTO POLÍTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0178"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0015",
+      "nome": "ELITES POLÍTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0139"
+      ],
+      "pre_requisitos": [
+         "POL0012"
+      ]
+   },
+   {
+      "codigo": "POL0051",
+      "nome": "ESTADO E DESENVOLVIMENTO NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0142"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0075",
+      "nome": "ESTADO E TEORIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0211"
+      ],
+      "pre_requisitos": [
+         "POL0012"
+      ]
+   },
+   {
+      "codigo": "POL0119",
+      "nome": "ESTADO, GOVERNO E POLÍTICAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0158"
+      ],
+      "pre_requisitos": [
+         "POL0055"
+      ]
+   },
+   {
+      "codigo": "POL0045",
+      "nome": "ESTÁGIO EM CIÊNCIA POLÍTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "POL0146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0047",
+      "nome": "ESTRUTURA DO PODER NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0193"
+      ],
+      "pre_requisitos": [
+         "POL0011 & POL0017"
+      ]
+   },
+   {
+      "codigo": "POL0003",
+      "nome": "ESTUDOS LEGISLATIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0164"
+      ],
+      "pre_requisitos": [
+         "POL0013"
+      ]
+   },
+   {
+      "codigo": "POL0118",
+      "nome": "ÉTICA E POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0157"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0055",
+      "nome": "FUNDAMENTOS DE POLÍTICAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0060",
+         "POL0070",
+         "POL0119",
+         "GPP0042",
+         "POL0121",
+         "POL0135"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0007",
+      "nome": "GÊNERO E POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0122"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0121",
+      "nome": "GOVERNO ELETRÔNICO E POLÍTICAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0230"
+      ],
+      "pre_requisitos": [
+         "POL0055"
+      ]
+   },
+   {
+      "codigo": "POL0010",
+      "nome": "HISTÓRIA SOCIAL E POLÍTICA LATINO-AMERICANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0170"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0002",
+      "nome": "IDENTIDADE NACIONAL E NACIONALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0163"
+      ],
+      "pre_requisitos": [
+         "POL0011 & POL0012"
+      ]
+   },
+   {
+      "codigo": "POL0028",
+      "nome": "INFORMÁTICA EM CIÊNCIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0180"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0011",
+      "nome": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "SOL0006",
+         "POL0005",
+         "POL0006",
+         "POL0007",
+         "POL0008",
+         "POL0009",
+         "JOR0083",
+         "POL0012",
+         "POL0017",
+         "POL0019",
+         "POL0022",
+         "POL0033",
+         "POL0035",
+         "POL0037",
+         "POL0038",
+         "POL0042",
+         "POL0046",
+         "POL0049",
+         "POL0050",
+         "POL0051",
+         "IRI0111",
+         "POL0055",
+         "POL0068",
+         "POL0077",
+         "POL0082",
+         "POL0084",
+         "POL0117",
+         "POL0118",
+         "CDS0012",
+         "POL0123",
+         "POL0162"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0038",
+      "nome": "LEGISLAÇÃO E PROCESSO POLÍTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "essencial para a devida compreensão do Legislativo e de seu papel, incluindo a relação com os demais poderes da República.",
+         "",
+         "Cargas Horárias  Aula",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "60h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade presencial, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "60h",
+         "Carga Horária de Aula Teórica",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Prática",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de ensino",
+         "0h",
+         "Carga Horária de Aula Extensionista",
+         "Tempo estimado a ser cumprido pelo professor e pelo estudante exclusivamente em atividades de extensão, na modalidade a distância, assumindo este último o papel de executor da ação.",
+         "0h",
+         "Subtotal de Carga Horária de Aula",
+         "Subtotal do conjunto de cargas",
+         "0h",
+         "Total de Carga Horária de Aula do Componente",
+         "Total do conjunto de cargas",
+         "60h",
+         "Total de Carga Horária do Componente",
+         "Total do conjunto de cargas horárias do componente cumpridas nas modalidades presencial e a distância.",
+         "60h"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0080",
+      "nome": "MÉTODOS QUANTITATIVOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0150"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0081",
+      "nome": "MÉTODOS QUANTITATIVOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0217"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0117",
+      "nome": "MÉTODOS QUANTITATIVOS APLICADOS ÀS POLÍTICAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0029",
+         "POL0156"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0026",
+      "nome": "MONOGRAFIA EM CIÊNCIA POLÍTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "POL0144"
+      ],
+      "pre_requisitos": [
+         "POL0029"
+      ]
+   },
+   {
+      "codigo": "POL0086",
+      "nome": "MONOGRAFIA EM CIÊNCIA POLÍTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0154"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0049",
+      "nome": "MUDANÇA POLÍTICA NA AMÉRICA DO SUL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0134"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0050",
+      "nome": "MUDANÇA POLÍTICA NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0196"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0087",
+      "nome": "PARTICIPAÇÃO POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0223"
+      ],
+      "pre_requisitos": [
+         "POL0013"
+      ]
+   },
+   {
+      "codigo": "POL0037",
+      "nome": "PARTIDOS POLÍTICOS E SISTEMAS ELEITORAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0132"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0036",
+      "nome": "PENSAMENTO POLÍTICO LATINO-AMERICANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0145"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0009",
+      "nome": "PENSAMENTO POLÍTICO NEGRO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0169"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0046",
+      "nome": "PENSAMENTO POLÍTICO NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0133"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0084",
+      "nome": "PESQUISA EM CIÊNCIA POLÍTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0085",
+         "POL0152"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0085",
+      "nome": "PESQUISA EM CIÊNCIA POLÍTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0153"
+      ],
+      "pre_requisitos": [
+         "POL0084",
+         "POL0161"
+      ]
+   },
+   {
+      "codigo": "POL0068",
+      "nome": "PESQUISA EM COMPORTAMENTO POLÍTICO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0205"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0110",
+      "nome": "PESQUISA EM COMPORTAMENTO POLÍTICO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0225"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0111",
+      "nome": "PESQUISA EM COMPORTAMENTO POLÍTICO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0226"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0070",
+      "nome": "PESQUISA EM POLÍTICA PÚBLICA E GOVERNABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0206"
+      ],
+      "pre_requisitos": [
+         "POL0055"
+      ]
+   },
+   {
+      "codigo": "POL0017",
+      "nome": "POLÍTICA BRASILEIRA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0032",
+         "POL0126"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0032",
+      "nome": "POLÍTICA BRASILEIRA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0130"
+      ],
+      "pre_requisitos": [
+         "POL0017"
+      ]
+   },
+   {
+      "codigo": "POL0006",
+      "nome": "POLÍTICA E ANTIRRACISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0166"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0048",
+      "nome": "POLÍTICA E ECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0147"
+      ],
+      "pre_requisitos": [
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "POL0053",
+      "nome": "POLÍTICA E ECONOMIA MUNDIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0148"
+      ],
+      "pre_requisitos": [
+         "POL0011 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "POL0076",
+      "nome": "POLÍTICA E FILOSOFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0212"
+      ],
+      "pre_requisitos": [
+         "POL0011 & POL0012"
+      ]
+   },
+   {
+      "codigo": "POL0073",
+      "nome": "POLÍTICA E IDEOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0209"
+      ],
+      "pre_requisitos": [
+         "POL0011 & SOL0042"
+      ]
+   },
+   {
+      "codigo": "POL0077",
+      "nome": "POLÍTICA E MÍDIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0213"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0042",
+      "nome": "POLÍTICA E MOVIMENTOS SOCIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0141"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0019",
+      "nome": "POLÍTICA E SOCIOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0140"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0072",
+      "nome": "POLÍTICA E TEORIA SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0208"
+      ],
+      "pre_requisitos": [
+         "POL0011 & SOL0042"
+      ]
+   },
+   {
+      "codigo": "POL0035",
+      "nome": "POLÍTICA REGIONAL AFRICANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0185"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0060",
+      "nome": "POLÍTICAS PÚBLICAS E TEORIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0202"
+      ],
+      "pre_requisitos": [
+         "POL0055"
+      ]
+   },
+   {
+      "codigo": "POL0005",
+      "nome": "PRÁTICA DE ENSINO EM INTRODUÇÃO À CIÊNCIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0143"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0074",
+      "nome": "REPRESENTAÇÃO POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0210"
+      ],
+      "pre_requisitos": [
+         "POL0013"
+      ]
+   },
+   {
+      "codigo": "POL0079",
+      "nome": "SEMINÁRIO DE CONJUNTURA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0215"
+      ],
+      "pre_requisitos": [
+         "POL0030 & POL0032"
+      ]
+   },
+   {
+      "codigo": "POL0052",
+      "nome": "SEMINÁRIO SOBRE O BRASIL CONTEMPORÂNEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0198"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0029",
+      "nome": "TÉCNICAS DE PESQUISA EM CIÊNCIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0026",
+         "POL0128",
+         "POL0159"
+      ],
+      "pre_requisitos": [
+         "POL0013 & EST0019",
+         "POL0117"
+      ]
+   },
+   {
+      "codigo": "POL0071",
+      "nome": "TEORIA DA DEMOCRACIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0207"
+      ],
+      "pre_requisitos": [
+         "POL0013"
+      ]
+   },
+   {
+      "codigo": "POL0078",
+      "nome": "TEORIA DA ESCOLHA PÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0214"
+      ],
+      "pre_requisitos": [
+         "POL0011 & ECO0019"
+      ]
+   },
+   {
+      "codigo": "POL0059",
+      "nome": "TEORIA E MÉTODOS MARXISTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0201"
+      ],
+      "pre_requisitos": [
+         "POL0012"
+      ]
+   },
+   {
+      "codigo": "POL0033",
+      "nome": "TEORIA POLÍTICA CLÁSSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0131"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0013",
+      "nome": "TEORIA POLÍTICA CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0003",
+         "POL0071",
+         "POL0074",
+         "POL0087",
+         "POL0125"
+      ],
+      "pre_requisitos": [
+         "POL0011 & POL0012"
+      ]
+   },
+   {
+      "codigo": "POL0008",
+      "nome": "TEORIA POLÍTICA FEMINISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0138"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0012",
+      "nome": "TEORIA POLÍTICA MODERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "SOL0064",
+         "POL0015",
+         "POL0059",
+         "POL0075",
+         "POL0124"
+      ],
+      "pre_requisitos": [
+         "POL0011"
+      ]
+   },
+   {
+      "codigo": "POL0021",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIA POLÍTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0127"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0062",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIA POLÍTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0065",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIA POLÍTICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "POL0088",
+      "nome": "TÓPICOS ESPECIAIS EM CIÊNCIA POLÍTICA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "POL0155"
+      ],
+      "pre_requisitos": []
+   }
+]

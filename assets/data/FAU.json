@@ -1,0 +1,324 @@
+[
+   {
+      "codigo": "FAU0120",
+      "nome": "CONFORTO AMBIENTAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAU0343"
+      ],
+      "pre_requisitos": [
+         "MAT0025 & FAU0109",
+         "MAT0022 & FAU0109"
+      ]
+   },
+   {
+      "codigo": "FAU0177",
+      "nome": "CONFORTO AMBIENTAL LUMINOSO E ACUSTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0352"
+      ],
+      "pre_requisitos": [
+         "TEC0017"
+      ]
+   },
+   {
+      "codigo": "FAU0229",
+      "nome": "ESTAGIOS SUPERVISIONADOS DE PROJETOS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAU0360"
+      ],
+      "pre_requisitos": [
+         "PRO0007"
+      ]
+   },
+   {
+      "codigo": "FAU0146",
+      "nome": "ESTRUTURAS ARQUITETONICAS 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAU0147",
+         "FAU0348"
+      ],
+      "pre_requisitos": [
+         "MAT0025 & FAU0109",
+         "MAT0022 & FAU0109"
+      ]
+   },
+   {
+      "codigo": "FAU0147",
+      "nome": "ESTRUTURAS ARQUITETONICAS 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "TEC0010",
+         "FAU0349"
+      ],
+      "pre_requisitos": [
+         "FAU0146"
+      ]
+   },
+   {
+      "codigo": "FAU0001",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FAU0336"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0002",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FAU0337"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0238",
+      "nome": "ESTUDOS ESPECIAIS DE URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0362"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0236",
+      "nome": "ESTUDOS ESPECIAIS EM TECNOLOGIA DO URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0361"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0133",
+      "nome": "EXPRESSAO E REPRESENTACAO DE PROJETO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0134",
+         "PRO0036",
+         "FAU0344"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0134",
+      "nome": "EXPRESSAO E REPRESENTACAO DE PROJETO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0345"
+      ],
+      "pre_requisitos": [
+         "FAU0133"
+      ]
+   },
+   {
+      "codigo": "FAU0173",
+      "nome": "INSTALACOES E EQUIPAMENTOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0350"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0174",
+      "nome": "INSTALACOES E EQUIPAMENTOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0351"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0242",
+      "nome": "LEGISLACAO URBANISTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0364"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0240",
+      "nome": "METODOS E TECNICAS EM PLANEJAMENTO URBANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0363"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAU0183",
+      "nome": "METODOS MATEMATICOS E ESTATISTICOS APLICADOS A ARRQUITERUA E URBANISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0353"
+      ],
+      "pre_requisitos": [
+         "MAT0022"
+      ]
+   },
+   {
+      "codigo": "FAU0221",
+      "nome": "PLANEJAMENTO URBANO E REGIONAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0223",
+         "FAU0357"
+      ],
+      "pre_requisitos": [
+         "TAU0002"
+      ]
+   },
+   {
+      "codigo": "FAU0223",
+      "nome": "PLANEJAMENTO URBANO E REGIONAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0358"
+      ],
+      "pre_requisitos": [
+         "FAU0221"
+      ]
+   },
+   {
+      "codigo": "FAU0201",
+      "nome": "PROJETO DE ARQUITETURA-FORMA E SIGNIFICADO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAU0354"
+      ],
+      "pre_requisitos": [
+         "PRO0017",
+         "FAU0111"
+      ]
+   },
+   {
+      "codigo": "FAU0109",
+      "nome": "PROJETO DE EDIFICACAO E URBANISMO 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "FAU0110",
+         "FAU0140",
+         "FAU0338"
+      ],
+      "pre_requisitos": [
+         "TAU0002 & VIS0063"
+      ]
+   },
+   {
+      "codigo": "FAU0110",
+      "nome": "PROJETO DE EDIFICACAO E URBANISMO 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "FAU0111",
+         "FAU0339"
+      ],
+      "pre_requisitos": [
+         "FAU0109"
+      ]
+   },
+   {
+      "codigo": "FAU0111",
+      "nome": "PROJETO DE EDIFICACAO E URBANISMO 3",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "TAU0003",
+         "TEC0008",
+         "FAU0201",
+         "FAU0216",
+         "FAU0340"
+      ],
+      "pre_requisitos": [
+         "FAU0110"
+      ]
+   },
+   {
+      "codigo": "FAU0216",
+      "nome": "PROJETO DE EDIFICACAO E URBANISMO 4",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FAU0218",
+         "FAU0355"
+      ],
+      "pre_requisitos": [
+         "FAU0111"
+      ]
+   },
+   {
+      "codigo": "FAU0218",
+      "nome": "PROJETO DE EDIFICACAO E URBANISMO 5",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "PRO0041",
+         "PRO0043",
+         "FAU0356"
+      ],
+      "pre_requisitos": [
+         "FAU0216"
+      ]
+   },
+   {
+      "codigo": "FAU0140",
+      "nome": "SISTEMAS CONSTRUTIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0346"
+      ],
+      "pre_requisitos": [
+         "FAU0109"
+      ]
+   },
+   {
+      "codigo": "FAU0113",
+      "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0341"
+      ],
+      "pre_requisitos": [
+         "TAU0002"
+      ]
+   },
+   {
+      "codigo": "FAU0225",
+      "nome": "TEORIA E HISTÓRIA DA ARQUITETURA E URBANISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "TAU0010",
+         "FAU0359"
+      ],
+      "pre_requisitos": [
+         "TAU0002"
+      ]
+   },
+   {
+      "codigo": "FAU0114",
+      "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0144",
+         "TAU0015",
+         "FAU0342"
+      ],
+      "pre_requisitos": [
+         "TAU0002"
+      ]
+   },
+   {
+      "codigo": "FAU0144",
+      "nome": "TEORIA E HISTORIA DA ARQUITETURA E URBANISMO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAU0347"
+      ],
+      "pre_requisitos": [
+         "FAU0114"
+      ]
+   }
+]
