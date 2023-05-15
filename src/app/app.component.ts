@@ -30,6 +30,15 @@ export class AppComponent implements OnInit {
   public showSearch = false;
   public disableComponentImput = true;
 
+  // @TODO: remover
+  private componentTest = {
+    codigo: "FGA0030",
+    nome: "ESTRUTURAS DE DADOS 2",
+    carga_horaria: 60,
+    eh_requisito_de: ["FGA0452"],
+    pre_requisitos: ["FGA0147"],
+  } as SigaaComponent;
+
   public form: FormGroup;
 
   constructor(
@@ -38,11 +47,15 @@ export class AppComponent implements OnInit {
     private sigaaService: SigaaService
   ) {
     this.form = this.formBuilder.group({
+      // @TODO: remover
       componentSource: [
-        null,
+        this.componentTest,
         { disabled: true, validators: [Validators.required] },
       ],
-      departmentSource: [null, { validators: [Validators.required] }],
+      departmentSource: [
+        this.componentTest.codigo.substring(0, 3),
+        { validators: [Validators.required] },
+      ],
     });
   }
 
