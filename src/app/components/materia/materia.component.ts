@@ -1,4 +1,4 @@
-import { Component, Input } from "@angular/core";
+import { Component, Input, OnChanges, SimpleChanges } from "@angular/core";
 import { SigaaComponent } from "../../model/sigaaComponent";
 
 @Component({
@@ -6,15 +6,20 @@ import { SigaaComponent } from "../../model/sigaaComponent";
   templateUrl: "./materia.component.html",
   styleUrls: ["./materia.component.scss"],
 })
-export class MateriaComponent {
+export class MateriaComponent implements OnChanges {
   @Input() public component?: SigaaComponent;
 
-  @Input() public isSmall: boolean = false;
-  @Input() public showArrow: boolean = false;
-
-  public parseArray(array: string[]) {
-    return array.reduce(
+  get parsedRequirements() {
+    return this.component?.pre_requisitos?.reduce(
       (currentValue, component) => `${currentValue}<br/>${component}`
     );
   }
+
+  get parsedPostRequirements() {
+    return this.component?.eh_requisito_de?.reduce(
+      (currentValue, component) => `${currentValue}<br/>${component}`
+    );
+  }
+
+  ngOnChanges(changes: SimpleChanges): void {}
 }

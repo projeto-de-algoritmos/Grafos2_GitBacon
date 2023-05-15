@@ -6,17 +6,20 @@
     <tr *ngIf="component.carga_horaria">
       <td>Carga Horária</td>
       <td>
-        {{ component.carga_horaria }}h (00{{ component.carga_horaria / 15 }})
+        {{ component.carga_horaria }}h ({{
+        (component.carga_horaria / 15).toLocaleString("pt-BR", {
+        minimumIntegerDigits: 3
+        })
+        }})
       </td>
     </tr>
     <tr *ngIf="component.pre_requisitos">
       <td>Pré-requisitos</td>
-      <td [innerHTML]="parseArray(component.pre_requisitos!)"></td>
+      <td [innerHTML]="parsedRequirements"></td>
     </tr>
     <tr *ngIf="component.eh_requisito_de">
       <td>É requisito de</td>
-      <td [innerHTML]="parseArray(component.eh_requisito_de!)"></td>
+      <td [innerHTML]="parsedPostRequirements"></td>
     </tr>
   </table>
-  <div *ngIf="!component"></div>
 </div>

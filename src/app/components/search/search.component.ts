@@ -15,7 +15,9 @@ export class SearchComponent implements OnChanges {
 
   public messages: string[] = [];
   public path: SigaaComponent[] = [];
+  public distance!: number;
 
+  public showResults = false;
   private departments = new Map<string, Map<string, SigaaComponent>>();
 
   public constructor(private service: SigaaService) {}
@@ -23,8 +25,18 @@ export class SearchComponent implements OnChanges {
   msg(...data: any[]) {
     this.messages.push(`<p>${data.toString()}</p>`);
   }
-  public getLastMessages(qtd: number) {
+
+  public getLastMessages(qtd?: number) {
+    if (qtd) return this.formatArray(this.messages, qtd);
     return this.messages;
+  }
+
+  private formatArray(array: any[], qtd = 7): any[] {
+    if (array.length > qtd) {
+      const start = array.length - qtd + 1;
+      return [array[0], array[1], ".", ".", ".", ...array.slice(start)];
+    }
+    return array;
   }
 
   private async loadDepartmentsFromRequirements(requirements: string[]) {
@@ -34,8 +46,6 @@ export class SearchComponent implements OnChanges {
 
     for (let dep of deps) {
       if (!this.departments.has(dep)) {
-        this.msg(`Loading components from department: ${dep}...`);
-
         let componentsSet = new Map<string, SigaaComponent>();
         for (let d of await this.service.getPromiseFromDepartment(dep))
           componentsSet.set(d.codigo, d);
@@ -47,13 +57,24 @@ export class SearchComponent implements OnChanges {
 
   public ngOnChanges(): void {
     this.dijkstra(this.componentSource!);
-    // this.start();
   }
 
   private async dijkstra(start: SigaaComponent) {
+    const logVisit = (x: Candidate) => {
+      this.msg(
+        `>>> ${this.formatName(x.node)} (distance = ${x.distance}h [${(
+          x.distance / 15
+        ).toLocaleString("pt-BR", {
+          minimumIntegerDigits: 3,
+        })} Credits])`
+      );
+    };
+
     let requirements = start.pre_requisitos;
     this.msg(
-      `Starting search for component: (${start.codigo}) ${start.nome}<br/>Requirements: ${requirements}`
+      `>> Starting search for component: ${this.formatName(
+        start
+      )}. [Requirements: ${requirements}]`
     );
 
     const distances: Map<string, number> = new Map();
@@ -65,6 +86,7 @@ export class SearchComponent implements OnChanges {
 
     while (candidates.getMin() !== null) {
       const currentNode = candidates.pop()!;
+      logVisit(currentNode);
       cut.add(currentNode);
       await this.loadDepartmentsFromRequirements(
         currentNode.node.pre_requisitos
@@ -72,18 +94,30 @@ export class SearchComponent implements OnChanges {
       let requirements: (SigaaComponent | null | undefined)[] =
         currentNode.node.pre_requisitos.map((el) => {
           if (el.indexOf("&") != -1) {
-            this.msg(
-              `Search for simultaneous requirements aren't implemented yet. (${el}) :(`
-            );
+            // this.msg(
+            //   `Search for simultaneous requirements isn't implemented yet. (${el}) :(`
+            // );
             return null;
           } else return this.getComponent(el);
         });
 
       if (requirements.length == 0) {
-        const p = this.formatPath(currentNode);
-        this.msg(p.map((e) => e.nome));
-        return p;
+        this.path = this.formatPath(currentNode);
+        this.distance = currentNode.distance;
+        this.msg(
+          `Found path with ${this.path.length} components: [${this.path.map(
+            (e) => ` ${e.codigo}`
+          )} ]`
+        );
+        this.showResults = true;
+
+        break;
       }
+      this.msg(
+        `>>>> Requirements: ${currentNode.node.codigo}: [${requirements.map(
+          (el) => (el ? `${this.formatName(el, true)}` : null)
+        )}]`
+      );
 
       for (const v of requirements) {
         if (v) {
@@ -92,7 +126,7 @@ export class SearchComponent implements OnChanges {
             distance: currentNode.distance + v!.carga_horaria,
             source: currentNode,
           };
-          console.log(x);
+
           if (
             !distances.has(x.node.codigo) ||
             distances.get(x.node.codigo)! > x.distance
@@ -102,12 +136,7 @@ export class SearchComponent implements OnChanges {
           candidates.insert(x);
         }
       }
-
-      console.log(requirements);
-      console.log(currentNode);
-      cut.add(currentNode);
     }
-    return [];
   }
 
   // PRIVATE AUXILIARY FUNCTIONS
@@ -122,10 +151,10 @@ export class SearchComponent implements OnChanges {
     return path;
   }
 
-  private formatName(component: SigaaComponent) {
+  public formatName(component: SigaaComponent, showCargaHoraria = false) {
     return `(${component.codigo}) ${new TitleCasePipe().transform(
       component.nome
-    )}`;
+    )} ${showCargaHoraria ? `(${component.carga_horaria}h)` : ""}`;
   }
 
   private getDepartamentFromCodigo(codigo: string) {

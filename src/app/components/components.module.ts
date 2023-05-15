@@ -16,6 +16,12 @@ import { SearchComponent } from "./search/search.component";
 @NgModule({
   declarations: [InfoComponentComponent, MateriaComponent, SearchComponent],
   exports: [InfoComponentComponent, MateriaComponent, SearchComponent],
-  imports: [CommonModule, MatExpansionModule],
+  imports: [
+    CommonModule,
+    MatExpansionModule,
+    MatChipsModule,
+    MatIconModule,
+    MatButtonModule,
+  ],
 })
 export class ComponentsModule {}

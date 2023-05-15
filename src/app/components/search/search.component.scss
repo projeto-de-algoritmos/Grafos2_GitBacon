@@ -1,13 +1,20 @@
 .terminal {
-    background-color: black;
-    color: greenyellow;
-    font-family: monospace;
-    max-height: 300px;
-    box-shadow: 0 0 10px #868585;
-    border: #4b4949 solid thin;
-    border-radius: 3vh;
-  }
-  
-  mat-chip {
-    font-size: 3vh;
-  }
+  background-color: black;
+  color: greenyellow;
+  font-family: monospace;
+  max-height: 600px;
+  box-shadow: 0 0 10px #868585;
+  border: #4b4949 solid thin;
+  border-radius: 3vh;
+}
+
+.purple {
+  background: rgba(115, 33, 178, 0.4);
+}
+
+.rounded-text {
+  border-radius: 1vw 1vw 1vw 1vw;
+  font-size: medium;
+  padding: 0.5vw;
+  margin: 0.5vw 0.5vw 0.5vw 0.5vw;
+}

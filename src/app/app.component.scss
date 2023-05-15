@@ -17,8 +17,9 @@ mat-card {
 mat-drawer-container {
   min-height: 100vh;
   max-height: 100%;
-  
 }
-.red {
-  background-color: red;
+
+.disabled {
+  pointer-events: none;
+  touch-action: none;
 }

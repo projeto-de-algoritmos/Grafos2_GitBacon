@@ -1,26 +1,36 @@
 <div class="d-flex row justify-content-center col-12 m-0 p-0">
   <div class="terminal col-10 m-2 p-2">
-    <div *ngFor="let message of getLastMessages(3)" [innerHTML]="message"></div>
+    <div *ngFor="let message of getLastMessages(50)" [innerHTML]="message">
+
+    </div>
   </div>
 </div>
-<!-- 
+
 <div *ngIf="showResults && path" class="d-flex row col-12 m-0 p-0">
-  <div class="row d-flex justify-content-center col-12 p-0 m-0 py-2">
-    <mat-chip color="primary">
-      A menor distância entre as matérias {{ componentA?.nome }} e
-      {{ componentB?.nome }} é de {{ distance ? distance : "∞" }} (em
-      {{ maxLevel }} níveis de separação).
-    </mat-chip>
-  </div>
-  <div
-    class="d-flex row col-12 m-0 p-0 pb-2 justify-content-center"
-    *ngIf="distance"
-  >
-    <div *ngFor="let c of path.slice(0, path.length - 1)" class="pr-2">
-      <app-materia [component]="c" [isSmall]="true" [showArrow]="true" />
+  <div class="d-flex row justify-content-center col-12 p-0 m-0 py-2">
+    <div class="rounded-text purple">
+      <b>A menor distância até a matéria {{ componentSource?.nome }} é de
+        {{ distance }}h ({{
+        (distance / 15).toLocaleString("pt-BR", {
+        minimumIntegerDigits: 3
+        })
+        }}).</b>
     </div>
-    <div class="d-flex justify-content-center">
-      <app-materia [component]="path[path.length - 1]" [isSmall]="true" />
+    <div class="col-12">
+      <div *ngFor="let c of path" class="d-flex row col-12 justify-content-center p-0 m-0">
+        <div class="rounded-text purple justify-content-center">
+          {{ formatName(c) }} - {{ c.carga_horaria }}h ({{
+          (c.carga_horaria / 15).toLocaleString("pt-BR", {
+          minimumIntegerDigits: 3
+          })
+          }})
+        </div>
+        <div class="col-12 d-flex justify-content-center">
+          <button disabled *ngIf="path.indexOf(c) != path.length - 1" mat-mini-fab class="purple">
+            <mat-icon> arrow_downward</mat-icon>
+          </button>
+        </div>
+      </div>
     </div>
   </div>
-</div> -->
+</div>

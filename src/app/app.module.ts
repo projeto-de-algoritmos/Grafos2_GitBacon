@@ -42,6 +42,7 @@ import { MatSnackBarModule } from "@angular/material/snack-bar";
     MatAutocompleteModule,
     MatIconModule,
     MatCommonModule,
+    MatTooltipModule,
   ],
   providers: [HttpClient],
   bootstrap: [AppComponent],

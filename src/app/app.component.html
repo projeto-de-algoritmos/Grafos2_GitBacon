@@ -2,21 +2,12 @@
   <mat-toolbar>
     <mat-toolbar-row class="d-flex row">
       <div class="ml-3" (click)="drawer.toggle()" style="cursor: pointer">
-        <img
-          src="https://sigaa.unb.br/sigaa/img/sigaa.ico"
-          class="rounded-circle"
-          alt="Logo do site"
-        />
+        <img src="https://sigaa.unb.br/sigaa/img/sigaa.ico" class="rounded-circle" alt="Logo do site" />
       </div>
       <div class="ml-3">SIGAARush</div>
       <span class="spacer"> </span>
       <div class="col-2 d-flex justify-content-end">
-        <button
-          mat-mini-fab
-          matTooltip="Visualizar informações"
-          class="mr-2"
-          (click)="drawer.toggle()"
-        >
+        <button mat-mini-fab matTooltip="Visualizar informações" class="mr-2" (click)="drawer.toggle()">
           <mat-icon>info</mat-icon>
         </button>
         <a href="https://github.com/projeto-de-algoritmos/Grafos2_SIGAARush">
@@ -36,88 +27,51 @@
     <mat-card-title>
       <div class="col-12 py-2 text-center py-1">
         Busque a ligação com menor carga horária até uma matéria da UnB
+
+        <mat-icon matTooltip="A busca não leva em consideração requisitos simultâneos, devido a sua dificuldade de implementação na estrutura de
+        grafos.">
+          info
+        </mat-icon>
       </div>
     </mat-card-title>
     <div>
       <mat-card-content class="d-flex row col-12 m-0 p-0">
         <div class="row col-12 d-flex justify-content-center m-0 p-0 py-2">
           <div class="col-5 d-flex justify-content-center">
-            <app-materia [component]="componentSource"></app-materia>
+            <app-materia [component]="form.get(lblComponentA)?.value"></app-materia>
           </div>
         </div>
-        <form
-          class="row col-12 m-0 p-0 py-2 d-flex justify-content-center"
-          [formGroup]="form"
-          *ngIf="form"
-        >
+        <form class="row col-12 m-0 p-0 py-2 d-flex justify-content-center" [formGroup]="form" *ngIf="form">
           <div class="col-4 d-flex justify-content-end">
-            <mat-spinner
-              style="max-width: 5vw; max-height: 5vh"
-              *ngIf="loadingDpt"
-            />
+            <mat-spinner style="max-width: 5vw; max-height: 5vh" *ngIf="loadingDpt" />
 
-            <mat-form-field
-              *ngIf="!loadingDpt"
-              appearance="outline"
-              [hideRequiredMarker]="false"
-            >
+            <mat-form-field [ngClass]="showSearch ? 'disabled': '' " *ngIf="!loadingDpt" appearance="outline"
+              [hideRequiredMarker]="false">
               <mat-label> Departamento</mat-label>
-              <mat-select
-                required
-                (selectionChange)="handleSelection(lblComponentA)"
-                [formControlName]="lblDepartment"
-              >
-                <mat-option *ngFor="let d of departments" [value]="d">{{
-                  d
-                }}</mat-option>
+              <mat-select required (selectionChange)="handleSelection(lblComponentA)" [formControlName]="lblDepartment">
+                <mat-option *ngFor="let d of departments | async" [value]="d.replace('.json', '')">{{ d.replace(".json",
+                  "") }}</mat-option>
               </mat-select>
             </mat-form-field>
           </div>
           <div class="col-4 d-flex justify-content-start">
-            <mat-spinner
-              style="max-width: 5vw; max-height: 5vh"
-              *ngIf="loadingComp"
-            />
+            <mat-spinner style="max-width: 5vw; max-height: 5vh" *ngIf="loadingComp" />
 
-            <mat-form-field
-              appearance="outline"
-              class="w-100 justify-content-center"
-              *ngIf="!loadingComp"
-            >
+            <mat-form-field appearance="outline" class="w-100 justify-content-center" *ngIf="!loadingComp">
               <mat-label> Matéria de destino (nome ou código)</mat-label>
-              <input
-                type="text"
-                matInput
-                required
-                [formControlName]="lblComponentA"
-                [matAutocomplete]="auto"
-              />
+              <input [readonly]="showSearch" [ngClass]="showSearch ? 'disabled' : '' " type="text" matInput required
+                [formControlName]="lblComponentA" [matAutocomplete]="auto">
               <mat-autocomplete #auto [displayWith]="displayFunction">
                 <mat-option *ngFor="let c of componentsListSource" [value]="c">
                   {{ c.codigo }} - {{ c.nome | titlecase }}
-                </mat-option>
+                </mat-option>f
               </mat-autocomplete>
+
             </mat-form-field>
           </div>
-          <div
-            class="col-1 d-flex justify-content-start align-content-start pt-2"
-          >
+          <div class="col-1 d-flex justify-content-start align-content-start pt-2">
             <div>
-              <button
-                mat-mini-fab
-                color="warn"
-                (click)="stop()"
-                *ngIf="showSearch"
-              >
-                <mat-icon>stop</mat-icon>
-              </button>
-              <button
-                mat-mini-fab
-                color="primary"
-                [disabled]="!form.valid"
-                (click)="showSearch = !showSearch"
-                *ngIf="!showSearch"
-              >
+              <button mat-mini-fab color="primary" [disabled]="isButtonEnabled" (click)="enableSearch()">
                 <mat-icon>search</mat-icon>
               </button>
             </div>
@@ -125,9 +79,11 @@
         </form>
       </mat-card-content>
     </div>
+
+
     <div class="d-flex col-12 m-0 p-0">
       <mat-card-content *ngIf="showSearch" class="m-0 p-0 w-100">
-        <app-search [componentSource]="componentSource"></app-search>
+        <app-search [componentSource]="form.get(lblComponentA)?.value"></app-search>
       </mat-card-content>
     </div>
   </mat-card>
