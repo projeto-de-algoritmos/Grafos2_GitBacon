@@ -42,72 +42,86 @@ export class SearchComponent implements OnChanges {
   }
 
   public ngOnChanges(): void {
-    this.start();
+    this.dijkstra(this.componentSource!);
+    // this.start();
   }
 
-  public async start() {
-    try {
-      if (!this.componentSource) return;
-      let currNode: SigaaComponent = this.componentSource;
+  private async dijkstra(start: SigaaComponent) {
+    let requirements = start.pre_requisitos;
+    this.msg(
+      `Starting search for component: (${start.codigo}) ${start.nome}<br/>Requirements: ${requirements}`
+    );
 
-      let mancha = new Map<string, Candidato>();
-      let candidatos = new Heap();
+    await this.loadDepartmentsFromRequirements(requirements);
 
-      let requirements = currNode.pre_requisitos;
+    const distances: Map<string, number> = new Map();
+    const cut: Set<Candidate> = new Set();
+    const candidates = new MinHeap();
 
-      this.msg(
-        `Starting search for component: (${currNode.codigo}) ${currNode.nome}<br/>Requirements: ${requirements}`
-      );
+    distances.set(start.codigo, 0);
+    candidates.insert({ node: start, distance: 0, source: null });
 
-      await this.loadDepartmentsFromRequirements(requirements);
+    while (candidates.getMin() !== null) {
+      const currentNode = candidates.pop()!;
+      cut.add(currentNode);
+      let requirements: (SigaaComponent | null | undefined)[] =
+        currentNode.node.pre_requisitos.map((el) => {
+          if (el.indexOf("&") != -1) {
+            this.msg(
+              `Ainda não implementada a busca em requisitos simultâneos... (${el}) :(`
+            );
+            return null;
+          } else return this.getComponent(el);
+        });
 
-      let currCandidate: Candidato = {
-        node: currNode,
-        distance: 0,
-        source: currNode,
-      };
-
-      mancha.set(currNode.codigo, currCandidate);
-
-      for (let r of requirements) {
-        if (r.indexOf("&") != -1) return;
-        let c = this.getComponent(r)!;
-        let dest: Candidato = {
-          node: c,
-          distance: currCandidate.distance + c.carga_horaria,
-          source: currCandidate.node,
-        };
-        this.msg(
-          `Visiting component ${this.formatName(dest.node)} (d=${
-            dest.distance
-          })`
-        );
+      if (requirements.length == 0) {
+        console.log(currentNode);
+        const p = this.formatPath(currentNode);
+        this.msg(p.map((e) => e.nome));
+        return p;
       }
-      //   if (
-      //     !mancha.has(c.codigo) ||
-      //     dest.distance < mancha.get(c.codigo)!.distance
-      //   )
-      //     mancha.set(c.codigo, dest);
 
-      //   console.log(dest);
-      //   candidatos.insert(dest);
-      // }
-      console.log(candidatos);
-    } catch (e) {
-      console.log(e);
+      for (const v of requirements) {
+        if (v) {
+          let x: Candidate = {
+            node: v,
+            distance: currentNode.distance + v!.carga_horaria,
+            source: currentNode,
+          };
+          console.log(x);
+          if (
+            !distances.has(x.node.codigo) ||
+            distances.get(x.node.codigo)! > x.distance
+          )
+            distances.set(x.node.codigo, x.distance);
+
+          candidates.insert(x);
+        }
+      }
+
+      console.log(requirements);
+      console.log(currentNode);
+      cut.add(currentNode);
     }
+    return [];
   }
 
   // PRIVATE AUXILIARY FUNCTIONS
+
+  private formatPath(c: Candidate) {
+    let current: Candidate | null = c;
+    let path: SigaaComponent[] = [];
+    while (current != null) {
+      path.push(current.node);
+      current = current.source;
+    }
+    return path;
+  }
 
   private formatName(component: SigaaComponent) {
     return `(${component.codigo}) ${new TitleCasePipe().transform(
       component.nome
     )}`;
-  }
-
-  private getDepartmentFromComponent(component: SigaaComponent) {
-    return component.codigo.substring(0, 3);
   }
 
   private getDepartamentFromCodigo(codigo: string) {
@@ -119,108 +133,79 @@ export class SearchComponent implements OnChanges {
     return this.departments.get(dep)!.get(codigo);
   }
 
-  private getPrerequisitos(codigo: string) {
-    this.getComponent(codigo)?.pre_requisitos;
-  }
-
-  private getComponentsFromDepartment(dep: string) {}
-
   // ALGORITHM
 }
 
-class Edge {
-  public nextNode: SigaaComponent;
-  public weight: number;
-  constructor(nextNode: SigaaComponent, weight: number) {
-    this.nextNode = nextNode;
-    this.weight = weight;
-  }
-}
-
-class Graph {
-  public adjacencyList = new Map<SigaaComponent, Edge[]>();
-
-  constructor() {}
-
-  addNode(n: SigaaComponent) {
-    this.adjacencyList.set(n, []);
-  }
-
-  addEdge(startNode: SigaaComponent, nextNode: SigaaComponent, weight: number) {
-    let newEdge = new Edge(nextNode, weight);
-    if (!this.adjacencyList.has(startNode)) this.addNode(startNode);
-    if (!this.adjacencyList.has(nextNode)) this.addNode(nextNode);
-    this.adjacencyList.get(startNode)!.push(newEdge);
-  }
-
-  getNodes() {
-    return this.adjacencyList.keys();
-  }
-}
-
-type Candidato = {
+type Candidate = {
   node: SigaaComponent;
   distance: number;
-  source: SigaaComponent;
+  source: Candidate | null;
 };
 
-class Heap {
-  heap: Candidato[] = [];
-
-  lastposition = 1;
+class MinHeap {
+  private heap: Candidate[];
 
   constructor() {
-    this.heap.push();
+    this.heap = [];
   }
 
-  insert(s: Candidato) {
-    this.heap[this.lastposition] = s;
-    this.shiftUp(this.lastposition++);
-  }
-
-  private swap(indexA: number, indexB: number) {
-    const temp = this.heap[indexA];
-    this.heap[indexA] = this.heap[indexB];
-    this.heap[indexB] = temp;
-  }
-
-  private shiftUp(index: number) {
-    const pai = this.getPai(index);
-    while (pai > 0) {
-      if (this.heap[index].distance < this.heap[pai].distance)
-        this.swap(index, pai);
-      index = pai;
+  public getMin(): Candidate | null {
+    if (this.heap.length === 0) {
+      return null;
     }
+    return this.heap[0];
+  }
+  public pop(): Candidate {
+    this.swap(0, this.heap.length - 1);
+    const v = this.heap.pop()!;
+    this.bubbleDown(0);
+    return v;
   }
 
-  private heapify(index: number) {
-    const left = this.heap[this.getLeftChild(index)];
-    const right = this.heap[this.getRightChild(index)];
-    const value = this.heap[index];
-    while (
-      this.getLeftChild(index) <= this.lastposition &&
-      this.getRightChild(index) <= this.lastposition
+  private bubbleDown(index: number): void {
+    const leftChildIndex = 2 * index + 1;
+    const rightChildIndex = 2 * index + 2;
+    let smallestIndex = index;
+
+    if (
+      leftChildIndex < this.heap.length &&
+      this.heap[leftChildIndex].distance < this.heap[smallestIndex].distance
     ) {
-      if (left < value && left <= right)
-        this.swap(this.getLeftChild(index), index);
-      if (right < value && right <= left)
-        this.swap(this.getRightChild(index), index);
+      smallestIndex = leftChildIndex;
+    }
+
+    if (
+      rightChildIndex < this.heap.length &&
+      this.heap[rightChildIndex].distance < this.heap[smallestIndex].distance
+    ) {
+      smallestIndex = rightChildIndex;
+    }
+
+    if (smallestIndex !== index) {
+      this.swap(index, smallestIndex);
+      this.bubbleDown(smallestIndex);
     }
   }
 
-  public getMin() {
-    this.swap(1, this.lastposition);
+  public insert(value: Candidate): void {
+    this.heap.push(value);
+    this.bubbleUp(this.heap.length - 1);
   }
 
-  private getPai(index: number) {
-    return Math.floor(index / 2);
+  private bubbleUp(index: number): void {
+    const parentIndex = Math.floor((index - 1) / 2);
+    if (
+      parentIndex >= 0 &&
+      this.heap[parentIndex].distance > this.heap[index].distance
+    ) {
+      this.swap(parentIndex, index);
+      this.bubbleUp(parentIndex);
+    }
   }
 
-  private getLeftChild(index: number) {
-    return 2 * index;
-  }
-
-  private getRightChild(index: number) {
-    return 2 * index + 1;
+  private swap(index1: number, index2: number): void {
+    const temp = this.heap[index1];
+    this.heap[index1] = this.heap[index2];
+    this.heap[index2] = temp;
   }
 }

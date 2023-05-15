@@ -1,9 +1,7 @@
-<div class="d-flex row col-12 m-0 p-0">
-  <div class="col-1"></div>
+<div class="d-flex row justify-content-center col-12 m-0 p-0">
   <div class="terminal col-10 m-2 p-2">
     <div *ngFor="let message of getLastMessages(3)" [innerHTML]="message"></div>
   </div>
-  <div class="col-1"></div>
 </div>
 <!-- 
 <div *ngIf="showResults && path" class="d-flex row col-12 m-0 p-0">

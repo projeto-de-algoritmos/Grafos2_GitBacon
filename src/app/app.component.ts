@@ -16,29 +16,19 @@ export class AppComponent implements OnInit {
   @ViewChild(SearchComponent) searchComponent!: SearchComponent;
 
   public loadingDpt = true;
+  public loadingComp = false;
 
   public components: SigaaComponent[] = [];
   public departments: string[] = [];
 
   public lblComponentA = "componentSource";
-  public lblComponentB = "componentTarget";
-
+  public lblDepartment = "departmentSource";
   public departmentA?: string;
-  public departmentB?: string;
 
   public componentsListSource: SigaaComponent[] = [];
-  public componentsListTarget: SigaaComponent[] = [];
 
-  // @TODO:!!!!!!!!!!!! MUDAR PARA FALSE!!!!!!!!!!!!!!!
-  public showSearch = true;
-
-  public compTeste = {
-    codigo: "FGA0158",
-    nome: "ORIENTAÇÃO A OBJETOS",
-    carga_horaria: 60,
-    eh_requisito_de: ["FGA0138", "FGA0171", "FGA0413"],
-    pre_requisitos: ["CIC0004", "CIC0007"],
-  } as SigaaComponent;
+  public showSearch = false;
+  public disableComponentImput = true;
 
   public form: FormGroup;
 
@@ -49,13 +39,10 @@ export class AppComponent implements OnInit {
   ) {
     this.form = this.formBuilder.group({
       componentSource: [
-        this.compTeste,
+        null,
         { disabled: true, validators: [Validators.required] },
       ],
-      componentTarget: [
-        this.compTeste,
-        { disabled: true, validators: [Validators.required] },
-      ],
+      departmentSource: [null, { validators: [Validators.required] }],
     });
   }
 
@@ -63,7 +50,22 @@ export class AppComponent implements OnInit {
     this.departments = (await this.sigaaService.getDepartments()).map((el) =>
       el.replace(".json", "")
     );
+
     this.loadingDpt = false;
+
+    this.form
+      .get(this.lblDepartment)
+      ?.statusChanges.subscribe(async (status) => {
+        if (status == "VALID") {
+          this.loadingComp = true;
+          let dep = this.form.get(this.lblDepartment)?.value!;
+          this.componentsListSource =
+            await this.sigaaService.getPromiseFromDepartment(dep);
+
+          this.loadingComp = false;
+          this.form.get(this.lblComponentA)?.enable;
+        }
+      });
   }
 
   public displayFunction(component: any) {
@@ -82,19 +84,20 @@ export class AppComponent implements OnInit {
     }
   }
 
+  public async getComponents() {
+    return await this.sigaaService.getPromiseFromDepartment(
+      this.form.get(this.lblDepartment)?.value
+    );
+  }
+
   get componentSource() {
     return this.form?.get(this.lblComponentA)?.value;
   }
 
   public validate(variableName: string) {
-    if (variableName == this.lblComponentA) {
-      return (
-        this.departmentA != undefined && this.componentsListSource.length > 0
-      );
-    } else
-      return (
-        this.departmentB != undefined && this.componentsListTarget.length > 0
-      );
+    return (
+      this.departmentA != undefined && this.componentsListSource.length > 0
+    );
   }
 
   public stop() {
@@ -108,6 +111,4 @@ export class AppComponent implements OnInit {
     const message = `${emoji} ${msg}`;
     this.snackBar.open(message, "Fechar", { duration: 2000 });
   }
-
-  protected readonly localStorage = localStorage;
 }

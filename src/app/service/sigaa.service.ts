@@ -1,7 +1,6 @@
-import { Injectable, OnInit } from "@angular/core";
+import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 import { SigaaComponent } from "../model/sigaaComponent";
-import { Observable, of, Subject, take } from "rxjs";
 
 @Injectable({
   providedIn: "root",
