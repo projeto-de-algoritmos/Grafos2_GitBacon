@@ -87,6 +87,6 @@ A busca por requisitos simultâneos (por exemplo: FAC -> PED1 & TED1) não foi i
 ## Referências
 
 [1] Tracing the Path in DFS, BFS, and Dijkstra’s Algorithm - Baeldung. Disponível no [link](https://www.baeldung.com/cs/dfs-vs-bfs-vs-dijkstra&#41), acesso em 20/04/2023.<br>
-[2] Algoritmo de Dijkstra para caminho barato num grafo com custos positivos. Ime.usp.br. Disponível [link](https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/dijkstra.html). Acesso em: 12/05/2023.
+[2] Algoritmo de Dijkstra para caminho barato num grafo com custos positivos. Ime.usp.br. Disponível no [link](https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/dijkstra.html). Acesso em: 12/05/2023.
 
 ‌
