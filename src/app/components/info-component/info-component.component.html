@@ -4,18 +4,16 @@
   >
     <mat-expansion-panel>
       <mat-expansion-panel-header>
-        <mat-panel-title> Número de Kevin Bacon </mat-panel-title>
+        <mat-panel-title> SIGAA </mat-panel-title>
       </mat-expansion-panel-header>
 
-      O Número de Bacon surgiu de uma brincadeira de alguns estudantes que
-      tentaram conectar várias pessoas da indústria cinematográfica ao ator
-      Kevin Bacon com o menor número de conexões possíveis e logo perceberam que
-      sempre existia alguém que conheciam alguém que conheciam outras pessoas
-      que em algum ponto nesse rede conheciam o ator, ganhando assim um número
-      de Bacon com base nessa distância, por exemplo o ator Tom Cruise atuou com
-      o Kevin Bacon no filme “Questão de Honra”, logo seu número de Bacon é 1.
-      Esse jogo partiu da hipótese dos seis graus de separação, a qual diz que
-      uma pessoa está a seis(6) conexões de qualquer outra pessoa no mundo.
+      O SIGAA, Sistema Integrado de Gestão de Atividades Acadêmicas, 
+      é o sistema de administração da vida acadêmica do estudante, da Universidade
+      de Brasília (UnB), nele é possível que os estudantes realizem diversas
+      atividades como emissão de histórico escolar, atestado de matrícula, 
+      declaração de vínculo com a instituição, matrícula. Dessa forma, 
+      nele estão contidas informações relativas às grades curriculares 
+      e disciplinas de cursos da UnB, juntamente com seus pré-requisitos e co-requisitos.
       <button mat-mini-fab (click)="showRef = !showRef">1</button>
 
       <br />
@@ -28,12 +26,12 @@
       <mat-expansion-panel-header>
         <mat-panel-title> Grafos </mat-panel-title>
       </mat-expansion-panel-header>
-      Grafos são estruturas matemáticas criadas representar relacionamentos
+      Grafos são estruturas matemáticas criadas para representar relacionamentos
       entre objetos, assim, podendo relacionar uma informação a outra. Para
       isso, são utilizados nós que representam os objetos e arestas que
       representam uma ligação entre os objetos, essas ligações podem ser
-      assimétricas, representadas por grafos não direcionados, como é o caso de
-      uma ligação entre dois usuários do GitHub.
+      assimétricas, representadas por grafos não direcionados e podem ter pesos
+      associados a elas, como é o caso de uma ligação entre duas disciplinas no SIGAA.
       <button mat-mini-fab (click)="showRef = !showRef">2</button>
     </mat-expansion-panel>
   </div>
@@ -42,13 +40,23 @@
   >
     <mat-expansion-panel>
       <mat-expansion-panel-header>
-        <mat-panel-title> API Rest do GitHub </mat-panel-title>
+        <mat-panel-title> SIGAARush </mat-panel-title>
       </mat-expansion-panel-header>
-      GitHub é uma plataforma de hospedagem de código para controle de versão,
-      que permite que as pessoas colaborem em projetos a qualquer momento
-      <button mat-mini-fab (click)="showRef = !showRef">3</button>. Para
-      elaboração deste projeto foi utilizado a API REST do GitHub, para
-      requisição de informações de usuários da plataforma.
+      O SIGAARush foi desenvolvido com o objetivo de auxiliar os estudantes da
+      Universidade de Brasília a descobrirem a forma mais rápida de cursar uma
+      disciplina desejada, para isso foi utilizada a técnica de Web scraping 
+      que coleta os dados das disciplinas no sítio eletrônico do SIGAA, para descobrir
+      qual os pré-requisitos das matéria desejada e, assim, calcular o menor caminho,
+      no qual os pesos das arestas é a carga horária necessárias para cursar
+      a disciplina que é pré-requisito. Entretanto não é garantido que essas disciplina
+      possuem oferta para o semestre atual, devido os dados terem sido obtidos pela técnica
+      de Web scrapping a partir da página do SIGAA
+      <button mat-mini-fab (click)="showRef = !showRef">3</button>. 
+      O arquivo pode ser observado neste 
+      <a href="https://github.com/projeto-de-algoritmos/Grafos2_SIGAARush/blob/master/src/app/service/sigaa/get_components_list.py link">
+          Link
+      </a>
+
     </mat-expansion-panel>
   </div>
   <div
@@ -63,12 +71,9 @@
         <h3>Referências</h3>
       </div>
       <div class="col-12 d-flex p-0 m-0">
-        [1] HOPKINS, Brian. KEVIN BACON AND GRAPH THEORY. PRIMUS, v. 14, n. 1,
-        p. 5-11, 2004. <br />
-        [2] KLEINBERG, Jon; TARDOS, Eva. Algorithm design. Pearson Education
-        India, 2006.<br />
-        [3] Olá, Mundo - GitHub Docs. GitHub Docs. Disponível em: . Acesso em: 1
-        maio 2023.<br />
+        [1] DA. UnB Notícias - Tire suas dúvidas sobre o SIGAA. Disponível em: https://noticias.unb.br/67-ensino/4317-tire-suas-duvidas-sobre-o-sigaa. Acesso em: 15 maio 2023. <br />
+        [2] KLEINBERG, Jon; TARDOS, Eva. Algorithm design.Pearson Education India, 2006.<br />
+        [3] SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas. Sigaa.unb.br. Disponível em: https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf?aba=p-ensino. Acesso em: 15 maio 2023. <br />
       </div>
 
       <div class="d-flex col-12 justify-content-center">
