@@ -6,6 +6,8 @@ import { SigaaComponent } from "../model/sigaaComponent";
   providedIn: "root",
 })
 export class SigaaService {
+  private baseUrl =
+    "https://raw.githubusercontent.com/projeto-de-algoritmos/Grafos2_SIGAARush/master/src/assets/data";
   constructor(private httpClient: HttpClient) {}
 
   public async getDepartments(): Promise<string[]> {
@@ -17,7 +19,7 @@ export class SigaaService {
   }
 
   private getUrl(dep: string) {
-    return `assets/data/${dep}.json`;
+    return `${this.baseUrl}/${dep}.json`;
   }
 
   public getPromiseFromDepartment(dep: string): Promise<SigaaComponent[]> {

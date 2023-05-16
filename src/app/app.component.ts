@@ -30,7 +30,6 @@ export class AppComponent implements OnInit {
 
   public filteredComponents!: Observable<SigaaComponent[]>;
 
-  // @TODO: false
   public showSearch = false;
   public disableComponentImput = true;
 
