@@ -1,0 +1,200 @@
+[
+   {
+      "codigo": "FAC0007",
+      "nome": "ANÁLISE AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0157"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0015",
+      "nome": "COMUNICACAO COMPARADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0163"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0010",
+      "nome": "COMUNICAÇÃO INTERNA E CULTURA ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0016",
+      "nome": "ESTÉTICA E CULTURA DE MASSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0074",
+         "FAC0164"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0022",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FAC0170"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0023",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FAC0171"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0027",
+      "nome": "ESTUDOS AVANCADOS EM ELABORACAO DE PROJETOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0174"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0026",
+      "nome": "ESTUDOS AVANCADOS EM METODOS DE PESQUISA EM COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0173"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0025",
+      "nome": "ESTUDOS AVANCADOS EM TEORIA DA COMINICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0172"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0014",
+      "nome": "EVOLUCAO DA CULTURA E DA COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0162"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0058",
+      "nome": "LABORATÓIRO DE PESQUISA EM COMUNICAÇÃO CULTURA E CONSUMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0176"
+      ],
+      "pre_requisitos": [
+         "COM0155"
+      ]
+   },
+   {
+      "codigo": "FAC0056",
+      "nome": "OFICINA DE PRODUÇÃO DE ARTIGOS CIENTÍFICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0175"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0017",
+      "nome": "PESQUISA EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0046",
+         "FAC0165"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0013",
+      "nome": "POLITICA DE COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0161"
+      ],
+      "pre_requisitos": [
+         "DAP0045"
+      ]
+   },
+   {
+      "codigo": "FAC0019",
+      "nome": "POLITICAS CULTURAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0167"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0008",
+      "nome": "SEMIÓTICA E COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0155"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0020",
+      "nome": "SOCIOLOGIA DA COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0168"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0012",
+      "nome": "TECNICAS DE COMUNICACAO DIRIGIDA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FAC0160"
+      ],
+      "pre_requisitos": [
+         "DAP0048 & DAP0049"
+      ]
+   },
+   {
+      "codigo": "FAC0018",
+      "nome": "TECNICAS DE RELACOES PUBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0065",
+         "FAC0166"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0021",
+      "nome": "TEORIAS DA COMUNICACAO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0169"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FAC0002",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAC0156"
+      ],
+      "pre_requisitos": []
+   }
+]

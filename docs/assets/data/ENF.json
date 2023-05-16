@@ -1,0 +1,994 @@
+[
+   {
+      "codigo": "ENF0031",
+      "nome": "ADMINISTRACAO APLICADA A ENFERMAGEM E ESTAGIO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "ENF0162"
+      ],
+      "pre_requisitos": [
+         "ENF0039"
+      ]
+   },
+   {
+      "codigo": "ENF0076",
+      "nome": "ADMINISTRAÇÃO DE MEDICAMENTOS EM SERVIÇOS DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0199"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0052",
+      "nome": "ANÁLISE CRÍTICA DA PRÁTICA DE ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0178"
+      ],
+      "pre_requisitos": [
+         "ENF0043"
+      ]
+   },
+   {
+      "codigo": "ENF0003",
+      "nome": "ATENÇÃO INTEGRAL A SAÚDE DO RECÉM NASCIDO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0120"
+      ],
+      "pre_requisitos": [
+         "ENF0086 & ENF0087"
+      ]
+   },
+   {
+      "codigo": "ENF0017",
+      "nome": "AUDITORIA EM ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0151"
+      ],
+      "pre_requisitos": [
+         "ENF0040",
+         "ENF0081"
+      ]
+   },
+   {
+      "codigo": "ENF0034",
+      "nome": "BIOÉTICA, LEGISLAÇÃO E ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0105"
+      ],
+      "pre_requisitos": [
+         "ENF0043 & ENF0036",
+         "NUT0017",
+         "FMD0095",
+         "ENF0087 & ENF0036 & ENF0061",
+         "ENF0043 & ENF0036",
+         "NUT0017",
+         "FMD0095",
+         "ENF0087 & ENF0085 & ENF0061"
+      ]
+   },
+   {
+      "codigo": "ENF0047",
+      "nome": "CONTEXTUALIZAÇÃO DA ENFERMAGEM NA SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0058",
+         "ENF0106",
+         "ENF0146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0066",
+      "nome": "CUIDADO DA MULHER, DA CRIANÇA E DO ADOLESCENTE",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0160",
+         "ENF0191"
+      ],
+      "pre_requisitos": [
+         "ENF0082 & ENF0064"
+      ]
+   },
+   {
+      "codigo": "ENF0062",
+      "nome": "CUIDADO DO ADULTO E IDOSO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENF0187"
+      ],
+      "pre_requisitos": [
+         "ENF0087 & FMD0095 & ENF0035 & FMD0071",
+         "ENF0087 & FMD0095 & ENF0085 & FMD0071"
+      ]
+   },
+   {
+      "codigo": "ENF0001",
+      "nome": "CUIDADO EM SITUAÇÕES CIRÚRGICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0104"
+      ],
+      "pre_requisitos": [
+         "ENF0062 & ENF0063 & ENF0034 & ENF0081"
+      ]
+   },
+   {
+      "codigo": "ENF0064",
+      "nome": "CUIDADO EM SITUAÇÕES CRÍTICAS E DE RISCO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0109"
+      ],
+      "pre_requisitos": [
+         "ENF0062 & NUT0054"
+      ]
+   },
+   {
+      "codigo": "ENF0082",
+      "nome": "CUIDADO PSICOSSOCIAL EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0136"
+      ],
+      "pre_requisitos": [
+         "ENF0062 & ENF0063"
+      ]
+   },
+   {
+      "codigo": "ENF0088",
+      "nome": "CUIDADOS DE ENFERMAGEM EM FERIDAS AGUDAS E CRÔNICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0209"
+      ],
+      "pre_requisitos": [
+         "FMD0095 & FMD0071 & CFS0039 & ENF0087 & ENF0061"
+      ]
+   },
+   {
+      "codigo": "ENF0103",
+      "nome": "DEMÊNCIAS: UM OLHAR NECESSÁRIO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENF0224"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0032",
+      "nome": "DIDATICA APLICADA A ENFERMAGEM E ESTAGIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0163"
+      ],
+      "pre_requisitos": [
+         "DSC0037 & FMD0151 & FMD0152 & PPB0014",
+         "FAR0031 & DSC0037 & FMD0095"
+      ]
+   },
+   {
+      "codigo": "ENF0089",
+      "nome": "DISPOSITIVOS VENOSOS E ADMINISTRAÇÃO DE MEDICAMENTOS EM ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0210"
+      ],
+      "pre_requisitos": [
+         "FMD0095 & FMD0071 & CFS0039 & ENF0087 & ENF0061"
+      ]
+   },
+   {
+      "codigo": "ENF0038",
+      "nome": "ENFERMAGEM DOENCAS TRANSMISSIVEIS E ESTAGIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENF0168"
+      ],
+      "pre_requisitos": [
+         "ENF0043"
+      ]
+   },
+   {
+      "codigo": "ENF0022",
+      "nome": "ENFERMAGEM EMERGENCIA GINECO-OBSTETRICIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0156"
+      ],
+      "pre_requisitos": [
+         "ENF0018 & ENF0023 & ENF0040",
+         "ENF0040"
+      ]
+   },
+   {
+      "codigo": "ENF0049",
+      "nome": "ENFERMAGEM EM PRONTO SOCORRO E ESTAGIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0175"
+      ],
+      "pre_requisitos": [
+         "ENF0028 & ENF0037 & ENF0039 & ENF0040"
+      ]
+   },
+   {
+      "codigo": "ENF0042",
+      "nome": "ENFERMAGEM EM SAUDE DA COMUNIDADE 1 E ESTAGIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENF0171"
+      ],
+      "pre_requisitos": [
+         "ENF0043",
+         "ENF0043 & ENF0034"
+      ]
+   },
+   {
+      "codigo": "ENF0029",
+      "nome": "ENFERMAGEM EM SAUDE DA COMUNIDADE 2 E ESTAGIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENF0161"
+      ],
+      "pre_requisitos": [
+         "ENF0039 & ENF0042",
+         "ENF0039"
+      ]
+   },
+   {
+      "codigo": "ENF0027",
+      "nome": "ENFERMAGEM EM SAUDE ESCOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0159"
+      ],
+      "pre_requisitos": [
+         "DSC0037"
+      ]
+   },
+   {
+      "codigo": "ENF0036",
+      "nome": "ENFERMAGEM EM SAUDE MENTAL 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENF0035",
+         "ENF0166"
+      ],
+      "pre_requisitos": [
+         "FAR0031 & FMD0151 & FMD0152 & DSC0037",
+         "FAR0031 & FMD0095 & DSC0037"
+      ]
+   },
+   {
+      "codigo": "ENF0035",
+      "nome": "ENFERMAGEM EM SAUDE MENTAL 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENF0165"
+      ],
+      "pre_requisitos": [
+         "ENF0036"
+      ]
+   },
+   {
+      "codigo": "ENF0019",
+      "nome": "ENFERMAGEM EM SAUDE OCUPACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0153"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0018",
+      "nome": "ENFERMAGEM GINECO-OBSTETRICA E ESTAGIO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENF0152"
+      ],
+      "pre_requisitos": [
+         "ENF0040"
+      ]
+   },
+   {
+      "codigo": "ENF0040",
+      "nome": "ENFERMAGEM MEDICO-CIRURGICA 1 E ESTAGIO",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "ENF0017",
+         "ENF0018",
+         "ENF0020",
+         "ENF0022",
+         "ENF0023",
+         "ENF0039",
+         "ENF0170"
+      ],
+      "pre_requisitos": [
+         "ENF0043"
+      ]
+   },
+   {
+      "codigo": "ENF0039",
+      "nome": "ENFERMAGEM MEDICO-CIRURGICA 2 E ESTAGIO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "ENF0021",
+         "ENF0029",
+         "ENF0031",
+         "ENF0037",
+         "ENF0169"
+      ],
+      "pre_requisitos": [
+         "ENF0040"
+      ]
+   },
+   {
+      "codigo": "ENF0182",
+      "nome": "ENFERMAGEM NA ÁREA DA ESTÉTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "FMD0510 & CFS0039 & FAR0031 & CEL0050 & ENF0086 & ENF0087 & ENF0051"
+      ]
+   },
+   {
+      "codigo": "ENF0023",
+      "nome": "ENFERMAGEM NEO-NATAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0157"
+      ],
+      "pre_requisitos": [
+         "ENF0040"
+      ]
+   },
+   {
+      "codigo": "ENF0037",
+      "nome": "ENFERMAGEM PEDIATRICA E ESTAGIO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENF0167"
+      ],
+      "pre_requisitos": [
+         "ENF0039"
+      ]
+   },
+   {
+      "codigo": "ENF0028",
+      "nome": "ENFERMAGEM PSIQUIATRICA E ESTAGIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENF0160"
+      ],
+      "pre_requisitos": [
+         "ENF0035 & ENF0043"
+      ]
+   },
+   {
+      "codigo": "ENF0020",
+      "nome": "ENFERMAGEM UNIDADE TERAPIA INTENSIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0154"
+      ],
+      "pre_requisitos": [
+         "ENF0040"
+      ]
+   },
+   {
+      "codigo": "ENF0021",
+      "nome": "ENFERMAGEM URGENCIAS PEDIATRICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0155"
+      ],
+      "pre_requisitos": [
+         "ENF0039"
+      ]
+   },
+   {
+      "codigo": "ENF0070",
+      "nome": "ESTÁGIO CURRICULAR OBRIGATÓRIO 1",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "ENF0195"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0071",
+      "nome": "ESTÁGIO CURRICULAR OBRIGATÓRIO 2",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "ENF0196"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0005",
+      "nome": "ESTÁGIO SUPERVISIONADO 1",
+      "carga_horaria": 420,
+      "eh_requisito_de": [
+         "ENF0006",
+         "ENF0121"
+      ],
+      "pre_requisitos": [
+         "ENF0084 & ENF0068 & ENF0069 & PPB0014 & ENF0066 & ENF0001"
+      ]
+   },
+   {
+      "codigo": "ENF0100",
+      "nome": "ESTÁGIO SUPERVISIONADO 1 - MÓDULO I",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "ENF0101",
+         "ENF0221"
+      ],
+      "pre_requisitos": [
+         "ENF0084 & ENF0068 & ENF0069 & PPB0014 & ENF0066 & ENF0001"
+      ]
+   },
+   {
+      "codigo": "ENF0101",
+      "nome": "ESTÁGIO SUPERVISIONADO 1 - MÓDULO II",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENF0222"
+      ],
+      "pre_requisitos": [
+         "ENF0100"
+      ]
+   },
+   {
+      "codigo": "ENF0006",
+      "nome": "ESTÁGIO SUPERVISIONADO 2",
+      "carga_horaria": 390,
+      "eh_requisito_de": [
+         "ENF0122"
+      ],
+      "pre_requisitos": [
+         "ENF0005"
+      ]
+   },
+   {
+      "codigo": "ENF0007",
+      "nome": "ESTUDOS ORIENTADOS EM PESQUISA EM SAÚDE E ENFERMAGEM 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0123"
+      ],
+      "pre_requisitos": [
+         "ENF0054 & ENF0067 & ENF0066"
+      ]
+   },
+   {
+      "codigo": "ENF0009",
+      "nome": "ESTUDOS ORIENTADOS EM PESQUISA EM SAÚDE E ENFERMAGEM 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ENF0124"
+      ],
+      "pre_requisitos": [
+         "ENF0007 & ENF0069 & ENF0084 & ENF0068"
+      ]
+   },
+   {
+      "codigo": "ENF0010",
+      "nome": "ESTUDOS ORIENTADOS EM PESQUISA EM SAÚDE E ENFERMAGEM 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0125"
+      ],
+      "pre_requisitos": [
+         "ENF0009 & ENF0005"
+      ]
+   },
+   {
+      "codigo": "ENF0078",
+      "nome": "ÉTICA EM PESQUISA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0201"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0090",
+      "nome": "EXAMES COMPLEMENTARES E DIAGNÓSTICOS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENF0211"
+      ],
+      "pre_requisitos": [
+         "CEL0067 & CFS0037 & CFS0039 & FMD0095"
+      ]
+   },
+   {
+      "codigo": "ENF0087",
+      "nome": "FUNDAMENTOS DE ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0208"
+      ],
+      "pre_requisitos": [
+         "FCE0247 & ENF0059 & CEL0025 & CFS0037 & CEL0050 & FAR0031",
+         "ENF0086 & ENF0059 & CEL0025 & CFS0037 & CEL0050 & FAR0031"
+      ]
+   },
+   {
+      "codigo": "ENF0097",
+      "nome": "FUNDAMENTOS DE ENFERMAGEM - PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0119"
+      ],
+      "pre_requisitos": [
+         "ENF0096"
+      ]
+   },
+   {
+      "codigo": "ENF0096",
+      "nome": "FUNDAMENTOS DE ENFERMAGEM - TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0097",
+         "ENF0116"
+      ],
+      "pre_requisitos": [
+         "ENF0086 & ENF0059 & CEL0025 & CFS0037 & CEL0050 & FAR0031",
+         "ENF0095 & CEL0025 & CFS0037 & CEL0050 & FAR0031"
+      ]
+   },
+   {
+      "codigo": "ENF0084",
+      "nome": "GERENCIAMENTO DOS SERVIÇOS DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0113"
+      ],
+      "pre_requisitos": [
+         "ENF0066 & ENF0067"
+      ]
+   },
+   {
+      "codigo": "ENF0057",
+      "nome": "GESTÃO EM POLITICAS DE SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DSC0020",
+         "ENF0081",
+         "ENF0108"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0102",
+      "nome": "HISTÓRIA DA ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0223"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0139",
+      "nome": "INTRODUÇÃO À AVALIAÇÃO NEUROPSICOLÓGICA PEDIÁTRICA NEUROPED1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0141"
+      ],
+      "pre_requisitos": [
+         "FMD0510 & PPB0014"
+      ]
+   },
+   {
+      "codigo": "ENF0094",
+      "nome": "INTRODUÇÃO A GERONTOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0215"
+      ],
+      "pre_requisitos": [
+         "FMD0095 & CFS0039",
+         "CFS0042",
+         "FMD0505",
+         "FEF0145",
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "ENF0043",
+      "nome": "INTRODUCAO ENFERMAGEM E ESTAGIO",
+      "carga_horaria": 225,
+      "eh_requisito_de": [
+         "ENF0038",
+         "ENF0040",
+         "ENF0042",
+         "ENF0052",
+         "ENF0172"
+      ],
+      "pre_requisitos": [
+         "ENF0047 & FAR0031 & CEL0050 & FMD0071 & FMD0095 & CFS0039"
+      ]
+   },
+   {
+      "codigo": "ENF0054",
+      "nome": "METODOLOGIA DA PESQUISA EM SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0126"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0050",
+      "nome": "PLANEJAMENTO FAMILIAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0015",
+      "nome": "PRÁTICA DE ENSINO DE ENFERMAGEM HIGIENE E PROGRAMAS DE SAÚDE",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENF0150"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & TEF0011 & ENF0029",
+         "TEF0011 & MTC0012 & ENF0029 & PAD0028"
+      ]
+   },
+   {
+      "codigo": "ENF0080",
+      "nome": "PRÁTICAS SAUDÁVEIS E TERAPIAS INTEGRATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0202"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0093",
+      "nome": "PRINCÍPIOS BÁSICOS DE ENFERMAGEM EM ONCOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0214"
+      ],
+      "pre_requisitos": [
+         "ENF0086 & ENF0087 & ENF0062"
+      ]
+   },
+   {
+      "codigo": "ENF0075",
+      "nome": "PROCESSAMENTO DE ARTIGOS EM SERVIÇOS DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0198"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0081",
+      "nome": "PROCESSO DE TRABALHO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0017",
+         "ENF0112"
+      ],
+      "pre_requisitos": [
+         "ENF0057"
+      ]
+   },
+   {
+      "codigo": "ENF0099",
+      "nome": "PROJETO DE VIDA E CARREIRA PROFISSIONAL EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0138"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0004",
+      "nome": "RACIOCINIO CLÍNICO DE ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0142"
+      ],
+      "pre_requisitos": [
+         "ENF0051 & ENF0086 & ENF0061 & FMD0095 & FMD0071 & CFS0039"
+      ]
+   },
+   {
+      "codigo": "ENF0091",
+      "nome": "RELAÇÃO DE AJUDA A PACIENTES CRÔNICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0212"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0085",
+      "nome": "RELACIONAMENTO INTERPESSOAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0114"
+      ],
+      "pre_requisitos": [
+         "ENF0059 & FCE0247",
+         "ENF0059 & ENF0086"
+      ]
+   },
+   {
+      "codigo": "ENF0045",
+      "nome": "SAUDE E COMPORTAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0117"
+      ],
+      "pre_requisitos": [
+         "PPB0014 & SOL0042"
+      ]
+   },
+   {
+      "codigo": "ENF0012",
+      "nome": "SAÚDE E ESPIRITUALIDADE NO CUIDADO INTEGRAL",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENF0149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0002",
+      "nome": "SAÚDE E TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0140"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0011",
+      "nome": "SEGURANÇA DO PACIENTE NA ATENÇÃO A SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0148"
+      ],
+      "pre_requisitos": [
+         "ENF0057 & ENF0087 & ENF0051 & ENF0061"
+      ]
+   },
+   {
+      "codigo": "ENF0086",
+      "nome": "SEMIOLOGIA E SEMIOTÉCNICA APLICADA À ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0207"
+      ],
+      "pre_requisitos": [
+         "ENF0058 & CEL0067"
+      ]
+   },
+   {
+      "codigo": "ENF0098",
+      "nome": "SEMIOLOGIA E SEMIOTÉCNICA APLICADAS À ENFERMAGEM - PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0137"
+      ],
+      "pre_requisitos": [
+         "ENF0095"
+      ]
+   },
+   {
+      "codigo": "ENF0095",
+      "nome": "SEMIOLOGIA E SEMIOTÉCNICA APLICADAS À ENFERMAGEM - TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0098",
+         "ENF0115"
+      ],
+      "pre_requisitos": [
+         "CEL0067"
+      ]
+   },
+   {
+      "codigo": "ENF0051",
+      "nome": "SISTEMATIZACAO DA ASSISTENCIA EM ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0228",
+         "ENF0107"
+      ],
+      "pre_requisitos": [
+         "ENF0086 & ENF0059 & CEL0025 & CFS0037 & CEL0050 & FAR0031",
+         "ENF0095 & CEL0025 & CFS0037 & CEL0050 & FAR0031"
+      ]
+   },
+   {
+      "codigo": "ENF0092",
+      "nome": "TANATOLOGIA: EDUCAÇÃO PARA LIDAR E CUIDAR NA MORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0213"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0060",
+      "nome": "TECNOLOGIA DA EDUCAÇÃO EM SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0130"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0141",
+      "nome": "TÓPICOS AVANÇADOS EM AVALIAÇÃO NEUROPSICOLÓGICA PEDIÁTRICA NEUROPED 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "ENF0139"
+      ]
+   },
+   {
+      "codigo": "ENF0055",
+      "nome": "TÓPICOS AVANÇADOS EM PROMOÇÃO DA SAÚDE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0127"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0069",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0073",
+         "ENF0134"
+      ],
+      "pre_requisitos": [
+         "ENF0054 & ENF0066 & ENF0060"
+      ]
+   },
+   {
+      "codigo": "ENF0073",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ENF0135"
+      ],
+      "pre_requisitos": [
+         "ENF0069"
+      ]
+   },
+   {
+      "codigo": "ENF0056",
+      "nome": "VIGILÂNCIA AMBIENTAL, SAÚDE E TOXICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0181"
+      ],
+      "pre_requisitos": [
+         "DSC0020",
+         "EST0024",
+         "DSC0037",
+         "DSC0011"
+      ]
+   },
+   {
+      "codigo": "ENF0025",
+      "nome": "VIGILANCIA EPIDEMIOLOGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0158"
+      ],
+      "pre_requisitos": [
+         "DSC0037"
+      ]
+   },
+   {
+      "codigo": "ENF0077",
+      "nome": "VIOLÊNCIAS EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENF0200"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENF0058",
+      "nome": "VIVÊNCIAS INTEGRADORAS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0059",
+         "ENF0128"
+      ],
+      "pre_requisitos": [
+         "ENF0047"
+      ]
+   },
+   {
+      "codigo": "ENF0059",
+      "nome": "VIVÊNCIAS INTEGRADORAS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0061",
+         "ENF0129"
+      ],
+      "pre_requisitos": [
+         "ENF0058"
+      ]
+   },
+   {
+      "codigo": "ENF0061",
+      "nome": "VIVÊNCIAS INTEGRADORAS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENF0063",
+         "ENF0131"
+      ],
+      "pre_requisitos": [
+         "ENF0059"
+      ]
+   },
+   {
+      "codigo": "ENF0063",
+      "nome": "VIVÊNCIAS INTEGRADORAS 4",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENF0132"
+      ],
+      "pre_requisitos": [
+         "ENF0061"
+      ]
+   },
+   {
+      "codigo": "ENF0065",
+      "nome": "VIVÊNCIAS INTEGRADORAS 5",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENF0067",
+         "ENF0133"
+      ],
+      "pre_requisitos": [
+         "ENF0063 & ENF0062 & NUT0054"
+      ]
+   },
+   {
+      "codigo": "ENF0067",
+      "nome": "VIVÊNCIAS INTEGRADORAS 6",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FMD0065",
+         "ENF0068",
+         "ENF0110"
+      ],
+      "pre_requisitos": [
+         "ENF0065"
+      ]
+   },
+   {
+      "codigo": "ENF0068",
+      "nome": "VIVÊNCIAS INTEGRADORAS 7",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENF0111"
+      ],
+      "pre_requisitos": [
+         "ENF0067"
+      ]
+   }
+]

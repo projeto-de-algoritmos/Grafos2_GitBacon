@@ -1,0 +1,591 @@
+[
+   {
+      "codigo": "PST0020",
+      "nome": "ANÁLISE ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0207"
+      ],
+      "pre_requisitos": [
+         "PST0051",
+         "PST0039"
+      ]
+   },
+   {
+      "codigo": "PST0064",
+      "nome": "AVALIAÇÃO DE DESEMPENHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0263"
+      ],
+      "pre_requisitos": [
+         "PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0054",
+      "nome": "AVALIAÇÃO DE TREINAMENTO E DE DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0258"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0027",
+      "nome": "COMPORTAMENTO HUMANO E TRABALHO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0245"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0195",
+      "nome": "COMPORTAMENTO HUMANO NO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0206"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0078",
+      "nome": "DIVERSIDADE NAS ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0218"
+      ],
+      "pre_requisitos": [
+         "PST0011",
+         "PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0034",
+      "nome": "ERGONOMIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0056",
+         "PST0066",
+         "PST0212"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0056",
+      "nome": "ERGONOMIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0259"
+      ],
+      "pre_requisitos": [
+         "PST0034"
+      ]
+   },
+   {
+      "codigo": "PST0066",
+      "nome": "ERGONOMIA APLICADA A INFORMATICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0265"
+      ],
+      "pre_requisitos": [
+         "PST0034"
+      ]
+   },
+   {
+      "codigo": "PST0096",
+      "nome": "ESTÁGIO SUPERV. BACHAREL -  ÁREA: SOCIAL, TRABALHO E ORGANIZAÇÕES 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PST0228"
+      ],
+      "pre_requisitos": [
+         "PST0085",
+         "PST0086",
+         "IPD0014"
+      ]
+   },
+   {
+      "codigo": "PST0086",
+      "nome": "ESTÁGIO SUPERVIS BACHAREL - ÁREA SOCIAL, TRABALHO E ORGANIZAÇÕES",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PST0096",
+         "PST0222"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0032",
+      "nome": "ESTAGIO SUPERVISIONADO PSICOLOGO 2",
+      "carga_horaria": 165,
+      "eh_requisito_de": [
+         "PST0246"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0080",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO-ÁREA SOCIAL, TRABALHO E ORGANIZAÇÕES 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0219",
+         "PST0271"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0082",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO-ÁREA SOCIAL, TRABALHO E ORGNIZAÇÕES 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0220"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0006",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA SOC. TRAB. E ORG. 4",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0210"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0007",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA SOC. TRAB. E ORG. 5",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0211"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0084",
+      "nome": "ESTÁGIO SUPERVIS PSICÓLOGO - ÁREA SOCIAL, TRABALHO E ORGNIZAÇÕES 3",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PST0221"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0065",
+      "nome": "INFORMATICA EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0264"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0039",
+      "nome": "MEDIDAS EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0020",
+         "PST0203"
+      ],
+      "pre_requisitos": [
+         "EST0019",
+         "EST0028"
+      ]
+   },
+   {
+      "codigo": "PST0036",
+      "nome": "MÉTODOS DE PESQUISA EM PSICOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0248"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0037",
+      "nome": "MÉTODOS DE PESQUISA EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0202"
+      ],
+      "pre_requisitos": [
+         "EST0019"
+      ]
+   },
+   {
+      "codigo": "PST0069",
+      "nome": "PESQUISA EM AVALIACAO E MEDIDAS EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0070",
+         "PST0214"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0070",
+      "nome": "PESQUISA EM AVALIAÇAO E MEDIDAS EM PSICOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0215"
+      ],
+      "pre_requisitos": [
+         "PST0067",
+         "PST0068",
+         "PST0069",
+         "IPD0058"
+      ]
+   },
+   {
+      "codigo": "PST0074",
+      "nome": "PESQUISA EM ERGONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0217"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0199",
+      "nome": "PESQUISA EM ERGONOMIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0230"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0094",
+      "nome": "PESQUISA EM PSICOLOGIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0095",
+         "PST0226"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0095",
+      "nome": "PESQUISA EM PSICOLOGIA AMBIENTAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0227"
+      ],
+      "pre_requisitos": [
+         "PST0093",
+         "PST0094",
+         "IPD0065"
+      ]
+   },
+   {
+      "codigo": "PST0088",
+      "nome": "PESQUISA EM PSICOLOGIA DAS ORGANIZACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0071",
+         "PST0072",
+         "PST0223"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0072",
+      "nome": "PESQUISA EM PSICOLOGIA DAS ORGANIZACOES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0216"
+      ],
+      "pre_requisitos": [
+         "PST0088",
+         "IPD0070"
+      ]
+   },
+   {
+      "codigo": "PST0090",
+      "nome": "PESQUISA EM PSICOLOGIA DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0224"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0092",
+      "nome": "PESQUISA EM PSICOLOGIA DO TRABALHO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0225"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0005",
+      "nome": "PESQUISA EM PSICOLOGIA SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0209"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0097",
+      "nome": "PESQUISA EM PSICOLOGIA SOCIAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0229"
+      ],
+      "pre_requisitos": [
+         "PST0011  &  PST0004",
+         "PST0005",
+         "IPD0077"
+      ]
+   },
+   {
+      "codigo": "PST0059",
+      "nome": "PSICOLOGIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0205"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0057",
+      "nome": "PSICOLOGIA DA COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0260"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0049",
+      "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0256"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0048",
+      "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0255"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0051",
+      "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0020",
+         "PST0047",
+         "PST0064",
+         "PST0078",
+         "PST0204"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0001",
+      "nome": "PSICOLOGIA DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0208"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0011",
+      "nome": "PSICOLOGIA SOCIAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0001",
+         "PST0012",
+         "PST0051",
+         "PST0057",
+         "PST0078",
+         "DAN0024",
+         "DAN0036",
+         "DAN0043",
+         "DAN0046",
+         "DAN0047",
+         "DAN0049",
+         "DAN0050",
+         "DAN0052",
+         "DAN0053",
+         "DAN0054",
+         "DAN0055",
+         "DAN0056",
+         "DAN0058",
+         "DAN0060",
+         "DAN0061",
+         "DAN0062",
+         "DAN0063",
+         "DAN0065",
+         "DAN0066",
+         "DAN0068",
+         "DAN0070",
+         "DAN0072",
+         "DAN0074",
+         "DAN0076",
+         "DAN0077",
+         "DAN0078",
+         "DAN0080",
+         "DAN0082",
+         "DAN0084",
+         "DAN0086",
+         "DAN0088",
+         "PST0200"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0010",
+      "nome": "PSICOLOGIA SOCIAL 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0012",
+      "nome": "PSICOLOGIA SOCIAL 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0238"
+      ],
+      "pre_requisitos": [
+         "PST0011"
+      ]
+   },
+   {
+      "codigo": "PST0040",
+      "nome": "PSICOMETRIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0251"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  EST0019"
+      ]
+   },
+   {
+      "codigo": "PST0018",
+      "nome": "RECRUTAMENTO E SELEÇÃO PROFISSIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0241"
+      ],
+      "pre_requisitos": [
+         "PST0039 & PST0051",
+         "PST0014"
+      ]
+   },
+   {
+      "codigo": "PST0017",
+      "nome": "RECRUTAMENTO E SELEÇÃO PROFISSIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0240"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0042",
+      "nome": "TECNICAS DE ENTREVISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0213"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0014",
+      "nome": "TECNICAS DO EXAME PSICOLOGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0018",
+         "PST0239"
+      ],
+      "pre_requisitos": [
+         "PCL0020"
+      ]
+   },
+   {
+      "codigo": "PST0003",
+      "nome": "TÓPICOS EM PSICOLOGIA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0047",
+      "nome": "TOPICOS EM PSICOLOGIA ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0254"
+      ],
+      "pre_requisitos": [
+         "PST0051"
+      ]
+   },
+   {
+      "codigo": "PST0045",
+      "nome": "TÓPICOS EM PSICOLOGIA SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0253"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0022",
+      "nome": "TREINAMENTO E DESENVOLVIMENTO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PST0243"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0023",
+      "nome": "TREINAMENTO E DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0201"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PST0060",
+      "nome": "USO DO COMPUTADOR EM PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PST0262"
+      ],
+      "pre_requisitos": []
+   }
+]

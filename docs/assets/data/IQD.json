@@ -1,0 +1,2554 @@
+[
+   {
+      "codigo": "IQD0165",
+      "nome": "A EXPERIMENTAÇÃO NO ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0545"
+      ],
+      "pre_requisitos": [
+         "IQD0148"
+      ]
+   },
+   {
+      "codigo": "IQD0285",
+      "nome": "ANÁLISE DE EXPERIMENTOS PARA O ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0634"
+      ],
+      "pre_requisitos": [
+         "IQD0148"
+      ]
+   },
+   {
+      "codigo": "IQD0284",
+      "nome": "ANÁLISE DE LIVROS DIDÁTICOS DE ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0633"
+      ],
+      "pre_requisitos": [
+         "IQD0148"
+      ]
+   },
+   {
+      "codigo": "IQD0250",
+      "nome": "ANÁLISE DE RECURSOS DIDÁTICOS PARA O ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0331"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0066",
+      "nome": "ANALISE INSTRUMENTAL 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0493"
+      ],
+      "pre_requisitos": [
+         "IQD0065 & IQD0130"
+      ]
+   },
+   {
+      "codigo": "IQD0067",
+      "nome": "ANALISE INSTRUMENTAL 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0494"
+      ],
+      "pre_requisitos": [
+         "IQD0065",
+         "IQD0130"
+      ]
+   },
+   {
+      "codigo": "IQD0033",
+      "nome": "ANÁLISE INSTRUMENTAL TEÓRICA E EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0120",
+         "FAR0163",
+         "IQD0468"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0099",
+      "nome": "ANALISE ORGANICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0158",
+         "IQD0514"
+      ],
+      "pre_requisitos": [
+         "IQD0074",
+         "IQD0137"
+      ]
+   },
+   {
+      "codigo": "IQD0281",
+      "nome": "ANÁLISE QUALITATIVA E QUANTITATIVA DOS FÁRMACOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0630"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0130",
+      "nome": "ANALISE QUIMICA QUANTITATIVA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0067",
+         "IQD0527"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0040",
+      "nome": "AULAS DE QUÍMICA EM SALA AMBIENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0474"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0039",
+      "nome": "AVALIAÇÃO NO ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0473"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0254",
+      "nome": "BIOINORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0604"
+      ],
+      "pre_requisitos": [
+         "IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0260",
+      "nome": "CÁLCULOS BÁSICOS DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0334"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0222",
+      "nome": "CATALISADORES E CATÁLISE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0577"
+      ],
+      "pre_requisitos": [
+         "IQD0092"
+      ]
+   },
+   {
+      "codigo": "IQD0298",
+      "nome": "CINÉTICA DOS REATORES QUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0643"
+      ],
+      "pre_requisitos": [
+         "IQD0103"
+      ]
+   },
+   {
+      "codigo": "IQD0032",
+      "nome": "CINÉTICA QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0359"
+      ],
+      "pre_requisitos": [
+         "IQD0296 & ENM0068",
+         "IQD0101"
+      ]
+   },
+   {
+      "codigo": "IQD0257",
+      "nome": "CONCEITOS FUNDAMENTAIS EM QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0282",
+         "IQD0396"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0042",
+      "nome": "CONTEXTO ESCOLAR E ENSINO DE QUÍMICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IQD0363"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0043",
+      "nome": "DIDÁTICA DA QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0364"
+      ],
+      "pre_requisitos": [
+         "IQD0118 & IQD0133 & IQD0035"
+      ]
+   },
+   {
+      "codigo": "IQD0184",
+      "nome": "ELEMENTOS DE ESPECTROSCOPIA MOLECULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0554"
+      ],
+      "pre_requisitos": [
+         "MAT0022 & IQD0072",
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "IQD0268",
+      "nome": "ELEMENTOS DE OPERAÇÕES UNITÁRIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0047",
+         "IQD0231",
+         "IQD0232",
+         "IQD0233",
+         "IQD0234",
+         "IQD0235",
+         "IQD0238",
+         "IQD0272",
+         "IQD0273",
+         "IQD0277",
+         "IQD0278",
+         "IQD0299",
+         "IQD0399"
+      ],
+      "pre_requisitos": [
+         "IQD0103 & IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0069",
+      "nome": "ELEMENTOS DE OPERAÇÕES UNITÁRIAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0047",
+         "IQD0231",
+         "IQD0232",
+         "IQD0233",
+         "IQD0234",
+         "IQD0235",
+         "IQD0238",
+         "IQD0277",
+         "IQD0278",
+         "IQD0495"
+      ],
+      "pre_requisitos": [
+         "IQD0103 & IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0048",
+      "nome": "ENGENHARIA DE REATORES QUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0236",
+         "IQD0367"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IQD0032 & IQD0005"
+      ]
+   },
+   {
+      "codigo": "IQD0182",
+      "nome": "ENSINO DE QUÍMICA  NA ESCOLA INCLUSIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0553"
+      ],
+      "pre_requisitos": [
+         "IQD0035"
+      ]
+   },
+   {
+      "codigo": "IQD0103",
+      "nome": "EQUILÍBRIO E CINÉTICA QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0046",
+         "IQD0079",
+         "IQD0192",
+         "IQD0236",
+         "IQD0298",
+         "IQD0371"
+      ],
+      "pre_requisitos": [
+         "IQD0101",
+         "IQD0029"
+      ]
+   },
+   {
+      "codigo": "IQD0150",
+      "nome": "EQUILÍBRIO QUÍMICO E SOLUÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0536"
+      ],
+      "pre_requisitos": [
+         "IQD0101",
+         "IQD0145 & IFD0238",
+         "IFD0175 & IFD0240",
+         "IFD0177"
+      ]
+   },
+   {
+      "codigo": "IQD0158",
+      "nome": "ESPECTROCOPIA ORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0541"
+      ],
+      "pre_requisitos": [
+         "IQD0167 & IQD0168",
+         "IQD0099"
+      ]
+   },
+   {
+      "codigo": "IQD0029",
+      "nome": "ESPECTROSCOPIA ATÔMICA E MOLECULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0103",
+         "IQD0356"
+      ],
+      "pre_requisitos": [
+         "IQD0191 & IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0216",
+      "nome": "ESPECTROSCOPIA MOLECULAR E TERMODINÂMICA ESTATÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0574"
+      ],
+      "pre_requisitos": [
+         "IQD0187 & IQD0105"
+      ]
+   },
+   {
+      "codigo": "IQD0207",
+      "nome": "ESTAGIO EM ENSINO DE QUIMICA",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "IQD0565"
+      ],
+      "pre_requisitos": [
+         "IQD0206 & IQD0201"
+      ]
+   },
+   {
+      "codigo": "IQD0239",
+      "nome": "ESTÁGIO EM ENSINO DE QUÍMICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0242",
+         "IQD0593"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0229",
+      "nome": "ESTÁGIO EM QUÍMICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0230",
+         "IQD0583"
+      ],
+      "pre_requisitos": [
+         "IQD0228",
+         "IQD0077 & IQD0228"
+      ]
+   },
+   {
+      "codigo": "IQD0230",
+      "nome": "ESTÁGIO EM QUÍMICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0584"
+      ],
+      "pre_requisitos": [
+         "IQD0229"
+      ]
+   },
+   {
+      "codigo": "IQD0275",
+      "nome": "ESTÁGIO EM QUÍMICA TECNOLÓGICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0625"
+      ],
+      "pre_requisitos": [
+         "IQD0069 & IQD0266",
+         "IQD0268 & IQD0269 & IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0038",
+      "nome": "ESTÁGIO EM REGÊNCIA NO ENSINO DE QUÍMICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0361"
+      ],
+      "pre_requisitos": [
+         "IQD0148 & IQD0101 & IQD0042"
+      ]
+   },
+   {
+      "codigo": "IQD0242",
+      "nome": "ESTÁGIO EM REGÊNCIA NO ENSINO DE QUÍMICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0393"
+      ],
+      "pre_requisitos": [
+         "IQD0239"
+      ]
+   },
+   {
+      "codigo": "IQD0018",
+      "nome": "ESTÁGIO SUPERVISIONADO",
+      "carga_horaria": 165,
+      "eh_requisito_de": [
+         "IQD0453"
+      ],
+      "pre_requisitos": [
+         "IQD0009 & IQD0010",
+         "IQD0009 & IQD0048",
+         "IQD0009 & ENM0071",
+         "IQD0010 & IQD0048",
+         "IQD0010 & ENM0071",
+         "IQD0048 & ENM0071"
+      ]
+   },
+   {
+      "codigo": "IQD0089",
+      "nome": "ESTAGIO SUPERVISIONADO EM QUIMICA - DP",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0507"
+      ],
+      "pre_requisitos": [
+         "IQD0174"
+      ]
+   },
+   {
+      "codigo": "IQD0262",
+      "nome": "ESTRUTURA ATÔMICA E LIGAÇÕES QUÍMICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0335"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0195",
+      "nome": "EVOLUÇÃO DOS CONCEITOS DA QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0383"
+      ],
+      "pre_requisitos": [
+         "IQD0148"
+      ]
+   },
+   {
+      "codigo": "IQD0266",
+      "nome": "FENÔMENOS DE TRANSPORTE DE MASSA, ENERGIA E MOMENTUM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0071",
+         "IQD0267",
+         "IQD0274",
+         "IQD0398"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "IQD0258",
+      "nome": "FILOSOFIA DA CIÊNCIA E ENSINO CIÊNCIA-TECNOLOGIA-SOCIEDADE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0341"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0080",
+      "nome": "FISICO-QUIMICA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0504"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IQD0051"
+      ]
+   },
+   {
+      "codigo": "IQD0078",
+      "nome": "FISICO-QUIMICA 1 EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0502"
+      ],
+      "pre_requisitos": [
+         "IQD0101"
+      ]
+   },
+   {
+      "codigo": "IQD0079",
+      "nome": "FISICO-QUIMICA 2 EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0503"
+      ],
+      "pre_requisitos": [
+         "IQD0103",
+         "IQD0192"
+      ]
+   },
+   {
+      "codigo": "IQD0085",
+      "nome": "FISICO-QUIMICA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0116",
+         "IQD0506"
+      ],
+      "pre_requisitos": [
+         "IQD0105"
+      ]
+   },
+   {
+      "codigo": "IQD0116",
+      "nome": "FISICO QUIMICA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0520"
+      ],
+      "pre_requisitos": [
+         "IQD0085"
+      ]
+   },
+   {
+      "codigo": "IQD0001",
+      "nome": "FÍSICO QUÍMICA DE POLÍMEROS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0440"
+      ],
+      "pre_requisitos": [
+         "IQD0101",
+         "IFD0175"
+      ]
+   },
+   {
+      "codigo": "IQD0283",
+      "nome": "FUNDAMENTOS DA ANÁLISE DE MATERIAIS DE ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0632"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0187",
+      "nome": "FUNDAMENTOS DE ANÁLISE INSTRUMENTAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0026",
+         "IQD0210",
+         "IQD0226",
+         "IQD0247",
+         "IQD0381"
+      ],
+      "pre_requisitos": [
+         "IQD0228 & IQD0065",
+         "IQD0228 & IFD0179 & IFD0181",
+         "IQD0228 & IFD0238 & IFD0240"
+      ]
+   },
+   {
+      "codigo": "IQD0026",
+      "nome": "FUNDAMENTOS DE ANÁLISE INSTRUMENTAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0354"
+      ],
+      "pre_requisitos": [
+         "IQD0187"
+      ]
+   },
+   {
+      "codigo": "IQD0035",
+      "nome": "FUNDAMENTOS DE ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0182",
+         "IQD0313",
+         "IQD0417",
+         "IQD0418",
+         "IQD0419",
+         "IQD0420"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0296",
+      "nome": "FUNDAMENTOS DE FÍSICO-QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0071",
+         "FAR0141",
+         "IQD0338"
+      ],
+      "pre_requisitos": [
+         "IQD0058 & MAT0025",
+         "IQD0153 & MAT0025",
+         "IQD0125 & MAT0025",
+         "IQD0058 & MAT0022",
+         "IQD0153 & MAT0022",
+         "IQD0125 & MAT0022"
+      ]
+   },
+   {
+      "codigo": "IQD0295",
+      "nome": "FUNDAMENTOS DE MATEMÁTICA PARA QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0640"
+      ],
+      "pre_requisitos": [
+         "MAT0025",
+         "MAT0022"
+      ]
+   },
+   {
+      "codigo": "IQD0004",
+      "nome": "FUNDAMENTOS DE PRODUÇÃO DE CERVEJA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0443"
+      ],
+      "pre_requisitos": [
+         "IQD0058",
+         "CEL0054"
+      ]
+   },
+   {
+      "codigo": "IQD0058",
+      "nome": "FUNDAMENTOS DE QUÍMICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0004",
+         "IQD0044",
+         "IQD0045",
+         "IGD0024",
+         "IQD0052",
+         "IQD0072",
+         "IQD0092",
+         "IQD0288",
+         "IQD0290",
+         "IQD0292",
+         "IQD0294",
+         "IQD0368"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0127",
+      "nome": "FUNDAMENTOS DE QUIMICA ANALITICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0526"
+      ],
+      "pre_requisitos": [
+         "IQD0132"
+      ]
+   },
+   {
+      "codigo": "IQD0120",
+      "nome": "FUNDAMENTOS DE QUIMICA INORGANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0124",
+         "IQD0522"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0133",
+      "nome": "FUNDAMENTOS DE QUIMICA ORGANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0034",
+         "IQD0137",
+         "IQD0152",
+         "IQD0168",
+         "CEL0094",
+         "IQD0300",
+         "IQD0321"
+      ],
+      "pre_requisitos": [
+         "IQD0092",
+         "IQD0124"
+      ]
+   },
+   {
+      "codigo": "IQD0292",
+      "nome": "GERENCIAMENTO DE RESÍDUOS E SOLOS CONTAMINADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0404"
+      ],
+      "pre_requisitos": [
+         "IQD0282",
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0003",
+      "nome": "INTRODUÇÃO À COMPUTAÇÃO APLICADA AOS PROCESSOS QUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0442"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0044",
+      "nome": "INTRODUÇÃO A ENGENHARIA DE MATERIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0478"
+      ],
+      "pre_requisitos": [
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0297",
+      "nome": "INTRODUÇÃO À ENGENHARIA QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0339"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0167",
+      "nome": "INTRODUÇÃO À ESPECTROSCOPIA ORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0325"
+      ],
+      "pre_requisitos": [
+         "IQD0137"
+      ]
+   },
+   {
+      "codigo": "IQD0161",
+      "nome": "INTRODUÇÃO A MODELAGEM MOLECULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0378"
+      ],
+      "pre_requisitos": [
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "IQD0178",
+      "nome": "INTRODUÇÃO AO CURSO DE BACHARELADO EM QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0380"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0237",
+      "nome": "INTRODUÇÃO AO CURSO DE LICENCIATURA EM QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0392",
+         "IQD0415"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0265",
+      "nome": "INTRODUÇÃO AO CURSO DE QUÍMICA TECNOLÓGICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0397"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0132",
+      "nome": "INTRODUCAO AO ESTUDO DA QUIMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0127",
+         "IQD0529"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0159",
+      "nome": "INTRODUÇÃO A QUÍMICA DE ESTADO SÓLIDO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0542"
+      ],
+      "pre_requisitos": [
+         "IQD0101"
+      ]
+   },
+   {
+      "codigo": "IQD0208",
+      "nome": "INTRODUCAO A QUIMICA EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0566"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0191",
+      "nome": "INTRODUÇÃO A QUIMICA MODERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0327"
+      ],
+      "pre_requisitos": [
+         "MAT0025 & IFD0171",
+         "MAT0025 & IFD0299"
+      ]
+   },
+   {
+      "codigo": "IQD0072",
+      "nome": "INTRODUCAO A QUIMICA ORGANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0095",
+         "IQD0137",
+         "CEL0054",
+         "FAR0041",
+         "IQD0300",
+         "IQD0369",
+         "IQD0422"
+      ],
+      "pre_requisitos": [
+         "IQD0058",
+         "IQD0153",
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "IQD0084",
+      "nome": "INTRODUÇÃO À QUÍMICA QUÂNTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0505"
+      ],
+      "pre_requisitos": [
+         "IQD0101"
+      ]
+   },
+   {
+      "codigo": "IQD0152",
+      "nome": "INTRODUÇÃO À QUÍMICA TECNOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0070",
+         "IQD0537"
+      ],
+      "pre_requisitos": [
+         "IQD0133",
+         "IQD0096 & IQD0139",
+         "IQD0065"
+      ]
+   },
+   {
+      "codigo": "IQD0070",
+      "nome": "INTRODUCAO A TECNOLOGIA DOS FERTILIZANTES",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0496"
+      ],
+      "pre_requisitos": [
+         "IQD0094",
+         "IQD0152"
+      ]
+   },
+   {
+      "codigo": "IQD0034",
+      "nome": "INTRODUÇÃO A TEORIA DO ORBITAL MOLECULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0469"
+      ],
+      "pre_requisitos": [
+         "IQD0133"
+      ]
+   },
+   {
+      "codigo": "IQD0179",
+      "nome": "ISOLAMENTO E TRANSFORMACAO DE MOLECULAS ORGANICAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0551"
+      ],
+      "pre_requisitos": [
+         "IQD0095 & IQD0096 & IQD0110"
+      ]
+   },
+   {
+      "codigo": "IQD0226",
+      "nome": "LABORATÓRIO DE ANÁLISE INSTRUMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0224",
+         "IQD0225",
+         "IQD0389"
+      ],
+      "pre_requisitos": [
+         "IQD0187"
+      ]
+   },
+   {
+      "codigo": "IQD0269",
+      "nome": "LABORATÓRIO DE ELEMENTOS DE OPERAÇÕES UNITÁRIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0400"
+      ],
+      "pre_requisitos": [
+         "IQD0103 & IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0014",
+      "nome": "LABORATÓRIO DE ENGENHARIA QUÍMICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0347"
+      ],
+      "pre_requisitos": [
+         "IQD0009"
+      ]
+   },
+   {
+      "codigo": "IQD0007",
+      "nome": "LABORATÓRIO DE ENGENHARIA QUÍMICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0343"
+      ],
+      "pre_requisitos": [
+         "IQD0011"
+      ]
+   },
+   {
+      "codigo": "IQD0192",
+      "nome": "LABORATORIO DE FISICO-QUIMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0079",
+         "IQD0328"
+      ],
+      "pre_requisitos": [
+         "IQD0103",
+         "IQD0296 & ENM0068 & IQD0021"
+      ]
+   },
+   {
+      "codigo": "IQD0024",
+      "nome": "LABORATÓRIO DE QUÍMICA ANALÍTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0353"
+      ],
+      "pre_requisitos": [
+         "IQD0262 & IQD0263 & IQD0259 & IQD0061",
+         "IQD0061 & IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0228",
+      "nome": "LABORATÓRIO DE QUÍMICA ANALÍTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0229",
+         "IQD0329"
+      ],
+      "pre_requisitos": [
+         "IQD0063 & IQD0024",
+         "IQD0243",
+         "IQD0065"
+      ]
+   },
+   {
+      "codigo": "IQD0061",
+      "nome": "LABORATÓRIO DE QUÍMICA FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0286",
+         "IQD0315",
+         "IQD0416"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0223",
+      "nome": "LABORATÓRIO DE QUÍMICA INORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0173",
+         "IQD0388"
+      ],
+      "pre_requisitos": [
+         "IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0144",
+      "nome": "LABORATORIO DE QUIMICA INORGANICA PREPARATIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0533"
+      ],
+      "pre_requisitos": [
+         "IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0168",
+      "nome": "LABORATÓRIO DE QUÍMICA ORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0326"
+      ],
+      "pre_requisitos": [
+         "IQD0133"
+      ]
+   },
+   {
+      "codigo": "IQD0238",
+      "nome": "LABORATÓRIO DE QUÍMICA TECNOLÓGICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0330"
+      ],
+      "pre_requisitos": [
+         "IQD0069",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0027",
+      "nome": "LABORATÓRIO DE SÍNTESE INORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0173",
+         "IQD0355"
+      ],
+      "pre_requisitos": [
+         "IQD0139 & IQD0223",
+         "IQD0139 & IQD0056"
+      ]
+   },
+   {
+      "codigo": "IQD0212",
+      "nome": "LABORATÓRIO DE SÍNTESE ORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0385"
+      ],
+      "pre_requisitos": [
+         "IQD0168 & IQD0167 & IQD0137"
+      ]
+   },
+   {
+      "codigo": "IQD0286",
+      "nome": "LABORATÓRIO DE TÉCNICAS QUÍMICAS BÁSICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0342"
+      ],
+      "pre_requisitos": [
+         "IQD0061"
+      ]
+   },
+   {
+      "codigo": "IQD0201",
+      "nome": "MATERIAIS DE ENSINO DE QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0199",
+         "IQD0562"
+      ],
+      "pre_requisitos": [
+         "IQD0148"
+      ]
+   },
+   {
+      "codigo": "IQD0045",
+      "nome": "MATERIAIS E MICROESTRUTURA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0479"
+      ],
+      "pre_requisitos": [
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0148",
+      "nome": "METODOLOGIA DO ENSINO DE QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0155",
+         "IQD0165",
+         "IQD0195",
+         "IQD0201",
+         "IQD0284",
+         "IQD0285",
+         "IQD0535"
+      ],
+      "pre_requisitos": [
+         "IQD0118 & IQD0133 & PED0058",
+         "IQD0118 & IQD0133 & MTC0012",
+         "IQD0118 & IQD0133 & PED0060",
+         "IQD0118 & IQD0133 & TEF0011",
+         "IQD0118 & IQD0133 & PAD0028"
+      ]
+   },
+   {
+      "codigo": "IQD0247",
+      "nome": "MÉTODOS DE SEPARAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0598"
+      ],
+      "pre_requisitos": [
+         "IQD0187"
+      ]
+   },
+   {
+      "codigo": "IQD0224",
+      "nome": "MÉTODOS ELETROQUÍMICOS DE ANÁLISE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0579"
+      ],
+      "pre_requisitos": [
+         "IQD0226"
+      ]
+   },
+   {
+      "codigo": "IQD0225",
+      "nome": "MÉTODOS ESPECTROSCÓPICOS DE ANÁLISE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0580"
+      ],
+      "pre_requisitos": [
+         "IQD0226"
+      ]
+   },
+   {
+      "codigo": "IQD0218",
+      "nome": "MÉTODOS FÍSICOS APLICADOS À QUÍMICA INORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0387"
+      ],
+      "pre_requisitos": [
+         "IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0180",
+      "nome": "MÉTODOS MATEMÁTICOS PARA ENGENHARIA QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0552"
+      ],
+      "pre_requisitos": [
+         "MAT0053 & IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0214",
+      "nome": "MÉTODOS MATEMÁTICOS PARA QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0572"
+      ],
+      "pre_requisitos": [
+         "MAT0026",
+         "MAT0023"
+      ]
+   },
+   {
+      "codigo": "IQD0255",
+      "nome": "MODALIDADES DIDÁTICAS PARA O ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0395"
+      ],
+      "pre_requisitos": [
+         "IQD0092 & IQD0118 & IQD0133"
+      ]
+   },
+   {
+      "codigo": "IQD0016",
+      "nome": "MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0349"
+      ],
+      "pre_requisitos": [
+         "IQD0048 & IQD0012 & IQD0009 & ENE0004"
+      ]
+   },
+   {
+      "codigo": "IQD0009",
+      "nome": "OPERAÇÕES UNITÁRIAS DA ENGENHARIA QUÍMICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0014",
+         "IQD0023",
+         "IQD0047",
+         "IQD0231",
+         "IQD0232",
+         "IQD0234",
+         "IQD0235",
+         "IQD0272",
+         "IQD0273",
+         "IQD0277",
+         "IQD0278",
+         "IQD0299",
+         "IQD0311"
+      ],
+      "pre_requisitos": [
+         "IQD0005"
+      ]
+   },
+   {
+      "codigo": "IQD0011",
+      "nome": "OPERAÇÕES UNITÁRIAS DA ENGENHARIA QUÍMICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0007",
+         "IQD0345"
+      ],
+      "pre_requisitos": [
+         "ENM0071 & IQD0009"
+      ]
+   },
+   {
+      "codigo": "IQD0012",
+      "nome": "OPERAÇÕES UNITÁRIAS DA ENGENHARIA QUÍMICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0346"
+      ],
+      "pre_requisitos": [
+         "IQD0010 & IQD0011 & IQD0046"
+      ]
+   },
+   {
+      "codigo": "IQD0050",
+      "nome": "OTIMIZAÇÃO DE PROCESSOS QUÍMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0484"
+      ],
+      "pre_requisitos": [
+         "MAT0053 & IQD0048 & IQD0010"
+      ]
+   },
+   {
+      "codigo": "IQD0206",
+      "nome": "PRÁTICA DE ENSINO DE QUÍMICA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IQD0564"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0264",
+      "nome": "PRÁTICA DE ENSINO DE QUÍMICA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IQD0614"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0279",
+      "nome": "PRÁTICA INTERDISCIPLINAR EM ENSINO DE QUÍMICA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IQD0402"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0041",
+      "nome": "PRÁTICA INTERDISCIPLINAR EM ENSINO DE QUÍMICA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "IQD0362"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0270",
+      "nome": "PRINCÍPIO INTERDISCIPLINAR 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0271",
+         "IQD0620"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0271",
+      "nome": "PRINCÍPIO INTERDISCIPLINAR 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0621"
+      ],
+      "pre_requisitos": [
+         "IQD0270"
+      ]
+   },
+   {
+      "codigo": "IQD0263",
+      "nome": "PRINCÍPIOS DA TERMODINÂMICA E CINÉTICA QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0336"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0261",
+      "nome": "PRINCÍPIOS DE ELETROQUÍMICA E CORROSÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0611"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0259",
+      "nome": "PRINCÍPIOS DE EQUILÍBRIOS QUÍMICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0333"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0022",
+      "nome": "PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0021",
+         "IQD0352"
+      ],
+      "pre_requisitos": [
+         "IQD0092"
+      ]
+   },
+   {
+      "codigo": "IQD0249",
+      "nome": "PROCESSAMENTO DE DADOS EM QUÍMICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0600"
+      ],
+      "pre_requisitos": [
+         "IQD0118"
+      ]
+   },
+   {
+      "codigo": "IQD0267",
+      "nome": "PROCESSOS DA INDÚSTRIA DE ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0617"
+      ],
+      "pre_requisitos": [
+         "IQD0266",
+         "IQD0010"
+      ]
+   },
+   {
+      "codigo": "IQD0015",
+      "nome": "PROJETO DE ENGENHARIA QUÍMICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0348"
+      ],
+      "pre_requisitos": [
+         "ENM0190 & IQD0012 & IQD0014 & IQD0048",
+         "ENC0053 & IQD0012 & IQD0014 & IQD0048"
+      ]
+   },
+   {
+      "codigo": "IQD0019",
+      "nome": "PROJETO DE ENGENHARIA QUÍMICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0350"
+      ],
+      "pre_requisitos": [
+         "IQD0015 & IQD0016 & ENE0005"
+      ]
+   },
+   {
+      "codigo": "IQD0063",
+      "nome": "QUIMICA ANALITICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IGD0038",
+         "IQD0065",
+         "IQD0243",
+         "FAR0163",
+         "IQD0316"
+      ],
+      "pre_requisitos": [
+         "IQD0058 & IQD0061",
+         "IQD0051",
+         "IQD0262 & IQD0263 & IQD0259 & IQD0061"
+      ]
+   },
+   {
+      "codigo": "IQD0065",
+      "nome": "QUÍMICA ANALITICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0067",
+         "IQD0152",
+         "IQD0228",
+         "IQD0317"
+      ],
+      "pre_requisitos": [
+         "IQD0063",
+         "IQD0118"
+      ]
+   },
+   {
+      "codigo": "IQD0021",
+      "nome": "QUÍMICA ANALÍTICA EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0351"
+      ],
+      "pre_requisitos": [
+         "IQD0022"
+      ]
+   },
+   {
+      "codigo": "IQD0118",
+      "nome": "QUIMICA ANALITICA QUALITATIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0065",
+         "IQD0243",
+         "IQD0249",
+         "IQD0375",
+         "EFL0147"
+      ],
+      "pre_requisitos": [
+         "IQD0058 & IQD0061",
+         "IQD0125 & EFL0010"
+      ]
+   },
+   {
+      "codigo": "IQD0243",
+      "nome": "QUÍMICA ANALÍTICA QUANTITATIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0024",
+         "IQD0203",
+         "IQD0228",
+         "IQD0256",
+         "FAR0163",
+         "FAR0180",
+         "IQD0595"
+      ],
+      "pre_requisitos": [
+         "IQD0118",
+         "IQD0063"
+      ]
+   },
+   {
+      "codigo": "IQD0294",
+      "nome": "QUÍMICA ATMOSFÉRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0639"
+      ],
+      "pre_requisitos": [
+         "IQD0282",
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0213",
+      "nome": "QUÍMICA BIOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CEL0018",
+         "CEL0050",
+         "IQD0386"
+      ],
+      "pre_requisitos": [
+         "IQD0137"
+      ]
+   },
+   {
+      "codigo": "IQD0215",
+      "nome": "QUÍMICA COMPUTACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0573"
+      ],
+      "pre_requisitos": [
+         "IQD0105"
+      ]
+   },
+   {
+      "codigo": "IQD0290",
+      "nome": "QUÍMICA DA ÁGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0637"
+      ],
+      "pre_requisitos": [
+         "IQD0282",
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0139",
+      "nome": "QUÍMICA DOS ELEMENTOS DE TRANSIÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0144",
+         "IQD0173",
+         "IQD0218",
+         "IQD0223",
+         "IQD0254",
+         "IQD0323"
+      ],
+      "pre_requisitos": [
+         "IQD0092"
+      ]
+   },
+   {
+      "codigo": "IQD0124",
+      "nome": "QUIMICA DOS ELEMENTOS REPRESENTATIVOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0133",
+         "IQD0523"
+      ],
+      "pre_requisitos": [
+         "IQD0120"
+      ]
+   },
+   {
+      "codigo": "IQD0051",
+      "nome": "QUÍMICA GERAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0135",
+         "IQD0052",
+         "IQD0063",
+         "IQD0073",
+         "FGA0075",
+         "FGA0078",
+         "CEL0019",
+         "CEL0054",
+         "ENM0028",
+         "ENC0171",
+         "ENM0090",
+         "ENM0126",
+         "ENM0147",
+         "FCS0020",
+         "FAR0120",
+         "FAR0157",
+         "FGA0139",
+         "ENM0228",
+         "IQD0485"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0153",
+      "nome": "QUÍMICA GERAL E INORGÂNICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IGD0024",
+         "IGD0142",
+         "IQD0072",
+         "CEL0054",
+         "FUP0329",
+         "IQD0324"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0209",
+      "nome": "QUÍMICA GERAL E ORGÂNICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "CEL0054",
+         "FAV0274",
+         "IQD0567"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0252",
+      "nome": "QUÍMICA GERAL E ORGÂNICA TEÓRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CEL0054",
+         "IQD0300",
+         "IQD0332"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0126",
+      "nome": "QUIMICA GERAL EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAR0120",
+         "FAR0167",
+         "FAR0168",
+         "IQD0320"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0253",
+      "nome": "QUÍMICA GERAL EXPERIMENTAL PARA AGRONOMIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0603"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0125",
+      "nome": "QUIMICA GERAL TEORICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0025",
+         "IQD0092",
+         "CEL0054",
+         "FAV0274",
+         "FCE0210",
+         "FCE0220",
+         "ENC0268",
+         "ENC0272",
+         "ENC0273",
+         "FAR0181",
+         "IQD0319",
+         "FAR0249"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0094",
+      "nome": "QUIMICA INDUSTRIAL BASICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0070",
+         "IQD0510"
+      ],
+      "pre_requisitos": [
+         "IQD0065 & MAT0026",
+         "IQD0243 & MAT0023"
+      ]
+   },
+   {
+      "codigo": "IQD0052",
+      "nome": "QUIMICA INORGANICA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0053",
+         "IQD0486"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0056",
+      "nome": "QUIMICA INORGANICA 1 EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0093",
+         "IQD0314"
+      ],
+      "pre_requisitos": [
+         "IQD0058 & IQD0061",
+         "IQD0262 & IQD0061"
+      ]
+   },
+   {
+      "codigo": "IQD0093",
+      "nome": "QUIMICA INORGANICA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0509"
+      ],
+      "pre_requisitos": [
+         "IQD0056"
+      ]
+   },
+   {
+      "codigo": "IQD0053",
+      "nome": "QUÍMICA INORGÂNICA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0487"
+      ],
+      "pre_requisitos": [
+         "IQD0052"
+      ]
+   },
+   {
+      "codigo": "IQD0301",
+      "nome": "QUÍMICA INORGÂNICA AVANÇADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0646"
+      ],
+      "pre_requisitos": [
+         "IQD0173"
+      ]
+   },
+   {
+      "codigo": "IQD0092",
+      "nome": "QUÍMICA INORGÂNICA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0022",
+         "IQD0073",
+         "IQD0095",
+         "IQD0133",
+         "IQD0139",
+         "IQD0220",
+         "IQD0222",
+         "FAR0041",
+         "IQD0318"
+      ],
+      "pre_requisitos": [
+         "IQD0262 & IQD0263 & IQD0259",
+         "IQD0125",
+         "IQD0058",
+         "IQD0262 & IQD0260"
+      ]
+   },
+   {
+      "codigo": "IQD0220",
+      "nome": "QUÍMICA INORGÂNICA ESTRUTURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0576"
+      ],
+      "pre_requisitos": [
+         "IQD0092"
+      ]
+   },
+   {
+      "codigo": "IQD0211",
+      "nome": "QUÍMICA MEDICINAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0569"
+      ],
+      "pre_requisitos": [
+         "IQD0133 & IQD0213",
+         "IQD0096 & IQD0213",
+         "IQD0096 & CEL0054",
+         "IQD0133 & CEL0094"
+      ]
+   },
+   {
+      "codigo": "IQD0095",
+      "nome": "QUIMICA ORGANICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0096",
+         "IQD0203",
+         "CEL0054",
+         "IQD0511"
+      ],
+      "pre_requisitos": [
+         "IQD0092",
+         "IQD0072"
+      ]
+   },
+   {
+      "codigo": "IQD0073",
+      "nome": "QUÍMICA ORGÂNICA 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0499"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0092"
+      ]
+   },
+   {
+      "codigo": "IQD0074",
+      "nome": "QUÍMICA ORGÂNICA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0099",
+         "IQD0500"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0096",
+      "nome": "QUÍMICA ORGÂNICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0077",
+         "IQD0098",
+         "IQD0164",
+         "IQD0512"
+      ],
+      "pre_requisitos": [
+         "IQD0095"
+      ]
+   },
+   {
+      "codigo": "IQD0098",
+      "nome": "QUÍMICA ORGÂNICA AVANÇADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0513"
+      ],
+      "pre_requisitos": [
+         "IQD0137",
+         "IQD0096"
+      ]
+   },
+   {
+      "codigo": "IQD0077",
+      "nome": "QUÍMICA ORGÂNICA EXPERIMENTAL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "IQD0501"
+      ],
+      "pre_requisitos": [
+         "IQD0096"
+      ]
+   },
+   {
+      "codigo": "IQD0245",
+      "nome": "QUÍMICA ORGÂNICA FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CEL0054",
+         "IQD0300",
+         "IQD0394"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0131",
+      "nome": "QUIMICA ORGANICA PARA CIENCIAS BIOLOGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0137",
+         "CEL0054",
+         "CEL0094",
+         "IQD0528"
+      ],
+      "pre_requisitos": [
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "IQD0174",
+      "nome": "QUIMICA PARA O ENSINO DO 2 GRAU",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0089",
+         "IQD0549"
+      ],
+      "pre_requisitos": [
+         "IQD0095 & IQD0063 & IQD0101 & MTC0012",
+         "IQD0101 & IQD0118 & IQD0133 & MTC0143"
+      ]
+   },
+   {
+      "codigo": "IQD0105",
+      "nome": "QUÍMICA QUÂNTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0085",
+         "IQD0215",
+         "IQD0372"
+      ],
+      "pre_requisitos": [
+         "MAT0048 & IFD0179 & IQD0029",
+         "IQD0101 & IFD0238 & IFD0240 & MAT0048",
+         "IQD0145 & IFD0238 & IFD0240 & MAT0048",
+         "IQD0101 & IFD0179 & IFD0181 & MAT0048",
+         "IQD0145 & IFD0179 & IFD0181 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "IQD0300",
+      "nome": "QUÍMICA VERDE E SUSTENTABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0405"
+      ],
+      "pre_requisitos": [
+         "IQD0133",
+         "IQD0072",
+         "IQD0282",
+         "IQD0245",
+         "IQD0252"
+      ]
+   },
+   {
+      "codigo": "IQD0256",
+      "nome": "QUIMIOMETRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0606"
+      ],
+      "pre_requisitos": [
+         "IQD0243"
+      ]
+   },
+   {
+      "codigo": "IQD0025",
+      "nome": "RADIOQUÍMICA: CONCEITOS E APLICAÇÕES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0460"
+      ],
+      "pre_requisitos": [
+         "IQD0262 & IQD0263 & IQD0259",
+         "IQD0125"
+      ]
+   },
+   {
+      "codigo": "IQD0137",
+      "nome": "REAÇÕES ORGÂNICAS E SEUS MECANISMOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0028",
+         "IQD0098",
+         "IQD0099",
+         "IQD0164",
+         "IQD0167",
+         "IQD0193",
+         "IQD0213",
+         "IQD0322"
+      ],
+      "pre_requisitos": [
+         "IQD0133",
+         "IQD0072",
+         "IQD0131"
+      ]
+   },
+   {
+      "codigo": "IQD0028",
+      "nome": "REAÇÕES ORGÂNICAS E SEUS MECANISMOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0312"
+      ],
+      "pre_requisitos": [
+         "IQD0137"
+      ]
+   },
+   {
+      "codigo": "IQD0282",
+      "nome": "REAÇÕES QUÍMICAS E O AMBIENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0288",
+         "IQD0290",
+         "IQD0292",
+         "IQD0294",
+         "IQD0300",
+         "IQD0337"
+      ],
+      "pre_requisitos": [
+         "IQD0257"
+      ]
+   },
+   {
+      "codigo": "IQD0156",
+      "nome": "SEGURANÇA EM LABORATÓRIOS QUÍMICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0377"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0246",
+      "nome": "SEMINÁRIO DE GRADUAÇÃO EM QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0597"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0193",
+      "nome": "SEMINARIOS DE QUIMICA ORGANICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0559"
+      ],
+      "pre_requisitos": [
+         "IQD0137"
+      ]
+   },
+   {
+      "codigo": "IQD0002",
+      "nome": "SÍNTESE DE POLÍMEROS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0441"
+      ],
+      "pre_requisitos": [
+         "IQD0133 & IQD0103"
+      ]
+   },
+   {
+      "codigo": "IQD0164",
+      "nome": "SÍNTESE ORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0544"
+      ],
+      "pre_requisitos": [
+         "IQD0137",
+         "IQD0096"
+      ]
+   },
+   {
+      "codigo": "IQD0110",
+      "nome": "TÉCNICA DE PESQUISA EM QUÍMICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0115",
+         "IQD0373",
+         "IQD0408"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0115",
+      "nome": "TÉCNICA DE PESQUISA EM QUÍMICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0374"
+      ],
+      "pre_requisitos": [
+         "IQD0110",
+         "IQD0407"
+      ]
+   },
+   {
+      "codigo": "IQD0231",
+      "nome": "TECNOLOGIA DA ÁGUA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0340"
+      ],
+      "pre_requisitos": [
+         "IQD0069",
+         "IQD0009",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0232",
+      "nome": "TECNOLOGIA DAS EMULSÕES E DISPERSÕES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0586"
+      ],
+      "pre_requisitos": [
+         "IQD0009",
+         "IQD0069",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0020",
+      "nome": "TECNOLOGIA DE CONVERSÃO DE BIOMASSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0455"
+      ],
+      "pre_requisitos": [
+         "IQD0133 & IQD0069",
+         "IQD0133 & ENM0068",
+         "IQD0133 & IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0278",
+      "nome": "TECNOLOGIA DE INDÚSTRIA DE BASE INORGÂNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0401"
+      ],
+      "pre_requisitos": [
+         "IQD0069",
+         "IQD0009",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0274",
+      "nome": "TECNOLOGIA DE PROCESSOS ELETROLÍTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0624"
+      ],
+      "pre_requisitos": [
+         "IQD0005",
+         "IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0299",
+      "nome": "TECNOLOGIA DE RECICLAGEM DE MATERIAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0644"
+      ],
+      "pre_requisitos": [
+         "IQD0009",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0023",
+      "nome": "TECNOLOGIA DO MEIO AMBIENTE 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0458"
+      ],
+      "pre_requisitos": [
+         "IQD0069 & IQD0266",
+         "IQD0009",
+         "IQD0266 & IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0272",
+      "nome": "TECNOLOGIA DO MEIO AMBIENTE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0622"
+      ],
+      "pre_requisitos": [
+         "IQD0268",
+         "IQD0009"
+      ]
+   },
+   {
+      "codigo": "IQD0273",
+      "nome": "TECNOLOGIA DO MEIO AMBIENTE 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0623"
+      ],
+      "pre_requisitos": [
+         "IQD0268",
+         "IQD0009"
+      ]
+   },
+   {
+      "codigo": "IQD0233",
+      "nome": "TECNOLOGIA DO PETRÓLEO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0587"
+      ],
+      "pre_requisitos": [
+         "IQD0046",
+         "IQD0069",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0234",
+      "nome": "TECNOLOGIA DOS COSMÉTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0390"
+      ],
+      "pre_requisitos": [
+         "IQD0069",
+         "IQD0009",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0235",
+      "nome": "TECNOLOGIA DOS ÓLEOS E GORDURAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0391"
+      ],
+      "pre_requisitos": [
+         "IQD0009",
+         "IQD0069",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0236",
+      "nome": "TECNOLOGIA DOS POLÍMEROS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0590"
+      ],
+      "pre_requisitos": [
+         "IQD0048",
+         "IQD0103"
+      ]
+   },
+   {
+      "codigo": "IQD0277",
+      "nome": "TECNOLOGIA DOS PRODUTOS AGROINDUSTRIAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0627"
+      ],
+      "pre_requisitos": [
+         "IQD0009",
+         "IQD0069",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0071",
+      "nome": "TECNOLOGIA DO VÁCUO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0497"
+      ],
+      "pre_requisitos": [
+         "IQD0296",
+         "IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0248",
+      "nome": "TEMPERATURA E CALOR: EVOLUÇÃO DOS CONCEITOS TERMODINÂMICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0599"
+      ],
+      "pre_requisitos": [
+         "IQD0101 & IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0046",
+      "nome": "TERMODINÂMICA APLICADA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0233",
+         "IQD0365"
+      ],
+      "pre_requisitos": [
+         "IQD0103",
+         "IQD0296 & ENM0068"
+      ]
+   },
+   {
+      "codigo": "IQD0145",
+      "nome": "TERMODINAMICA BASICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0534"
+      ],
+      "pre_requisitos": [
+         "MAT0023 & IFD0171",
+         "MAT0023 & IFD0230",
+         "MAT0023 & IFD0210",
+         "MAT0023 & IFD0299"
+      ]
+   },
+   {
+      "codigo": "IQD0101",
+      "nome": "TERMODINÂMICA QUÍMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0001",
+         "IQD0032",
+         "IQD0078",
+         "IQD0084",
+         "IQD0103",
+         "IQD0150",
+         "IQD0159",
+         "CEL0087",
+         "IQD0370"
+      ],
+      "pre_requisitos": [
+         "IQD0262 & IQD0263 & IQD0259 & IFD0175 & MAT0026",
+         "IQD0058 & IFD0175 & MAT0026",
+         "IQD0153 & MAT0026 & IFD0175",
+         "IQD0058 & IQD0061 & MAT0026 & IFD0299 & IFD0302",
+         "IQD0058 & IQD0061 & MAT0026 & IFD0175 & IFD0177",
+         "IQD0058 & IQD0061 & MAT0023 & IFD0299 & IFD0302",
+         "IQD0058 & IQD0061 & MAT0023 & IFD0175 & IFD0177",
+         "IQD0051 & MAT0026 & IFD0299 & IFD0302",
+         "IQD0051 & MAT0026 & IFD0175 & IFD0177",
+         "IQD0051 & MAT0023 & IFD0299 & IFD0302",
+         "IQD0051 & MAT0023 & IFD0175 & IFD0177",
+         "IQD0051 & MAT0023 & IFD0299 & IFD0302",
+         "IQD0051 & MAT0023 & IFD0175 & IFD0177",
+         "IQD0153 & MAT0026 & IFD0299 & IFD0302",
+         "IQD0262 & IQD0263 & IQD0259 & IFD0299 & IFD0302 & MAT0026"
+      ]
+   },
+   {
+      "codigo": "IQD0049",
+      "nome": "TÓPICOS AVANÇADOS EM REATORES QUÍMICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0483"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & IQD0032"
+      ]
+   },
+   {
+      "codigo": "IQD0189",
+      "nome": "TÓPICOS DE ENSINO DE QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0382"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "IQD0203",
+      "nome": "TÓPICOS DE QUÍMICA AMBIENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0563"
+      ],
+      "pre_requisitos": [
+         "IQD0243",
+         "IQD0065 & IQD0133",
+         "IQD0095"
+      ]
+   },
+   {
+      "codigo": "IQD0210",
+      "nome": "TÓPICOS EM CROMATOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0568"
+      ],
+      "pre_requisitos": [
+         "IQD0187"
+      ]
+   },
+   {
+      "codigo": "IQD0288",
+      "nome": "TÓPICOS EM QUÍMICA AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0403"
+      ],
+      "pre_requisitos": [
+         "IQD0282",
+         "IQD0058"
+      ]
+   },
+   {
+      "codigo": "IQD0173",
+      "nome": "TÓPICOS EM QUÍMICA INORGÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0301",
+         "IQD0379"
+      ],
+      "pre_requisitos": [
+         "IQD0027",
+         "IQD0223",
+         "IQD0139"
+      ]
+   },
+   {
+      "codigo": "IQD0047",
+      "nome": "TÓPICOS ESPECIAIS EM TECNOLOGIA E ENGENHARIA QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0366"
+      ],
+      "pre_requisitos": [
+         "IQD0069",
+         "IQD0009",
+         "MAT0053 & EST0023",
+         "IQD0268"
+      ]
+   },
+   {
+      "codigo": "IQD0276",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0626"
+      ],
+      "pre_requisitos": [
+         "IQD0069 & IQD0266",
+         "IQD0268 & IQD0269 & IQD0266"
+      ]
+   },
+   {
+      "codigo": "IQD0155",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1 - LICENCIATURA EM QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0036",
+         "IQD0376"
+      ],
+      "pre_requisitos": [
+         "IQD0148"
+      ]
+   },
+   {
+      "codigo": "IQD0036",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2 - LIC EM QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0360"
+      ],
+      "pre_requisitos": [
+         "IQD0155"
+      ]
+   },
+   {
+      "codigo": "IQD0199",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2-MONOGRAFIA DE LICENCIATURA EM QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "IQD0384"
+      ],
+      "pre_requisitos": [
+         "IQD0201"
+      ]
+   },
+   {
+      "codigo": "IQD0030",
+      "nome": "TRABALHO DE CONCLUSÃO DO  CURSO DE BACHARELADO EM QUÍMICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0031",
+         "IQD0305",
+         "IQD0357",
+         "IQD0406"
+      ],
+      "pre_requisitos": [
+         "IQD0226 & IQD0103 & IQD0212"
+      ]
+   },
+   {
+      "codigo": "IQD0031",
+      "nome": "TRABALHO DE CONCLUSÃO DO  CURSO DE BACHARELADO EM QUÍMICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "IQD0358"
+      ],
+      "pre_requisitos": [
+         "IQD0030",
+         "IQD0308"
+      ]
+   },
+   {
+      "codigo": "IQD0010",
+      "nome": "TRANSFERÊNCIA DE MASSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "IQD0267",
+         "IQD0344"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & IQD0101 & IQD0005",
+         "MAT0027 & IQD0296 & IQD0005"
+      ]
+   },
+   {
+      "codigo": "IQD0005",
+      "nome": "TRANSFERÊNCIA DE QUANTIDADE DE MOVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0003",
+         "IQD0009",
+         "IQD0274",
+         "IQD0310"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   }
+]

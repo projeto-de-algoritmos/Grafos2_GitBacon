@@ -1,0 +1,11 @@
+[
+   {
+      "codigo": "CDT1101",
+      "nome": "TECNOLOGIA SOCIAL E INOVAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CDT1102"
+      ],
+      "pre_requisitos": []
+   }
+]

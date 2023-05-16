@@ -1,0 +1,2531 @@
+[
+   {
+      "codigo": "ENE0233",
+      "nome": "ACIONAMENTOS INDUSTRIAIS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENE0562"
+      ],
+      "pre_requisitos": [
+         "ENE0314",
+         "ENE0183"
+      ]
+   },
+   {
+      "codigo": "ENE0013",
+      "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0276",
+         "ENE0366"
+      ],
+      "pre_requisitos": [
+         "ENE0334"
+      ]
+   },
+   {
+      "codigo": "ENE0228",
+      "nome": "ANALISE DE SISTEMAS DE POTENCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0558"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0085",
+      "nome": "ANÁLISE DINÂMICA  LINEAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0004",
+         "ENE0051",
+         "ENE0052",
+         "ENE0084",
+         "ENE0258",
+         "ENE0511"
+      ],
+      "pre_requisitos": [
+         "ENE0174",
+         "ENE0313",
+         "ENE0304 & ENE0282"
+      ]
+   },
+   {
+      "codigo": "ENE0035",
+      "nome": "ANÁLISE DINÂMICA LINEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0466"
+      ],
+      "pre_requisitos": [
+         "ENE0037 & ENE0038",
+         "ENE0174"
+      ]
+   },
+   {
+      "codigo": "ENE0194",
+      "nome": "ANTENAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0201",
+         "ENE0426"
+      ],
+      "pre_requisitos": [
+         "ENE0053"
+      ]
+   },
+   {
+      "codigo": "ENE0201",
+      "nome": "ANTENAS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0544"
+      ],
+      "pre_requisitos": [
+         "ENE0194"
+      ]
+   },
+   {
+      "codigo": "ENE0353",
+      "nome": "ANTENAS EM REDES DE COMUNICAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0631"
+      ],
+      "pre_requisitos": [
+         "ENE0177",
+         "IFD0179"
+      ]
+   },
+   {
+      "codigo": "ENE0331",
+      "nome": "ANTENAS - TEORIA E PRATICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0615"
+      ],
+      "pre_requisitos": [
+         "ENE0310",
+         "ENE0179"
+      ]
+   },
+   {
+      "codigo": "ENE0245",
+      "nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "CIC0130",
+         "ENE0568"
+      ],
+      "pre_requisitos": [
+         "ENE0291",
+         "ENE0320",
+         "ENE0278"
+      ]
+   },
+   {
+      "codigo": "ENE0055",
+      "nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0484"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0009",
+      "nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0447"
+      ],
+      "pre_requisitos": [
+         "ENE0274 & ENE0335"
+      ]
+   },
+   {
+      "codigo": "ENE0237",
+      "nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0064",
+         "ENE0087",
+         "ENE0333",
+         "ENE0349",
+         "ENE0352",
+         "ENE0564"
+      ],
+      "pre_requisitos": [
+         "ENE0274 & ENE0335"
+      ]
+   },
+   {
+      "codigo": "ENE0017",
+      "nome": "AVALIAÇÃO DE DESEMPENHO DE REDES E SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0367"
+      ],
+      "pre_requisitos": [
+         "ENE0009 & ENE0011",
+         "ENE0025 & ENE0011"
+      ]
+   },
+   {
+      "codigo": "ENE0089",
+      "nome": "CABEAMENTO ESTRUTURADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0515"
+      ],
+      "pre_requisitos": [
+         "ENE0274"
+      ]
+   },
+   {
+      "codigo": "ENE0075",
+      "nome": "CARACTERIZAÇÃO DE MATERIAIS E DISPOSITIVOS SEMICONDUTORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0501"
+      ],
+      "pre_requisitos": [
+         "ENE0049",
+         "ENE0340"
+      ]
+   },
+   {
+      "codigo": "ENE0162",
+      "nome": "CIRCUITOS DE ELETRONICA DIGITAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0523"
+      ],
+      "pre_requisitos": [
+         "ENE0314 & ENE0320",
+         "ENE0183"
+      ]
+   },
+   {
+      "codigo": "ENE0214",
+      "nome": "CIRCUITOS DE ELETRONICA LINEAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0552"
+      ],
+      "pre_requisitos": [
+         "ENE0314 & ENE0287"
+      ]
+   },
+   {
+      "codigo": "ENE0215",
+      "nome": "CIRCUITOS DE ELETRONICA NAO-LINEAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0553"
+      ],
+      "pre_requisitos": [
+         "ENE0302",
+         "ENE0181"
+      ]
+   },
+   {
+      "codigo": "ENE0199",
+      "nome": "CIRCUITOS DE RADIOFREQUÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0200",
+         "ENE0427"
+      ],
+      "pre_requisitos": [
+         "ENE0310",
+         "ENE0179",
+         "ENE0053"
+      ]
+   },
+   {
+      "codigo": "ENE0304",
+      "nome": "CIRCUITOS ELÉTRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0248",
+         "ENE0289",
+         "ENE0313",
+         "ENE0435"
+      ],
+      "pre_requisitos": [
+         "ENE0066 & ENE0067",
+         "ENE0066 & CIC0242"
+      ]
+   },
+   {
+      "codigo": "ENE0172",
+      "nome": "CIRCUITOS ELETRICOS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0037",
+         "ENE0038",
+         "ENE0248",
+         "ENE0289",
+         "ENE0313",
+         "ENM0174",
+         "ENE0531"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "ENE0042",
+      "nome": "CIRCUITOS ELÉTRICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0289",
+         "ENE0402"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & MAT0026"
+      ]
+   },
+   {
+      "codigo": "ENE0174",
+      "nome": "CIRCUITOS ELETRICOS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0035",
+         "ENE0036",
+         "ENE0065",
+         "ENE0085",
+         "ENE0166",
+         "ENM0118",
+         "ENE0301",
+         "ENE0532"
+      ],
+      "pre_requisitos": [
+         "ENE0172 & MAT0028"
+      ]
+   },
+   {
+      "codigo": "ENE0037",
+      "nome": "CIRCUITOS ELÉTRICOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0068",
+         "CIC0196",
+         "ENE0209",
+         "ENE0339",
+         "ENE0400"
+      ],
+      "pre_requisitos": [
+         "ENE0042 & ENE0044",
+         "ENE0041 & ENE0043",
+         "ENE0172"
+      ]
+   },
+   {
+      "codigo": "ENE0313",
+      "nome": "CIRCUITOS ELETRICOS APLICADOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0065",
+         "ENE0085",
+         "ENE0301",
+         "ENE0605"
+      ],
+      "pre_requisitos": [
+         "ENE0172",
+         "ENE0304"
+      ]
+   },
+   {
+      "codigo": "ENE0289",
+      "nome": "CIRCUITOS POLIFASICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0071",
+         "ENE0228",
+         "ENE0229",
+         "ENE0231",
+         "ENE0235",
+         "ENE0251",
+         "ENE0267",
+         "ENE0433"
+      ],
+      "pre_requisitos": [
+         "ENE0304",
+         "ENE0041",
+         "ENE0042",
+         "ENE0172"
+      ]
+   },
+   {
+      "codigo": "ENE0334",
+      "nome": "COMPUTACAO PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0013",
+         "ENE0039",
+         "ENE0040",
+         "ENE0335",
+         "EPR0072",
+         "ENE0388"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0262",
+      "nome": "COMUNICACOES DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0381"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0344",
+      "nome": "COMUNICAÇÕES MÓVEIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0626"
+      ],
+      "pre_requisitos": [
+         "ENE0306 & ENE0295"
+      ]
+   },
+   {
+      "codigo": "ENE0329",
+      "nome": "COMUNICACOES OPTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0614"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0081",
+      "nome": "COMUNICAÇÕES VIA SATÉLITE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0389"
+      ],
+      "pre_requisitos": [
+         "ENE0306 & ENE0295"
+      ]
+   },
+   {
+      "codigo": "ENE0003",
+      "nome": "CONTROLE ADAPTATIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0441"
+      ],
+      "pre_requisitos": [
+         "ENE0084"
+      ]
+   },
+   {
+      "codigo": "ENE0004",
+      "nome": "CONTROLE DE PROCESSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0005",
+         "ENE0079",
+         "ENE0167",
+         "ENE0362"
+      ],
+      "pre_requisitos": [
+         "IQD0005 & IQD0048",
+         "ENE0085"
+      ]
+   },
+   {
+      "codigo": "ENE0077",
+      "nome": "CONTROLE DE SISTEMAS DINÂMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0005",
+         "ENE0078",
+         "ENE0079",
+         "ENE0328",
+         "ENE0345",
+         "ENE0379"
+      ],
+      "pre_requisitos": [
+         "ENE0304 & ENE0282",
+         "ENE0037 & ENE0038"
+      ]
+   },
+   {
+      "codigo": "ENE0167",
+      "nome": "CONTROLE DIGITAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0163",
+         "ENE0424"
+      ],
+      "pre_requisitos": [
+         "ENE0084",
+         "FGA0012",
+         "FGA0197",
+         "ENE0004",
+         "ENE0051",
+         "ENE0079 & ENE0068",
+         "ENE0079 & ENE0037"
+      ]
+   },
+   {
+      "codigo": "ENE0051",
+      "nome": "CONTROLE DINÂMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0078",
+         "ENE0079",
+         "ENE0167",
+         "ENE0480"
+      ],
+      "pre_requisitos": [
+         "ENE0035 & ENE0036",
+         "ENE0085"
+      ]
+   },
+   {
+      "codigo": "ENE0084",
+      "nome": "CONTROLE DINÂMICO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0001",
+         "ENE0003",
+         "ENE0005",
+         "ENE0167",
+         "ENE0168",
+         "ENE0240",
+         "ENE0260",
+         "ENE0323",
+         "ENE0328",
+         "ENE0345",
+         "ENE0510"
+      ],
+      "pre_requisitos": [
+         "ENE0085",
+         "ENE0301"
+      ]
+   },
+   {
+      "codigo": "ENE0319",
+      "nome": "CONTROLE LINEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0165",
+         "ENE0168",
+         "ENE0323",
+         "ENE0608"
+      ],
+      "pre_requisitos": [
+         "ENE0301"
+      ]
+   },
+   {
+      "codigo": "ENE0165",
+      "nome": "CONTROLE NAO LINEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0526"
+      ],
+      "pre_requisitos": [
+         "ENE0319"
+      ]
+   },
+   {
+      "codigo": "ENE0079",
+      "nome": "CONTROLE NO ESPAÇO DE ESTADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0260",
+         "ENE0419"
+      ],
+      "pre_requisitos": [
+         "ENE0077",
+         "ENE0051",
+         "ENE0004"
+      ]
+   },
+   {
+      "codigo": "ENE0240",
+      "nome": "CONTROLE PARA AUTOMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0431"
+      ],
+      "pre_requisitos": [
+         "ENE0084",
+         "ENE0078"
+      ]
+   },
+   {
+      "codigo": "ENE0186",
+      "nome": "CONVERSÃO DE ENERGIA E MÁQUINAS ELÉTRICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0225",
+         "ENE0288",
+         "ENE0317",
+         "ENE0341",
+         "ENE0425"
+      ],
+      "pre_requisitos": [
+         "ENE0304 & ENE0177",
+         "ENE0172 & ENE0177",
+         "FGA0186 & FGA0154"
+      ]
+   },
+   {
+      "codigo": "ENE0047",
+      "nome": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0048",
+         "ENE0406"
+      ],
+      "pre_requisitos": [
+         "ENE0042 & ENE0044 & IFD0179",
+         "ENE0042 & ENE0044 & ENE0177",
+         "ENE0172 & IFD0179",
+         "ENE0304 & ENE0282 & IFD0179",
+         "ENE0304 & ENE0282 & ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0130",
+      "nome": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0134",
+         "ENE0317",
+         "ENE0341",
+         "FGA0250",
+         "ENE0518"
+      ],
+      "pre_requisitos": [
+         "ENE0172 & IFD0179 & ENM0121",
+         "ENE0172 & ENE0177 & ENM0121",
+         "ENE0172 & ENE0177 & ENM0163",
+         "FGA0186 & FGA0154"
+      ]
+   },
+   {
+      "codigo": "ENE0340",
+      "nome": "DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0019",
+         "ENE0075",
+         "ENE0170",
+         "ENE0183",
+         "ENE0238",
+         "ENE0321",
+         "ENM0180",
+         "ENE0355",
+         "ENE0622"
+      ],
+      "pre_requisitos": [
+         "ENE0174 & IFD0179",
+         "ENE0177 & ENE0174",
+         "ENE0313 & ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0027",
+      "nome": "DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0223",
+         "ENE0355",
+         "ENE0461"
+      ],
+      "pre_requisitos": [
+         "ENE0037 & ENE0038 & ENE0177",
+         "ENE0174 & ENE0177",
+         "ENE0037 & ENE0038 & IFD0179",
+         "ENE0174 & IFD0179"
+      ]
+   },
+   {
+      "codigo": "ENE0212",
+      "nome": "DISPOSITIVOS ELETRONICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0551"
+      ],
+      "pre_requisitos": [
+         "ENE0302",
+         "ENE0181"
+      ]
+   },
+   {
+      "codigo": "ENE0254",
+      "nome": "DISTRIBUICAO DE ENERGIA ELETRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0572"
+      ],
+      "pre_requisitos": [
+         "ENE0289  &  ENE0304",
+         "ENE0174",
+         "ENE0037"
+      ]
+   },
+   {
+      "codigo": "ENE0243",
+      "nome": "ELETRICIDADE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0174",
+         "ENM0180",
+         "ENE0567"
+      ],
+      "pre_requisitos": [
+         "IFD0072",
+         "IFD0179"
+      ]
+   },
+   {
+      "codigo": "ENE0001",
+      "nome": "ELETRICIDADE BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0174",
+         "ENE0392"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENE0310",
+      "nome": "ELETROMAGNETISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0199",
+         "ENE0283",
+         "ENE0284",
+         "ENE0331",
+         "ENE0604"
+      ],
+      "pre_requisitos": [
+         "ENE0303 & MAT0028",
+         "ENE0177 & MAT0028"
+      ]
+   },
+   {
+      "codigo": "ENE0177",
+      "nome": "ELETROMAGNETISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0049",
+         "ENE0050",
+         "ENE0053",
+         "ENE0054",
+         "IFD0183",
+         "IFD0185",
+         "IFD0236",
+         "IFD0244",
+         "ENE0195",
+         "ENE0283",
+         "ENE0353",
+         "ENE0380"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENE0179",
+      "nome": "ELETROMAGNETISMO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0199",
+         "ENE0284",
+         "ENE0331",
+         "ENE0534"
+      ],
+      "pre_requisitos": [
+         "ENE0177 & MAT0028",
+         "ENE0275 & MAT0028"
+      ]
+   },
+   {
+      "codigo": "ENE0053",
+      "nome": "ELETROMAGNETISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0194",
+         "ENE0199",
+         "ENE0408"
+      ],
+      "pre_requisitos": [
+         "ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0284",
+      "nome": "ELETROMAGNETISMO APLICADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0588"
+      ],
+      "pre_requisitos": [
+         "ENE0179",
+         "ENE0310"
+      ]
+   },
+   {
+      "codigo": "ENE0275",
+      "nome": "ELETROMAGNETISMO GERAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0582"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0048"
+      ]
+   },
+   {
+      "codigo": "ENE0045",
+      "nome": "ELETRÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0355",
+         "ENE0404",
+         "ENE0438"
+      ],
+      "pre_requisitos": [
+         "ENE0304 & ENE0282 & ENE0177",
+         "ENE0037 & ENE0038 & ENE0177",
+         "ENE0037 & ENE0038 & IFD0179",
+         "ENE0304 & ENE0282 & IFD0179"
+      ]
+   },
+   {
+      "codigo": "ENE0302",
+      "nome": "ELETRONICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0212",
+         "ENE0215",
+         "ENE0355",
+         "ENE0598"
+      ],
+      "pre_requisitos": [
+         "ENE0184 & ENE0304",
+         "ENE0172 & ENE0184"
+      ]
+   },
+   {
+      "codigo": "ENE0181",
+      "nome": "ELETRONICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0017",
+         "ENE0019",
+         "IFD0142",
+         "ENE0170",
+         "ENE0212",
+         "ENE0215",
+         "ENE0247",
+         "ENE0321",
+         "FGA0215",
+         "ENE0535"
+      ],
+      "pre_requisitos": [
+         "ENE0172 & ENE0184"
+      ]
+   },
+   {
+      "codigo": "ENE0314",
+      "nome": "ELETRONICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0233",
+         "ENE0606"
+      ],
+      "pre_requisitos": [
+         "ENE0302 & ENE0313",
+         "ENE0181 & ENE0174"
+      ]
+   },
+   {
+      "codigo": "ENE0183",
+      "nome": "ELETRONICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0162",
+         "ENE0233",
+         "ENE0536"
+      ],
+      "pre_requisitos": [
+         "ENE0181 & ENE0174",
+         "ENE0181 & ENE0313",
+         "ENE0340",
+         "ENE0045 & ENE0046"
+      ]
+   },
+   {
+      "codigo": "ENE0059",
+      "nome": "ELETRÔNICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0411"
+      ],
+      "pre_requisitos": [
+         "ENE0045 & ENE0046",
+         "ENE0027 & ENE0028"
+      ]
+   },
+   {
+      "codigo": "ENE0326",
+      "nome": "ELETRÔNICA DE POTÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0080",
+         "ENE0612"
+      ],
+      "pre_requisitos": [
+         "ENE0045 & ENE0046  &  ENE0186",
+         "ENE0047"
+      ]
+   },
+   {
+      "codigo": "ENE0221",
+      "nome": "ELETRONICA INDUSTRIAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0555"
+      ],
+      "pre_requisitos": [
+         "ENE0314 & ENE0287 & ENE0186",
+         "ENE0183 & ENE0186"
+      ]
+   },
+   {
+      "codigo": "ENE0134",
+      "nome": "ELETROTECNICA APLICADA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0519"
+      ],
+      "pre_requisitos": [
+         "ENE0130"
+      ]
+   },
+   {
+      "codigo": "ENE0459",
+      "nome": "ENGENHARIA E MUDANÇAS CLIMÁTICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0063",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA DE REDES DE COMUNICAÇÃO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "ENE0490"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0070",
+      "nome": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA ELÉTRICA",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "ENE0415"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0166",
+      "nome": "FILTROS ELETRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0527"
+      ],
+      "pre_requisitos": [
+         "ENE0313 & ENE0282",
+         "ENE0174"
+      ]
+   },
+   {
+      "codigo": "ENE0238",
+      "nome": "FOTÔNICA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0565"
+      ],
+      "pre_requisitos": [
+         "ENE0184",
+         "ENE0340",
+         "IFD0115"
+      ]
+   },
+   {
+      "codigo": "ENE0076",
+      "nome": "FUNDAMENTOS DE COMPRESSÃO DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0502"
+      ],
+      "pre_requisitos": [
+         "EST0023 & ENE0067",
+         "EST0023 & ENE0037",
+         "EST0023 & CIC0242",
+         "EST0023 & FGA0102"
+      ]
+   },
+   {
+      "codigo": "ENE0141",
+      "nome": "FUNDAMENTOS DE ELETROTÉCNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0520"
+      ],
+      "pre_requisitos": [
+         "IFD0177"
+      ]
+   },
+   {
+      "codigo": "ENE0274",
+      "nome": "FUNDAMENTOS DE REDES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0015",
+         "ENE0089",
+         "ENC0261",
+         "ENE0383"
+      ],
+      "pre_requisitos": [
+         "EST0023 & ENE0013"
+      ]
+   },
+   {
+      "codigo": "ENE0015",
+      "nome": "FUNDAMENTOS DE REDES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0021",
+         "ENE0025",
+         "ENE0394"
+      ],
+      "pre_requisitos": [
+         "ENE0274"
+      ]
+   },
+   {
+      "codigo": "ENE0230",
+      "nome": "GERACAO DE ENERGIA ELETRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0430"
+      ],
+      "pre_requisitos": [
+         "ENE0289 & ENE0186"
+      ]
+   },
+   {
+      "codigo": "ENE0257",
+      "nome": "GERACAO HIDRELETRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0573"
+      ],
+      "pre_requisitos": [
+         "ENE0289 & ENE0186"
+      ]
+   },
+   {
+      "codigo": "ENE0016",
+      "nome": "GERÊNCIA DE REDES E SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0395"
+      ],
+      "pre_requisitos": [
+         "ENE0352 & ENE0017"
+      ]
+   },
+   {
+      "codigo": "ENE0260",
+      "nome": "IDENTIFICAÇÃO DE SISTEMAS DINÂMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0575"
+      ],
+      "pre_requisitos": [
+         "ENE0084",
+         "ENE0319 & ENE0290",
+         "ENE0079"
+      ]
+   },
+   {
+      "codigo": "ENE0065",
+      "nome": "IMAGENS MÉDICAS: AQUISIÇÃO E RECONSTRUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0492"
+      ],
+      "pre_requisitos": [
+         "ENE0174",
+         "ENE0313",
+         "FGA0219",
+         "FGA0199",
+         "ENE0304 & ENE0282"
+      ]
+   },
+   {
+      "codigo": "ENE0229",
+      "nome": "INSTALAÇÕES ELETRICAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0336",
+         "ENC0262",
+         "ENE0559"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0071",
+      "nome": "INSTALAÇÕES ELÉTRICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0072",
+         "ENE0377"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0336",
+      "nome": "INSTALACOES ELETRICAS INDUSTRIAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0620"
+      ],
+      "pre_requisitos": [
+         "ENE0229"
+      ]
+   },
+   {
+      "codigo": "ENE0220",
+      "nome": "INSTRUMENTACAO DE CONTROLE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0429"
+      ],
+      "pre_requisitos": [
+         "ENE0084 & ENE0340",
+         "ENE0319 & ENE0181",
+         "ENE0084 & ENE0181",
+         "ENE0077 & ENE0181",
+         "ENE0077 & ENE0045",
+         "ENE0077 & ENE0027"
+      ]
+   },
+   {
+      "codigo": "ENE0005",
+      "nome": "INSTRUMENTAÇÃO DE CONTROLE DE PROCESSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0393"
+      ],
+      "pre_requisitos": [
+         "ENE0004",
+         "ENE0084",
+         "ENE0077"
+      ]
+   },
+   {
+      "codigo": "ENE0355",
+      "nome": "INSTRUMENTAÇÃO ELETRÔNICA E SENSORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0633"
+      ],
+      "pre_requisitos": [
+         "ENE0045",
+         "ENE0027",
+         "ENE0340",
+         "ENE0302"
+      ]
+   },
+   {
+      "codigo": "ENE0154",
+      "nome": "INTELIGÊNCIA COMPUTACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0521"
+      ],
+      "pre_requisitos": [
+         "ENE0077 & ENE0078",
+         "ENE0306 & ENE0295"
+      ]
+   },
+   {
+      "codigo": "ENE0026",
+      "nome": "INTRODUÇÃO A ENGENHARIA DE REDES DE COMUNICACÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0369"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0155",
+      "nome": "INTRODUCAO A ENGENHARIA ELETRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0261",
+         "ENE0423"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0258",
+      "nome": "INTRODUCAO A IDENTIFICACAO DE PROCESSOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0574"
+      ],
+      "pre_requisitos": [
+         "ENE0301",
+         "ENE0085"
+      ]
+   },
+   {
+      "codigo": "ENE0168",
+      "nome": "INTRODUCAO AO CONTROLE OTIMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0529"
+      ],
+      "pre_requisitos": [
+         "ENE0319",
+         "ENE0084"
+      ]
+   },
+   {
+      "codigo": "ENE0321",
+      "nome": "INTRODUCAO AO PROJETO DE CIRCUITOS INTEGRADOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0610"
+      ],
+      "pre_requisitos": [
+         "ENE0181",
+         "ENE0340",
+         "FGA0068",
+         "FGA0070",
+         "FGA0217",
+         "ENE0045 & ENE0046"
+      ]
+   },
+   {
+      "codigo": "ENE0066",
+      "nome": "INTRODUÇÃO AOS CIRCUITOS ELÉTRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0413"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENE0323",
+      "nome": "INTRODUCAO A ROBOTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0611"
+      ],
+      "pre_requisitos": [
+         "ENE0319",
+         "ENE0084"
+      ]
+   },
+   {
+      "codigo": "ENE0303",
+      "nome": "INTRODUCAO A TEORIA ELETROMAGNETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0599"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0048",
+         "MAT0027 & IFD0072"
+      ]
+   },
+   {
+      "codigo": "ENE0036",
+      "nome": "LABORATÓRIO DE ANÁLISE DINÂMICA LINEAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0467"
+      ],
+      "pre_requisitos": [
+         "ENE0037 & ENE0038",
+         "ENE0174"
+      ]
+   },
+   {
+      "codigo": "ENE0057",
+      "nome": "LABORATÓRIO DE ARQUITETURA DE PROCESSADORES DIGITAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0486"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0010",
+      "nome": "LABORATÓRIO DE ARQUITETURA E PROTOCOLOS DE REDES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0448"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0282",
+      "nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0118",
+         "ENE0384"
+      ],
+      "pre_requisitos": [
+         "ENE0066 & ENE0067",
+         "ENE0066 & CIC0242"
+      ]
+   },
+   {
+      "codigo": "ENE0044",
+      "nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0403"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & MAT0026"
+      ]
+   },
+   {
+      "codigo": "ENE0038",
+      "nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0118",
+         "ENE0401"
+      ],
+      "pre_requisitos": [
+         "ENE0042 & ENE0044",
+         "ENE0041 & ENE0043",
+         "ENE0172"
+      ]
+   },
+   {
+      "codigo": "ENE0290",
+      "nome": "LABORATORIO DE CONTROLE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0592"
+      ],
+      "pre_requisitos": [
+         "ENE0301"
+      ]
+   },
+   {
+      "codigo": "ENE0006",
+      "nome": "LABORATÓRIO DE CONTROLE DE PROCESSOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0363"
+      ],
+      "pre_requisitos": [
+         "ENE0004 & IQD0014 & ENE0005",
+         "ENE0084 & ENE0005"
+      ]
+   },
+   {
+      "codigo": "ENE0078",
+      "nome": "LABORATÓRIO DE CONTROLE DE SISTEMAS DINÂMICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0240",
+         "ENE0418"
+      ],
+      "pre_requisitos": [
+         "ENE0077",
+         "ENE0051"
+      ]
+   },
+   {
+      "codigo": "ENE0052",
+      "nome": "LABORATÓRIO DE CONTROLE DINÂMICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0481"
+      ],
+      "pre_requisitos": [
+         "ENE0035 & ENE0036",
+         "ENE0085"
+      ]
+   },
+   {
+      "codigo": "ENE0288",
+      "nome": "LABORATORIO DE CONVERSAO DE ENERGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0590"
+      ],
+      "pre_requisitos": [
+         "ENE0186"
+      ]
+   },
+   {
+      "codigo": "ENE0074",
+      "nome": "LABORATÓRIO DE CONVERSÃO DE ENERGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0417"
+      ],
+      "pre_requisitos": [
+         "ENE0073"
+      ]
+   },
+   {
+      "codigo": "ENE0048",
+      "nome": "LABORATÓRIO DE CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0372"
+      ],
+      "pre_requisitos": [
+         "ENE0047"
+      ]
+   },
+   {
+      "codigo": "ENE0028",
+      "nome": "LABORATÓRIO DE DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0462"
+      ],
+      "pre_requisitos": [
+         "ENE0037 & ENE0038 & ENE0177",
+         "ENE0174 & ENE0177",
+         "ENE0037 & ENE0038 & IFD0179",
+         "ENE0174 & IFD0179"
+      ]
+   },
+   {
+      "codigo": "ENE0002",
+      "nome": "LABORATÓRIO DE ELETRICIDADE BÁSICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0361"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENE0283",
+      "nome": "LABORATORIO DE ELETROMAGNETISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0587"
+      ],
+      "pre_requisitos": [
+         "ENE0310",
+         "ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0054",
+      "nome": "LABORATÓRIO DE ELETROMAGNETISMO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0409"
+      ],
+      "pre_requisitos": [
+         "ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0287",
+      "nome": "LABORATORIO DE ELETRONICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0589"
+      ],
+      "pre_requisitos": [
+         "ENE0302 & ENE0313 & ENE0282",
+         "ENE0181 & ENE0174"
+      ]
+   },
+   {
+      "codigo": "ENE0046",
+      "nome": "LABORATÓRIO DE ELETRÔNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0405"
+      ],
+      "pre_requisitos": [
+         "ENE0304 & ENE0282 & ENE0177",
+         "ENE0037 & ENE0038 & ENE0177",
+         "ENE0037 & ENE0038 & IFD0179",
+         "ENE0304 & ENE0282 & IFD0179"
+      ]
+   },
+   {
+      "codigo": "ENE0060",
+      "nome": "LABORATÓRIO DE ELETRÔNICA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0412"
+      ],
+      "pre_requisitos": [
+         "ENE0045 & ENE0046",
+         "ENE0027 & ENE0028"
+      ]
+   },
+   {
+      "codigo": "ENE0080",
+      "nome": "LABORATÓRIO DE ELETRÔNICA DE POTÊNCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0506"
+      ],
+      "pre_requisitos": [
+         "ENE0326"
+      ]
+   },
+   {
+      "codigo": "ENE0072",
+      "nome": "LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0378"
+      ],
+      "pre_requisitos": [
+         "ENE0071"
+      ]
+   },
+   {
+      "codigo": "ENE0050",
+      "nome": "LABORATÓRIO DE MATERIAIS ELÉTRICOS E MAGNÉTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0373"
+      ],
+      "pre_requisitos": [
+         "ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0295",
+      "nome": "LABORATÓRIO DE PRINCÍPIOS DE COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0385"
+      ],
+      "pre_requisitos": [
+         "EST0023 & ENE0174",
+         "EST0023 & ENE0313",
+         "EST0023 & ENE0068"
+      ]
+   },
+   {
+      "codigo": "ENE0011",
+      "nome": "LABORATÓRIO DE REDES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0364"
+      ],
+      "pre_requisitos": [
+         "ENE0015 & ENE0091",
+         "ENE0274 & ENE0335"
+      ]
+   },
+   {
+      "codigo": "ENE0008",
+      "nome": "LABORATÓRIO DE REDES DE TELECOMUNICAÇÕES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0446"
+      ],
+      "pre_requisitos": [
+         "ENE0237 & ENE0306",
+         "ENE0306 & ENE0009 & ENE0011",
+         "ENE0306 & ENE0011 & ENE0025"
+      ]
+   },
+   {
+      "codigo": "ENE0291",
+      "nome": "LABORATORIO DE SISTEMAS DIGITAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0245",
+         "ENE0593"
+      ],
+      "pre_requisitos": [
+         "ENE0302 & ENE0181"
+      ]
+   },
+   {
+      "codigo": "ENE0040",
+      "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0371"
+      ],
+      "pre_requisitos": [
+         "CIC0007",
+         "CIC0004",
+         "ENE0334"
+      ]
+   },
+   {
+      "codigo": "ENE0034",
+      "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0465"
+      ],
+      "pre_requisitos": [
+         "ENE0039 & ENE0040",
+         "ENE0277"
+      ]
+   },
+   {
+      "codigo": "ENE0073",
+      "nome": "LABORATÓRIO DE SISTEMAS ELÉTRICOS DE POTÊNCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0074",
+         "ENE0416"
+      ],
+      "pre_requisitos": [
+         "ENE0186 & ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0058",
+      "nome": "LABORATÓRIO DE SISTEMAS MICROPROCESSADOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0410"
+      ],
+      "pre_requisitos": [
+         "ENE0039 & ENE0040"
+      ]
+   },
+   {
+      "codigo": "ENE0294",
+      "nome": "LABORATORIO DE TELECOMUNICACOES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0594"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0317",
+      "nome": "MÁQUINAS ELÉTRICAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0341",
+         "ENE0607"
+      ],
+      "pre_requisitos": [
+         "ENE0186",
+         "ENE0130"
+      ]
+   },
+   {
+      "codigo": "ENE0184",
+      "nome": "MATERIAIS ELETRICOS E MAGNETICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0238",
+         "ENE0537"
+      ],
+      "pre_requisitos": [
+         "ENE0177 & MAT0059",
+         "ENE0275 & MAT0059"
+      ]
+   },
+   {
+      "codigo": "ENE0049",
+      "nome": "MATERIAIS ELÉTRICOS E MAGNÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0075",
+         "ENE0407"
+      ],
+      "pre_requisitos": [
+         "ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENE0276",
+      "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0432"
+      ],
+      "pre_requisitos": [
+         "ENE0335",
+         "ENE0013"
+      ]
+   },
+   {
+      "codigo": "ENE0200",
+      "nome": "MICROONDAS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0543"
+      ],
+      "pre_requisitos": [
+         "ENE0199"
+      ]
+   },
+   {
+      "codigo": "ENE0082",
+      "nome": "NOÇÕES DE INTELIGÊNCIA ARTIFICIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0508"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & EST0023 & CIC0004",
+         "MAT0027 & EST0023 & ENE0334",
+         "MAT0027 & EST0023 & CIC0007"
+      ]
+   },
+   {
+      "codigo": "ENE0087",
+      "nome": "OPERAÇÃO E ADMINISTRAÇÃO DE REDES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0513"
+      ],
+      "pre_requisitos": [
+         "ENE0237",
+         "ENE0025 & ENE0011"
+      ]
+   },
+   {
+      "codigo": "ENE0014",
+      "nome": "PLANEJAMENTO DE REDES SEM FIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0451"
+      ],
+      "pre_requisitos": [
+         "ENE0306"
+      ]
+   },
+   {
+      "codigo": "ENE0273",
+      "nome": "PLANEJAMENTO ENERGETICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0580"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0306",
+      "nome": "PRINCÍPIOS DE COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0014",
+         "ENE0202",
+         "ENE0204",
+         "ENE0206",
+         "ENE0211",
+         "ENE0223",
+         "ENE0262",
+         "ENE0265",
+         "ENE0329",
+         "ENE0386"
+      ],
+      "pre_requisitos": [
+         "EST0023 & ENE0174",
+         "EST0023 & ENE0313",
+         "EST0023 & ENE0068"
+      ]
+   },
+   {
+      "codigo": "ENE0345",
+      "nome": "PRINCÍPIOS DE CONTROLE DE ROBÔS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0627"
+      ],
+      "pre_requisitos": [
+         "ENE0084",
+         "ENE0077"
+      ]
+   },
+   {
+      "codigo": "ENE0209",
+      "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0549"
+      ],
+      "pre_requisitos": [
+         "ENE0067",
+         "ENE0037",
+         "CIC0242"
+      ]
+   },
+   {
+      "codigo": "ENE0354",
+      "nome": "PROJETO FINAL DE GRADUAÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0343",
+         "ENE0360",
+         "ENE0632"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0342",
+      "nome": "PROJETO FINAL DE GRADUAÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0343",
+         "ENE0360",
+         "ENE0624"
+      ],
+      "pre_requisitos": [
+         "ENE0024"
+      ]
+   },
+   {
+      "codigo": "ENE0343",
+      "nome": "PROJETO FINAL DE GRADUAÇÃO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0625"
+      ],
+      "pre_requisitos": [
+         "ENE0342",
+         "ENE0354"
+      ]
+   },
+   {
+      "codigo": "ENE0438",
+      "nome": "PROJETO INTEGRADOR DE TECNOLOGIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0642"
+      ],
+      "pre_requisitos": [
+         "ENE0045"
+      ]
+   },
+   {
+      "codigo": "ENE0022",
+      "nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0397"
+      ],
+      "pre_requisitos": [
+         "ENE0334 & ENE0013",
+         "ENE0334 & ENE0335"
+      ]
+   },
+   {
+      "codigo": "ENE0024",
+      "nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "CIC0191",
+         "ENE0342",
+         "ENE0358",
+         "ENE0398"
+      ],
+      "pre_requisitos": [
+         "ENE0022 & ENE0091 & ENE0274"
+      ]
+   },
+   {
+      "codigo": "ENE0195",
+      "nome": "PROPAGACAO DE ONDAS ELETROMAGNETICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0390"
+      ],
+      "pre_requisitos": [
+         "ENE0177",
+         "FGA0143"
+      ]
+   },
+   {
+      "codigo": "ENE0235",
+      "nome": "PROTECAO DE SISTEMAS ELETRICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0563"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0025",
+      "nome": "PROTOCOLOS DE TRANSPORTE E ROTEAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0088",
+         "ENE0399"
+      ],
+      "pre_requisitos": [
+         "ENE0015"
+      ]
+   },
+   {
+      "codigo": "ENE0341",
+      "nome": "QUALIDADE DE ENÉRGIA ELÉTRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0623"
+      ],
+      "pre_requisitos": [
+         "ENE0317",
+         "ENE0130",
+         "ENE0186"
+      ]
+   },
+   {
+      "codigo": "ENE0207",
+      "nome": "RADIODIFUSAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0548"
+      ],
+      "pre_requisitos": [
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0333",
+      "nome": "REDES DE COMUNICACAO DE DADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0262",
+         "ENE0617"
+      ],
+      "pre_requisitos": [
+         "ENE0237",
+         "ENE0011 & ENE0009"
+      ]
+   },
+   {
+      "codigo": "ENE0007",
+      "nome": "REDES DE TELECOMUNICAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0445"
+      ],
+      "pre_requisitos": [
+         "ENE0306 & ENE0025"
+      ]
+   },
+   {
+      "codigo": "ENE0083",
+      "nome": "REDES DE TELECOMUNICAÇÕES 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0086",
+         "ENE0509"
+      ],
+      "pre_requisitos": [
+         "ENE0306 & ENE0237",
+         "ENE0306 & ENE0025 & ENE0011"
+      ]
+   },
+   {
+      "codigo": "ENE0086",
+      "nome": "REDES DE TELECOMUNICAÇÕES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0512"
+      ],
+      "pre_requisitos": [
+         "ENE0083"
+      ]
+   },
+   {
+      "codigo": "ENE0352",
+      "nome": "REDES LOCAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0090",
+         "ENE0437"
+      ],
+      "pre_requisitos": [
+         "ENE0237",
+         "ENE0009 & ENE0011",
+         "ENE0025 & ENE0011"
+      ]
+   },
+   {
+      "codigo": "ENE0064",
+      "nome": "REDES SEM FIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0375"
+      ],
+      "pre_requisitos": [
+         "ENE0237",
+         "ENE0009 & ENE0011",
+         "ENE0025 & ENE0011"
+      ]
+   },
+   {
+      "codigo": "ENE0090",
+      "nome": "SEGURANÇA DE REDES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0421"
+      ],
+      "pre_requisitos": [
+         "ENE0352"
+      ]
+   },
+   {
+      "codigo": "ENE0163",
+      "nome": "SINAIS E SISTEMAS DISCRETOS NO TEMPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0524"
+      ],
+      "pre_requisitos": [
+         "ENE0167",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0067",
+      "nome": "SINAIS E SISTEMAS EM TEMPO CONTÍNUO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0068",
+         "CIC0196",
+         "ENE0209",
+         "ENE0414",
+         "ENE0494"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENE0068",
+      "nome": "SINAIS E SISTEMAS EM TEMPO DISCRETO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0339",
+         "ENE0376"
+      ],
+      "pre_requisitos": [
+         "ENE0067",
+         "ENE0037",
+         "CIC0242"
+      ]
+   },
+   {
+      "codigo": "ENE0223",
+      "nome": "SISTEMAS DE ÁUDIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0556"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "FGA0199",
+         "ENE0027"
+      ]
+   },
+   {
+      "codigo": "ENE0164",
+      "nome": "SISTEMAS DE AUDIO E VIDEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0525"
+      ],
+      "pre_requisitos": [
+         "ENE0306 & ENE0314",
+         "ENE0183 & ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0202",
+      "nome": "SISTEMAS DE COMUNICACOES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0428"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0088",
+      "nome": "SISTEMAS DE INFORMAÇÃO DISTRIBUÍDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0420"
+      ],
+      "pre_requisitos": [
+         "ENE0025"
+      ]
+   },
+   {
+      "codigo": "ENE0356",
+      "nome": "SISTEMAS DE MEDIÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0634"
+      ],
+      "pre_requisitos": [
+         "ENE0045 & ENE0077"
+      ]
+   },
+   {
+      "codigo": "ENE0335",
+      "nome": "SISTEMAS DE PROGRAMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0276",
+         "ENE0619"
+      ],
+      "pre_requisitos": [
+         "ENE0334",
+         "CIC0007"
+      ]
+   },
+   {
+      "codigo": "ENE0039",
+      "nome": "SISTEMAS DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0370"
+      ],
+      "pre_requisitos": [
+         "CIC0007",
+         "CIC0004",
+         "ENE0334"
+      ]
+   },
+   {
+      "codigo": "ENE0320",
+      "nome": "SISTEMAS DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0245",
+         "ENE0609"
+      ],
+      "pre_requisitos": [
+         "ENE0302 & ENE0181"
+      ]
+   },
+   {
+      "codigo": "ENE0277",
+      "nome": "SISTEMAS DIGITAIS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0031",
+         "ENE0034",
+         "CIC0099",
+         "FGA0072",
+         "FGA0074",
+         "ENE0278",
+         "ENM0178",
+         "FGA0142",
+         "ENE0584"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0031",
+      "nome": "SISTEMAS DIGITAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0464"
+      ],
+      "pre_requisitos": [
+         "ENE0039 & ENE0040",
+         "ENE0277"
+      ]
+   },
+   {
+      "codigo": "ENE0029",
+      "nome": "SISTEMAS DIGITAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0463"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0278",
+      "nome": "SISTEMAS DIGITAIS 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "CIC0186",
+         "FGA0096",
+         "ENE0245",
+         "FGA0182",
+         "FGA0201",
+         "ENE0585"
+      ],
+      "pre_requisitos": [
+         "ENE0277",
+         "CIC0094"
+      ]
+   },
+   {
+      "codigo": "ENE0301",
+      "nome": "SISTEMAS LINEARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0084",
+         "ENE0258",
+         "ENE0290",
+         "ENE0319",
+         "ENE0597"
+      ],
+      "pre_requisitos": [
+         "ENE0313",
+         "ENE0174"
+      ]
+   },
+   {
+      "codigo": "ENE0056",
+      "nome": "SISTEMAS MICROPROCESSADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0374"
+      ],
+      "pre_requisitos": [
+         "ENE0039 & ENE0040"
+      ]
+   },
+   {
+      "codigo": "ENE0091",
+      "nome": "SISTEMAS OPERACIONAIS DE REDES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0422"
+      ],
+      "pre_requisitos": [
+         "ENE0056 & ENE0058 & ENE0274",
+         "ENE0056 & ENE0440 & ENE0274"
+      ]
+   },
+   {
+      "codigo": "ENE0231",
+      "nome": "SUBESTACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0561"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0248",
+      "nome": "TECNICAS DE ALTA TENSAO",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENE0570"
+      ],
+      "pre_requisitos": [
+         "ENE0304",
+         "ENE0172"
+      ]
+   },
+   {
+      "codigo": "ENE0247",
+      "nome": "TECNOLOGIA DE CIRCUITOS INTEGRADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0569"
+      ],
+      "pre_requisitos": [
+         "ENE0181",
+         "ENE0045 & ENE0046"
+      ]
+   },
+   {
+      "codigo": "ENE0225",
+      "nome": "TECNOLOGIA NUCLEAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0557"
+      ],
+      "pre_requisitos": [
+         "ENE0186"
+      ]
+   },
+   {
+      "codigo": "ENE0204",
+      "nome": "TELEFONIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0546"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0206",
+      "nome": "TELEFONIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0547"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0211",
+      "nome": "TEORIA DA INFORMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0550"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0191",
+      "nome": "TEORIA DE COMUNICACOES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENE0163",
+         "ENE0202",
+         "ENE0204",
+         "ENE0206",
+         "ENE0207",
+         "ENE0211",
+         "ENE0262",
+         "ENE0265",
+         "ENE0329",
+         "ENE0539"
+      ],
+      "pre_requisitos": [
+         "ENE0174 & EST0023",
+         "ENE0313 & EST0023"
+      ]
+   },
+   {
+      "codigo": "ENE0305",
+      "nome": "TEORIA DE COMUNICACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0601"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0328",
+      "nome": "TOPICOS EM CONTROLE E AUTOMACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0613"
+      ],
+      "pre_requisitos": [
+         "ENE0077",
+         "ENE0084"
+      ]
+   },
+   {
+      "codigo": "ENE0332",
+      "nome": "TOPICOS EM ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0387"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0347",
+      "nome": "TÓPICOS EM REDES DE COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0628"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0349",
+      "nome": "TÓPICOS EM REDES DE COMUNICAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0629"
+      ],
+      "pre_requisitos": [
+         "ENE0025 & ENE0011",
+         "ENE0237",
+         "ENE0009 & ENE0011"
+      ]
+   },
+   {
+      "codigo": "ENE0021",
+      "nome": "TÓPICOS EM REDES DE COMUNICAÇÃO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0396"
+      ],
+      "pre_requisitos": [
+         "ENE0015"
+      ]
+   },
+   {
+      "codigo": "ENE0170",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA BIOMÉDICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0530"
+      ],
+      "pre_requisitos": [
+         "ENE0181",
+         "ENE0340",
+         "ENE0045 & ENE0046"
+      ]
+   },
+   {
+      "codigo": "ENE0019",
+      "nome": "TÓPICOS ESPECIAIS EM MICROELETRÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0455"
+      ],
+      "pre_requisitos": [
+         "ENE0181",
+         "ENE0340",
+         "FGA0068",
+         "FGA0070",
+         "FGA0217",
+         "ENE0045 & ENE0046"
+      ]
+   },
+   {
+      "codigo": "ENE0339",
+      "nome": "TOPICOS ESPECIAIS EM PROCESSAMENTO DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0621"
+      ],
+      "pre_requisitos": [
+         "ENE0068",
+         "ENE0037"
+      ]
+   },
+   {
+      "codigo": "ENE0267",
+      "nome": "TOPICOS ESPECIAIS EM SISTEMA DE POTENCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0578"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   },
+   {
+      "codigo": "ENE0270",
+      "nome": "TOPICOS ESPECIAIS EM SISTEMA DIGITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0382"
+      ],
+      "pre_requisitos": [
+         "ENE0056 & ENE0058",
+         "CIC0099"
+      ]
+   },
+   {
+      "codigo": "ENE0265",
+      "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0577"
+      ],
+      "pre_requisitos": [
+         "ENE0306",
+         "ENE0191"
+      ]
+   },
+   {
+      "codigo": "ENE0309",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENE0298",
+         "ENE0299",
+         "ENE0391",
+         "ENE0436"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENE0299",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "ENE0434"
+      ],
+      "pre_requisitos": [
+         "ENE0309",
+         "ENE0368"
+      ]
+   },
+   {
+      "codigo": "ENE0251",
+      "nome": "TRANSMISSAO DE ENERGIA ELETRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENE0571"
+      ],
+      "pre_requisitos": [
+         "ENE0289"
+      ]
+   }
+]

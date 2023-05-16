@@ -1,0 +1,4972 @@
+[
+   {
+      "codigo": "FCE0136",
+      "nome": "ADVOCACIA EM SAÚDE: SOCIEDADE CIVIL E REIVINDICAÇÃO DO DIREITO A SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0504"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0234 & FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0007",
+      "nome": "A ENFERMAGEM NA ESTRATÉGIA  SAÚDE DA FAMÍLIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0729"
+      ],
+      "pre_requisitos": [
+         "FCE0234 & FCE0235"
+      ]
+   },
+   {
+      "codigo": "FCE0254",
+      "nome": "AGENTES INFECCIOSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0139",
+         "FCE0305",
+         "FCE0329",
+         "FCE0556"
+      ],
+      "pre_requisitos": [
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0457",
+      "nome": "ANÁLISE BIOMECÂNICA DA MARCHA HUMANA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1152"
+      ],
+      "pre_requisitos": [
+         "FCE0279",
+         "FCE0244",
+         "FEF0275"
+      ]
+   },
+   {
+      "codigo": "FCE0274",
+      "nome": "ANÁLISE DO DISCURSO DA SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0980"
+      ],
+      "pre_requisitos": [
+         "FCE0229"
+      ]
+   },
+   {
+      "codigo": "FCE0260",
+      "nome": "ANÁLISE INSTRUMENTAL FARMACÊUTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0120",
+         "FAR0163",
+         "FCE0561"
+      ],
+      "pre_requisitos": [
+         "FCE0238 & FCE0212",
+         "FAR0167"
+      ]
+   },
+   {
+      "codigo": "FCE0112",
+      "nome": "ANÁLISES LABORATORIAIS DOS FLUÍDOS BIOLÓGICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0834"
+      ],
+      "pre_requisitos": [
+         "FCE0367 & FCE0398"
+      ]
+   },
+   {
+      "codigo": "FCE0405",
+      "nome": "ANÁLISES TOXICOLÓGICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1105"
+      ],
+      "pre_requisitos": [
+         "FCE0260 & FCE0372"
+      ]
+   },
+   {
+      "codigo": "FCE0044",
+      "nome": "ANTROPOLOGIA DA SAÚDE E ADOECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0648"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0021",
+      "nome": "APRIMORAMENTO DA PERFORMANCE COMUNICATIVA: ATIVIDADE PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0743"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0110",
+      "nome": "ARTETERAPIA: CRIATIVIDADE, ARTE E SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0483"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0213",
+      "nome": "ASSISTÊNCIA FARMACÊUTICA E SISTEMAS DE SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0063",
+         "FCE0531"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0156",
+      "nome": "ASSOCIAÇÕES DOS PROFISSIONAIS DE ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0876"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0050",
+      "nome": "ATENÇÃO AO PREMATURO E A FAMÍLIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0470"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0011",
+      "nome": "ATENÇÃO PRIMÁRIA EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0460"
+      ],
+      "pre_requisitos": [
+         "FCE0330 & FCE0234 & FCE0277"
+      ]
+   },
+   {
+      "codigo": "FCE0113",
+      "nome": "AVALIAÇÃO E DIAGNÓSTICO FONOAUDIOLÓGICO NO PRIMEIRO CICLO DE VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0484"
+      ],
+      "pre_requisitos": [
+         "FCE0122"
+      ]
+   },
+   {
+      "codigo": "FCE0114",
+      "nome": "AVALIAÇÃO E DIAGNÓSTICO FONOAUDIOLÓGICO NO SEGUNDO CICLO DE VIDA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0485"
+      ],
+      "pre_requisitos": [
+         "FCE0124"
+      ]
+   },
+   {
+      "codigo": "FCE0115",
+      "nome": "AVALIAÇÃO E DIAGNÓSTICO FONOAUDIOLÓGICO NO TERCEIRO CICLO DE VIDA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0486"
+      ],
+      "pre_requisitos": [
+         "FCE0119"
+      ]
+   },
+   {
+      "codigo": "FCE0061",
+      "nome": "BASES CELULARES E MORFOLÓGICAS DO DESENVOLVIMENTO REGENERAÇÃO MUSCULAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0783"
+      ],
+      "pre_requisitos": [
+         "FCE0201 & FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0135",
+      "nome": "BASES CIENTÍFICAS DE NUTRIÇÃO E ATIVIDADE FÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0857"
+      ],
+      "pre_requisitos": [
+         "FCE0192 & FCE0201",
+         "FEF0409 & FEF0408",
+         "FMD0510 & CEL0082"
+      ]
+   },
+   {
+      "codigo": "FCE0079",
+      "nome": "BASES DE FISIOLOGIA ENDÓCRINA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0801"
+      ],
+      "pre_requisitos": [
+         "FCE0204 & FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0099",
+      "nome": "BASES MOLECULARES CELULARES E FUNCIONAIS DA ATROFIA MUSCULOESQUELÉTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0821"
+      ],
+      "pre_requisitos": [
+         "FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0096",
+      "nome": "BASES MOLECULARES CELULARES E FUNCIONAIS DA HIPERTROFIA MUSCULAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0818"
+      ],
+      "pre_requisitos": [
+         "FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0012",
+      "nome": "BIOÉTICA E SAÚDE COLETIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0461"
+      ],
+      "pre_requisitos": [
+         "FCE0330"
+      ]
+   },
+   {
+      "codigo": "FCE0198",
+      "nome": "BIOFÍSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0681"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0367",
+      "nome": "BIOQUÍMICA CLÍNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0183",
+         "FCE0704"
+      ],
+      "pre_requisitos": [
+         "FCE0307",
+         "FAR0174"
+      ]
+   },
+   {
+      "codigo": "FCE0417",
+      "nome": "BIOQUÍMICA CLÍNICA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0714"
+      ],
+      "pre_requisitos": [
+         "FCE0416"
+      ]
+   },
+   {
+      "codigo": "FCE0416",
+      "nome": "BIOQUÍMICA CLÍNICA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0417",
+         "FCE0640"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0214",
+      "nome": "BIOSSEGURANÇA E BIOPROTEÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0928"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0419",
+      "nome": "BROMATOLOGIA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0716"
+      ],
+      "pre_requisitos": [
+         "FCE0418"
+      ]
+   },
+   {
+      "codigo": "FCE0418",
+      "nome": "BROMATOLOGIA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0419",
+         "FCE0715"
+      ],
+      "pre_requisitos": [
+         "FCE0238"
+      ]
+   },
+   {
+      "codigo": "FCE0058",
+      "nome": "CICLOS DE VIDA E FONOAUDIOLOGIA DO NASCIMENTO À PRIMEIRA INFÂNCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0066",
+         "FCE0068",
+         "FCE0780"
+      ],
+      "pre_requisitos": [
+         "FCE0041"
+      ]
+   },
+   {
+      "codigo": "FCE0076",
+      "nome": "CICLOS DE VIDA E FONOAUDIOLOGIA: INFÂNCIA A ADOLESCÊNCIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0082",
+         "FCE0083",
+         "FCE0798"
+      ],
+      "pre_requisitos": [
+         "FCE0042 & FCE0264 & FCE0033 & FCE0041"
+      ]
+   },
+   {
+      "codigo": "FCE0091",
+      "nome": "CICLOS DE VIDA E FONOAUDIOLOGIA: VIDA ADULTA E ENVELHECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0813"
+      ],
+      "pre_requisitos": [
+         "FCE0041 & FCE0222 & FCE0033"
+      ]
+   },
+   {
+      "codigo": "FCE0403",
+      "nome": "CITOLOGIA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1103"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0164",
+      "nome": "CLINICA DA REDE EM SAÚDE MENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0884"
+      ],
+      "pre_requisitos": [
+         "FCE0232",
+         "FCE0208",
+         "FCE0327"
+      ]
+   },
+   {
+      "codigo": "FCE0093",
+      "nome": "COMPOSTOS BIOATIVOS EM ALIMENTAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0815"
+      ],
+      "pre_requisitos": [
+         "FAR0050"
+      ]
+   },
+   {
+      "codigo": "FCE0216",
+      "nome": "CONTEXTO HISTÓRICO E SOCIAL DA ENFERMAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0235",
+         "FCE0242",
+         "FCE0930"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0178",
+      "nome": "CONTEXTO HISTÓRICO E SOCIAL DA ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0242",
+         "FCE0516"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0328",
+      "nome": "CONTEXTO SOCIAL E PRÁTICAS EM SAÚDE COLETIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1032"
+      ],
+      "pre_requisitos": [
+         "FCE0208 & FCE0199"
+      ]
+   },
+   {
+      "codigo": "FCE0373",
+      "nome": "CONTROLE DA QUALIDADE MICROBIOLÓGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0627"
+      ],
+      "pre_requisitos": [
+         "FCE0254 & FCE0309",
+         "CEL0050 & FAR0002"
+      ]
+   },
+   {
+      "codigo": "FCE0029",
+      "nome": "CONTROLE DE QUALIDADE DE MEDICAMENTOS NATURAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0751"
+      ],
+      "pre_requisitos": [
+         "FCE0258 & FCE0373"
+      ]
+   },
+   {
+      "codigo": "FCE0309",
+      "nome": "CONTROLE FÍSICO-QUÍMICO DA QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0081",
+         "FCE0353",
+         "FCE0593"
+      ],
+      "pre_requisitos": [
+         "FCE0238 & FCE0260"
+      ]
+   },
+   {
+      "codigo": "FCE0446",
+      "nome": "CUIDADO DE ENFERMAGEM À CRIANÇA E ADOLESCENTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0661"
+      ],
+      "pre_requisitos": [
+         "FCE0363  &  FCE0364",
+         "FCE0173"
+      ]
+   },
+   {
+      "codigo": "FCE0378",
+      "nome": "CUIDADO DE ENFERMAGEM EM SITUAÇÕES CRÍTICAS E DE RISCO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0075",
+         "FCE0101",
+         "FCE0630"
+      ],
+      "pre_requisitos": [
+         "FCE0364 & FCE0363 & FCE0362 & FCE0365"
+      ]
+   },
+   {
+      "codigo": "FCE0180",
+      "nome": "CUIDADO DE ENFERMAGEM EM SITUAÇÕES CRÍTICAS E DE RISCO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0075",
+         "FCE0678"
+      ],
+      "pre_requisitos": [
+         "FCE0376 & FCE0174",
+         "FCE0443 & FCE0446 & FCE0444 & FCE0445"
+      ]
+   },
+   {
+      "codigo": "FCE0363",
+      "nome": "CUIDADO DE ENFERMAGEM PSICOSSOCIAL EM SAÚDE MENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0620"
+      ],
+      "pre_requisitos": [
+         "FCE0362  &  FCE0250",
+         "FCE0172"
+      ]
+   },
+   {
+      "codigo": "FCE0443",
+      "nome": "CUIDADO INTEGRAL À SAÚDE DA MULHER",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0658"
+      ],
+      "pre_requisitos": [
+         "FCE0363  &  FCE0364",
+         "FCE0173"
+      ]
+   },
+   {
+      "codigo": "FCE0376",
+      "nome": "CUIDADO INTEGRAL A SAÚDE DA MULHER E CRIANÇA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0026",
+         "FCE0160",
+         "FCE0629"
+      ],
+      "pre_requisitos": [
+         "FCE0363 & FCE0362 & FCE0364"
+      ]
+   },
+   {
+      "codigo": "FCE0362",
+      "nome": "CUIDADO INTEGRAL A SAÚDE DO ADULTO E IDOSO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0052",
+         "FCE0619"
+      ],
+      "pre_requisitos": [
+         "FCE0170",
+         "FCE0248  &  FCE0171",
+         "FCE0250  &  FCE0282  &  FCE0246  &  FCE0206"
+      ]
+   },
+   {
+      "codigo": "FCE0176",
+      "nome": "CUIDADO INTEGRAL À SAÚDE DO ADULTO E IDOSO NO CONTEXTO CIRÚRGICO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0515"
+      ],
+      "pre_requisitos": [
+         "FCE0170",
+         "FCE0248  &  FCE0282  &  FCE0246  &  FCE0206  &  FCE0171",
+         "FCE0250"
+      ]
+   },
+   {
+      "codigo": "FCE0075",
+      "nome": "CUIDADOS EM QUEIMADURAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0797"
+      ],
+      "pre_requisitos": [
+         "FCE0378",
+         "FCE0180"
+      ]
+   },
+   {
+      "codigo": "FCE0133",
+      "nome": "CUIDADOS FARMACÊUTICOS EM PROBLEMAS DE SAÚDE AUTOLIMITADOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0855"
+      ],
+      "pre_requisitos": [
+         "FCE0213 & FCE0370"
+      ]
+   },
+   {
+      "codigo": "FCE0146",
+      "nome": "DA CÉLULA AOS SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0508"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0266",
+      "nome": "DA CÉLULA AOS SISTEMAS 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0972"
+      ],
+      "pre_requisitos": [
+         "FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0013",
+      "nome": "DEMOGRAFIA E BIOESTATÍSTICA EM SAÚDE COLETIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0462"
+      ],
+      "pre_requisitos": [
+         "FCE0206"
+      ]
+   },
+   {
+      "codigo": "FCE0255",
+      "nome": "DEONTOLOGIA E LEGISLAÇÃO FARMACÊUTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0399",
+         "FCE0557"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0213",
+         "FAR0119"
+      ]
+   },
+   {
+      "codigo": "FCE0311",
+      "nome": "DEPENDÊNCIA QUÍMICA E SUA TERAPÊUTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0594"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0251",
+      "nome": "DINÂMICAS GRUPAIS E ATIVIDADES CORPORAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0962"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0324",
+      "nome": "DIREITO SANITÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0601"
+      ],
+      "pre_requisitos": [
+         "FCE0234"
+      ]
+   },
+   {
+      "codigo": "FCE0192",
+      "nome": "DO ÁTOMO À CÉLULA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0204",
+         "FCE0209",
+         "FCE0210",
+         "FCE0211",
+         "FCE0215",
+         "FCE0220",
+         "FCE0224",
+         "FCE0225",
+         "FCE0231",
+         "FCE0238",
+         "FCE0257",
+         "FCE0454",
+         "FCE0520",
+         "FAR0249",
+         "FCE0909",
+         "FCE0938"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0204",
+      "nome": "DO GENE À VIDA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0001",
+         "FCE0073",
+         "FCE0149",
+         "CEL0099",
+         "FCE0524"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0737",
+      "nome": "DOR E SEU CONTROLE: BASES PARA A ATUAÇÃO DA EQUIPE DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0323",
+      "nome": "ECONOMIA DA SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0336",
+         "FCE0600"
+      ],
+      "pre_requisitos": [
+         "FCE0206"
+      ]
+   },
+   {
+      "codigo": "FCE0336",
+      "nome": "ECONOMIA E FINANCIAMENTO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0697"
+      ],
+      "pre_requisitos": [
+         "FCE0323",
+         "ECO0019"
+      ]
+   },
+   {
+      "codigo": "FCE0399",
+      "nome": "ECONOMIA E GESTÃO FARMACÊUTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0639"
+      ],
+      "pre_requisitos": [
+         "FCE0255"
+      ]
+   },
+   {
+      "codigo": "FCE0052",
+      "nome": "ENFERMAGEM EM ONCOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0774"
+      ],
+      "pre_requisitos": [
+         "FCE0362"
+      ]
+   },
+   {
+      "codigo": "FCE0242",
+      "nome": "ENFERMAGEM NAS PRÁTICAS COMPLEMENTARES DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0953"
+      ],
+      "pre_requisitos": [
+         "FCE0178",
+         "FCE0216"
+      ]
+   },
+   {
+      "codigo": "FCE0151",
+      "nome": "ENFERMAGEM NO CONTEXTO DO ENVELHECIMENTO HUMANO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0511"
+      ],
+      "pre_requisitos": [
+         "FCE0247"
+      ]
+   },
+   {
+      "codigo": "FCE0206",
+      "nome": "EPIDEMIOLOGIA ANALÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0013",
+         "FCE0323",
+         "DSC0096",
+         "FCE0526"
+      ],
+      "pre_requisitos": [
+         "FCE0187"
+      ]
+   },
+   {
+      "codigo": "FCE0187",
+      "nome": "EPIDEMIOLOGIA DESCRITIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0206",
+         "DSC0025",
+         "DSC0068",
+         "DSC0095",
+         "FCE0517"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0325",
+      "nome": "EPIDEMIOLOGIA PARA A GESTÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0017",
+         "FCE0045",
+         "FCE0602"
+      ],
+      "pre_requisitos": [
+         "FCE0187 & FCE0234"
+      ]
+   },
+   {
+      "codigo": "FCE0389",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE1089"
+      ],
+      "pre_requisitos": [
+         "FCE0377"
+      ]
+   },
+   {
+      "codigo": "FCE0183",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 1",
+      "carga_horaria": 450,
+      "eh_requisito_de": [
+         "FCE0184",
+         "FCE0679"
+      ],
+      "pre_requisitos": [
+         "FCE0388  &  FCE0377",
+         "FCE0175  &  FCE0180",
+         "FCE0378"
+      ]
+   },
+   {
+      "codigo": "FCE0184",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 2",
+      "carga_horaria": 420,
+      "eh_requisito_de": [
+         "FCE0680"
+      ],
+      "pre_requisitos": [
+         "FCE0183"
+      ]
+   },
+   {
+      "codigo": "FCE0003",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 2",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "FCE0014",
+         "FCE0664"
+      ],
+      "pre_requisitos": [
+         "FCE0388  &  FCE0377",
+         "FCE0175  &  FCE0180",
+         "FCE0378"
+      ]
+   },
+   {
+      "codigo": "FCE0014",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENFERMAGEM 3",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FCE0665"
+      ],
+      "pre_requisitos": [
+         "FCE0003"
+      ]
+   },
+   {
+      "codigo": "FCE0130",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM FONOAUDIOLOGIA 1",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "FCE0129",
+         "FCE0501"
+      ],
+      "pre_requisitos": [
+         "FCE0126 & FCE0121 & FCE0128 & FCE0123 & FCE0132"
+      ]
+   },
+   {
+      "codigo": "FCE0129",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM FONOAUDIOLOGIA 2",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "FCE0131",
+         "FCE0500"
+      ],
+      "pre_requisitos": [
+         "FCE0130"
+      ]
+   },
+   {
+      "codigo": "FCE0131",
+      "nome": "ESTÁGIO CURRICULAR SUPERVISIONADO EM FONOAUDIOLOGIA 3",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "FCE0670"
+      ],
+      "pre_requisitos": [
+         "FCE0129"
+      ]
+   },
+   {
+      "codigo": "FCE0034",
+      "nome": "ESTÁGIO OBRIGATÓRIO  EM FISIOTERAPIA 1",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FCE0035",
+         "FCE0447",
+         "FCE0463"
+      ],
+      "pre_requisitos": [
+         "FCE0292 & FCE0293 & FCE0294 & FCE0295 & FCE0300"
+      ]
+   },
+   {
+      "codigo": "FCE0035",
+      "nome": "ESTÁGIO OBRIGATÓRIO  EM FISIOTERAPIA 2",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FCE0036",
+         "FCE0448",
+         "FCE0464"
+      ],
+      "pre_requisitos": [
+         "FCE0034",
+         "FCE0442"
+      ]
+   },
+   {
+      "codigo": "FCE0036",
+      "nome": "ESTÁGIO OBRIGATÓRIO  EM FISIOTERAPIA 3",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FCE0465"
+      ],
+      "pre_requisitos": [
+         "FCE0035",
+         "FCE0447"
+      ]
+   },
+   {
+      "codigo": "FCE0054",
+      "nome": "ESTÁGIO SUP EM ASSISTÊNCIA FARMACÊUTICA NA ATENÇÃO PRIMÁRIA EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0776"
+      ],
+      "pre_requisitos": [
+         "FCE0188"
+      ]
+   },
+   {
+      "codigo": "FCE0380",
+      "nome": "ESTÁGIO SUPERVIONADO CURRICULAR EM TERAPIA OCUPACIONAL 1",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FCE0386",
+         "FCE0451",
+         "FCE0705"
+      ],
+      "pre_requisitos": [
+         "FCE0354 & FCE0356 & FCE0357 & FCE0358 & FCE0359 & FCE0229 & FCE0254 & FCE0208 & FCE0264 & FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0386",
+      "nome": "ESTÁGIO SUPERVIONADO CURRICULAR EM TERAPIA OCUPACIONAL 2",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FCE0706"
+      ],
+      "pre_requisitos": [
+         "FCE0380",
+         "FCE0449"
+      ]
+   },
+   {
+      "codigo": "FCE0409",
+      "nome": "ESTÁGIO SUPERVISIONADO 1",
+      "carga_horaria": 435,
+      "eh_requisito_de": [
+         "FCE0412",
+         "FCE0710",
+         "FCE0968"
+      ],
+      "pre_requisitos": [
+         "FCE0189 & FCE0206 & FCE0225 & FCE0266 & FCE0259 & FCE0329 & FCE0282 & FCE0277 & FCE0372 & FCE0367 & FCE0373 & FCE0368 & FAR0050 & FCE0399 & FCE0381 & FCE0398 & FCE0402"
+      ]
+   },
+   {
+      "codigo": "FCE0412",
+      "nome": "ESTÁGIO SUPERVISIONADO 2",
+      "carga_horaria": 450,
+      "eh_requisito_de": [
+         "FCE0712"
+      ],
+      "pre_requisitos": [
+         "FCE0409"
+      ]
+   },
+   {
+      "codigo": "FCE0302",
+      "nome": "ESTÁGIO SUPERVISIONADO CURRÍCULAR EM FISIOTERAPIA 1",
+      "carga_horaria": 450,
+      "eh_requisito_de": [
+         "FCE0304",
+         "FCE1006"
+      ],
+      "pre_requisitos": [
+         "FCE0293 & FCE0295 & FCE0294 & FCE0300 & FCE0272 & FCE0298 & FCE0299"
+      ]
+   },
+   {
+      "codigo": "FCE0304",
+      "nome": "ESTÁGIO SUPERVISIONADO CURRICULAR EM FISIOTERAPIA 2",
+      "carga_horaria": 450,
+      "eh_requisito_de": [
+         "FCE1008"
+      ],
+      "pre_requisitos": [
+         "FCE0302"
+      ]
+   },
+   {
+      "codigo": "FCE0334",
+      "nome": "ESTÁGIO SUPERVISIONADO EM SAÚDE COLETIVA 1",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FCE0342",
+         "FCE0696"
+      ],
+      "pre_requisitos": [
+         "FCE0187 & FCE0188 & FCE0189 & FCE0192 & FCE0229 & FCE0204 & FCE0201 & FCE0205 & FCE0206 & FCE0208 & FCE0236 & FCE0231 & FCE0234 & FCE0240 & FCE0241 & FCE0276 & FCE0277 & FCE0254 & FCE0272 & FCE0273 & FCE0278 & FCE0194 & FCE0199 & FCE0280 & FCE0324 & FCE0325 & FCE0326 & FCE0336",
+         "FCE0187 & FCE0188 & FCE0189 & FCE0192 & FCE0229 & FCE0204 & FCE0146 & FCE0205 & FCE0206 & FCE0208 & FCE0236 & FCE0231 & FCE0234 & FCE0240 & FCE0241 & FCE0276 & FCE0277 & FCE0254 & FCE0272 & FCE0273 & FCE0278 & FCE0282 & FCE0194 & FCE0199 & FCE0280 & FCE0324 & FCE0325 & FCE0326 & FCE0336"
+      ]
+   },
+   {
+      "codigo": "FCE0342",
+      "nome": "ESTÁGIO SUPERVISIONADO EM SAÚDE COLETIVA 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FCE0348",
+         "FCE0698"
+      ],
+      "pre_requisitos": [
+         "FCE0334"
+      ]
+   },
+   {
+      "codigo": "FCE0348",
+      "nome": "ESTÁGIO SUPERVISIONADO EM SAÚDE COLETIVA 3",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "FCE0701"
+      ],
+      "pre_requisitos": [
+         "FCE0342"
+      ]
+   },
+   {
+      "codigo": "FCE0153",
+      "nome": "ESTATÍSTICA APLICADA ÀS CIÊNCIAS FARMACÊUTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0873"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0195",
+      "nome": "ESTRATÉGIA EM PESQUISA FARMACÊUTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0912"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0040",
+      "nome": "ESTUDOS LINGUISTICOS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0042",
+         "FCE0049",
+         "FCE0067",
+         "FCE0467",
+         "FCE0735",
+         "FCE0745"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0042",
+      "nome": "ESTUDOS LINGUISTICOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0048",
+         "FCE0161",
+         "FCE0163",
+         "FCE0468"
+      ],
+      "pre_requisitos": [
+         "FCE0040"
+      ]
+   },
+   {
+      "codigo": "FCE0161",
+      "nome": "ESTUDOS LINGUÍSTICOS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0881"
+      ],
+      "pre_requisitos": [
+         "FCE0042"
+      ]
+   },
+   {
+      "codigo": "FCE0163",
+      "nome": "ESTUDOS LINGUÍSTICOS 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0883"
+      ],
+      "pre_requisitos": [
+         "FCE0042"
+      ]
+   },
+   {
+      "codigo": "FCE0177",
+      "nome": "ÉTICA, BIOÉTICA E LEGISLAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0897"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0365",
+      "nome": "ÉTICA, BIOÉTICA E LEGISLAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0621"
+      ],
+      "pre_requisitos": [
+         "FCE0170 & FCE0208",
+         "FCE0248"
+      ]
+   },
+   {
+      "codigo": "FCE0296",
+      "nome": "EXERCÍCIO PROFISSIONAL E DEONTOLOGIA EM FISIOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0585"
+      ],
+      "pre_requisitos": [
+         "FCE0207 & FCE0193 & FCE0288"
+      ]
+   },
+   {
+      "codigo": "FCE0120",
+      "nome": "EXERCÍCIO PROFISSIONAL E DEONTOLOGIA EM FONOAUDIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0142",
+         "FCE0491"
+      ],
+      "pre_requisitos": [
+         "FCE0038 & FCE0069 & FCE0194"
+      ]
+   },
+   {
+      "codigo": "FCE0381",
+      "nome": "FARMÁCIA CLÍNICA E ATENÇÃO FARMACÊUTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0632"
+      ],
+      "pre_requisitos": [
+         "FCE0307 & FCE0370"
+      ]
+   },
+   {
+      "codigo": "FCE0368",
+      "nome": "FARMÁCIA HOSPITALAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0622"
+      ],
+      "pre_requisitos": [
+         "FCE0213 & FCE0256"
+      ]
+   },
+   {
+      "codigo": "FCE0220",
+      "nome": "FARMACOBOTÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0064",
+         "FAR0047",
+         "FCE0258",
+         "FCE0422",
+         "FCE0535"
+      ],
+      "pre_requisitos": [
+         "FCE0192",
+         "IQD0125",
+         "FCE0201",
+         "CEL0054"
+      ]
+   },
+   {
+      "codigo": "FCE0420",
+      "nome": "FARMACOBOTÂNICA OU BOTÂNICA APLICADA Á FARMÁCIA1 (TEÓRICA)",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FCE0421",
+         "FCE1118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0421",
+      "nome": "FARMACOBOTÂNICA OU BOTÂNICA APLICADA Á FARMÁCIA 2 (PRATICA)",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FCE1119"
+      ],
+      "pre_requisitos": [
+         "FCE0420"
+      ]
+   },
+   {
+      "codigo": "FCE0390",
+      "nome": "FARMACOEPIDEMIOLOGIA E FARMACOVIGILANCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0655"
+      ],
+      "pre_requisitos": [
+         "FCE0187 & FCE0213"
+      ]
+   },
+   {
+      "codigo": "FCE0258",
+      "nome": "FARMACOGNOSIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0352",
+         "FCE0687"
+      ],
+      "pre_requisitos": [
+         "FCE0220"
+      ]
+   },
+   {
+      "codigo": "FCE0422",
+      "nome": "FARMACOGNOSIA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "FCE0423",
+         "FCE1120"
+      ],
+      "pre_requisitos": [
+         "FCE0220"
+      ]
+   },
+   {
+      "codigo": "FCE0423",
+      "nome": "FARMACOGNOSIA 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FCE0641"
+      ],
+      "pre_requisitos": [
+         "FCE0422"
+      ]
+   },
+   {
+      "codigo": "FCE0352",
+      "nome": "FARMACOGNOSIA EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1053"
+      ],
+      "pre_requisitos": [
+         "FCE0258"
+      ]
+   },
+   {
+      "codigo": "FCE0256",
+      "nome": "FARMACOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0016",
+         "FCE0085",
+         "FCE0370",
+         "FCE0372",
+         "FCE0558"
+      ],
+      "pre_requisitos": [
+         "FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0246",
+      "nome": "FARMACOLOGIA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0036",
+         "FCE0256",
+         "FCE0310",
+         "FCE0375",
+         "FCE0554",
+         "FCE0904",
+         "FCE0906",
+         "FCE0932"
+      ],
+      "pre_requisitos": [
+         "FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0370",
+      "nome": "FARMACOLOGIA CLÍNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0624"
+      ],
+      "pre_requisitos": [
+         "FCE0256"
+      ]
+   },
+   {
+      "codigo": "FCE0310",
+      "nome": "FARMACOLOGIA EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1014"
+      ],
+      "pre_requisitos": [
+         "FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0308",
+      "nome": "FARMACOTÉCNICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0369",
+         "FCE0437",
+         "FCE1012",
+         "FCE0929"
+      ],
+      "pre_requisitos": [
+         "FCE0258 & FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0425",
+      "nome": "FARMACOTÉCNICA 1 PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0656"
+      ],
+      "pre_requisitos": [
+         "FCE0424"
+      ]
+   },
+   {
+      "codigo": "FCE0424",
+      "nome": "FARMACOTÉCNICA 1 TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0425",
+         "FCE0437",
+         "FCE0642"
+      ],
+      "pre_requisitos": [
+         "FCE0258 & FCE0246",
+         "FCE0422 & FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0369",
+      "nome": "FARMACOTÉCNICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0009",
+         "FAR0139",
+         "FCE0402",
+         "FCE0406",
+         "FCE0430",
+         "TEÓRICA",
+         "FCE0623"
+      ],
+      "pre_requisitos": [
+         "FCE0308"
+      ]
+   },
+   {
+      "codigo": "FCE0438",
+      "nome": "FARMACOTÉCNICA 2 PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0718"
+      ],
+      "pre_requisitos": [
+         "FCE0308 & FCE0437",
+         "FCE0424 & FCE0437"
+      ]
+   },
+   {
+      "codigo": "FCE0437",
+      "nome": "FARMACOTÉCNICA 2 TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0645"
+      ],
+      "pre_requisitos": [
+         "FCE0308",
+         "FCE0424"
+      ]
+   },
+   {
+      "codigo": "FCE0043",
+      "nome": "FÍSICA ACÚSTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0469"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0225",
+      "nome": "FÍSICO-QUÍMICA APLICADA A FARMÁCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FAR0140",
+         "FAR0141",
+         "FCE0538"
+      ],
+      "pre_requisitos": [
+         "FCE0192",
+         "MAT0022 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "FCE0197",
+      "nome": "FISIOLOGIA CLÍNICA DO EXERCÍCIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0914"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0385",
+      "nome": "FISIOPATOLOGIA E FARMACOLOGIA DO DIABETES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0635"
+      ],
+      "pre_requisitos": [
+         "FCE0224 & FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0283",
+      "nome": "FISIOTERAPIA BASEADA EM EVIDÊNCIAS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0576"
+      ],
+      "pre_requisitos": [
+         "FCE0229 & FCE0279"
+      ]
+   },
+   {
+      "codigo": "FCE0288",
+      "nome": "FISIOTERAPIA BASEADA EM EVIDÊNCIAS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0292",
+         "FCE0688"
+      ],
+      "pre_requisitos": [
+         "FCE0283 & FCE0206"
+      ]
+   },
+   {
+      "codigo": "FCE0292",
+      "nome": "FISIOTERAPIA BASEADA EM EVIDÊNCIAS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0018",
+         "FCE0583"
+      ],
+      "pre_requisitos": [
+         "FCE0288"
+      ]
+   },
+   {
+      "codigo": "FCE0605",
+      "nome": "FISIOTERAPIA EM TERAPIA INTENSIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1158"
+      ],
+      "pre_requisitos": [
+         "FCE0286"
+      ]
+   },
+   {
+      "codigo": "FCE0284",
+      "nome": "FISIOTERAPIA NA ATENÇÃO BÁSICA AVALIAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0289",
+         "FCE0577"
+      ],
+      "pre_requisitos": [
+         "FCE0279 & FCE0207"
+      ]
+   },
+   {
+      "codigo": "FCE0293",
+      "nome": "FISIOTERAPIA NA ATENÇÃO BÁSICA INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0689"
+      ],
+      "pre_requisitos": [
+         "FCE0289"
+      ]
+   },
+   {
+      "codigo": "FCE0289",
+      "nome": "FISIOTERAPIA NA ATENÇÃO BÁSICA RECURSOS TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0293",
+         "FCE0580"
+      ],
+      "pre_requisitos": [
+         "FCE0284"
+      ]
+   },
+   {
+      "codigo": "FCE0286",
+      "nome": "FISIOTERAPIA NA ATENÇÃO DE ALTA COMPLEXIDADE: AVALIAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0579",
+         "FCE0605",
+         "FCE0722"
+      ],
+      "pre_requisitos": [
+         "FCE0279 & FCE0207"
+      ]
+   },
+   {
+      "codigo": "FCE0295",
+      "nome": "FISIOTERAPIA NA ATENÇÃO DE ALTA COMPLEXIDADE: INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0584"
+      ],
+      "pre_requisitos": [
+         "FCE0291"
+      ]
+   },
+   {
+      "codigo": "FCE0291",
+      "nome": "FISIOTERAPIA NA ATENÇÃO DE ALTA COMPLEXIDADE: RECURSOS TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0295",
+         "FCE0582"
+      ],
+      "pre_requisitos": [
+         "FCE0286 & FCE0282"
+      ]
+   },
+   {
+      "codigo": "FCE0285",
+      "nome": "FISIOTERAPIA NA ATENÇÃO DE MÉDIA COMPLEXIDADE: AVALIAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0290",
+         "FCE0578"
+      ],
+      "pre_requisitos": [
+         "FCE0279 & FCE0207"
+      ]
+   },
+   {
+      "codigo": "FCE0294",
+      "nome": "FISIOTERAPIA NA ATENÇÃO DE MÉDIA COMPLEXIDADE: INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0690"
+      ],
+      "pre_requisitos": [
+         "FCE0290"
+      ]
+   },
+   {
+      "codigo": "FCE0290",
+      "nome": "FISIOTERAPIA NA ATENÇÃO DE MÉDIA COMPLEXIDADE: RECURSOS TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0025",
+         "FCE0060",
+         "FCE0072",
+         "FCE0294",
+         "FCE0383",
+         "FCE0581"
+      ],
+      "pre_requisitos": [
+         "FCE0285"
+      ]
+   },
+   {
+      "codigo": "FCE0137",
+      "nome": "FISIOTERAPIA NO ESPORTE E PARA ESPORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0859"
+      ],
+      "pre_requisitos": [
+         "FCE0279 & FCE0207 & FCE0266 & FCE0254"
+      ]
+   },
+   {
+      "codigo": "FCE0298",
+      "nome": "FISIOTERAPIA NO PROCESSO DE REABILITAÇÃO: AVALIAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0299",
+         "FCE0587"
+      ],
+      "pre_requisitos": [
+         "FCE0279 & FCE0207"
+      ]
+   },
+   {
+      "codigo": "FCE0300",
+      "nome": "FISIOTERAPIA NO PROCESSO DE REABILITAÇÃO: INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0590"
+      ],
+      "pre_requisitos": [
+         "FCE0299"
+      ]
+   },
+   {
+      "codigo": "FCE0299",
+      "nome": "FISIOTERAPIA NO PROCESSO DE REABILITAÇÃO: RECURSOS TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0300",
+         "FCE0588"
+      ],
+      "pre_requisitos": [
+         "FCE0298"
+      ]
+   },
+   {
+      "codigo": "FCE0060",
+      "nome": "FISIOTERAPIA NO TRATAMENTO DA DOR CRÔNICA VERTEBRAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0782"
+      ],
+      "pre_requisitos": [
+         "FCE0290"
+      ]
+   },
+   {
+      "codigo": "FCE0722",
+      "nome": "FISIOTERAPIA RESPIRATÓRIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1159"
+      ],
+      "pre_requisitos": [
+         "FCE0286"
+      ]
+   },
+   {
+      "codigo": "FCE0375",
+      "nome": "FITOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0628"
+      ],
+      "pre_requisitos": [
+         "FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0057",
+      "nome": "FONÉTICA ACÚSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0779"
+      ],
+      "pre_requisitos": [
+         "FCE0042 & FCE0043"
+      ]
+   },
+   {
+      "codigo": "FCE0092",
+      "nome": "FONOAUDIOLOGIA EDUCACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0478"
+      ],
+      "pre_requisitos": [
+         "FCE0124 & FCE0113 & FCE0114"
+      ]
+   },
+   {
+      "codigo": "FCE0107",
+      "nome": "FONOAUDIOLOGIA E SAÚDE DO TRABALHADOR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0829"
+      ],
+      "pre_requisitos": [
+         "FCE0059 & FCE0091 & FCE0069"
+      ]
+   },
+   {
+      "codigo": "FCE0090",
+      "nome": "FONOAUDIOLOGIA HOSPITALAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0812"
+      ],
+      "pre_requisitos": [
+         "FCE0066 & FCE0082 & FCE0091"
+      ]
+   },
+   {
+      "codigo": "FCE0069",
+      "nome": "FONOAUDIOLOGIA NA ATENÇÃO PRIMARIA À SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0475"
+      ],
+      "pre_requisitos": [
+         "FCE0038 & FCE0234"
+      ]
+   },
+   {
+      "codigo": "FCE0122",
+      "nome": "FONOAUDIOLOGIA NO PRIMEIRO CICLO DE VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0113",
+         "FCE0493"
+      ],
+      "pre_requisitos": [
+         "FCE0042 & FCE0116 & FCE0118"
+      ]
+   },
+   {
+      "codigo": "FCE0124",
+      "nome": "FONOAUDIOLOGIA NO SEGUNDO CICLO DE VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0114",
+         "FCE0495"
+      ],
+      "pre_requisitos": [
+         "FCE0042 & FCE0116 & FCE0117 & FCE0118"
+      ]
+   },
+   {
+      "codigo": "FCE0119",
+      "nome": "FONOAUDIOLOGIA NO TERCEIRO CICLO DE VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0115",
+         "FCE0490"
+      ],
+      "pre_requisitos": [
+         "FCE0042 & FCE0117 & FCE0118"
+      ]
+   },
+   {
+      "codigo": "FCE0207",
+      "nome": "FUNCIONALIDADE E SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0683"
+      ],
+      "pre_requisitos": [
+         "FCE0208 & FCE0193"
+      ]
+   },
+   {
+      "codigo": "FCE0276",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0337",
+         "FCE0570"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0033",
+      "nome": "FUNDAMENTOS DA PSICOLOGIA APLICADOS AOS CICLOS DA VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0755"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0059",
+      "nome": "FUNDAMENTOS DE AUDIOLOGIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0781"
+      ],
+      "pre_requisitos": [
+         "FCE0043 & FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0125",
+      "nome": "FUNDAMENTOS DE AUDIOLOGIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0126",
+         "FCE0496"
+      ],
+      "pre_requisitos": [
+         "FCE0043 & FCE0118"
+      ]
+   },
+   {
+      "codigo": "FCE0126",
+      "nome": "FUNDAMENTOS DE AUDIOLOGIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0086",
+         "FCE0102",
+         "FCE0103",
+         "FCE0497"
+      ],
+      "pre_requisitos": [
+         "FCE0125"
+      ]
+   },
+   {
+      "codigo": "FCE0028",
+      "nome": "FUNDAMENTOS DE CANCEROLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0750"
+      ],
+      "pre_requisitos": [
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0001",
+      "nome": "FUNDAMENTOS DE CITOGENÉTICA HUMANA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0723"
+      ],
+      "pre_requisitos": [
+         "FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0193",
+      "nome": "FUNDAMENTOS DE FISIOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0218",
+         "FCE0521"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0218",
+      "nome": "FUNDAMENTOS DE FISIOTERAPIA: AGENTES FÍSICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0226",
+         "FCE0534"
+      ],
+      "pre_requisitos": [
+         "FCE0193"
+      ]
+   },
+   {
+      "codigo": "FCE0279",
+      "nome": "FUNDAMENTOS DE FISIOTERAPIA - MOVIMENTO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0022",
+         "FCE0026",
+         "FCE0045",
+         "FCE0141",
+         "FCE0457",
+         "FCE0573"
+      ],
+      "pre_requisitos": [
+         "FCE0226 & FCE0224"
+      ]
+   },
+   {
+      "codigo": "FCE0226",
+      "nome": "FUNDAMENTOS DE FISIOTERAPIA TROFISMO E PLASTICIDADE TECIDUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0539"
+      ],
+      "pre_requisitos": [
+         "FCE0218"
+      ]
+   },
+   {
+      "codigo": "FCE0217",
+      "nome": "FUNDAMENTOS DE TERAPIA OCUPACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0227",
+         "FCE0232",
+         "FCE0533"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0227",
+      "nome": "FUNDAMENTOS DE TERAPIA OCUPACIONAL: ATIVIDADE HUMANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0540"
+      ],
+      "pre_requisitos": [
+         "FCE0217"
+      ]
+   },
+   {
+      "codigo": "FCE0244",
+      "nome": "FUNDAMENTOS DE TERAPIA OCUPACIONAL: MOVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0022",
+         "FCE0026",
+         "FCE0045",
+         "FCE0457",
+         "FCE0553"
+      ],
+      "pre_requisitos": [
+         "FCE0227 & FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0116",
+      "nome": "FUNDAMENTOS EM PSICOLOGIA APLICADOS AO DESENVOLVIMENTO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0031",
+         "FCE0117",
+         "FCE0487"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0117",
+      "nome": "FUNDAMENTOS EM PSICOLOGIA APLICADOS AO DESENVOLVIMENTO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0488"
+      ],
+      "pre_requisitos": [
+         "FCE0116"
+      ]
+   },
+   {
+      "codigo": "FCE0167",
+      "nome": "GÊNERO, RAÇA, SEXUALIDADE: SAÚDE E DIREITOS HUMANOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0887"
+      ],
+      "pre_requisitos": [
+         "FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0388",
+      "nome": "GERENCIAMENTO DO CUIDADO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0636"
+      ],
+      "pre_requisitos": [
+         "FCE0278 & FCE0376",
+         "FCE0446 & FCE0443"
+      ]
+   },
+   {
+      "codigo": "FCE0297",
+      "nome": "GESTÃO DE SERVIÇOS E RECURSOS HUMANOS EM FISIOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0004",
+         "FCE0586"
+      ],
+      "pre_requisitos": [
+         "FCE0207 & FCE0193"
+      ]
+   },
+   {
+      "codigo": "FCE0142",
+      "nome": "GESTÃO DE SERVIÇOS E RECURSOS HUMANOS EM FONOAUDIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0506"
+      ],
+      "pre_requisitos": [
+         "FCE0120"
+      ]
+   },
+   {
+      "codigo": "FCE0006",
+      "nome": "HEMATOLOGIA CLÍNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0459"
+      ],
+      "pre_requisitos": [
+         "FCE0307",
+         "CFS0039 & FAR0174"
+      ]
+   },
+   {
+      "codigo": "FCE0427",
+      "nome": "HEMATOLOGIA CLÍNICA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0657"
+      ],
+      "pre_requisitos": [
+         "FCE0426"
+      ]
+   },
+   {
+      "codigo": "FCE0426",
+      "nome": "HEMATOLOGIA CLÍNICA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0427",
+         "FCE0643"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0016",
+      "nome": "HOMEOPATIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0738"
+      ],
+      "pre_requisitos": [
+         "FCE0256"
+      ]
+   },
+   {
+      "codigo": "FCE0064",
+      "nome": "IMPOSTAÇÃO DE VOZ",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0786"
+      ],
+      "pre_requisitos": [
+         "FCE0041"
+      ]
+   },
+   {
+      "codigo": "FCE0313",
+      "nome": "IMUNOBIOLOGIA DA RELAÇÃO PATÓGENO - HOSPEDEIRO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1017"
+      ],
+      "pre_requisitos": [
+         "FCE0231",
+         "CEL0025",
+         "FAR0137",
+         "CEL0110"
+      ]
+   },
+   {
+      "codigo": "FCE0371",
+      "nome": "IMUNOLOGIA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0625"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0139",
+      "nome": "INFECÇÃO RELACIONADA A ASSISTÊNCIA A SAÚDE: VIGILÂNCIA E CONTROLE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0653"
+      ],
+      "pre_requisitos": [
+         "FCE0254"
+      ]
+   },
+   {
+      "codigo": "FCE0337",
+      "nome": "INFORMAÇÃO, EDUCAÇÃO E COMUNICAÇÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0609"
+      ],
+      "pre_requisitos": [
+         "FCE0276"
+      ]
+   },
+   {
+      "codigo": "FCE0085",
+      "nome": "INFORMAÇÃO SOBRE MEDICAMENTOS: BUSCA, RECUPERAÇÃO E ANÁLISE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0807"
+      ],
+      "pre_requisitos": [
+         "FCE0256"
+      ]
+   },
+   {
+      "codigo": "FCE0228",
+      "nome": "INTEGRAÇÃO AO CENÁRIO DAS PRÁTICAS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0249",
+         "FCE0940"
+      ],
+      "pre_requisitos": [
+         "ENF0051"
+      ]
+   },
+   {
+      "codigo": "FCE0249",
+      "nome": "INTEGRAÇÃO AO CENÁRIO DAS PRÁTICAS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0250",
+         "FCE0960"
+      ],
+      "pre_requisitos": [
+         "FCE0228"
+      ]
+   },
+   {
+      "codigo": "FCE0250",
+      "nome": "INTEGRAÇÃO AO CENÁRIO DAS PRÁTICAS 3",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0961"
+      ],
+      "pre_requisitos": [
+         "FCE0249"
+      ]
+   },
+   {
+      "codigo": "FCE0364",
+      "nome": "INTEGRAÇÃO AO CENÁRIO DAS PRÁTICAS 4",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0045",
+         "FCE1064"
+      ],
+      "pre_requisitos": [
+         "FCE0250 & FCE0248"
+      ]
+   },
+   {
+      "codigo": "FCE0377",
+      "nome": "INTEGRAÇÃO AO CENÁRIO DAS PRÁTICAS 5",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0144",
+         "FCE0389",
+         "FCE1077"
+      ],
+      "pre_requisitos": [
+         "FCE0364 & FCE0363 & FCE0362"
+      ]
+   },
+   {
+      "codigo": "FCE0222",
+      "nome": "INTEGRAÇÃO DOS PROCESSOS VITAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0096",
+         "FCE0099",
+         "FCE0264",
+         "FAR0184",
+         "FCE0536"
+      ],
+      "pre_requisitos": [
+         "FCE0201"
+      ]
+   },
+   {
+      "codigo": "FCE0224",
+      "nome": "INTEGRAÇÃO METABÓLICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0537"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0282",
+      "nome": "INTERAÇÃO PARASITO-HOSPEDEIRO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0017",
+         "FCE0575"
+      ],
+      "pre_requisitos": [
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0078",
+      "nome": "INTERPRETAÇÃO DE EXAMES NO PROCESSO DE CUIDAR EM ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0800"
+      ],
+      "pre_requisitos": [
+         "FCE0248",
+         "FCE0170"
+      ]
+   },
+   {
+      "codigo": "FCE0366",
+      "nome": "INTERPRETAÇÃO DOS SINAS E SINTOMAS NA PRÁTICA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1066"
+      ],
+      "pre_requisitos": [
+         "FCE0247 & FCE0248",
+         "FCE0170"
+      ]
+   },
+   {
+      "codigo": "FCE0037",
+      "nome": "INTRODUÇÃO À ANÁLISE DE DISCURSO CRÍTICA DA SAÚDE E DA DOENÇA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0759"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0004",
+      "nome": "INTRODUÇÃO A ANÁLISE E AO APOIO INSTITUCIONAL EM SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0726"
+      ],
+      "pre_requisitos": [
+         "FCE0208 & FCE0361",
+         "FCE0338",
+         "FCE0277",
+         "FCE0297",
+         "FCE0278"
+      ]
+   },
+   {
+      "codigo": "FCE0196",
+      "nome": "INTRODUÇÃO A BIOINFORMÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0913"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0415",
+      "nome": "INTRODUÇÃO À EQUOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1113"
+      ],
+      "pre_requisitos": [
+         "FCE0279  &  FCE0145"
+      ]
+   },
+   {
+      "codigo": "FCE0062",
+      "nome": "INTRODUÇÃO À FARMÁCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0472"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0038",
+      "nome": "INTRODUÇÃO A FONOAUDIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0466"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0441",
+      "nome": "INTRODUÇÃO À NEUROPSICOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0721"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0002",
+      "nome": "INTRODUÇÃO AOS CUIDADOS PALIATIVOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0724"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0194",
+      "nome": "INTRODUÇÃO A PESQUISA CIENTÍFICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0070",
+         "FCE0168",
+         "FCE0301",
+         "FCE0522",
+         "FCE0734",
+         "FCE0741",
+         "FCE0838"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0257",
+      "nome": "INTRODUÇÃO A PROCESSOS FOTOQUÍMICOS E FOTOBIOLÓGICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0559"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0351",
+      "nome": "INTRODUÇÃO A PROCESSOS FOTOQUÍMICOS E FOTOBIOLÓGICOS EXPERIMENTAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1052"
+      ],
+      "pre_requisitos": [
+         "FCE0260 & FCE0257"
+      ]
+   },
+   {
+      "codigo": "FCE0219",
+      "nome": "INTRODUÇÃO À PSICOLOGIA DA SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0933"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0031",
+      "nome": "INTRODUÇÃO A PSICOMOTRICIDADE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0753"
+      ],
+      "pre_requisitos": [
+         "FCE0116"
+      ]
+   },
+   {
+      "codigo": "FCE0307",
+      "nome": "INTRODUÇÃO ÀS ANÁLISES CLÍNICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0005",
+         "FCE0006",
+         "FCS0003",
+         "FCE0039",
+         "FCE0367",
+         "FCE0371",
+         "FCE0398",
+         "FCE0403",
+         "FCE0416",
+         "FCE0426",
+         "FCE0439",
+         "FCE0440",
+         "FCE0592",
+         "FAR0248",
+         "FAR0251"
+      ],
+      "pre_requisitos": [
+         "FCE0254 & FCE0224"
+      ]
+   },
+   {
+      "codigo": "FCE0046",
+      "nome": "INTRODUÇÃO A SAÚDE DO TRABALHADOR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0768"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0234",
+         "FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0022",
+      "nome": "JOGOS VIRTUAIS NA PRÁTICA TERAPÊUTICA: BASES E EVIDÊNCIAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0744"
+      ],
+      "pre_requisitos": [
+         "FCE0279",
+         "FCE0244"
+      ]
+   },
+   {
+      "codigo": "FCE0094",
+      "nome": "LABORATÓRIO DE ESCRITA ETNOGRÁFICA EM SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0816"
+      ],
+      "pre_requisitos": [
+         "FCE0208 & FCE0273"
+      ]
+   },
+   {
+      "codigo": "FCE0317",
+      "nome": "LEITURA E ANÁLISE CRÍTICA DE ARTIGOS CIENTÍFICOS EM FISIOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0694"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0229",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS ACADÊMICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0274",
+         "FCE0541"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0392",
+      "nome": "LESÃO RENAL AGUDA NA PRÁTICA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0637"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0528",
+      "nome": "LETRAMENTO EM SAÚDE: O QUE É E QUAL SUA IMPORTÂNCIA PARA AS PRÁTICAS DE CUIDAR?",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1154"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0049",
+      "nome": "LINGUAGEM E PENSAMENTO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0771"
+      ],
+      "pre_requisitos": [
+         "FCE0040"
+      ]
+   },
+   {
+      "codigo": "FCE0964",
+      "nome": "LOGOTERAPIA NO COTIDIANO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "FCE0188"
+      ]
+   },
+   {
+      "codigo": "FCE0020",
+      "nome": "MANOBRAS FARMACOLÓGICAS EM EMERGÊNCIAS CLÍNICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0742"
+      ],
+      "pre_requisitos": [
+         "FCE0261",
+         "FCE0262",
+         "FCE0263",
+         "FCE0264  &  FCE0147"
+      ]
+   },
+   {
+      "codigo": "FCE0329",
+      "nome": "MECANISMOS DE AGRESSÃO E DEFESA 3 - PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0604"
+      ],
+      "pre_requisitos": [
+         "FCE0254"
+      ]
+   },
+   {
+      "codigo": "FCE0045",
+      "nome": "MÉTODO DA ERGONOMIA DA ATIVIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0767"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0234",
+         "FCE0244",
+         "FCE0279",
+         "FCE0364",
+         "FCE0325",
+         "FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0018",
+      "nome": "METODOLOGIAS QUALITATIVAS EM SAÚDE COLETIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0740"
+      ],
+      "pre_requisitos": [
+         "FCE0205 & FCE0213",
+         "FCE0354",
+         "FCE0273",
+         "FCE0292"
+      ]
+   },
+   {
+      "codigo": "FCE0384",
+      "nome": "MÉTODOS E TÉCNICAS EM METABOLISMO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1084"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0204",
+         "FEF0143",
+         "CEL0082",
+         "ECL0017",
+         "CFS0037"
+      ]
+   },
+   {
+      "codigo": "FCE0398",
+      "nome": "MICROBIOLOGIA CLÍNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1098"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0440",
+      "nome": "MICROBIOLOGIA CLÍNICA PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0720"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0439",
+      "nome": "MICROBIOLOGIA CLÍNICA TEÓRICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0719"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0277",
+      "nome": "MODELOS E PRÁTICAS DE ATENÇÃO À SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0004",
+         "FCE0571"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0213",
+         "FCE0188 & FCE0187"
+      ]
+   },
+   {
+      "codigo": "FCE0332",
+      "nome": "MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS DE SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0608"
+      ],
+      "pre_requisitos": [
+         "FCE0234 & FCE0277 & FCE0326"
+      ]
+   },
+   {
+      "codigo": "FCE0118",
+      "nome": "MORFOFISIOLOGIA DOS ORGÃOS DA FALA E DA AUDIÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0165",
+         "FCE0489"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0047",
+      "nome": "MORFOFISIOPATOLOGIA DA AUDIÇÃO E DO EQUILÍBRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0769"
+      ],
+      "pre_requisitos": [
+         "FCE0201"
+      ]
+   },
+   {
+      "codigo": "FCE0041",
+      "nome": "MORFOSIOLOGIA DE CABEÇA E PESCOÇO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0058",
+         "FCE0064",
+         "FCE0763"
+      ],
+      "pre_requisitos": [
+         "FCE0201"
+      ]
+   },
+   {
+      "codigo": "FCE0374",
+      "nome": "MORTE NO CONTEXTO HUMANO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1074"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0077",
+      "nome": "NEUROANATOMIA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0799"
+      ],
+      "pre_requisitos": [
+         "FCE0201"
+      ]
+   },
+   {
+      "codigo": "FCE0312",
+      "nome": "NEUROBIOLOGIA DOS TRANSTORNOS MENTAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1016"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0032",
+      "nome": "NEUROPSICOLOGIA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0754"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0314",
+      "nome": "NUTRIÇÃO HUMANA EM SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0595"
+      ],
+      "pre_requisitos": [
+         "FCE0264 & FCE0247"
+      ]
+   },
+   {
+      "codigo": "FCE0185",
+      "nome": "NUTRIÇÃO HUMANA EM SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0905"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0232",
+      "nome": "OCUPAÇÃO E SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0164",
+         "FCE0166",
+         "FCE0544",
+         "FCE0773"
+      ],
+      "pre_requisitos": [
+         "FCE0217"
+      ]
+   },
+   {
+      "codigo": "FCE0201",
+      "nome": "ORGANIZAÇÃO MORFOFUNCIONAL E DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0041",
+         "FCE0047",
+         "FCE0073",
+         "FCE0077",
+         "FCE0220",
+         "FCE0222",
+         "FCE0523",
+         "FAR0249"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0316",
+      "nome": "PALPAÇÃO OSTEOMIOARTICULAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0693"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0404",
+      "nome": "PARASITOLOGIA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1104"
+      ],
+      "pre_requisitos": [
+         "FCE0282 & FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0150",
+      "nome": "PARASITOSES HUMANAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0870"
+      ],
+      "pre_requisitos": [
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0005",
+      "nome": "PATOLOGIA MOLECULAR CLÍNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0727"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0429",
+      "nome": "PATOLOGIA MOLECULAR - PRÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1127"
+      ],
+      "pre_requisitos": [
+         "FCE0428"
+      ]
+   },
+   {
+      "codigo": "FCE0428",
+      "nome": "PATOLOGIA MOLECULAR - TEORIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0429",
+         "FCE0644"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0773",
+      "nome": "PAULO FREIRE E TERAPIA OCUPACIONAL SOCIAL: ALIENAÇÃO E EMANCIPAÇÃO NO COTIDIANO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [],
+      "pre_requisitos": [
+         "FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0330",
+      "nome": "PENSAMENTO SOCIAL EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0012",
+         "FCE0606"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0327",
+      "nome": "PENSAMENTO SOCIAL E SAÚDE MENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0164",
+         "FCE1031"
+      ],
+      "pre_requisitos": [
+         "FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0097",
+      "nome": "PESQUISA APLICADA EM FISIOTERAPIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0098",
+         "FCE0479"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0098",
+      "nome": "PESQUISA APLICADA EM FISIOTERAPIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0480"
+      ],
+      "pre_requisitos": [
+         "FCE0097"
+      ]
+   },
+   {
+      "codigo": "FCE0844",
+      "nome": "PESQUISA EM BASES BIOLÓGICAS E DA SAÚDE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0211",
+      "nome": "PESQUISA EM BIONANOTECNOLOGIA APLICADO A SAÚDE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0685"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0215",
+      "nome": "PESQUISA EM DESENVOLVIMENTO DE COSMÉTICOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0532"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0168",
+      "nome": "PESQUISA EM ENFERMAGEM GERONTOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0888"
+      ],
+      "pre_requisitos": [
+         "FCE0194"
+      ]
+   },
+   {
+      "codigo": "FCE0109",
+      "nome": "PESQUISA EM ERGONOMIA E BIOMECÂNICA OCUPACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0831"
+      ],
+      "pre_requisitos": [
+         "FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0141",
+      "nome": "PESQUISA EM EXERCÍCIO FÍSICO, REABILITAÇÃO E DESEMPENHO HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0863"
+      ],
+      "pre_requisitos": [
+         "FCE0279"
+      ]
+   },
+   {
+      "codigo": "FCE0382",
+      "nome": "PESQUISA EM GERONTOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0633"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0454",
+      "nome": "PESQUISA EM MECANISMOS DE INTERAÇÃO PATÓGENO-HOSPEDEIRO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0662"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0070",
+      "nome": "PESQUISA EM MOTRICIDADE OROFACIAL E DISFAGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0650"
+      ],
+      "pre_requisitos": [
+         "FCE0194"
+      ]
+   },
+   {
+      "codigo": "FCE0233",
+      "nome": "PESQUISA EM MOVIMENTO FUNCIONAL HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0944"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0088",
+      "nome": "PESQUISA EM NEUROCIÊNCIA COGNITIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0652"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0210",
+      "nome": "PESQUISA EM NOVOS COMPOSTOS APLICADOS A SAÚDE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0684"
+      ],
+      "pre_requisitos": [
+         "FCE0192",
+         "IQD0125"
+      ]
+   },
+   {
+      "codigo": "FCE0073",
+      "nome": "PESQUISA EM ONCOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0795"
+      ],
+      "pre_requisitos": [
+         "FCE0204",
+         "FCE0201",
+         "FUP0313",
+         "CEL0067",
+         "GEM0062",
+         "CEL0089"
+      ]
+   },
+   {
+      "codigo": "FCE0100",
+      "nome": "PESQUISA EM PROCESSOS BIOLÓG APLIC A ESTRUTURA FUNÇÃO E REABILITAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0822"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0071",
+      "nome": "PESQUISA EM PROMOÇÃO DO USO RACIONAL DOS MEDICAMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0476"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0246"
+      ]
+   },
+   {
+      "codigo": "FCE0095",
+      "nome": "PESQUISA EM SAÚDE E MARCADORES SOCIAIS DA DIFERENÇA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0817"
+      ],
+      "pre_requisitos": [
+         "FCE0208 & FCE0273"
+      ]
+   },
+   {
+      "codigo": "FCE0152",
+      "nome": "PESQUISA EM TERAPIA OCUPACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0159",
+         "FCE0671"
+      ],
+      "pre_requisitos": [
+         "FCE0194 & FCE0229"
+      ]
+   },
+   {
+      "codigo": "FCE0159",
+      "nome": "PESQUISA EM TERAPIA OCUPACIONAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0162",
+         "FCE0879"
+      ],
+      "pre_requisitos": [
+         "FCE0152"
+      ]
+   },
+   {
+      "codigo": "FCE0162",
+      "nome": "PESQUISA EM TERAPIA OCUPACIONAL 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0654"
+      ],
+      "pre_requisitos": [
+         "FCE0159"
+      ]
+   },
+   {
+      "codigo": "FCE0067",
+      "nome": "PESQUISAS EM DISTURBIOS DA COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0789"
+      ],
+      "pre_requisitos": [
+         "FCE0040"
+      ]
+   },
+   {
+      "codigo": "FCE0030",
+      "nome": "PESQUISAS EM FORMAS FARMACÊNTICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0752"
+      ],
+      "pre_requisitos": [
+         "FCE0258 & FCE0308"
+      ]
+   },
+   {
+      "codigo": "FCE0199",
+      "nome": "PESQUISA SOCIAL EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0682"
+      ],
+      "pre_requisitos": [
+         "FCE0273"
+      ]
+   },
+   {
+      "codigo": "FCE0326",
+      "nome": "PLANEJAMENTO E PROGRAMAÇÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0603"
+      ],
+      "pre_requisitos": [
+         "FCE0278",
+         "DSC0050"
+      ]
+   },
+   {
+      "codigo": "FCE0234",
+      "nome": "POLÍTICAS, SISTEMAS E SERVIÇOS DE SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0278",
+         "FCE0324",
+         "FCE0545",
+         "FCE0836"
+      ],
+      "pre_requisitos": [
+         "FCE0188"
+      ]
+   },
+   {
+      "codigo": "FCE0009",
+      "nome": "PRÁTICA DA FISIOTERAPIA BASEADA EM PROBLEMAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0731"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0149",
+      "nome": "PRÁTICA EM BIOQUÍMICA E BIOLOGIA CELULAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0510"
+      ],
+      "pre_requisitos": [
+         "FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0243",
+      "nome": "PRÁTICAS DE SAÚDE BASEADAS EM EVIDÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0686"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0082",
+      "nome": "PRÁTICAS EM FONOAUDIOLOGIA DA INFÂNCIA A ADOLESCÊNCIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0804"
+      ],
+      "pre_requisitos": [
+         "FCE0076"
+      ]
+   },
+   {
+      "codigo": "FCE0104",
+      "nome": "PRÁTICAS EM FONOAUDIOLOGIA : DO ADULTO E DO IDOSO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0826"
+      ],
+      "pre_requisitos": [
+         "FCE0041 & FCE0222 & FCE0033 & FCE0091"
+      ]
+   },
+   {
+      "codigo": "FCE0066",
+      "nome": "PRÁTICAS EM FONOAUDIOLOGIA: DO NASCIMENTO À PRIMEIRA INFÂNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0788"
+      ],
+      "pre_requisitos": [
+         "FCE0058"
+      ]
+   },
+   {
+      "codigo": "FCE0345",
+      "nome": "PRÁTICAS INTEGRADAS DE SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1047"
+      ],
+      "pre_requisitos": [
+         "FCE0234 & FCE0277"
+      ]
+   },
+   {
+      "codigo": "FCE0169",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0672"
+      ],
+      "pre_requisitos": [
+         "FCE0235 & FCE0224 & FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0171",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0674"
+      ],
+      "pre_requisitos": [
+         "FCE0247 & FCE0147 & FCE0254 &  FCE0169",
+         "FCE0249"
+      ]
+   },
+   {
+      "codigo": "FCE0433",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 2 - MÓDULO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0434",
+         "FCE1131"
+      ],
+      "pre_requisitos": [
+         "FCE0247 & FCE0147 & FCE0254"
+      ]
+   },
+   {
+      "codigo": "FCE0434",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 2 - MÓDULO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1132"
+      ],
+      "pre_requisitos": [
+         "FCE0433"
+      ]
+   },
+   {
+      "codigo": "FCE0172",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0514"
+      ],
+      "pre_requisitos": [
+         "FCE0171",
+         "FCE0250  &  FCE0170",
+         "FCE0248  &  FCE0282  &  FCE0246  &  FCE0206"
+      ]
+   },
+   {
+      "codigo": "FCE0173",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0675"
+      ],
+      "pre_requisitos": [
+         "FCE0172  &  FCE0362"
+      ]
+   },
+   {
+      "codigo": "FCE0174",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0894"
+      ],
+      "pre_requisitos": [
+         "FCE0363 & FCE0364 & FCE0362"
+      ]
+   },
+   {
+      "codigo": "FCE0435",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 5 - MÓDULO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0436",
+         "FCE1133"
+      ],
+      "pre_requisitos": [
+         "FCE0363 & FCE0364 & FCE0362"
+      ]
+   },
+   {
+      "codigo": "FCE0436",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 5 - MÓDULO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1134"
+      ],
+      "pre_requisitos": [
+         "FCE0435"
+      ]
+   },
+   {
+      "codigo": "FCE0445",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 5 NA SAÚDE DA CRIANÇA E ADOLESCENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0660"
+      ],
+      "pre_requisitos": [
+         "FCE0363  &  FCE0364",
+         "FCE0173"
+      ]
+   },
+   {
+      "codigo": "FCE0444",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 5 NA SAÚDE DA MULHER",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0659"
+      ],
+      "pre_requisitos": [
+         "FCE0363  &  FCE0364",
+         "FCE0173"
+      ]
+   },
+   {
+      "codigo": "FCE0175",
+      "nome": "PRÁTICAS SUPERVISIONADAS EM ENFERMAGEM 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0676"
+      ],
+      "pre_requisitos": [
+         "FCE0376 & FCE0174",
+         "FCE0443 & FCE0446 & FCE0444 & FCE0445"
+      ]
+   },
+   {
+      "codigo": "FCE0017",
+      "nome": "PRINCIPAIS VETORES DE IMPORTÂNCIA EM SAÚDE COLETIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0739"
+      ],
+      "pre_requisitos": [
+         "FCE0325",
+         "FCE0282"
+      ]
+   },
+   {
+      "codigo": "FCE0179",
+      "nome": "PROCESSO DE CUIDAR DE ENFERMAGEM NA COMUNIDADE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0677"
+      ],
+      "pre_requisitos": [
+         "FCE0362  &  FCE0172",
+         "FCE0364"
+      ]
+   },
+   {
+      "codigo": "FCE0397",
+      "nome": "PROCESSO DE CUIDAR EM ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0638"
+      ],
+      "pre_requisitos": [
+         "FCE0235 & FCE0224 & FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0138",
+      "nome": "PROCESSO DE INOVAÇÃO EM TECNOLOGIA ASSISTIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0860"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0235",
+      "nome": "PROCESSO DE TRABALHO E RELACIONAMENTO INTERPESSOAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0546"
+      ],
+      "pre_requisitos": [
+         "FCE0145 & FCE0198 & FCE0178",
+         "FCE0216"
+      ]
+   },
+   {
+      "codigo": "FCE0008",
+      "nome": "PROCESSOS COGNITIVOS: APLICAÇÕES EM FISIOTERAPIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0730"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0053",
+      "nome": "PROCESSOS COGNITIVOS: CINÉSIO-FISIOPATOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0775"
+      ],
+      "pre_requisitos": [
+         "FCE0008 & FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0027",
+      "nome": "PROCESSOS COGNITIVOS: PRÁTICA FISIOTERAPÊUTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0749"
+      ],
+      "pre_requisitos": [
+         "FCE0008 & FCE0279"
+      ]
+   },
+   {
+      "codigo": "FCE0147",
+      "nome": "PROCESSOS PATOLÓGICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0509"
+      ],
+      "pre_requisitos": [
+         "FCE0230",
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0108",
+      "nome": "PRODUÇÃO AUDIOVISUAL EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0830"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0236",
+      "nome": "PROMOÇÃO À SAÚDE 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0335",
+         "FCE0407",
+         "FCE0547"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0407",
+      "nome": "PROMOÇÃO À SAÚDE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1107"
+      ],
+      "pre_requisitos": [
+         "FCE0236"
+      ]
+   },
+   {
+      "codigo": "FCE0335",
+      "nome": "PROMOÇÃO DA SAÚDE CONCEITOS E CONTEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1038"
+      ],
+      "pre_requisitos": [
+         "FCE0236"
+      ]
+   },
+   {
+      "codigo": "FCE0051",
+      "nome": "PRONTUÁRIO ELETRÔNICO DO PACIENTE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0667"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0238",
+      "nome": "QUÍMICA ANALÍTICA FARMACÊUTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0050",
+         "FAR0120",
+         "FAR0163",
+         "FCE0418",
+         "FCE0548"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0353",
+      "nome": "QUÍMICA EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0702"
+      ],
+      "pre_requisitos": [
+         "FCE0309"
+      ]
+   },
+   {
+      "codigo": "FCE0259",
+      "nome": "QUÍMICA FARMACÊUTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0560"
+      ],
+      "pre_requisitos": [
+         "FCE0239"
+      ]
+   },
+   {
+      "codigo": "FCE0212",
+      "nome": "QUÍMICA INORGÂNICA APLICADA A FARMÁCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0530"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0209",
+      "nome": "QUÍMICA ORGÂNICA APLICADA A FARMÁCIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0239",
+         "FCE0529"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0239",
+      "nome": "QUÍMICA ORGÂNICA APLICADA  A FARMÁCIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAR0157",
+         "FCE0259",
+         "FCE0549"
+      ],
+      "pre_requisitos": [
+         "FCE0209"
+      ]
+   },
+   {
+      "codigo": "FCE0237",
+      "nome": "RACIONALIDADES MÉDICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0948"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0157",
+      "nome": "RADIOFARMÁCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0877"
+      ],
+      "pre_requisitos": [
+         "FCE0368 & FCE0309"
+      ]
+   },
+   {
+      "codigo": "FCE0158",
+      "nome": "RECONSTRUÇÃO OCUPACIONAL E TRANSFORMAÇÃO SOCIAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0878"
+      ],
+      "pre_requisitos": [
+         "FCE0273"
+      ]
+   },
+   {
+      "codigo": "FCE0024",
+      "nome": "RECURSOS TECNOLÓGICOS AVANÇADOS EM FISIOTERAPIA DERMATO-FUNCIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0746"
+      ],
+      "pre_requisitos": [
+         "FCE0290 & FCE0291"
+      ]
+   },
+   {
+      "codigo": "FCE0128",
+      "nome": "RECURSOS TERAPÊUTICOS EM FONOAUDIOLOGIA NO PRIMEIRO CICLO DE VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0499"
+      ],
+      "pre_requisitos": [
+         "FCE0113 & FCE0126"
+      ]
+   },
+   {
+      "codigo": "FCE0123",
+      "nome": "RECURSOS TERAPÊUTICOS EM FONOAUDIOLOGIA NO SEGUNDO CICLO DE VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0494"
+      ],
+      "pre_requisitos": [
+         "FCE0114 & FCE0126"
+      ]
+   },
+   {
+      "codigo": "FCE0132",
+      "nome": "RECURSOS TERAPÊUTICOS EM FONOAUDIOLOGIA NO TERCEIRO CICLO DE VIDA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0502"
+      ],
+      "pre_requisitos": [
+         "FCE0115 & FCE0126"
+      ]
+   },
+   {
+      "codigo": "FCE0240",
+      "nome": "SAÚDE, AMBIENTE E TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0551"
+      ],
+      "pre_requisitos": [
+         "FCE0188"
+      ]
+   },
+   {
+      "codigo": "FCE0019",
+      "nome": "SAÚDE, CUIDADO E RECONHECIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0646"
+      ],
+      "pre_requisitos": [
+         "FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0393",
+      "nome": "SAÚDE DO HOMEM COM ÊNFASE NAS DST",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1093"
+      ],
+      "pre_requisitos": [
+         "FCE0282 & FCE0266"
+      ]
+   },
+   {
+      "codigo": "FCE0188",
+      "nome": "SAÚDE E SOCIEDADE 1: INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS EM SÁUDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0054",
+         "FCE0208",
+         "FCE0234",
+         "FCE0240",
+         "FCE0518",
+         "FCE0964"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0208",
+      "nome": "SAÚDE E SOCIEDADE 2: A CONSTRUÇÃO SOCIAL DO PROCESSO SAÚDE E DOENÇA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0019",
+         "FCE0164",
+         "FCE0167",
+         "FCE0327",
+         "FCE0527"
+      ],
+      "pre_requisitos": [
+         "FCE0188"
+      ]
+   },
+   {
+      "codigo": "FCE0273",
+      "nome": "SAÚDE E SOCIEDADE 3: DIVERSIDADE SOCIAL E SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0018",
+         "FCE0158",
+         "FCE0199",
+         "FCE0569"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0140",
+      "nome": "SEGURANÇA DO PACIENTE NA ATENÇÃO A SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0505"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0189",
+      "nome": "SEMINÁRIO INTEGRATIVO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0205",
+         "FCE0519"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0205",
+      "nome": "SEMINÁRIO INTEGRATIVO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0241",
+         "FCE0525"
+      ],
+      "pre_requisitos": [
+         "FCE0189"
+      ]
+   },
+   {
+      "codigo": "FCE0241",
+      "nome": "SEMINÁRIO INTEGRATIVO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0272",
+         "FCE0552"
+      ],
+      "pre_requisitos": [
+         "FCE0205"
+      ]
+   },
+   {
+      "codigo": "FCE0272",
+      "nome": "SEMINÁRIO INTEGRATIVO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0280",
+         "FCE0568"
+      ],
+      "pre_requisitos": [
+         "FCE0241"
+      ]
+   },
+   {
+      "codigo": "FCE0280",
+      "nome": "SEMINÁRIO INTEGRATIVO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0331",
+         "FCE0574"
+      ],
+      "pre_requisitos": [
+         "FCE0272"
+      ]
+   },
+   {
+      "codigo": "FCE0331",
+      "nome": "SEMINÁRIO INTEGRATIVO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0607"
+      ],
+      "pre_requisitos": [
+         "FCE0280"
+      ]
+   },
+   {
+      "codigo": "FCE0339",
+      "nome": "SEMINÁRIO INTEGRATIVO 7",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0401",
+         "FCE1042"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0401",
+      "nome": "SEMINÁRIO INTEGRATIVO 8",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1101"
+      ],
+      "pre_requisitos": [
+         "FCE0339"
+      ]
+   },
+   {
+      "codigo": "FCE0127",
+      "nome": "SEMINÁRIOS INTEGRATIVOS EM FONOAUDIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0498"
+      ],
+      "pre_requisitos": [
+         "FCE0121 & FCE0120"
+      ]
+   },
+   {
+      "codigo": "FCE0247",
+      "nome": "SEMIOLOGIA E SEMIOTÉCNICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0151",
+         "FCE0394",
+         "FCE0555"
+      ],
+      "pre_requisitos": [
+         "FCE0224 & FCE0235 & FCE0204"
+      ]
+   },
+   {
+      "codigo": "FCE0170",
+      "nome": "SEMIOLOGIA E SEMIOTÉCNICA 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0078",
+         "FCE0366",
+         "FCE0673"
+      ],
+      "pre_requisitos": [
+         "FCE0247 & FCE0147 & FCE0254 &  FCE0169",
+         "FCE0249"
+      ]
+   },
+   {
+      "codigo": "FCE0248",
+      "nome": "SEMIOLOGIA E SEMIOTÉCNICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0078",
+         "FCE0365",
+         "FCE0959"
+      ],
+      "pre_requisitos": [
+         "FCE0249 & FCE0254 & FCE0276 & FCE0246 & FCE0247 & FCE0266"
+      ]
+   },
+   {
+      "codigo": "FCE0063",
+      "nome": "SERVIÇOS CLÍNICOS FARMACÊUTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0473"
+      ],
+      "pre_requisitos": [
+         "FCE0213"
+      ]
+   },
+   {
+      "codigo": "FCE0414",
+      "nome": "SINALIZAÇÃO REDOX NO SISTEMA BIOLÓGICO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE1112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0231",
+      "nome": "SISTEMA IMUNITÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0010",
+         "FCE0028",
+         "FCE0147",
+         "FCE0150",
+         "FCE0254",
+         "FCE0282",
+         "FCE0313",
+         "ENF0094",
+         "FCE0543"
+      ],
+      "pre_requisitos": [
+         "FCE0192"
+      ]
+   },
+   {
+      "codigo": "FCE0264",
+      "nome": "SISTEMAS DE MANUTENÇÃO DA VIDA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0023",
+         "FCE0045",
+         "FCE0046",
+         "FCE0109",
+         "FCE0246",
+         "FCE0266",
+         "FCE0562"
+      ],
+      "pre_requisitos": [
+         "FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0275",
+      "nome": "SOCIOLOGIA DO CORPO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0981"
+      ],
+      "pre_requisitos": [
+         "FCE0188 & FCE0273"
+      ]
+   },
+   {
+      "codigo": "FCE0455",
+      "nome": "SOS-QUÍMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0663"
+      ],
+      "pre_requisitos": [
+         "FCE0192  &  FCE0212  &  FCE0209  &  FCE0239  &  FCE0238"
+      ]
+   },
+   {
+      "codigo": "FCE0145",
+      "nome": "SUPORTE E MOVIMENTO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0507"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0080",
+      "nome": "SURDEZ: CULTURA, LÍNGUA E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0477"
+      ],
+      "pre_requisitos": [
+         "FCE0126 & FCE0128 & FCE0123 & FCE0132"
+      ]
+   },
+   {
+      "codigo": "FCE0394",
+      "nome": "TAXONOMIAS PARA O EXERCÍCIO DA ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1094"
+      ],
+      "pre_requisitos": [
+         "FCE0247"
+      ]
+   },
+   {
+      "codigo": "FCE0402",
+      "nome": "TECNOLOGIA APLICADA À FARMÁCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0084",
+         "FCE0709"
+      ],
+      "pre_requisitos": [
+         "FCE0369"
+      ]
+   },
+   {
+      "codigo": "FCE0391",
+      "nome": "TECNOLOGIA ASSISTIVA E ACESSIBILIDADE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1091"
+      ],
+      "pre_requisitos": [
+         "FCE0244 & FCE0232",
+         "FCE0279 & FCE0207"
+      ]
+   },
+   {
+      "codigo": "FCE0400",
+      "nome": "TECNOLOGIA DE ALIMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1100"
+      ],
+      "pre_requisitos": [
+         "FAR0050"
+      ]
+   },
+   {
+      "codigo": "FCE0406",
+      "nome": "TECNOLOGIA DE COSMÉTICOS APLICADA A FARMÁCIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1106"
+      ],
+      "pre_requisitos": [
+         "FCE0369"
+      ]
+   },
+   {
+      "codigo": "FCE0431",
+      "nome": "TECNOLOGIA DE COSMÉTICOS APLICADA A FARMÁCIA   PRÁTICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FCE1129",
+         "PRÁTICA"
+      ],
+      "pre_requisitos": [
+         "FCE0430"
+      ]
+   },
+   {
+      "codigo": "FCE0430",
+      "nome": "TECNOLOGIA DE COSMÉTICOS APLICADA A FARMÁCIA   TEÓRICA",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "FCE0431",
+         "PRÁTICA",
+         "FCE1128",
+         "TEÓRICA"
+      ],
+      "pre_requisitos": [
+         "FCE0369"
+      ]
+   },
+   {
+      "codigo": "FCE0065",
+      "nome": "TECNOLOGIAS ASSISTIVAS EM AUDIOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0474"
+      ],
+      "pre_requisitos": [
+         "FCE0126 & FCE0128 & FCE0123 & FCE0132"
+      ]
+   },
+   {
+      "codigo": "FCE0338",
+      "nome": "TECNOLOGIAS DE GERENCIAMENTO E GESTÃO EM SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0004",
+         "FCE0610"
+      ],
+      "pre_requisitos": [
+         "FCE0326 & FCE0336"
+      ]
+   },
+   {
+      "codigo": "FCE0458",
+      "nome": "TECNOLOGIAS ECOINOVADORAS, GESTÃO AMBIENTAL E SAÚDE HUMANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1153"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0026",
+      "nome": "TEORIAS DO DESENVOLVIMENTO MOTOR: REPERCUSSÕES NA INTERVENÇÃO PRECOCE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0748"
+      ],
+      "pre_requisitos": [
+         "FCE0279",
+         "FCE0244",
+         "FCE0376"
+      ]
+   },
+   {
+      "codigo": "FCE0278",
+      "nome": "TEORIAS E MODELOS DE ADMINISTRAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0004",
+         "FCE0326",
+         "DSC0092",
+         "FCE0572"
+      ],
+      "pre_requisitos": [
+         "FCE0234"
+      ]
+   },
+   {
+      "codigo": "FCE0134",
+      "nome": "TERAPIA OCUPACIONAL APLICADA A NEONATOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0503"
+      ],
+      "pre_requisitos": [
+         "FCE0204 & FCE0266 & FCE0227"
+      ]
+   },
+   {
+      "codigo": "FCE0267",
+      "nome": "TERAPIA OCUPACIONAL BASEADA EM EVIDÊNCIAS 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0318",
+         "FCE0563"
+      ],
+      "pre_requisitos": [
+         "FCE0206 & FCE0194"
+      ]
+   },
+   {
+      "codigo": "FCE0318",
+      "nome": "TERAPIA OCUPACIONAL BASEADA EM EVIDÊNCIAS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0354",
+         "FCE0695"
+      ],
+      "pre_requisitos": [
+         "FCE0267"
+      ]
+   },
+   {
+      "codigo": "FCE0354",
+      "nome": "TERAPIA OCUPACIONAL BASEADA EM EVIDÊNCIAS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0018",
+         "FCE0614"
+      ],
+      "pre_requisitos": [
+         "FCE0318"
+      ]
+   },
+   {
+      "codigo": "FCE0111",
+      "nome": "TERAPIA OCUPACIONAL EM REUMATOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0833"
+      ],
+      "pre_requisitos": [
+         "FCE0244 & FCE0269",
+         "FCE0279 & FCE0285"
+      ]
+   },
+   {
+      "codigo": "FCE0268",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO BÁSICA: AVALIAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0319",
+         "FCE0564"
+      ],
+      "pre_requisitos": [
+         "FCE0244 & FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0355",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO BÁSICA: INTERAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1056"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0356",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO BÁSICA: INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0615"
+      ],
+      "pre_requisitos": [
+         "FCE0319"
+      ]
+   },
+   {
+      "codigo": "FCE0319",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO BÁSICA: RECURSOS TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0356",
+         "FCE0596"
+      ],
+      "pre_requisitos": [
+         "FCE0268"
+      ]
+   },
+   {
+      "codigo": "FCE0270",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO DE ALTA COMPLEXIDADE: AVALIAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0321",
+         "FCE0566"
+      ],
+      "pre_requisitos": [
+         "FCE0244 & FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0358",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO DE ALTA COMPLEXIDADE: INTERVENÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0617"
+      ],
+      "pre_requisitos": [
+         "FCE0321"
+      ]
+   },
+   {
+      "codigo": "FCE0321",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO DE ALTA COMPLEXIDADE: REC TERAPÊUTICOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0358",
+         "FCE0598"
+      ],
+      "pre_requisitos": [
+         "FCE0270"
+      ]
+   },
+   {
+      "codigo": "FCE0269",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO DE MÉDIA  COMPLEXIDADE: AVALIAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0320",
+         "FCE0565"
+      ],
+      "pre_requisitos": [
+         "FCE0244 & FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0357",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO DE MÉDIA COMPLEXIDADE: INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0616"
+      ],
+      "pre_requisitos": [
+         "FCE0320"
+      ]
+   },
+   {
+      "codigo": "FCE0320",
+      "nome": "TERAPIA OCUPACIONAL NA ATENÇÃO DE MÉDIA COMPLEXIDADE: REC TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0357",
+         "FCE0597"
+      ],
+      "pre_requisitos": [
+         "FCE0269"
+      ]
+   },
+   {
+      "codigo": "FCE0361",
+      "nome": "TERAPIA OCUPACIONAL NA GESTÃO DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0618"
+      ],
+      "pre_requisitos": [
+         "FCE0319 & FCE0320 & FCE0321 & FCE0322"
+      ]
+   },
+   {
+      "codigo": "FCE0166",
+      "nome": "TERAPIA OCUPACIONAL NO CAMPO DO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0513"
+      ],
+      "pre_requisitos": [
+         "FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0089",
+      "nome": "TERAPIA OCUPACIONAL NO CAMPO SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0668"
+      ],
+      "pre_requisitos": [
+         "FCE0227 & FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0154",
+      "nome": "TERAPIA OCUPACIONAL NO CONTEXTO ESCOLAR INFANTIL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0512"
+      ],
+      "pre_requisitos": [
+         "FCE0227 & FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0271",
+      "nome": "TERAPIA OCUPACIONAL NO PROCESSO DE REABILITAÇÃO: AVALIAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0322",
+         "FCE0567"
+      ],
+      "pre_requisitos": [
+         "FCE0244 & FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0359",
+      "nome": "TERAPIA OCUPACIONAL NO PROCESSO DE REABILITAÇÃO: INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0703"
+      ],
+      "pre_requisitos": [
+         "FCE0322"
+      ]
+   },
+   {
+      "codigo": "FCE0322",
+      "nome": "TERAPÍA OCUPACIONAL NO PROCESSO DE REABILITAÇÃO: RECURSOS TERAPÊUTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0359",
+         "FCE0599"
+      ],
+      "pre_requisitos": [
+         "FCE0271"
+      ]
+   },
+   {
+      "codigo": "FCE0252",
+      "nome": "TÓPICOS AVANÇADOS EM ANÁLISES E APLICAÇÃO TERAPÊUTICA DA ATIVIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0963"
+      ],
+      "pre_requisitos": [
+         "FCE0227 & FCE0232"
+      ]
+   },
+   {
+      "codigo": "FCE0086",
+      "nome": "TÓPICOS AVANÇADOS EM AUDIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0808"
+      ],
+      "pre_requisitos": [
+         "FCE0126"
+      ]
+   },
+   {
+      "codigo": "FCE0102",
+      "nome": "TÓPICOS AVANÇADOS EM AUDIOLOGIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0824"
+      ],
+      "pre_requisitos": [
+         "FCE0126"
+      ]
+   },
+   {
+      "codigo": "FCE0103",
+      "nome": "TÓPICOS AVANÇADOS EM AUDIOLOGIA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0669"
+      ],
+      "pre_requisitos": [
+         "FCE0126"
+      ]
+   },
+   {
+      "codigo": "FCE0383",
+      "nome": "TÓPICOS AVANÇADOS EM FISIOTERAPIA NA SAÚDE DA MULHER: BASES CIENTÍFICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0634"
+      ],
+      "pre_requisitos": [
+         "FCE0290"
+      ]
+   },
+   {
+      "codigo": "FCE0010",
+      "nome": "TÓPICOS AVANÇADOS EM PATOLOGIA HUMANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0732"
+      ],
+      "pre_requisitos": [
+         "FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0072",
+      "nome": "TÓPICOS AVANÇADOS EM TERAPIA MANUAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0651"
+      ],
+      "pre_requisitos": [
+         "FCE0290"
+      ]
+   },
+   {
+      "codigo": "FCE0074",
+      "nome": "TÓPICOS AVANÇADOS EM TERAPIA MANUAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0796"
+      ],
+      "pre_requisitos": [
+         "FCE0290 & FCE0072"
+      ]
+   },
+   {
+      "codigo": "FCE0165",
+      "nome": "TÓPICOS AVANÇADOS EM VOZ 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0885"
+      ],
+      "pre_requisitos": [
+         "FCE0118"
+      ]
+   },
+   {
+      "codigo": "FCE0144",
+      "nome": "TÓPICOS AVANÇADOS PARA O GERENCIAMENTO APLICADO À ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0865"
+      ],
+      "pre_requisitos": [
+         "FCE0377"
+      ]
+   },
+   {
+      "codigo": "FCE0101",
+      "nome": "TÓPICOS AVAN DA ASSIST DE ENFERM AO PACIEN COM DISTURBIOS CARDIACOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0823"
+      ],
+      "pre_requisitos": [
+         "FCE0378"
+      ]
+   },
+   {
+      "codigo": "FCE0084",
+      "nome": "TÓPICOS DE TECNOLOGIA FARMACÊUTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0806"
+      ],
+      "pre_requisitos": [
+         "FCE0402"
+      ]
+   },
+   {
+      "codigo": "FCE0395",
+      "nome": "TÓPICOS EM FISIOTERAPIA NAS FRAGILIDADES DO IDOSO: BASES CIENTÍFICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1095"
+      ],
+      "pre_requisitos": [
+         "FCE0289 & FCE0290"
+      ]
+   },
+   {
+      "codigo": "FCE0315",
+      "nome": "TÓPICOS EM METABOLISMO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1019"
+      ],
+      "pre_requisitos": [
+         "FCE0222 & FCE0224 & FCE0231"
+      ]
+   },
+   {
+      "codigo": "FCE0245",
+      "nome": "TÓPICOS ESPECIAIS DAS CÉLULAS AOS SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0956"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0025",
+      "nome": "TÓPICOS ESPECIAIS EM FISIOTERAPIA AQUÁTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0747"
+      ],
+      "pre_requisitos": [
+         "FCE0290"
+      ]
+   },
+   {
+      "codigo": "FCE0155",
+      "nome": "TÓPICOS ESPECIAIS EM INTERAÇÕES PATÓGENO - HOSPEDEIRO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0875"
+      ],
+      "pre_requisitos": [
+         "FCE0282 & FCE0224"
+      ]
+   },
+   {
+      "codigo": "FCE0305",
+      "nome": "TÓPICOS ESPECIAIS EM MICROBIOLOGIA APLICADOS A SAÚDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE1009"
+      ],
+      "pre_requisitos": [
+         "FCE0254",
+         "CEL0050",
+         "CEL0111"
+      ]
+   },
+   {
+      "codigo": "FCE0087",
+      "nome": "TÓPICOS ESPECIAIS EM NEUROCIÊNCIA COGNITIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0809"
+      ],
+      "pre_requisitos": [
+         "FCE0194 & FCE0222"
+      ]
+   },
+   {
+      "codigo": "FCE0343",
+      "nome": "TÓPICOS ESPECIAIS EM SAÚDE COLETIVA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0612"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0344",
+      "nome": "TÓPICOS ESPECIAIS EM SAÚDE COLETIVA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0699"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0349",
+      "nome": "TÓPICOS ESPECIAIS EM SAÚDE COLETIVA 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE1050"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0350",
+      "nome": "TÓPICOS ESPECIAIS EM SAÚDE COLETIVA 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0613"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0160",
+      "nome": "TÓPICOS ESPECIAIS EM SIMULAÇÃO PEDIÁTRICA NA ENFERMAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0880"
+      ],
+      "pre_requisitos": [
+         "FCE0376",
+         "ENF0066"
+      ]
+   },
+   {
+      "codigo": "FCE0055",
+      "nome": "TOXICANTES DE INTERESSE EM ALIMENTOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0471"
+      ],
+      "pre_requisitos": [
+         "FCE0372 & FAR0050"
+      ]
+   },
+   {
+      "codigo": "FCE0372",
+      "nome": "TOXICOLOGIA APLICADA A FARMÁCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0626"
+      ],
+      "pre_requisitos": [
+         "FCE0256"
+      ]
+   },
+   {
+      "codigo": "FCE0056",
+      "nome": "TOXICOLOGIA E ESSENCIALIDADE DE METAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0778"
+      ],
+      "pre_requisitos": [
+         "FCE0372 & FCE0212"
+      ]
+   },
+   {
+      "codigo": "FCE0048",
+      "nome": "TRABALHO DE CAMPO EM FONOAUDIOLOGIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0649"
+      ],
+      "pre_requisitos": [
+         "FCE0042"
+      ]
+   },
+   {
+      "codigo": "FCE0413",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0713"
+      ],
+      "pre_requisitos": [
+         "FCE0410"
+      ]
+   },
+   {
+      "codigo": "FCE0396",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM ENFERMAGEM 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0015",
+         "FCE0708",
+         "FCE0589"
+      ],
+      "pre_requisitos": [
+         "FCE0194 & FCE0376",
+         "FCE0446 & FCE0443"
+      ]
+   },
+   {
+      "codigo": "FCE0181",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM ENFERMAGEM 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0015",
+         "FCE0589",
+         "FCE0901"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0015",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM ENFERMAGEM 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0666"
+      ],
+      "pre_requisitos": [
+         "FCE0396",
+         "FCE0181",
+         "FCE0550"
+      ]
+   },
+   {
+      "codigo": "FCE0182",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM ENFERMAGEM 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0902"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0410",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM FARMÁCIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0413",
+         "FCE0711",
+         "FCE0542"
+      ],
+      "pre_requisitos": [
+         "FCE0307 & FCE0369 & FCE0381"
+      ]
+   },
+   {
+      "codigo": "FCE0301",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM FISIOTERAPIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0303",
+         "FCE0691"
+      ],
+      "pre_requisitos": [
+         "FCE0194"
+      ]
+   },
+   {
+      "codigo": "FCE0303",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM FISIOTERAPIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0692"
+      ],
+      "pre_requisitos": [
+         "FCE0301"
+      ]
+   },
+   {
+      "codigo": "FCE0105",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM FONOAUDIOLOGIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0106",
+         "FCE0481",
+         "FCE0725"
+      ],
+      "pre_requisitos": [
+         "FCE0194 & FCE0121 & FCE0120"
+      ]
+   },
+   {
+      "codigo": "FCE0106",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM FONOAUDIOLOGIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0482"
+      ],
+      "pre_requisitos": [
+         "FCE0105"
+      ]
+   },
+   {
+      "codigo": "FCE0340",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM SAÚDE COLETIVA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0346",
+         "FCE0611"
+      ],
+      "pre_requisitos": [
+         "FCE0187 & FCE0188 & FCE0189 & FCE0192 & FCE0229 & FCE0204 & FCE0201 & FCE0205 & FCE0206 & FCE0208 & FCE0236 & FCE0231 & FCE0234 & FCE0240 & FCE0241 & FCE0276 & FCE0277 & FCE0254 & FCE0272 & FCE0273 & FCE0278 & FCE0194 & FCE0199 & FCE0280 & FCE0324 & FCE0325 & FCE0326 & FCE0336",
+         "FCE0187 & FCE0188 & FCE0189 & FCE0192 & FCE0229 & FCE0204 & FCE0146 & FCE0205 & FCE0206 & FCE0208 & FCE0236 & FCE0231 & FCE0234 & FCE0240 & FCE0241 & FCE0276 & FCE0277 & FCE0254 & FCE0272 & FCE0273 & FCE0278 & FCE0282 & FCE0194 & FCE0199 & FCE0280 & FCE0324 & FCE0325 & FCE0326 & FCE0336"
+      ]
+   },
+   {
+      "codigo": "FCE0346",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM SAÚDE COLETIVA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FCE0700"
+      ],
+      "pre_requisitos": [
+         "FCE0340"
+      ]
+   },
+   {
+      "codigo": "FCE0379",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM TERAPIA OCUPACIONAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0387",
+         "FCE0450",
+         "FCE0456",
+         "FCE0631"
+      ],
+      "pre_requisitos": [
+         "FCE0354 & FCE0229 & FCE0254 & FCE0264 & FCE0204 & FCE0208"
+      ]
+   },
+   {
+      "codigo": "FCE0387",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO EM TERAPIA OCUPACIONAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0707"
+      ],
+      "pre_requisitos": [
+         "FCE0379"
+      ]
+   },
+   {
+      "codigo": "FCE0432",
+      "nome": "TUTORIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0717"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0081",
+      "nome": "VALIDAÇÃO DE MÉTODOS ANALÍTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0803"
+      ],
+      "pre_requisitos": [
+         "FCE0309"
+      ]
+   },
+   {
+      "codigo": "FCE0023",
+      "nome": "VARIABILIDADE DA FREQUÊNCIA CARDÍACA: APLICAÇÕES CLÍNICAS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0647"
+      ],
+      "pre_requisitos": [
+         "FCE0264"
+      ]
+   },
+   {
+      "codigo": "FCE0306",
+      "nome": "VIGILÂNCIA SANITÁRIA APLICADA A PROFISSIONAIS DE SAÚDE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0591"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FCE0039",
+      "nome": "VIROLOGIA CLÍNICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FCE0761"
+      ],
+      "pre_requisitos": [
+         "FCE0307"
+      ]
+   },
+   {
+      "codigo": "FCE0083",
+      "nome": "VIVÊNCIA EM SAÚDE FONOAUDIOLÓGICA DA INFÂNCIA A ADOLESCÊNCIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FCE0805"
+      ],
+      "pre_requisitos": [
+         "FCE0076"
+      ]
+   },
+   {
+      "codigo": "FCE0068",
+      "nome": "VIVÊNCIA EM SAÚDE FONOAUDIOLÓGICA: DO NASCIMENTO À PRIMEIRA INFÂNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0790"
+      ],
+      "pre_requisitos": [
+         "FCE0058"
+      ]
+   },
+   {
+      "codigo": "FCE0121",
+      "nome": "VIVÊNCIAS EM SAÚDE FONOAUDIOLÓGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0492"
+      ],
+      "pre_requisitos": [
+         "FCE0069 & FCE0113 & FCE0114 & FCE0115 & FCE0126"
+      ]
+   }
+]

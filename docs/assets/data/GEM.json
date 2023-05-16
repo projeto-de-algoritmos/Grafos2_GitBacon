@@ -1,0 +1,630 @@
+[
+   {
+      "codigo": "GEM0003",
+      "nome": "BIOLOGIA DO CÂNCER",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0083"
+      ],
+      "pre_requisitos": [
+         "CEL0095 & GEM0055",
+         "GEM0005",
+         "FAR0124"
+      ]
+   },
+   {
+      "codigo": "GEM0066",
+      "nome": "BIOLOGIA E GENÉTICA DA CONSERVAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0095"
+      ],
+      "pre_requisitos": [
+         "GEM0006",
+         "GEM0014",
+         "GEM0055"
+      ]
+   },
+   {
+      "codigo": "GEM0059",
+      "nome": "BIOLOGIA ESTRUTURAL DOS SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0010",
+         "GEM0076"
+      ],
+      "pre_requisitos": [
+         "GEM0062"
+      ]
+   },
+   {
+      "codigo": "GEM0062",
+      "nome": "BIOLOGIA ESTRUTURAL DOS TECIDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FCE0073",
+         "GEM0010",
+         "GEM0011",
+         "FMD0071",
+         "GEM0043",
+         "CFS0041",
+         "GEM0059",
+         "GEM0063",
+         "GEM0064",
+         "FMD0095",
+         "GEM0077"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0006",
+      "nome": "BIOLOGIA GERAL E EVOLUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ZOO0049",
+         "GEM0066",
+         "GEM0084"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0019",
+      "nome": "BIOLOGIA PARA O ENSINO DO 2 GRAU",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0002",
+      "nome": "BIOLOGIA REGENERATIVA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "GEM0082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0058",
+      "nome": "BIOLOGIA REPRODUTIVA DE PEIXES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0135"
+      ],
+      "pre_requisitos": [
+         "GEM0054",
+         "GEM0042"
+      ]
+   },
+   {
+      "codigo": "GEM0065",
+      "nome": "BIOLOGIA SINTÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0078"
+      ],
+      "pre_requisitos": [
+         "CEL0095",
+         "GEM0014",
+         "GEM0005"
+      ]
+   },
+   {
+      "codigo": "GEM0026",
+      "nome": "CITOGENETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0117"
+      ],
+      "pre_requisitos": [
+         "GEM0014",
+         "GEM0055",
+         "GEM0005",
+         "FAR0124"
+      ]
+   },
+   {
+      "codigo": "GEM0067",
+      "nome": "ECOTOXICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0144"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0043",
+      "nome": "EMBRIOLOGIA ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ZOO0013",
+         "GEM0053",
+         "GEM0091"
+      ],
+      "pre_requisitos": [
+         "GEM0041",
+         "GEM0054",
+         "GEM0062",
+         "FAV0236"
+      ]
+   },
+   {
+      "codigo": "GEM0025",
+      "nome": "EMBRIOLOGIA DOS SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0116"
+      ],
+      "pre_requisitos": [
+         "GEM0041",
+         "GEM0054",
+         "GEM0042"
+      ]
+   },
+   {
+      "codigo": "GEM0011",
+      "nome": "EMBRIOLOGIA GERAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ZOO0013",
+         "GEM0053",
+         "GEM0105"
+      ],
+      "pre_requisitos": [
+         "GEM0041",
+         "GEM0054",
+         "GEM0062",
+         "FMD0013"
+      ]
+   },
+   {
+      "codigo": "GEM0063",
+      "nome": "EMBRIOLOGIA HUMANA FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0053",
+         "GEM0140"
+      ],
+      "pre_requisitos": [
+         "GEM0062",
+         "GEM0054",
+         "FMD0013"
+      ]
+   },
+   {
+      "codigo": "GEM0012",
+      "nome": "ESTAGIO 1 EM CIENCIAS MORFOLOGICAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0079"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0013",
+      "nome": "ESTAGIO 2 EM CIENCIAS MORFOLOGICAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0107"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0051",
+      "nome": "ESTAGIO EM EVOLUCAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0094"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0029",
+      "nome": "ESTAGIO EM GENETICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0088"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0033",
+      "nome": "ESTAGIO EM MORFOLOGIA E MORFOGENESE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0089"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0039",
+      "nome": "ESTAGIO EM OCEANOGRAFIA BIOLOGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0121"
+      ],
+      "pre_requisitos": [
+         "ECL0002 & ZOO0013 & ZOO0017"
+      ]
+   },
+   {
+      "codigo": "GEM0018",
+      "nome": "EVOLUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ICB0080",
+         "DAN0086",
+         "GEM0086"
+      ],
+      "pre_requisitos": [
+         "ZOO0017 & GEM0014 & IGD0167",
+         "ZOO0017 & GEM0055 & IGD0167",
+         "ZOO0017 & GEM0055 & IGD0021"
+      ]
+   },
+   {
+      "codigo": "GEM0035",
+      "nome": "EVOLUÇÃO HUMANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0120"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0023",
+      "nome": "FUNDAMENTOS DE CITOLOGIA E HISTOLOGIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FMD0071",
+         "GEM0114"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0040",
+      "nome": "FUNDAMENTOS DE EMBRIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ZOO0013",
+         "GEM0053",
+         "GEM0122"
+      ],
+      "pre_requisitos": [
+         "GEM0041 & FMD0510"
+      ]
+   },
+   {
+      "codigo": "GEM0007",
+      "nome": "FUNDAMENTOS DE GENETICA DA CONSERVACAO ANIMAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0085"
+      ],
+      "pre_requisitos": [
+         "GEM0014",
+         "GEM0055"
+      ]
+   },
+   {
+      "codigo": "GEM0024",
+      "nome": "FUNDAMENTOS DE GENETICA E EVOLUCAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0015",
+         "GEM0060",
+         "GEM0068",
+         "GEM0087"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0022",
+      "nome": "FUNDAMENTOS DE HISTOLOGIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FMD0071",
+         "CFS0010",
+         "CFS0012",
+         "FMD0093",
+         "FMD0095",
+         "FMD0151",
+         "FMD0152",
+         "GEM0113"
+      ],
+      "pre_requisitos": [
+         "CEL0035",
+         "CEL0089"
+      ]
+   },
+   {
+      "codigo": "GEM0010",
+      "nome": "FUNDAMENTOS DE TECNICAS HISTOLOGICAS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0104"
+      ],
+      "pre_requisitos": [
+         "GEM0054",
+         "GEM0041",
+         "GEM0042",
+         "GEM0062",
+         "GEM0059"
+      ]
+   },
+   {
+      "codigo": "GEM0055",
+      "nome": "GENÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0007",
+         "GEM0015",
+         "GEM0026",
+         "GEM0060",
+         "GEM0066",
+         "GEM0068",
+         "GEM0073"
+      ],
+      "pre_requisitos": [
+         "CEL0095"
+      ]
+   },
+   {
+      "codigo": "GEM0014",
+      "nome": "GENETICA BASICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0007",
+         "BOT0016",
+         "GEM0015",
+         "GEM0026",
+         "GEM0060",
+         "CDS0004",
+         "GEM0065",
+         "FAV0090",
+         "FAR0142",
+         "GEM0066",
+         "GEM0068",
+         "GEM0070"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0005",
+      "nome": "GENÉTICA E BIOLOGIA MOLECULAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0003",
+         "GEM0015",
+         "GEM0026",
+         "GEM0060",
+         "GEM0065",
+         "GEM0069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0015",
+      "nome": "GENETICA HUMANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0080"
+      ],
+      "pre_requisitos": [
+         "GEM0014",
+         "GEM0024",
+         "GEM0005",
+         "FAR0124",
+         "GEM0055"
+      ]
+   },
+   {
+      "codigo": "GEM0052",
+      "nome": "GENETICAS DAS PLANTAS CULTIVADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0130"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0054",
+      "nome": "HISTOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0010",
+         "GEM0011",
+         "FMD0071",
+         "GEM0025",
+         "GEM0043",
+         "GEM0058",
+         "GEM0063",
+         "GEM0064",
+         "FMD0093",
+         "FMD0095",
+         "GEM0132"
+      ],
+      "pre_requisitos": [
+         "CFS0021 & CEL0089",
+         "CFS0021 & CEL0035"
+      ]
+   },
+   {
+      "codigo": "GEM0041",
+      "nome": "HISTOLOGIA BASICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0010",
+         "GEM0011",
+         "FMD0071",
+         "GEM0025",
+         "GEM0043",
+         "GEM0064",
+         "FMD0093",
+         "FMD0095",
+         "FMD0138",
+         "GEM0090"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0042",
+      "nome": "HISTOLOGIA VETERINARIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0010",
+         "GEM0025",
+         "GEM0058",
+         "GEM0064",
+         "FMD0093",
+         "FMD0095",
+         "GEM0071"
+      ],
+      "pre_requisitos": [
+         "CEL0089"
+      ]
+   },
+   {
+      "codigo": "GEM0049",
+      "nome": "INTRODUCAO A BIOLOGIA EVOLUTIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ICB0080",
+         "ZOO0049",
+         "GEM0072"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0068",
+      "nome": "INTRODUÇÃO À HERANÇA EPIGENÉTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "GEM0096"
+      ],
+      "pre_requisitos": [
+         "GEM0055",
+         "GEM0014",
+         "GEM0024"
+      ]
+   },
+   {
+      "codigo": "GEM0004",
+      "nome": "INVASÕES BIOLÓGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0100"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0061",
+      "nome": "METODOLOGIA DE ENSINO EXPERIMENTAL EM GENÉTICA E EVOLUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "GEM0138"
+      ],
+      "pre_requisitos": [
+         "GEM0055 & GEM0018",
+         "GEM0055 & GEM0049"
+      ]
+   },
+   {
+      "codigo": "GEM0001",
+      "nome": "NANOBIOTECNOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "GEM0081"
+      ],
+      "pre_requisitos": [
+         "CEL0054",
+         "CEL0077",
+         "CEL0067"
+      ]
+   },
+   {
+      "codigo": "GEM0045",
+      "nome": "PESQUISA EM EVOLUCAO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0092"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0047",
+      "nome": "PESQUISA EM GENETICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "GEM0093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GEM0053",
+      "nome": "PRATICAS DE EMBRIOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "GEM0131"
+      ],
+      "pre_requisitos": [
+         "GEM0043",
+         "GEM0040",
+         "GEM0011",
+         "GEM0063"
+      ]
+   },
+   {
+      "codigo": "GEM0060",
+      "nome": "PRÁTICAS DE GENÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0137"
+      ],
+      "pre_requisitos": [
+         "GEM0055",
+         "GEM0014",
+         "GEM0024",
+         "GEM0005",
+         "FAR0124"
+      ]
+   },
+   {
+      "codigo": "GEM0021",
+      "nome": "TERATOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "GEM0112"
+      ],
+      "pre_requisitos": [
+         "GEM0011 & GEM0054",
+         "GEM0042 & GEM0043",
+         "GEM0040 & GEM0041",
+         "GEM0041 & GEM0063"
+      ]
+   },
+   {
+      "codigo": "GEM0064",
+      "nome": "TÓPICOS COMPLEMENTARES EM HISTOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "GEM0141"
+      ],
+      "pre_requisitos": [
+         "GEM0041",
+         "GEM0054",
+         "GEM0042",
+         "GEM0062"
+      ]
+   },
+   {
+      "codigo": "GEM0057",
+      "nome": "TÓPICOS EM GENÉTICA E BIOLOGIA EVOLUTIVA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "GEM0075"
+      ],
+      "pre_requisitos": []
+   }
+]

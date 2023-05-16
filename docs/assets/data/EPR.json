@@ -1,0 +1,777 @@
+[
+   {
+      "codigo": "EPR0075",
+      "nome": "CONFIABILIDADE, MANUTENIBILIDADE E DISPONIBILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0188"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & EST0023"
+      ]
+   },
+   {
+      "codigo": "EPR0014",
+      "nome": "CONTROLE ESTATÍSTICO DE PROCESSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0083"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EPR0016",
+      "nome": "CUSTOS EM SISTEMAS DE PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0134"
+      ],
+      "pre_requisitos": [
+         "EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0044",
+      "nome": "DESENVOLVIMENTO DE SERVIÇOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0160"
+      ],
+      "pre_requisitos": [
+         "EPR0013",
+         "ENM0187"
+      ]
+   },
+   {
+      "codigo": "EPR0017",
+      "nome": "DINÂMICA DE SISTEMAS EM ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0135"
+      ],
+      "pre_requisitos": [
+         "EPR0004"
+      ]
+   },
+   {
+      "codigo": "EPR0043",
+      "nome": "ENGENHARIA DE PRODUTOS FINANCEIROS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0159"
+      ],
+      "pre_requisitos": [
+         "EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0013",
+      "nome": "ENGENHARIA DO PRODUTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0044",
+         "EPR0100"
+      ],
+      "pre_requisitos": [
+         "EPR0002",
+         "ENM0134",
+         "ENM0124"
+      ]
+   },
+   {
+      "codigo": "EPR0076",
+      "nome": "ENGENHARIA DO TRABALHO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0117"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0064",
+      "nome": "ENGENHARIA ECONÔMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0016",
+         "EPR0042",
+         "EPR0043",
+         "EPR0114"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EPR0077",
+      "nome": "ERGONOMIA DE SISTEMAS PRODUTIVOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0040",
+      "nome": "ERGONOMIA EM SISTEMAS PRODUTIVOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0157"
+      ],
+      "pre_requisitos": [
+         "EPR0063",
+         "EPR0076  &  EPR0071"
+      ]
+   },
+   {
+      "codigo": "EPR0010",
+      "nome": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "EPR0098"
+      ],
+      "pre_requisitos": [
+         "EPR0004 & EPR0002 & EPR0006"
+      ]
+   },
+   {
+      "codigo": "EPR0036",
+      "nome": "FINANÇAS  COMPORTAMENTAIS E PESSOAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0106"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0061",
+      "nome": "FORMAÇÃO DE VALOR EM SISTEMAS DE PRODUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0113"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0047",
+      "nome": "GERENCIAMENTO DA CADEIA DE SUPRIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0163"
+      ],
+      "pre_requisitos": [
+         "EPR0012"
+      ]
+   },
+   {
+      "codigo": "EPR0038",
+      "nome": "GERENCIAMENTO DE PROJETOS COMPLEXOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0155"
+      ],
+      "pre_requisitos": [
+         "EPR0002"
+      ]
+   },
+   {
+      "codigo": "EPR0031",
+      "nome": "GESTÃO DA CADEIA DE SUPRIMENTOS EM ENGENHARIA",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "EPR0149"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0030",
+      "nome": "GESTÃO DA QUALIDADE NA PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0084"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EPR0042",
+      "nome": "GESTÃO DE CUSTOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0158"
+      ],
+      "pre_requisitos": [
+         "EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0051",
+      "nome": "GESTÃO DE PROJETOS AVANÇADOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0167"
+      ],
+      "pre_requisitos": [
+         "EPR0069"
+      ]
+   },
+   {
+      "codigo": "EPR0005",
+      "nome": "GESTÃO DE RISCOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0095"
+      ],
+      "pre_requisitos": [
+         "EST0023 & EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0018",
+      "nome": "GESTÃO DE RISCOS EM ORGANIZAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0065",
+      "nome": "GESTÃO ESTRATÉGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0089"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0059",
+      "nome": "HIGIENE E SEGURANÇA DO TRABALHO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0025",
+         "EPR0112"
+      ],
+      "pre_requisitos": [
+         "EPR0068"
+      ]
+   },
+   {
+      "codigo": "EPR0035",
+      "nome": "INOVAÇÃO EM SISTEMAS DE PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0105"
+      ],
+      "pre_requisitos": [
+         "EPR0069",
+         "ENM0134",
+         "ADM0092",
+         "FGA0195"
+      ]
+   },
+   {
+      "codigo": "EPR0058",
+      "nome": "INSTALACOES INDUSTRIAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0060",
+         "EPR0173"
+      ],
+      "pre_requisitos": [
+         "EPR0068"
+      ]
+   },
+   {
+      "codigo": "EPR0060",
+      "nome": "INSTALACOES INDUSTRIAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0175"
+      ],
+      "pre_requisitos": [
+         "EPR0058"
+      ]
+   },
+   {
+      "codigo": "EPR0056",
+      "nome": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0069",
+         "EPR0087"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0057",
+      "nome": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO E À QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0006",
+         "ENC0262",
+         "EPR0172"
+      ],
+      "pre_requisitos": [
+         "EST0023 & ENM0134",
+         "EST0023 & EPR0068"
+      ]
+   },
+   {
+      "codigo": "EPR0048",
+      "nome": "INTRODUÇÃO A METODOLOGIA DE PESQUISA PARA ENGENHARIA DE PRODUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0164"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0012",
+      "nome": "LOGÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0047",
+         "EPR0099"
+      ],
+      "pre_requisitos": [
+         "EPR0066"
+      ]
+   },
+   {
+      "codigo": "EPR0019",
+      "nome": "MERCADOLOGIA ESTRATÉGICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0101"
+      ],
+      "pre_requisitos": [
+         "EPR0069"
+      ]
+   },
+   {
+      "codigo": "EPR0069",
+      "nome": "METODOLOGIA DE PROJETO DE SISTEMAS DE PRODUÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0019",
+         "EPR0035",
+         "EPR0051",
+         "EPR0115"
+      ],
+      "pre_requisitos": [
+         "EPR0056"
+      ]
+   },
+   {
+      "codigo": "EPR0068",
+      "nome": "ORGANIZAÇÃO INDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0006",
+         "EPR0058",
+         "EPR0059",
+         "ENM0166",
+         "EPR0091"
+      ],
+      "pre_requisitos": [
+         "EST0023",
+         "EST0022",
+         "ENC0274"
+      ]
+   },
+   {
+      "codigo": "EPR0066",
+      "nome": "PESQUISA OPERACIONAL EM ENGENHARIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EPR0004",
+         "EPR0012",
+         "ADM0307",
+         "EPR0090"
+      ],
+      "pre_requisitos": [
+         "EST0023",
+         "EST0023 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "EPR0020",
+      "nome": "PESQUISA OPERACIONAL EM ENGENHARIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0138"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0002",
+      "nome": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0013",
+         "EPR0034",
+         "EPR0038",
+         "EPR0039",
+         "EPR0049",
+         "EPR0079"
+      ],
+      "pre_requisitos": [
+         "EPR0072"
+      ]
+   },
+   {
+      "codigo": "EPR0039",
+      "nome": "PLANEJAMENTO E CONTROLE DE SERVIÇOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0107"
+      ],
+      "pre_requisitos": [
+         "EPR0002"
+      ]
+   },
+   {
+      "codigo": "EPR0049",
+      "nome": "PROJETO DE FABRICA E LAYOUT",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0110"
+      ],
+      "pre_requisitos": [
+         "EPR0002"
+      ]
+   },
+   {
+      "codigo": "EPR0045",
+      "nome": "PROJETO DE GRADUAÇÃO DE ENGENHARIA DE PRODUÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0046",
+         "EPR0108",
+         "EPR0119"
+      ],
+      "pre_requisitos": [
+         "EPR0004 & EPR0002 & EPR0030 & EPR0006"
+      ]
+   },
+   {
+      "codigo": "EPR0046",
+      "nome": "PROJETO DE GRADUAÇÃO DE ENGENHARIA DE PRODUÇÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0109"
+      ],
+      "pre_requisitos": [
+         "EPR0045",
+         "EPR0088"
+      ]
+   },
+   {
+      "codigo": "EPR0071",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0073",
+         "EPR0092"
+      ],
+      "pre_requisitos": [
+         "EPR0061 & EPR0069  &  EPR0063",
+         "EPR0076"
+      ]
+   },
+   {
+      "codigo": "EPR0073",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0001",
+         "EPR0006",
+         "EPR0074",
+         "EPR0093"
+      ],
+      "pre_requisitos": [
+         "EPR0071"
+      ]
+   },
+   {
+      "codigo": "EPR0074",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0094"
+      ],
+      "pre_requisitos": [
+         "EPR0073"
+      ]
+   },
+   {
+      "codigo": "EPR0001",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0078"
+      ],
+      "pre_requisitos": [
+         "EPR0073"
+      ]
+   },
+   {
+      "codigo": "EPR0007",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0081"
+      ],
+      "pre_requisitos": [
+         "EPR0073 & EPR0066 & EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0008",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0097"
+      ],
+      "pre_requisitos": [
+         "EPR0073 & EPR0066 & EPR0064",
+         "ENM0134",
+         "ENM0124"
+      ]
+   },
+   {
+      "codigo": "EPR0009",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 7",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0054",
+         "EPR0082"
+      ],
+      "pre_requisitos": [
+         "EPR0073 & EPR0066 & EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0050",
+      "nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 8",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0166"
+      ],
+      "pre_requisitos": [
+         "EPR0073 & EPR0066 & EPR0064"
+      ]
+   },
+   {
+      "codigo": "EPR0006",
+      "nome": "SEGURANÇA E SAÚDE NO TRABALHO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0096"
+      ],
+      "pre_requisitos": [
+         "EPR0068",
+         "EPR0057",
+         "EPR0073"
+      ]
+   },
+   {
+      "codigo": "EPR0021",
+      "nome": "SEMINÁRIO EM ENGENHARIA DE PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0004",
+      "nome": "SIMULAÇÃO DE SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0017",
+         "EPR0080"
+      ],
+      "pre_requisitos": [
+         "EPR0066"
+      ]
+   },
+   {
+      "codigo": "EPR0052",
+      "nome": "SISTEMA DE PRODUÇÃO AGROALIMENTAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0168"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0037",
+      "nome": "SISTEMA DE PRODUÇÃO ENXUTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0085"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0034",
+      "nome": "SISTEMAS COLABORATIVOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0151"
+      ],
+      "pre_requisitos": [
+         "EPR0002",
+         "ENM0134"
+      ]
+   },
+   {
+      "codigo": "EPR0072",
+      "nome": "SISTEMAS DE INFORMAÇÃO EM ENGENHARIA DE PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0002",
+         "FGA0001",
+         "EPR0022",
+         "EPR0116"
+      ],
+      "pre_requisitos": [
+         "CIC0007",
+         "ENE0334"
+      ]
+   },
+   {
+      "codigo": "EPR0022",
+      "nome": "SISTEMAS DE SUPORTE À DECISÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0103"
+      ],
+      "pre_requisitos": [
+         "EPR0072"
+      ]
+   },
+   {
+      "codigo": "EPR0003",
+      "nome": "TOMADA DE DECISÃO COM ENFOQUE EM ANÁLISE MULTICRITÉRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0123"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0055",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE OPERAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0026",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DO PRODUTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0144"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0025",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DO TRABALHO E ERGONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0143"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0067",
+      "nome": "TÓPICOS ESPECIAIS  EM ENGENHARIA ECONÔMICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0180"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0024",
+      "nome": "TÓPICOS ESPECIAIS EM GESTÃO DA INOVAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0142"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0023",
+      "nome": "TÓPICOS ESPECIAIS EM GESTÃO DA PRODUÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0104"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0070",
+      "nome": "TÓPICOS ESPECIAIS EM GESTÃO DA QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0183"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0032",
+      "nome": "TÓPICOS ESPECIAIS EM GESTÃO SUSTENTÁVEL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EPR0150"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0029",
+      "nome": "TÓPICOS ESPECIAIS EM LOGÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0147"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0027",
+      "nome": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0145"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0028",
+      "nome": "TÓPICOS ESPECIAIS EM PESQUISA ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EPR0054",
+      "nome": "TÓPICOS ESPECIAIS EM SIMULAÇÃO EMPRESARIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0086"
+      ],
+      "pre_requisitos": [
+         "EPR0009"
+      ]
+   }
+]

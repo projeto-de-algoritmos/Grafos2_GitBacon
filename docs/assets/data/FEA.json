@@ -1,0 +1,506 @@
+[
+   {
+      "codigo": "FEA0019",
+      "nome": "ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0076"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0002",
+      "nome": "ADMINISTRAÇÃO - INTRODUÇÃO E TEORIAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0059"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0014",
+      "nome": "ADMINISTRAÇÃO PÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0071"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0003",
+      "nome": "CIÊNCIA POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0060"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0010",
+      "nome": "CONTABILIDADE (GERAL E GERENCIAL)",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0067"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0009",
+      "nome": "DIREITO ADMINISTRATIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0066"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0026",
+      "nome": "DIREITO TRIBUTÁRIO E COMERCIAL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0083"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0011",
+      "nome": "ECONOMIA (INTRODUÇÃO)",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0068"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0018",
+      "nome": "ECONOMIA MICRO E MACRO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0075"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0001",
+      "nome": "EDUCAÇÃO A DISTÂNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0058"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0033",
+      "nome": "ELABORAÇÃO E ADMINISTRAÇÃO DE PROJETOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0090"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0031",
+      "nome": "EMPREENDEDORISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0088"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0053",
+      "nome": "EMPREENDEDORISMO GOVERNAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0110"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0038",
+      "nome": "ESTÁGIO SUPERVISIONADO",
+      "carga_horaria": 300,
+      "eh_requisito_de": [
+         "FEA0095"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0017",
+      "nome": "ESTATÍSTICA APLICADA A ADMINISTRAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0074"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0043",
+      "nome": "FILOSOFIA E ÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0100"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0029",
+      "nome": "FINANÇAS PÚBLICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0086"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0051",
+      "nome": "GESTÃO AMBIENTAL E SUSTENTABILILADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0108"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0022",
+      "nome": "GESTÃO DE PESSOAS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0079"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0049",
+      "nome": "GESTÃO DE REDES DE COOPERAÇÃO NA ESFERA PÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0106"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0035",
+      "nome": "INFORMÁTICA BÁSICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0092"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0045",
+      "nome": "INFORMÁTICA PARA ADMINISTRADORES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0042",
+      "nome": "INTRODUÇÃO À ECONOMIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0099"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0023",
+      "nome": "MARKETING",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0080"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0007",
+      "nome": "MATEMÁTICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0064"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0016",
+      "nome": "MATEMÁTICA FINANCEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0073"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0040",
+      "nome": "METODOLOGIA DE ESTUDO E DE PESQUISA EM ADMINISTRAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0097"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0036",
+      "nome": "METODOLOGIA DE PESQUISA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0047",
+      "nome": "NEGOCIAÇÃO E ARBITRAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0104"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0028",
+      "nome": "OPERAÇÕES E LOGÍSTICA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "FEA0085"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0005",
+      "nome": "ORGANIZAÇÃO, SISTEMAS E MÉTODOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0062"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0025",
+      "nome": "PESQUISA OPERACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0082"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0021",
+      "nome": "PLANEJAMENTO - TEORIAS E MODELOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0078"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0050",
+      "nome": "POLÍTICAS PÚBLICAS E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0107"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0006",
+      "nome": "PROCESSO DECISÓRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0063"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0041",
+      "nome": "PSICOLOGIA ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0098"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0046",
+      "nome": "REDAÇÃO OFICIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0103"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0052",
+      "nome": "RELAÇÕES INTERNACIONAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0109"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0039",
+      "nome": "SEMINÁRIO INTEGRADOR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FEA0096"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0004",
+      "nome": "SEMINÁRIO TEMÁTICO 1 - SOCIOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0061"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0008",
+      "nome": "SEMINÁRIO TEMÁTICO 2 - FILOSOFIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0065"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0012",
+      "nome": "SEMINÁRIO TEMÁTICO 3 : PSICOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0069"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0015",
+      "nome": "SEMINÁRIO TEMÁTICO 4: ANTROPOLOGIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0072"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0020",
+      "nome": "SEMINÁRIO TEMÁTICO 5: RESPONSABIL SOC CORPORATIVA E TERCEIRO SETOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0077"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0024",
+      "nome": "SEMINÁRIO TEMÁTICO 6 - GESTÃO AMBIENTAL E SUSTENTÁBILIDADE",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0081"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0027",
+      "nome": "SEMINÁRIO TEMÁTICO - 7 - COMÉRCIO EXTERIOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0084"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0030",
+      "nome": "SEMINÁRIO TEMÁTICO 8 - TECNOLOGIA E INOVAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0087"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0034",
+      "nome": "SEMINÁRIO TEMÁTICO 9 - TÓPICOS EMERGENTES",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FEA0091"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0055",
+      "nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO MUNICIPAL 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FEA0112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0054",
+      "nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO PÚBLICA DA SAÚDE 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FEA0111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0056",
+      "nome": "SEMINÁRIO TEMÁTICO NA LFE GOVERNAMENTAL 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "FEA0113"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0013",
+      "nome": "SISTEMAS DE INFORMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0070"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0048",
+      "nome": "TECNOLOGIA E INOVAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0105"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0032",
+      "nome": "TEORIA DOS JOGOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0089"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0044",
+      "nome": "TEORIAS DA ADMINISTRAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0101"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "FEA0037",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FEA0094"
+      ],
+      "pre_requisitos": []
+   }
+]

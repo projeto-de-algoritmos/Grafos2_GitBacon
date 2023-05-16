@@ -1,0 +1,1608 @@
+[
+   {
+      "codigo": "LIP0120",
+      "nome": "ABORDAGENS, MÉTODOS E TÉCNICAS DO ENSINO DE PBSL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0247"
+      ],
+      "pre_requisitos": [
+         "LIP0159"
+      ]
+   },
+   {
+      "codigo": "LIP0016",
+      "nome": "BILINGUISMO E EDUCAÇÃO DE SURDO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0229"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0029",
+      "nome": "ELABORAÇÃO DE TEXTO ACADÊMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0187"
+      ],
+      "pre_requisitos": [
+         "LIP0023 & LIP0021"
+      ]
+   },
+   {
+      "codigo": "LIP0112",
+      "nome": "ESTAGIO:1 PRATICA DE TRADUCAO EM LATIM",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "LIP0111",
+         "LIP0352"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0111",
+      "nome": "ESTAGIO:2 PRATICA DE VERSAO EM LATIM",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "LIP0351"
+      ],
+      "pre_requisitos": [
+         "LIP0112"
+      ]
+   },
+   {
+      "codigo": "LIP0032",
+      "nome": "ESTÁGIO SUPERVISIONADO 1 BILINGUE",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0035",
+         "LIP0241"
+      ],
+      "pre_requisitos": [
+         "LIP0030 & LIP0026"
+      ]
+   },
+   {
+      "codigo": "LIP0007",
+      "nome": "ESTÁGIO SUPERVISIONADO 1 EM PORTUGUÊS DO BRASIL COMO SEGUNDA LÍNGUA",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0008",
+         "LIP0239"
+      ],
+      "pre_requisitos": [
+         "LIP0125 & MTC0012"
+      ]
+   },
+   {
+      "codigo": "LIP0165",
+      "nome": "ESTÁGIO SUPERVISIONADO 1 EM PORTUGUÊS DO BRASIL COMO SEGUNDA LÍNGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0167",
+         "LIP0224"
+      ],
+      "pre_requisitos": [
+         "LIP0125 & MTC0012"
+      ]
+   },
+   {
+      "codigo": "LIP0035",
+      "nome": "ESTÁGIO SUPERVISIONADO 2 BILINGUE",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0242"
+      ],
+      "pre_requisitos": [
+         "LIP0032"
+      ]
+   },
+   {
+      "codigo": "LIP0008",
+      "nome": "ESTÁGIO SUPERVISIONADO 2 EM PORTUGUÊS DO BRASIL COMO SEGUNDA LÍNGUA",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0240"
+      ],
+      "pre_requisitos": [
+         "LIP0007"
+      ]
+   },
+   {
+      "codigo": "LIP0167",
+      "nome": "ESTÁGIO SUPERVISIONADO 2 EM PORTUGUÊS DO BRASIL COMO SEGUNDA LÍNGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0261"
+      ],
+      "pre_requisitos": [
+         "LIP0165",
+         "LIP0178"
+      ]
+   },
+   {
+      "codigo": "LIP0117",
+      "nome": "ESTAGIO SUPERVISIONADO - BACHARELADO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0246"
+      ],
+      "pre_requisitos": [
+         "LIP0094"
+      ]
+   },
+   {
+      "codigo": "LIP0072",
+      "nome": "ESTAGIO SUPERVISIONADO DE LATIM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0074",
+         "LIP0324"
+      ],
+      "pre_requisitos": [
+         "LIP0063 & MTC0012"
+      ]
+   },
+   {
+      "codigo": "LIP0074",
+      "nome": "ESTAGIO SUPERVISIONADO DE LATIM 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0325"
+      ],
+      "pre_requisitos": [
+         "LIP0072"
+      ]
+   },
+   {
+      "codigo": "LIP0054",
+      "nome": "ESTAGIO SUPERVISIONADO DE PORTUGUES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0056",
+         "LIP0314"
+      ],
+      "pre_requisitos": [
+         "MTC0012"
+      ]
+   },
+   {
+      "codigo": "LIP0056",
+      "nome": "ESTAGIO SUPERVISIONADO DE PORTUGUES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0315"
+      ],
+      "pre_requisitos": [
+         "LIP0054",
+         "LIP0105"
+      ]
+   },
+   {
+      "codigo": "LIP0005",
+      "nome": "ESTÁGIO SUPERVISIONADO EM LÍNGUA PORTUGUESA E LITERATURA 1",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0006",
+         "LIP0237"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & LIP0148 & LIP0151"
+      ]
+   },
+   {
+      "codigo": "LIP0006",
+      "nome": "ESTÁGIO SUPERVISIONADO EM LÍNGUA PORTUGUESA E LITERATURA 2",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0238"
+      ],
+      "pre_requisitos": [
+         "LIP0005"
+      ]
+   },
+   {
+      "codigo": "LIP0157",
+      "nome": "ESTAGIO SUPERVISIONADO EM LINGUA PORTUGUESA-LITERATURA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0384"
+      ],
+      "pre_requisitos": [
+         "MTC0143 & LIP0148 & LIP0151",
+         "MTC0012 & LIP0148 & LIP0151"
+      ]
+   },
+   {
+      "codigo": "LIP0158",
+      "nome": "ESTAGIO SUPERVISIONADO EM LINGUA PORTUGUESA-LITERATURA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0385"
+      ],
+      "pre_requisitos": [
+         "MTC0143 & LIP0148 & LIP0151"
+      ]
+   },
+   {
+      "codigo": "LIP0105",
+      "nome": "ESTAGIO SUPERVISIONADO EM PORTUGUES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0056",
+         "LIP0140",
+         "LIP0204"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & LIP0094"
+      ]
+   },
+   {
+      "codigo": "LIP0003",
+      "nome": "ESTÁGIO SUPERVISIONADO EM PORTUGUÊS 1",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0235"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & LIP0094"
+      ]
+   },
+   {
+      "codigo": "LIP0140",
+      "nome": "ESTAGIO SUPERVISIONADO EM PORTUGUES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0369"
+      ],
+      "pre_requisitos": [
+         "LIP0105",
+         "MTC0012 & LIP0094 & LIP0178"
+      ]
+   },
+   {
+      "codigo": "LIP0004",
+      "nome": "ESTÁGIO SUPERVISIONADO EM PORTUGUÊS 2",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "LIP0236"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & LIP0094",
+         "LIP0178"
+      ]
+   },
+   {
+      "codigo": "LIP0089",
+      "nome": "ESTILISTICA DA LINGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0335"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0098",
+      "nome": "ESTUDO DAS GRAMÁTICAS DO PORTUGUÊS CONTEMPORÂNEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0200"
+      ],
+      "pre_requisitos": [
+         "LIP0122",
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0002",
+      "nome": "ESTUDOS DE TRADUÇÃO DA POESIA GREGA ANTIGA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0264"
+      ],
+      "pre_requisitos": [
+         "LIP0110"
+      ]
+   },
+   {
+      "codigo": "LIP0001",
+      "nome": "ESTUDOS DE TRADUÇÃO DE PROSA GREGA ANTIGA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0263"
+      ],
+      "pre_requisitos": [
+         "LIP0109"
+      ]
+   },
+   {
+      "codigo": "LIP0176",
+      "nome": "ESTUDOS HELÊNICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0401"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0178",
+      "nome": "EXPERIENCIA DE ENSINO",
+      "carga_horaria": 0,
+      "eh_requisito_de": [
+         "LIP0004",
+         "LIP0167",
+         "LIP0403"
+      ],
+      "pre_requisitos": [
+         "MTC0012 & LIP0094"
+      ]
+   },
+   {
+      "codigo": "LIP0033",
+      "nome": "EXPRESSÃO CORPORAL E LÍNGUA DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0295"
+      ],
+      "pre_requisitos": [
+         "LIP0011",
+         "LIP0174"
+      ]
+   },
+   {
+      "codigo": "LIP0050",
+      "nome": "FILOLOGIA ROMANICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0051",
+         "LIP0191"
+      ],
+      "pre_requisitos": [
+         "LIP0061"
+      ]
+   },
+   {
+      "codigo": "LIP0051",
+      "nome": "FILOLOGIA ROMANICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0312"
+      ],
+      "pre_requisitos": [
+         "LIP0050"
+      ]
+   },
+   {
+      "codigo": "LIP0052",
+      "nome": "FILOLOGIA ROMANICA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0313"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0046",
+      "nome": "FONÉTICA E FONOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0308"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0141",
+      "nome": "FONÉTICA E FONOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0214"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0119",
+      "nome": "FONÉTICA E FONOLOGIA COMPARADAS DE LÍNGUAS MODERNAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0209"
+      ],
+      "pre_requisitos": [
+         "LIP0118"
+      ]
+   },
+   {
+      "codigo": "LIP0143",
+      "nome": "FONETICA E FONOLOGIA DA LINGUA PORTUGUESA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0216"
+      ],
+      "pre_requisitos": [
+         "LIP0045 & LIP0141"
+      ]
+   },
+   {
+      "codigo": "LIP0099",
+      "nome": "FONETICA E FONOLOGIA DO PORTUGUES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0201"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0118",
+      "nome": "FONÉTICA E FONOLOGIA DO PORTUGUÊS COMO SEGUNDA LÍNGUA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0119",
+         "LIP0128",
+         "LIP0208"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0015",
+      "nome": "FONOLOGIA CONTRASTIVA LSB / PSL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0228"
+      ],
+      "pre_requisitos": [
+         "LIP0010"
+      ]
+   },
+   {
+      "codigo": "LIP0121",
+      "nome": "FUNDAMENTOS DE AQUISIÇÃO DE PRIMEIRA E DE SEGUNDA LÍNGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0210"
+      ],
+      "pre_requisitos": [
+         "LIP0159"
+      ]
+   },
+   {
+      "codigo": "LIP0113",
+      "nome": "GREGO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0110",
+         "LIP0207"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0110",
+      "nome": "GREGO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0002",
+         "LIP0109",
+         "LIP0350"
+      ],
+      "pre_requisitos": [
+         "LIP0113"
+      ]
+   },
+   {
+      "codigo": "LIP0109",
+      "nome": "GREGO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0001",
+         "LIP0087",
+         "LIP0107",
+         "LIP0108",
+         "LIP0206"
+      ],
+      "pre_requisitos": [
+         "LIP0110"
+      ]
+   },
+   {
+      "codigo": "LIP0108",
+      "nome": "GREGO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0205"
+      ],
+      "pre_requisitos": [
+         "LIP0109"
+      ]
+   },
+   {
+      "codigo": "LIP0087",
+      "nome": "GREGO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0197"
+      ],
+      "pre_requisitos": [
+         "LIP0109"
+      ]
+   },
+   {
+      "codigo": "LIP0107",
+      "nome": "GREGO 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0347"
+      ],
+      "pre_requisitos": [
+         "LIP0109"
+      ]
+   },
+   {
+      "codigo": "LIP0135",
+      "nome": "HISTORIA DA LINGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0213"
+      ],
+      "pre_requisitos": [
+         "LIP0061 & LIP0094"
+      ]
+   },
+   {
+      "codigo": "LIP0126",
+      "nome": "HISTÓRIA DA LÍNGUA PORTUGUESA E ENSINO DE PBSL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0163",
+         "LIP0250"
+      ],
+      "pre_requisitos": [
+         "LIP0128"
+      ]
+   },
+   {
+      "codigo": "LIP0095",
+      "nome": "INTRODUCAO A ANALISE DO DISCURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0339"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0045",
+      "nome": "INTRODUÇÃO À LINGUÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LET0001",
+         "LIP0025",
+         "LIP0059",
+         "LIP0079",
+         "LIP0082",
+         "LIP0098",
+         "LIP0099",
+         "LIP0100",
+         "LIP0101",
+         "LET0071",
+         "LET0311",
+         "LIP0141",
+         "LIP0142",
+         "LET0415",
+         "LET0418",
+         "LET0440",
+         "LET0444",
+         "LIP0190",
+         "LIP0268"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0124",
+      "nome": "INTRODUÇÃO AOS MULTIMEIOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0169",
+         "LIP0249"
+      ],
+      "pre_requisitos": [
+         "LIP0159"
+      ]
+   },
+   {
+      "codigo": "LIP0025",
+      "nome": "INTRODUCAO A SEMANTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0287"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0084",
+      "nome": "INTRODUCAO A SEMIOTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0330"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0026",
+      "nome": "LABORATÓRIO DE GRAMÁTICA CONSTRATIVA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0184"
+      ],
+      "pre_requisitos": [
+         "LIP0023 & LIP0021"
+      ]
+   },
+   {
+      "codigo": "LIP0151",
+      "nome": "LABORATORIO DE GRAMATICA PARA O ENSINO FUNDAMENTAL E MEDIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0256"
+      ],
+      "pre_requisitos": [
+         "LIP0146 & LIP0154",
+         "LIP0146 & LIP0096"
+      ]
+   },
+   {
+      "codigo": "LIP0030",
+      "nome": "LABORATÓRIO DE LSB-PSL: VIDEOGRAFIA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0233"
+      ],
+      "pre_requisitos": [
+         "LIP0009 & LIP0028"
+      ]
+   },
+   {
+      "codigo": "LIP0148",
+      "nome": "LABORATORIO DE REDACAO PARA O ENSINO FUNDAMENTAL E MEDIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0255"
+      ],
+      "pre_requisitos": [
+         "MTC0143 & LIP0154",
+         "MTC0012 & LIP0154",
+         "LIP0096 & MTC0143"
+      ]
+   },
+   {
+      "codigo": "LIP0164",
+      "nome": "LABORATÓRIO: ESTRATÉGIAS DE USO DA GRAMÁTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0260"
+      ],
+      "pre_requisitos": [
+         "LIP0123"
+      ]
+   },
+   {
+      "codigo": "LIP0125",
+      "nome": "LABORATÓRIO: RESOLUÇÃO DE PROBLEMAS DE LEITURA E DE REDAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0362"
+      ],
+      "pre_requisitos": [
+         "LIP0123"
+      ]
+   },
+   {
+      "codigo": "LIP0061",
+      "nome": "LATIM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0050",
+         "LIP0063",
+         "LIP0149",
+         "LIP0192"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0063",
+      "nome": "LATIM 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0052",
+         "LIP0065",
+         "LIP0067",
+         "LIP0069",
+         "LIP0071",
+         "LIP0078",
+         "LIP0112",
+         "TEL0048",
+         "TEL0049",
+         "TEL0050",
+         "TEL0054",
+         "LIP0319"
+      ],
+      "pre_requisitos": [
+         "LIP0061"
+      ]
+   },
+   {
+      "codigo": "LIP0067",
+      "nome": "LATIM 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0083",
+         "LIP0321"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0065",
+      "nome": "LATIM 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0320"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0069",
+      "nome": "LATIM 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0322"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0071",
+      "nome": "LATIM 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0323"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0096",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0199"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0012",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS ESCRITOS EM PORTUGUES 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0017",
+         "LIP0018",
+         "LIP0027",
+         "LIP0179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0017",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS ESCRITOS EM PORTUGUES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0023",
+         "LIP0181"
+      ],
+      "pre_requisitos": [
+         "LIP0012"
+      ]
+   },
+   {
+      "codigo": "LIP0018",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS ESCRITOS EM PORTUGUES 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0036",
+         "LIP0182"
+      ],
+      "pre_requisitos": [
+         "LIP0012"
+      ]
+   },
+   {
+      "codigo": "LIP0023",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS ESCRITOS EM PORTUGUÊS 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0183"
+      ],
+      "pre_requisitos": [
+         "LIP0017"
+      ]
+   },
+   {
+      "codigo": "LIP0161",
+      "nome": "LEXICOGRAFIA E ESTRATÉGIAS DE USO DE DICIONÁRIOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0223"
+      ],
+      "pre_requisitos": [
+         "LIP0129 & LIP0124"
+      ]
+   },
+   {
+      "codigo": "LIP0022",
+      "nome": "LEXICOGRAFIA E TERMINOLOGIA DA LS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0231"
+      ],
+      "pre_requisitos": [
+         "LIP0020"
+      ]
+   },
+   {
+      "codigo": "LIP0088",
+      "nome": "LEXICOLOGIA E LEXICOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0234"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0129",
+      "nome": "LEXICOLOGIA, SEMÂNTICA E PRAGMÁTICA CONTRASTIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0251"
+      ],
+      "pre_requisitos": [
+         "LIP0159"
+      ]
+   },
+   {
+      "codigo": "LIP0011",
+      "nome": "LÍNGUA DE SINAIS BRASILEIRA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0013",
+         "LIP0014",
+         "LIP0019",
+         "LIP0033",
+         "LIP0273"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0013",
+      "nome": "LÍNGUA DE SINAIS BRASILEIRA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0021",
+         "LIP0227"
+      ],
+      "pre_requisitos": [
+         "LIP0011"
+      ]
+   },
+   {
+      "codigo": "LIP0019",
+      "nome": "LÍNGUA DE SINAIS BRASILEIRA 3",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0281"
+      ],
+      "pre_requisitos": [
+         "LIP0011"
+      ]
+   },
+   {
+      "codigo": "LIP0021",
+      "nome": "LÍNGUA DE SINAIS BRASILEIRA 4",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0028",
+         "LIP0031",
+         "LIP0230"
+      ],
+      "pre_requisitos": [
+         "LIP0013"
+      ]
+   },
+   {
+      "codigo": "LIP0174",
+      "nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0033",
+         "LIP0175",
+         "LIP0225"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0031",
+      "nome": "LÍNGUA DE SINAIS ESCRITA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0188"
+      ],
+      "pre_requisitos": [
+         "LIP0021"
+      ]
+   },
+   {
+      "codigo": "LIP0037",
+      "nome": "LÍNGUA PORTUGUESA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0023",
+         "DAP0047",
+         "DAP0048",
+         "DAP0049",
+         "LIP0299"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0038",
+      "nome": "LINGUA PORTUGUESA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0039",
+         "LIP0300"
+      ],
+      "pre_requisitos": [
+         "LIP0037 & LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0039",
+      "nome": "LINGUA PORTUGUESA 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0042",
+         "LIP0043",
+         "LIP0044",
+         "LIP0094",
+         "LIP0301"
+      ],
+      "pre_requisitos": [
+         "LIP0038"
+      ]
+   },
+   {
+      "codigo": "LIP0040",
+      "nome": "LINGUA PORTUGUESA 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0302"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0041",
+      "nome": "LINGUA PORTUGUESA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0303"
+      ],
+      "pre_requisitos": [
+         "LIP0039 & LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0042",
+      "nome": "LINGUA PORTUGUESA 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0304"
+      ],
+      "pre_requisitos": [
+         "LIP0039"
+      ]
+   },
+   {
+      "codigo": "LIP0043",
+      "nome": "LINGUA PORTUGUESA 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0305"
+      ],
+      "pre_requisitos": [
+         "LIP0039"
+      ]
+   },
+   {
+      "codigo": "LIP0044",
+      "nome": "LINGUA PORTUGUESA 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0306"
+      ],
+      "pre_requisitos": [
+         "LIP0039"
+      ]
+   },
+   {
+      "codigo": "LIP0028",
+      "nome": "LÍNGUAS DE SINAIS BRASILEIRA 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0186"
+      ],
+      "pre_requisitos": [
+         "LIP0021"
+      ]
+   },
+   {
+      "codigo": "LIP0177",
+      "nome": "LÍNGUAS DE SINAIS BRASILEIRA - AVANÇADO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0402"
+      ],
+      "pre_requisitos": [
+         "LIP0175"
+      ]
+   },
+   {
+      "codigo": "LIP0175",
+      "nome": "LÍNGUAS DE SINAIS BRASILEIRA - INTERMEDIÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0177",
+         "LIP0226"
+      ],
+      "pre_requisitos": [
+         "LIP0174"
+      ]
+   },
+   {
+      "codigo": "LIP0079",
+      "nome": "LINGUISTICA APLICADA AO ENSINO DE LINGUAS ESTRANGEIRAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0327"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0159",
+      "nome": "LINGUÍSTICA APLICADA AO ENSINO DE PSL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0082",
+         "LIP0120",
+         "LIP0121",
+         "LIP0124",
+         "LIP0129",
+         "LIP0145",
+         "LIP0221"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0059",
+      "nome": "LINGUISTICA APLICADA AO ENSINO DO PORTUGUES COMO LINGUA MATERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0317"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0010",
+      "nome": "LINGUÍSTICA DE LÍNGUAS DE SINAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0015",
+         "LIP0020",
+         "LIP0082",
+         "LIP0272"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0014",
+      "nome": "LITERATURA DA LÍNGUA DE SINAIS BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0180"
+      ],
+      "pre_requisitos": [
+         "LIP0011"
+      ]
+   },
+   {
+      "codigo": "LIP0142",
+      "nome": "MORFOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0215"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0047",
+      "nome": "MORFOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0309"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0100",
+      "nome": "MORFOLOGIA DO PORTUGUES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0202"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0160",
+      "nome": "MORFOSSINTAXE CONTRASTIVA DE LÍNGUAS MODERNAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0163",
+         "LIP0222"
+      ],
+      "pre_requisitos": [
+         "LIP0145 & LIP0123"
+      ]
+   },
+   {
+      "codigo": "LIP0020",
+      "nome": "MORFOSSINTAXE CONTRASTIVA PSL - LSB",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0022",
+         "LIP0282"
+      ],
+      "pre_requisitos": [
+         "LIP0010"
+      ]
+   },
+   {
+      "codigo": "LIP0145",
+      "nome": "MORFOSSINTAXE DA LÍNGUA PORTUGUESA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0217"
+      ],
+      "pre_requisitos": [
+         "LIP0142 & LIP0045",
+         "LIP0159"
+      ]
+   },
+   {
+      "codigo": "LIP0085",
+      "nome": "OFICINA DE PRODUCAO DE TEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0243"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0036",
+      "nome": "OFICINA DE TEXTOS LSB - PSL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0298"
+      ],
+      "pre_requisitos": [
+         "LIP0018"
+      ]
+   },
+   {
+      "codigo": "LIP0122",
+      "nome": "POLÍTICA DO IDIOMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0098",
+         "LIP0163",
+         "LIP0359"
+      ],
+      "pre_requisitos": [
+         "LIP0128"
+      ]
+   },
+   {
+      "codigo": "LIP0024",
+      "nome": "POLÍTICAS LINGUÍSTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0163",
+         "LIP0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0173",
+      "nome": "PORTUGUES COMO SEGUNDA LÍNGUA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0398"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0149",
+      "nome": "PORTUGUES DIACRONICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0218"
+      ],
+      "pre_requisitos": [
+         "LIP0061"
+      ]
+   },
+   {
+      "codigo": "LIP0153",
+      "nome": "PORTUGUÊS INSTRUMENTAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0257"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0152",
+      "nome": "PORTUGUÊS INSTRUMENTAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0379"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0154",
+      "nome": "PRÁTICA DE TEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0219"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0078",
+      "nome": "PRÁTICA DE TRADUÇÃO EM LATIM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0083",
+         "LIP0326"
+      ],
+      "pre_requisitos": [
+         "LIP0063"
+      ]
+   },
+   {
+      "codigo": "LIP0083",
+      "nome": "PRÁTICA DE TRADUÇÃO EM LATIM 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0170",
+         "LIP0329"
+      ],
+      "pre_requisitos": [
+         "LIP0078",
+         "LIP0067"
+      ]
+   },
+   {
+      "codigo": "LIP0170",
+      "nome": "PRÁTICA DE TRADUÇÃO EM LATIM 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0171",
+         "LIP0395"
+      ],
+      "pre_requisitos": [
+         "LIP0083"
+      ]
+   },
+   {
+      "codigo": "LIP0171",
+      "nome": "PRÁTICA DE TRADUÇÃO EM LATIM 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0172",
+         "LIP0396"
+      ],
+      "pre_requisitos": [
+         "LIP0170"
+      ]
+   },
+   {
+      "codigo": "LIP0172",
+      "nome": "PRÁTICA DE TRADUÇÃO EM LATIM 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0397"
+      ],
+      "pre_requisitos": [
+         "LIP0171"
+      ]
+   },
+   {
+      "codigo": "LIP0106",
+      "nome": "PROCESSOS DE LEITURA E ESCRITA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0245"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0156",
+      "nome": "PROJETO DE CURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0258"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0169",
+      "nome": "PROJETO DE CURSO : ELABORAÇÃO DE MULTIMEIOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "LIP0262"
+      ],
+      "pre_requisitos": [
+         "LIP0124"
+      ]
+   },
+   {
+      "codigo": "LIP0086",
+      "nome": "REDACAO OFICIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0196"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0058",
+      "nome": "SEMANTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0316"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0092",
+      "nome": "SEMINARIO DE PORTUGUES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0244"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0093",
+      "nome": "SEMINARIO EM LATIM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0337"
+      ],
+      "pre_requisitos": [
+         "LIP0067 & LIP0065 & LIP0069 & LIP0071"
+      ]
+   },
+   {
+      "codigo": "LIP0049",
+      "nome": "SINTAXE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0310"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0147",
+      "nome": "SINTAXE DA LINGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0254"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0123",
+      "nome": "SINTAXE DO PORTUGUÊS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0125",
+         "LIP0164",
+         "LIP0248"
+      ],
+      "pre_requisitos": [
+         "LIP0128"
+      ]
+   },
+   {
+      "codigo": "LIP0133",
+      "nome": "SINTAXE DO PORTUGUES CLASSICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0252"
+      ],
+      "pre_requisitos": [
+         "LIP0131",
+         "LIP0039 & LIP0147"
+      ]
+   },
+   {
+      "codigo": "LIP0131",
+      "nome": "SINTAXE DO PORTUGUES CONTEMPORANEO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0133",
+         "LIP0212"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0101",
+      "nome": "SINTAXE DO PORTUGUES CONTEMPORANEO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0203"
+      ],
+      "pre_requisitos": [
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0146",
+      "nome": "SINTAXE GERAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "LIP0253"
+      ],
+      "pre_requisitos": [
+         "LIP0045 & LIP0142"
+      ]
+   },
+   {
+      "codigo": "LIP0155",
+      "nome": "SOCIOLINGUISTICA DO PORTUGUES DO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0166",
+         "LIP0220"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0094",
+      "nome": "SOCIOLINGUISTICA DO PORTUGUES DO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0117",
+         "LIP0198"
+      ],
+      "pre_requisitos": [
+         "LIP0099 & LIP0131",
+         "LIP0039"
+      ]
+   },
+   {
+      "codigo": "LIP0009",
+      "nome": "TECNOLOGIAS E LINGUAGEM: LÍNGUA E CULTURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0271"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "LIP0082",
+      "nome": "TÓPICOS ATUAIS EM LINGÜÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0166",
+         "LIP0194"
+      ],
+      "pre_requisitos": [
+         "LIP0010",
+         "LIP0159",
+         "LIP0045"
+      ]
+   },
+   {
+      "codigo": "LIP0166",
+      "nome": "TÓPICOS ATUAIS EM LINGÜÍSTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0392"
+      ],
+      "pre_requisitos": [
+         "LIP0155",
+         "LIP0082"
+      ]
+   },
+   {
+      "codigo": "LIP0163",
+      "nome": "TÓPICOS INTERCULTURAIS EM ENSINO DE PSL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0259"
+      ],
+      "pre_requisitos": [
+         "LIP0122",
+         "LIP0160",
+         "LIP0126",
+         "LIP0024"
+      ]
+   },
+   {
+      "codigo": "LIP0034",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO LSB-PSL",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "LIP0189"
+      ],
+      "pre_requisitos": [
+         "LIP0029 & LIP0030"
+      ]
+   },
+   {
+      "codigo": "LIP0027",
+      "nome": "VARIAÇÃO LINGUÍSTICA NA LSB",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0185"
+      ],
+      "pre_requisitos": [
+         "LIP0012"
+      ]
+   },
+   {
+      "codigo": "LIP0128",
+      "nome": "VARIAÇÃO LINGUÍSTICA NO BRASIL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "LIP0122",
+         "LIP0123",
+         "LIP0126",
+         "LIP0211"
+      ],
+      "pre_requisitos": [
+         "LIP0118"
+      ]
+   }
+]

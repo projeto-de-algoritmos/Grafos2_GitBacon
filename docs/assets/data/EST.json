@@ -1,0 +1,815 @@
+[
+   {
+      "codigo": "EST0064",
+      "nome": "ANALISE DE DADOS CATEGORIZADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0120"
+      ],
+      "pre_requisitos": [
+         "EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0038",
+      "nome": "ANÁLISE DE REGRESSÃO LINEAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0007",
+         "EST0014",
+         "EST0051",
+         "EST0064",
+         "ECO0264",
+         "EST0086",
+         "EST0118"
+      ],
+      "pre_requisitos": [
+         "EST0035"
+      ]
+   },
+   {
+      "codigo": "EST0051",
+      "nome": "ANÁLISE DE SÉRIES TEMPORAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0012",
+         "EST0102"
+      ],
+      "pre_requisitos": [
+         "EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0012",
+      "nome": "ANÁLISE DE SÉRIES TEMPORAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0133"
+      ],
+      "pre_requisitos": [
+         "EST0051"
+      ]
+   },
+   {
+      "codigo": "EST0086",
+      "nome": "ANÁLISE DE SOBREVIVÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0186"
+      ],
+      "pre_requisitos": [
+         "EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0034",
+      "nome": "ANÁLISE ESTATÍSTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0151"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0040",
+      "nome": "ANÁLISE MULTIVARIADA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0106"
+      ],
+      "pre_requisitos": [
+         "EST0035"
+      ]
+   },
+   {
+      "codigo": "EST0018",
+      "nome": "ANÁLISE MULTIVARIADA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0139"
+      ],
+      "pre_requisitos": [
+         "EST0040 & EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0047",
+      "nome": "APLICACOES DA ESTATISTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0160"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0027",
+      "nome": "BIOESTATÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAV0038",
+         "FAV0192",
+         "FAV0302",
+         "FAV0343",
+         "EST0099",
+         "CFS0085",
+         "EFL0150"
+      ],
+      "pre_requisitos": [
+         "MAT0022",
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "EST0001",
+      "nome": "COMPUTAÇÃO EM ESTATÍSTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EST0003",
+         "EST0090",
+         "EST0091",
+         "EST0092",
+         "EST0093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0003",
+      "nome": "COMPUTAÇÃO EM ESTATÍSTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0094"
+      ],
+      "pre_requisitos": [
+         "EST0001"
+      ]
+   },
+   {
+      "codigo": "EST0092",
+      "nome": "COMPUTAÇÃO EM ESTATÍSTICA 2: PYTHON",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0191"
+      ],
+      "pre_requisitos": [
+         "EST0001"
+      ]
+   },
+   {
+      "codigo": "EST0091",
+      "nome": "COMPUTAÇÃO EM ESTATÍSTICA 2: R",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0112"
+      ],
+      "pre_requisitos": [
+         "EST0001"
+      ]
+   },
+   {
+      "codigo": "EST0090",
+      "nome": "COMPUTAÇÃO EM ESTATÍSTICA 2: SAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0111"
+      ],
+      "pre_requisitos": [
+         "EST0001"
+      ]
+   },
+   {
+      "codigo": "EST0010",
+      "nome": "CONSULTORIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0131"
+      ],
+      "pre_requisitos": [
+         "EST0038 & EST0036 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0059",
+      "nome": "CONTROLE DE QUALIDADE NA PRODUCAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0168"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0045",
+      "nome": "CONTROLE ESTATISTICO DE QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0158"
+      ],
+      "pre_requisitos": [
+         "EST0070",
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0042",
+      "nome": "DELINEAMENTO E ANÁLISE DE EXPERIMENTOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0044",
+         "EST0119"
+      ],
+      "pre_requisitos": [
+         "EST0035"
+      ]
+   },
+   {
+      "codigo": "EST0044",
+      "nome": "DELINEAMENTO E ANÁLISE DE EXPERIMENTOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0107"
+      ],
+      "pre_requisitos": [
+         "EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0046",
+      "nome": "DEMOGRAFIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0013",
+         "EST0101"
+      ],
+      "pre_requisitos": [
+         "EST0070",
+         "EST0019",
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0013",
+      "nome": "DEMOGRAFIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0114"
+      ],
+      "pre_requisitos": [
+         "EST0046"
+      ]
+   },
+   {
+      "codigo": "EST0058",
+      "nome": "ESTAGIO SUPERVISIONADO EM ESTATISTICA",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "EST0167"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0024",
+      "nome": "ESTATÍSTICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0025",
+         "ENF0056",
+         "EST0144"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0025",
+      "nome": "ESTATÍSTICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0145"
+      ],
+      "pre_requisitos": [
+         "EST0024"
+      ]
+   },
+   {
+      "codigo": "EST0019",
+      "nome": "ESTATÍSTICA APLICADA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0046",
+         "PST0037",
+         "PST0039",
+         "GEA0036",
+         "ADM0035",
+         "FCI0052",
+         "ADM0198",
+         "FUP0282",
+         "FAV0345",
+         "CCA0183",
+         "EST0097",
+         "FAV0528"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0020",
+      "nome": "ESTATÍSTICA APLICADA À EDUCAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0021",
+         "EST0141"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0021",
+      "nome": "ESTATÍSTICA APLICADA À EDUCAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0142"
+      ],
+      "pre_requisitos": [
+         "EST0020"
+      ]
+   },
+   {
+      "codigo": "EST0028",
+      "nome": "ESTATÍSTICA APLICADA À PSICOLOGIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0029",
+         "PST0039",
+         "EST0147"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0029",
+      "nome": "ESTATÍSTICA APLICADA À PSICOLOGIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0148"
+      ],
+      "pre_requisitos": [
+         "EST0028"
+      ]
+   },
+   {
+      "codigo": "EST0004",
+      "nome": "ESTATÍSTICA COMPUTACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0095"
+      ],
+      "pre_requisitos": [
+         "CIC0007 & MAT0053 & EST0035  &  EST0003",
+         "EST0090",
+         "EST0091",
+         "EST0092"
+      ]
+   },
+   {
+      "codigo": "EST0030",
+      "nome": "ESTATÍSTICA ECONÔMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0149"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0063",
+      "nome": "ESTATISTICA ECONOMICA AVANCADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ECO0130",
+         "EST0172"
+      ],
+      "pre_requisitos": [
+         "EST0062"
+      ]
+   },
+   {
+      "codigo": "EST0062",
+      "nome": "ESTATISTICA ECONOMICA INTERMEDIARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0063",
+         "EST0171"
+      ],
+      "pre_requisitos": [
+         "EST0061"
+      ]
+   },
+   {
+      "codigo": "EST0007",
+      "nome": "ESTATÍSTICA ESPACIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0128"
+      ],
+      "pre_requisitos": [
+         "EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0033",
+      "nome": "ESTATÍSTICA EXPLORATÓRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0068",
+         "EST0100"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0068",
+      "nome": "ESTATISTICA EXPLORATORIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0175"
+      ],
+      "pre_requisitos": [
+         "EST0033"
+      ]
+   },
+   {
+      "codigo": "EST0057",
+      "nome": "ESTATISTICA NAO PARAMETRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0166"
+      ],
+      "pre_requisitos": [
+         "EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0052",
+      "nome": "HISTORIA DA ESTATISTICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EST0163"
+      ],
+      "pre_requisitos": [
+         "EST0035"
+      ]
+   },
+   {
+      "codigo": "EST0005",
+      "nome": "INFERÊNCIA BAYESIANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0113"
+      ],
+      "pre_requisitos": [
+         "EST0035"
+      ]
+   },
+   {
+      "codigo": "EST0035",
+      "nome": "INFERENCIA ESTATISTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0005",
+         "EST0038",
+         "EST0040",
+         "EST0042",
+         "EST0052",
+         "EST0116"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & MAT0075 & MAT0027 & EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0061",
+      "nome": "INTRODUCAO A ESTATISTICA ECONOMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0062",
+         "EST0170"
+      ],
+      "pre_requisitos": [
+         "MAT0025"
+      ]
+   },
+   {
+      "codigo": "EST0084",
+      "nome": "INTRODUÇÃO À INFERÊNCIA BAYESIANA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0185"
+      ],
+      "pre_requisitos": [
+         "MAT0075"
+      ]
+   },
+   {
+      "codigo": "EST0069",
+      "nome": "INTRODUCAO A PROBABILIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0103"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0008",
+      "nome": "LABORATÓRIO DE ESTATÍSTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0096"
+      ],
+      "pre_requisitos": [
+         "EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0009",
+      "nome": "LABORATÓRIO DE ESTATÍSTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0130"
+      ],
+      "pre_requisitos": [
+         "EST0038 & EST0036 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0074",
+      "nome": "MEDIDAS DE INFORMAÇÃO E APLICAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0109"
+      ],
+      "pre_requisitos": [
+         "EST0070",
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "EST0073",
+      "nome": "MÉTODOS APLICADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0178"
+      ],
+      "pre_requisitos": [
+         "EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0070",
+      "nome": "METODOS ESTATISTICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0008",
+         "EST0015",
+         "EST0017",
+         "EST0045",
+         "EST0046",
+         "EST0057",
+         "EST0073",
+         "EST0074",
+         "EST0104"
+      ],
+      "pre_requisitos": [
+         "EST0033 & EST0069",
+         "EST0033 & EST0023",
+         "EST0033 & FGA0157"
+      ]
+   },
+   {
+      "codigo": "EST0017",
+      "nome": "MÉTODOS ESTATÍSTICOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0115"
+      ],
+      "pre_requisitos": [
+         "EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0016",
+      "nome": "MODELOS LÍNEARES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0137"
+      ],
+      "pre_requisitos": [
+         "EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0011",
+      "nome": "MODELOS LINEARES GENERALIZADOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0105"
+      ],
+      "pre_requisitos": [
+         "EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0054",
+      "nome": "PESQUISA OPERACIONAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ADM0307",
+         "EST0164"
+      ],
+      "pre_requisitos": [
+         "MAT0031 & MAT0026 & EST0069"
+      ]
+   },
+   {
+      "codigo": "EST0056",
+      "nome": "PESQUISA OPERACIONAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0165"
+      ],
+      "pre_requisitos": [
+         "EST0054 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "EST0087",
+      "nome": "PRÁTICAS DE EXTENSÃO EM ESTATÍSTICA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EST0187"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0088",
+      "nome": "PRÁTICAS DE EXTENSÃO EM ESTATÍSTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0188"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "EST0023",
+      "nome": "PROBABILIDADE E ESTATÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0014",
+         "EPR0030",
+         "EST0030",
+         "EST0045",
+         "EST0046",
+         "EST0059",
+         "EST0074",
+         "ENC0042",
+         "EST0083",
+         "ECO0128",
+         "ENM0145",
+         "EPR0064",
+         "EPR0066",
+         "ADM0035",
+         "EPR0068",
+         "CCA0183",
+         "EST0098"
+      ],
+      "pre_requisitos": [
+         "MAT0025",
+         "MAT0022"
+      ]
+   },
+   {
+      "codigo": "EST0083",
+      "nome": "PROBABILIDADE E ESTATÍSTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0110"
+      ],
+      "pre_requisitos": [
+         "EST0023",
+         "EST0022"
+      ]
+   },
+   {
+      "codigo": "EST0048",
+      "nome": "PROCESSOS ESTOCASTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0108"
+      ],
+      "pre_requisitos": [
+         "MAT0076"
+      ]
+   },
+   {
+      "codigo": "EST0078",
+      "nome": "PROGRAMAS - PRODUTO EM ESTATISTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0181"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0036",
+      "nome": "TECNICAS DE AMOSTRAGEM",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0117"
+      ],
+      "pre_requisitos": [
+         "MAT0075 & EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0006",
+      "nome": "TÉCNICAS DE AMOSTRAGEM 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0127"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0014",
+      "nome": "TEORIA DA RESPOSTA AO ÍTEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0135"
+      ],
+      "pre_requisitos": [
+         "EST0038"
+      ]
+   },
+   {
+      "codigo": "EST0082",
+      "nome": "TÓPICOS EM CONSULTORIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "EST0183"
+      ],
+      "pre_requisitos": [
+         "EST0038 & EST0042 & EST0036"
+      ]
+   },
+   {
+      "codigo": "EST0015",
+      "nome": "TÓPICOS EM ESTATÍSTICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0136"
+      ],
+      "pre_requisitos": [
+         "EST0070"
+      ]
+   },
+   {
+      "codigo": "EST0077",
+      "nome": "TÓPICOS EM ESTATÍSTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0180"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0081",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EST0122"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038 & EST0042"
+      ]
+   },
+   {
+      "codigo": "EST0067",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "EST0121"
+      ],
+      "pre_requisitos": [
+         "EST0036 & EST0038 & EST0042 & EST0081"
+      ]
+   }
+]

@@ -1,0 +1,2103 @@
+[
+   {
+      "codigo": "ENM0158",
+      "nome": "AERODINAMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0219"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0156",
+      "nome": "AERODINAMICA DE EDIFICACOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0396"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0089",
+      "nome": "ANALISE DE PROBLEMAS DE ENGENHARIA MECANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0207"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENM0162",
+      "nome": "ANALISE EXERGETICA DE PROCESSOS INDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0402"
+      ],
+      "pre_requisitos": [
+         "ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0139",
+      "nome": "ANALISE EXPERIMENTAL DE TENSOES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0380"
+      ],
+      "pre_requisitos": [
+         "ENM0103",
+         "ENM0122"
+      ]
+   },
+   {
+      "codigo": "ENM0286",
+      "nome": "ANÁLISE MODAL EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0462"
+      ],
+      "pre_requisitos": [
+         "ENM0109"
+      ]
+   },
+   {
+      "codigo": "ENM0036",
+      "nome": "APLICACOES MECANICAS DE MATERIAIS CONJUGADOS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENM0308"
+      ],
+      "pre_requisitos": [
+         "ENM0028"
+      ]
+   },
+   {
+      "codigo": "ENM0167",
+      "nome": "AUTOMACAO DA MANUFATURA E COMANDO MUNERICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0407"
+      ],
+      "pre_requisitos": [
+         "ENM0146",
+         "ENM0127"
+      ]
+   },
+   {
+      "codigo": "ENM0184",
+      "nome": "AUTOMAÇÃO DE PROCESSOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0424"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENM0227",
+      "nome": "CÁLCULO NUMÉRICO APLICADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0440"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & CIC0007"
+      ]
+   },
+   {
+      "codigo": "ENM0079",
+      "nome": "CAPTACAO E UTILIZACAO DE ENERGIA SOLAR",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENM0332"
+      ],
+      "pre_requisitos": [
+         "ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0095",
+      "nome": "CONFORMACAO DOS METAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0247"
+      ],
+      "pre_requisitos": [
+         "ENM0093",
+         "ENM0116"
+      ]
+   },
+   {
+      "codigo": "ENM0046",
+      "nome": "CONSTRUCAO DE MAQUINAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0050",
+         "ENM0054",
+         "ENM0313"
+      ],
+      "pre_requisitos": [
+         "ENM0042"
+      ]
+   },
+   {
+      "codigo": "ENM0001",
+      "nome": "CONTROLE DE SISTEMAS MARÍTIMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0291"
+      ],
+      "pre_requisitos": [
+         "ENM0088",
+         "ENE0084",
+         "FGA0197"
+      ]
+   },
+   {
+      "codigo": "ENM0105",
+      "nome": "DESENHO DE MAQUINAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0352"
+      ],
+      "pre_requisitos": [
+         "ENC0053 & ENC0054"
+      ]
+   },
+   {
+      "codigo": "ENM0131",
+      "nome": "DESENHO MECANICO ASSISTIDO POR COMPUTADOR 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0132",
+         "ENM0212"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0230",
+      "nome": "DESENHO MECÂNICO ASSISTIDO POR COMPUTADOR 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0443"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0132",
+      "nome": "DESENHO MECANICO ASSISTIDO POR COMPUTADOR 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0213"
+      ],
+      "pre_requisitos": [
+         "ENM0131",
+         "ENC0053 & ENC0054"
+      ]
+   },
+   {
+      "codigo": "ENM0190",
+      "nome": "DESENHO MECÂNICO PARA ENGENHARIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0222"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0217",
+      "nome": "DINÂMICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0168",
+         "ENM0229",
+         "ENM0439"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENM0280",
+      "nome": "DINÂMICA DOS FLUIDOS COMPUTACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0456"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0180",
+      "nome": "ELEMENTOS DE AUTOMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0273"
+      ],
+      "pre_requisitos": [
+         "ENE0340",
+         "ENE0243",
+         "ENE0001 & ENE0002",
+         "ENE0027 & ENE0028",
+         "ENE0045 & ENE0046"
+      ]
+   },
+   {
+      "codigo": "ENM0042",
+      "nome": "ELEMENTOS DE MAQUINAS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0024",
+         "ENM0043",
+         "ENM0046",
+         "ENM0311"
+      ],
+      "pre_requisitos": [
+         "ENC0053 & ENC0054 & ENC0075"
+      ]
+   },
+   {
+      "codigo": "ENM0103",
+      "nome": "ELEMENTOS DE MAQUINAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0139",
+         "ENM0350"
+      ],
+      "pre_requisitos": [
+         "ENM0112 & ENC0134",
+         "ENM0112 & ENM0165"
+      ]
+   },
+   {
+      "codigo": "ENM0104",
+      "nome": "ELEMENTOS DE MAQUINAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0106",
+         "ENM0351"
+      ],
+      "pre_requisitos": [
+         "ENM0112 & ENM0165",
+         "ENM0112 & ENM0103",
+         "ENM0112 & ENC0134"
+      ]
+   },
+   {
+      "codigo": "ENM0043",
+      "nome": "ELEMENTOS DE MAQUINAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0312"
+      ],
+      "pre_requisitos": [
+         "ENM0042"
+      ]
+   },
+   {
+      "codigo": "ENM0169",
+      "nome": "ELEMENTOS FINITOS PARA ENGENHARIA MECANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0224"
+      ],
+      "pre_requisitos": [
+         "ENM0165 & ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0157",
+      "nome": "ESCOAMENTO COMPRESSIVEL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0263"
+      ],
+      "pre_requisitos": [
+         "ENM0082 & ENM0068"
+      ]
+   },
+   {
+      "codigo": "ENM0137",
+      "nome": "ESTAGIO SUPERVISIONADO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "ENM0379"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0059",
+      "nome": "ESTAGIO SUPERVISIONADO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "ENM0318"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0203",
+      "nome": "ESTÁTICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0164",
+         "ENM0438"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0031 & MAT0025"
+      ]
+   },
+   {
+      "codigo": "ENM0288",
+      "nome": "EXTENSÃO EM ENGENHARIA MECÂNICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0464"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0080",
+      "nome": "FENOMENOS DE TRANSPORTE",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0003",
+         "FGA0076",
+         "ENM0068",
+         "FGA0194",
+         "FGA0204",
+         "FGA0248",
+         "FGA0270",
+         "ENM0201",
+         "ENM0232"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & ENC0132",
+         "MAT0027 & ENM0120",
+         "MAT0027 & FGA0154",
+         "MAT0027 & ENC0035"
+      ]
+   },
+   {
+      "codigo": "ENM0185",
+      "nome": "FUNDAMENTOS DE CONVECÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0425"
+      ],
+      "pre_requisitos": [
+         "ENM0082 & ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0003",
+      "nome": "FUNDAMENTOS DE ENGENHARIA DE RESERVATÓRIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0293"
+      ],
+      "pre_requisitos": [
+         "ENM0140",
+         "ENM0128",
+         "FGA0204",
+         "ENM0080",
+         "IQD0005"
+      ]
+   },
+   {
+      "codigo": "ENM0194",
+      "nome": "FUNDAMENTOS DE MAGNETOHIDRODINÂMICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0434"
+      ],
+      "pre_requisitos": [
+         "ENM0082  &  IFD0179",
+         "IFD0224"
+      ]
+   },
+   {
+      "codigo": "ENM0155",
+      "nome": "FUNDICAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0395"
+      ],
+      "pre_requisitos": [
+         "ENM0093",
+         "ENM0116"
+      ]
+   },
+   {
+      "codigo": "ENM0075",
+      "nome": "GERACAO E UTILIZACAO DE VAPOR D'AGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0328"
+      ],
+      "pre_requisitos": [
+         "ENM0070"
+      ]
+   },
+   {
+      "codigo": "ENM0166",
+      "nome": "GESTAO DE QUALIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0406"
+      ],
+      "pre_requisitos": [
+         "EPR0068"
+      ]
+   },
+   {
+      "codigo": "ENM0072",
+      "nome": "INSTALACOES TERMOMECANICAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0175",
+         "ENM0241"
+      ],
+      "pre_requisitos": [
+         "ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0073",
+      "nome": "INSTALACOES TERMOMECANICAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0242"
+      ],
+      "pre_requisitos": [
+         "ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0179",
+      "nome": "INTRODUÇÃO À AEROACÚSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0272"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0126",
+      "nome": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENM0041",
+         "ENM0116",
+         "ENM0171",
+         "ENM0189",
+         "ENM0256"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0058 & IQD0126",
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "ENM0176",
+      "nome": "INTRODUÇÃO A ECOLOGIA INDUSTRIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0270"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0143",
+      "nome": "INTRODUCAO A ENGENHARIA MECANICA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENC0261",
+         "ENM0216"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0002",
+      "nome": "INTRODUÇÃO À EXPLORAÇÃO DE PETRÓLEO EM ALTO MAR",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0292"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "ENM0321",
+      "nome": "INTRODUÇÃO À MECÂNICA DO CONTATO ELÁSTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0277",
+      "nome": "INTRODUÇÃO À MECÂNICA DOS SÓLIDOS EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0453"
+      ],
+      "pre_requisitos": [
+         "ENM0164"
+      ]
+   },
+   {
+      "codigo": "ENM0113",
+      "nome": "INTRODUCAO A MECANICA EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0223"
+      ],
+      "pre_requisitos": [
+         "ENM0164"
+      ]
+   },
+   {
+      "codigo": "ENM0193",
+      "nome": "INTRODUÇÃO A MÉTODOS DE PERTURBAÇÕES EM FLUÍDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0433"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0189",
+      "nome": "INTRODUÇÃO AOS MATERIAIS INTELIGENTES",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0429"
+      ],
+      "pre_requisitos": [
+         "ENM0090",
+         "ENM0126",
+         "FGA0139"
+      ]
+   },
+   {
+      "codigo": "ENM0159",
+      "nome": "INTRODUCAO A TURBULENCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0264"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0283",
+      "nome": "MANUFATURA ADITIVA EM METAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0459"
+      ],
+      "pre_requisitos": [
+         "ENM0146  &  ENM0093"
+      ]
+   },
+   {
+      "codigo": "ENM0106",
+      "nome": "MAQUINAS DE ELEVACAO E TRANSPORTE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0249"
+      ],
+      "pre_requisitos": [
+         "ENM0104",
+         "ENM0123"
+      ]
+   },
+   {
+      "codigo": "ENM0238",
+      "nome": "MÁQUINAS DE FLUXO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0451"
+      ],
+      "pre_requisitos": [
+         "ENM0233"
+      ]
+   },
+   {
+      "codigo": "ENM0019",
+      "nome": "MAQUINAS HIDRAULICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0300"
+      ],
+      "pre_requisitos": [
+         "ENM0017"
+      ]
+   },
+   {
+      "codigo": "ENM0094",
+      "nome": "MAQUINAS OPERATRIZES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0344"
+      ],
+      "pre_requisitos": [
+         "ENM0146"
+      ]
+   },
+   {
+      "codigo": "ENM0032",
+      "nome": "MAQUINAS OPERATRIZES E DE TRANSPORTE 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0307"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0070",
+      "nome": "MAQUINAS TERMICAS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0074",
+         "ENM0075",
+         "ENM0078",
+         "ENM0240"
+      ],
+      "pre_requisitos": [
+         "ENM0068",
+         "ENM0128"
+      ]
+   },
+   {
+      "codigo": "ENM0007",
+      "nome": "MAQUINAS TERMICAS",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0296"
+      ],
+      "pre_requisitos": [
+         "ENM0005"
+      ]
+   },
+   {
+      "codigo": "ENM0028",
+      "nome": "MATERIAIS DE CONSTRUCAO MECANICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0029",
+         "ENM0030",
+         "ENM0036",
+         "ENM0303"
+      ],
+      "pre_requisitos": [
+         "IQD0051"
+      ]
+   },
+   {
+      "codigo": "ENM0090",
+      "nome": "MATERIAIS DE CONSTRUCAO MECANICA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0091",
+         "ENM0189",
+         "ENM0244"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "ENM0228",
+      "nome": "MATERIAIS DE CONSTRUÇÃO MECÂNICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0441"
+      ],
+      "pre_requisitos": [
+         "IQD0051",
+         "IQD0125 & IQD0126"
+      ]
+   },
+   {
+      "codigo": "ENM0029",
+      "nome": "MATERIAIS DE CONSTRUCAO MECANICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0304"
+      ],
+      "pre_requisitos": [
+         "ENM0028"
+      ]
+   },
+   {
+      "codigo": "ENM0091",
+      "nome": "MATERIAIS DE CONSTRUCAO MECANICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0093",
+         "ENM0099",
+         "ENM0234",
+         "ENM0235",
+         "ENM0245"
+      ],
+      "pre_requisitos": [
+         "ENM0090"
+      ]
+   },
+   {
+      "codigo": "ENM0172",
+      "nome": "MATERIAIS INDUSTRIAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0041",
+         "ENM0171",
+         "ENM0191",
+         "ENM0268"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0147",
+      "nome": "MATERIAIS INDUSTRIAIS 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0148",
+         "ENM0149",
+         "ENM0387"
+      ],
+      "pre_requisitos": [
+         "IQD0051"
+      ]
+   },
+   {
+      "codigo": "ENM0148",
+      "nome": "MATERIAIS INDUSTRIAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0388"
+      ],
+      "pre_requisitos": [
+         "ENM0147"
+      ]
+   },
+   {
+      "codigo": "ENM0120",
+      "nome": "MECANICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0164",
+         "ENM0210"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0026 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENM0121",
+      "nome": "MECANICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0097",
+         "ENM0109",
+         "ENM0168",
+         "ENM0252"
+      ],
+      "pre_requisitos": [
+         "IFD0171 & MAT0027 & MAT0031"
+      ]
+   },
+   {
+      "codigo": "ENM0017",
+      "nome": "MECANICA DOS FLUIDOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0019",
+         "ENM0299"
+      ],
+      "pre_requisitos": [
+         "MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENM0140",
+      "nome": "MECANICA DOS FLUIDOS 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0003",
+         "ENC0014",
+         "ENM0082",
+         "ENM0084",
+         "ENM0261",
+         "ENM0281"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & ENC0132",
+         "MAT0027 & ENM0163",
+         "MAT0027 & ENM0120"
+      ]
+   },
+   {
+      "codigo": "ENM0231",
+      "nome": "MECÂNICA DOS FLUIDOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0233",
+         "ENM0444"
+      ],
+      "pre_requisitos": [
+         "MAT0027 & ENM0203"
+      ]
+   },
+   {
+      "codigo": "ENM0082",
+      "nome": "MECANICA DOS FLUIDOS 2",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0065",
+         "ENM0083",
+         "ENM0085",
+         "ENM0087",
+         "ENM0156",
+         "ENM0158",
+         "ENM0159",
+         "ENM0179",
+         "ENM0193",
+         "ENM0202",
+         "ENM0280"
+      ],
+      "pre_requisitos": [
+         "ENM0140"
+      ]
+   },
+   {
+      "codigo": "ENM0233",
+      "nome": "MECÂNICA DOS FLUIDOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0238",
+         "ENM0446"
+      ],
+      "pre_requisitos": [
+         "ENM0231"
+      ]
+   },
+   {
+      "codigo": "ENM0170",
+      "nome": "MECANICA DOS FLUIDOS EXPERIMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0410"
+      ],
+      "pre_requisitos": [
+         "ENM0140 & ENM0082 & ENM0068"
+      ]
+   },
+   {
+      "codigo": "ENM0004",
+      "nome": "MECÂNICA DOS FLUÍDOS MAGNÉTICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0294"
+      ],
+      "pre_requisitos": [
+         "ENM0140 & IFD0179",
+         "ENM0080 & ENE0177"
+      ]
+   },
+   {
+      "codigo": "ENM0111",
+      "nome": "MECANICA DOS MATERIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0357"
+      ],
+      "pre_requisitos": [
+         "ENC0134",
+         "ENM0165"
+      ]
+   },
+   {
+      "codigo": "ENM0164",
+      "nome": "MECANICA DOS MATERIAIS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0113",
+         "ENM0127",
+         "ENM0165",
+         "ENM0221",
+         "ENM0276",
+         "ENM0277"
+      ],
+      "pre_requisitos": [
+         "ENM0163",
+         "ENM0120",
+         "ENM0203"
+      ]
+   },
+   {
+      "codigo": "ENM0165",
+      "nome": "MECANICA DOS MATERIAIS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0138",
+         "ENM0111",
+         "ENM0265"
+      ],
+      "pre_requisitos": [
+         "ENM0164"
+      ]
+   },
+   {
+      "codigo": "ENM0163",
+      "nome": "MECANICA GERAL",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0164",
+         "ENM0403"
+      ],
+      "pre_requisitos": [
+         "MAT0026 & MAT0031 & IFD0173",
+         "MAT0026 & IFD0173 & MAT0039"
+      ]
+   },
+   {
+      "codigo": "ENM0112",
+      "nome": "MECANISMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENC0066",
+         "ENM0358"
+      ],
+      "pre_requisitos": [
+         "ENC0132 & ENC0054",
+         "ENC0054 & ENM0163"
+      ]
+   },
+   {
+      "codigo": "ENM0144",
+      "nome": "METODOS COMPUTACIONAIS EM ENGENHARIA MECANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0384"
+      ],
+      "pre_requisitos": [
+         "CIC0007 & MAT0048",
+         "CIC0007 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENM0281",
+      "nome": "MÉTODOS EXPERIMENTAIS EM FLUIDOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0457"
+      ],
+      "pre_requisitos": [
+         "ENM0140"
+      ]
+   },
+   {
+      "codigo": "ENM0160",
+      "nome": "METODOS NUMERICOS EM TERMOFLUIDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0220"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0145",
+      "nome": "METROLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0262"
+      ],
+      "pre_requisitos": [
+         "EST0023"
+      ]
+   },
+   {
+      "codigo": "ENM0177",
+      "nome": "MICROCONTROLADORE APLICADOS À AUTOMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0178",
+         "ENM0417"
+      ],
+      "pre_requisitos": [
+         "CIC0007 & IFD0179 & IFD0181"
+      ]
+   },
+   {
+      "codigo": "ENM0282",
+      "nome": "MICROUSINAGEM",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0458"
+      ],
+      "pre_requisitos": [
+         "ENM0146"
+      ]
+   },
+   {
+      "codigo": "ENM0195",
+      "nome": "MODELAGEM E IMPLEMENTAÇÃO DE SISTEMAS A EVENTOS DISCRETOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0066",
+         "ENM0435"
+      ],
+      "pre_requisitos": [
+         "CIC0103 & ENE0078",
+         "CIC0124 & ENE0078"
+      ]
+   },
+   {
+      "codigo": "ENM0074",
+      "nome": "MOTORES DE COMBUSTAO INTERNA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0327"
+      ],
+      "pre_requisitos": [
+         "ENM0070"
+      ]
+   },
+   {
+      "codigo": "ENM0276",
+      "nome": "OFICINA DE ELEMENTOS FINITOS NA ANÁLISE DE TENSÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0452"
+      ],
+      "pre_requisitos": [
+         "ENM0164"
+      ]
+   },
+   {
+      "codigo": "ENM0182",
+      "nome": "PLANEJAMENTO DE PROCESSOS DE FABRICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0422"
+      ],
+      "pre_requisitos": [
+         "ENM0146",
+         "ENM0127"
+      ]
+   },
+   {
+      "codigo": "ENM0187",
+      "nome": "PROCESSO DE DESENVOLVIMENTO DE PRODUTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0044",
+         "ENM0225"
+      ],
+      "pre_requisitos": [
+         "ENM0027",
+         "ENM0122",
+         "ENM0171",
+         "FGA0195"
+      ]
+   },
+   {
+      "codigo": "ENM0149",
+      "nome": "PROCESSO DE FABRICACAO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0389"
+      ],
+      "pre_requisitos": [
+         "ENM0147"
+      ]
+   },
+   {
+      "codigo": "ENM0150",
+      "nome": "PROCESSO DE FABRICACAO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0390"
+      ],
+      "pre_requisitos": [
+         "ENM0149 & ENM0148"
+      ]
+   },
+   {
+      "codigo": "ENM0285",
+      "nome": "PROCESSOS ABRASIVOS E NÃO CONVENCIONAIS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0461"
+      ],
+      "pre_requisitos": [
+         "ENM0146"
+      ]
+   },
+   {
+      "codigo": "ENM0171",
+      "nome": "PROCESSOS DE FABRICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0134",
+         "ENM0187",
+         "ENM0192",
+         "ENM0267"
+      ],
+      "pre_requisitos": [
+         "ENM0172",
+         "ENM0126"
+      ]
+   },
+   {
+      "codigo": "ENM0284",
+      "nome": "PROCESSOS ESPECIAIS DE SOLDAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0460"
+      ],
+      "pre_requisitos": [
+         "ENM0093"
+      ]
+   },
+   {
+      "codigo": "ENM0236",
+      "nome": "PROJETO DE ELEMENTOS DE MÁQUINAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0237",
+         "ENM0449"
+      ],
+      "pre_requisitos": [
+         "ENM0132 & ENM0165 & ENM0217"
+      ]
+   },
+   {
+      "codigo": "ENM0129",
+      "nome": "PROJETO DE GRADUACAO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0130",
+         "ENM0258"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0130",
+      "nome": "PROJETO DE GRADUACAO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0259"
+      ],
+      "pre_requisitos": [
+         "ENM0129"
+      ]
+   },
+   {
+      "codigo": "ENM0107",
+      "nome": "PROJETO DE MAQUINAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0354"
+      ],
+      "pre_requisitos": [
+         "ENM0103 & ENM0104"
+      ]
+   },
+   {
+      "codigo": "ENM0237",
+      "nome": "PROJETO DE MÁQUINAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0450"
+      ],
+      "pre_requisitos": [
+         "ENM0236"
+      ]
+   },
+   {
+      "codigo": "ENM0122",
+      "nome": "PROJETO DE MAQUINAS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0139",
+         "ENM0187",
+         "ENM0192",
+         "ENM0253"
+      ],
+      "pre_requisitos": [
+         "ENM0121 & ENM0165 & ENM0132"
+      ]
+   },
+   {
+      "codigo": "ENM0123",
+      "nome": "PROJETO DE MAQUINAS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0106",
+         "ENM0254"
+      ],
+      "pre_requisitos": [
+         "ENM0165 & ENM0132"
+      ]
+   },
+   {
+      "codigo": "ENM0289",
+      "nome": "PROJETO DE MÁQUINAS CONTROLADAS POR COMPUTADOR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0465"
+      ],
+      "pre_requisitos": [
+         "ENE0077 & ENM0164 & ENM0217",
+         "ENE0077 & ENM0164 & ENM0121"
+      ]
+   },
+   {
+      "codigo": "ENM0054",
+      "nome": "PROJETO DE MAQUINAS-FERRAMENTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0315"
+      ],
+      "pre_requisitos": [
+         "ENM0046"
+      ]
+   },
+   {
+      "codigo": "ENM0125",
+      "nome": "PROJETO DE MECANISMOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0369"
+      ],
+      "pre_requisitos": [
+         "ENM0131 & ENM0121"
+      ]
+   },
+   {
+      "codigo": "ENM0077",
+      "nome": "PROJETO DE SISTEMAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0330"
+      ],
+      "pre_requisitos": [
+         "MAT0053 & ENM0072"
+      ]
+   },
+   {
+      "codigo": "ENM0124",
+      "nome": "PROJETO DE SISTEMAS MECANICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0008",
+         "EPR0013",
+         "ENC0262",
+         "ENM0255"
+      ],
+      "pre_requisitos": [
+         "ENM0122 & ENM0123"
+      ]
+   },
+   {
+      "codigo": "ENM0287",
+      "nome": "PROJETO INTEGRADOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0463"
+      ],
+      "pre_requisitos": [
+         "ENM0068 & ENM0164 & ENM0228 & ENM0231"
+      ]
+   },
+   {
+      "codigo": "ENM0197",
+      "nome": "PROJETO INTEGRADOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0226"
+      ],
+      "pre_requisitos": [
+         "ENM0164 & ENM0090 & ENM0068 & ENM0140"
+      ]
+   },
+   {
+      "codigo": "ENM0181",
+      "nome": "PROJETO INTEGRADOR 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0421"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0186",
+      "nome": "PROJETO INTEGRADOR 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENM0275"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0168",
+      "nome": "ROBOTICA INDUSTRIAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0266"
+      ],
+      "pre_requisitos": [
+         "ENM0121",
+         "ENM0217"
+      ]
+   },
+   {
+      "codigo": "ENM0119",
+      "nome": "SEGURANCA EM SISTEMAS DE CONTROLE E AUTOMACAO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0251"
+      ],
+      "pre_requisitos": [
+         "ENE0220 & ENM0134",
+         "ENE0355 & ENM0134"
+      ]
+   },
+   {
+      "codigo": "ENM0191",
+      "nome": "SELEÇÃO DE MATERIAIS EM ENGENHARIA E DESIGN",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0431"
+      ],
+      "pre_requisitos": [
+         "ENM0090 & ENM0164",
+         "ENM0162 & ENM0035",
+         "ENM0126 & ENM0164",
+         "ENM0172"
+      ]
+   },
+   {
+      "codigo": "ENM0175",
+      "nome": "SISTEMAS DE CLIMATIZACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0415"
+      ],
+      "pre_requisitos": [
+         "ENM0072"
+      ]
+   },
+   {
+      "codigo": "ENM0088",
+      "nome": "SISTEMAS DE CONTROLE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0001",
+         "ENM0243"
+      ],
+      "pre_requisitos": [
+         "MAT0048",
+         "MAT0026"
+      ]
+   },
+   {
+      "codigo": "ENM0118",
+      "nome": "SISTEMAS DE MEDIÇÃO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENM0066",
+         "ENM0250"
+      ],
+      "pre_requisitos": [
+         "ENE0038",
+         "ENE0282",
+         "ENE0174",
+         "ENM0109"
+      ]
+   },
+   {
+      "codigo": "ENM0174",
+      "nome": "SISTEMAS ENERGETICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0269"
+      ],
+      "pre_requisitos": [
+         "ENE0243",
+         "ENE0172",
+         "IFD0179",
+         "ENE0001"
+      ]
+   },
+   {
+      "codigo": "ENM0083",
+      "nome": "SISTEMAS FLUIDO-MECANICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0204"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0084",
+      "nome": "SISTEMAS HIDRAULICOS E PNEUMATICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0205"
+      ],
+      "pre_requisitos": [
+         "ENM0128",
+         "ENM0140"
+      ]
+   },
+   {
+      "codigo": "ENM0134",
+      "nome": "SISTEMAS INTEGRADOS DE MANUFATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "EPR0008",
+         "EPR0013",
+         "EPR0034",
+         "EPR0035",
+         "ENM0260"
+      ],
+      "pre_requisitos": [
+         "ENM0027",
+         "ENM0171"
+      ]
+   },
+   {
+      "codigo": "ENM0173",
+      "nome": "SISTEMAS MECANICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0413"
+      ],
+      "pre_requisitos": [
+         "IFD0304"
+      ]
+   },
+   {
+      "codigo": "ENM0151",
+      "nome": "SISTEMAS MECANICOS 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0152",
+         "ENM0391"
+      ],
+      "pre_requisitos": [
+         "MAT0023 & IFD0171 & IFD0173"
+      ]
+   },
+   {
+      "codigo": "ENM0152",
+      "nome": "SISTEMAS MECANICOS 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0392"
+      ],
+      "pre_requisitos": [
+         "ENM0151"
+      ]
+   },
+   {
+      "codigo": "ENM0153",
+      "nome": "SISTEMAS MECANICOS 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0154",
+         "ENM0393"
+      ],
+      "pre_requisitos": [
+         "ENC0054 & ENM0152"
+      ]
+   },
+   {
+      "codigo": "ENM0154",
+      "nome": "SISTEMAS MECANICOS 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0394"
+      ],
+      "pre_requisitos": [
+         "ENM0153"
+      ]
+   },
+   {
+      "codigo": "ENM0178",
+      "nome": "SISTEMAS RECONFIGURÁVEIS PARA AUTOMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0271"
+      ],
+      "pre_requisitos": [
+         "CIC0094",
+         "ENM0177",
+         "CIC0229 & CIC0231",
+         "ENE0277",
+         "ENE0039 & ENE0040",
+         "FGA0073 & FGA0071"
+      ]
+   },
+   {
+      "codigo": "ENM0142",
+      "nome": "SOLDAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0215"
+      ],
+      "pre_requisitos": [
+         "ENM0093",
+         "ENM0116"
+      ]
+   },
+   {
+      "codigo": "ENM0235",
+      "nome": "SOLDAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0448"
+      ],
+      "pre_requisitos": [
+         "ENM0091"
+      ]
+   },
+   {
+      "codigo": "ENM0278",
+      "nome": "TECNOLOGIA DE CONVERSÃO DE ENERGIA SOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0454"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0127",
+      "nome": "TECNOLOGIA DE FABRICACAO 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ENM0027",
+         "ENM0100",
+         "ENM0167",
+         "ENM0182",
+         "ENM0257"
+      ],
+      "pre_requisitos": [
+         "ENM0164"
+      ]
+   },
+   {
+      "codigo": "ENM0116",
+      "nome": "TECNOLOGIA DE FABRICACAO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0095",
+         "ENM0098",
+         "ENM0142",
+         "ENM0155",
+         "ENM0361"
+      ],
+      "pre_requisitos": [
+         "ENM0126"
+      ]
+   },
+   {
+      "codigo": "ENM0146",
+      "nome": "TECNOLOGIA MECANICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0027",
+         "ENM0094",
+         "ENM0100",
+         "ENM0167",
+         "ENM0182",
+         "ENM0218",
+         "ENM0282",
+         "ENM0285"
+      ],
+      "pre_requisitos": [
+         "ENM0090 & ENM0145"
+      ]
+   },
+   {
+      "codigo": "ENM0030",
+      "nome": "TECNOLOGIA MECANICA 1",
+      "carga_horaria": 105,
+      "eh_requisito_de": [
+         "ENM0031",
+         "ENM0055",
+         "ENM0305"
+      ],
+      "pre_requisitos": [
+         "ENM0028"
+      ]
+   },
+   {
+      "codigo": "ENM0093",
+      "nome": "TECNOLOGIA MECANICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0095",
+         "ENM0098",
+         "ENM0142",
+         "ENM0155",
+         "ENM0246",
+         "ENM0284"
+      ],
+      "pre_requisitos": [
+         "ENM0091"
+      ]
+   },
+   {
+      "codigo": "ENM0031",
+      "nome": "TECNOLOGIA MECANICA 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0306"
+      ],
+      "pre_requisitos": [
+         "ENM0030"
+      ]
+   },
+   {
+      "codigo": "ENM0027",
+      "nome": "TECNOLOGIAS DE COMANDO NUMERICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0134",
+         "ENM0187",
+         "ENM0192",
+         "ENM0239"
+      ],
+      "pre_requisitos": [
+         "ENM0146",
+         "ENM0127"
+      ]
+   },
+   {
+      "codigo": "ENM0279",
+      "nome": "TECNOLOGIAS DE CONVERSÃO DE BIOMASSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0455"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0192",
+      "nome": "TECNOLOGIAS HABILITADORAS DA INDÚSTRIA 4.0",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0432"
+      ],
+      "pre_requisitos": [
+         "ENM0027",
+         "ENM0122",
+         "ENM0171",
+         "FGA0195"
+      ]
+   },
+   {
+      "codigo": "ENM0068",
+      "nome": "TERMODINAMICA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0069",
+         "ENM0070",
+         "ENM0198"
+      ],
+      "pre_requisitos": [
+         "IFD0175",
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "ENM0005",
+      "nome": "TERMODINAMICA 1",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0007",
+         "ENM0016",
+         "ENM0295"
+      ],
+      "pre_requisitos": [
+         "MAT0053"
+      ]
+   },
+   {
+      "codigo": "ENM0069",
+      "nome": "TERMODINAMICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0322"
+      ],
+      "pre_requisitos": [
+         "ENM0068"
+      ]
+   },
+   {
+      "codigo": "ENM0232",
+      "nome": "TERMODINÂMICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0445"
+      ],
+      "pre_requisitos": [
+         "IFD0175",
+         "ENM0080"
+      ]
+   },
+   {
+      "codigo": "ENM0066",
+      "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA MECATRÔNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0320"
+      ],
+      "pre_requisitos": [
+         "ENM0118",
+         "ENM0195"
+      ]
+   },
+   {
+      "codigo": "ENM0041",
+      "nome": "TÓPICOS ESPECIAIS EM MATERIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0310"
+      ],
+      "pre_requisitos": [
+         "ENM0164 & ENM0090",
+         "ENM0126",
+         "ENM0172"
+      ]
+   },
+   {
+      "codigo": "ENM0099",
+      "nome": "TOPICOS ESPECIAIS EM MATERIAIS DE CONSTRUCAO MECANICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0348"
+      ],
+      "pre_requisitos": [
+         "ENM0091"
+      ]
+   },
+   {
+      "codigo": "ENM0024",
+      "nome": "TOPICOS ESPECIAIS EM MECANICA APLICADA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ENM0301"
+      ],
+      "pre_requisitos": [
+         "ENM0042"
+      ]
+   },
+   {
+      "codigo": "ENM0097",
+      "nome": "TOPICOS ESPECIAIS EM MECANICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0346"
+      ],
+      "pre_requisitos": [
+         "ENM0121",
+         "ENC0197",
+         "EFL0020",
+         "TEC0022",
+         "TEC0010"
+      ]
+   },
+   {
+      "codigo": "ENM0065",
+      "nome": "TÓPICOS ESPECIAIS EM MECÂNICA DOS FLUIDOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0319"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0098",
+      "nome": "TOPICOS ESPECIAIS EM PROCESSOS DE FABRICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0248"
+      ],
+      "pre_requisitos": [
+         "ENM0093",
+         "ENM0116"
+      ]
+   },
+   {
+      "codigo": "ENM0188",
+      "nome": "TÓPICOS ESPECIAIS EM SISTEMAS DINÂMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0428"
+      ],
+      "pre_requisitos": [
+         "ENM0109"
+      ]
+   },
+   {
+      "codigo": "ENM0085",
+      "nome": "TOPICOS ESPECIAIS EM SISTEMAS FLUIDO-MECANICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0337"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0114",
+      "nome": "TOPICOS ESPECIAIS EM SISTEMAS MECANICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0360"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0056",
+      "nome": "TOPICOS ESPECIAIS EM SISTEMAS MECANICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0317"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0076",
+      "nome": "TOPICOS ESPECIAIS EM SISTEMAS TERMICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0200"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ENM0016",
+      "nome": "TOPICOS ESPECIAIS EM TERMODINAMICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0298"
+      ],
+      "pre_requisitos": [
+         "ENM0005"
+      ]
+   },
+   {
+      "codigo": "ENM0078",
+      "nome": "TOPICOS ESPECIAIS EM TERMODINAMICA APLICADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0331"
+      ],
+      "pre_requisitos": [
+         "ENM0070"
+      ]
+   },
+   {
+      "codigo": "ENM0071",
+      "nome": "TRANSFERENCIA DE CALOR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "FGA0091",
+         "ENM0072",
+         "ENM0073",
+         "ENM0079",
+         "ENM0161",
+         "ENM0162",
+         "FGA0250",
+         "ENM0199"
+      ],
+      "pre_requisitos": [
+         "ENM0068 & ENM0082",
+         "ENM0128 & ENM0082",
+         "ENM0068 & FGA0204",
+         "ENM0068 & IQD0005"
+      ]
+   },
+   {
+      "codigo": "ENM0008",
+      "nome": "TRANSFERENCIA DE CALOR",
+      "carga_horaria": 75,
+      "eh_requisito_de": [
+         "ENM0297"
+      ],
+      "pre_requisitos": [
+         "ENM0005 & ENM0017"
+      ]
+   },
+   {
+      "codigo": "ENM0161",
+      "nome": "TRANSFERENCIA DE CALOR E TRANSFERENCIA DE MASSA APLICADAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0401"
+      ],
+      "pre_requisitos": [
+         "ENM0128",
+         "ENM0071"
+      ]
+   },
+   {
+      "codigo": "ENM0128",
+      "nome": "TRANSPORTE DE CALOR E MASSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0003",
+         "ENM0070",
+         "ENM0084",
+         "ENM0161",
+         "ENM0211"
+      ],
+      "pre_requisitos": [
+         "IFD0175 & IFD0177 & MAT0027"
+      ]
+   },
+   {
+      "codigo": "ENM0050",
+      "nome": "TRANSPORTE DE MATERIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0314"
+      ],
+      "pre_requisitos": [
+         "ENM0046"
+      ]
+   },
+   {
+      "codigo": "ENM0087",
+      "nome": "TUBULAÇÕES INDUSTRIAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0206"
+      ],
+      "pre_requisitos": [
+         "ENM0082"
+      ]
+   },
+   {
+      "codigo": "ENM0234",
+      "nome": "USINAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0447"
+      ],
+      "pre_requisitos": [
+         "ENM0091"
+      ]
+   },
+   {
+      "codigo": "ENM0100",
+      "nome": "USINAGEM DOS METAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0349"
+      ],
+      "pre_requisitos": [
+         "ENM0146",
+         "ENM0127"
+      ]
+   },
+   {
+      "codigo": "ENM0055",
+      "nome": "USINAGEM DOS METAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0316"
+      ],
+      "pre_requisitos": [
+         "ENM0030"
+      ]
+   },
+   {
+      "codigo": "ENM0229",
+      "nome": "VIBRAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0442"
+      ],
+      "pre_requisitos": [
+         "ENM0217"
+      ]
+   },
+   {
+      "codigo": "ENM0109",
+      "nome": "VIBRACOES 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ENM0110",
+         "ENM0118",
+         "ENM0183",
+         "ENM0188",
+         "ENM0208",
+         "ENM0286"
+      ],
+      "pre_requisitos": [
+         "MAT0048 & ENM0112",
+         "ENM0121"
+      ]
+   },
+   {
+      "codigo": "ENM0110",
+      "nome": "VIBRACOES 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0209"
+      ],
+      "pre_requisitos": [
+         "ENM0109"
+      ]
+   },
+   {
+      "codigo": "ENM0183",
+      "nome": "VIBRAÇÕES : APLICAÇÕES INDUSTRIAIS E TECNOLÓGICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0274"
+      ],
+      "pre_requisitos": [
+         "ENM0109"
+      ]
+   },
+   {
+      "codigo": "ENM0038",
+      "nome": "VIBRACOES EM MAQUINAS OPERATRIZES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ENM0309"
+      ],
+      "pre_requisitos": [
+         "ENC0113"
+      ]
+   }
+]

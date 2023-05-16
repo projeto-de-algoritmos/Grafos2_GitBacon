@@ -1,0 +1,821 @@
+[
+   {
+      "codigo": "ILD0040",
+      "nome": "A NOVA NARRATIVA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0140"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0071",
+      "nome": "AQUISIÇÃO DA LINGUAGEM E LETRAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0171"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0032",
+      "nome": "ATIVIDADES DIVERSIFICADAS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ILD0132"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0033",
+      "nome": "ATIVIDADES DIVERSIFICADAS 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0133"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0014",
+      "nome": "ATIVIDADES DIVERSIFICADAS 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0114"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0022",
+      "nome": "ATIVIDADES DIVERSIFICADAS 4 - PROJETO DO CURSO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0122"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0039",
+      "nome": "ATIVIDADES DIVERSIFICADAS 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0139"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0052",
+      "nome": "ATIVIDADES DIVERSIFICADAS 6 - MONOGRAFIA 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0152"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0073",
+      "nome": "ATIVIDADES DIVERSIFICADAS 7 - MONOGRAFIA 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0173"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0065",
+      "nome": "CLASSICOS UNIVERSAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0165"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0041",
+      "nome": "CRÍTICA LITERÁRIA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0141"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0023",
+      "nome": "DESCOBERTA CRÍTICA DO BRASIL",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0123"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0037",
+      "nome": "ESPANHOL INSTRUMENTAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0009",
+      "nome": "ESPANHOL INSTRUMENTAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0109"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0004",
+      "nome": "ESPANHOL INSTRUMENTAL - PROVA DE AVALIAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0104"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0026",
+      "nome": "ESTÁGIO DE OBSERVAÇÃO DA ALFABETIZAÇÃO",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ILD0126"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0047",
+      "nome": "ESTÁGIO DE OBSERVAÇÃO DO ENSINO DE JOVES E ADULTOS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0147"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0051",
+      "nome": "ESTÁGIO DE OBSERVAÇÃO DO ENSINO ESPECIAL",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ILD0151"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0012",
+      "nome": "ESTÁGIO DE OBSERVAÇÃO DO ENSINO FUNDAMENTAL (SÉRIES FINAIS)",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0019",
+      "nome": "ESTÁGIO DE OBSERVAÇÃO DO ENSINO MÉDIO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0119"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0025",
+      "nome": "ESTÁGIO SUPERVISIONADO EM REGÊNCIA NO ENSINO FUNDAMENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0125"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0043",
+      "nome": "ESTÁGIO SUPERVISIONADO EM REGÊNCIA NO ENSINO MÉDIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0143"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0010",
+      "nome": "ESTRUTURA SOCIAL E FORMAS DO ROMANCE BRASILEIRO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0110"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0020",
+      "nome": "ESTRUTURA SOCIAL E FORMAS DO ROMANCE BRASILEIRO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0120"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0005",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ILD0105"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0006",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "ILD0106"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0044",
+      "nome": "FILOLOGIA ROMÂNICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0144"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0056",
+      "nome": "FONÉTICA DA LÍNGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0156"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0078",
+      "nome": "FONÉTICA E FONOLOGIA DO PORTUGUÊS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0092"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0061",
+      "nome": "FONOLOGIA DA LÍNGUA PORTUGUESA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0161"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0060",
+      "nome": "FUNDAMENTOS DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0160"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0077",
+      "nome": "FUNDAMENTOS DE AQUISIÇÃO DE LÍNGUA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0177"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0059",
+      "nome": "HISTÓRIA DA EDUCAÇÃO BRASILEIRA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0038",
+      "nome": "HISTORIOGRAFIA LITERÁRIA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0138"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0027",
+      "nome": "IMPASSES NA CONSTRUÇÃO DO PERSONAGEM BRASILEIRO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0127"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0036",
+      "nome": "INGLÊS INSTRUMENTAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0136"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0008",
+      "nome": "INGLÊS INSTRUMENTAL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0108"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0003",
+      "nome": "INGLÊS INSTRUMENTAL - PROVA DE AVALIAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0103"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0034",
+      "nome": "INTRODUÇÃO À ANÁLISE DO DISCURSO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0134"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0076",
+      "nome": "INTRODUÇÃO À LINGUÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0083",
+         "ILD0086",
+         "ILD0176"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0057",
+      "nome": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0157"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0075",
+      "nome": "INTRODUÇÃO À TEORIA DA LITERATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0175"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0064",
+      "nome": "INTRODUÇÃO À TEORIA LITERÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0164"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0007",
+      "nome": "LABORATÓRIO DE ENSINO DA GRAMÁTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0107"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0017",
+      "nome": "LABORATÓRIO DE ENSINO DE LEITURA E LITERATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0117"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0035",
+      "nome": "LABORATÓRIO DE ENSINO DE REDAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0135"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0085",
+      "nome": "LABORATÓRIO DE LEITURA E CRIAÇÃO LITERÁRIA PARA O ENSINO FUNDAMENTAL E MÉDIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ILD0185"
+      ],
+      "pre_requisitos": [
+         "ILD0081"
+      ]
+   },
+   {
+      "codigo": "ILD0089",
+      "nome": "LABORATÓRIO DE PRODUÇÃO DE TEXTO PARA O ENSINO FUNDAMENTAL E MÉDIO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ILD0098"
+      ],
+      "pre_requisitos": [
+         "ILD0081"
+      ]
+   },
+   {
+      "codigo": "ILD0011",
+      "nome": "LATIM 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0021",
+         "ILD0111"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0021",
+      "nome": "LATIM 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0121"
+      ],
+      "pre_requisitos": [
+         "ILD0011"
+      ]
+   },
+   {
+      "codigo": "ILD0055",
+      "nome": "LEITURA E LITERATURA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0155"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0063",
+      "nome": "LEITURA E PRODUÇÃO DE TEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0163"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0015",
+      "nome": "LEXICOLOGIA E LEXICOGRAFIA 1",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0028",
+      "nome": "LEXICOLOGIA E LEXICOGRAFIA 2",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0128"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0079",
+      "nome": "LÍNGUA BRASILEIRA DE SINAIS - AVANÇADO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0001",
+      "nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0099"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0053",
+      "nome": "LINGUAGEM, INTERAÇÃO E SOCIEDADE",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0153"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0062",
+      "nome": "LINGÜÍSTICA APLICADA AO ENSINO DO PORTUGUÊS",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0162"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0048",
+      "nome": "LINGUÍSTICA HISTÓRICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0148"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0067",
+      "nome": "LINGUISTICA TEXTUAL E PRÁTICA DE TEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0167"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0082",
+      "nome": "LITERATURA BRASILEIRA CONTEMPORÂNEA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0090"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0087",
+      "nome": "LITERATURA BRASILEIRA DO SÉCULO XIX",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0096"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0084",
+      "nome": "LITERATURA BRASILEIRA NO SÉCULO XX",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0050",
+      "nome": "LITERATURA E INDÚSTRIA CULTURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0150"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0049",
+      "nome": "LITERATURA INFANTO-JUVENIL",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0100"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0080",
+      "nome": "LITERATURA PORTUGUESA: DO MODERNISMO À CONTEMPORANEIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0093"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0088",
+      "nome": "LITERATURA PORTUGUESA NO SÉCULO XIX",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0097"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0013",
+      "nome": "MACHADO DE ASSIS: ESCRITOR UNIVERSAL EM CONDIÇÕES PERIFÉRICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0113"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0030",
+      "nome": "MOMENTOS DECISIVOS DA FORMAÇÃO DA LITERATURA BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0130"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0083",
+      "nome": "MORFOLOGIA DO PORTUGUÊS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0183"
+      ],
+      "pre_requisitos": [
+         "ILD0076"
+      ]
+   },
+   {
+      "codigo": "ILD0069",
+      "nome": "MORFOSSINTAXE DA LÍNGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0169"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0042",
+      "nome": "OFICINA DE PRODUÇÃO, COMPETÊNCIAS LINGUÍSITCAS E MIDIÁTICAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0142"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0002",
+      "nome": "OFICINA DE TEXTOS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "ILD0102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0045",
+      "nome": "O PORTUGUÊS COMO SEGUNDA LÍNGUA NO BRASIL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0072",
+         "ILD0145"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0072",
+      "nome": "O PORTUGUÊS COMO SEGUNDA LÍNGUA NO BRASIL 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0172"
+      ],
+      "pre_requisitos": [
+         "ILD0045"
+      ]
+   },
+   {
+      "codigo": "ILD0018",
+      "nome": "PÁTRIA LÍRICA E DECADENTISMO PERIFÉRICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0118"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0046",
+      "nome": "POESIA E INTERPRETAÇÃO DO BRASIL: PRODUÇÕES POÉTICAS SÉCULO XX E XXI",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0024",
+      "nome": "PRAGMÁTICA",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0124"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0074",
+      "nome": "PRÁTICA DE TEXTOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0174"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0054",
+      "nome": "PROCESSOS DE DESENVOLVIMENTO E APRENDIZAGEM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0154"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0070",
+      "nome": "PROJETO PEDAGOGICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0170"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0081",
+      "nome": "PSICOLOGIA DA EDUCAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0085",
+         "ILD0089",
+         "ILD0094"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0031",
+      "nome": "PSICOLOGIA DA LEITURA E DA ESCRITA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "ILD0131"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0058",
+      "nome": "PSICOLOGIA E ESCOLA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0158"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0068",
+      "nome": "SEMANTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0091"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0016",
+      "nome": "SINTAXE DA LÍNGUA PORTUGUESA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0116"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0029",
+      "nome": "SINTAXE DO PORTUGUÊS CLÁSSICO",
+      "carga_horaria": 45,
+      "eh_requisito_de": [
+         "ILD0129"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "ILD0086",
+      "nome": "SINTAXE DO PORTUGUÊS CONTEMPORÂNEO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0095"
+      ],
+      "pre_requisitos": [
+         "ILD0076"
+      ]
+   },
+   {
+      "codigo": "ILD0066",
+      "nome": "VARIAÇÃO LINGUISTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "ILD0166"
+      ],
+      "pre_requisitos": []
+   }
+]

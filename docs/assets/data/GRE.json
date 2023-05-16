@@ -1,0 +1,20 @@
+[
+   {
+      "codigo": "GRE0001",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 1",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "GRE1102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "GRE0002",
+      "nome": "ESTUDO DE PROBLEMAS BRASILEIROS 2",
+      "carga_horaria": 15,
+      "eh_requisito_de": [
+         "GRE1103"
+      ],
+      "pre_requisitos": []
+   }
+]

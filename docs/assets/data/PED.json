@@ -1,0 +1,495 @@
+[
+   {
+      "codigo": "PED0007",
+      "nome": "DESENVOLVIMENTO, APRENDIZAGEM E INTERAÇÕES VIRTUAIS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0098"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0036",
+      "nome": "DESENVOLVIMENTO E NECESSIDADES ESPECIAIS",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0039",
+         "PED0100"
+      ],
+      "pre_requisitos": [
+         "PED0025",
+         "PED0002"
+      ]
+   },
+   {
+      "codigo": "PED0097",
+      "nome": "DESENVOLVIMENTO HUMANO E A PANDEMIA DE CORONAVÍRUS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0164"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0003",
+      "nome": "DESENVOLVIMENTO HUMANO E COMPETÊNCIAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0123"
+      ],
+      "pre_requisitos": [
+         "PED0053"
+      ]
+   },
+   {
+      "codigo": "PED0031",
+      "nome": "DESENVOLVIMENTO NO CURSO DA VIDA ADULTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0139"
+      ],
+      "pre_requisitos": [
+         "PED0002"
+      ]
+   },
+   {
+      "codigo": "PED0027",
+      "nome": "DESENVOLVIMENTO NO CURSO DE VIDA: ADOLESCÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0099"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0025",
+      "nome": "DESENVOLVIMENTO NO CURSO DE VIDA: INFÂNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0036",
+         "PED0136",
+         "IPD0186"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0005",
+      "nome": "DESENVOLVIMENTO NO CURSO DE VIDA: VELHICE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0106"
+      ],
+      "pre_requisitos": [
+         "PED0002"
+      ]
+   },
+   {
+      "codigo": "PED0060",
+      "nome": "DESENVOLVIMENTO PSICOLÓGICO E ENSINO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "MTC0012",
+         "MTC0143",
+         "PED0104"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0008",
+      "nome": "DIVERSIDADE E INCLUSÃO ESCOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0126"
+      ],
+      "pre_requisitos": [
+         "PED0053 & PED0036"
+      ]
+   },
+   {
+      "codigo": "PED0009",
+      "nome": "ESTÁGIO SUPERVISIONADO BACHAREL - ÁREA PSICOLOGIA DO DESENVOLVIMENTO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PED0109"
+      ],
+      "pre_requisitos": [
+         "PED0002 & PCL0020"
+      ]
+   },
+   {
+      "codigo": "PED0082",
+      "nome": "ESTÁGIO SUPERVISIONADO BACHAREL - ÁREA PSICOLOGIA ESCOLAR 1",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PED0022",
+         "PED0120"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PED0039",
+         "PED0053"
+      ]
+   },
+   {
+      "codigo": "PED0022",
+      "nome": "ESTÁGIO SUPERVISIONADO BACHAREL - ÁREA PSICOLOGIA ESCOLAR 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PED0111"
+      ],
+      "pre_requisitos": [
+         "PED0081",
+         "PED0082",
+         "IPD0025"
+      ]
+   },
+   {
+      "codigo": "PED0021",
+      "nome": "ESTÁGIO SUPERVISIONADO LICENCIATURA - ÁREA PSICOLOGIA ESCOLAR 1",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PED0110",
+         "IPD0030"
+      ],
+      "pre_requisitos": [
+         "PCL0020"
+      ]
+   },
+   {
+      "codigo": "PED0045",
+      "nome": "ESTÁGIO SUPERVISIONADO LICENCIATURA - ÁREA PSICOLOGIA ESCOLAR 2",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "PED0113"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PED0021",
+         "IPD0029",
+         "PCL0020 & PED0053"
+      ]
+   },
+   {
+      "codigo": "PED0074",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA PSICOLOGIA ESCOLAR 1",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PED0117"
+      ],
+      "pre_requisitos": [
+         "PCL0020 & PED0039",
+         "PED0053"
+      ]
+   },
+   {
+      "codigo": "PED0075",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA PSICOLOGIA ESCOLAR 2",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PED0118"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PED0074",
+         "IPD0044"
+      ]
+   },
+   {
+      "codigo": "PED0076",
+      "nome": "ESTÁGIO SUPERVISIONADO PSICÓLOGO - ÁREA PSICOLOGIA ESCOLAR 3",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "PED0119"
+      ],
+      "pre_requisitos": [
+         "PCL0020  &  PED0075",
+         "IPD0045"
+      ]
+   },
+   {
+      "codigo": "PED0011",
+      "nome": "FILOSOFIA E EPISTEMOLOGIA DA PSICOLOGIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0128"
+      ],
+      "pre_requisitos": [
+         "PED0002",
+         "PED0053",
+         "PCL0071"
+      ]
+   },
+   {
+      "codigo": "PED0058",
+      "nome": "FUNDAMENTOS DE DESENVOLVIMENTO E APRENDIZAGEM",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0095",
+         "MUS0494",
+         "MUS0742",
+         "FEF0193",
+         "MTC0012",
+         "MTC0103",
+         "MTC0143",
+         "FIL0171",
+         "SOL0122",
+         "PED0103"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0049",
+      "nome": "METODOLOGIA DE OBSERVAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0144"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0050",
+      "nome": "METODOLOGIA DE OBSERVAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0088",
+         "PED0101"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0013",
+      "nome": "MÉTODOS DE PESQUISA EM DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0129"
+      ],
+      "pre_requisitos": [
+         "PED0002"
+      ]
+   },
+   {
+      "codigo": "PED0039",
+      "nome": "PEDAGOGIA TERAPEUTICA",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0142"
+      ],
+      "pre_requisitos": [
+         "PED0036"
+      ]
+   },
+   {
+      "codigo": "PED0066",
+      "nome": "PESQUISA EM PSICOLOGIA DO DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0115"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0068",
+      "nome": "PESQUISA EM PSICOLOGIA ESCOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0116"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0002",
+      "nome": "PROCESSOS DE DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0005",
+         "PED0011",
+         "PED0013",
+         "PED0019",
+         "PED0031",
+         "PED0036",
+         "PED0053",
+         "PED0096",
+         "PED0108",
+         "IPD0186"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0001",
+      "nome": "PROCESSOS DE DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0121"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0019",
+      "nome": "PSICOLOGIA, CIDADANIA E ÉTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0132"
+      ],
+      "pre_requisitos": [
+         "PED0002"
+      ]
+   },
+   {
+      "codigo": "PED0071",
+      "nome": "PSICOLOGIA: CURSO E PROFISSÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0095",
+         "PED0105"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0026",
+      "nome": "PSICOLOGIA DA ADOLESCÊNCIA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0137"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0032",
+      "nome": "PSICOLOGIA DA CRIATIVIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0112"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0059",
+      "nome": "PSICOLOGIA DA SAUDE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0107"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0095",
+      "nome": "PSICOLOGIA DO ESPORTE E DO EXERCÍCIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0162"
+      ],
+      "pre_requisitos": [
+         "PPB0014",
+         "PED0071",
+         "PED0058"
+      ]
+   },
+   {
+      "codigo": "PED0073",
+      "nome": "PSICOLOGIA DO GÊNERO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0156"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0052",
+      "nome": "PSICOLOGIA ESCOLAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0053",
+      "nome": "PSICOLOGIA ESCOLAR",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "PED0003",
+         "PED0011",
+         "PED0016",
+         "PED0018",
+         "PED0074",
+         "PED0082",
+         "PED0114",
+         "IPD0044"
+      ],
+      "pre_requisitos": [
+         "PED0002"
+      ]
+   },
+   {
+      "codigo": "PED0016",
+      "nome": "PSICOLOGIA ESCOLAR E FORMAÇÃO PROFISSIONAL CONTINUADA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0130"
+      ],
+      "pre_requisitos": [
+         "PED0053"
+      ]
+   },
+   {
+      "codigo": "PED0018",
+      "nome": "PSICOLOGIA ESCOLAR: PESQUISA E INTERVENÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0131"
+      ],
+      "pre_requisitos": [
+         "PED0053"
+      ]
+   },
+   {
+      "codigo": "PED0088",
+      "nome": "SAÚDE E ADOLESCÊNCIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0161"
+      ],
+      "pre_requisitos": [
+         "PED0050",
+         "PCL0071"
+      ]
+   },
+   {
+      "codigo": "PED0096",
+      "nome": "SUPERDOTAÇÃO, TALENTO E DESENVOLVIMENTO HUMANO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0163"
+      ],
+      "pre_requisitos": [
+         "PED0002",
+         "PED0025 & PED0027"
+      ]
+   },
+   {
+      "codigo": "PED0057",
+      "nome": "TOPICOS EM PSICOLOGIA DO DESENVOLVIMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0102"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0020",
+      "nome": "TÓPICOS EM PSICOLOGIA ESCOLAR",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0133"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "PED0062",
+      "nome": "TOPICOS ESPECIAIS EM PSICOLOGIA DA SAUDE 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "PED0152"
+      ],
+      "pre_requisitos": [
+         "PCL0071"
+      ]
+   }
+]

@@ -1,0 +1,1452 @@
+[
+   {
+      "codigo": "JOR0097",
+      "nome": "ANÁLISE DO JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0270"
+      ],
+      "pre_requisitos": [
+         "JOR0070"
+      ]
+   },
+   {
+      "codigo": "JOR0105",
+      "nome": "ANÁLISE DO JORNALISMO AUDIOVISUAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0277"
+      ],
+      "pre_requisitos": [
+         "DAP0096",
+         "COM0129"
+      ]
+   },
+   {
+      "codigo": "JOR0033",
+      "nome": "ANALISE E OPINIAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0218"
+      ],
+      "pre_requisitos": [
+         "JOR0070"
+      ]
+   },
+   {
+      "codigo": "JOR0005",
+      "nome": "APURAÇÃO E TEXTO JORNALISTICO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0006",
+         "JOR0007",
+         "JOR0008",
+         "JOR0009",
+         "JOR0013",
+         "JOR0015",
+         "JOR0017",
+         "JOR0018",
+         "JOR0019",
+         "JOR0020",
+         "JOR0021",
+         "JOR0022",
+         "JOR0024",
+         "JOR0098",
+         "JOR0110",
+         "JOR0135",
+         "JOR0136",
+         "JOR0143",
+         "JOR0144",
+         "JOR0145",
+         "JOR0169"
+      ],
+      "pre_requisitos": [
+         "JOR0080",
+         "JOR0058"
+      ]
+   },
+   {
+      "codigo": "JOR0008",
+      "nome": "APURAÇÃO E TEXTO JORNALISTICO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0196"
+      ],
+      "pre_requisitos": [
+         "JOR0005"
+      ]
+   },
+   {
+      "codigo": "JOR0142",
+      "nome": "APURAÇÃO JORNALÍSTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0006",
+         "JOR0013",
+         "JOR0015",
+         "JOR0017",
+         "JOR0018",
+         "JOR0019",
+         "JOR0020",
+         "JOR0021",
+         "JOR0024",
+         "JOR0098",
+         "JOR0110",
+         "JOR0135",
+         "JOR0143",
+         "JOR0144",
+         "JOR0145",
+         "JOR0308"
+      ],
+      "pre_requisitos": [
+         "JOR0141",
+         "JOR0058"
+      ]
+   },
+   {
+      "codigo": "JOR0067",
+      "nome": "ASSESSORIA DE COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0247"
+      ],
+      "pre_requisitos": [
+         "JOR0070",
+         "JOR0046"
+      ]
+   },
+   {
+      "codigo": "JOR0024",
+      "nome": "ASSESSORIA DE COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0025",
+         "JOR0154"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0025",
+      "nome": "ASSESSORIA DE COMUNICAÇÃO 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0155"
+      ],
+      "pre_requisitos": [
+         "JOR0024"
+      ]
+   },
+   {
+      "codigo": "JOR0082",
+      "nome": "CAMPUS 1",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0103",
+         "JOR0131",
+         "JOR0139",
+         "JOR0259"
+      ],
+      "pre_requisitos": [
+         "JOR0070 & JOR0039"
+      ]
+   },
+   {
+      "codigo": "JOR0071",
+      "nome": "CAMPUS 2",
+      "carga_horaria": 240,
+      "eh_requisito_de": [
+         "JOR0104",
+         "JOR0249"
+      ],
+      "pre_requisitos": [
+         "JOR0049 & JOR0082"
+      ]
+   },
+   {
+      "codigo": "JOR0010",
+      "nome": "CAMPUS MULTIMÍDIA",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "JOR0149"
+      ],
+      "pre_requisitos": [
+         "JOR0009 & JOR0006 & JOR0015 & JOR0007",
+         "JOR0003"
+      ]
+   },
+   {
+      "codigo": "JOR0077",
+      "nome": "CAMPUS ON LINE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0255"
+      ],
+      "pre_requisitos": [
+         "JOR0031 & JOR0049"
+      ]
+   },
+   {
+      "codigo": "JOR0083",
+      "nome": "COMUNICAÇÃO COMUNITÁRIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0128",
+         "JOR0164"
+      ],
+      "pre_requisitos": [
+         "JOR0045",
+         "COM0130",
+         "SER0024",
+         "MUS0089",
+         "POL0011",
+         "SOL0042",
+         "DAN0022",
+         "JOR0078",
+         "MAT0025",
+         "FUP0286",
+         "DSC0037",
+         "FIL0069",
+         "CET0038",
+         "TAU0002"
+      ]
+   },
+   {
+      "codigo": "JOR0128",
+      "nome": "COMUNICAÇÃO COMUNITÁRIA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0295"
+      ],
+      "pre_requisitos": [
+         "JOR0083"
+      ]
+   },
+   {
+      "codigo": "JOR0095",
+      "nome": "COMUNICAÇÃO E POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0127",
+         "JOR0269"
+      ],
+      "pre_requisitos": [
+         "JOR0045",
+         "COM0130"
+      ]
+   },
+   {
+      "codigo": "JOR0127",
+      "nome": "COMUNICAÇÃO E POLÍTICA 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0294"
+      ],
+      "pre_requisitos": [
+         "JOR0095"
+      ]
+   },
+   {
+      "codigo": "JOR0073",
+      "nome": "COMUNICAÇÃO E PROCESSOS DE INTERPRETAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0251"
+      ],
+      "pre_requisitos": [
+         "JOR0058",
+         "JOR0141"
+      ]
+   },
+   {
+      "codigo": "JOR0079",
+      "nome": "COMUNICAÇÃO E UNIVERSIDADE",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0163"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0001",
+      "nome": "COMUNICAÇÃO, INFORMAÇÃO E COMPUTAÇÃO : FUNDAMENTOS E APLICAÇÃO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "JOR0146"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0093",
+      "nome": "COMUNICAÇÃO INSTITUCIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0267"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "JOR0131",
+      "nome": "CRÍTICA DA MÍDIA EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0297"
+      ],
+      "pre_requisitos": [
+         "JOR0082"
+      ]
+   },
+   {
+      "codigo": "JOR0094",
+      "nome": "DIREITO DO PÚBLICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0268"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "JOR0133",
+      "nome": "EDIÇÃO DE IMAGEM EM REVISTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0299"
+      ],
+      "pre_requisitos": [
+         "JOR0049",
+         "DAP0125",
+         "COM0138",
+         "DAP0107 & DAP0108 & DAP0111"
+      ]
+   },
+   {
+      "codigo": "JOR0126",
+      "nome": "EDIÇÃO DE TEXTO EM REVISTAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0293"
+      ],
+      "pre_requisitos": [
+         "JOR0080"
+      ]
+   },
+   {
+      "codigo": "JOR0047",
+      "nome": "EDICAO JORNALISTICA",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "JOR0229"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0076",
+      "nome": "ELABORACAO DE PROJETOS EM COMUNICACAO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0254"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0012",
+      "nome": "EMPREENDEDORISMO E GESTÃO EM COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0173"
+      ],
+      "pre_requisitos": [
+         "JOR0078"
+      ]
+   },
+   {
+      "codigo": "JOR0026",
+      "nome": "ESTÁGIO OBRIGATÓRIO",
+      "carga_horaria": 210,
+      "eh_requisito_de": [
+         "JOR0176"
+      ],
+      "pre_requisitos": [
+         "JOR0009 & JOR0006 & JOR0015 & JOR0007"
+      ]
+   },
+   {
+      "codigo": "JOR0055",
+      "nome": "ESTAGIO SUPERVISIONADO EM JORNALISMO",
+      "carga_horaria": 225,
+      "eh_requisito_de": [
+         "JOR0236"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0064",
+      "nome": "ESTÉTICA DA COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0160"
+      ],
+      "pre_requisitos": [
+         "JOR0078"
+      ]
+   },
+   {
+      "codigo": "JOR0004",
+      "nome": "ÉTICA E JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0148"
+      ],
+      "pre_requisitos": [
+         "JOR0080",
+         "JOR0078"
+      ]
+   },
+   {
+      "codigo": "JOR0056",
+      "nome": "ETICA E LEGISLACAO EM COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0237"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0062",
+      "nome": "ÉTICA NA COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "DAP0170",
+         "JOR0159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0044",
+      "nome": "FOTOGRAFIA 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0226"
+      ],
+      "pre_requisitos": [
+         "DAP0079 & JOR0039"
+      ]
+   },
+   {
+      "codigo": "JOR0039",
+      "nome": "FOTOJORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0075",
+         "JOR0157"
+      ],
+      "pre_requisitos": [
+         "DAP0079",
+         "JOR0078",
+         "JOR0058"
+      ]
+   },
+   {
+      "codigo": "JOR0130",
+      "nome": "HISTÓRIA DA COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0296"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "JOR0050",
+      "nome": "HISTORIA DA IMPRENSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0232"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0002",
+      "nome": "HISTÓRIA DO JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0147"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0041",
+      "nome": "IMPRENSA E SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0223"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0060",
+      "nome": "IMPRENSA SINDICAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0241"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0078",
+      "nome": "INTRODUÇÃO A COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0003",
+         "JOR0004",
+         "JOR0012",
+         "JOR0039",
+         "JOR0045",
+         "JOR0063",
+         "JOR0064",
+         "JOR0083",
+         "JOR0162",
+         "JOR0201"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0080",
+      "nome": "INTRODUÇÃO AO JORNALISMO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0003",
+         "JOR0004",
+         "JOR0005",
+         "JOR0007",
+         "JOR0009",
+         "JOR0023",
+         "JOR0049",
+         "JOR0070",
+         "JOR0085",
+         "JOR0126",
+         "JOR0179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0027",
+      "nome": "JORNAL CAMPUS",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0156"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142  &  JOR0003"
+      ]
+   },
+   {
+      "codigo": "JOR0144",
+      "nome": "JORNALISMO AMBIENTAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0310"
+      ],
+      "pre_requisitos": [
+         "JOR0142",
+         "JOR0005"
+      ]
+   },
+   {
+      "codigo": "JOR0143",
+      "nome": "JORNALISMO CIENTÍFICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0309"
+      ],
+      "pre_requisitos": [
+         "JOR0142",
+         "JOR0005"
+      ]
+   },
+   {
+      "codigo": "JOR0101",
+      "nome": "JORNALISMO CORPORATIVO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0273"
+      ],
+      "pre_requisitos": [
+         "JOR0070"
+      ]
+   },
+   {
+      "codigo": "JOR0013",
+      "nome": "JORNALISMO CULTURAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0150"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0037",
+      "nome": "JORNALISMO DE REVISTA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0034",
+         "JOR0221"
+      ],
+      "pre_requisitos": [
+         "JOR0046"
+      ]
+   },
+   {
+      "codigo": "JOR0098",
+      "nome": "JORNALISMO ECONÔMICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0271"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0139",
+      "nome": "JORNALISMO EM RÁDIO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0305"
+      ],
+      "pre_requisitos": [
+         "JOR0137 & JOR0070",
+         "JOR0082",
+         "JOR0030"
+      ]
+   },
+   {
+      "codigo": "JOR0006",
+      "nome": "JORNALISMO EM RÁDIO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0014",
+         "JOR0170"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0014",
+      "nome": "JORNALISMO EM RÁDIO 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0174"
+      ],
+      "pre_requisitos": [
+         "JOR0006"
+      ]
+   },
+   {
+      "codigo": "JOR0138",
+      "nome": "JORNALISMO EM TELEVISÃO",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0304"
+      ],
+      "pre_requisitos": [
+         "JOR0137 & JOR0070",
+         "JOR0054",
+         "JOR0030"
+      ]
+   },
+   {
+      "codigo": "JOR0015",
+      "nome": "JORNALISMO EM TV 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0016",
+         "JOR0151"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0016",
+      "nome": "JORNALISMO EM TV 2",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0152"
+      ],
+      "pre_requisitos": [
+         "JOR0015"
+      ]
+   },
+   {
+      "codigo": "JOR0145",
+      "nome": "JORNALISMO EM VEÍCULOS PÚBLICOS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0311"
+      ],
+      "pre_requisitos": [
+         "JOR0142",
+         "JOR0005"
+      ]
+   },
+   {
+      "codigo": "JOR0100",
+      "nome": "JORNALISMO E PODER",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0272"
+      ],
+      "pre_requisitos": [
+         "JOR0070"
+      ]
+   },
+   {
+      "codigo": "JOR0034",
+      "nome": "JORNALISMO ESPECIALIZADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0219"
+      ],
+      "pre_requisitos": [
+         "JOR0037"
+      ]
+   },
+   {
+      "codigo": "JOR0017",
+      "nome": "JORNALISMO ESPORTIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0204"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0018",
+      "nome": "JORNALISMO INTERNACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0166"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0019",
+      "nome": "JORNALISMO INVESTIGATIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0153"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0135",
+      "nome": "JORNALISMO LITERÁRIO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0187"
+      ],
+      "pre_requisitos": [
+         "TEL0014",
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0020",
+      "nome": "JORNALISMO LOCAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0207"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0021",
+      "nome": "JORNALISMO OPINATIVO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0208"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0110",
+      "nome": "JORNALISMO POLÍTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0280"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0142"
+      ]
+   },
+   {
+      "codigo": "JOR0136",
+      "nome": "LABORATÓRIO CAMPUS REPORTER 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "JOR0188"
+      ],
+      "pre_requisitos": [
+         "JOR0005"
+      ]
+   },
+   {
+      "codigo": "JOR0092",
+      "nome": "LEGISLAÇÃO E DIREITO A COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0181"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "JOR0063",
+      "nome": "MÉTODOS E TÉCNICAS EM PESQUISA EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0178"
+      ],
+      "pre_requisitos": [
+         "JOR0078"
+      ]
+   },
+   {
+      "codigo": "JOR0048",
+      "nome": "NOTICIA E MERCADOLOGIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0230"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0061",
+      "nome": "OFICINA AVANÇADA DE NARRATIVAS",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0242"
+      ],
+      "pre_requisitos": [
+         "JOR0058",
+         "JOR0141"
+      ]
+   },
+   {
+      "codigo": "JOR0132",
+      "nome": "OFICINA DE DIAGRAMAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0186"
+      ],
+      "pre_requisitos": [
+         "JOR0003"
+      ]
+   },
+   {
+      "codigo": "JOR0085",
+      "nome": "OFICINA DE JORNALISMO 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0103",
+         "JOR0261"
+      ],
+      "pre_requisitos": [
+         "JOR0080",
+         "JOR0058"
+      ]
+   },
+   {
+      "codigo": "JOR0103",
+      "nome": "OFICINA DE JORNALISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0275"
+      ],
+      "pre_requisitos": [
+         "JOR0082",
+         "JOR0085"
+      ]
+   },
+   {
+      "codigo": "JOR0104",
+      "nome": "OFICINA DE JORNALISMO 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0276"
+      ],
+      "pre_requisitos": [
+         "JOR0071"
+      ]
+   },
+   {
+      "codigo": "JOR0121",
+      "nome": "OFICINA DE JORNALISMO 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0289"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0122",
+      "nome": "OFICINA DE JORNALISMO 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0290"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0124",
+      "nome": "OFICINA DE JORNALISMO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0291"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0125",
+      "nome": "OFICINA DE JORNALISMO 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0292"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0117",
+      "nome": "OFICINA DE JORNALISMO DIGITAL 1",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0285"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0118",
+      "nome": "OFICINA DE JORNALISMO DIGITAL 2",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0286"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0119",
+      "nome": "OFICINA DE JORNALISMO DIGITAL 3",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0287"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0120",
+      "nome": "OFICINA DE JORNALISMO DIGITAL 4",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0288"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0134",
+      "nome": "OFICINA DE TELEJORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0300"
+      ],
+      "pre_requisitos": [
+         "JOR0030 & JOR0082"
+      ]
+   },
+   {
+      "codigo": "JOR0058",
+      "nome": "OFICINA DE TEXTO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0003",
+         "JOR0005",
+         "JOR0039",
+         "JOR0061",
+         "JOR0072",
+         "JOR0073",
+         "JOR0085",
+         "JOR0142",
+         "JOR0158"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0072",
+      "nome": "OFICINA DE TEXTO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0058",
+         "DAP0059",
+         "JOR0250"
+      ],
+      "pre_requisitos": [
+         "JOR0058",
+         "JOR0141"
+      ]
+   },
+   {
+      "codigo": "JOR0043",
+      "nome": "OFICINA DE TEXTO-JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0225"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0051",
+      "nome": "OPINIAO PUBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0233"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0049",
+      "nome": "PLANEJAMENTO GRAFICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0102",
+         "JOR0133",
+         "JOR0231"
+      ],
+      "pre_requisitos": [
+         "JOR0080",
+         "COM0129 & COM0132"
+      ]
+   },
+   {
+      "codigo": "JOR0102",
+      "nome": "PLANEJAMENTO GRÁFICO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0274"
+      ],
+      "pre_requisitos": [
+         "JOR0049"
+      ]
+   },
+   {
+      "codigo": "JOR0065",
+      "nome": "POLITICAS DE COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0161"
+      ],
+      "pre_requisitos": [
+         "JOR0045",
+         "COM0130"
+      ]
+   },
+   {
+      "codigo": "JOR0088",
+      "nome": "PRÉ-PROJETO EXPERIMENTAL EM JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0180"
+      ],
+      "pre_requisitos": [
+         "JOR0045 & JOR0082",
+         "JOR0045 & JOR0010"
+      ]
+   },
+   {
+      "codigo": "JOR0003",
+      "nome": "PROCESSOS GRÁFICOS EM JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0010",
+         "JOR0132",
+         "JOR0168"
+      ],
+      "pre_requisitos": [
+         "JOR0080",
+         "JOR0078",
+         "JOR0058"
+      ]
+   },
+   {
+      "codigo": "JOR0112",
+      "nome": "PROJETO FINAL EM JORNALISMO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "JOR0282"
+      ],
+      "pre_requisitos": [
+         "JOR0088 & JOR0071",
+         "JOR0088 & JOR0027",
+         "JOR0088 & JOR0014",
+         "JOR0088 & JOR0016",
+         "JOR0088 & JOR0025"
+      ]
+   },
+   {
+      "codigo": "JOR0036",
+      "nome": "PROJETOS EXPERIMENTAIS - JORNALISMO",
+      "carga_horaria": 270,
+      "eh_requisito_de": [
+         "JOR0220"
+      ],
+      "pre_requisitos": [
+         "JOR0034 & JOR0041 & JOR0047 & JOR0048"
+      ]
+   },
+   {
+      "codigo": "JOR0054",
+      "nome": "RADIOJORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0036",
+         "DAP0072",
+         "JOR0087",
+         "JOR0138",
+         "JOR0235"
+      ],
+      "pre_requisitos": [
+         "JOR0070"
+      ]
+   },
+   {
+      "codigo": "JOR0087",
+      "nome": "RADIOJORNALISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0263"
+      ],
+      "pre_requisitos": [
+         "JOR0054"
+      ]
+   },
+   {
+      "codigo": "JOR0057",
+      "nome": "REALIDADE BRASILEIRA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0238"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0059",
+      "nome": "REALIDADE REGIONAL EM COMUNICACAO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0240"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0046",
+      "nome": "REDACAO DE JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0037",
+         "JOR0067",
+         "JOR0228"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0052",
+      "nome": "REDACAO PARA PUBLICIDADE IMPRESSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0234"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0031",
+      "nome": "REPORTAGEM E ENTREVISTA",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "JOR0217"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "JOR0075",
+      "nome": "REPORTAGEM FOTOGRAFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0253"
+      ],
+      "pre_requisitos": [
+         "JOR0039"
+      ]
+   },
+   {
+      "codigo": "JOR0111",
+      "nome": "SOCIOLOGIA DO JORNALISMO: ENSAIO DE COMPARAÇÃO INTERNACIONAL",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0281"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0042",
+      "nome": "TECNICAS DE COMUNICACAO DIRIGIDA 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "JOR0224"
+      ],
+      "pre_requisitos": [
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "JOR0070",
+      "nome": "TÉCNICAS DE JORNALISMO",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "JOR0033",
+         "JOR0054",
+         "JOR0067",
+         "JOR0097",
+         "JOR0100",
+         "JOR0101",
+         "JOR0248"
+      ],
+      "pre_requisitos": [
+         "JOR0080",
+         "COM0137"
+      ]
+   },
+   {
+      "codigo": "JOR0137",
+      "nome": "TÉCNICAS DE RÁDIO E TV",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0303"
+      ],
+      "pre_requisitos": [
+         "JOR0045 & JOR0080",
+         "COM0137"
+      ]
+   },
+   {
+      "codigo": "JOR0089",
+      "nome": "TECNOLOGIA DE COMUNICAÇÃO",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0165"
+      ],
+      "pre_requisitos": [
+         "JOR0045",
+         "COM0130"
+      ]
+   },
+   {
+      "codigo": "JOR0030",
+      "nome": "TELEJORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0086",
+         "JOR0138",
+         "JOR0139",
+         "JOR0216"
+      ],
+      "pre_requisitos": [
+         "JOR0137 & JOR0070"
+      ]
+   },
+   {
+      "codigo": "JOR0086",
+      "nome": "TELEJORNALISMO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0262"
+      ],
+      "pre_requisitos": [
+         "JOR0030"
+      ]
+   },
+   {
+      "codigo": "JOR0022",
+      "nome": "TEORIA E PESQUISA DE OPINIÃO PÚBLICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0209"
+      ],
+      "pre_requisitos": [
+         "JOR0005"
+      ]
+   },
+   {
+      "codigo": "JOR0045",
+      "nome": "TEORIAS DA COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0031",
+         "JOR0042",
+         "DAP0084",
+         "JOR0065",
+         "JOR0083",
+         "JOR0089",
+         "JOR0092",
+         "JOR0093",
+         "JOR0094",
+         "JOR0095",
+         "JOR0130",
+         "COM0136",
+         "JOR0177"
+      ],
+      "pre_requisitos": [
+         "JOR0078"
+      ]
+   },
+   {
+      "codigo": "JOR0023",
+      "nome": "TEORIAS DO JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0175"
+      ],
+      "pre_requisitos": [
+         "JOR0080"
+      ]
+   },
+   {
+      "codigo": "JOR0141",
+      "nome": "TEXTO JORNALÍSTICO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0061",
+         "JOR0072",
+         "JOR0073",
+         "JOR0142",
+         "JOR0167"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0107",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0182"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0109",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0183"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0114",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 5",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0116",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO 6",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "JOR0185"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "JOR0074",
+      "nome": "TÓPICOS ESPECIAIS EM ESTÉTICA E CULTURA DE MASSA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0252"
+      ],
+      "pre_requisitos": [
+         "FAC0016"
+      ]
+   },
+   {
+      "codigo": "JOR0007",
+      "nome": "WEBDESING EM JORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0171"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0080"
+      ]
+   },
+   {
+      "codigo": "JOR0028",
+      "nome": "WEBDESING EM JORNALISMO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0028",
+         "JOR0215"
+      ],
+      "pre_requisitos": [
+         "JOR0028"
+      ]
+   },
+   {
+      "codigo": "JOR0009",
+      "nome": "WEBJORNALISMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0172"
+      ],
+      "pre_requisitos": [
+         "JOR0005",
+         "JOR0080"
+      ]
+   }
+]

@@ -1,0 +1,431 @@
+[
+   {
+      "codigo": "COM0152",
+      "nome": "ASSESSORIA E CONSULTORIA EM COMUNICAÇÃO",
+      "carga_horaria": 180,
+      "eh_requisito_de": [
+         "COM0193"
+      ],
+      "pre_requisitos": [
+         "COM0138 & COM0146 & COM0147"
+      ]
+   },
+   {
+      "codigo": "COM0151",
+      "nome": "AVALIAÇÃO EM PROJETOS DE COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0179"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0155",
+      "nome": "COMUNICAÇÃO CULTURA E CONSUMO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "FAC0058",
+         "COM0234"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0195",
+      "nome": "COMUNICAÇÃO, DEMOCRACIA E ORGANIZAÇÕES",
+      "carga_horaria": 60,
+      "eh_requisito_de": [],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0144",
+      "nome": "CRIAÇÃO EM COMUNICAÇÃO E PUBLICIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0175"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0127",
+      "nome": "ÉTICA, LEGISLAÇÃO E RESPONSABILIDADE SOCIAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0161"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0006",
+      "nome": "EXTENSÃO EM COMUNICAÇÃO 1",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "COM0158"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0007",
+      "nome": "EXTENSÃO EM COMUNICAÇÃO 2",
+      "carga_horaria": 90,
+      "eh_requisito_de": [
+         "COM0159"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0148",
+      "nome": "FORMATAÇÃO E GERENCIAMENTO DE PROJETOS EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0192"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0139",
+      "nome": "GESTÃO EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0170"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0150",
+      "nome": "GESTÃO ESTRATÉGICA PARA A SOCIEDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0178"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0142",
+      "nome": "INSTRUMENTO DA COMUNICAÇÃO ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0173"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0005",
+      "nome": "INTERNET E POLÍTICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0197"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0128",
+      "nome": "INTRODUÇÃO AO MARKETING",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0162"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0131",
+      "nome": "INTRODUÇÃO AO PLANEJAMENTO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0134",
+         "COM0164"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0130",
+      "nome": "INTRODUÇÃO AS TEORIAS DA COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0065",
+         "JOR0083",
+         "JOR0089",
+         "JOR0095",
+         "COM0133",
+         "COM0136",
+         "COM0187"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0156",
+      "nome": "LINGUAGEM E ESTÉTICA FOTOGRÁFICA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0235"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0129",
+      "nome": "LINGUAGENS DA COMUNICAÇÃO 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0105",
+         "COM0135",
+         "COM0163"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0132",
+      "nome": "LINGUAGENS DA COMUNICAÇÃO 2",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0165"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0133",
+      "nome": "METODOLOGIA DE PESQUISA EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0188"
+      ],
+      "pre_requisitos": [
+         "COM0130"
+      ]
+   },
+   {
+      "codigo": "COM0004",
+      "nome": "MÍDIA, CULTURA E SUBJETIVIDADE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0196"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0146",
+      "nome": "PESQUISA EM OPINIÃO E MERCADO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0191"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0143",
+      "nome": "PLANEJAMENTO E GESTÃO EM MARKETING",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "DAP0001",
+         "COM0174"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0147",
+      "nome": "PLANEJAMENTO E GESTÃO EM ORG PÚBLICAS, PRIVADAS E DO TERCEIRO SETOR",
+      "carga_horaria": 120,
+      "eh_requisito_de": [
+         "COM0153",
+         "COM0176"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0149",
+      "nome": "PLANEJAMENTO E GESTÃO EM WEB",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0177"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0134",
+      "nome": "PLANEJAMENTO EM COMUNICAÇÃO",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0189"
+      ],
+      "pre_requisitos": [
+         "COM0131",
+         "DAP0126"
+      ]
+   },
+   {
+      "codigo": "COM0138",
+      "nome": "PLANEJAMENTO GRÁFICO, VISUAL E WEB",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0133",
+         "COM0169"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0140",
+      "nome": "POLÍTICAS DE COMUNICAÇÃO, SOCIEDADE E CIDADANIA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0171"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0153",
+      "nome": "PRÉ-PROJETO DE TCC",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0154",
+         "FAC0061",
+         "FAC0154",
+         "FAC0062",
+         "COM0180"
+      ],
+      "pre_requisitos": [
+         "COM0147"
+      ]
+   },
+   {
+      "codigo": "COM0135",
+      "nome": "PRODUÇÃO E EDIÇÃO DE IMAGEM E SOM",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0166"
+      ],
+      "pre_requisitos": [
+         "COM0129"
+      ]
+   },
+   {
+      "codigo": "COM0145",
+      "nome": "ROTEIRO, PRODUÇÃO E DIREÇÃO PARA WEB, VÍDEO E CINEMA",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0190"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0141",
+      "nome": "TÉCNICAS DE JORNALISMO EM RÁDIO E TV",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0172"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0137",
+      "nome": "TÉCNICAS DE JORNALISMO IMPRESSO E ON LINE",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "JOR0070",
+         "JOR0137",
+         "COM0168"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0136",
+      "nome": "TEORIAS DA COMUNICAÇÃO ORGANIZACIONAL",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0167"
+      ],
+      "pre_requisitos": [
+         "COM0130",
+         "JOR0045"
+      ]
+   },
+   {
+      "codigo": "COM0157",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 1",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0181"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0017",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 10",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0205"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0002",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 3",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0182"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0001",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 4",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0194"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0009",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 5",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0183"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0010",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 6",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0184"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0012",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 7",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0185"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0014",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 8",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0186"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0016",
+      "nome": "TÓPICOS ESPECIAIS EM COMUNICAÇÃO ORGANIZACIONAL 9",
+      "carga_horaria": 60,
+      "eh_requisito_de": [
+         "COM0160"
+      ],
+      "pre_requisitos": []
+   },
+   {
+      "codigo": "COM0154",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+      "carga_horaria": 150,
+      "eh_requisito_de": [
+         "COM0233"
+      ],
+      "pre_requisitos": [
+         "COM0153"
+      ]
+   }
+]

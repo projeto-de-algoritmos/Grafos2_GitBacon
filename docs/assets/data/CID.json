@@ -1,0 +1,11 @@
+[
+   {
+      "codigo": "CID0031",
+      "nome": "PALEOGRAFIA",
+      "carga_horaria": 30,
+      "eh_requisito_de": [
+         "CID0125"
+      ],
+      "pre_requisitos": []
+   }
+]
