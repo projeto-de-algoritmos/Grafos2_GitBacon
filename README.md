@@ -12,7 +12,10 @@
 
 ## Sobre
 
-Esse projeto visa encontrar o caminho mais barato até uma matéria da UnB, onde o custo é determinado a partir do número de créditos da matéria.
+O SIGAARush foi desenvolvido com o objetivo de auxiliar os estudantes da Universidade de Brasília a descobrirem a forma mais rápida de cursar uma disciplina desejada.Para isso foi utilizando o algoritmo de Dijkstra no qual o fluxo de disciplinas foi representado por um grafo direcionado com pesos nas arestas, onde os nós são as disciplinas e as arestas a quantidade de horas necessárias para cursar uma disciplina.
+
+
+Os dados utilizados no projeto foram obtidos através da técnica de Web scraping realizada no sítio eletrônico do [SIGAA](https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf?aba=p-ensino)
 
 ## Screenshots
 
@@ -25,14 +28,16 @@ Figura 1 - Tela Inicial.
 </center>
 
 ![](./assets/busca1.png)
-![](./assets/resultado1.png)
 
 <center> Figura 2 - Exemplo de Busca.</center>
 
 ![](./assets/busca2.png)
-![](./assets/resultado2.png)
 
 <center> Figura 3 - Exemplo de Busca.</center>
+
+![](./assets/informacoes.png)
+
+<center> Figura 4 - Aba de informações.</center>
 
 ## Instalação
 
@@ -81,4 +86,7 @@ A busca por requisitos simultâneos (por exemplo: FAC -> PED1 & TED1) não foi i
 
 ## Referências
 
-[1] Tracing the Path in DFS, BFS, and Dijkstra’s Algorithm - Baeldung. Disponível no [link]&#40;<https://www.baeldung.com/cs/dfs-vs-bfs-vs-dijkstra&#41>;, acesso em 20/04/2023.
+[1] Tracing the Path in DFS, BFS, and Dijkstra’s Algorithm - Baeldung. Disponível no [link](https://www.baeldung.com/cs/dfs-vs-bfs-vs-dijkstra&#41), acesso em 20/04/2023.
+[2] Algoritmo de Dijkstra para caminho barato num grafo com custos positivos. Ime.usp.br. Disponível [link](https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/dijkstra.html). Acesso em: 12/05/2023.
+
+‌
