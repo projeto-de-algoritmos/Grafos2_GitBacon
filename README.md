@@ -16,15 +16,21 @@ Esse projeto visa encontrar o caminho mais barato até uma matéria da UnB, onde
 
 ## Screenshots
 
-![Figura 1 - Tela inicial.](./assets/tela-inicial.png)
+<center>
 
-<center> Figura 1 - Tela Inicial.</center>
+![](./assets/tela-inicial.png)
 
-![Figura 2 - Busca em andamento.](./assets/busca1.png)
+Figura 1 - Tela Inicial.
+
+</center>
+
+![](./assets/busca1.png)
+![](./assets/resultado1.png)
 
 <center> Figura 2 - Exemplo de Busca.</center>
 
-![Figura 3 - Busca em andamento.](./assets/busca2.png)
+![](./assets/busca2.png)
+![](./assets/resultado2.png)
 
 <center> Figura 3 - Exemplo de Busca.</center>
 
