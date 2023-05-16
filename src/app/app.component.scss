@@ -23,3 +23,17 @@ mat-drawer-container {
   pointer-events: none;
   touch-action: none;
 }
+
+mat-toolbar {
+  min-height: 10vh;
+}
+.logo-image {
+  padding-top: 1vw;
+  padding-bottom: 1dvw;
+  max-width: 16vw;
+}
+
+.logo-image-nav {
+  padding-top: 5px;
+  max-width: 4vw;
+}
